@@ -1,0 +1,95 @@
+       2227	Autovía del Mediterráneo
+       2178	Calle Real
+       1995	Calle Mayor
+       1710	Plaza Mayor
+       1470	Plaza de España
+       1416	Carrer Major
+       1394	Santander
+       1377	Mercadona
+       1312	Calle Nueva
+       1295	Plaza de la Constitución
+       1206	Calle Iglesia
+       1189	REPSOL
+       1125	BBVA
+       1092	Pista Deportiva
+       1092	Autovía del Cantábrico
+       1080	Autovía Ruta de la Plata
+       1069	La Caixa
+       1068	Avenida de la Constitución
+        932	Autovía Mudéjar
+        909	Autopista del Mediterráneo
+        904	Autovía del Este
+        873	Calle Cervantes
+        867	Calle Ramón y Cajal
+        860	Ayuntamiento
+        844	Calle de la Iglesia
+        840	Repsol
+        834	La Vega
+        802	La Dehesa
+        799	Avenida de Andalucía
+        779	Plaza de la Iglesia
+        769	Piscina Municipal
+        768	CEPSA
+        743	Los Llanos
+        731	Cementerio
+        730	Calle San Juan
+        718	Carretera Madrid a A Coruña
+        702	Bankia
+        695	Autovía del Sur
+        676	Avenida de Madrid
+        676	Autovía del Noroeste
+        657	Avenida de España
+        655	La Solana
+        654	Calle Calvario
+        627	Calle San José
+        622	Calle San Roque
+        614	AVE
+        612	Autopista de la Mediterrània
+        611	Buzón de Correos
+        610	Calle Antonio Machado
+        608	Correos
+        607	Carrer Nou
+        604	Farmacia
+        603	Plaça Major
+        597	Autovía del Nordeste
+        588	Carretera de Gijón a Sevilla
+        582	Calle San Antonio
+        580	Calle Alta
+        575	Dia
+        575	Carretera Santander - Vinaroz
+        569	Calle Eras
+        566	Centro de Salud
+        560	Calle San Isidro
+        558	Autovía de Andalucía
+        556	Autovía del Norte
+        547	Carretera de Madrid
+        534	Guardia Civil
+        523	Y Vasca/Euskal Y
+        521	Calle San Pedro
+        521	Calle Fuente
+        520	Calle Sevilla
+        504	Las Viñas
+        504	Autoestrada do Atlántico
+        498	Avenida de Europa
+        495	Calle de la Fuente
+        492	Línea de alta velocidad Madrid-Zaragoza-Barcelona-Frontera
+        492	El Carrascal
+        488	La Cañada
+        482	El Prado
+        482	Andana
+        481	Calle Federico García Lorca
+        473	El Monte
+        473	Calle Doctor Fleming
+        470	Parquímetro
+        469	Cementiri
+        468	Calle Velázquez
+        468	Calle Granada
+        462	Calle Juan Ramón Jiménez
+        460	Autovia del Nord-est
+        457	Calle Santa Ana
+        456	Calle San Francisco
+        454	Parque Infantil
+        454	Calle Madrid
+        453	Eix Transversal
+        448	Calle Hernán Cortés
+        445	Plaza de Toros

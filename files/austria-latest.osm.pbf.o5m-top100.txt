@@ -1,0 +1,98 @@
+       3561	Hauptstraße
+       2581	Süd Autobahn
+       1840	Wiener Straße
+       1788	Bahnhofstraße
+       1403	Tauern Autobahn
+       1316	Dorfstraße
+       1303	Westbahn
+       1285	Westautobahn
+       1279	Rudolfsbahn
+       1155	Südbahn
+       1155	Pyhrn Autobahn
+       1115	Billa
+       1104	Hauptplatz
+       1035	Salzburg-Tiroler-Bahn
+        939	Inntal Autobahn
+        937	Spar
+        922	Mühlbach
+        878	Ort
+        841	Feldgasse
+        823	Schulstraße
+        749	Kirchengasse
+        732	Bahnstraße
+        729	Schulgasse
+        717	Linzer Straße
+        707	Semmering-Schnellstraße
+        706	Dorf
+        671	Tiroler Straße
+        637	Hofer
+        623	Kapelle
+        608	Raiffeisenbank
+        594	Bundesstraße
+        588	Kirchenplatz
+        580	Salzburger Straße
+        558	Neue Westbahn
+        524	Volksschule
+        522	Grazer Straße
+        513	Drautalbahn
+        511	1
+        505	Salzkammergutbahn
+        498	Waldweg
+        495	Rheintal/Walgau Autobahn
+        485	Wiesenweg
+        476	Berggasse
+        472	Marktplatz
+        472	Arlbergbahn
+        464	Bipa
+        441	Gemeindeamt
+        439	Mühlgasse
+        427	Franz-Josefs-Bahn
+        425	Sonnenweg
+        424	Mitterweg
+        421	Bergstraße
+        416	Kindergarten
+        413	Seestraße
+        412	Vorarlbergbahn
+        409	Birkenweg
+        407	Ostautobahn
+        401	Sportplatzstraße
+        399	Triester Straße
+        391	Bachgasse
+        389	2
+        387	Römerweg
+        385	Friedhof
+        384	Gartengasse
+        381	Innviertler Straße
+        378	Pyhrnpass Straße
+        375	Kärntner Straße
+        374	Tauernbahn
+        370	Kriegerdenkmal
+        369	Innkreis Autobahn
+        362	Sparkasse
+        354	Lindenweg
+        354	Landstraße
+        348	Kapellenweg
+        346	Passauer Bahn
+        345	Markt
+        339	Römerstraße
+        336	Industriestraße
+        334	Au
+        332	Gartenstraße
+        331	Badgasse
+        326	Laaer Ostbahn
+        326	Austraße
+        324	Mühlweg
+        324	Bachweg
+        322	Kellergasse
+        315	Tullner Straße
+        314	Höhenstraße
+        313	Eichenweg
+        312	Waldstraße
+        312	Panoramaweg
+        310	Auweg
+        304	Waldgasse
+        302	Steinbach
+        298	Marktstraße
+        294	Lagerhaus
+        293	Gewerbestraße
+        290	Gartenweg

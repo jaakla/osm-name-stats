@@ -1,0 +1,100 @@
+        482	Konzum
+        276	Tisak
+        199	Zagrebačka ulica
+        196	Zagrebačka
+        186	Ulica Matije Gupca
+        185	Jadranska magistrala
+        184	Studenac
+        183	PBZ
+        178	Ulica Vladimira Nazora
+        174	Matije Gupca
+        165	Vladimira Nazora
+        149	Tovarnik – Novska
+        146	Kralja Tomislava
+        144	Ulica Stjepana Radića
+        130	Ulica Ljudevita Gaja
+        124	Stjepana Radića
+        122	Slavonska avenija
+        120	Ulica kralja Tomislava
+        116	Ulica Ante Starčevića
+        116	Parenzana
+        110	Tommy
+        110	Kolodvorska ulica
+        110	Hrvatska poštanska banka
+        109	Vukovarska ulica
+        108	Zagrebačka cesta
+        107	ZABA
+        104	Ulica kneza Branimira
+        103	Ulica Antuna Mihanovića
+        100	Ivana Pavla II
+         99	Ulica kralja Zvonimira
+         99	Istarska
+         98	Zagrebačka banka
+         96	Ulica Nikole Tesle
+         95	Vukovarska
+         95	Lidl
+         94	Zagrebačka avenija
+         94	Erste
+         92	Spar
+         92	Ljudevita Gaja
+         91	Prehrana
+         89	Novska – Zagreb
+         88	Ulica Augusta Šenoe
+         88	Kolodvorska
+         88	Ante Starčevića
+         86	Ulica grada Vukovara
+         86	Ulica bana Josipa Jelačića
+         85	granica BiH-Hrvatska
+         85	Zagreb – Savski Marof
+         85	Plodine
+         85	Gradina
+         83	Mlin i pekare
+         83	Braće Radić
+         82	Selska cesta
+         82	Savska cesta
+         81	Ulica Ivana Gundulića
+         78	Splitska banka
+         78	Dubravica
+         78	Braće Radića
+         77	Mlinar
+         76	Ulica Josipa Jurja Strossmayera
+         75	Ljekarna
+         74	Kralja Zvonimira
+         72	Ulica kneza Trpimira
+         72	Riva
+         71	Cerovac Vukmanićki
+         71	Border SI-HR
+         70	Ulica Tina Ujevića
+         70	Trg kralja Tomislava
+         67	Vinogradska
+         65	Ulica Antuna Gustava Matoša
+         64	Školska
+         64	Ulica Ivana Gorana Kovačića
+         64	Splitska
+         64	Kapelica
+         63	Školska ulica
+         62	Vinogradska ulica
+         62	Osječka ulica
+         61	Augusta Šenoe
+         60	Tokić
+         60	Prilaz Većeslava Holjevca
+         60	Ivana Gorana Kovačića
+         59	Ulica Miroslava Krleže
+         58	Radnička ulica
+         58	Ilica
+         58	HPB
+         57	Bana Josipa Jelačića
+         56	Sveti Urban
+         56	Crodux
+         56	Avenija Većeslava Holjevca
+         54	Ulica Petra Preradovića
+         54	Peroj
+         54	(Gyekenyes) – Državna granica – Botovo – Koprivnica 
+         53	Ulica braće Radić
+         53	Radnička cesta
+         53	HR,HU
+         53	Betiga
+         52	Nikole Tesle
+         52	Ivana Gundulića
+         52	DM
+         52	Aleja grada Bologne

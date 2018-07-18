@@ -1,0 +1,98 @@
+       1617	Biserica
+       1463	Bloc
+       1002	Biserică
+        620	Cimitir
+        463	sc.1
+        455	Strada Mihai Eminescu
+        452	sc.2
+        428	Strada Gării
+        415	Strada Tudor Vladimirescu
+        390	Strada Principală
+        368	Strada Ștefan cel Mare
+        360	Parcare
+        351	Strada Avram Iancu
+        346	Strada Nicolae Bălcescu
+        342	sc.A
+        340	sc.B
+        334	Strada Unirii
+        331	Strada Libertății
+        328	BRD
+        318	Petrom
+        295	Strada Florilor
+        292	Strada Gheorghe Doja
+        290	Strada Primăverii
+        289	Calea București
+        284	Strada Viilor
+        279	Dig
+        275	Strada Morii
+        272	BCR
+        271	Garaj
+        269	Strada Republicii
+        252	Strada Decebal
+        245	Strada Vasile Alecsandri
+        244	Profi
+        235	Strada Trandafirilor
+        234	Strada Ion Creangă
+        234	Strada 1 Mai
+        233	Strada Independenței
+        232	Strada Victoriei
+        229	Bulevardul Republicii
+        227	Lukoil
+        221	Strada Mihai Viteazul
+        220	sc.3
+        215	Strada George Coșbuc
+        213	Strada Cuza Vodă
+        213	Strada 1 Decembrie 1918
+        212	Strada Câmpului
+        210	Strada Traian
+        209	1
+        208	Lidl
+        207	Strada Cloșca
+        207	Strada Bisericii
+        205	Strada Tineretului
+        204	Strada Școlii
+        203	Strada Eroilor
+        201	2
+        199	Strada Oituz
+        198	Strada Aurel Vlaicu
+        198	Biserica Ortodoxă
+        197	Strada Mihail Kogălniceanu
+        194	Strada Mărășești
+        192	Strada Zorilor
+        189	Banca Transilvania
+        188	Strada Stadionului
+        187	STALP_ELECTRIC_BETON
+        185	Strada Crișan
+        184	Strada Nicolae Iorga
+        184	Poliția
+        183	Farmacie
+        181	Strada Alexandru Ioan Cuza
+        178	Strada Crinului
+        178	4
+        178	3
+        177	Strada Liliacului
+        176	Autostrada Transilvania
+        175	Strada Horea
+        174	6
+        172	Strada Nicolae Titulescu
+        172	5
+        171	Strada Teilor
+        171	Magazin Mixt
+        167	biserica
+        167	Raiffeisen Bank
+        166	Șoseaua de Centură
+        162	Autostrada Soarelui
+        161	Strada Ion Luca Caragiale
+        161	Bl. 1
+        160	Bulevardul Unirii
+        159	Transfăgărășan
+        158	Strada Rozelor
+        157	Strada Păcii
+        156	7
+        152	sc.C
+        150	Rompetrol
+        150	CEC Bank
+        148	Strada Carpați
+        146	Bl. 2
+        145	8
+        144	Mega Image

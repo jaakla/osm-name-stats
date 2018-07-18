@@ -1,0 +1,100 @@
+         54	Carretera General 3
+         34	Port d'Envalira
+         19	carretera General 1
+         17	France - Andorra
+         15	Riu Gran Valira
+         14	Avinguda del Consell General
+         13	Lines L6-L5
+         12	Avinguda del Ravell
+         11	Riu del Cubil
+         11	Carretera de Fontaneda
+         11	Cami Ral
+         10	Valira d'Orient
+         10	Avinguda de Tarragona
+          9	France - España
+          9	España - Andorra
+          9	Baixada del Molí
+          9	Avinguda Meritxell
+          8	Gala
+          8	Carretera de la Comella
+          8	Carretera Secundaria de la Rabassa
+          8	Avinguda Sant Antoni
+          7	la Valira
+          7	Riu d'Arinsal
+          7	Font
+          7	Carretera dels Cortals d'Encamp
+          7	Carretera de Beixalis
+          7	Carrer de la Constituciò
+          7	Carrer Major
+          7	Avinguda Consell d'Europa
+          6	la Callisa
+          6	Valira del Nord
+          6	Valira
+          6	Riu de les Solanelles
+          6	Radar
+          6	Carretera dels Vilars
+          6	Carretera d'Engolasters
+          6	Avinguda Prat de la Creu
+          6	Avinguda Carlemany
+          5	sender de l'Esquirol
+          5	la Carrera Nova
+          5	avinguda Rocafort
+          5	Vial de la Uniò
+          5	Termes de Tarteres
+          5	Riu de Segudet
+          5	Riu de Comallempla
+          5	Riu d'Incles
+          5	Pont de Paris
+          5	Júlia
+          5	GRP1
+          5	GR-11
+          5	Cepsa
+          5	Carretera de Montaup
+          5	Canal de Ransol a Engolasters
+          5	Cami del Barranc de la font del Mosquit
+          5	Avinguda de les Escoles
+          5	Avinguda de Joan Martí
+          5	Avinguda Fiter i Rossell
+          4	la Serra
+          4	Tobotronc
+          4	Pista de Sorteny
+          4	L'Ariège
+          4	Circ de Tristaina
+          4	Carretera de les Riberaigües
+          4	Carretera de la Rabassa
+          4	Carretera de la Creu Blanca
+          4	Carretera de l'Aldosa
+          4	Carretera d'Arinsal
+          4	Carretera Sant Cristofol
+          4	Carrer dels Canals
+          4	Carrer de Can Diunange
+          4	Carrer d'Engordany
+          4	Carrer Francesc Carat
+          4	Canillo
+          4	Cami de les Molleres
+          4	Cami de Santa Bàrbara
+          4	Cami Superior
+          4	BP
+          4	Avinguda del Fener
+          4	Avinguda de Salou
+          4	Avinguda de François Mitterrand
+          3	la Coma
+          3	el Runer
+          3	Total
+          3	Telecabina La Massana
+          3	Santa Coloma
+          3	Riu de les Portelles
+          3	Riu de la Coma
+          3	Riu d'Ensagents
+          3	Riu d'Enclar
+          3	Repsol
+          3	Rambla Molines
+          3	Quars
+          3	Port Negre
+          3	Pizzeria Angelo
+          3	Naturlandia
+          3	McDonald's
+          3	Llorts
+          3	Line L6
+          3	Les Fontetes
+          3	LA SERRA

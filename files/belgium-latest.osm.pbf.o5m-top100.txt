@@ -1,0 +1,100 @@
+       1008	Stationsstraat
+        911	Molenstraat
+        891	Kerkstraat
+        741	Rijksweg
+        663	Ringlaan
+        593	Nieuwstraat
+        585	Dorpsstraat
+        583	Brusselsesteenweg
+        512	Mechelsesteenweg
+        504	Antwerpsesteenweg
+        496	Groenstraat
+        491	Kapelstraat
+        485	Leuvensesteenweg
+        470	Veldstraat
+        463	Bosstraat
+        461	Kasteelstraat
+        454	Schoolstraat
+        454	Molenbeek
+        452	Rue du Moulin
+        447	Grote Baan
+        447	Europalaan
+        426	Broekstraat
+        421	Hoogstraat
+        394	Kloosterstraat
+        385	Markt
+        384	Bergstraat
+        383	Zandstraat
+        382	Rue de la Station
+        348	Turnhoutsebaan
+        334	BNP Paribas Fortis
+        334	Aldi
+        330	Rue du Centre
+        327	Brugsesteenweg
+        324	Kruisstraat
+        323	Rue de l'Église
+        318	Beekstraat
+        311	Steenweg
+        309	Belfius
+        308	ING
+        306	Gentsesteenweg
+        303	Chaussée de Bruxelles
+        303	Autoroute de Wallonie
+        302	Lindestraat
+        297	KBC
+        294	Heidestraat
+        290	Staatsbaan
+        283	Langestraat
+        282	Rue de la Gare
+        282	Liersesteenweg
+        281	Brugstraat
+        274	Parklaan
+        270	Koningin Astridlaan
+        269	Spoorwegstraat
+        267	France - Belgique / België / Belgien
+        266	Stationsplein
+        259	Pastorijstraat
+        258	Kruidvat
+        256	Tiensesteenweg
+        252	Rue de la Chapelle
+        250	Grote Steenweg
+        249	Luikersteenweg
+        247	Lidl
+        247	Kasteeldreef
+        247	Dorp
+        245	Vaartstraat
+        242	Rue du Village
+        241	Kapellestraat
+        238	Kerkhofstraat
+        235	Delhaize
+        234	Koning Boudewijnlaan
+        234	Kerkplein
+        232	Bredabaan
+        231	Grote Markt
+        228	Beukenlaan
+        223	Aarschotsesteenweg
+        216	Waterstraat
+        216	Rue du Château
+        215	Sint-Truidersteenweg
+        213	Koninklijke Baan
+        212	Haachtsesteenweg
+        210	Oude Baan
+        209	Ninoofsesteenweg
+        207	Rue des Combattants
+        204	Colruyt
+        202	Rue Neuve
+        202	Berkenlaan
+        199	Oudenaardsesteenweg
+        198	Expresweg
+        197	Neerstraat
+        197	Kanaalstraat
+        197	Heirbaan
+        197	Chaussée de Namur
+        196	Rue Haute
+        196	Driesstraat
+        194	Rue du Pont
+        191	Grensstraat
+        191	Dorpstraat
+        191	Diestersteenweg
+        189	Nieuwe Steenweg
+        187	Kortrijksesteenweg

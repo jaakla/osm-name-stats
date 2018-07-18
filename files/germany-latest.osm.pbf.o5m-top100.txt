@@ -1,0 +1,91 @@
+      35677	Hauptstraße
+      21530	Bahnhofstraße
+      20620	Dorfstraße
+      11412	Schulstraße
+       9561	Bergstraße
+       9189	Gartenstraße
+       7786	Lindenstraße
+       7072	Ringstraße
+       6960	Kirchstraße
+       6632	Waldstraße
+       5170	Birkenweg
+       5007	Sparkasse
+       4885	Berliner Straße
+       4831	Schillerstraße
+       4651	Talstraße
+       4623	Goethestraße
+       4529	Jahnstraße
+       4460	Mühlenstraße
+       4210	Mühlenweg
+       4198	Industriestraße
+       3941	Feldstraße
+       3875	Wiesenstraße
+       3735	Wiesenweg
+       3621	Bachstraße
+       3604	Schloßstraße
+       3539	Marktplatz
+       3496	Rathaus
+       3436	Friedhofstraße
+       3431	Netto
+       3357	Brunnenstraße
+       3352	Amselweg
+       3331	Burgstraße
+       3280	Am Bahnhof
+       3275	Lange Straße
+       3240	Kirchweg
+       3229	Friedhof
+       3220	Poststraße
+       3199	Raiffeisenstraße
+       3190	Am Sportplatz
+       3152	Römerstraße
+       3102	Brückenstraße
+       3098	Buchenweg
+       3090	Lidl
+       3035	Mittelstraße
+       3028	Rosenstraße
+       3000	Kirchplatz
+       2996	Mühlbach
+       2984	Friedrich-Ebert-Straße
+       2946	Ahornweg
+       2923	Eichenweg
+       2904	Parkstraße
+       2870	Schützenstraße
+       2827	Mozartstraße
+       2780	Frankfurter Straße
+       2748	Blumenstraße
+       2712	Lindenweg
+       2703	Finkenweg
+       2701	Breslauer Straße
+       2666	Beethovenstraße
+       2657	Friedrichstraße
+       2638	Volksbank
+       2630	Erlenweg
+       2592	Mühlweg
+       2540	Waldweg
+       2540	Leipziger Straße
+       2526	Wilhelmstraße
+       2506	Neue Straße
+       2430	Seestraße
+       2402	Tannenweg
+       2391	Marktstraße
+       2352	Rosenweg
+       2344	Lessingstraße
+       2276	Bismarckstraße
+       2260	Rheinstraße
+       2257	Grüner Weg
+       2237	Nordstraße
+       2237	Königsberger Straße
+       2212	Danziger Straße
+       2208	Kirchgasse
+       2178	Lerchenweg
+       2177	Markt
+       2157	Gartenweg
+       2147	Drosselweg
+       2142	Bahnhof
+       2134	Uhlandstraße
+       2120	Edeka
+       2110	Schulweg
+       2066	Birkenstraße
+       2065	Ortsstraße
+       2036	Am Anger
+       2015	Kapellenweg

@@ -1,0 +1,100 @@
+         29	Bakkavegur
+         26	Bøgøta
+         24	Skálavegur
+         23	Kirkjuvegur
+         21	Skúlin
+         21	Geilin
+         19	Gerðisvegur
+         16	Skúlavegur
+         15	Sundalagsvegur
+         15	R.C. Effersøes gøta
+         15	Múlin
+         15	Jóannesar Paturssonar gøta
+         15	Dalsvegur
+         14	Ovari Vegur
+         14	Garðsvegur
+         13	Traðarvegur
+         13	Hvítanesvegur
+         12	Selatraðarvegur
+         12	Landavegur
+         12	Kirkjugøta
+         12	Heygavegur
+         12	Garðavegur
+         11	Tróndargøta
+         11	Toftavegur
+         11	Norðradalsvegur
+         11	Borðoy
+         10	við Sjógv
+         10	Velbastaðarvegur
+         10	Spógvavegur
+         10	Skarvanesvegur
+         10	Oyrarvegur
+         10	Nýggivegur
+         10	Hoyvíksvegur
+         10	Heiðavegur
+         10	Gerðavegur
+         10	Gamlivegur
+         10	Fløtuvegur
+         10	Flatnavegur
+          9	Undir Gráasteini
+          9	Traðagøta
+          9	Saksunarvegur
+          9	Niels Finsens gøta
+          9	Hornavegur
+          9	Havnargøta
+          9	Eiðisvegur
+          9	Børkugøta
+          9	Argjavegur
+          8	í Tungu
+          8	Válavegur
+          8	Tunguvegur
+          8	Tjarnarlág
+          8	Tindur
+          8	Nesvegur
+          8	Millum Gilja
+          8	Heiðriksmørk
+          8	Garðabrekka
+          8	Fjallið
+          8	Eggjarvegur
+          8	Bryggjan
+          7	Í Trøðum
+          7	Víkavegur
+          7	Velbastaðvegur
+          7	Undir Heygnum
+          7	Undir Fossum
+          7	Traðavegur
+          7	Toftanes
+          7	Svabosvegur
+          7	Sjógøta
+          7	Oyravegur
+          7	Norðari Ringvegur
+          7	Líðarvegur
+          7	Leitisvegur
+          7	Kráarvegur
+          7	Kráargøta
+          7	Knúkur
+          7	Heygsvegur
+          7	Glyvursvegur
+          7	Gerðisgøta
+          7	Frammi í Dal
+          7	Fjøruvegur
+          7	Eik
+          7	Berjabrekka
+          7	Bank Nordik
+          6	Áarvegur
+          6	Yviri við Strond
+          6	Við Myllutjørn
+          6	Vegurin Langi
+          6	Sundsvegur
+          6	Stoffalág
+          6	Steinatún
+          6	Sornhúsgøta
+          6	Skákið
+          6	Skraddaragøta
+          6	Rættargøta
+          6	Norðskálavegur
+          6	Nakkur
+          6	Mýrisnípuvegur
+          6	Mýravegur
+          6	Magn
+          6	Leynarvegur
