@@ -1,0 +1,100 @@
+        407	H
+        254	Tree
+        130	hut
+        111	HH
+         99	Maison
+         91	Hut
+         84	Lokichokio-Kapoeta
+         78	Tukul
+         65	A
+         50	النيل الأبيض
+         46	Juba-Kapoeta
+         44	h
+         44	Wau-Raja
+         42	house
+         39	Nahr al Jur
+         37	kraal
+         28	Tambura-Wau
+         24	River Gulnam
+         21	Wau-Gogrial
+         21	Bush
+         20	Kimatong-Chukudum
+         20	Casa
+         19	landuse=residential
+         19	Sti
+         19	South Sudan - Ethiopia
+         19	Raja-Malualkon
+         19	Juba-Mundri
+         17	Tree(s)
+         17	Border Sudan - South Sudan
+         17	Babanusa-Wau railway
+         16	Tukuls
+         15	b
+         15	Unknown
+         15	Old Juba-Terakeka
+         15	Mayendit-Shambe
+         15	Bahr al 'Arab
+         15	Abyei-Turalei
+         14	randal
+         14	House
+         14	2
+         13	T
+         13	Malakal-Wuntau__East
+         13	Magwi-Sirsiri
+         12	shrub
+         12	rendevall
+         12	UNDP
+         12	Somar Workshop
+         12	Nyamlell-South_Darfur
+         12	Boma-Pibor
+         12	Batiment
+         12	Awerial-Pakujiak
+         11	Torit-Pageri
+         11	Minkamman-Yirol
+         11	Likiberi-Sirsiri
+         11	Juba-Mangalla
+         11	Bahr al 'Arab ?
+         10	track
+         10	Thiet-Wun Chuei
+         10	Pibor
+         10	Malakal-Bentiu
+         10	Koch Primary Healthcare Centre
+         10	Kajo Keji-Yei
+         10	Hus
+         10	Bygning
+         10	Bentiu-Gogrial
+          9	tukul
+          9	block
+          9	Terakeka-Tindalo
+          9	Rumbek-Tonj
+          9	Residential Area
+          9	Midland Highway
+          9	Hama
+          9	Bor-Pibor
+          8	wall or fence
+          8	Yirol-Shambe
+          8	Yei River
+          8	Yambio-Tambura
+          8	Narus-Boma
+          8	Mvolo-Rumbek
+          8	Doleib_Hill-Malakal
+          7	s
+          7	Yabus
+          7	Unknown Hamlet
+          7	USAID Residences
+          7	RD Congo - South Sudan
+          7	Market
+          7	MSF Water point
+          7	Ibba
+          7	Gel
+          7	Forest
+          7	Building Features=Building
+          7	Ajackwac-Mayom
+          6	eventuell
+          6	Yei Road
+          6	Yei Maridi
+          6	Wau-Aweil
+          6	Village
+          6	USAID Offices
+          6	Terakeka-Minkamman
+          6	Skog

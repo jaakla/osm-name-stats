@@ -1,0 +1,100 @@
+       1477	The Church of Jesus Christ of Latter-day Saints
+        288	Union Pacific Railroad
+        273	Dwight D. Eisenhower Highway
+        192	North Main Street
+        173	South Main Street
+        169	Belt Route
+        168	Bangerter Highway
+        160	Main Street
+        158	East Center Street
+        157	Bonneville Shoreline Trail
+        153	Subway
+        150	West Center Street
+        150	1300 East
+        145	North 200 East
+        145	North 100 East
+        139	South 100 West
+        135	West 200 North
+        133	South 100 East
+        132	West 200 South
+        131	State Street
+        130	South 200 East
+        127	West 100 North
+        123	North 100 West
+        118	West 100 South
+        118	North 200 West
+        114	West 400 South
+        112	East 200 South
+        109	East 100 South
+        109	Chevron
+        108	North 400 West
+        108	East 100 North
+        107	South 200 West
+        107	North 300 East
+        107	Jordan River Parkway
+        104	East 300 South
+        102	East 200 North
+        100	East 300 North
+         99	West Main Street
+         99	West 300 North
+         99	North 300 West
+         99	Maverik
+         97	Redwood Road
+         96	McDonald's
+         95	South 300 West
+         94	South 400 East
+         94	7-Eleven
+         92	South 300 East
+         90	Westwater Creek
+         88	South 400 West
+         87	West 300 South
+         87	Virgin River
+         87	South 500 East
+         86	West 400 North
+         86	Veterans Memorial Highway
+         86	East Main Street
+         85	North 400 East
+         84	West 500 North
+         81	Wendy's
+         81	North 600 West
+         80	Dry Creek
+         79	Hooper Irrigation Canal
+         77	North 500 East
+         77	East 400 North
+         74	West 500 South
+         74	Wells Fargo
+         74	South 800 East
+         73	Sevier River
+         72	Center Street
+         71	East 400 South
+         71	2100 South
+         70	Frontage Road
+         69	South 500 West
+         69	North 500 West
+         68	East 500 North
+         66	700 East
+         65	Starbucks
+         64	Mill Creek
+         63	North 700 East
+         63	North 600 East
+         63	Murdock Canal Trail
+         61	South State Street
+         61	200 South
+         60	Skyline Drive
+         60	Beaver Creek
+         60	Arby's
+         60	300 West
+         58	East 500 South
+         57	West 600 North
+         57	West 1200 South
+         57	Bitter Creek
+         56	La Sal Creek
+         56	Box Elder Creek
+         55	West 600 South
+         55	Ruby Pipeline
+         55	East 600 South
+         54	Burger King
+         54	100 South
+         53	Highland Drive
+         52	South 600 West
+         52	Ogden River Parkway

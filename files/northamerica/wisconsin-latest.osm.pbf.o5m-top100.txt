@@ -1,0 +1,99 @@
+        774	Union Pacific Railroad
+        591	Main Street
+        418	Buffalo River
+        372	Wisconsin Central Railroad
+        343	Hay Creek
+        338	Wisconsin & Southern Railroad
+        317	Pine Creek
+        306	Canadian Pacific Railway
+        271	South Main Street
+        266	Kwik Trip
+        255	North Main Street
+        254	2nd Street
+        252	Oak Street
+        251	County Road A
+        247	River Road
+        244	Subway
+        242	County Road G
+        237	County Road D
+        233	Elm Street
+        229	Pine Street
+        228	West Main Street
+        228	County Road B
+        228	1st Street
+        225	3rd Street
+        221	McDonald's
+        220	BP
+        212	County Road M
+        211	County Road E
+        211	Burlington Northern Santa Fe R
+        209	Park Street
+        206	Church Street
+        204	North RiverWalk Way
+        204	County Road K
+        198	Waumandee Creek
+        197	Washington Street
+        195	County Road J
+        194	County Road N
+        194	County Road C
+        193	Beaver Creek
+        191	County Road F
+        191	4th Street
+        189	Fox Valley & Western Railroad
+        187	Willow River
+        185	Rush River
+        185	Great River Road
+        184	North Fork Eau Claire River
+        184	County Highway H
+        182	Maple Street
+        181	Canadian National Railway
+        180	Oak Leaf Trail
+        176	East Main Street
+        176	County Road O
+        176	County Line Road
+        175	County Highway N
+        173	Rocky Run
+        171	Rock Creek
+        170	County Highway A
+        166	Sunset Drive
+        165	Cemetery Road
+        164	County Highway C
+        163	West Wisconsin Avenue
+        163	North 6th Street
+        161	County Highway M
+        160	County Road H
+        158	Mill Street
+        156	Center Street
+        155	County Highway D
+        154	State Highway 35
+        151	Spring Creek
+        150	Water Street
+        149	Ice Age Trail
+        149	Big Rib River
+        149	Big Eau Pleine River
+        148	Little Eau Pleine River
+        147	Wisconsin Avenue
+        147	Division Street
+        146	North Fork Popple River
+        146	East-West Freeway
+        145	Meadow Lane
+        145	County Road Y
+        144	Culver's
+        144	10th Avenue
+        142	County Highway E
+        140	Walgreens
+        140	County Highway F
+        139	Superior Subdivision
+        138	State Highway 64
+        138	5th Street
+        137	Spring Street
+        136	North-South Freeway
+        136	County Highway P
+        135	North Street
+        134	Washington Avenue
+        134	Park Road
+        134	Cedar Street
+        133	County Highway B
+        132	Elk Creek
+        132	County Highway G
+        130	South Street

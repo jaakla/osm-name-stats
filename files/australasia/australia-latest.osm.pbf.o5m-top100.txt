@@ -1,0 +1,100 @@
+       2584	Princes Highway
+       1677	Pacific Highway
+       1541	High Street
+       1233	Pacific Motorway
+       1195	Bruce Highway
+       1025	George Street
+        910	Church Street
+        896	Victoria Street
+        878	Hume Highway
+        848	William Street
+        835	New England Highway
+        805	Woolworths
+        793	Main Street
+        787	King Street
+        783	Boundary Road
+        770	Queen Street
+        736	Station Street
+        672	Albert Street
+        668	Great Western Highway
+        661	North Eastern Standard Gauge Line
+        655	McDonald's
+        635	Elizabeth Street
+        617	Coles
+        603	North Coast Line
+        579	Subway
+        576	Coles Express
+        572	Charles Street
+        557	Stuart Highway
+        547	Bridge Street
+        518	Park Street
+        510	Short Street
+        507	Bass Highway
+        504	John Street
+        486	James Street
+        470	Smith Street
+        466	Victoria Road
+        464	Commonwealth Bank
+        456	South Street
+        450	Maroondah Highway
+        450	KFC
+        441	BP
+        439	Thomas Street
+        438	Sandy Creek
+        438	Hill Street
+        432	Midland Highway
+        432	Edward Street
+        430	Railway Street
+        425	Arthur Street
+        421	Murray Street
+        420	Mary Street
+        417	South Road
+        416	South Gippsland Highway
+        405	Caltex
+        399	Hume Freeway
+        396	Main Road
+        392	Wilson Street
+        392	Railway Parade
+        387	Young Street
+        386	IGA
+        385	Campbell Street
+        381	Main North Road
+        376	Warrego Highway
+        375	River Road
+        370	The Esplanade
+        363	North Street
+        362	Henry Street
+        360	Great Northern Highway
+        358	7-Eleven
+        355	Park Road
+        354	Stanley Street
+        352	Mitchell Street
+        343	Gordon Street
+        340	Princes Freeway
+        338	West Street
+        337	Cemetery Road
+        333	East Street
+        329	Newell Highway
+        328	Murray Valley Highway
+        325	Landsborough Highway
+        325	Bridge Road
+        322	Russell Street
+        322	Margaret Street
+        322	Esplanade
+        321	Scott Street
+        320	The Boulevard
+        317	Racecourse Road
+        317	Anzac Avenue
+        316	First Avenue
+        315	Bell Street
+        313	Woolworths Petrol
+        313	Beach Road
+        312	Moore Street
+        309	Bibbulmun Track
+        304	Kingdom Hall of Jehovah's Witnesses
+        301	Nepean Highway
+        300	Francis Street
+        299	Wellington Street
+        296	Great Eastern Highway
+        296	Collins Street
+        295	Western Freeway

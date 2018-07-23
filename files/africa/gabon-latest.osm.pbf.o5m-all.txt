@@ -1,0 +1,2079 @@
+          1	004
+          1	17 / 35
+          1	2AG
+          1	6e B.I.Ma
+          1	8e Region Militaire, 8e Compagnie
+          1	ARCEP
+          1	Abang Minko'o
+          4	Abanga
+          1	Abayak
+          1	Abela
+          2	Abongo
+          1	Aboulou
+          1	Abraca'delires
+          1	Academie Franco-Americaine De Management
+          1	Acalayong
+          1	Achouka
+          1	Acte Academy
+          1	Adidas
+          1	Adjou'ou
+          1	Administratif
+          1	Administration
+          1	Administration INSG
+          1	Aeroclub
+          1	African dreams
+          1	Afrijet
+          1	Afrijet Terminal 2
+          1	Agence Française de Developpement
+          1	Agence Mondia
+          1	Agence Nationale des Grands Travaux d'Infrstructures
+          2	Agence Nationale des Infrastructures Numériques et des Fr�
+          1	Agence Nationale des Parcs Nationaux
+          1	Agence Ultramex
+          2	Agences immobilières
+          1	Agir Pour une Jeunesse Autonome
+          2	Air France
+          2	Airtel
+          1	Akaé
+          1	Akebe Ville
+          1	Akiéni
+          1	Akok
+          1	Akonangui
+          1	Akonrossi
+          1	Akournam I
+          1	Akournam II
+          1	Akébé Bellevue
+          1	Akébé Plaine
+          1	Akébé-Kinguélé
+          1	Alembé
+          1	Alibandeng
+          1	Alliance
+          1	Almany Samory Touré
+          1	Aloume
+          1	Alénakirie
+          1	Ambam
+          1	Ambassade de Chine
+          1	Ambassade de France
+          2	Ambassade de Russie
+          1	Ambassade de la République du Congo
+          1	Ambassade de la République fédérale d'Allemagne
+          1	Ambassade de le joie
+          1	Ambassade du Mali
+          1	Ambassade du Maroc
+          1	Ambassade du Tchad
+          1	Ambassade du Togo
+          1	Ambilambani
+          1	Ambouraya impale Auguste
+          1	Ambowe
+          1	Amphe Theater
+          1	Amphi Géographie1 et Litaf
+          1	Amphi Préfabriqué
+          1	Amphithéatre
+          1	Amphithéâtre
+          1	Amphithéâtre Lettres Modernes
+          1	Ancien Combattant
+          1	Ancien Hôpital Paul Igamba
+          1	Ancien Phare
+          1	Ancien Pont
+          1	Anciene Sobraga
+          1	Andok Foula
+          1	André Minsta
+          1	Annexe de l'Hôtel de Ville de Port-Gentil
+          1	Antenne
+          1	Antenne Zain
+          1	Appart'Hotel Isis
+          1	Artificial island construction zone
+          1	Assemblée Nationale
+          1	Atelier
+          1	Atong
+          1	Atong Abe
+          1	Atong-Abe
+          1	Atsin-tchoss
+          1	Auberge du Cap Estarias
+          1	Auditorium
+          1	Auditorium de UOB
+          1	Augoula
+          1	Autogab vehicle parts
+          1	Aux Berges des 3 Rivieres
+          1	Avea
+          1	Avebe
+          1	Avenue Benoît Okoula Ougala
+          1	Avenue Catherine Mistoul Yenga
+          1	Avenue Coeur Immaculé de Marie
+          1	Avenue Des Bantus
+          1	Avenue Félix Houphouët Boigny
+          1	Avenue Félix Éboué
+          3	Avenue Général Leclerc
+          1	Avenue Jean Bosco Lemami Lowumi
+          1	Avenue Jean-Paul II
+          1	Avenue Metchoungou
+          2	Avenue Savorgnan de Brazza
+          1	Avenue Sophie Ntoutoume Emane
+          1	Avenue de Cointet
+          2	Avenue de la Balise
+          4	Avenue de la Mosquée
+          1	Avenue du Colonel Parant
+          3	Avenue du Grand Village
+          3	Avenue du Général de Gaulle
+          2	Avenue du Lieutenant de Vaisseau Serval
+         10	Avenue du Président Bongo
+          1	Avis
+          1	Awendje
+          1	Awoungou
+          2	Axa
+          1	Axelle
+          1	Ayeme
+          1	Aérodrome
+          1	Aérodrome / Débarcadère
+          1	Aérodrome / Gwedidi
+          1	Aérodrome M&P
+          2	Aérodrome Onal
+          1	Aérodrome check-in
+          1	Aérodrome de Moanda
+          1	Aéroport d'Akieni
+          1	Aéroport d'Oyem
+          1	Aéroport de Booué
+          1	Aéroport de Lastourville
+          1	Aéroport international M'Vengue El Hadj Omar Bongo Ondimba
+          1	Aéroport international de Port-Gentil
+          1	Aïna
+          1	BA GABON
+          1	BFEV
+          1	BGFI BANK
+          1	BGFI Bank
+          1	BGFI Banque
+          4	BICIG
+          1	Babili
+          1	Babimbé
+          2	Bac
+          1	Bac Traversée Onal Coucal
+          1	Baguette
+          1	Baie Des Tortues
+          1	Baie d'Halong
+          1	Bakoumba
+          1	Bakélé
+          1	Balance
+          1	Balise
+          1	Bambama
+          1	Bamboro
+          1	Bananas
+          1	Bananier
+          1	Banco
+          1	Bane ba Mukutu-Mudum
+          1	Banginga
+          1	Banque Gabonaise de Developement
+          1	Banque des Etats d'Afrique Centrale
+          1	Banque des États d'Afrique Centrale
+          1	Baobab du Sénégal
+          1	Bar
+          1	Bar Pizza House
+          1	Bar with a view
+          2	Baraka
+          1	Barakounda
+          1	Barrage de Grand Poubara
+          1	Barrage de Kinguélé
+          1	Barrage de Tchimbélé
+          2	Barrière
+          1	Barrière HTPG
+          1	Bas de Gue-Gue
+          1	Base Aérienne 02 de Mvengue
+          1	Base Logistique, Total Gabon
+          1	Base Navale de la Marine Nationale
+          1	Base Vie MP1
+          1	Base de Loisirs
+          1	Base vie
+          1	Base vie MP2
+          1	Base-vie
+          1	Batavea
+          1	BatiPlus
+          1	Batterie IV
+          1	Beach Club
+          1	Beau-Séjour
+          1	Bel-Air
+          1	Belle-Vue
+          1	Bengole
+          1	Bengoué
+          1	Bernabé
+          1	Bibassé
+          1	Bibliothèque Dom Bosco
+          1	Bibliothèque Universitaire
+          1	Bicig
+          1	Bifoun
+          1	Bigne
+          1	Bikele
+          1	Bilogogé
+          1	Biné
+          1	Birdy Art
+          1	Bissone
+          1	Bitam
+          1	Bitam Airport
+          1	Bitam-Centre Ecole Primaire
+          1	Bivouac11
+          1	Bizango-Rail
+          1	Bizoung
+          1	Bo Bebe
+          1	Boats Cogo-Acalayong
+          1	Boats Cogo-Cocobeach
+          1	Boats to Cocobeach & Acalayong
+          2	Boats to Cogo
+          1	Boats to Port Gentil
+          1	Bogato
+          1	Bokito
+          1	Bongo
+          1	Bongolo
+          1	Bongoville
+          1	Booué
+          1	Bord de mer
+          1	Bordamur
+          3	Border Cameroon - Gabon
+          1	Border Congo - Cameroon
+         38	Border Congo - Gabon
+          4	Border Gabon - Cameroon
+         11	Border Gabon - Congo
+         15	Border Gabon - Guinea Ecuatorial
+          1	Border Guinea Ecuatorial - Cameroon
+          1	Borne Mont Kouri
+          1	Boston Pizza
+          1	Boucherie Du Port
+          1	Bouenguidi
+          1	Boughoulou
+          1	Bougou
+          1	Boulangerie Patisserie Sogabi
+          1	Boulangerie Patisserie de la Balise
+         16	Boulevard Léon Mba
+          7	Boulevard Monseigneur Bessieux
+          3	Boulevard Rogombe Impolo Passol
+          4	Boulevard Triomphal Omar Bongo Ondimba
+          2	Boulevard de Nice
+          9	Boulevard de l'Indépendance
+          2	Boulevard du Gouverneur Chavannes
+          3	Boulevard du Gouverneur Pelieu
+         10	Boulevard du Président Léon M'ba
+         13	Boulevard du Président Léon Mba
+          1	Boulevard hotel
+          1	Boumango
+          1	Boumi
+          1	Bouniandjé
+          3	Boutique
+          1	Bunker (bâtiment multimédia inachevé)
+          1	Bureau COMISAV (OPRAG)
+          1	Bureau de Poste
+          1	Bureau de poste
+          1	Burkina Faso embassy
+          1	Bâtiment A
+          1	Bâtiment BB
+          1	Bâtiment OM
+          1	Bâtiment Principal
+          1	Bâtiment administratif
+          1	Bélinga
+          2	CECADO
+          1	CEDOC
+          2	CEEAC
+          1	CES Andre Gustave Anguilet
+          1	CES Avorbam
+          1	CES Ba Oumar
+          1	CES Bigman
+          1	CES Cap Esterias
+          2	CES Mabignath
+          1	CES Mikolongo
+          1	CES Ntoum
+          1	CES Public du Parc
+          1	CFAO Technology
+          1	CHU de Libreville
+          1	CIMA
+          1	CIS
+          1	CITE OLGA'O
+          2	CK2
+          1	CNAMGS
+          1	CNOU
+          1	CNSS
+          1	COMILOG
+          1	COMILOG Cableway
+          1	COMILOG Mbinda - Mont Belo
+          3	CP
+          1	Cabinet Fisc-Consult
+          1	Cabinet d'expertise GEE
+          1	Cadastre
+          1	Cafe Bakery Materiaux
+          1	Cafeteria Restaurant Burger Place
+          1	Caffé Lindo
+          1	Café Café M'bolo
+          1	Café Jacqueline
+          1	Café Ntic
+          1	Café du Wharf
+          1	Calao
+          2	Cale
+          1	Cameroun
+          1	Cameroun — Gabon
+          1	Camp RG01
+          1	Camp de Gaulle
+          1	Camp de Gendarmerie Colonel Toulekima
+          2	Camp forestier
+          1	Camp pêche de Sette Cama
+          1	Campus Numerique
+          1	Campus Numerique Francophone de Lireville
+          1	Campus UOB
+          1	Campus Universitaire International Albert Schweitzer
+          1	Canal Lasseni Duboze
+          1	Canal+Store Angondjé
+          1	Cap Lopez
+          1	Caroil
+          1	Carpe Diem
+          1	Carrefour Bgfi
+          1	Carrefour Boule Noire
+          1	Carrefour Chaley Clair
+          1	Carrefour Des Douanes
+          1	Carrefour Forasol
+          1	Carrefour Franck Nonda
+          1	Carrefour Hassan
+          1	Carrefour Jean-Marie Ogoula
+          2	Carrefour Leon Mba
+          1	Carrefour Louis Ogoula dit Eviva
+          1	Carrefour Makaya
+          1	Carrefour Nkembo
+          1	Carrefour Obame Eyeghe Pierre André
+          1	Carrefour Saint-Hilaire
+          1	Carrefour Sassec
+          1	Carrefour des Jeunes
+          1	Carrefour du Café du Wharf
+          1	Carrefour du Château
+          2	Carriere Lambarene
+          2	Carrière
+          2	Casino
+          1	Casino Croisette
+          1	Catedral de Ebebiyin
+          1	Cathédrale Notre Dame de L'Assomption
+          1	Cathédrale Saint-Hilaire
+          1	Cathédrale Saint-Hillaire
+          1	Cathédrale Saint-Jean l’Apôtre
+          1	Cathédrale Saint-Louis
+          1	Cathédrale Saint-Paul des Bois
+          1	Cathédrale Sainte Marie
+          2	Cecado
+          1	Cecado pk12
+          1	Celio
+          1	Central Heliconia Franceville
+          1	Centrale Thermique
+          1	Centre Affaires
+          1	Centre Communitaire de Peches Artisanale
+          1	Centre Culturel Lambert Ona Ovono
+          2	Centre Emeteur d'Ondes Courtes de Moyabi
+          1	Centre Gabon Oregon
+          1	Centre Hospitalier Regional Georges Rawiri
+          1	Centre Hospitalier Régional Amissa Bongo
+          1	Centre Hospitalier Régional Paul Moukambi
+          1	Centre Hospitalier Régional d'Oyem
+          1	Centre Hospitalier Régional de Mouila
+          1	Centre Hospitalier Régional de Port-Gentil
+          1	Centre Hospitalier Universitaire d'Angondjé
+          1	Centre Hospitalier Universitaire d’Owendo
+          1	Centre International de Recherches Médicales de Francevill
+          1	Centre Médico Social de Lastoursville
+          1	Centre SEEG Akournam
+          1	Centre affaires
+          1	Centre de Documentation et d'Information
+          1	Centre de Primatologie
+          1	Centre de Production M&P
+          1	Centre de Recherches Medicales de Lambarene
+          1	Centre de Santé Urbain de Port-Gentil
+          1	Centre médical
+          1	Centro Sur
+          1	Chaillu Mountains
+          1	Chantier CanalOlympia
+          1	Chateau d'eau SOTEGA
+          1	Chef d'Entreprise Français
+          1	Chez AKIM-SNOOP
+          1	Chez Alice
+          1	Chez Faubert
+          1	Chez Janot
+          1	Chez Jimmy
+          1	Chez Madame Mbaye
+          1	Chez Memene
+          1	Chez Parfait
+          1	Chez moustapha
+          1	Choua
+          1	Chu Fondation Jeanne Ebori
+          4	Church
+          1	Château D'Eau
+          2	Cimetière
+          1	Cimetière Albert Schweitzer
+          1	Cimetière OPT
+          1	Cimetière de Bac-Aviation
+          1	Cimetière de la Foire Municipale
+          1	Cinecline bar
+          1	Circuit 1
+          1	Circuit 2
+          1	Circuit 3
+          1	Circuit 4
+          1	Circuit 5
+          1	Cirque de Lékoni
+          2	Citibank
+          3	Cité
+          1	Cité Akosso
+          1	Cité Bordamur I
+          1	Cité Corà Wood Gabon
+          1	Cité Damas
+          1	Cité Mebiame
+          1	Cité Pompidou
+          1	Cité Rose
+          1	Cité SEEG
+          1	Cité de la démocratie
+          1	Cité des Cadres
+          1	CkDO
+          1	Clinique
+          1	Clinique Biyoghe
+          1	Clinique Chambrier
+          1	Clinique Mandji
+          1	Clinique Médicale de l'Ogooué
+          1	Clinique Union Médicale
+          1	Clinique du Litoral
+          1	Clinique du Littoral
+          1	Club Sogara
+          1	Club Vis Ta Vie
+          1	Cocobeach
+          2	Cocotiers
+          1	Cogo
+          1	Collège Notre Dame de Quaben
+          1	Collège Saint-Gabriel
+          1	Collège et Lycée Rapinda Walker
+          2	Comilog
+          1	Comilog CMM
+          1	Commercial
+          1	Commissariat d'Angondgé
+          1	Commissioner office
+          1	Communal School ''C'' de Mangui-Moulamba
+          1	Compagnie des Bois du Gabon
+          1	Complexe Babala
+          1	Complexe Métallurgique de Moanda
+          1	Complexe Scolaire L'équateur
+          1	Complexe Scolaire Michel Emmanuel
+          1	Complexe Scolaire sh
+          1	Computech Gabon
+          1	Concession TOTAL
+          1	Conférence Interafricaine des Marchés d’Assurances
+          1	Conga
+          1	Congo
+          1	Consulat de France
+          1	Consulat de Madagascar
+          1	Cordonnerie Évolutive
+          1	Corisco
+          1	Corisco International Airport
+          1	Corniche
+          1	Cosmos
+          1	Cotivindou
+          1	Cotton Club
+          2	Coucal
+          1	Cour Constitutionnelle
+          1	Cour Constitutionnelle du Gabon
+          1	Cours La Fontaine
+          2	Cours Pasteur
+          1	Couscous
+          1	Crique M'Piévé
+          1	Crystal Mountains
+          1	Crystal Mountains National Park
+          1	Cuvette
+          1	Cuvette-Ouest
+          1	Cyber Cafe
+          1	Cyberschool-Entrepreneuriat
+          1	CÈCADO
+          1	Cécado
+          1	D
+          1	D'ici et D'ailleurs
+          1	DPS
+          1	Daron - Quai Riviere
+          1	Davo
+          1	Debarcadere du Pompe
+          1	Denis
+          1	Derrière la Prison
+          1	Diban
+          1	Dibotsa
+          1	Dibouangui
+          1	Dienga
+          1	Diesel Gabon
+          1	Dighaba
+          1	Dighoudou
+          1	Dilemba
+          5	Dilo
+          1	Dinning Hall
+          1	Direction INSG
+          1	Direction Provinciale des Impôts
+          1	Direction des Impots
+          1	Diéla Vievi
+          1	Dja-et-Lobo
+          1	Djadidié
+          8	Djoua
+          1	Djouah
+          1	Djoum
+          2	Dola
+          1	Dolce Vita
+          1	Dollé
+          1	Domicile A
+          1	Domicile Alima Malonga
+          1	Domicile Blaise
+          2	Domicile Maman Alima
+          1	Domicile de Stephen
+          1	Don Bosco paroisse salesienne
+          2	Don Vincenzo
+          2	Donguila
+          1	Doubou Ou
+          1	Douengui
+          1	Dougandou
+          1	Doum
+          1	Doumanga
+          1	Dounguila
+          1	Dounvou
+          2	Doussala
+          1	Dousseoussou
+          1	Dr villeuneuve
+          1	Dufur du bapambu
+          1	Duponette
+          2	Débarcadère
+          1	Débarcadère Onal
+          1	Décanat de la FLSH
+          1	Décharge de Mindoubé
+          2	Déchetterie
+          1	Dépôt d'Hydrocarbures de Port-Gentil
+          1	Désaffecté
+          1	E.N.E.F.
+          1	E.N.E.F. Arboretum Raponda-Walker
+          1	EL RAPHA
+          1	EP Agoungou
+          1	EP Akebe II
+          1	EP Akebe i/A
+          1	EP Akébé I/A
+          1	EP Akébé I/B
+          2	EP Akébé II
+          1	EP Alenakiri
+          1	EP Angondje
+          1	EP Awendje
+          1	EP Bambouchine
+          1	EP Bas de Gue Gue
+          1	EP Bellevue III
+          1	EP Cap Esterias
+          1	EP Cap Santa Clara
+          1	EP Charbonnage
+          1	EP Cite Damas i et II
+          1	EP ENS/A
+          1	EP Jean Louis Nze-Biteghe
+          1	EP Leontine Koumba
+          1	EP Ozoungué
+          1	EP Premier Campement
+          1	EP Sibang 2
+          1	EP d'Akournam II
+          1	EP d'Okala
+          1	EP de Kinguele
+          1	EP de Malibe
+          1	EPC Gabon
+          4	EZNI
+          1	Early Years
+          1	Ebebiyín
+          1	Ecaye
+          1	Eco Parc
+          5	Ecobank
+          1	Ecole
+          1	Ecole Abbé Yoya
+          1	Ecole Catholique Saint Joseph de Calasanz
+          1	Ecole Lalala
+          2	Ecole Mixte
+          1	Ecole Pilote Sino - Gabonaise
+          1	Ecole Primaire de Bikélé
+          1	Ecole Protestante
+          1	Ecole Public de L'Octra 1 et 2
+          1	Ecole Public de l'Octrat 1 et 2
+          2	Ecole Publique Martine Oulabou
+          1	Ecole Publique de Louis
+          1	Ecole Publique de Mindoubé 1
+          1	Ecole Saint Paul De Bois
+          1	Ecole conventionnée Gros Bouquet 2
+          1	Ecole d'état-major
+          1	Economie Gabon+
+          1	Edoum
+          1	Edoume
+          1	Eglise Locale de Moanda
+          1	Eglise Protestante
+          1	Eglise Saint-Dominique
+          1	Eglise kalazence
+          1	Egneng Melen
+          2	Egnounga
+          1	Egyptian Embassy in Libreville
+          1	Ekata
+          1	Elarmakoura
+          1	Elobey Chico
+          2	Elobey Grande
+          1	Elong Eko
+          1	Elonga
+          1	Embassy of Cameroon
+          1	Embassy of European Union
+          1	Embassy of Nigeria
+          1	Enfants du Padouk
+          1	Engen
+          1	Engong Kouame
+          1	Ep Sibang 1
+          1	Ep de Malibe I
+          1	Epicerie
+          1	Escale du Pont
+          1	Escalier Mougin
+          1	Espace Médical Sainte-Brigitte
+          1	Espace Pme
+          1	Esperance
+          1	Esplanade Léon Mba
+          1	Essassa
+          1	Essong
+          2	Estuaire
+          1	Etat-major régional CEEAC
+          1	Ets De Lorenzo Quincaillerie le Printemps
+          1	Ets FOFANA
+          1	Evoula Palace
+          1	Ewo
+          1	Ex RN4
+          1	Eyinane
+          1	Eyouga
+          1	FGIS
+          1	Family Beach
+          1	Fast Food
+          1	Fedex
+          1	Fera
+          1	Figet camp
+          1	Flamingo
+          1	Fondation Entreprenarium
+          1	Fondation Hôpital Jeanne Ebori
+          1	Fondation Raponda Walker
+          1	Football
+          1	Forces de Police Nationale
+          1	Fosse centrale
+          1	Fougamou
+          1	Fougamou Airport
+          1	Foulayong
+          1	Foyer Avaro
+          2	Franceville
+          1	Friedlander Désaffecté
+          1	Fruit & veg stalls
+          1	Fruit Market
+          1	Future Onal
+          1	G-Lab
+          1	GESPARC Location Voitures
+          1	GSEZ
+          2	Gabon
+          1	Gabon Mecca
+          1	Gabon Méca
+          1	Gabon Pain
+          2	Gabon Poste
+          4	Gabon Telecom
+          1	Gabon Télécom
+          1	Gabonaise d'Etude et d'Expertise
+          1	Gabontour
+          1	Gaboprix
+          1	Galeries Tsika
+          1	Gamba
+          1	Gamba Airport
+          2	Gamba to Terminal
+          1	Ganzi
+          1	Garage chez Michel
+          2	Gare Routière
+          1	Gare Routière de Mounana
+          1	Gare d'Abanga
+          1	Gare d'Alembé
+          1	Gare d'Andem
+          1	Gare d'Ivindo
+          1	Gare d'Offoué
+          1	Gare d'Otoumbi
+          1	Gare d'Owendo
+          1	Gare d'Oyan
+          1	Gare de Ayem
+          1	Gare de Bissouna
+          1	Gare de Booué
+          1	Gare de Doumé
+          1	Gare de La Lopé
+          1	Gare de Lastoursville
+          1	Gare de Lifouta
+          1	Gare de Mbel
+          1	Gare de Mboungou
+          1	Gare de Milolé
+          1	Gare de Moanda
+          1	Gare de Mouyabi
+          1	Gare de Ndjolé
+          1	Gare de Ntoum
+          1	Geant Casino Mbolo
+          1	Gem
+          1	Gendarmerie
+          2	Gendarmerie Nationale
+          1	Glass
+          1	Glass Center
+          1	Gobe
+          1	Golf de Franceville
+          1	Golf de Moanda
+          1	Gongoué
+          2	Gouvernorat
+          4	Grand Village
+          1	Grill & chill
+          1	Gros Bouquet 1
+          1	Gros Bouquet Guest House of Libreville
+          1	Gros Mamadou
+          1	Groupe NSIA
+          1	Groupe Scolaire Henri Sylvoz
+          1	Guess
+          1	Guest house
+          1	Guinea Ecuatorial
+          1	Guiétsou
+          1	Gulf Club
+          2	Gwd-100
+          2	Gwd-200
+          2	Gwd-300
+          2	Gwedidi
+          1	Gwedidi 100
+          1	Gwedidi 200
+          1	Gwedidi 300
+          1	Gymnase
+          2	Géant CKdo
+          1	Habiba house
+          1	Haut de Gue-Gue
+          1	Haut-Komo
+          1	Haut-Ntem
+          2	Haut-Ogooué
+          1	Heineken
+          1	Heliconia Hotel
+          1	Heliconia Staduim Moanda
+          1	Hollando
+          1	Hopital général
+          1	Hospital Provincial de Ebebiyín
+          1	Hostel
+          2	Hotel
+          1	Hotel Glass
+          1	Hotel Hibiscus
+          1	Hotel Lorraine
+          1	Hotel Masuku
+          1	Hotel Résidence Paul Ndama
+          1	Hotel Schweitzer
+          1	Hotel Yanis Ale
+          1	Hotel de Ville
+          1	Hotel de Ville de Koulamoutou
+          1	Hotel du Phare
+          1	Hélipad
+          2	Hôpital
+          1	Hôpital Albert Schweitzer
+          1	Hôpital Marcel Abéké
+          1	Hôpital d'Instruction des armées
+          1	Hôtel Bichy
+          1	Hôtel Biki
+          1	Hôtel Evaro
+          1	Hôtel L'Hirondelle
+          2	Hôtel de Ville
+          1	Hôtel de Ville de Moanda
+          1	Hôtel de Ville de Port-Gentil
+          1	Hôtel de ville
+          1	Hôtel du Lac Bleu
+          1	Hôtel du Parc
+          1	Hôtel du stade
+          1	Hôtel l'Impérial
+          1	I.A.I-Golf
+          2	IOTA Gabon
+          1	IPC Consult
+          1	ISOS International SOS
+          1	Ibamba
+          1	Icg
+          1	Idjembo
+          1	Igoumie
+          1	Iguéla
+          1	Ikei Bokaboka to Mt Bengoue
+          1	Ikobey
+          1	Ikoy
+          1	Iléka
+          1	Immaculée Conception
+          1	Immeuble "Les Frangipaniers"
+          1	Immeuble Arcades
+          1	Immeuble Floria 1
+          1	Immeuble Floria 2
+          1	Immeuble Floria 3
+          1	Immeuble Oscar
+          1	Immeuble Rennaissance
+          2	Immigration
+          1	Immigration & Customs
+          1	Impasse Docteur Benjamin Ngoubou
+          1	Impasse Eugène Amogho
+          1	Impasse Henri Ndong Bibang
+          1	Impasse Jean Mboudi
+          3	Impasse Laure Malonga
+          1	Impasse Marcel Samake
+          1	Impasse Saint-Louis
+          1	Imprimerie Saint Joseph
+          1	In Memoria
+          1	Indochine
+          1	Infirmerie SETRAG
+          2	Institut Africain d'Informatique
+          1	Institut Français du GABON (ex CCF)
+          1	Institut National de la Poste,des Technologies de l'Informa
+          1	Institut National des Sciences de Gestion (INSG)
+          1	Institut des Sports
+          1	Institut du Pétrole et du Gaz
+          1	Intergros
+          1	Internat de filles
+          1	Internet Bios Services
+          1	Internet Cafe
+          1	Ipi9
+          1	Irish Pub
+          1	Isp Libreville
+          1	Issibou
+         19	Ivindo
+          1	J'A Gabon
+          2	J. Akeremy
+          1	Jardi Plus
+          1	Jardin du Wharf
+          1	Jean de la fontaine
+          1	Jean's Optic
+          1	Jet d'eau Total Gabon
+          1	Jole d'ete
+          1	Journaux
+          1	Junckville
+          1	Kabinet ITOU
+          1	Kafele
+          1	Kagare
+          1	Kakamoeka
+          1	Kala Boubote
+          1	Kalikak
+          1	Kandjama
+          1	Kango
+          1	Kayes
+          1	Kellé
+          1	Kembélé
+          1	Kenya Airways
+          1	Kinguélé
+          1	Kié-Ntem
+          1	Kokolo
+          5	Komo
+          1	Komo-Mondah
+          2	Kongou Falls
+          1	Kopengoi
+          1	Kouilou
+          1	Koula
+          1	Koulamoutou
+          1	Koulamoutou Mabimbi Airport
+          1	Koumameyong
+          1	Kouri
+          1	Kouyé
+          1	Kye Ossi
+          1	Kyé-Ossi
+          1	Kénibéi
+          1	L' Eco-Village d' Enamino
+          1	L'Eau Claire
+          1	L'Hacienda
+          1	L'Odika
+          2	L'Orchidee
+          1	L'Oxy +
+          1	L'emir
+          2	L'escale
+          1	L'esclave libéré
+          1	L'étoile d'Or
+          1	LFK
+          1	La Benediction
+          1	La Copacabana
+          1	La Délicieuse
+          1	La Foire
+          1	La Fôret Noire
+          1	La Genoise
+          1	La Grande Muraille
+          1	La Main d'Or
+          1	La Nomba
+          1	La Nourrice
+          1	La Parisienne
+          1	La Pelisson
+          1	La Petite Forêt Noire
+          1	La Pleiade
+          4	La Poste
+          1	La Roma
+          1	La Smag
+          1	La Terrace
+          1	La Villa
+          1	La Voile Rouge
+          1	La roma
+          1	Laboratoire
+          1	Laboratoire de Langue du Centre Gabon Oregon
+          1	Lac Ambumé
+          1	Lac Anengué
+          1	Lac Asingo
+          1	Lac Ayem
+          1	Lac Bleu
+          1	Lac Cachimba
+          1	Lac Deguelie
+          1	Lac Evaro
+          2	Lac Gomé
+          1	Lac Kivoro
+          1	Lac Logué
+          1	Lac Longo Longo
+          1	Lac Mafoun
+          1	Lac Mangué
+          1	Lac Mbèi
+          1	Lac N'Dogo
+          1	Lac N'Goré
+          1	Lac N'Guéné
+          1	Lac Onangué
+          1	Lac Tchongo Chiné
+          1	Lac Yendji
+          1	Lac de barrage de Grand Poubara
+          1	Laico Bar
+          1	Laico Palace
+          1	Lalala-Dakar
+          1	Lalala-Droite
+          1	Lalala-Gauche
+          1	Lalara
+          1	Lambarene Airport
+          1	Lambaréné
+          3	Lara
+          2	Lassio
+          1	Lastoursville
+          1	Le Balcon
+          1	Le Bananier
+          2	Le Bistrot
+          1	Le Bougainvillier
+          1	Le Breton
+          1	Le Cactus
+          1	Le Canyon Blanc
+          1	Le Cass'Croûte
+          1	Le Code Bar
+          1	Le Corner
+          1	Le Crystal
+          1	Le Duplex
+          2	Le Galion
+          1	Le Grill
+          1	Le Géant Hebah
+          1	Le Komo
+          1	Le Lac Bleu
+          1	Le Lido
+          1	Le Majestic
+          1	Le Massena
+          1	Le Meridien
+          1	Le Nautilus
+          1	Le Palmarès
+          1	Le Parc
+          1	Le Petit Vélo Rouge
+          1	Le Phare du Cap Lopez
+          1	Le Pétrolier
+          1	Le Ranch
+          1	Le Royal
+          1	Le Rétro
+          1	Le Transfo
+          1	Le Tube
+          1	Le Village Artisanal
+          1	Le W
+          1	Le bon matin
+          1	Le lotus d'Anne
+          1	Le refugee
+          3	Lebiyou
+          1	Leconi
+          1	Leconi Airport
+          1	Leconi Palace
+          1	Leima
+          1	Lekay
+          1	Lelani
+          1	Leon Mba Park Café
+          1	Libertis
+          1	Liboui
+          5	Liboumba
+          2	Libreville
+          2	Libreville Business Square (LBS)
+          1	Libreville Leon M'ba International Airport
+          1	Libyoil
+          1	Ligne de la COMILOG
+          1	Likoko
+          5	Likoni
+          1	Likouala
+          1	Litoral
+          1	Loango
+          1	Loango Lodge
+          1	Local restaurant
+          1	Lodié
+         32	Logement des enseignants
+          4	Lolo
+          1	London
+          1	Lope Hotel
+          1	Loubomo
+          2	Louessé
+          1	Louetsié
+          1	Louis
+          1	Louzibi
+          1	Lycee Diba Diba
+          1	Lycee d'Etat
+          1	Lycee de Bikele
+          1	Lycee de Montalier
+          1	Lycée
+          1	Lycée Français Victor Hugo
+          1	Lycée Jean Hilaire Aubame Eyeghe
+          1	Lycée Michel Dirat
+          1	Lycée National Leon MBA
+          1	Lycée Nazer Boulingui
+          1	Lycée Scientifique et Technologique Paul Kouya
+          1	Lycée Techique National Omar Bongo Ondimba
+          1	Lycée Technique
+          1	Lycée Technique Fulbert Bongotha
+          1	Lycée Technique Jean Fidèle Otando
+          1	Lycée Technique Natioal OMAR BONGO
+          1	Lycée d'Etat Jean Stanislas Migolet
+          1	Lycée d'application Nelson Mandela
+          1	Lycée d'état
+          1	Lycée de L'Excellence de Franceville
+          1	Lycée français Blaise Pascal
+          1	Lycée scientifique de l' Exellence
+          1	Lébamba
+          1	Lékana
+          1	Lékoko
+          2	Lékoni
+          1	Lékoumou
+          1	Lékédi
+          1	M 100
+          1	M 500 - 800
+          1	M 600
+          1	M 600 - 100
+          1	M 800
+          2	M'Bari
+          1	M'Bigou Airport
+          1	M'Boi
+          1	M'Piévé
+          1	M'Vengué
+          1	M'boumi
+          2	M-100
+          2	M-200
+          3	M-400
+          2	M-500
+          2	M-600
+          2	M-800
+          1	M800 - MABOUNDA
+          2	MABOUNDA
+          1	MBigou 100
+          1	MBigou 200
+          1	MBigou-200
+          1	MIKOLONGO
+          1	MN 1000
+          1	MN 1200
+          1	MN 200
+          1	MN 200 - 300
+          1	MN 300
+          2	MN 300 - Onal 1400
+          1	MN 500
+          1	MN 700
+          1	MN 700 - Onal 2000
+          1	MN 800 - 1100
+          1	MN 900
+          2	MN-1000
+          2	MN-1100
+          2	MN-1200
+          2	MN-200
+          2	MN-300
+          2	MN-500
+          2	MN-700
+          2	MN-800
+          2	MN-900
+          1	Madingo-Kayes
+          1	Main Post Office
+          1	Mairie 3ème Arrondissement
+          1	Mairie d'Owendo
+          1	Mairie de Lastoursville
+          1	Mairie du 1 arrondissement
+          1	Mairie du Bord de Mer
+          1	Mairie du Quatrième Arrondissement
+          1	Mairie du Troisième Arrondissement
+          1	Maison
+          1	Maison Georges Rawiri / Gabon TV/ Radio Gabon
+          1	Maison Georges Rawiri/Gabon TV/Radio Gabon
+          1	Maison Liebermann
+          1	Maison des Souvenirs
+          1	Maison des hotes
+          1	Maison farhat
+          1	Majo bus stop
+          1	Makabana
+          1	Makokou
+          1	Makokou Airport
+          1	Malaba
+          1	Malembé
+          1	Mall
+          1	Malounga I
+          1	Mambi
+          1	Mami Wata
+          1	Mandarine
+          1	Mandji
+          1	Mandji Grill
+          1	Manga
+          1	Mangoungou
+          1	Marche Moridial
+          2	Marché
+          1	Marché Akournam
+          1	Marché Central
+          1	Marché central
+          1	Marché de CIBI
+          1	Marché de Louis
+          1	Marché de Nzeng-Ayong
+          1	Marché de Poto Poto
+          1	Marché de la Balise
+          1	Marché du Grang Village
+          1	Maringa
+          1	Mario Pizza's
+          1	Marketplace
+          9	Maroc
+          1	Maroc 200
+          1	Marquee
+          1	Martine Olabou
+          1	Massica
+          1	Massif du Koumouna Bouali
+          1	Matebele
+          1	Matenda
+          1	Materiaux Market
+          1	Matiti
+          1	Maurel & Prom
+          1	Mausolée Omar Bongo Ondimba
+          1	Mavinza Airport
+          1	Maxi CKDO
+          1	Mayena Life
+          1	Mayonami
+          1	Mayounougou
+          1	Mayumba
+          1	Mayumba Airport
+          1	Mayébout
+          1	Mazingo
+          1	Maîson de l'étudiant
+          1	Mbaikoukou
+          1	Mbanié
+          1	Mbaya
+          1	Mbengué
+          2	Mbeya
+          1	Mbeya ?
+          1	Mbigou
+          2	Mbigou-100
+          1	Mbigou-200
+          1	Mbilapé
+          2	Mbinda
+          1	Mbirbi
+          1	Mbol Zok
+          2	Mbomo
+          1	Mbouda
+          1	Mbouma Oyali
+          1	Mboungou
+          1	Mbèi
+          1	Mebba
+          1	Mebe Ntem
+          1	Mebosso
+          1	Mefou
+          1	Mefoup
+          1	Mekambo
+          1	Mela
+          1	Memorial Leon M'ba
+          1	Mess Militaire
+          1	Messi Messi
+          1	Mfang
+          1	Michel Marine
+          1	Migabi
+          1	Mihindou Mi-Nzamba
+          1	Mikongo Conservation Centre
+          1	Mikouyi
+          1	Military Hospital
+          1	Milolo
+          1	Mimongo
+          1	Minda
+          1	Mindili
+          1	Mindoube I
+          1	Mindoubé II
+          1	Mingola
+          1	Ministere Du Petrole
+          1	Ministere de la Fonction Publique
+          1	Ministère de l'éducation Nationale
+          1	Ministère des Affaires étrangères
+          1	Ministère des Eaux et Forets
+          1	Ministère du travail et de la formation professionnelle
+          1	Ministères des Finances/ Immeuble Arambo
+          1	Mintom
+          1	Minvoul
+          1	Minvoul Airport
+          1	Miosso
+          5	Missanga
+          1	Mission Catholique de Saint-Pierre-Claver
+          1	Mission Saint Pie X
+          1	Mission Sainte Anne
+          1	Mission de Ngomo
+          1	Missombo
+          1	Mitzic
+          1	Mitzic Airport
+          1	Mivembe
+          1	Moabi
+          1	Moabi Airport
+          1	Moanda
+          1	Mocabe
+          1	Mondjogou
+          3	Mont
+          1	Mont Bouet
+          1	Mont Chilabila
+          1	Mont Coteau - Dufur du Makombu
+          1	Mont Dikaki
+          1	Mont Guemonga
+          2	Mont Iboundji
+          2	Mont Kouri
+          1	Mont Mabenda
+          1	Mont Mavende
+          1	Mont Milondo
+          1	Mont Mivinevi
+          1	Mont Monguidou
+          1	Mont Mougoumbi
+          1	Mont Mougoundja
+          1	Mont Mounga
+          1	Mont Moussoni
+          1	Mont Mouyomfi
+          1	Mont Mpélé
+          1	Mont Nandala
+          1	Mont Neri
+          1	Mont Pangou
+          1	Mont Saki
+          1	Mont Serre
+          1	Mont Yana
+          1	Mont Yenze
+          1	Mont Youngo
+          2	Montagne Sainte
+          1	Montecatone Palazzina
+          1	Monts Koumiki
+          1	Monts du Chaillu
+          1	Montée Louis
+          1	Monument de la tolerence
+          1	Moon Light Snack Bar Gril
+          1	Mosque
+          1	Mosquee
+          6	Mosquée
+          1	Mosquée Bas de Gue
+          1	Mosquée Hassan II
+          1	Motel Ezanga
+          1	Motel Iboga
+          1	Motel Iroko
+          1	Motel Mathieu
+          1	Motel Obama
+          1	Motel Pakita
+          1	Motel Rizogo
+          1	Motel le Popa
+          1	Motodiene
+          2	Moudiapoula
+          1	Mouila
+          1	Mouilla Ville Airport
+          1	Mouka Laba
+          1	Mouka laba
+          1	Moukaba I
+          1	Moukaba II
+          1	Moukanza
+          1	Moukoualou
+          1	Moulengui Binza
+          1	Mounana
+          1	Moungangara
+          1	Mounianghi
+          1	Mourindi
+          1	Moutassou
+          1	Moyabi
+          2	Moyen-Ogooué
+          1	Moïse Oliveira
+          1	Mpassa
+          1	Mporaloko
+          1	Museum of Traditional Arts
+          1	Musée Albert Schweitzer
+          1	Musée Traditionnel de la Culture
+          1	Mvangan
+          1	Mveng Ayong
+          1	Mvila
+          5	Mvoung
+          1	Mystic Bantou
+          1	Mékambo Airport
+          1	Mémorial du Cinquantenaire
+          1	N'Golo
+          1	N'Gongou
+          1	N'Komi
+          1	N'kembo
+          1	N'kembo Market
+          1	N'kembo Police Station
+          1	N2
+          1	Namina - Concession Total
+          1	Nangha
+          2	National Archives
+          1	Natural nuclear fission reactor
+          1	Nautilus-Chaud
+          3	Ndendé
+          2	Ndindi
+          1	Ndjolé
+          1	Ndjolé Ville Airport
+          1	Ndougou
+          1	Net Dama
+          1	New Iguane
+          1	Ngobounda
+          1	Ngomo
+         13	Ngounié
+          1	Ngouoni
+          1	Niari
+          1	Nilobo
+          1	Nkala Nyengo Petit Village
+          1	Nkan
+          1	Nkembo Hospital
+          1	Nkembo Pharmacy
+          1	Nkiété
+          1	Nkok
+          1	Nkoltang
+          1	Nkolényeng
+          1	Nlobo
+          1	No Ayong
+          1	No Stress
+          1	Nomba-Domaine
+          1	Nombakele
+          1	Notre-Dame de la Salette
+          1	Nouna
+          1	Nouveau Port
+          1	Noya
+          9	Ntem
+          1	Ntemsi
+          1	Ntoum
+          9	Nyanga
+          1	Nyanga Moubighou
+          1	Nyonié
+          1	Nzamaligue
+          1	Nzeng Ayong
+          1	Nzeng Ayong Roundabout
+          1	O'Ptit Kawa
+          1	O.D. Distribution
+          1	O.D. Market
+          1	O.G.Police
+          1	OLAM
+          1	ONG ASF-Gabon
+          1	OPT
+          2	Obando
+          1	Office Buildings
+          1	Office National de l'Emploi
+          1	Office National des Examen et Concours
+          1	Office des Ports et Rades du Gabon
+          6	Offoué
+          1	Ogar-Ogarvie
+          1	Ogogoué
+          1	Ogooue
+          1	Ogooue Labs
+         24	Ogooué
+          1	Ogooué Palace
+          2	Ogooué-Ivindo
+          2	Ogooué-Lolo
+          2	Ogooué-Maritime
+          7	Ogoulou
+          2	OilLibya
+          1	Oilibia
+          1	Oilybia
+          1	Okala
+          1	Okangou village
+          4	Okano
+          1	Oklo
+          1	Okondja
+          1	Okondja Airport
+          1	Okoyo
+          1	Olam Palm Oil Gabón
+          1	Olima
+          1	Olonga
+          1	Oloumi
+          1	Ombelle
+          1	Omboue Hopital Airport
+          1	Omboué
+          8	Omko
+          1	Omko 100
+          1	Omko 200
+          2	Omko-100
+          2	Omko-200
+          1	Ona Coucal
+         23	Onal
+          1	Onal - 2400
+          1	Onal 1000
+          1	Onal 1100
+          1	Onal 1200
+          1	Onal 1300
+          1	Onal 1400
+          1	Onal 1400 - MN 300
+          1	Onal 1600
+          2	Onal 1700
+          1	Onal 1800
+          1	Onal 1900
+          1	Onal 200
+          1	Onal 2000
+          1	Onal 2100
+          1	Onal 2200
+          1	Onal 300
+          1	Onal 400
+          1	Onal 500
+          1	Onal 600
+          1	Onal 600 - 700
+          1	Onal 700
+          1	Onal 800
+          2	Onal 900
+          1	Onal 900 - 1400
+         14	Onal Coucal
+          1	Onal W102
+          1	Onal-1000
+          1	Onal-1000 & bis
+          2	Onal-1100
+          2	Onal-1200
+          2	Onal-1300
+          2	Onal-1400
+          2	Onal-1600
+          1	Onal-1700
+          2	Onal-1800
+          2	Onal-1900
+          1	Onal-200
+          1	Onal-200 / Ss
+          2	Onal-2000
+          2	Onal-2100
+          2	Onal-2200
+          2	Onal-2400
+          2	Onal-300
+          2	Onal-400
+          2	Onal-500
+          2	Onal-600
+          3	Onal-700
+          2	Onal-800
+          4	Onal-900
+          1	Ondogo
+          1	Ondouama
+          2	Ongali
+          1	Onoy
+          1	Open Spirit
+          1	Opoungou
+          1	Orabank
+          1	Orbellia
+          1	Oronga
+          1	Ortec
+          1	Ossimbe
+          1	Otsima
+          1	Oua
+          1	Oubendzi
+          2	Oumba
+          1	Ouéllé
+          1	Ovan
+          2	Oveng
+          2	Ovigui
+          2	Owendo
+          1	Owendo Port
+          1	Oyem
+          1	Oyouma
+          1	Ozangué
+          1	Ozoungué
+          1	Ozouri
+          1	PK 10
+          1	PK 5
+          1	PK8
+          1	POBO
+          1	POG - LBV
+          1	POG - Omboué
+          1	PSM
+          1	Pagne Shop
+          1	Pahon
+          1	Pain aux poulets
+          1	Palais Omnisports et Culturel Omar Bongo Ondimba
+          2	Palais de Justice
+          1	Palais des Spectacles
+          1	Palais des sports de Libreville
+          1	Pamba
+          1	Pana
+          1	Panga
+          1	Paolo Patisserie
+          1	Papa union
+          1	Papillon Rouge
+          1	Parc Municipal Émile Otando
+          1	Parc national d'Odzala-Kokoua
+          1	Parc national de Minkébé
+          1	Parc national de Mwagna
+          1	Parc national de la Lopé
+          1	Parc national des plateaux Batéké
+          1	Park Inn
+          1	Parking ADL
+          1	Parking GEE
+          1	Parking de la gare d'owendo
+          1	Patisserie & cafe
+          1	Pavillon A
+          1	Pavillon B
+          1	Pavillon C
+          1	Pavillon D
+          1	Pavillon E
+          1	Pavillon F
+          1	Pavillon G
+          2	Perenco
+          1	Petit Paris
+          1	Petit Village Artisanal
+          3	Petro Gabon
+          1	PetroGabon
+          1	Peyrie
+          1	Phare Private Beach
+          1	Phare de Gombe
+          1	Phare du Large
+          1	Pharmaceutical Factory
+          1	Pharmacie
+          1	Pharmacie Centrale
+          1	Pharmacie Itola
+          1	Pharmacie La Librevilloise
+          1	Pharmacie Les Forestiers
+          1	Pharmacie Nouveau Port
+          1	Pharmacie Okala Aétoport
+          1	Pharmacie Sainte Marie
+          1	Pharmacie de la Poste
+          1	Pharmacie des 3 Quartiers
+          1	Pharmacie du Boulevard
+          1	Pharmacie du Cap
+          1	Pharmacie du Carrefour Banco
+          1	Pharmacie du Nouveau Port
+          1	Picnic site
+          1	Pilier SHOM 225
+          1	Piscine
+          1	Piste Cap des Pères
+          3	Piste Militaire
+          1	Piste Santa Clara
+          1	Piste VTT
+          1	Piste de Mokékou
+          1	Pizza Brothers Café Plus
+          1	Place Albert Tsamba
+          1	Place J.C. Vannoni
+          1	Place Joseph Rogombe
+          1	Place de L'independence
+          1	Place de l'independance
+          1	Place de la Concorde
+          1	Plaine Niger
+          1	Plaine Orety
+          1	Planet Grill
+          1	Plateaux
+          1	Plein-ciel
+          1	Point V
+          1	Pointe AKOSSO
+          1	Pointe Chapuis
+          1	Pointe Ngombé
+          1	Pointe Ouingombé
+          1	Pointe Pira
+          1	Pointe Pongara
+          1	Pointe des Bretons
+          1	Points Frontieres
+          1	Police
+          1	Police & Immigration
+          1	Police Acedamy
+          1	Police Camp
+          1	Police Judiciaire
+          1	Polyclinique Saint-Pierre
+          1	Pont Adouma
+          1	Pont Bascule
+          1	Pont Isaac
+          1	Pont-Nomba
+          1	Porro
+          1	Port Joséphine
+          1	Port Mole
+          1	Port d'Owendo
+          1	Port-Gentil
+          1	Postbank
+          1	Poste 22
+          1	Poste Bank
+          1	Poste Electrique
+          2	PosteBank
+          1	Potos
+          1	Poungui
+          1	Premiere Pont
+          1	Première Cité
+          1	Presidential Palace
+          1	Prestij'Hair
+          1	Primary
+          1	Primary School Teachers' Training College
+          1	Prison
+          1	Prison Centrale de Libreville
+          1	Prix Import
+          1	Prix Import d'Okala
+          1	Prix import
+          1	Promo Gros
+          1	Préfecture
+          1	Préfecture de Police
+          1	Pélisson d'Okala
+          1	Pôle scientifique
+          1	Quaben
+          1	RENOVATION
+          1	RIO
+          1	RN5
+          1	Rabi Airport
+          2	Rabi Kounga
+          1	Raccourci Onal 800 2000
+          1	Radio Africa N°1
+          1	Radio Mulundu
+          1	Radisson Blu
+          1	Rambouè
+          1	Razel
+          1	Rectorat de l'UOB
+          1	Región Continental
+          1	Rembo
+          1	Renovation
+          2	René Descartes
+          4	Reservation scolaire
+          1	Reservation scolaire - Cap Esterias
+          1	Reservation scolaire - Igoumier I
+          1	Reservation scolaire - Igoumier II
+          1	Reservation scolaire - SOGADEL
+          1	Reservation scolaire - Ziwac
+          1	Residence Hoteliere du Phare
+          1	Residence Maisha
+          1	Residence Oceane
+          1	Restaurant
+          1	Restaurant Exotys
+          1	Restaurant INSG (CNOU)
+          1	Restaurant Maringa
+          1	Restaurant Universitaire de l'UOB
+          1	Restaurante Senegalés
+          1	Riviere Deguelie
+          1	Rocher
+          1	Roind Point de la Démocratie
+          1	Rombintchozo
+          1	Rond Point de la Démocratie
+          2	Rond point de l'aéroport
+          1	Roungassa
+          1	Route Abongo
+          1	Route Antenne Zain
+          1	Route Base Vie / CP
+          1	Route Base Vie / Centre production
+          1	Route Fangui
+          5	Route Forestiere
+          3	Route Grand Village
+          1	Route Namina
+          1	Route Prinicpale
+          2	Route Saoty
+          2	Route Schweitzer
+          1	Route St. Francois
+          1	Route Village Lumiere
+          2	Route d'Anciene Debarcadere
+          2	Route de Adouma
+         11	Route de Ntchengué
+          1	Route de Rabi
+          3	Route de Sindara
+          4	Route de Sogara
+          2	Route de l'hôpital Schweitzer
+          1	Route de la pompe
+          1	Route des Hydrocabures
+          7	Route des Maroc
+          2	Route des Onal
+          1	Route du Cap Lopez
+          2	Route du pipe
+          1	Routes Nationales Gabonaises
+          1	Royal Chicken
+          1	Royal Palm
+          1	Royal Plaza
+          1	Ruban vert
+          1	Rue Abbé Jean Urbain Obame
+          1	Rue Abdoulaye Moctar Mbingt
+          1	Rue Albert Faessel
+          1	Rue Alfred Marche
+          1	Rue André Gallais
+          1	Rue Ange M'ba
+          1	Rue Anina Germaine
+          1	Rue Armand Defaye
+          1	Rue Auguste Reteno Ndiaye
+          3	Rue Bord du Fleuve
+          1	Rue Bouêt Willaumez
+          1	Rue Charles Vouette
+          1	Rue Curreau
+          1	Rue Docteur Ballay
+          1	Rue Dr Henri Revignet
+          3	Rue Député Marc Ziza
+          1	Rue Ekomi Bibey
+          3	Rue Emmanuel Sipamio Berre
+          1	Rue Eugène Okili
+          1	Rue Fall Ndiaye Azizet
+          1	Rue Gustave Anchouey
+          3	Rue Ivazza Jean-Marie
+          1	Rue Jacques Boussougou
+          1	Rue Jean Baptiste Mpea
+          1	Rue Jean Baptiste Ndende
+          1	Rue Jean Fidèle Otando
+          4	Rue Jean Vigouroux
+          1	Rue Jean-Marie Issac
+          1	Rue Jean-Marie Mboumba Vianney
+          2	Rue Jean-Marie Rousselot
+          3	Rue Joseph Ambourouet
+          1	Rue Joseph Essonghe
+          1	Rue Joséphine Dupré
+          1	Rue Kombe Beal
+          1	Rue Kringer
+          1	Rue Lafond
+          1	Rue Laurent
+          1	Rue Lazarela
+          1	Rue Louis Goti
+          1	Rue Madeleine Charbonnier
+          1	Rue Marcel Lefebvre
+          1	Rue Mbo Michel
+          1	Rue Mbouroux Joseph
+          1	Rue Michel MANON
+          1	Rue Mt Bouet
+          1	Rue Ndende
+          1	Rue Ohoila Pendi Jean Samuel
+          3	Rue Onoyi Pandjo
+          1	Rue Paul Igamba
+          1	Rue Paul Moutsinga
+          3	Rue Paul Sidia
+          8	Rue Pauline Izouwa
+          1	Rue Pierre Antoine Olingot
+          4	Rue Pierre Auguste Avaro
+          1	Rue Pierre Broet
+          1	Rue Pierre Claver Ibinga
+          1	Rue Pierre Oyabi
+          1	Rue Prince Birinda
+          1	Rue Radembino Coniquet
+          3	Rue René Paul Sousate
+          1	Rue Richard Atendet
+          2	Rue Roger Buttin
+          2	Rue Saint-Louis
+          1	Rue Sébastien Olago Yi Wezet
+          1	Rue Victor Schoelcher
+          1	Rue d'Alsace Lorraine
+          1	Rue de Gouverneur Balley
+          1	Rue de Lastours
+          1	Rue de Tchibanga
+          2	Rue des Citées Unies
+          1	Rue des Fonctionnaires
+          1	Rue du Chef Ntchougougne
+          1	Rue du Docteur Kingbo Augustin César
+          1	Rue du Docteur Kopp René
+          1	Rue du Docteur Reckawe Jean de Dieu
+          1	Rue du Gouverneur Bernard
+          3	Rue du Marquis de Compiègne
+          1	Rue du Quartier Chic
+          3	Rue du Révérend Père Barreau
+          1	Rue du Révérend Père Bichet
+          1	Rue Émile Gentil
+          3	Rue Émile Rashiwa
+          1	Réfectoire
+          1	Réservation scolaire - Akébé Awendje
+          1	Réservation scolaire - Alibandeng
+          1	Réservation scolaire - Angondjé Ntom - YQ7
+          1	Réservation scolaire - Angondjé stade - YT3
+          1	Réservation scolaire - IAI Halte-Garderie
+          1	Réservation scolaire - IAI Stade
+          1	Réservation scolaire - Nkoltang
+          1	Réservation scolaire - Ntoum-Meba
+          1	Réservation scolaire - Sogacer
+          1	Réservation scolaire ESSASSA
+          1	Résidence du proviseur
+          1	Río Kié
+          1	S.E.E.G-Jean Violas
+          1	S.O.S Medecin
+          1	SDV Voyages
+          7	SEEG
+          1	SG PLAST INDUSTRIES
+          1	SOCIGA
+          1	SOGACEL
+          1	SOGARA
+          2	SOGATRA
+          1	SOMIVAB
+          1	SR1
+          1	SR1 - MABOUNDA
+          1	SR1 -MABOUNDA
+          1	SR1 MABOUNDA
+          1	SR2
+          1	SR3
+          1	SR4
+          1	SS M100
+          1	SS Onal-700
+          1	STFO
+          1	SUCAF
+          1	Sable
+          3	Sablier
+          1	Sabliere
+          1	Saint James Eden
+          1	Saint Joseph
+          1	Saint-André
+          1	Saint-Michel
+          1	Saint-Paul de Donguila
+          1	Saint-Pierre
+          1	Sainte Anne
+          1	Sakura
+          1	Salle des Fêtes
+          1	Salle des enseignants
+          5	Salles de classe
+          1	Sam
+          2	Samba
+          1	Samba I
+          1	Samba II
+          1	Samo Beach
+          1	SanGel
+          1	Sangala
+          1	Sangha
+          2	Sao Tome Consulate
+          1	Saoti Club
+          1	Schlumberger Gabon SA
+          4	School
+          1	Scierie de Mbouma Oyali
+          1	Sebe
+          1	Secondary
+          1	Secrétariat général
+          1	Sembé
+          1	Semengué
+          1	Senegalaise
+          1	Senegalo Gabonaise
+          1	Serge Poullet
+          1	Service Provincial de la Famille
+          1	Service Relais Entreprise
+          1	Setrag
+          1	Sette Cama Airport
+          1	Setté Cama
+          1	ShopHotes
+          1	Sibang
+          1	Sima
+          1	Sindara
+          1	Sivva Land rover service sales & parts
+          1	Sky Inn
+          1	SlenhTech Corp
+          1	Sobraga
+          1	Sogame Equip
+          1	Sogatra
+          1	Solf hotel
+          2	Somotel
+          1	Song
+          1	Sorbonne
+          1	Sotega
+          1	Sotega Water Tower
+          1	Souanké
+          1	Sounga
+          1	Sous Préfecture de Mbinda
+          1	Spa Yacine
+          1	Spérette et coiffeur
+          1	Squash Courts
+          1	Ss MN-100
+          1	Ss-700
+          1	St Antoine
+          1	St Hilaire
+          1	St. Michel
+          2	Stade
+          1	Stade Akouakam
+          1	Stade Augustin Monédan
+          1	Stade Dialogue
+          1	Stade Gaston Peyrille
+          1	Stade Henri Sylvoz
+          1	Stade Henri Touret
+          1	Stade Héliconia
+          1	Stade Idriss Ngari
+          1	Stade Jean Koumou
+          1	Stade Mbéba
+          1	Stade Michel Essonghé
+          1	Stade Omnisports
+          1	Stade Pierre-Claver Divoungui
+          1	Stade Roger Buttin
+          1	Stade d'Angondjé
+          1	Stade d'Oyem
+          1	Stade de Franceville
+          1	Stade de INJS
+          1	Stade de Mbaya
+          1	Stade de Nzeng-Ayong
+          1	Stade de SOGARA
+          1	Stade de football
+          1	Stade de l'OPRAG
+          1	Stade de rugby
+          1	Stadium
+          1	Station Service
+          1	Station Service Total
+          1	Station Total
+          1	Station de l'eau
+          1	Station de suivi de Libreville
+          1	Statue d'Omar Bongo Ondimba
+          2	Statue de Savorgnan de Brazza
+          1	Statue du guerrier Wongo
+          1	Statuette Raponda Walker
+          1	Ste Marie
+          1	Stromboli
+          1	Stèle Fouga Magister
+          1	Sud
+          1	Sunset Beach Club
+          1	Super CK'do
+          1	Super Ckdo
+          1	Super Gros
+          1	SuperGros
+          1	Supergab
+          1	Sénat du Gabon
+          1	T.De.Sport
+          2	T2KGabon
+          1	TOTAL
+          1	Tahiti
+          1	Tam Tam
+          1	Tara-Mé
+          1	Taxi
+          1	Taxi to Libreville
+          1	Taxis to Bifoun
+          1	Taxis to Lambarene
+          1	Tchibanga
+          1	Tchibanga Airport
+          1	Tchiendji
+          1	Tchimbélé
+          1	Tchinchoua
+          1	Technimeca
+          1	Terminal Pétrolier du Cap Lopez
+          1	Terrain de Volley-ball
+          3	Terrain de basket-ball
+          1	Terrain de foot-ball
+          1	Terrain de motocross
+          1	Terre-Nouvelle
+          1	Tivoli Glass
+          1	To Immigration
+          1	Toll collecting locals
+          1	Tombe Albert Schweitzer
+          1	Tono
+          1	Tono Sangana
+          6	Total
+          1	Total Douane
+          1	Total Eclipse 2013 School
+          3	Total Gabon SA
+          1	Total PG2
+          1	Toucan
+          1	Toulon
+          1	Tourisme
+          1	Tower
+          1	Tractafric Gabon
+          1	Transformateur éléctrique de Plein-ciel
+         68	Transgabonais
+          1	Tresor Public
+          1	Tribunal
+          4	Tribune
+          1	Trois Rivières
+          1	Tropic'Halle
+          1	Tropicana
+          1	Tsam Tsam
+          1	Tsanguette
+          1	Tsogni
+          1	Tues Lors Des Combat
+          1	Tullowoil
+          1	Tumai cyber
+          1	Tya
+          1	UGB BANK
+          1	UGB Entreprises
+          1	UPS
+          1	US Embassy Libreville, for Gabon, Sao Tome & Principe
+          3	Union Gabonaise
+          1	United Bank of Africa
+          1	Université Omar Bongo
+          1	Université des sciences et techniques de Masuku
+          1	Urban Fm 104.5
+          1	Urgence lédicale
+          1	Urgence médicale
+          1	Usine SUCAF
+          1	VAALCO
+          1	VIP
+          1	Vallée Ste Marie
+          1	Vallée-du-Ntem
+          1	Vembé
+          1	Venez-Voir
+          1	Vestiaires INSG
+          1	Villaflora
+          2	Village Artisanal
+          1	Village Artisanal mini
+          1	Village de la CNSS
+          1	Vin 20
+          2	Vincent Nkounah Avenue
+          1	Virage Brice
+          1	Virage Decombe
+         22	Voie Express
+          1	Voitures d'Occasion
+          1	Vétérinaire
+          1	WHO GABON
+          2	Wagnya
+          1	Waka
+          1	Wapeti
+          1	Water Reservoir Albert Schweitzer
+          1	Web Services Gabon
+          1	Wele
+          1	Wele-Nzas
+          1	Wendze
+          2	Western Union
+          5	Woleu
+          2	Woleu-Ntem
+          1	World Resources Institute
+          1	X-Treme Café
+          4	Yard
+          1	Yard CP
+          1	Yellow Cab
+          1	Yeno
+          1	Yenzi
+          1	Yetsou II
+          2	Yombi
+          1	Yombé
+          2	Yves Digo Boulevard
+          1	Yéno
+          1	Yéné
+          4	Zadié
+          1	Zanaga
+          1	Zeinab Group
+          1	Zone Economique Spéciale de Nkok
+          1	Zone Economique Spéciale de l'île Mandji
+          1	agn1
+          1	ambassade du liban
+          1	amphi geo
+          1	bissengui
+          2	bus & taxi stand
+          1	cabinet STOCKI
+          1	cabinet neuropsychologue
+          1	cafétéria
+          1	car repair workshop
+          1	chez john
+          1	cité Octra
+          1	collège Val Marie
+          1	convenience store
+          1	courte échelle
+          1	customs & excise
+          1	dissandou
+          1	divevi
+          1	ecole Kalazence
+          1	essassa
+          1	even’t jet
+          1	ffamily
+          1	fruit & vegetables
+          1	gabon télécom
+          1	halte gourmande
+          1	hirondelle appartements
+          1	honorary Consulate of Ghana
+          1	hors service
+          1	jean de la fontaine
+          1	l'hopital sino-gabonais
+          1	laboratoire
+          1	le Marcos Bar dancing
+          1	le Nid
+          1	local bar
+          1	local garage workshop
+          1	lycee Awasi
+          1	lycée Public
+          1	maison Chandezon
+          1	maison Inès
+          1	maison Ngamba
+          1	maison familiale Farhat
+          1	maison letembert
+          1	mbengui mamagui
+          1	mc owendois
+          1	minda
+          1	mouamba
+          1	mougnamou
+          1	moukondza
+          1	multi presse
+          1	oudiomakobo
+          1	petit de aguache
+          1	pharmacy
+          1	pont Missanga
+         13	préfabriqué
+          1	salle des fêtes
+          1	saloon des montagnards
+          1	school
+          1	subsea7 Yard de NTchengué
+          2	terrain de handball
+          1	the bill's pizza
+          1	total garage
+          1	tyres
+          1	x
+          2	École
+          1	École Communale Publique de grand Village
+          1	École Doctorale Régionale en Infectiologie Tropicale
+          1	École Hibiscus-Claret
+          1	École Léopold-Sédar-Senghor
+          1	École Nationale de Gendarmerie d’Owendo
+          1	École Nationale de Police d’Owendo
+          1	École Normale des Instituteurs de Franceville
+          1	École Primaire
+          1	École Primaire Privée du Littoral
+          1	École Privée Fatima
+          1	École Publique Communale
+          1	École Supérieure des Métiers du Bois de Booué
+          1	École de la Rémanence
+          1	École des Mines et de la Métallurgie de Moanda
+          1	École du Littoral
+          1	École publique Urbaine 1
+          1	Église Sainte-Barbe
+          1	Église de la Mission Ngomo
+          1	Église don bosco
+          1	Église protestante
+          1	Église Évangélique du Gabon
+          1	Épicerie Du Centre De Mandji
+          1	Île Conniquet
+          1	Île Perroquet
+          1	Ôwĭ Brunch
+          2	école Saint-Martin
+          1	île Samory

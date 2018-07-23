@@ -1,0 +1,4295 @@
+          1	'Ma Neni Moseme
+          1	'Makoabeng Primary School
+          1	'Malinakana
+          1	'Masenate
+          1	'Maseribane High School
+          1	'Matalane
+          1	'Matanki Office Complex
+          1	'Melesi offsales
+          1	'Moteng Primary School
+          1	--+
+          3	-1
+          1	0rchard
+          2	1
+          1	1,2,3 Supermarket
+          1	1414 general cafe
+          1	1st Avenue
+          1	207
+          2	2nd Avenue
+          1	3
+          1	30th Anniversary
+          1	32
+          1	4+1 station
+          2	4Fordy
+          1	4x4 only
+          1	7 Steps
+          1	7de Laan Public Bar
+          1	====
+          1	??
+          1	?? is this really ruins??
+          2	A 3
+          1	A Hut
+          1	A big commercial building
+          1	A brick building
+          2	A brick house
+          1	A.M.E Church
+         22	A2
+          3	A25
+          1	A3
+         22	A4
+          1	A5
+          1	AGAZ
+          1	AL DOG
+          1	AME
+          1	AME Halls
+          1	AME church
+          1	AS/A Level Block
+          1	AVANI Lesotho Cross Country Course
+          1	Abia
+          1	Abia Cemetery
+          1	Abia High
+          2	Ablution Blocks, PTC
+          1	Accacia Road
+          4	Ackermans
+          1	Administrative office
+          3	Afri-Ski Resort
+          1	Africa Supermarket
+          1	African Methodist Episcopal(A.M.E)
+          1	Afrika Female
+          1	Afrika male
+          1	Aglican
+          4	Agric
+          1	Agric Department
+          1	Agric Offices
+          1	Agric Resource centre
+          1	Agric farmland
+          1	Agric offices
+          1	Agric staff Housing
+          1	Agricultural Area
+          1	Agricultural Office
+          1	Agricultural Station Veterinary
+          1	Agriculture Information Services
+          1	Agriculture Offices
+          9	Airport Road
+          1	Alfred Nzo District Municipality
+          1	Allahu Ackbar
+          1	Alliance
+          1	Alliance Française
+          1	Alliance Insurance
+          1	Alliance Insurance Quthing
+          1	Aloes Guest House
+          1	Alternative driveway
+          2	Alwynskop
+          2	Ambracht Street
+          1	Amelia Mantšebo
+          1	American Embassy
+          1	American International School
+          1	American International Shool of Lesotho
+          1	Amphitheatre
+          1	Anglican Church of Lesotho
+          2	Anglican church
+          1	Annas Bed and breakfast
+          1	Anone
+          1	Anthony Hall
+          1	Anwary primary School
+          5	Apollo Light
+          1	Apostolic Faith Mission
+          1	Appeal Court
+          2	Appropriate Technology Service (Malefiloane)
+          1	Apropriate Technilogy Section
+          1	Arckermans
+          1	Areka Restaurant & Bar
+          2	Arekeng
+          1	Asia Supermarket
+          1	Assembles of God
+          1	Assemblies Bible College Primary
+          1	Assemblies of God
+          1	Assemblies of God Mahobong
+          1	Assembly of God
+          1	Assumption Mission
+          1	Assumption Primary
+          1	Atlantic Hi-Tech
+          1	Au
+          2	Aupolasi
+          1	B14
+          1	B26
+          4	B32
+          1	B5
+          1	BABA Computers
+          1	BEARES
+          1	BEDCO Centre
+          1	BNP Center
+          2	BOLEPELETSA STREET
+          1	BOLIBA Savings & Credit
+          1	BOQATE STREET
+          1	BORA STREET
+          1	BP Garrage
+          1	BT75 (9700075)
+          3	BTM
+          1	Backpackers
+          1	Bakery
+          1	Bakoena Beer Garden
+          1	Bakoena General Dealer
+          1	Bakubung
+          1	Bakubung No2 Supermarket
+          1	Bakuena general dealer
+          1	Bale Primary School
+          1	Bale Snack Bar
+          1	Balfour
+          1	Baneising
+          1	Bank
+          2	Bannerman's Pass
+          3	Bar
+          1	Bargain Buzz Clothing & Footwear
+          1	Bargain Hardware
+          1	Barn
+          1	Baroana Rock Art Centre
+          1	Baroaneng
+          1	Baruting
+          1	Baruting Primary School
+          1	Basia General Cafe
+          1	Basiea
+          1	Basketball ground
+          1	Basotho Hat
+          2	Basotho Supermarket
+          1	Bastard Hoek
+          1	Basuto Car Rental
+          1	Bataung High School
+          1	Batho Pele
+          1	Batho-Pele Pharmacy
+          1	Batsoeneng Bakers
+          1	Baylor kids clinic
+          1	Beares
+          1	Bedco Berea
+          1	Bedco Mafeteng
+          1	Bee Jay Off Sales
+          1	Beginseldrif
+          1	Bela Bela
+          1	Bell Traverse
+          1	Belo High School
+          1	Ben Hoek
+          3	Berea
+          2	Berea Correctional Institute
+          1	Berea District
+          1	Berea District Council
+          1	Berea Education Office
+          1	Berea High School
+          1	Berea Hospital
+          1	Berea L.E.C
+          1	Berea Pitso Ground
+          1	Berea Police
+          2	Berea Post Office
+          1	Berea Primary School
+          1	Berea Road
+          1	Berea Satellite
+          1	Berea Sattelite
+          1	Berea Urban Council
+          1	Berea Urban Council Offices
+          1	Berea Veterinary Services
+          1	Bereng High School
+          1	Best Price
+          1	Big Forest
+          1	Big P Guest House
+          2	Black and Tan Wall
+          1	Black house Public Bar
+          1	Black swan
+          2	Bloem Street
+          1	Bloemfontein-Maseru (Proposed)
+          1	Blue Gums
+          2	Blue Mountain Inn
+          1	Blue Ribbon
+          1	Bobete
+          1	Bobete Airport
+          1	Bobete Health Center
+          1	Bobojane
+          1	Bochabela Primary School
+          1	Boikhethelo Guest House
+          1	Boikhutso
+          1	Boiteko Multiracial School
+          1	Boiteko multiracial secondary school
+          1	Boitjaro Building
+          1	Boitumelo Off sales
+          1	Bojela
+          1	Bokhopha
+          1	Bokong Nature Reserve
+          2	Bokong River
+          1	Bolahla Community Council
+          2	Bolahla River
+          1	Bolahla primary school
+          1	Boleka Peak
+          1	Boliba Savings and Credit
+          1	Bolula LEC Churh
+          1	Bolula Primary School
+          1	Bomb disposal
+          1	Bond
+          1	Bonkong Nature Reserve
+          1	Borantisi
+          2	Border Patrol Road
+          3	Bosch Street
+          1	Botha Bothe High School
+          1	Botha-Bothe Dep of traffic
+          1	Botha-Bothe Flea Market & Taxi Rank
+          1	Botleng General Cafe
+          1	Botleng Public Bar
+          1	Botlolong
+          1	Botsoela
+          1	Botsola
+          1	Brakfontein
+          2	Brand Street
+          1	Brewary
+          2	Brewery
+          1	Brick formation site
+          1	Bridge to link Clay Tracks
+          1	Broadway Tyres
+          1	Broken footbridge
+          1	Browns Cash and Carry
+          1	Bua Sono
+          1	Budget Car Rental
+          1	Buffalos
+          1	Bugger's Gully
+          1	BuildIt
+          1	Builders Home
+          2	Building
+          1	Building beside a lake
+          2	Building ruin
+          2	Building under construction
+          3	Buildings
+          1	Bulawayo
+          1	Bunny's Hair Salon
+          3	Bureau of Statistics
+          1	Bureau of Statistics, Berea
+          1	Bus Rank
+          1	Bushman's Nek Pass
+          2	Bushman's River
+          2	Bushmen Rock Art
+          1	Business Entrepreneur Development Corporation
+          1	BusyBees
+          1	Butchery
+          1	Butha Buthe Cash & Carry
+          1	Butha Buthe Hospital
+          1	Butha Buthe Industrial Park
+          1	Butha Buthe Police
+          1	Butha Buthe Sub
+          2	Butha-Buthe
+          1	Butha-Buthe District
+          1	Butha-Buthe camp primary school
+          1	By Pass General Cafe
+          1	By Pass Public Bar
+          1	C & L
+          1	C & Y Garment Company
+          1	C30
+          1	C33
+          1	C4
+          1	CAFE
+          1	CATTLE KRAAL
+          1	CCL
+          1	CGPU
+          1	CNA
+          1	COMPLEX
+          1	CPA
+          1	CPS
+          1	Cabanas
+          1	Cabriere
+          1	Caesars Travel
+          2	Cafeteria
+          3	Caldwell Road
+         17	Caledon River
+          1	Caledon Road Caledon Road Caledon Road
+          1	Caledon Street
+          1	Caledon guest house
+          1	Caledon's Poort Bridge
+          2	Caledonspoort Border Control
+          1	Caltex Garage
+          1	Calton Centre
+          2	Cana
+          1	Cape Forces Memorial 1880
+          2	Capital
+          1	Captain Dorego's
+          1	Carbineer Point
+          1	CareWell Hospital
+          1	Cartberg
+          1	Cartberg Public Bar
+          1	Casa Tumi Guest House
+          1	Cashbuild
+          1	Castle Buttress
+          2	Castle Rock
+          1	Cathedral Area
+          1	Cathedral Pharmacy
+          1	Catholic Technical School of Leribe
+          1	Catholic Training Centre
+          1	Cattle post
+          1	Ceasars Tarven
+          1	Cedar
+          1	Cell Clinic
+          1	Cell Power
+          3	Cemetery Road
+          1	Cenez Road
+          1	Ceneze Mission
+          1	Central Charge Office
+          1	Centre Pharmacy
+          1	Centre for Accounting Studies
+          1	Centre for Equal Health Access Lesotho
+          1	Centre of Hope Primary
+          1	Chabatsane Secondary School
+          2	Chafo
+          1	Chaka Primary School
+          1	Champagne Castle
+          1	Champion Cosmetics & Bags
+          1	Cheapest Supermarket
+          1	Chere
+          1	Chichi Bush Camp
+          1	Chicken Grill
+          1	Chief's Hut
+          1	Chiefs Takeaways
+          1	China garden
+          1	Chinese Embassy
+          1	Chinese shop
+          1	Chinese store
+          1	Christ Embassy
+          1	Christ The King High School
+          1	Christ The Priest Mission
+          1	Christe House
+          1	Cidar
+          1	City Lights
+          1	Clara dome
+          1	Cleft Peak
+          2	Cliff
+          1	Cliff Edge
+          3	Clinic
+          1	Club 101
+          1	Club de Secrets
+          1	Co-op College
+          2	Cocobe
+          1	College staff houses
+          3	Commercial
+          2	Commercial Area
+          1	Commercial Plots
+          1	Community Council
+          2	Community Hall
+          1	Conershop- Ha Mzakes
+          1	Constitution Road
+          1	Constitution Road Constitution Road Constitution Road Const
+          1	Construction
+          1	Construction Supply route
+          1	Control BuilDing
+          1	Cool Public Bar
+          1	Coop colledge
+          1	Corner Pass
+          1	Correctional Service Residence
+          1	Correctional Training Centre
+          2	Cosmetic Connection
+          1	Council arc
+          1	Court
+          2	Crest
+          1	Crocery store
+          1	Crocodile
+          1	Cropped area
+          1	Crossroads
+          1	D10
+          1	D14
+          1	DA s Office
+          1	DC Human Resources
+          2	DHL
+          1	DLM complex
+          1	DSA
+          3	DSTV Agency
+          1	DUNNS Stores
+          3	Dam
+          1	De Bruyn
+          1	De Mazenod Vocational School
+          1	Debonairs Pizza
+          1	Deep Foundation Pre School
+          1	Dentist
+          1	Department of Agric
+          1	Department of Agriculture
+          1	Department of Civil Aviation DCA
+          2	Department of Forestry
+          1	Department of Gender and Youth
+          1	Department of Labour
+          2	Department of Physical Planning
+          3	Department of Roads
+          1	Department of Social Development
+          1	Department of Tourism and Environment
+          1	Department of Trade
+          1	Department of Transport and Traffic resiidence
+          1	Department of Transport and traffic
+          1	Department of rural roads
+          1	Des Rosiers Hall
+          1	Destiny Castle
+          1	Devil's Knuckles
+          1	Diabetes Centre & Healthy Lifestyles Clinic
+          1	Didima Buttress
+          1	Didima Dome
+          1	Difa
+          1	Dihlabeng Local Municipality
+          1	Dihlabeng Ward 12
+          1	Dihlabeng Ward 20
+          2	Dilli-Dilli
+          1	Dilli-Dilli Health Centre
+          1	Dilli-Dilli Local Court
+          8	Dinakeng
+          1	Dinosaur Footprints
+          1	Dion Complex
+          1	Dip
+          1	Dirt Track
+          2	Disaster Management Authority
+          1	District Administration
+          1	District Administration Department
+          2	District Administrative HQ
+          2	District Administrator
+          1	District Administrator Mafeteng
+          1	District Administrator's office
+          1	District Agricultural Office Mafeteng
+          1	District Council
+          1	District Council Parking Bay
+          1	District Health Management Team
+          1	District Sub-Accountancy
+          1	Doctor Bulane's Clinic
+          1	Dofty store
+          1	Domiciliary Clinic
+          2	Donga
+          1	Doorin Kop
+          1	Dougies Kitchen
+          1	Dove Road
+          2	Drakensberg
+          1	Dronk Straat
+          1	Dump
+          1	Dunns
+          1	Durban TY Masia Wholesale
+          1	Durnford
+          1	Dutch Reformed Congregation
+          1	E7
+          1	EXPRESS Stores
+          1	EXR Camp site
+          1	Ea Rona
+          1	Eagles High School
+          1	Ear Doctor
+          1	Easter Cave
+          2	Eastern Cape
+          1	Eastern Triplet
+          1	Easy Build Hardware
+          1	Easy Public Bar
+          1	Econet
+          1	Econet Lesotho
+          1	Econet Shop
+          1	Edgars
+          1	Education Department
+          1	Education Facilities Unit (EFU)
+          5	Education Office
+          1	Education Office Leribe
+          1	Education office
+          1	Ekh'ayeni Guest House
+          1	Elephant
+          1	Elibo Guest House
+          1	Elundini Local Municipality
+          1	Elundini Ward 13
+          1	Elundini Ward 14
+          1	Emanuel Hostel
+          1	Emmanuel Hostel and Good Shepherd Sisters' convent
+          1	Emmanuel SDA High School
+          1	Emmet's Tree
+          1	Emqheyen
+          4	Engen
+          1	Engen Northern
+          1	Englican shopping complex
+          1	Epic Printers
+          2	Eroded fields
+          1	Erodedv fields
+          1	Erskine
+          2	Erwee Street
+          1	Ethembeni Cafe
+          1	European Embassy
+          1	Evelyn Baring Road
+          1	Examination Council of Lesotho (ECOL)
+          1	Excel Garage
+          1	Excel Mohalalitoe
+          1	Excel, Khubetsoana
+          1	Executive Transport and Plant Hire
+          3	Exel
+          1	Exel Filling Station Mahobong
+          1	Exo-expo Trailers
+          1	Express Store
+          1	F1 Motor Spares
+          1	F11
+          1	F16
+          1	FIELD
+          3	FMU
+          1	FMU Store
+          2	FNB
+          1	FOOTBALL GROUND
+          1	FTF (Qoqolosana)
+          1	FU Rong 2
+          1	Fahida Supermarket
+          1	Fair Deal Filling Station
+          1	Fair Deal Motors
+          1	Fairview Avenue
+          1	Fairways
+          1	Fako Masopha
+          1	Fako Road
+          1	Falatsa
+          1	Falimehang Primary School
+          5	Fallow
+          2	Fanana River
+          1	Fangs Pass
+          1	Fantastic
+          3	Farm
+          2	Farmer's Training Centre
+          1	Farmers Training Centre
+          1	Farmers Training Centre 
+          1	Farmers' Training Centre [FTC]
+          4	Farmland
+          1	Fatima mission
+          1	Felix Vehicle Repiar
+          1	Felleng Blooming Place
+          2	Ficksburg Bridge
+          1	Ficksburg Bridge Border Control
+         20	Field
+          3	Fields
+          1	Fika-le-Motho River
+          1	Fill the Gap Ministries
+          1	Finance House
+          1	Financial Services
+          1	Fingers Fruits & Veg
+          1	First National Bank
+          1	Five Rand
+          1	Fix-it Auto Electric & Truck Parts
+          1	Flat Roof house
+          1	Fonane Bar and Resturant
+          2	Fontein Street
+          1	Food management Unit
+          2	Footbridge
+          5	Forest
+          1	Forestry
+          1	Forestry Department
+          1	Formosa Textile Company
+          1	Fort Hartley
+          1	Foschine
+          1	Foso Vehicle Testing Station
+          2	Fothane
+          1	Four Square
+          1	Frank
+          2	Frasers
+          1	Frasers Supermarket
+          1	Frasers wholesaler
+          1	Frazers supermarket
+          1	Free State
+          1	Freeway Motors
+          1	Freie Tankstelle
+          4	Friebel Estates
+          1	Friendly Mini Market
+          1	Frontline
+          1	Fruit and Veg City
+          1	Fu Rong 1
+          1	FuLi
+          1	Fuji Film
+          1	Fuleng Guest House
+          1	Full Gospel Ministry
+          1	Future Leaders Pre School
+          1	Future Stars BMX Track
+          1	Future Stars BMX track
+          1	GBets
+          1	GIZ
+          1	GOVERNMENT AGRICULTURAL OFFICES
+          1	GOVERNMENT RESIDENTIAL AREA
+          1	Gaf
+          1	Gain
+          1	Galaxy butchery
+          1	Galitos
+          1	Gallitos / Dominos Pizza
+          1	Game
+          1	Garden centre
+          1	Garden-Centre
+          1	Gate Way Fast Foods
+          1	Gate house
+          1	Gateway Filling Station
+          1	Gerard Circle
+          1	German Car Parts
+          1	Gethesman Mission
+          1	Gethesmane Primary School
+          1	Giant's Cup
+          2	Golden Gate Highlands National Park
+          1	Golden Pot Catering
+          1	Good Hope
+          1	Good Sheperd Primary School
+          1	Good Will
+          1	Goodnight Lodge
+          1	Goodrich tyres
+          1	Goodwill Auto Clinic
+          2	Government Filling Station
+          1	Government Housing(Staff)
+          1	Greater Kokstad Local Municipality
+          1	Greater Kokstad Ward 2
+          1	Gren's No 2 Supermarket
+          1	Grind meal
+          3	Grow
+          1	Guard House
+          1	Guardian Angel Primary School
+          1	Guilbo
+          1	Gully
+          1	Gypaetus Point
+          7	HA- TEBA
+          1	HA-LITEBOHO
+          1	HA-MPEKE
+          1	HA-MUSI
+          1	HA-TABA
+          1	HALL
+          1	HERMITAGE ROMAN CATHOLIC CHURCH
+          1	HLEOHENG LEC
+          1	HLEOHENG SECONDARY SCHOOL
+          1	HOLY FAMILY HIGH SCHOOL
+          3	HUC
+          2	HUT
+          1	Ha 'Ma Sqao
+          1	Ha 'Maleii
+          1	Ha 'Malesaoana
+          1	Ha 'Mantšebo
+          1	Ha Adam
+          1	Ha Au
+          2	Ha Bale
+          1	Ha Baroana
+          1	Ha Batere
+          1	Ha Beka
+          1	Ha Bereng
+          1	Ha Bereng Mants'o
+          1	Ha Bosofo
+          2	Ha Botso
+          1	Ha Bulara
+          1	Ha Chabalala
+          1	Ha Chachole
+          1	Ha Chopho
+          1	Ha Damanyane
+          2	Ha Elia
+          2	Ha Fakathe
+          2	Ha Fako
+          1	Ha Fauresmith
+          1	Ha Foloko Ratsoana
+          1	Ha Foso Encroachment Boundary
+          1	Ha Fulatse
+          1	Ha Fusi
+          1	Ha Fusi Scondary
+          1	Ha George
+          1	Ha Gideone
+          1	Ha Hashepe
+          1	Ha Hlasa
+          1	Ha Jane
+          1	Ha Jimisi
+          1	Ha Josefa
+          1	Ha Jubere
+          1	Ha K'hathe
+          1	Ha Kalinyane
+          1	Ha Kampa
+          1	Ha Ke-oa-Mang
+          2	Ha Keiso
+          1	Ha Keketsi
+          2	Ha Khabale
+          1	Ha Khakhu
+          1	Ha Kheola
+          1	Ha Khoai
+          1	Ha Khoalipane
+          1	Ha Khoane
+          2	Ha Khoarai
+          1	Ha Khoeli
+          1	Ha Khojane
+          1	Ha Khojane Cemetery
+          1	Ha Khomo-a-Bokone
+          1	Ha Khomoatsana
+          1	Ha Khopolo
+          1	Ha Khotso
+          1	Ha Koali
+          1	Ha Koeneho
+          2	Ha Kokoropo
+          1	Ha Koloi
+          1	Ha Kome
+          1	Ha Kome Cave Dwellings
+          1	Ha Kopialena
+          1	Ha Kose
+          2	Ha Kosetabole
+          1	Ha Lebamang
+          1	Ha Lebelonyane
+          1	Ha Lebina
+          1	Ha Leboea
+          1	Ha Lebona
+          1	Ha Lebonoe
+          1	Ha Lechesa
+          1	Ha Lefojane
+          1	Ha Lehlaha
+          1	Ha Lehloara
+          2	Ha Lehlohonolo
+          1	Ha Lekete
+          1	Ha Lekhema
+          1	Ha Lekhola
+          1	Ha Lekhooa
+          1	Ha Lenka
+          1	Ha Leoka
+          1	Ha Lephoi
+          1	Ha Leqele
+          1	Ha Leshalaba
+          1	Ha Lesholu
+          1	Ha Lesiamo
+          1	Ha Lesibo
+          1	Ha Letela
+          1	Ha Lethena
+          1	Ha Lethokoanyana
+          1	Ha Lethokonyane
+          1	Ha Letlatsa
+          1	Ha Lets'ola-thebe
+          1	Ha Letsie
+          1	Ha Libe
+          1	Ha Liile
+          1	Ha Liqa
+          1	Ha Lishobana sekoting
+          1	Ha Litabe
+          1	Ha Lobiane
+          1	Ha Loka
+          1	Ha Long
+          1	Ha Lori
+          1	Ha Loto Letsie
+          1	Ha Lukase
+          1	Ha Maanela
+          1	Ha Mabekenyane
+          1	Ha Machaha
+          1	Ha Machenene
+          1	Ha Mafa
+          1	Ha Mafonye
+          1	Ha Mafoso
+          2	Ha Mahala
+          1	Ha Mahase
+          1	Ha Mahlele-Hlele
+          1	Ha Mahloana
+          1	Ha Maholinyane
+          1	Ha Maimane
+          1	Ha Majara
+          2	Ha Makaka
+          1	Ha Makape
+          2	Ha Makhale
+          1	Ha Makhate
+          1	Ha Makhetloane
+          1	Ha Makhoahla
+          1	Ha Makhokho
+          2	Ha Makholoho
+          1	Ha Makirita
+          1	Ha Makoanyane
+          1	Ha Makoloane
+          1	Ha Makuasi
+          1	Ha Makujoe
+          3	Ha Makuka
+          1	Ha Malebanye
+          1	Ha Malefane
+          1	Ha Maliau
+          1	Ha Malibe
+          1	Ha Maloi
+          1	Ha Mamaethe
+          1	Ha Mamakanakisi
+          1	Ha Mamapho
+          1	Ha Mamathe
+          1	Ha Mamolibeli
+          1	Ha Mantal
+          1	Ha Mapaane
+          1	Ha Mapale
+          1	Ha Mapeshoane
+          1	Ha Maphohloane
+          1	Ha Mapote
+          1	Ha Mapotsane
+          1	Ha Marakabei
+          1	Ha Martins
+          1	Ha Marutle
+          1	Ha Masakale
+          1	Ha Masena
+          1	Ha Mashapha
+          1	Ha Matala
+          1	Ha Matata
+          1	Ha Mateka
+          1	Ha Matela
+          1	Ha Mathabathe
+          1	Ha Mathabela
+          1	Ha Matjotjo
+          1	Ha Matlosa
+          1	Ha Matsepe
+          1	Ha Mmutse
+          1	Ha Moalosi
+          1	Ha Moeketsi
+          1	Ha Moena
+          1	Ha Moepi
+          1	Ha Mofammere
+          1	Ha Mofefa
+          1	Ha Mofeli
+          1	Ha Mofoka
+          1	Ha Mohai
+          1	Ha Mohalakana
+          1	Ha Mohale
+          1	Ha Mohanyane
+          3	Ha Mohapi
+          1	Ha Mohapi Graveyard
+          1	Ha Mohasoa
+          1	Ha Mohatlane
+          1	Ha Mohlanka
+          1	Ha Moholobela
+          1	Ha Mojela
+          1	Ha Moji
+          1	Ha Mokausi
+          1	Ha Mokhalo
+          1	Ha Mokhameleli
+          1	Ha Mokhamelili
+          1	Ha Mokhehle
+          1	Ha Mokhenene
+          1	Ha Mokheseng
+          1	Ha Mokhesi
+          2	Ha Mokhethi
+          1	Ha Mokhotoko
+          1	Ha Mokone
+          2	Ha Molahli
+          1	Ha Molengoane
+          1	Ha Molikoe
+          1	Ha Molomo
+          2	Ha Monamoleli
+          5	Ha Monate
+          4	Ha Monethi
+          1	Ha Monki
+          1	Ha Mookho
+          1	Ha Moorosi
+          2	Ha Mopeli
+          1	Ha Moqalo
+          1	Ha Moroke
+          1	Ha Moruthoane
+          1	Ha Mosa
+          1	Ha Moshake
+          1	Ha Moshe
+          1	Ha Mosi
+          2	Ha Mosiuoa
+          1	Ha Mosoeu
+          2	Ha Mosotho
+          1	Ha Mosuhli
+          1	Ha Motanyene
+          1	Ha Mothe
+          1	Ha Motjoka
+          1	Ha Motjotji
+          1	Ha Motlalentoa
+          1	Ha Motleleng
+          1	Ha Motloheloa
+          1	Ha Motloi
+          1	Ha Motlomelo
+          1	Ha Motolo
+          1	Ha Mots'oeneng Filling station
+          2	Ha Motseare
+          1	Ha Motseki
+          1	Ha Motsoari
+          1	Ha Motsoene
+          1	Ha Motšoeneng
+          1	Ha Mouti
+          1	Ha Mpeako
+          1	Ha Mpeli
+          1	Ha Mpesi
+          1	Ha Mphafi
+          1	Ha Mphaki
+          1	Ha Mphele
+          2	Ha Mpiti
+          1	Ha Mpo
+          1	Ha Mpoba
+          1	Ha Mpusi
+          1	Ha Naile
+          1	Ha Nchela
+          1	Ha Nchoba
+          1	Ha Nchoch
+          1	Ha Ngoatonyane
+          1	Ha Nkalimeng
+          1	Ha Nkeane
+          1	Ha Nkhema
+          1	Ha Nkhetheleng
+          1	Ha Nkhetloane
+          1	Ha Nkhoakhoa
+          1	Ha Nko
+          1	Ha Nkoana
+          1	Ha Nkoebe
+          1	Ha Nkokana
+          1	Ha Nkuebe burial ground
+          1	Ha Nqheku
+          1	Ha Nqosa
+          1	Ha Ntaote
+          1	Ha Ntate Sthibi
+          1	Ha Nte
+          1	Ha Ntho
+          1	Ha Ntholeng
+          1	Ha Nthunya
+          1	Ha Ntja
+          1	Ha Ntlama
+          1	Ha Ntlane
+          1	Ha Ntsane
+          1	Ha Ntsi
+          1	Ha Ntsoha
+          1	Ha Ntsooa
+          1	Ha Ntšoeu
+          1	Ha Paanya
+          1	Ha Paka
+          1	Ha Patrick
+          1	Ha Peete Khalong la likhama
+          1	Ha Peete Moreneng
+          1	Ha Peete Tlokoeng
+          1	Ha Penapena
+          1	Ha Petje
+          1	Ha Phakalasane
+          1	Ha Phalana
+          1	Ha Phatela
+          1	Ha Phechela
+          1	Ha Phohleli Makoaleleng
+          1	Ha Piti
+          1	Ha Poli
+          1	Ha Popa
+          1	Ha Poqa
+          1	Ha Poso
+          1	Ha Potiane
+          1	Ha Potomane
+          1	Ha Qhasisi
+          1	Ha Qoane
+          1	Ha Rabele
+          1	Ha Raboletseng
+          1	Ha Rabotsoa
+          1	Ha Rakhomo
+          2	Ha Ralebese
+          1	Ha Ralefepo
+          1	Ha Ralisieng
+          1	Ha Ralithebe
+          1	Ha Ramabanta
+          1	Ha Ramabele
+          1	Ha Ramakhetheng
+          1	Ha Ramakhokolotso
+          1	Ha Ramarumo
+          1	Ha Ramathe
+          1	Ha Ramatlama
+          1	Ha Ramatlokotsi
+          1	Ha Ramatsa
+          1	Ha Ramatsiliso
+          1	Ha Rammoroane
+          1	Ha Ramohapi
+          1	Ha Ramokoening
+          1	Ha Ramonaheng
+          1	Ha Ramorakane
+          1	Ha Ramoroba
+          1	Ha Ramoseeka
+          1	Ha Ramosoeu
+          1	Ha Ramothamo
+          1	Ha Ramotobolo
+          1	Ha Rampa
+          1	Ha Rankakala
+          1	Ha Rankokoto
+          1	Ha Rantelali
+          1	Ha Rants'etse
+          1	Ha Rantsala
+          2	Ha Raphera
+          1	Ha Rasekhamoli
+          1	Ha Ratemo
+          1	Ha Ratulo
+          1	Ha Robi
+          1	Ha Roelane
+          1	Ha Salomane
+          2	Ha Samuele Lefoka
+          1	Ha Sankatana
+          1	Ha Santi
+          1	Ha Sebapala
+          1	Ha Sebete
+          1	Ha Seboche
+          3	Ha Seeiso
+          1	Ha Seeiso Letsosa
+          1	Ha Sekatle
+          1	Ha Sekeleme
+          2	Ha Sekepe
+          1	Ha Sekete
+          1	Ha Sekhonyana
+          1	Ha Sekoati
+          1	Ha Sekunyane
+          1	Ha Seleitara
+          1	Ha Seliane
+          1	Ha Sempe
+          1	Ha Senekane
+          1	Ha Seng
+          1	Ha Senkoase
+          1	Ha Sephooko
+          1	Ha Sepono
+          2	Ha Sera
+          1	Ha Setefane
+          3	Ha Setene
+          1	Ha Setene Roads Inspectorate Camp
+          1	Ha Setoko
+          1	Ha Setsena
+          1	Ha Shemane
+          2	Ha Simone
+          1	Ha Simone Cemetry
+          2	Ha Souru
+          1	Ha Suone
+          1	Ha T'sepiso village
+          1	Ha Taaso
+          1	Ha Takalimane
+          1	Ha Tanause
+          1	Ha Tankiso
+          1	Ha Telu Khunoana
+          1	Ha Thaabe
+          1	Ha Thaba Bosiu
+          1	Ha Thaba-Bosiu
+          1	Ha Thabane
+          1	Ha Thabo
+          1	Ha Theko
+          1	Ha Theletsane
+          1	Ha Thibeli
+          1	Ha Thite
+          2	Ha Thoora
+          1	Ha Thoso
+          1	Ha Tiela
+          1	Ha Tikoe
+          1	Ha Tjooeng
+          1	Ha Tlali
+          1	Ha Tlele
+          1	Ha Tlhabeli
+          1	Ha Tlhaku
+          1	Ha Tlhoboha
+          1	Ha Toloane
+          1	Ha Tonki
+          1	Ha Tota
+          1	Ha Ts'ehla
+          1	Ha Tsautse
+          1	Ha Tsehlana
+          1	Ha Tseka
+          1	Ha Tsese
+          1	Ha Tsielala
+          1	Ha Tsilonyane
+          1	Ha Tsitso
+          1	Ha Tsolo
+          1	Ha Tsui
+          1	Ha Tumo
+          1	Ha Tšenase
+          1	Ha Zakia
+          1	Ha hlalele
+          1	Ha kamoho cemetery
+          1	Ha lekhobanyane
+          1	Ha mmafish
+          1	Ha mpaki
+          1	Ha pokane
+          1	Ha'Bolisi
+          1	Ha'Makatane
+          1	Ha-'Mathata
+          1	Ha-'Mathata Cemetery
+          1	Ha-Abiele
+          1	Ha-Balimo
+          1	Ha-Bulara
+          1	Ha-Chonapase
+          1	Ha-Fako
+          1	Ha-Foso
+          1	Ha-Janki
+          1	Ha-Kotola Primary School
+          1	Ha-Lota
+          1	Ha-Makhalanyane
+          1	Ha-Malefane
+          1	Ha-Maputsoe
+          1	Ha-Maqele
+          1	Ha-Modipa
+          1	Ha-Moholisa
+          1	Ha-Moikhomosi
+          1	Ha-Mokhalinyane Thupa-Likaka
+          1	Ha-Mokhathi
+          1	Ha-Mokhothu
+          1	Ha-Molahlehi
+          1	Ha-Molibeli
+          1	Ha-Mothibe
+          1	Ha-Motumi
+          1	Ha-Mphenyeke
+          1	Ha-Nelese
+          1	Ha-Nyenye
+          1	Ha-Phooko
+          1	Ha-Phula
+          1	Ha-Posho
+          1	Ha-Rantuba
+          1	Ha-Seoli
+          1	Ha-Tjopa
+          1	Ha-Tlai-Tlai
+          1	Ha-Toloane
+          1	Ha-Topisi
+          1	HaRamachini
+          1	Habo Rona General Cafe
+          1	Habo-TEBELLO MOKOENA
+          1	Hairclinic
+          1	Half Moon Half Moon
+          1	Half Moon Road
+          1	Hall
+          3	Hammarskjold Street
+          1	Hamoseli
+          1	Hands of Life
+          1	Happy Supermarket
+          1	Happy Villa
+          1	Happy tree friends
+          1	Harambe Hut
+          1	Harambe River
+          1	Harambe's Woods
+          1	Hareeng High School
+          1	Hatooa Mose Mosali (arts and crafts)
+          1	Health Center
+          1	Health Centre
+          1	Health Staff Housing
+          1	Health Sub Center
+          2	Hedge
+          1	Hekeng
+          1	Hellenic fc
+          1	Hermitage Clinic
+          1	Hermitage Mission and High School
+          1	Hermon
+          3	Hermonrivier
+          1	Hi -Q Auto Parts
+          2	High Court
+          1	High Way Supermarket
+          1	Highland Water Project Development Authority
+          1	Highlands Trout Farm
+          1	Highway Spares City
+          1	Hilight Supermarket
+          2	Hill Top
+          1	Hills View
+          1	Hillside Commercial Centre
+          1	Hillside Store
+          1	Hillsview
+          1	Hillsview Guest House
+          4	Hilton Road
+          7	Hiotse River
+          1	Hip-Hop Shoe Shop
+          1	Hlakacha Primary School
+          1	Hlalele High School
+          1	Hlalele Primary School
+          1	Hlathimbe Cave (North)
+          1	Hlathimbe Cave (South)
+          1	Hlatsoa Cleaning Products
+          1	Hleoheng Community Council
+          1	Hleoheng LEC Primary School
+          1	Hlokoa-le-monate
+          2	Hlotse
+          1	Hlotse (Leribe)
+          1	Hlotse Cemetry
+          1	Hlotse High School
+          2	Hlotse Horse Race Course
+          1	Hlotse L.E.C
+          1	Hlotse L.E.C Primary
+          1	Hlotse Methodist Primary School
+          1	Hlotse Mosque
+          1	Hlotse Police Residence
+          1	Hlotse Street
+          1	Hlotse Urban council
+          1	Hlotse main street
+          1	Ho Keonane
+          1	Hodgson's Peak North
+          1	Hodgson's Peak South
+          2	Hohobeng River
+          1	Holantu
+          1	Holo Ea Mmuso ea Lipaki tsa Jehova
+          1	Hololo
+          2	Hololo Agric Scheme
+          1	Hololo Agric scheme
+          1	Hololo Primary School
+          1	Hololo River
+          1	Hololo river
+          2	Holy Cross
+          1	Holy Cross High School
+          1	Holy Family Girls Hostel
+          3	Holy Innocent Primary School
+          1	Holy Trinity
+          1	Holy Trinity ACL
+          1	Holy Trinity Anglican Church
+          1	Holy Trinity Health Centre
+          2	Holy Trinity High School
+          1	Holy Trinity Mission
+          1	Holy Trinity Nurses Home
+          1	Holy Trinity Primary
+          1	Holy Trinity Primary School
+          1	Holycross Salon
+          1	Home Affairs Office
+          1	Home Hardware
+          1	Hong Da Lesotho
+          1	Hoohlo Police Station
+          1	Hoohlo Primary School
+          1	Hop inn
+          1	Hospital Road
+          1	Hostel
+          1	Hot
+          2	Hungry Lion
+          1	Hustads Pharmacy
+         11	Hut
+          1	IBC College
+          1	ICP
+          1	ICT LAB
+          1	IDM
+          3	IEC
+          1	IEMS
+          1	Icidi Buttress
+          1	Icidi Cave
+          1	Icidi Pass
+          1	If Not Why Not Public Bar
+          2	Ifidi
+          1	Ifidi Buttress
+          1	Ifidi Cave
+          1	Ifidi Pass
+          1	Iketsetse Primary School
+          1	Iketsetseng Primary School
+          1	Imbabazane Local Municipality
+          1	Imbabazane Ward 2
+          1	Immigation Department
+          1	Impendle Local Municipality
+          1	Impendle Ward 1
+          1	InStyle Farm Feeds
+          1	Independand Electral Commission Center
+          2	Independent Electoral Commission
+          1	Independent Electoral Commission Offices
+          1	Injasuti Pass
+          1	Injasuti Summit Cave
+          1	Innovations Hair Salon
+          1	Instituional (Education)
+          1	Institute of Extra Mural Studies
+          1	Institute of Extra Mural Studies (IEMS)
+          1	Institute of Extra Mural Studies Mahobong
+          1	Institutional (Education)
+          1	Instyle Fashions
+          1	Intake Tower Water
+          1	International Furnisher World
+          1	Ipopeng-Sechaba Primary School
+          1	Islamic Mosque
+          1	Itekeng High School
+          1	Ithatz House
+          1	Its a TREE
+          1	Itumeleng English Medium Primary School
+          1	JACKPOT Supermarket
+          1	JET Stores
+          1	JJ Gas
+          2	JP Finance
+          1	Jackpot General Cafe
+          1	Janki Butchery and Restaurant
+          1	Jeemeez
+          1	Jeh
+          1	Jehova's Witness
+          1	Jehova's Witnesses
+          1	Jehovah's Witness
+          1	Jellyfish stream
+          1	Jersey Mechanics and Repairs
+          1	Jet
+          1	Jet Stores
+          1	Jimis LEC Church
+          1	Jimis Primary School
+          1	Jin Lin
+          1	Joe Gqabi District Municipality
+          1	Joele Road
+          2	Joele Road Joele Road Joele Road Joele Road
+          1	Jonathan's Anglican Church
+          5	Jordane River
+          1	Josiase
+          1	Joy to the World
+          1	Judge Pass
+          4	Judge's Pass
+          5	KFC
+          1	KFC COMMUNITY CENTRE
+          1	Ka Pitseng
+          1	Ka pitseng
+          1	Ka-Masihlenga River
+          3	Kakoatsan
+          1	Kambule
+          1	Kao Mine
+          3	Kao River
+          1	KapTech
+          1	Karabo Family Clinic
+          1	Karall
+          1	Karee Street
+         18	Karral
+          1	Kasa Public Bar
+          1	Katana
+          1	Katleho Primary School
+          1	Katlehong LMPS AHF
+          1	Katlehong Primary School
+          1	Katse Airport
+          2	Katse Dam
+          1	Katse Intake Water Tunnel
+          1	Katse Lodge Guesthouse
+          2	Katse Reservoir
+          2	Kenya Primary School
+          1	Kepisi Primary School
+          8	Ketane River
+          1	Ketanyane River
+          1	Keubunyane
+          1	Khali Hotel
+          1	Khama
+          1	Khan Cellular
+          1	Khantsi River
+          1	Khanyane L.E.C. SA
+          1	Khanyane LEC Primary School
+          1	Khasapane High School
+          2	Khatibe
+          1	Khatibe Primary School
+          1	Khayalethu Phamarcy
+          1	Khetheng Maqelepo
+          1	Khethisa Boys and Girls Hostel
+          1	Khethisa High School
+          1	Khilibiting
+          1	Khitsane
+          1	Khlohoe
+          1	Khoabalaejabohobe
+          1	Khoabalaejabohobe Road
+          1	Khoaisanyane
+          1	Khoaling Guest House
+          1	Khohloaneng
+          1	Khohlontso River
+          1	Khojane Primary School
+          1	Khokhoba
+          2	Kholokoe
+          1	Kholopo Driving School
+          1	Khomo-Khoana Credit Union
+          2	Khomo-Nala Ha Senyokotho
+          1	Khomoatsana Quarry Site
+          1	Khomotsoana
+          2	Khorong
+          1	Khotla Tower
+          1	Khotleng
+          1	Khotso
+          1	Khotso Buildware
+          1	Khotso Maqelepo
+          1	Khotso Pula Nala
+          1	Khotsong Lodge
+          1	Khotsong Section
+          1	Khotsong Vocational School
+          5	Khubelu
+          1	Khubelu Street
+          3	Khubetsoana
+          1	Khubetsoana Clinic
+          2	Khubetsoana High School
+          1	Khukhune River
+          1	Khwabo
+          1	Kims Educare Nursery
+          1	King's Gate High School
+          1	King's Gate Primary
+          1	King's Residence
+          1	Kingdom Restaurant
+          9	Kingsway
+          1	Kinom Furniture
+          4	Koakoatsi
+          1	Koalabata
+          1	Koali Primary School
+          1	Koaring
+          4	Kobong
+         24	Koffi Annan
+          1	Kofi Annan
+          1	Kokobela village
+          1	Kolberg Airport
+          2	Kolo-la-Tsoene River
+          1	Kolonyama Corporatives Society
+          1	Kolonyama LEC Primary School
+          1	Kolonyama Market
+          1	Kolonyama Postal Services
+          1	Kolonyama Pottery
+          1	Kolonyama mills
+          1	Koma-Koma
+          2	Koma-koma
+          1	Kome Catering
+          1	Kome Catering School
+          1	Kome Information Center
+          1	Komeng
+          1	Komeng Primary School
+          1	Konkonyane
+          1	Konkotia
+          1	Kopanang Matebele
+          1	Koro koro
+          2	Koro-Koro River
+          3	Koro-koro
+          1	Koti-Sphola Restaurant
+          1	Kotisephola
+          1	Kou Construction site
+          1	Koung
+          1	Koung-ea-Seaka Primary School
+         12	Kraal
+          2	Krall
+          1	Kromdraaisdrif
+          1	Kubake communitycouncil office
+          1	Kubedu
+          2	Kubetu
+          1	Kubung
+          1	Kuebunyane
+          1	Kuena Book Centre
+          4	Kuena Road
+          1	Kwa Sani Local Municipality
+          1	Kwa Sani Ward 1
+          1	Kwa Sani Ward 4
+          1	Kwa-Lichaba
+          1	KwaDuma
+          2	KwaZulu-Natal
+          2	Kwakwatsi
+          1	LA LA LAND
+          1	LCE
+          1	LCN
+          1	LCS
+          1	LCS staff Housing
+          2	LEC
+          1	LEC Primary School
+          1	LEGIT
+          1	LEHCOOP ROAD
+          1	LEO Computers
+          2	LHDA
+          1	LITTLE DARLING ENGLISH MED SCHOOL
+          1	LLLLLLL
+          1	LNDC
+          1	LNDC Area
+          1	LNDC Centre
+          2	LPG
+          3	LPPA
+          1	LRA Warehouse
+          1	Labour Office
+          1	Lady Dentist
+          1	Lahla Kobo
+          1	Lahla-Kobo
+          1	Lake Site Filling Station
+          1	Lakeside
+          2	Lakeside Hotel
+          1	Lakesite Fast food
+          1	Lakeview Guest House
+          1	Laluma Building Materials
+          1	Lancer's Gap
+          1	Lancer's Gap Road
+          1	Lancer's Gap Supermakert
+          1	Lancers Inn
+          1	Lancers Road Lancers Road Lancers Road
+          1	Lancers street
+          1	Land Administration Authority (LAA)
+          1	LandUse LSPP
+         24	Landbank
+          1	Lands, Surveys & Physical Planning
+          1	Laoti
+          1	Lap lume
+          1	Lazarus Primary School
+          3	Le_cop
+          1	Lebakeng
+          1	Lebakeng Airport
+          2	Lebakeng River
+          1	Lebelonyane Primary School
+          1	Lebo
+          1	Lec primary
+          2	Lechesa Road
+          1	Ledger´s Cave
+          1	Leeurivier (Phatlaletse) River
+          1	Lefeela Street
+          1	Lefika=la-Botsane
+          1	Lefikeng
+          2	Lehafing
+          1	Lehaha la Malimo
+          1	Lehaheng
+          1	Lehakoe Club
+          1	Lehlaha Cemetry
+          1	Lehlakeng
+          1	Lehloara Primary School
+          1	Leisanyane House
+          1	Lejakane Primary School
+          1	Lejone
+          1	Lejone Substation
+          1	Lekhafola
+          1	Lekhaloaneng
+          4	Lekhalong
+          3	Lekhalong Ha Lebeko
+          1	Lekhalong-la-Lithunya
+          1	Lekhanya Bridge
+          1	Lekhotla
+          5	Lekoantlana
+          1	Lekoatsa
+          2	Lekokoaneng
+          1	Lekokoaneng Combined School
+          1	Lekula Primary School
+          1	Leloaleng Technical Institute
+          1	Leloko Road
+          1	Lencers Gap Road
+          1	Lenkotong
+          1	Lenole Tyres
+          1	Lentsoaneng Primary School
+          1	Leosotho Electricity Company
+          2	Lepaqoa River
+          1	Lepaqoa Waterfall
+          4	Lephofung Cave
+          1	Lephofung Cave Reception
+          1	Lepolesa
+          1	Lepoqo Road
+          1	Lepoqong Clinic
+          1	Leqele Combined School
+          2	Lerakong
+          1	Lerato Primary School
+          1	Leratong ECCD
+          1	Leratong General Dealer
+          1	Leribe
+          1	Leribe Airport
+          1	Leribe Correctional Facility (Prison)
+          1	Leribe District
+          1	Leribe District Council Reserve Chief Office
+          1	Leribe English Medium FootBall Ground
+          1	Leribe English Medium School
+          1	Leribe High School
+          1	Leribe High School Sports
+          1	Leribe Margistrate Court
+          1	Leribe Minisrty of Forestry and Land Reclamation Offices
+          1	Leribe Ministry of Agric and Food Security Office
+          1	Leribe Pitso House
+          4	Leribe Police HQ
+          1	Leribe Primary School
+          1	Leribe Roads Inspectorate Offices
+          2	Lerotholi Polytechnic
+          1	Lerotholi Road
+          7	Lesaka
+          1	Lesaoana
+          1	Leseli Community School
+          1	Leseli Fast Food
+          1	Leseling
+          1	Leshoboro stadium
+          1	Leshoboro stadium - track
+          1	Lesia High School
+          1	Lesia Public Bar
+          1	Lesiamo Plateau
+          1	Lesiamo Primary School
+          1	Lesiamo Primary School Play Grounds
+          1	Lesiamo Primary School Road
+          1	Leslie's Pass
+          1	Leslies Pass
+          1	Lesobeng Airport
+          1	Lesobeng River
+          2	Lesotho
+          1	Lesotho Agricultural College
+          1	Lesotho Aluminium & Glass
+          1	Lesotho Bank Credit Unit
+          1	Lesotho Bank Main Branch
+          1	Lesotho Bank Tower
+          1	Lesotho Border Gate
+          2	Lesotho College of Education
+          2	Lesotho Correctional Services
+          1	Lesotho Defence Force Barracks
+          1	Lesotho Defense Force millitary barracks
+          2	Lesotho Electric Corporation
+          2	Lesotho Electricity Company
+          1	Lesotho Electricity Company Housing Complex
+          2	Lesotho Electricity Corporation
+          1	Lesotho Electricity company
+          1	Lesotho Evangelical Church
+          1	Lesotho Evangelical Church (LEC)
+          1	Lesotho Evangelical Church - Leribe
+          2	Lesotho Flour Mill
+          2	Lesotho Flour Mills
+          2	Lesotho Football Association
+          1	Lesotho Funeral
+          3	Lesotho Funeral Service
+          9	Lesotho Funeral Services
+          1	Lesotho Funeral Services (undertakers)
+          1	Lesotho Funneral
+          1	Lesotho Highlands Water Project
+          1	Lesotho Housing
+          1	Lesotho Institute of Accounting
+          1	Lesotho Meteorological Services Headquarters
+          1	Lesotho National Broadcasting Corporation (LNBC)
+          1	Lesotho Network of People with AIDS
+          1	Lesotho News Agency Berea
+          1	Lesotho Nissan
+          1	Lesotho Pharmaceutical Corporation
+          2	Lesotho Revenue Authority
+          1	Lesotho Scout Association
+          1	Lesotho Shoes
+          1	Lesotho Stone Products
+          1	Lesotho Travel Agency
+          1	Lesotho Workcamps Association
+          1	Lesotho funeral services maputsoe branch
+          1	Letchesa Road
+          1	Lethibellane
+          1	Lethole Road
+          1	Lethole Street
+          2	Letlapeng
+          1	Letlatsa Masupha
+          1	Letlatsa Road
+          1	Letloepe 1
+          1	Letloepe guest house
+          3	Letsatseng
+          1	Letsatseng Ha Thekiso
+          1	Letseng Airstrip
+          3	Letseng Diamond Mine
+          1	Letseng Diamonds
+          1	Letshego Financial Services
+          1	Letsika Primary School
+          1	Levi's Nek
+          1	Levi's Nek Health Clinic
+          4	Lewis
+          1	Lewis Store
+          1	Lexeni
+          1	Li 50 ranteng
+          1	Libataolong
+          1	Liberty
+          1	Libibing Primary School
+          1	Libibing clinic
+          1	Libobeng River
+          1	Library
+          1	Lieta Leather Works
+          1	Life High School
+          1	Lifefo
+          1	Light of Life nursery
+          1	Liheleng
+          3	Likalaneng River
+          1	Likatola Horse Riding and Adventure
+          2	Likatola Horseriding
+          1	Likepe Gov. School
+          1	Likepolane offsales
+          1	Liketaneng
+          1	Likhetlane River
+          1	Likhetleng
+          1	Likhoele Principal Chief Residential Home
+          1	Likhotola Farm Produce
+          1	Likhotolieng
+          1	Likhotolieng Govenment School
+          1	Likila B02
+          1	Likila High School
+          1	Likila Road
+          1	Likileng
+          1	Likileng English Medium School
+          1	Likoaeng
+          1	Likoche
+          1	Likoena fc
+          1	Likolobeng
+          1	Likolobeng River
+          1	Likoting Ha-Lejone
+          1	Likotjaneng
+          1	Likotsi
+          1	Likotsi Filter Clinic
+          1	Likuena High School
+          1	Lilala
+          1	Lily Supermarket
+          1	Limamarela fc
+          2	Limkokwing University of Creative Technology
+          2	Linakeng River
+          1	Linakotseng
+          2	Linare Road
+          1	Linareng
+          1	Linareng High School
+          1	Linder Street
+          1	Lindy's B&B
+          1	Lindy's Catering
+          1	Line Up Supermarket
+          2	Linearre Road
+          2	Lineo
+          1	Link Chemist
+          2	Linl to B32
+          1	Linots'ing
+          7	Linotsing
+          1	Linotsing L.E.C.SA Primary
+          1	Linotsing Pre-School
+          1	Linotsing Primary School
+          1	Linotsing Public Cemetery
+          1	Lioli Butchery
+          1	Lioli High School
+          1	Lioli Street
+          1	Lioli Street Lioli Street Lioli Street
+          1	Lioli Weaving
+          1	Lioli football ground
+          1	Lioli pitch
+          1	Liotloaneng River
+          1	Lipeieseng
+          1	Lipelaneng River
+          1	Lipeleseng (Ha Phohlonyane)
+          1	Liphafeng
+          6	Liphakoeng
+          1	Liphakoeng Primary School
+          1	Liphapang
+          1	Liphateng
+          2	Liphiring
+          3	Liphiring River
+          1	Liphofung Cave
+          1	Liphofung Cultural Village
+          1	Liphokoaneng
+          1	Lipohong
+          1	Liqala
+          1	Liqaleng River
+          1	Lirabeleng
+          1	Liraoeleng
+          1	Liraoheleng LECSA
+          1	Liraoheleng LECSA Library
+          1	Liraoheleng LECSA Primary School
+          1	Lisemeng 1
+          1	Litaleng
+          1	Litatso cafe
+          1	Litaung
+          5	Literapeng
+          3	Lithabaneng
+          2	Lithabaneng City Gate General Café
+          1	Lithabaneng Ha 'Matau
+          1	Lithabaneng Ha Sehloho
+          1	Lithabaneng Pharmacy
+          1	Lithakong
+          1	Lithipeng
+          1	Lithobolong
+          2	Lithotaneng
+          1	Lithoteng
+          1	Lithoteng Filter Clinic
+          1	Lithoteng LEC Church
+          1	Lithoteng LEC Primary
+          1	Lithoteng Police Station
+          1	Litjetjela General Cafe
+          1	Litlhoareng
+          1	Litlhoatsaneng
+          1	Litlhoatšaneng Ha-Lelahla
+          1	Litlhoatšaneng Ha-Mokhethi
+          1	Litlhoatšaneng Primary School
+          1	Litoaneng
+          1	Litooane
+          1	Lits'epe
+          1	Lits'ilo FootBall Club Pitch
+          1	Litseng
+          1	Litsiling
+          3	Litsoetse River
+          1	Litsukulung
+          1	Little Caledon
+          2	Little Saddle Peak
+          1	Livestock
+          1	Loan Office
+          3	Lobiane-Likhotolieng Road
+          3	Local Court
+          1	Local Government
+          1	Local Government Housing Complex
+          1	Local court
+          1	Lohojeng
+          1	Long Wall
+          1	Loretto Mission
+          2	Loretto Primary
+          1	Losberg Street
+          3	Lota Road
+          2	Lotheni
+          1	Loti Brick
+          1	Loti Primary School
+          1	Louis Motor Spares
+          1	Lovely Care Pharmacy
+          1	Lovely Cosmetics
+          1	Lower Ndumeni Cave 1
+          1	Lower Ndumeni Cave 2
+          1	Lower Thamae
+          1	Lower Thetsane
+          1	Lower-Moyeni Filling Station
+          1	Lucky 7
+          1	Lucky Hardware
+          1	Luma Pan
+          1	Lumang
+          1	Lynx Cave
+          1	MAIN GATE
+          1	MAMA's Take Away
+          1	MAPUTSOE WEIGH BRIDGE
+          1	MASERU BORDER CONTROL
+          1	MASOWE III
+          1	MCJ Spares
+          1	MEMORY LANE!
+          1	MGC Concrete Mixing Plant
+          1	MGC buildng
+          1	MISA Lesotho
+          1	MKM Burial Society
+          1	MKM Industrial Area
+          1	MKM Motuary
+          1	ML Butchery & Catering
+          1	MM Catering
+          1	MM Veterinary Clinic
+          3	MOA Offices
+          1	MOET Admin.
+          1	MOHATO RING STREET
+          1	MOLUMONG LODGE
+          1	MOSHOESHOE
+          4	MPilo
+          1	MR Wors Butchery
+          1	Ma-Tycoon
+          2	Maapara-kobo
+          1	Mabala Maqelepo
+          1	Mabathoana High School
+          1	Mabekebeke Road
+          2	Mabelebele street
+          1	Mabeli a Mabeli
+          1	Mabeoana Football Ground
+          1	Mabile Road
+          1	Mabitle Flats
+          1	Mabitseng
+          1	Maboee Primary School
+          1	Maboelleng
+          1	Maboloka Road
+          4	Mabote
+          1	Mabote Clinic
+          2	Mabote LEC
+          1	Mabote Police Station
+          1	Mabote Primary
+          1	Mabote Primary School
+          1	Mabotse
+          1	Mabuleng Primary School
+          1	Mabuleng Secondary School
+          1	Mabunyaneng
+          2	Machabeng
+          1	Machabeng Farm Feed
+          1	Machabeng High School
+          1	Machabeng Hospital
+          1	Machabeng Plumbers
+          1	Machabeng Sports Ground
+          1	Machabeng road
+          2	Machache
+          1	Machache Road Machache Road
+          1	Machakaneng
+          1	Madonna and Her Worshippers
+          1	Maeder House Gallery
+          1	Maele Fruits and vegetables
+          1	Mafadi
+          2	Mafeteng
+          2	Mafeteng Airport
+          2	Mafeteng Community Radio
+          1	Mafeteng District
+          1	Mafeteng District Council
+          1	Mafeteng Egg Circle
+          1	Mafeteng High School
+          1	Mafeteng Hospital
+          1	Mafeteng Hotel
+          1	Mafeteng LEC Primary
+          1	Mafeteng Police Station
+          1	Mafeteng Substation
+          1	Mafeteng Urban Council
+          1	Mafika Lisiu (Ha Keletso)
+          1	Mafika-Lisiu Pass
+          1	Mafika-Lisiu Primary School
+          2	Mafikeng
+          1	Mafole Road
+          1	Mafube Primary School
+          1	Magents Bar
+          1	Magents Offsales
+          1	Magistrate court
+          1	Magistrates Court
+          1	Mahahleng
+          1	Mahala Primary School
+          1	Mahaneng Primary School
+          1	Mahlabatheng
+          1	Mahlakaneng Primary School
+          1	Mahlakapese Guest House
+          1	Mahlasela Pass
+          1	Mahlaseli Primary School
+          1	Mahlo-Matala
+          1	Mahloenyeng
+          1	Mahlokoane Jazz Bar
+          1	Mahobong Government Clinic
+          1	Mahobong LECSA
+          1	Mahobong LECSA Primary School
+          1	Mahobong Ministry of Agric Residences
+          1	Mahobong Moreneg Cemetery
+          1	Mahobong Moreneng
+          3	Mahobong Moreneng Road
+          1	Mahobong Post Office
+          1	Maholing Road
+         17	Main North 1
+          5	Main South
+          2	Main South Road
+          1	Main South1
+          1	Main road
+          3	Main south 1
+          1	Majakane
+          1	Majakaneng
+          1	Majantlhaneng
+          1	Majara Local Court
+          1	Majoe Matso Primary School
+          1	Majoematso
+          1	Major Bell Tour
+          1	Makabelane River
+          1	Makalepentseng
+          1	Makaneng
+          1	Makanise
+          1	Makaota Spares
+          1	Makape Primary School
+          1	Makara General Dealers
+          1	Makara Shopping Centre
+          1	Makatseng
+          1	Makaung
+          1	Makeneng
+          1	Makeoane Community Council
+          1	Makhahlela Stream
+          2	Makhalaneng
+          2	Makhalaneng milling
+          6	Makhaleng
+          2	Makhaleng Bridge
+          2	Makhaleng Bridge Border Control
+          6	Makhaleng River
+          1	Makhalong primary school
+          1	Makhanyeng
+          1	Makhaola High School
+          5	Makhapung
+          1	Makhetha Fresh Meat Wholesalers
+          1	Makhetha Street
+          1	Makhethisa Driveway
+          1	Makhethisa High School
+          1	Makhnoane Health Center
+          1	Makhoa Primary School
+          1	Makhoaba street
+          1	Makhoabeng
+          1	Makhoakhoa Primary School
+          1	Makhoakhoeng Principal Chief Office
+          1	Makhoaneng
+          1	Makhoaneng Football Ground
+          1	Makhoaneng Primary School
+          1	Makhoaneng Water Storage Tank
+          1	Makhoatsing
+          1	Makhunoane
+          1	Makhunoane Primary School
+          1	Makoaning School
+          1	Makoanyane Army Barracks
+          1	Makoanyane Park
+          1	Makoanyane Primary School
+          1	Makoanyane Road
+          1	Makoanyane Square
+          1	Makoata Street
+          1	Makolikotoana Road
+          1	Makuini Primary School
+          1	Malaoaneng
+          1	Malaoaneng Health Centre
+          1	Malaoaneng-HaSeetsa
+          1	Malapane
+          1	Malapane Primary School
+          3	Malealea Lodge
+          1	Malealea george walk start point house on hill
+          1	Malebanye Mohale
+          1	Malefane High School
+          1	Malefiloane
+          1	Malefiloane Agriculture Resource Centre
+          1	Malefiloane Airstrip
+          1	Malefiloane Clinic
+          1	Malefiloane Primary and High school
+          1	Maleikomong
+          3	Maletsunyane Falls
+          1	Maletsunyane Falls View
+          4	Maletsunyane River
+          1	Maliba Lodge
+          1	Maliba Mountain Lodge Campsite
+          1	Malibamat'so River
+          3	Malibamatso
+          9	Malibamatso River
+          1	Malibamatso Street
+          1	Malimong
+          1	Malimpho Letlala
+          1	Malinaka Leisure Park
+          3	Malinakana
+          1	Malinakana Guest House
+          1	Malinakana Street
+          1	Malome Supermarket
+          2	Maloreng
+          1	Maluti
+          1	Maluti Chambers
+          1	Maluti Mountain Breweries
+          1	Maluti Mountain Brewery - Mohale's Hoek Depo
+          1	Maluti Road
+          1	Maluti Road Maluti Road Maluti Road
+          1	Maluti Stay Lodge
+          1	Maluti Supermarket
+          1	Maluti-a-Phofung Local Municipality
+          1	Maluti-a-Phofung Ward 11
+          1	Maluti-a-Phofung Ward 15
+          1	Maluti-a-Phofung Ward 20
+          1	Mamaebana
+          1	Mamants'o Council Centre E02
+          1	Mamathe Post Office
+          1	Mamello school for disabled
+          1	Mamethe Road
+          1	Mamoeketsi Primary School
+          1	Mamohau Hospital
+          1	Mamosa Public Bar and Shop
+          1	Mamphafi
+          1	Mampho Shopping complex
+          1	Mamphos House
+          1	Mampota High School
+          9	Mandela Road
+          1	Manekoleng
+          1	Mangwane funeral services
+          1	Manka Community Council
+          1	Manka community council
+          1	Mankoane Street
+          2	Mankoaneng
+          1	Manong Rd.
+          2	Manong Road
+          1	Mansoor's
+          1	Manthabiseng National Convention Centre
+          1	Mantshebo Street
+          1	Mantsonyane
+          1	Mantsonyane Airport
+          2	Mantsonyane River
+          1	Mantsopa Local Municipality
+          1	Mantsopa Ward 2
+          1	Mantsopa Ward 3
+          4	Maoamafubelu
+          1	Maoamafubelu Community Council Building Malaoaneng
+          2	Maphasa
+          1	Maphathe stadium
+          1	Mapheeleng River
+          1	Maphiring
+          1	Maphokoane
+          5	Mapholaneng
+          1	Mapholaneng High School
+          1	Mapholaneng Primary School
+          1	Mapholi Holdings Pty Ltd
+          5	Maphothoane Street
+          2	Maphothone Street
+          1	Maphutsaneng
+          2	Maphutseng
+          5	Maphutseng River
+          2	Mapoteng
+          1	Mapoteng Police Post
+          1	Mapoteng Road
+          1	Mapotu
+          1	Mapotu Local Court
+          2	Maputsoe
+          1	Maputsoe Boarder Post
+          1	Maputsoe Boarder Post Police Station
+          2	Maputsoe Border Control
+          1	Maputsoe Bottle Centre
+          1	Maputsoe Community School
+          1	Maputsoe Excel Filling Station
+          1	Maputsoe Market
+          1	Maputsoe Police Post
+          1	Maputsoe Shell Filling Station
+          1	Maputsoe Substation
+          1	Maputsoe Total filling Station
+          1	Maputsoe Tren Tyre
+          1	Maputsoe Urban Council
+          1	Maputsoe Water Branch
+          1	Maputsoe-Pitseng 132kV
+          1	Maqalika
+          1	Maqalika Dam
+          1	Maqalika dam
+          1	Maqhaba road
+          2	Maqhaka
+          1	Maqhaka Health Centre
+          1	Maqhaoe Ha Timitia
+          1	Maqhekung
+          1	Maqilika
+          2	Maqokho Health Centre
+          2	Marabeng
+          1	Marabeng Store
+          1	Marakabei Clinic
+          1	Marakabei High School
+          1	Marakabei Local Court
+          2	Marakong
+          2	Maralleng
+          2	Maranatha Christian Primary School
+          1	Maranatha Church
+          1	Mare Sebapo
+          1	Maria Delicious
+          1	Maria Mabasotho
+          1	Maria Mmabasotho
+          1	Marine Parade
+          1	Marine Parate Restaurant
+          2	Market Road
+          1	Market Toilets
+          1	Market place
+          1	Marketplace
+          1	Marseilles–Maseru
+          1	Martenal
+          1	Mary Mother of Grace School
+          1	Masaleng
+          1	Masaleng Ha Janki
+          1	Masapong Primary School
+          1	Masechaba Restaurant
+          1	Masemouse
+          1	Masenate High School
+          1	Masentle High School
+          1	Maseribane High School
+          4	Maseru
+          2	Maseru Backpackers
+          1	Maseru Book Centre
+          3	Maseru Bridge
+          5	Maseru Bridge Border Control
+          1	Maseru Bus Station
+          1	Maseru Bus Station (External)
+          3	Maseru Bypass
+          3	Maseru Bypass West
+          1	Maseru Central Assembly of God
+          1	Maseru Central Park
+          2	Maseru Central Prison
+          2	Maseru Club
+          1	Maseru Convenience Store
+          1	Maseru Day High School
+          1	Maseru District
+          1	Maseru District Administrator
+          1	Maseru Indistrial Puma Filling station
+          1	Maseru International Junior School
+          1	Maseru LEC
+          1	Maseru LEC Primary School
+          2	Maseru Mall
+          1	Maseru Margistrate Court
+          1	Maseru Market
+          1	Maseru Nursery
+          1	Maseru Post Office
+          1	Maseru Preparatory School
+          1	Maseru Private Hospital
+          1	Maseru Rural Head-Quarters
+          1	Maseru South Village
+          1	Maseru Sun Cabanas
+          1	Maseru Sun Cabanus
+          1	Maseru Sun pool bar
+          1	Maseru Tennis courts
+          1	Maseru Toyota
+          1	Maseru Toyota Maputsoe
+          1	Maseru Toyota Vehicle Repairs
+          1	Maseru Toyota Vehicle Sales
+          1	Maseru West
+          1	Mashai
+          1	Mashai Peak
+          1	Mashai Store Airport
+          1	Masia Road
+          1	Masianokeng
+          1	Masianokeng Bakery
+          1	Masianokeng Filling Station
+          1	Masianokeng High School
+          1	Masiteng
+          1	Masitise
+          1	Masitise High School
+          1	Masitise Primary School
+          1	Masobeng General Dealer
+          1	Masopheng
+          1	Masowe 1B Secondary School
+          1	Masubasuba Pass
+          1	Masutsa
+          1	Matabeng
+          1	Matabeng Village Airport
+          1	Matala Local Court
+          1	Matala car wash
+          1	Matala circle
+          1	Mataoeng
+          1	Mataselaneng
+          1	Matatiele Local Municipality
+          1	Matatiele Ward 11
+          1	Matatiele Ward 13
+          1	Matatiele Ward 14
+          1	Matatiele Ward 7
+          2	Matebeleng
+          1	Matebeng
+          2	Matebeng River
+          1	Matebesi
+          1	Matekane Air strip
+          1	Matelile & Ntsibana Taxi Association
+          1	Matete
+          1	Mathebe Road
+          1	Matheko Youth Centre
+          1	Mathole Primary School
+          1	Matholeng Fire Station
+          1	Mathueleng
+          2	Matlaka Road
+          2	Matlakeng
+          5	Matlama Road
+          1	Matlapapeng
+          1	Matlou House
+          1	Matrix Computers
+          1	Mats'aba Farm
+          1	Mats'oareng
+          1	Matsaile
+          1	Matsaile Airport
+          1	Matsamaneng
+          2	Matsatsaneng Ha Lefuma
+          1	Matsaung
+          1	Matseng
+          1	Matseng River
+          1	Matsepe High School
+          1	Matsepe primary school
+          1	Matsepo Tjekesane
+          1	Matsieng
+          1	Matsoaing River
+          1	Matsoapong
+          1	Matsoku
+          1	Matsoku River
+          2	Matsoku tunnel & Wier
+          1	Matukeng
+          1	Mature Park
+          1	Matšoaneng
+          1	Mavuka
+          1	Mavuso's
+          2	Mazenod
+          1	Mazenod Bakery
+          1	Mazenod Book Centre
+          2	Mazenod High School
+          1	Mazenod Primary
+          1	Mazenod Primary School
+          2	Mazenod-Mafeteng 132kV
+          1	Mbundini Abbey
+          1	Mbundini Buttress
+          1	Mbundini Pass
+          1	Mdeni
+          1	Mdlokovana and Mjuza Tyres
+          1	Meea Household
+          1	Meeling Ha Kopano Matsoso
+          1	Meholaneng
+          1	Mejametalana Airport
+          1	Mejametalana Public Bar
+          2	Mekaling
+          1	Mekaling LECSA
+          1	Mekaling Primary School
+          1	Mekaling River
+          1	Mekaling Secondary School
+          2	Melikane River
+          1	Meloding Club
+          1	Memorial Hall
+          1	Men's Clinic
+          1	Meqheleng
+          1	Meraka Abattoir
+          1	Mesitsaneng
+          1	Metcash Complex
+          1	Metebo
+          2	Methalaneng
+          1	Methodist Church of Southern Africa
+          1	Metlakaseng
+          1	Metolong
+          1	Metolong Dam
+          1	Metolong Ha Makotoko
+          1	Metretaxi Taxi Rank
+          1	Metro Tech
+          1	Metropolitan Lesotho
+          1	Metropolitan Teyateyaneng Branch
+          1	Metsi-Maholo Community Council
+          1	Mexican high school
+          1	Mfika Lisiu View Point
+          2	Midas
+          1	Middle Triplet
+          1	Milady's
+          1	Minaret
+          1	Mine
+          2	Mineworkers
+          1	Mini shop
+          1	Ministry of Agric
+          2	Ministry of Agriculture
+          1	Ministry of Agriculture & Food Security
+          1	Ministry of Communications, Science and Technology
+          1	Ministry of Defence & National Security
+          1	Ministry of Education Inspectorate Building
+          1	Ministry of Education and TRaining
+          1	Ministry of Education and Training Leribe
+          1	Ministry of Forestry
+          2	Ministry of Health
+          1	Ministry of Home Affairs
+          1	Ministry of Home Affairs Low Income Housing
+          1	Ministry of works
+          1	Ministry offorestry and land land reclamation office
+          1	Miss Caroline Malibeng's Place
+          1	Mission Aviation Fellowship
+          1	Mitchell Cafe
+          1	Mitchell Quthing Distributor
+          1	Mitchell Trading Co
+          1	Mitre
+          1	Mixed SME's With temporary structures but monitored by Urba
+          1	Mjanyane River
+          1	Mkhehlane Shopping Complex
+          1	Mkhomazana
+          3	Mkomazi
+          1	Mlahlangubo
+          2	Mlambonja
+          1	Mlambonja Pass
+          1	Mmelesi Butchery
+          1	Mmorobei Street
+          1	Mmorobei street
+          1	Mnunzana
+          1	Mnweni
+          1	Mnweni Pass
+          1	Mochachos
+          1	Mochaochele
+          2	Mochochoko Road
+          1	Mochotoane
+          1	Mochotoane Primary School
+          1	Moea Take Aways
+          2	Moeling
+          1	Moerbei Street
+          1	Moetsane taxi rank
+          1	Mofeli Secondary School
+          5	Mofolo Street
+          1	Mofonesoa Primary School
+          5	Mofoqoi
+          1	Mofumahali oa Tlholo (RCC)
+          1	Mofumahali of Rosari Primary School
+          1	Mohalalitoe Butchers
+          1	Mohale Dam
+          2	Mohale Lodge
+          1	Mohale Primary School
+          1	Mohale dam
+          1	Mohale oa Masitse Lodge
+          4	Mohale's Hoek
+          1	Mohale's Hoek District
+          1	Mohale's Hoek English Medium
+          1	Mohale's Hoek High School
+          1	Mohale's Hoek LEC Primary School
+          2	Mohale's Hoek Lecsa Church
+          1	Mohale's Hoek Police Station
+          1	MohaleLocal Court
+          1	Mohapi Gov. Primary School
+          1	Mohlabaphoho River
+          5	Mohlaka-Mots'o
+          2	Mohlakoana
+          3	Mohlanapeng
+          1	Mohlanapeng Airport
+          1	Mohlanapeng L.E.C
+          1	Mohlehlisa River
+          1	Mohlesi
+          1	Mohloai Street
+          1	Mohloare street
+          2	Mohlomi
+          1	Mohlomi Mental Clinic
+          1	Mohlomi Road
+          3	Mohobollo
+          1	Mohobollo Ha-Mopeli
+          2	Mohokare
+          1	Mohokare Local Municipality
+          1	Mohokare Ward 3
+          2	Mohololi Street
+          1	Mohomane Lebotsa
+          1	Mohope
+          1	Mohope Main Road
+          1	Mohope Public Bar
+          1	Moitsupelis
+          1	Mojapela ACL Primary School
+          1	Mokanametsong
+          1	Mokatong
+          1	Mokema Ha Rampoetsi
+          1	Mokhehle Primary School
+          1	Mokhokhong Primary School
+          4	Mokhoro
+          1	Mokhothu Burial Ground
+          7	Mokhotlong
+          1	Mokhotlong Airport
+          1	Mokhotlong District
+          2	Mokhotlong District Council
+          1	Mokhotlong High School
+          1	Mokhotlong Hospital
+          1	Mokhotlong Hotel
+          1	Mokoena Store
+          1	Mokokoti
+          1	Mokomane
+          1	Mokopha River
+          1	Mokotakoti River
+          1	Mokotjomela
+          1	Mokunutlung
+          1	Mokunutlung Primary School
+          1	Molakolako
+          1	Molangoanvane
+          1	Molantoa Scrapyard
+          1	Molao
+          1	Molapo High School
+          1	Molapo Road
+          1	Molapo Street
+          1	Molemane
+          1	Molengoane Lodge
+          2	Molepe Street
+          1	Moletsane
+          1	Moletsane Panel Beaters
+          1	Molikaliko Ha-Mothetsi
+          1	Molisa-ea-Molemo
+          1	Molise
+          1	Molise Hardware
+          1	Molise Offsales
+          1	Molise Shopping Centre
+          1	Molomomphi Road
+          1	Molomos Hoek
+          1	Molula street
+          1	Moment of Joy ECCD
+          1	Monateng Cafe
+          1	Monateng Hotel
+          1	Moneseng Ha Tihako
+          1	Monoana Store
+          1	Mont-aux-Sources
+          1	Montessori International School
+          2	Monument
+          1	Monument Park
+          1	Monyaka Steel Works
+          1	Monyake
+          1	Monyameng River
+          1	Moorosi
+          2	Moorosi High School
+          1	Moorosie Road
+          1	Moorosie Road Moorosie Road
+          2	Mopeli
+          1	Mopeli High School
+          2	Mopeli Primary School
+          1	Mopeli River
+          2	Mopeli Road
+         11	Mophato
+          1	Mophato Oa Morija
+          1	Mopholosi High School
+          1	Mopkop Street
+          1	Moposo House
+          1	Moradi Crushers
+          1	Morahong
+          1	Morate High School
+          1	Morele Workshop
+          1	Moreneng
+          2	Moreneng Road
+          1	Morija
+          1	Morija Book depot
+          1	Morija Conference Centers
+          1	Morija Guest House
+          1	Morija Museum & Archives
+          1	Morija Post Office
+          1	Moriting
+          1	Morning star fc
+          1	Moroke
+          2	Morotong River
+          2	Mortuary
+          1	Moselinyane Primary School
+          1	Mosenekeng
+          1	Mosenyasenya
+          1	Moshemong Primary School
+          1	Moshoeshe
+          1	Moshoeshoe I International Airport
+          1	Moshoeshoe I International Airport control house
+          1	Moshoeshoe II high School
+          8	Moshoeshoe Road
+          1	Mosupisi oa Temo
+          1	Motebang Hospital
+         38	Motebo
+          2	Motebo area
+          1	Motebong
+          1	Moteletsane
+          1	Motemekoane
+          1	Moteng
+          2	Moteng Pass
+          3	Motete
+          1	Mothebesoane
+          2	Motherland
+          1	Motimposo
+          1	Motimposo Primary school
+          2	Motjoka
+          1	Motjoli Street
+          1	Motloang Primary School
+          1	Motloheloa Store
+          3	Motonosi Avenue
+          1	Motsamai Road
+          1	Motsamai Street
+          1	Motsaneng
+          3	Motse Mocha Road
+          3	Motse-Mocha
+          1	Motse-Mocha Primary School
+          1	Motse-Mocha Ts'itsong
+          1	Motsekuoa
+          1	Motsekuoa Bakery
+          1	Motsekuoa Ha Bele
+          1	Motsekuoa Health Centre
+          1	Motsekuoa High School
+          1	Motsekuoa Primary School
+          2	Motsie
+          1	Motsoahae Scrap Ward
+          1	Motsoako Catering Services
+          4	Motsoene Road
+          1	Mount Amery
+          1	Mount Helga
+          1	Mount Lane Maount Lane
+          1	Mount Maluti Hotel
+          1	Mount Royal
+          1	Mount Royal Church
+          1	Mount Royal Convent
+          1	Mount Royal Hall
+          2	Mount Royal Primary School
+          1	Mount Royal School
+          1	Mount.Souru
+          1	Mountain Side Hotel
+          1	Mountain View Hotel
+          1	Mountain star
+          1	Mountainside Hotel
+          1	Moyeni (Quthing)
+          1	Moyeni High
+          1	Moyeni Parish
+          1	Moyeni Primary
+          1	Mpatloane Primary School
+          1	Mpeka
+          1	Mpeoa
+          1	Mpetsana
+          1	Mphahama Fast Food
+          1	Mphaki Health Center
+          1	Mphaki High School
+          1	Mphaki Police Station
+          2	Mphaki Primary School
+          1	Mpharane
+          1	Mphatshwane Household
+          2	Mphenyeke London Road
+          1	Mphoche
+          1	Mphorosane NSS training
+          2	Mphosong River
+          1	Mphoto
+          1	Mpokochela
+          1	Mponjwane
+          1	Mponjwane Cave
+          1	Mpopo ACL Primary School
+          2	Mqatsheni
+          1	Mr Aircon
+          1	Mr Bla Polisa's Place
+          1	Mr Lephuruhloana
+          1	Mr Low Price Mini Store
+          1	Mr Makhele Pitso's Cafe
+          1	Mr Polisane Molefi's Place
+          1	Mr Price
+          1	Mr Thabang's Place
+          1	Mr Tolo Mahlomola's Place
+          1	Mr Tolo Teboho's Place
+          1	Mr. Machitje's Place
+          1	Mr. Makhalemele's Place
+          1	Mr. Mokhothu's Place
+          1	Mr. Motebang Nthinya's Place
+          1	Mr. Ntisa's Place
+          1	Mr.Linake's Gest house
+          1	Mr.Mabea's Place
+          1	Mr.Malefetsane's Place
+          1	Mr.Mokhakala's Place
+          1	Mr.Monaheng Letsoela's Place
+          1	Mr.Pitso's place
+          1	Mr.Tolo Teboho's Farmyard
+          1	Mrs 'Mamabuiso Moshabesha
+          1	Mrs Mamonyane Polisane's Place
+          1	Mrs Mosoeu's Place
+          1	Mrs Ntsoereng's Place
+          1	Mswati
+          1	Mt Moorosi Post Office
+          1	Mt. Jude
+          1	Mt.Moorosi Police Station
+          1	Mtshezana River
+          1	Mud Pond
+          1	Muela
+          1	Mummy's Offsales
+          1	Mumzie Pharmacy
+          1	Musa Spice Shop
+          1	Mutala
+          1	My Takeaway
+          1	Mzalas
+          1	Mzimkhulwang
+          1	Mzimude
+          1	Mzimudi Cave
+          2	Mzwandile Thokoane
+          1	N8 (eastbound)
+          1	N8 (westbound)
+          1	NEDBANK
+          1	NRH Mall
+          1	NSS Office
+          1	Na Le Uena General Cafe
+          1	Naledi Guest House
+          1	Naledi Local Municipality
+          8	Naledi Pass Road
+          1	Naledi Ward 1
+          1	Naledi Ward 3
+          2	Naleli
+          1	Naleli Bar
+          2	Naleli Primary School
+          1	Namahadi Pass
+          1	Namahadi Peak
+          1	National AIDS Commission
+          1	National Archieves Building
+          1	National Bahaí Centre
+          1	National Commission for UNESCO
+          1	National Curriculum Development Centre (NCDC)
+          2	National Drug Service Organization, Teyateyaneng
+          1	National Health Training College
+          2	National Identity and Civil Registry
+          1	National Manpower Development Secretariat (NMDS)
+          1	National Security Services
+          1	National University of Lesotho
+          1	National University of Lesotho International School
+          1	Nchebeng Guest House
+          1	Ndedema
+          1	Ndumeni Dome
+          2	Nedbank
+          1	Netball Field
+          1	Netball ground
+          1	Netherlands Hall
+          1	New Central Guest House
+          1	New Hlotse Police Station
+          1	New Hlotse Post office
+          1	New Land Internet Cafe
+          1	New Millenium English Medium
+          1	New Millenium High
+          1	New Millennium English Medium
+          3	New Oxbow Lodge
+          1	New Parliament Road
+          1	New Science Building
+          1	New Start HIV Counselling & Testing
+          1	New residence of the Primeminister of Lesotho
+          1	New residence of the primeminister
+          1	Ngaqamadolo
+          1	Ngoajane Community Council
+          1	Ngoajane Primary School
+          4	Ngoajane River
+          1	Ngoana-oa-lla
+          1	Ngoangoana Border Control
+          1	Ngoe
+          1	Ngope-tsoeu primary school
+          1	Nhlangeni
+          1	Nhlathimbe
+          1	Nien Hsing International Lesotho (PTY) Ltd.
+          1	Nightingale Road
+          1	Njesuthi
+          1	Nkaise Ramafole
+          1	Nkaus Airport
+          1	Nkobolweni
+          1	Nkokomohi
+          1	No Man's Peak
+          1	Nohanas Airport
+          1	Nompiza
+          1	North Peak
+          1	Nqechane
+          1	Nqechane Com. Primary School
+          1	Nqechane Ha-Lelingoana
+          1	Nqechane Ha-Setjeo
+          1	Nqechane LEC Primary School
+          1	Nqechane RC Primary School
+          1	Nqobelle
+          1	Nquza Pass
+          1	Nr.7
+          1	Ntaote High School
+          1	Ntate Nthabi
+          1	Ntereke General Dealer
+          1	Nthabane Poultry Farm
+          1	Nthamaha
+          1	Nthane
+          1	Nthane str
+          2	Nthunya Lebatla
+          1	Ntjabane
+          1	Ntjabane Primary
+          1	Ntlholohetsane ka Mora lekhalo
+          1	Ntlo ea Tsepo
+          1	Ntloana-Ts'oana Primary School
+          2	Ntonjelana Pass
+          2	Ntsane Road
+          1	Ntsekhe Hospital
+          1	Ntsupenyana
+          1	Ntubeni
+          1	Nurse's home
+          1	Nutri-Foods
+          1	Nyaloko
+          3	Nyenye Industrial Site
+          1	OIL!
+          2	OK Furniture
+          3	OK Furnitures
+          1	OK furniture
+          1	Oblates of Mary Immaculate
+          1	Office ea Morena oa Sehloho
+          1	Ofisi ea Morena oa Marabeng
+          1	Ofisi ea Morena oa Sehlooho Maqhaka
+          1	Okhahlamba Local Municipality
+          1	Okhahlamba Ward 14
+          1	Okhahlamba Ward 3
+          1	Okhahlamba Ward 5
+          1	Okhahlamba Ward 6
+          1	Old Anglican Church Grave yard
+          1	Old Hoek
+          3	Old Leribe
+          2	Old Leribe Road
+          1	Old Mohales Hoek
+          1	Old Monastery
+          1	Old Peka health center
+          1	Old Post Office
+          1	Old Post Office Road
+          1	Old School
+          1	Old-Europa
+          1	Oliphant Primary School
+          2	Olympic
+          1	Omega
+          1	One Way
+          1	Ongeluksnek Border Control
+          1	Opti Care Pharmacy
+          1	Opti-Care Pharmacy & Chemist
+          3	Orange River
+          1	Orange River Hotel
+          1	Organ Pipes Pass
+          1	Orlandu
+          2	Orpen Road
+          1	Orphanage
+          1	Orson Electronics
+          1	Osama's real Home
+          1	Ouh La La Cafè
+          1	Out Patient Department
+          1	Outward Bound Dam
+          1	Outward Bound Lodge
+          1	Oxbow
+          1	Oxbow Road
+          1	PATHWAY
+          6	PEP
+          4	PEP Store
+          4	PEP Stores
+          1	PHQ
+          1	PITSO HOUSE
+          1	PROPOSED RESIDENTIAL SITES
+          1	PS Bar
+          1	PTC
+          1	PTC Hall
+          1	PTC South Upper Trail
+          2	PTC road
+          1	PTC south lower trail
+          1	PUMA
+          1	PUMA FILLING STATION
+          1	Paballong
+          1	Paballong Ha Thaha
+          1	Paballong Health Centre
+          1	Paballong Primary School
+          4	Palace
+          1	Palace Road
+          1	Palace of justice
+          1	Pampiring
+          1	Papal Monument
+          3	Paqama Street
+          1	Parade Field
+          1	Paradise Lodge
+          1	Paramente Primary School
+          1	Paray High School
+          1	Paray Hospital
+          1	Paray Mission
+          1	Paray Primary
+          1	Paray School of Nursing
+          1	Paridise Chilli
+          1	Parking Ha Kome Cave Dwellings
+          1	Parking Lot
+          1	Parliament of Lesotho
+          1	Parliament of the Kingdom of Lesotho Senate Offices
+          2	Parliment Road
+          2	Passport Office
+          1	Passport Office Leribe
+          1	Path to waterfall
+          1	Patiseng River
+          1	Patlo's cafe
+          1	Patsa Centre
+          1	Pauldry Farm
+          1	Payless Hardware & Furniture
+          1	Pedestrians' Bridge
+          1	Peete LECSA Primary School
+          2	Peka Bridge
+          3	Peka Bridge Border Control
+          1	Peka Chief's Office
+          1	Peka Health center
+          1	Peka High School
+          1	Peka LEC primary school
+          1	Peka Post Office
+          1	Peka local court
+          1	Peka taxi rank
+          2	Pelaneng
+          1	Pelaneng Airstrip - CLOSED
+          1	Pelaneng River
+          1	Pelo e Tlotlehang
+          2	Pep Stores
+          1	Phaepheng
+          2	Phahameng
+          1	Phahameng (Ha Makebe)
+          1	Phahameng Primary School
+          2	Phakoe Street
+          3	Phamola Road
+          2	Phamong
+          1	Phamotse Street
+          2	Pharahlahle River
+          1	Phatlalla
+          1	Phatšoe Ha-Pulenyane
+          2	Phiring
+          1	Phocha
+          1	Phoku
+          1	Phoku Primary School
+          2	Pholela
+          1	Pholosoa
+          1	Phomolong Church(LEC)
+          1	Phororong
+          2	Phororong River
+          1	Phothane's Orchard
+          1	Phutha Lichaba
+          1	Phuthalichaba Supermakert
+          1	Phuthiatsana
+          1	Phuthiatsana High School
+          1	Phuthiatsana Primary
+          1	Phuthiatsana Project
+         13	Phuthiatsana River
+          1	Phuthiatsana Street
+          2	Phuthing
+          1	Pilot Agricultural Resource Centre
+          1	Pilot Health Centre
+          1	Pins Buttress
+          1	Pins Cave
+          1	Pins Pass
+          1	Pioneer
+          1	Pioneer Filling Station
+          1	Pioneer Mall
+          1	Pioneer Mall (Pick n Pay)
+          7	Pioneer Road
+          1	Pioneer Roundabout
+          1	Piri Piri
+          2	Pitsaneng
+          1	Pitseng
+          1	Pitseng Community Hall
+          1	Pitseng Ha Tau
+          1	Pitseng Health Centre
+          1	Pitseng High School
+          1	Pitseng L.E.C SA
+          1	Pitseng London
+          1	Pitseng Police Station
+          1	Pitseng Post Office
+          1	Pitseng River
+          1	Pitseng Rural Water Supply Tank
+          1	Pitseng Substation
+          1	Pitseng Total Filling Station
+          1	Pitseng-Ha Lejone 132kV
+          3	Pitso Ground
+          2	Pitso House
+          1	Pitso Road
+          2	Pitso house
+          1	Pius XII Road
+          1	Pius XII Student Hostels
+          1	Pizza Hut
+          1	Plastic Shop
+          1	Plastics
+          2	Plateau
+          1	Platinum Trade Centre
+          1	Playland Pre School and Boipabolo English School
+          1	Please note there is a building here which is not reflected
+          1	Plots for students
+          1	Podium
+          1	Podo's Bargain Store
+          1	Podos Exclusive Shoes
+          1	Point P
+          1	Pokane
+          1	Pokane Secondary School
+          1	Pola park
+          1	Police
+          1	Police Controlled Boom gates
+          2	Police Housing (Staff)
+          1	Police Netball Pitch
+          4	Police Residence
+          3	Police Station
+          1	Police Street
+          1	Police Training Colledge
+          3	Police Traning Colledge
+          1	Police houses
+          1	Polihali Saddle Dam
+          1	Polihali damwall
+          1	Pondman Mission
+          1	Pontmain
+          1	Ponts'eng
+          2	Pontseng
+          1	Pontšeng
+          2	Ponytrack
+          7	Pope John Paul II
+          8	Pope John Paul II Road
+          6	Pope John Paul Road
+          1	Popple Peak
+          2	Post Bank
+          1	Post Office
+          1	Post Office Bank HQ
+          1	Post street
+          1	Potomane
+          1	Potsane primary school
+          1	Potsane's
+          1	Potsanyane
+          1	Potse General Cafe
+          1	Potterill
+          1	Poultry Farming
+          1	Poultry farm
+          1	Power
+          1	Power Station
+          1	President square
+          1	Prestige Furnitures
+          1	Primary School
+          2	Princess Margaret Road
+         10	Principal Highway
+          2	Principal Highway (A2)
+          3	Principal Highway A2
+          1	Pro Motor Spares
+          2	Profi
+          1	Prompese
+          1	Proposed Community Centre
+          1	Proposed Maoa-Mafubelu Community Council
+          1	Proposed Sekameng Police Station
+          1	Prosecution
+          1	Provocateur
+          1	Proxi
+          1	Psychiatric Ward
+          1	Public stand pipe
+          1	Pukane High School
+          1	Pulane
+          1	Pulane Police Post
+          1	Pulanyane
+          2	Puma
+          1	Puma filling station Thetsane
+          2	Puretec
+          1	Puthing
+          2	QAQATU
+          1	QAQATU STREET
+          1	QHOALI STREET
+          1	QHOALINYANE STREET
+          1	Qabane River
+          2	Qacha's Nek
+          1	Qacha's Nek Airport
+          2	Qacha's Nek Border Control
+          1	Qacha's Nek District
+          1	Qacha's nek primary school
+          1	Qacha's nek veterinary clinic
+          1	Qachas Nek Correctional Service
+          1	Qachas Nek Electricity Control Point
+          1	Qachas'Nek Taxi Rank
+          1	Qachas'Nek Urban Council
+          1	Qalo Bricklayering
+          1	Qalo Co-operative
+          1	Qalo FC ground
+          2	Qalo River
+          2	Qanya
+          1	Qanya H01 Community Council Office
+          1	Qhafutsong Easy Cafe
+          1	Qhalamatebele
+          1	Qhaukapa
+          1	Qhoali
+          4	Qhoali River
+          1	Qhoalinyane
+          3	Qhoasing River
+          1	Qhobosheane Government Complex
+          1	Qhoeng Ha-Makopela
+          1	Qhohobeng River
+          1	Qholaqhoe
+          1	Qholaqhoe Butchery
+          1	Qholaqhoe Police Station
+          1	Qholaqhoe Primary School
+          1	Qholaqhoe-Moreneng
+          1	Qhoqhoane
+          1	Qibing Community Coucil
+          3	Qiloane
+          1	Qoalakheng
+          2	Qoaling
+          1	Qoaling By-pass
+          1	Qoaling Cemetery
+          1	Qoaling Climb
+          1	Qoaling Flowers
+          1	Qoaling LEC
+          1	Qoaling Road
+          1	Qobokoane River
+          1	Qoboshane
+          1	Qomoqomong LEC Primary School
+          1	Qomoqomong River
+          1	Qoqolosaneng
+          1	Qoqolosi
+          1	Qoqolosing
+          1	Qoqolosing Ha-Setsomi
+          1	Qoqolosing Park
+          1	Qoqolosing Primary School
+          1	Qoqolosing Road
+          1	Qoqolosing Road Qoqolosing Road Qoqolosing Road
+          5	Quarry
+          1	Queen Elizabeth II
+          1	Queen II Road
+          1	Queen Mamohato Memorial hospital
+          3	Quthing
+          1	Quthing Airport
+          1	Quthing District
+          1	Quthing Hospital
+          1	Quthing River
+          1	R2
+          1	R702
+          1	R702 (eastbound)
+          1	R702 (westbound)
+          1	RED CROSS
+          1	RENEKENG SECONDARY SCHOOL
+          1	RESIDENTIAL
+          1	ROADS CAMP
+         14	ROOF2014Q
+          1	Raboshabane Road
+          1	Racecourse
+          1	Radio Lesotho
+          1	Rafutho Pass
+          1	Rainbow Academy
+          1	Raised Plateau
+          1	Rakotoane
+          1	Raleting
+          1	Ralikariki Combined School
+          3	Ramabanta
+          1	Ramabanta Trading Post Lodge
+          1	Ramapepe Community Council
+          1	Ramapepe Road
+          1	Ramatheola Hardware
+          1	Ramatlama River
+          1	Ramatseliso
+          2	Ramatseliso's Gate Border Control
+          2	Ramofole Road
+          1	Ramokholokotha
+          1	Ramone,s Public Bar and Cafe
+          1	Ramorakane Primary School
+          1	Rampai Bridge
+          1	Rankhelepe High School
+          1	Rankhelepe Primary School
+          1	Rankota
+          1	Rasberry park
+          1	Rasetimela Primary
+          1	Rat Hole Cave
+          2	Ratjomose Barracks
+          1	Ratjomose Clinic
+          1	Ratjomose Primary School
+          1	Ravine
+          1	Real Fish Chicken and Chips
+          1	Realeboha
+          1	Reauboka Funeral Home
+          1	Reauboka Funeral Services
+          1	Red A Cash&Carry
+          3	Red Cross
+          2	Red Cross Road
+          1	Red Gross Mafeteng
+          1	Red Wall
+          1	RedCross
+          1	Redcross
+          1	Redi
+          1	Refactory
+          1	Regal restaurant
+          1	Regina Mundi RCC Mission
+          1	Rehauhetsoe Government High School
+          1	Rehobothe Church
+          1	Reitumetse Church Project
+          1	Relebohile Shopping Centre
+          5	Rental
+          1	Reserved area
+          1	Residence for civil servants
+          1	Residential
+          6	Residential Housing
+          1	Residential housing
+          1	Resource Centre
+          1	Ribaneng
+          1	Riet Vlei
+          1	Rise n Shine Pre-School
+          1	Risk road
+          1	Rite Price
+          1	River Trail
+          1	Road Block Public Bar
+          2	Road to Destiny Castle
+          1	Roads Camp Site
+          1	Roads Department
+          2	Roads Directorate
+          1	Roadside
+          2	Roadside Butchers
+          1	Roadside Supermarket
+          1	Robert
+          1	Rockeries
+          1	Rockeries Pass
+          1	Roland's Cave
+          1	Roma
+          1	Roma Hospital
+          1	Roma Trading Posr Camp Site 2
+          1	Roma Trading Post Bike Rental
+          1	Roma Trading Post Lodge
+          1	Roma Trading Post Lodge Camp Site
+          1	Roma Velosolutions Pump Track
+          1	Roman Catholic
+          2	Roman Catholic Church
+          1	Roman Catholic Church Cathedral
+          1	Roman's Pizza
+          1	Romeng
+          1	Rondedraai Street
+          1	Ruins
+          5	Rural Water Supply
+          2	Rural Water Supply Maputsoe
+          1	Rural water Supply
+          1	Rwanqa Cave
+          1	Rwanqa Pass
+          1	S & T Pharmacy
+          1	S&F Hardware
+          1	S.T John High School
+          1	SACRED HEART HIGH SCHOOL
+          1	SADC 50 (eastbound)
+          1	SADC 50 (westbound)
+          1	SDA
+          1	SHELL GARAGE
+          1	SOS Pre School
+          1	SOS Pre-School
+          1	SOS children's home
+          1	SOS children's home (orphanage)
+          1	SRR0094
+          1	STD Lesotho bank ATM
+          1	Sacred Heart High School Staff Village
+          1	Safari Guest House
+          1	Sagicom Dinning House
+          1	Sailor Panel Beaters
+          1	Saint John's Apostolic Faith Mission
+          1	Saint Monica's
+          1	Saint Monica's Primary School Soccer Field
+          2	Sakeng
+          2	Sakeng River
+          1	Sakisi Hot Pot
+          3	Salang
+          1	Salmaan Hardware
+          1	Samson's Park
+          1	Sand
+          4	Sandspruit
+          3	Sani Pass (4x4 Only)
+          2	Sani Pass Border Control
+          1	Sani Top Backpackers
+          1	Sani Top Chalets
+          1	Sani Top Lesotho Border Police Station
+          1	Sani Top Pub
+          1	Sankatana HIV/AIDS and oncologycentre
+          1	Sanqebethu
+          7	Sanqebethu River
+          1	Saverite Supermarket
+          1	Scalo Shop
+          1	Scalo Tavern
+          1	School
+          1	School Hall
+          1	Schoolplaats
+          1	Science Building
+          1	Scott Hospital
+          1	Scrap Yard
+          2	Scrapyard
+          1	Scrub
+          1	Sea Shell Brick Yard
+          1	Seaka
+          1	Sean Rogan's Tree
+          1	Sebapala
+          1	Sebapala River
+          1	Sebapala Secondary School
+          1	Seboche Hospital
+          1	Seboka Primary School
+          1	Sebothoane
+          2	Sebothoane DRC Primary School
+          1	Sechaba High School
+          1	Sechele Road
+          1	Sechitja Maqelepo
+          1	See-Point Shopping Centre
+          1	Seeiso High School staff residence
+          1	Seeiso High school
+          1	Sefika
+          1	Sefika BookShop
+          1	Sefika High School
+          1	Sefika Shopping Centre
+          1	Sefika Taxi rank
+          1	Sefika sa Moshoeshoe
+          1	Sefika sa Moshoeshoe Park
+          2	Sefikeng
+          1	Sefikeng High School
+          1	Sefikeng Lesotho Evangelical Church
+          2	Sefikeng Police
+          1	Seforong
+          1	Seforong LEC Church
+          1	Seforong Primary School
+          1	Sehalahala street
+          2	Sehlaba Thebe Lodge
+          1	Sehlabathebe
+          1	Sehlabathebe Airport
+          1	Sehlabathebe Camping
+          1	Sehlabathebe National Park
+          1	Sehlabeng
+          1	Sehlabeng Primary School
+          1	Sehlabeng sa Thuathe
+          3	Sehong Hong river
+          1	Sehonghong
+          1	Sehonghong Airport
+          1	Sehonghong River
+          5	Seiso Road
+          3	Seja Batho road
+          1	Seja-Batho
+          1	Sekake
+          1	Sekake Health Centre
+          1	Sekake Police Station
+          1	Sekakes Airport
+          1	Sekameng Health Centre
+          1	Sekameng High School
+          1	Sekants'ing
+          1	Sekarnaneng River
+          1	Sekekete hotel
+          1	Sekeleme primary school
+          1	Sekese Road
+          1	Sekete Sa Teyateyaneng
+          1	Seketeng River
+          1	Sekhibane Store
+          1	Sekhoacha Filling Station
+          1	Sekhonyana Primary School
+          1	Sekhonyana Road
+          1	Sekhutloaneng
+          2	Sekiring
+          2	Sekolo drive
+          1	Sekolong
+          1	Sekonyela Road
+          2	Sekoting
+          1	Sekuta
+          1	Sekutloaneng
+          1	Selatile
+          1	Selatile General Dealer
+          1	Seleso Primary
+          1	Sello mortuary
+          1	Selomong
+          1	Selomong Public Bar
+          1	Semenanyane
+          5	Semenanyane River
+          1	Semongkong Lodge
+          1	Semonia Street
+          1	Semonkong
+          1	Semonkong Airport
+          1	Semphetenyane Primary
+          1	Senate
+          1	Senekane Community Council
+          1	Senkoase High School
+          2	Senq Street
+          1	Senqnyane Street
+          6	Senqu
+          1	Senqu Hotel
+          1	Senqu Local Municipality
+         16	Senqu River
+          1	Senqu Road
+          1	Senqu Street
+          1	Senqu Ward 1
+          1	Senqu Ward 16
+          1	Senqu Ward 2
+          1	Senqu Ward 3
+          1	Senqu Ward 4
+          1	Senqu Ward 5
+          1	Senqu-Orange
+         17	Senqunyane River
+          1	Sentebale Gap Funeral Service
+          1	Sentebale and Prestige Offices
+          1	Senyotong
+          1	Seotsanyane Filling Station
+          1	Sepanong Primary school
+          2	Sepapu's Gate Border Control
+          1	Sepolo
+          1	Seqonoka
+          1	Serooeng Primary School
+          1	Serupane
+          1	Serupane Plateau Forest
+          1	Serutle River
+          1	Seshote
+          1	Seshutes Airport
+          1	Seteisheneng
+          2	Setene-Lobiane Road
+          1	Sethala sa Mopapa
+          1	Sethaleng
+          1	Sethunya Primary School
+          1	Setjeo Street
+          5	Setlabane
+          1	Setsoto Local Municipality
+          1	Setsoto Stadium
+          1	Setsoto Ward 10
+          1	Setsoto Ward 12
+          1	Setsoto Ward 13
+          1	Setsoto Ward 14
+          1	Setsoto Ward 15
+          1	Setsoto Ward 16
+          1	Setsoto Ward 17
+          1	Setsoto Ward 18
+          1	Setsoto Ward 9
+          1	Setsoto Weaving
+          1	Seventh Adventist Pitseng Clinic
+          1	Seventh Day Adventist Clinic
+          1	Seventh Day Adventist Primary
+          1	Sewage Tank
+          3	Shack
+          1	Shalabeng
+          1	Shalane
+          1	Shebang
+          1	Ships Prow
+          1	Shopong
+          2	Shoprite
+          1	Shoprite Department Store
+          1	Shoprite Sefika mall
+          1	Shoprite U-Save
+          3	Shoprite Usave
+          1	Shore
+          2	Shrubbery
+          1	Sibi Sibi
+          1	Sign World
+          1	Silos road
+          1	Silt Box
+          1	Singati Wall
+          1	Sisonke District Municipality
+          1	Sister's of Charity
+          1	Sisters of St. Joseph Home
+          1	Sky Country
+          1	Skylight Cave
+          1	Slaughter House
+          1	Small Woodland
+          1	Smally Carwash
+          1	Soccerfield
+          1	Social Development
+          1	Social Development office
+          1	Sofaea
+          1	Somololo
+          1	Sonkie Eddy Thokoane
+          1	Soofia English Medium School
+          1	Souru Construction sub-office
+          1	Souru Primary School
+          1	South Africa
+          1	South Africa (land mass)
+          1	South Africa Maseru Travel Centre
+          1	South African High Commission
+          1	South Peak
+          1	Soweto Butchery
+          1	Spare Rib Cave
+          1	Sparrows
+          1	Speedy Complex
+          1	Sphinx
+          1	Spinning wheel
+          1	Square one
+          1	St Angela Home for Disabled Children
+          1	St Catherines Girls School
+          1	St Charles High School
+          1	St Charles Primary School
+          1	St Damien Roman Catholic Mission
+          1	St Gerard Primary
+          1	St Helena Primary School
+          1	St James
+          1	St John Tlali mission
+          2	St Johns Primary
+          1	St Joseph High School
+          1	St Luke Health Centre
+          1	St Maragret Mission
+          1	St Margaret Health Centre
+          1	St Margaret Primary School
+          1	St Marks
+          1	St Mary's Nursery
+          1	St Mary's Vocational School
+          1	St Matthews
+          1	St Patrick's High School
+          1	St Paul's Mission
+          1	St Phelomena Primary School
+          1	St Rodrigues Mission
+          1	St Saviours High School
+          1	St Stephen's High School Premises
+          1	St Theresa Catholic Church
+          1	St Theresa Health Centre
+          1	St annes church
+          1	St, Bernaded Primary
+          1	St- Theresa Mission
+          1	St. Agnes
+          1	St. Alphons Primary School
+          1	St. Anthony primary school
+          1	St. Bernadette Nursery
+          1	St. Bernadette School for the impaired
+          1	St. Cecilia Mission
+          3	St. Cecilia Primary School
+          1	St. David Health Centre
+          1	St. Elizabeth Training Istitute
+          2	St. Emile
+          1	St. James ACL High School
+          1	St. James ACL Primary
+          1	St. James ACL primary School
+          2	St. James Lodge
+          1	St. Joseph's High School
+          1	St. Kizito Primary
+          1	St. Luke Primary
+          1	St. Margaret High School
+          1	St. Mary's Nursery
+          1	St. Mathews Health Centre
+          1	St. Michael RC. Church
+          1	St. Patricks RC Primary School
+          3	St. Paul Health Center
+          1	St. Paul Primary School
+          1	St. Peter's Mission
+          1	St. Peters Primary School
+          1	St. Rose Health centre
+          1	St. Rose High School
+          1	St. Rose Primary School
+          1	St. Rose RCL church
+          1	St. Saviour RC Mission
+          1	St. Saviours Angelican Church
+          1	St. Stephen's High School
+          1	St. Theresa Airport
+          1	St.Lawrence High School
+          1	St.Monica's Graveyard
+          1	St.Monica's Primary School
+          1	St.Monica's RCC Mission
+          1	St.stephen's Primary School
+          1	Stadium Area
+          2	Stadium Offsales
+          1	Stadium Road
+          1	Staff Room
+          1	Staffroom
+         15	Standard Lesotho Bank
+          1	Standard Lesotho Bank Industrial Area
+          1	Stardard Lesotho Bank
+          1	State Alluminium and Glass Work
+          1	State House
+          1	State Library
+          1	Statistics
+          1	Statistics Berea
+          1	Steers
+          1	Stevo
+          1	Stimela Peak
+          1	Stimela Ridge
+          1	Stones Lodge
+          2	Storage
+          1	Stream Under road
+          2	Studio 88
+          1	Stuff-Houses
+          1	Sub Accountancy
+          1	Sub3
+          1	Sub_1
+          1	Sub_2
+          1	Sub_4
+          1	Sub_Accountancy
+          1	Sub_Accountant
+          1	Subaccountancy
+          1	Subeng Dinosaur Prints
+          3	Subeng River
+          1	Sugarloaf Kop
+          1	Sun City
+          1	Sunlight Supermarket
+          1	Sunny Hardware Store
+          1	Sunrise Scrapyard
+          1	Super U
+          1	Supermarket
+          1	Survey Division (Land Management)
+          1	Swallows Football Ground
+          1	T&T Security Services
+          1	T'shepo
+          1	T.J. Furniture and Hardware
+          2	TEBA
+          1	TEBA Bank
+          1	THOMAS
+          1	TTan Off-Sales
+          1	TVD
+          1	TVD Building
+          1	TY Dairy
+          1	TY English Medium
+          1	TY LEC
+          1	TY LEC High School (Masupha)
+          1	TY LEC Primary
+          1	TY MArgistrate Court
+          1	TY Meat Market
+          1	TY Shopping Centre
+          1	TY Woolshed
+          1	Taba Bosiu Visitor Centre Gatehouse
+          1	Takakatsa
+          1	Takisa
+          1	Tamaseka Primary School
+          1	Taoana
+          1	Taoana Square
+          1	Tapotapong Fashion Shop
+          1	Tarabane
+          1	Tarn Cave
+          2	Taung
+          1	Tea Room
+          1	Teaching Service Department
+          1	Teba
+          1	Teba street
+          3	Tebe-tebe
+          1	Tebellong Airport
+          1	Tebellong Hospital
+          1	Tebetebe Community Council
+          1	Technoloogies for Economic Development TED
+          1	Teko
+          2	Tele Bridge
+          4	Tele River
+          1	Tele-Tele LEC Church
+          1	Telecommunications
+          2	Telle Bridge Border Control
+          1	Temporary Construction Camp
+          1	Tennis Courts
+          1	Tente Street
+          1	Terateng
+          1	Teyateyaneng
+          1	Thaba - Tseka Correctional Services
+          1	Thaba Bosiu
+          1	Thaba Bosiu Information Centre
+          3	Thaba Bosiu Resort
+          3	Thaba Bosiu Road
+          2	Thaba Chitja
+          1	Thaba Edanyazana
+          1	Thaba Ngwangwe
+          1	Thaba Phatsoa Health Clinic
+          2	Thaba Phatsoa Primary
+          1	Thaba Phinong
+          1	Thaba Putsoa
+          1	Thaba- Tseka Tecnical Institute
+          1	Thaba- Tseka Tecnical Institute staff houses
+          1	Thaba-Bosiu
+          1	Thaba-Bosiu Cultural Village
+          1	Thaba-Moorosi
+          1	Thaba-Ntso
+          1	Thaba-Phatsoa
+          1	Thaba-Phatsoa Road
+          1	Thaba-Telle
+          2	Thaba-Tseka
+          1	Thaba-Tseka Airport
+          1	Thaba-Tseka District
+          1	Thaba-Tseka District Council
+          1	Thaba-Tseka High School
+          1	Thaba-Tseka Technical Institution
+          1	Thaba-Tseka bus station
+          1	Thaba-Tsooana
+          1	Thabana Mohlomi
+          1	Thabana Morena
+          1	Thabana Ntlenyana
+          1	Thabana Tsooana
+          1	Thabana-li-'mele vocational school
+          1	Thabaneng
+          2	Thabela Walkway
+          1	Thabeng High School
+          1	Thabo Mofutsanyana District Municipality
+          1	Thabo Primary School
+          1	Thabo's Fruits & Veg.
+          1	Thabong
+          1	Thabong ECCD Pre School
+          1	Thabong Link
+          1	Thabong Mosk
+          1	Thabong Primary School
+          2	Thabong Road
+          1	Thabure Enterprise
+          1	Thabure Sports Tarven
+          2	Thaha Street
+          1	Thaha_Khube FM,supermarket etc
+          1	Thaka-Banna Post Office
+          1	Thamae LEC Primary School
+          1	Thamae Police Station
+          1	Thamae health centre (Hall)
+          1	Thamathu
+          1	Thamathu Pass
+          1	Thanda Bantu
+          4	Thato Road
+          1	The Ape
+          1	The Beer Store
+          1	The Birds
+          1	The Blackhouse Carwash
+          1	The Bollard
+          1	The Corner
+          1	The Eagle Guest House
+          1	The End Point
+          1	The Fish and Chips Co.
+          1	The Hawk
+          1	The Hills
+          1	The Judge
+          1	The Legal Voice Ltd
+          1	The Maseru Sun Hotel
+          1	The Palace Hotel
+          1	The Pizza Hut
+          1	The Prominent Bar
+          1	The Pyramid
+          1	The Sacret Heart Mission
+          1	The Star Kids for care
+          1	The Tent
+          1	The Thumb
+          1	The Tyre Man
+          1	The hedge
+          1	The monster tunnel
+          1	Theetsoa
+          1	Theko
+          1	Thembalethu
+          1	Thene Centre
+          1	Thepung
+          1	Thetsane Hardware
+          1	Thetsane High School
+          2	Thetsane Industrial
+          1	Thetsane Office Park
+          1	Thetsane Police Station
+          1	Thibella
+          1	Thimo Bed & Breakfast
+          3	Thokoane
+          1	Tholo
+          1	Tholoana ea Bophelo English Medium
+          1	Thomas Mofolo Library
+          4	Thoteng
+          1	Three Js Hardware
+          1	Thuathe Rock
+          1	Thukela Falls
+          1	Thuthimi Pass
+          1	Thutong Bookstore
+          3	Tierbere Road
+         19	Time Trial 2012
+          1	Tiny-Tots Pre-School
+          1	Tip-Top
+          1	Tip-Top fast Foods
+          1	Tipane
+          1	Tiping
+          1	Tiping 
+          1	Tireland Tyres
+          1	Tjobolo Street
+          1	Tlaeng Pass
+          1	Tlaling River
+          1	Tlametlu
+          1	Tlanyaku
+          1	Tlanyaku Pass
+          1	Tlhakanelo
+          2	Tlhanyaku
+          1	Tlholohatsi River
+          1	Tlokoeng
+          1	Tlokoeng Airport
+          1	Tloli River
+          1	Toilet
+          1	Tonakholo Road
+          2	Tonakholo Road Tonakholo Road
+          1	Toorn Street
+          1	Top Chicken
+          1	Topa
+          2	Total
+          1	Total filling station
+          1	Tourism Complex
+          1	Track
+          1	Trading Post Road
+          2	Tradorrette Shopping Complex
+          1	Traffic Testing Department
+          1	Traffic and CID
+          1	Traffic and Transport
+          1	Traffic and Transport Department
+          1	Trappan
+          9	Tree
+          1	Tree Row
+          1	Tree of Life Community Church
+          1	Trees
+          1	Trent Tire
+          1	Tri-Kolo
+          1	Tribute Guest House
+          1	Trifarm Chemist
+          1	Trojan Wall
+          1	Tropical Lakes
+          1	Trucha Restaurant
+          1	Try Hoek
+          1	Ts'a-le-Moleka Community Council
+          1	Ts'abi Guest House
+          1	Ts'akholo Health Centre
+          1	Ts'akholo High School
+          1	Ts'akholo Police Station
+          1	Ts'akholo Post Office
+          1	Ts'akholo Primary School
+          1	Ts'eliso Lebatla
+          1	Ts'emeli Street
+          1	Ts'enola Hall
+          1	Ts'enola United
+          1	Ts'hinabelo road
+          1	Ts'itsong
+          1	Ts'itsong LEC Primary School
+          1	Ts'oene-Motho
+          1	Ts'osane Sports Centre
+          1	Ts'uets'oana Maqelepo
+          3	Tsa Kholo
+          1	Tsa Kholo Lake
+          1	Tsa Kholo River
+          1	Tsa-le-Moleka Primary School
+          1	Tsalitlama
+          1	Tsana- Talana Community Council(E06)
+          1	Tseana and Mokhoabo joining Caldon River
+          5	Tsedike
+          1	Tsehlanyane River
+          1	Tseka
+          1	Tseketseke
+          1	Tseki Street
+          1	Tsekong
+          1	Tsepeng
+          1	Tsepiso Hardware
+          1	Tsepo
+          6	Tsereoane
+          1	Tsetsana
+          1	Tshelanyane Street
+          1	Tshepo Christian School
+          1	Tshepo Mofolo
+          1	Tshepo externsion
+          1	Tsieng
+          1	Tsifa-Limali
+          1	Tsikoane ACL Mission
+          1	Tsikoane High School
+          1	Tsilantso
+          1	Tsimo-Kholo
+          1	Tsinabelo Road
+          1	Tsoaing
+          1	Tsoating
+          1	Tsoedike
+          1	Tsoelang-pele School
+          1	Tsoelike
+          1	Tsoelopele
+          1	Tsoelopele Consulting and Contractors
+          1	Tsoelopele General Dealer
+          2	Tsoere Street
+          1	Tsoili-Tsoili
+          1	Tsoloane
+          1	Tsosane Youth Hostel
+          1	Tsu Tsu Fashion
+          5	Tsuinyane
+          1	Tsuinyane School
+          2	Tugela River
+          3	Twelve Apostles
+          1	Twin Peaks
+          1	Twin Sisters Mini Market
+          1	Twins Cave
+          1	Twisters
+          1	Two Sister's
+          1	Tšehlanyane National Park
+          2	UFO
+          1	UN House
+          1	UNDER CONSTRUCTION
+          1	UNFINISHED BUILDING
+          1	Umtshezi
+          2	Uncle Max
+          1	Unik Construction Engineering Lesotho
+          1	Unique Academy High School
+          1	United Church
+          3	United Nations Road
+          1	United Primary
+          1	Universal
+          1	Universal Church of the Kingdom of God
+          1	Upper Ndumeni Cave 1
+          1	Upper Ndumeni Cave 2
+          1	Upper-Thamae
+          1	Urban Council Offices
+          1	Usave
+          1	Uthukela District Municipality
+          1	V Auto Parts
+          1	VODACOM SIGNAL TOWER
+          1	Van Rooyen's Gate
+          2	Van Rooyen's Gate Border Control
+          1	Vehicle Garage Land Administration Authority
+          1	Vehicle Testing Centre
+          2	Veldt Street
+          1	Venture Ofiice
+          1	Verandah Cave
+          1	Verkyker Peak
+          1	Vice Chancelor's Residense
+          2	Victoria Hotel
+          1	Victory Convention Center
+          1	Villa Rossa Restaurant
+          1	Village And A Forest
+          1	Village Walk Mall
+          1	Village group Malealea
+          1	Vinies
+          2	Visser Street
+          1	Vlei
+          2	Vodacom
+          1	Vodacom Lesotho
+          1	Vodacom Signal Mast
+          2	Vodacom Signal Tower
+          1	Vodacom Tower Mast
+          1	Vodacom shop
+          1	Voortrekker Street
+          1	Vuka-Zentsela
+          1	Vukasenzela community kraal
+          6	WASCO
+          1	WASCO OFFICES
+          1	WASCO Tank
+          1	Waitjokotja Supermarket
+          1	Walker's Peak
+          1	Wasco Tank
+          1	Wastewater Plant
+          1	Wastewaters
+          1	Water Spring Catchment
+          1	Water Storage Tank
+          1	Water and Sewerage Authority
+          1	Water basin
+          1	Weird Hut
+          1	Welcome Supermarket
+          1	Western Triplet
+          1	Wetland
+          2	White City
+          1	White Hill
+          1	White House Sports Tarven
+          1	Wilies Mini Hospital
+          1	Wilson's Peak
+          1	Windsor Castle
+          1	Witstrikhout Street
+          1	Womens Lying in Ward
+         10	Wood
+         10	Woodland
+          3	Woodland and Scrub
+          1	Woodlands
+          1	Woods
+          1	Wool Wagon
+          2	Woolshed
+          1	Woolworths
+          1	Woolworths Store
+          1	Word of Life Ministries
+          1	Works and Transport
+          1	World Food Programme Country Office
+          1	World Vision
+          1	Wyndford 4x4 trail
+          1	Xeni Pass
+          1	Xeni River
+          1	Xerox
+          1	Xhariep District Municipality
+          1	Xp Juan
+          1	Yard
+          1	Yellow Line Car wash
+          1	Yodlers Peak I
+          1	Yodlers Peak II
+          1	Yodlers Ridge Peak
+          1	Yodler´s Cascades
+          1	Your Daily Discount Shop
+          1	Youth Recreational Centre
+          1	Z.C.C.
+          1	Zasa Funeral Services
+          1	Zebras FC Grounds
+          1	Zenon High School
+          1	Zero Café
+          1	Zion Christian Church
+          1	`Feild
+          1	a big brick house
+          8	a brick house
+          1	a huge brick house
+          2	a tree
+          1	abandoned animal dip
+          1	abubbaker s department store
+          2	airport road
+          1	aloe plantation
+          1	animal compound
+          4	animal pen
+          1	apostolic church
+          1	apple house
+          1	avani Lesotho
+          1	banana haouse
+          2	bar
+          1	bare
+          1	barerock
+          1	barn
+          2	barren land
+          2	barrier wall
+          1	bears
+          1	bela bela
+          1	blackcurrant house
+          1	bolahla primary school
+          1	botanic garden
+          1	botso water reseviour
+          2	boulder
+          1	boutique
+          1	brick yard
+          1	bridge site
+          1	bu
+          1	buiding under construction
+          1	buil;ding
+          3	building
+          1	building under  construction
+          1	building under consrtruction
+          1	building under construcion
+        145	building under construction
+          1	building34
+          2	buinding in construction
+          1	burialground
+          3	bush
+          1	bushes
+          2	busstop
+          1	butcher
+          1	cabbaza
+          5	cafe
+          1	caltex garage
+          1	car park
+          1	car wash
+          1	cathedral cafe
+          1	cattle bpost
+          3	cattle kraal
+         16	cattle post
+          1	cattle post area
+          1	cattlekraal
+          2	cehal Road
+          1	cemetery
+          1	cemetry
+          1	central Bank of Lesotho
+          1	charge office
+          1	chief
+          2	chief matsepe road
+          1	childhelp centre
+          2	church
+          1	civil servants' residence
+          1	classique tiles
+         11	cliff
+          1	cliff edge
+          1	cluster of trees
+          1	collected material for building
+          1	commercial
+          1	commercial (tupperware)
+          1	commercial area
+          2	common building
+          1	communial area
+          1	communications tower
+          1	community fish stall
+          1	conctruction
+          1	constraction
+          1	constriction
+         48	construction
+          1	construction store
+          1	constructions
+          2	constuction
+          1	contourwalk - exact location not drawn
+          8	contruction
+          1	contsruction
+         25	conveyor belt
+          1	cooperatives
+          1	coopratives building
+          2	coral
+          1	correctional service
+          1	correctional service staff housing
+          1	crall
+          1	crawl
+          1	crest
+          1	cropfields
+          6	cropland
+          1	curral
+          1	dam
+          2	dangerous cliff
+          1	deteriorated building because of swamp
+         10	dirt road
+          4	dirt track
+          1	dispol
+         13	donga
+          1	drift
+          1	duck stream
+          1	dumping site
+          1	dwelling
+          1	dwyer's field
+          1	eNdumeni
+          1	entry Mohale Lodge
+          1	fabulous carwash
+          1	fancy house
+          2	farm
+          1	farm house
+          1	farm sheds,barns and stable
+          3	farmhouse
+          1	farming area
+          1	farmyard
+          5	field
+          1	fieldcrops
+          1	fields
+          1	filling station
+          5	flat
+         24	flats
+          2	flats(malaene)
+          1	food stack
+         10	foot path
+          1	football ground
+         21	footbridge
+          5	footpath
+          1	for
+          8	ford
+          1	forest park
+          5	forestry
+          2	forrest
+          1	forst trees
+          1	froundavel
+          1	funrealz
+          1	gally road
+          2	general dealer
+          4	george end climb up
+          1	govenment resitantial houses
+          1	government offices
+          3	government staff houses
+          1	grandads
+          1	grandpappys
+          1	grannys
+          1	grasing and bog
+          1	grave yard
+          1	green house
+          1	green road
+          1	group of large trees
+          2	guest house
+          1	h
+          1	ha Motlasie
+          1	ha ledia
+          2	ha makopela
+          1	ha malome
+          1	ha nkoane
+          1	ha ralebese
+          1	ha sepinare
+          2	ha ts'ehla
+          1	hat
+          1	hatch
+          1	hedge
+          1	help Lesotho
+          1	herdboy dwelling
+          1	highlands trout
+          2	historic
+          1	holim'a eona Park
+         27	home
+          1	hose
+          4	hosue
+          1	hous
+          1	house 2
+          1	house in construction
+          4	house under construction
+          1	housing astate
+          1	housing estste
+         16	huis
+          5	hut
+          2	hut under construction
+          1	hut----
+          1	huty
+          1	iNkosazana
+          1	iNkosazana Cave
+          1	iNkosazana Peak
+          1	in construction
+          3	informal business shelter
+          1	ivy stream
+          1	jail
+          2	john Maut high school
+          1	kaNtuba
+          1	kaNtuba Butress
+          1	kaNtuba Peak
+          1	kacyees
+          1	karrL
+         16	karral
+         12	karrall
+          1	kgotty's home
+          1	khatibe
+          1	kholokoe
+          1	kindergarten
+          1	king rd
+          1	kotopong
+          1	kraaL
+          1	kraak
+        221	kraal
+          1	kraal and stall
+          4	krall
+          5	lake
+          1	lake judeas
+          1	lejone market area
+          1	lejone police station residence
+          5	lekhoakhoa
+          1	lenks night club
+          1	lephephe
+          8	lesaka
+          1	lesotho evangelical church
+          1	lesotho funeral services mphorosane
+          1	light industry
+          1	lihaseng
+          1	likoae
+          1	line
+          1	liquor store
+          1	lk
+          1	local government DCS office
+          1	long boat stream
+          1	long path way
+          3	long stream
+          1	mabitla a makhooa
+          1	machabeng high school basketball court
+          2	magistrate court
+          1	magristrate Court
+          1	main south 1
+          1	main stream
+          1	maisa-phoka council
+          1	makhoaba street
+          1	makoanyane Military hospital
+         28	malaene
+          1	maleallea george walk uphill end stretch
+          1	mamello orphanage home
+          1	mamohau primary and high school
+          1	manga site
+          1	mangos
+          1	maphutsaneng LEC
+          1	market area
+          1	marsh
+          1	mat'sela-habeli garage
+          1	matebeleng
+          1	matheko youth school
+          1	matsoku community council office
+          1	matsoku weir
+          1	medical school
+          1	metebo
+          2	metolong water purification centre
+          1	mill
+          1	millie
+          1	mini market
+          1	ministry of forestry plantation
+          1	moddy roa
+          1	mohlanapeng health centre
+          1	mohlanapeng primary
+          3	mokhoro
+          1	mollys stream
+          8	mophato
+          6	moshoeshoe road
+         33	motebo
+          1	motebong village
+          1	mother and sons filling station
+          1	motor mechanic and scrapyard
+          1	motsekuoa offsales
+          2	mountain top offsales and filling station
+          1	mpilord
+          1	multiple trees
+          1	mutuary
+          1	nameng market
+          1	nanny
+         11	natural
+          1	natural fault line
+          1	nuilding
+          1	offsales
+          1	old wholesaler
+          1	open space
+          1	orange river
+          1	orchard
+          1	outside toilet
+          1	outside tpoilet
+          1	paramenteng bar
+          1	parking area
+          2	passport office
+         18	path
+          2	path way
+          4	pathway
+          1	peka filling station
+          2	personal patch
+          1	pharmacy
+          1	phuthiatsana
+          1	pigsty
+          1	pinturas
+          1	pit latrine
+          1	pitseng deeping centre
+          1	pizza hut
+          1	planning department
+          1	polata
+          1	police residential area
+          2	police road
+          1	police station
+          3	pond
+          1	post office
+          1	post office mokhotlong
+          5	poultry farm
+          2	primary school
+          1	private building
+          1	private swimming pool
+          1	proosed lodge
+          2	public
+          1	public housing
+          2	quarry
+          1	rail way
+          1	red cross
+          1	regina Mundi
+          1	relax and wash carwash
+          1	rental houses
+          1	residental area
+          4	residential
+         14	residential house
+         13	residential housing
+          1	residential housing ea machina
+         13	residential road
+          2	residential roads
+          1	resturant and public bar
+          1	river foresty area
+          6	road
+          1	roads directorate
+          8	rock
+          1	rocky area
+         31	rondavel
+          1	rondavle
+          1	rough road
+          1	round about
+          1	roundavel
+          1	ru
+         11	ruin
+        138	ruins
+          1	ruis
+          5	s
+          1	salang local court
+         12	school
+          1	school build
+         10	school building
+          1	school for the disabled
+          1	school propertie
+          1	scrap yard
+          2	scrapyard
+          1	screeish meadow
+          1	scrob land
+          1	scru
+         34	scrub
+         11	scrub land
+          1	scrub lands
+          1	scrub oland
+          1	scrube
+          2	scrubland
+          2	scrubs
+          1	seboche
+          1	secondary school
+          1	secondaryroad
+          1	security guard house
+          1	sedimantation tank
+          1	sefatsane
+          1	sehalahala
+          1	sekoaing
+          2	semphuroaneng (quarry)
+          1	senqu hotel
+          1	sewage treatment ponds
+          1	sewarage ponds
+          4	sewer ponds
+          3	shack
+          2	shed
+          5	shop
+          1	shopping center
+          1	shoprite mafeteng
+          9	shrub
+          2	shrub land
+          3	shrubary
+          6	shrubland
+          2	shrubs
+          1	shrubs or trees
+          2	side walk
+          1	sikis wild rose processing firm
+          1	sister's of Charity
+          1	small forest
+          1	soccer pitch
+          3	staff houses
+          1	stairway to heavan
+          1	standard Lesotho Bank ATM
+          1	stastics
+          1	stone wall
+          3	stonewall
+          1	strand rd
+          1	strawberry building
+          1	streak
+          1	sub accountancy
+          1	subsistence shop
+          1	supermakert and bar
+          2	supermarket
+          1	supermegaultrainsansecar
+          1	surbub houses
+          2	swamp
+          1	swan stream
+          1	tank
+          1	telecommunications
+          1	tennis court
+          1	teritary
+          2	thabaneng
+          1	the bear woods
+          1	the big tree
+          1	the crazy path
+          1	the dog rd
+          1	the emerald stream
+          1	the field
+          1	the hedge 2
+          1	the lion rd
+          1	the long scrub
+          1	the loong road
+          1	the mistery shack
+          1	the pig stream
+          1	the river joint
+          1	the tear stream
+          1	the witches hut
+          1	the wolf rd
+          1	the wolf woods
+          1	the wool ESTATE
+          1	thing
+          1	thoteng
+          1	tiny tots english medium school
+          1	to upper Thamae
+         25	toilet
+         16	track
+          1	track to village & backpackers
+          2	traditional hedge
+          1	tree production farm
+          1	tree's
+          1	treees
+          1	trees and shubbery
+          1	trees bushes and plants
+          1	tres
+          1	tswane shoprite
+          1	tulong
+          1	ty local evangelical church
+          1	uKhahlamba / Drakensberg Park
+          1	uMgungundlovu District Municipality
+          1	umbrella guest house
+          1	un used field
+          1	under constraction
+         23	under construction
+          1	under construction----
+          1	under contraction
+          1	under contruction
+         12	underconstruction
+          1	unesco Library
+          1	unfinished
+          1	unfinished buiding
+          6	unfinished building
+          2	unfinished construction
+          1	unfinished guest house
+          1	uninished
+          1	unity english medium
+          1	unnamed
+          1	urban council
+          1	ut
+          1	vally
+          1	vegitation
+          1	very long track
+          1	vip toilet
+          1	vodacom sub-station
+          1	vukasenzela main road
+          1	wal
+         53	wall
+          2	wasco
+          1	waste water
+          3	water
+          2	water tap
+          1	waterfall?
+          1	watershed
+          1	watertap
+          2	wavey stream
+          1	wetland
+          1	wide river
+          1	wiggy stream
+          1	with mixed zones
+          4	wood
+         42	woodland
+          4	woodland and scrub
+          1	woodland/scrub
+          2	woodlands
+          1	woods
+          1	wool and mohair shed stall
+          3	woolshed
+          1	wormhole
+          2	wterway
+          1	yes
+          1	your mom
+          1	zebenzile

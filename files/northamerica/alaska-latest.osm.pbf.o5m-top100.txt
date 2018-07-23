@@ -1,0 +1,100 @@
+        840	Pond
+        703	Stream
+        363	Winter Trail
+        328	World War II US Army Jeep Trail
+        265	The Alaska Railroad
+        241	George Parks Highway
+        182	Richardson Highway
+        166	Seward Highway
+        153	Gun Mount
+        144	Foot Trail
+        128	Tractor Trail
+        122	Jeep Trail
+        116	T A P South
+        108	Airport Road
+        107	WWII Hut
+        106	Glenn Highway
+        103	Sterling Highway
+        101	Park Road
+         73	Yukon River
+         71	WWII Jeep Trail
+         68	Iditarod National Historic Trail
+         67	Pick River
+         66	Dalton Highway
+         56	Main Street
+         55	Copper River Highway
+         55	Alaska Highway
+         54	C Street
+         53	2nd Street
+         50	USFS
+         49	3rd Street
+         48	World War II US Army Hut Ruin
+         46	Front Street
+         45	A Street
+         45	2nd Avenue
+         44	B Street
+         41	Tok Cutoff
+         41	Taylor Highway
+         41	Steese Highway
+         39	Glacier Highway
+         39	D Street
+         39	1st Avenue
+         38	Egan Drive
+         38	Building
+         38	Bear Rubbing Rock
+         38	3rd Avenue
+         38	1st Street
+         37	Swan Lake Canoe Trail
+         36	WWII Gun Mount
+         35	Riley Creek
+         34	White Pass and Yukon Railroad
+         34	Beaver Creek
+         33	Airport Way
+         33	5th Avenue
+         32	WWII US Army Jeep Track
+         32	Sanctuary River
+         32	Cascade River
+         32	Canada-US Border
+         31	Homan River
+         31	Cemetery Road
+         31	5th Street
+         30	United States of America
+         30	Skagway River
+         30	Shed
+         30	Jenny Creek
+         29	Moose Creek
+         29	Copper River
+         29	Canon Mount
+         28	School Road
+         28	East Street
+         27	Sled Road
+         27	Old Glenn Highway
+         27	Minnesota Drive
+         27	Elmore Road
+         27	Elliott Highway
+         27	4th Street
+         27	4th Avenue
+         26	WWII US Army Jeep Trail
+         26	Spruce Street
+         26	Old Richardson Highway
+         26	Lesley Creek
+         26	Denali Highway
+         25	Mauneluk River
+         25	Lake Street
+         25	6th Street
+         24	West International Airport Road
+         24	Old Seward Highway
+         24	Noatak River
+         24	Mining Trail
+         24	Birch Street
+         23	Selawik River
+         23	Johansen Expressway
+         23	Baultoff Creek
+         23	Badger Road
+         22	Willow Street
+         22	Montana Creek Trail
+         22	Kletsan Creek
+         22	Kawichiark River
+         22	Dump Road
+         22	Chena Hot Springs Road
+         22	Campbell Creek Trail

@@ -1,0 +1,3805 @@
+          1	(Kim Il-Sung mural)
+          1	(Kim Il-Sung, Kim Jong-Il Statues)
+          1	(abandoned ferris wheel)
+          3	(abandoned ride)
+          1	(artillery unit)
+          1	(food kiosk)
+          1	(large white ball on top of hill)
+          1	09/27
+          1	1211고지
+          1	153.7고지
+          1	15호 관리소
+          1	1MW HUIYUAN GRID CONNECTED PV
+          1	1st stage fuel storage
+          1	1st stage oxidiser storage
+          1	1항공역사
+          1	2.16학생소년궁전
+          1	2.16학생소년궁전수영관
+          2	2nd stage fuel / oxidiser storage
+          1	2항공역사
+          1	351고지
+          1	3대혁명기념비
+          1	3대혁명전시관
+          1	4. 25문화회관
+          1	4.15소년백화원
+          1	4.25려관
+          1	5
+          1	5 MW Reaktor Nyŏngbyŏn
+          1	5 MW reactor site Nyŏngbyŏn
+          1	50 MW Reactor Nyŏngbyŏn
+          1	50 MW 원자로 영변
+          1	5MW-Reactor Nyŏngbyŏn
+          1	5월1일경기장
+          2	6
+          1	7
+          1	72시간 다리
+          1	8
+          1	8 MiG-19s
+          1	9
+          1	927닭공장
+          5	AAA Battery
+          1	AH1
+          1	Administration building
+          1	Administration office
+          1	Administrative Headquarter
+          1	Ambasada din România
+          1	An-gol
+          1	Anhwa Temple
+          1	Anjang-sŏm
+          1	Ansan Restaurant
+          1	Antenna
+          1	Araenon-gol
+          1	Araesoksaeul
+          1	Arch of Triumph
+          1	Armistice Signing Museum
+          1	Armistice Talks Building
+          1	Art Gallery
+          1	Asian Highway AH1
+          1	At Klaus
+          1	Ayang Ni Highway Strip
+          1	BAILONGCUN 白龙村
+          1	Base Commanders office
+          1	Basket Restaurant
+          1	Beginner's mid slope
+          1	Big Pedestrian Crosswalk
+          1	Boat
+          7	Border Chagang - North Pyongan
+          5	Border Chagang - Ryanggang
+          2	Border Chagang - South Hamgyong
+          4	Border Chagang - South Pyongan
+          5	Border Kangwon - South Hamgyong
+         11	Border North Korea - China
+          2	Border North Korea - Russia
+          2	Border North Korea - South Korea
+         12	Border Ryanggang - South Hamgyong
+          5	Border South Hwanghae - North Hwanghae
+          2	Border South Pyongan - North Hwanghae
+         11	Border South Pyongan - North Pyongan
+          4	Border South Pyongan - Pyongyang
+         11	Border South Pyongan - South Hamgyon
+          6	Border South Pyongan - South Hwanghae
+          1	Borderland Hotel
+          1	Bridge Restaurant
+          1	Broken Bridge
+          6	Build2
+          1	Building
+          1	Bukhan
+          1	Bulgarian Compound
+          1	Bulgarian Embassy
+          1	Bunker
+          1	CHANGXINPING 昌新坪
+          1	CP 2
+          1	CP 3
+          1	CP 4
+          1	Captured South Korean and Japanese Residences
+          2	Ch'aho-nodongjagu Navy Base
+          1	Ch'ongjin Anti-Aircraft
+          1	Ch'ongmul
+          1	Ch'ongnyong
+          1	Ch'ongt'al-li
+          1	Ch'ongt'an
+          1	Chagŭndari-yŏm
+          1	Changchung Cathedral
+          1	Changhang
+          1	Changhŭng-dong
+          1	Changjin basin (Yalu)
+          1	Changjon Haemaji
+          1	Changsan Hotel
+          1	Changyon Highway Strip
+          1	Checkpoint
+          1	Cheryong-ni
+          1	Chik-Tong
+          1	Chilgol Restaurant
+          1	Chilsong Restaurant
+          1	Chinese Pier
+          1	Chongchun Restaurant
+          1	Chongjin Hotel
+          1	Chungp’yŏng- dong
+          1	Chǒngmul-li
+          1	Coal Landing Depot
+          1	Command Center
+          2	Control building
+          1	Copper Mine
+          1	Cuban Compound
+          1	Daean Dairy Farm
+          1	Daesong Export Good Shop Restaurant
+          2	Daesong Restaurant
+          1	Daeyang Kwanligug Yeonpung Restaurant
+          1	Danda
+          1	Danpunggwan Restaurant
+          1	Defensive Trenches / Fighting Positions
+          1	Denkmal Hwasong-15 Startplatz
+          2	Diving board
+          1	Duksan Airfield
+          1	East test stand
+          1	Egyptian residence
+          1	Embassy of Palestine
+          1	Embassy of the Czech Republic
+          1	Euryong's Polder North Dam
+          1	Euryong's Polder South Dam
+          1	Exhaust trench
+          2	February 8 Vinalon Complex
+          1	Fenced-in Buildings;Unknown Purpose
+          1	Fishermens Club
+          5	Flugabwehrstellung
+          1	Food Mart
+          1	Food Mart 👌 body care
+          1	Former Czech and Polish NNSC Camp
+          1	Former tram depot
+          1	Fuel / oxidiser storage
+          2	Fuel storage building
+          1	Furniture Factory
+          1	General Bureau Office
+          2	Geschützstellung
+          1	Guards Restroom
+          3	Gulag 16 Road
+          1	Gumrung Cafe
+          1	Hach’ŏn-dong
+          1	Hamhung Sinhungsan Hotel
+          1	Hamhŭng-man
+          1	Hangnim-gol
+          2	Hapjang River
+          1	Hoch'on-gang basin (Yalu)
+          1	Home Depot
+          1	Horizontal assembly building
+          1	Hotel
+          1	Huch'ang-gang
+          1	Huichon 1 Dam
+          1	Huichon Dam
+          1	Huichon Reservoir
+          1	Hunchun basin
+          1	Hundred Flowers Restaurant
+          1	Hungnam Chemical College
+          1	Hungnam Fertilizer Factory
+          1	Hungnyong-nodongjagu
+          1	Hwach'on 1-tong
+          1	Hwangsuwon Airport
+          1	Hwangt'o-do
+          1	Hyangsan Hotel
+          1	Hydroelectric Power Plant
+          1	Hyodong-ni
+          1	Hyoja-dong
+         18	Ilyushin Il-28
+          1	Immigration and Customs
+          1	Inhung Bridge
+          1	Injim Gang
+          1	International Friendship Exhibition
+          1	Italian Join Venture
+          1	Iwŏn-man Bay
+          1	JIANGYANG 江阳
+          1	Janamsan Hotel (자남산려관)
+          1	Jangsan Revolutionary Site
+          1	Jiangyang 江阳
+          1	KFC
+          1	KPA 1
+          1	KPA 2
+          1	KPA 3
+          1	KPA 4
+          1	KPA Barrack
+          1	Kaechon Gulag 14 Kwan-li-so
+          1	Kaesong Industrial Park
+          1	Kangan Restaurant
+          1	Kangnam Economic Development Park
+          1	Kangwon Provincial People's Hospital
+          1	Karoke Eating Hall
+          2	Kazerne?
+          1	Kerntechnische Anlage T'aech'ŏn
+          1	Kilchu Airstrip
+          1	Kim Il-Sung / Kim Jong-Il Mural
+          1	Kim Il-Sung Statue
+          1	Kim Jong Suk Nursery
+          1	Kim-Il-Sung Memorial Hall
+          1	King Wanggon Mausoleum
+          1	Kkot-kol
+          1	Kobangsan Guesthouse
+          1	Kobansan Restaurant
+          1	Kohlekraftwerk
+          1	Kojo Airport
+          1	Koksan Highway Airport
+          1	Konnyu islet Restaurant
+          1	Korean Central Broadcasting Station (KCBS)
+          1	Korean Pier
+          1	Koryo Muesum (Sungyangwan Academy)
+          1	Kosong naval base
+          1	Kotchi Restaurant
+          1	Krahun
+          1	Ku Dang Ri Clinic
+          4	Kujang shortwave transmitter site
+          1	Kumcup Restaurant
+          1	Kumgang Temple
+          1	Kumgangsan store
+          2	Kumsong-chon
+          1	Kwangbok Dept Store
+          1	Kyong Do Ri Clinic
+          1	Kyongheung Restaurant
+          1	Kühlturmfundament
+          1	Launch control center
+          1	Launch platform
+          1	Lewon Airfield
+          1	Library Restaurant
+          1	Lifes
+          1	Limestone Mine
+          1	Lumber Yard
+          1	MAPAI 马牌
+          1	Maekjon 1
+          1	Magunpo Administration building
+          1	Magunpo Rocket Engine Test Facility
+          1	Main Compound
+          1	Majon Bathing Resort
+          1	Majon Guest House
+          1	Majon Pleasure Ground
+          1	Man'gyongdae
+          1	Manpo Airport
+          1	Mansudae Art Gallery Restaurant
+          1	Masal-li
+          1	Maternity
+          1	Mayang-do navy base
+          1	Mayangdo
+          1	McDonald's
+          1	Memeland HQ
+         28	MiG-19
+         45	MiG-21
+         18	Military Demarcation Line North Korea - South Korea
+          4	Missile Launchpad
+          1	Missile control building
+          1	Missile tracking building
+          1	Mobile phone relay antenna
+          1	Mobile radar tracking
+          1	Moranbong Outside Restaurant
+          1	Moranbong Sauna Bar
+          4	Mujin Stream
+          1	Muldongttuk
+          1	Mulgori
+          1	Munchon District Hospital
+          1	Munchon Hotel
+          1	Munchon Station
+          1	Munnae
+          1	Munsu Health Complex
+          1	Musu-dan
+          1	Musudan-ri Missile Assembly Building
+          1	Musudan-ri launch pad
+          3	Myonggan-Ch'on
+          8	Myonggan-ch'on
+          1	Namae-ri navy base
+          2	Namdal
+          1	Nampo Dam Visitor Center
+          1	Namp’yŏng-dong
+          2	Namyang
+          1	National Gift Exhibition
+          1	Night Guards Duty Room
+          1	No. 17 Explosives Factory
+          1	No. 17 Factory-Rocket Engine Production Infrastructure
+          1	No.1 Tourism Port
+          1	No.2 Tourism Port
+          1	Nojoktol
+          4	North Korea - China Border
+          4	North Korea Border (East)
+          3	North Korea Border (West)
+          1	North Korea Peace Museum
+          1	North Portal to Underground Nuclear Facility
+          1	Nuchon Ni Highway Strip
+          1	Nuclear Submarine Construction Hall
+          1	Nuclear Test Area
+          1	Nuclear Test Logistics Area
+          1	Nuclear Test Road
+          1	Nuclear Test Site
+         24	Nucleartest Road
+          1	Nyŏngbyŏn
+          1	Observation building and telemetry stand
+          1	Okpyong ni Airstrip
+          1	Old Boksei Shop
+          4	Old SAM revetment
+          9	Orang-ch'on
+          1	Orangchon
+          1	Orangchon Power Station
+          1	Osonyoul
+          1	P'ungjong-ni
+          1	Paegam Airfield
+          1	Pakkoryong
+          1	Pakyon Falls
+          1	Palestinian residence
+          1	Panghwa-ri
+          1	Panghyon South Highway Strip
+          1	Pangjik Street
+          1	Pangyo County Hospital
+          1	Pangyo Up Clinic
+          1	Pashini-3 Train
+          1	Phyongcheon Restaurant
+          1	Pike's Peak
+          1	Plastic bag Bar
+          1	Pokchong-ni
+          1	Polish Compound
+          1	Ponghwansan Hotel
+          1	Pongori
+          1	Pongsu Church
+          1	Pongun Chemical Plant
+          1	Pothong River
+          1	Poyang-ho
+          1	Prison Workers' Unit 4 Village
+          1	Processing building
+          1	Propaganda
+          3	Propaganda Mural
+          1	Propaganda Office
+          1	Propaganda Village
+          1	Puam-Dong navy base
+          1	Puhwa-ri
+          1	Pujon Revolutionary Site Monument
+          1	Pujon Stone River
+          1	Pukchang coal power station
+          1	Puktal
+          1	Pulji Hermitage
+          1	Pyong Ni South Highway Strip
+          1	Pyongyang Diplomatic Shop
+          1	Pyongyang Dog Meat House
+          1	Pyongyang Duck Meat House
+          1	Pyongyang Friendship Culture Restaurant
+          1	Pyongyang Friendship Hospital
+          1	Pyongyang Goat Bulgugi Restaurant
+          1	Pyongyang Golf Course
+          1	Pyongyang Mullet Soup Restaurant
+          2	Pyongyang Noodle Restaurant
+          1	Pyongyang People's Hospital No. 1
+          1	P’aeŭidŏk
+          1	QINGRONGCUN 庆荣村
+          1	Ragwon Restaurant
+          1	Railway depot
+          1	Rajin
+          1	Rakwon
+          1	Rakwon Cinema
+          1	Rason Tourist Hotel
+          1	Rasŏn Refinery
+          1	Red Cross General Hospital
+          2	Residence of Leadership
+          1	Rest House
+          1	Revenge-Pledging Place
+          1	Ri Guang Xian 日光线
+          1	Ri Song-gye Home
+          1	Rocket motor test stand
+          1	Rocket support tower
+          1	Round Restaurant
+          1	Round Restaurant - Cod >Restaurant
+          1	Round Restaurant - Dog Restaurant`
+          1	Ru Bael Ri Clinic
+          1	Runga Island Restaurant
+          1	Rungna
+          1	Russian Pier
+          1	Ryonbong Shop Restaurant
+          1	Ryonggang Hot Spa Hotel
+          6	SAM Battery
+          1	SAM Radar
+          3	SSPA Building
+          1	Sa Dong Ri Clinic
+          1	Sadal-li
+          1	Sadŭk
+          1	Sae-mal
+          2	Saebangsong
+          1	Sambatmol
+          3	Samdung-ni
+          1	Sandy Ridge
+          1	Sang Rin Won Ri Clinic
+          1	Sangam-ryong
+          1	Sanggamnyong
+          1	Sangwon Highway Strip
+          1	Saseonjeong Pavillion
+          1	Satellite Control Center
+          1	Secure Boat Basin
+          1	Seonbong Store
+          1	Shengjie Self-Service Supermarket
+          1	Shipyard
+          1	Siloanlage
+          1	Sinhung Highway Strip
+          1	Sinhung Noodle Restaurant
+          8	Sinmido
+          1	Sinpo Nuclear Submarine Development Facility
+          1	Sinpo south shipyard
+          1	Sinuiju Airfield
+          1	Sniper Ridge
+          1	So-dong
+          1	Sogyeong General Restaurant
+          1	Sohae Satellite Launching Station
+          1	Sohung Resthouse
+          1	Sojae-mal
+          1	Sokch'u-rodongjagu
+          1	Sol Pong Center Restaurant
+          1	Solbak-tong
+          1	Solgol-ch'on
+          1	Sondok Airport
+          2	Songchon
+          1	Songdo Restaurant (Chez Marina)
+          1	Songga-rodongjagu
+          1	Songgori
+          1	Songjin Pando naval base
+          1	Songsin Restaurant
+          2	Sosam-ch'on
+          1	Southern Support Area
+          1	Spa massage
+          1	Sphinx night club
+          1	Square
+          1	Stupid Ass Kim
+          3	Support building
+         11	Sŏdu-su
+          1	T'ogyo
+          1	TV Broadcasting hall
+          1	Taebangjon
+          1	Taedong Gang
+          2	Taedong River
+          1	Taedonggang Beer Factory Bar
+          1	Taedonggang No. 3
+          6	Taehak Street
+          1	Taehwa palace
+          1	Taehwabong Peak Restaurant
+          3	Taep'o-ch'on
+          1	Taeri-rodongjagu
+          1	Taesongsan Fun Fair
+          1	Terrace Bar
+          1	The Garage
+          1	To-gol
+          1	Toksan
+          1	Tomb of King Kongmin
+          1	Tongil Restaurant
+          1	Toraji Restaurant
+          1	Torunt'o
+          1	Tram 1 Man'gyongdae>Pyongyang Station
+          1	Tram 1 Pyongyang Station>Man'gyongdae
+          1	Tram 1(b) Songsan>Songyo (defunct)
+          1	Tram 1(b) Songyo>Songsan (defunct)
+          1	Tram 2 Musun>Toseong
+          1	Tram 2 Toseong>Musun
+          1	Tram 3 Ragrang>West Pyongyang
+          1	Tram 3 West Pyongyang>Ragrang
+          1	Tram 4 Kumsusan Mem>Samhung Metro St
+          1	Tram 4 Samhung Metro St>Kumsusan Mem.
+          3	Tram depot
+          1	Tree commemorating 2018 inter-Korean summit
+          1	Triangle Hill
+          1	Trolleybus depot
+         10	Tu He Xian 图和线
+          1	Tulsu-gol
+          1	Tumangang
+          1	Tumen Bureau Of Education Jijian Office 图们教育局基�
+          1	Tumen Bureau Of Education 图们教育局
+          1	Tumen Court 图们法院
+          1	Tumen Lands Bureau 土地局
+          1	Tumen No.3 Middle School
+          1	Tumen Transportation Bureau
+          1	U.S. Atrocities Museum
+          1	USS Pueblo
+          1	Ulji Pavilion
+          1	Un-mal
+          1	University of Light Industry
+          5	Unju-ch'on
+          1	Utho-gol
+          1	VIP quarters
+          1	Vanguard Shop Restaurant
+          1	Victory Restaurant
+          1	Well of Eternal Youth
+          1	West Portal to Underground Nuclear Facility
+          2	West Pyongyang Department Store
+          1	West test stand
+          1	Western Kaesong Park
+          1	Won-gol
+          1	Wong Yo Ri Highway Strip
+          1	Wonsan Airport
+          1	Workers Cooperative Tea Shop
+          1	XIASUO 下所
+          1	Xi Sheng Jie 西盛街
+          1	Yan Jiang Lu 沿江路
+          1	Yang-dong
+          1	Yoho’ri navy base
+          1	Yokkok-Chon
+          1	Yokryon Restaurant
+          1	Yong Hung Airstrip
+          1	Yongnam-nodongjagu
+          1	Yongt'ok-kol
+          1	Yumok
+          1	Zollhaus Wonjong
+          1	artillery site
+          2	company (SECTOR UNKNOWN)
+          2	courtyard
+          1	cycling club
+          1	farm
+          2	farmer foothpath
+          1	farmer footpath
+          1	football field
+          1	fuel storage
+          1	kim jong yu paradise
+          1	qixincun 岐新村
+          1	riverside
+          1	shrine
+          2	solid-fuel production plant
+          1	state rest place
+          1	threshing house
+          1	trenches
+          1	waudo
+          1	Владивостокское время
+          1	Восточный военный округ
+          1	Дальневосточный федеральный ок�
+          1	Дальневосточный экономический �
+          1	Дом культуры
+          1	Космодром Тонхэ
+          1	Лебединая
+          1	Мост Российско-Корейской дружбы
+          1	ОРУ
+          1	Приморский край
+          1	Природный парк "Хасанский"
+          1	Радиндон
+          1	Российско-китайская граница
+          1	Российско-корейская граница
+          1	Россия
+          1	Сонимчхон
+          2	Туманная - 두만강
+          2	Хасан
+          1	Хасан-Экспорт
+          1	Хасанский район
+          1	Хасанское городское поселение
+          1	мыс Сончжондан
+          1	озеро Лебединое
+          1	озеро Хасан
+          1	остров Квэамдо
+          1	остров Сондо
+          1	سفارت ایران
+          1	《민족의 환호》쪽무늬그림벽화
+          1	《행복전차》집단조각
+          1	一纬路
+          1	一经街
+          1	七纬路
+          1	七经街
+          1	三合镇
+          1	三纬路
+          1	三经街
+          1	三道沟
+          1	三道沟河
+          1	三道沟河水文
+          1	上白龙
+          1	下套
+          1	下始建
+          1	下拉线
+          1	下河口村
+          1	下白龙
+          1	东升路
+          1	东昌路
+          1	东泰路
+          1	东港市 / Donggang
+          1	东盛街
+          1	东齐路
+          1	中国
+          1	中国国家高速公路网
+          1	中央大道
+          1	中富街
+          2	中朝友谊桥
+          1	临江
+          2	临江市
+          1	临江市人民政府
+          1	丹东
+          1	丹东市
+          1	丹东市人民政府
+          1	丹东江舍国际青年旅舍 Bless House Youth Hostel
+          1	丹东港
+          1	丹东站
+          2	丹大城际铁路
+          5	丹集线
+          1	九江街
+          2	九纬路
+          1	二纬路
+          2	二经街
+          1	云峰水库
+          1	五号境界碑 - 5호경계비
+          1	五纬路
+          1	五经街
+          1	五道沟
+          1	五道沟流域
+          1	五道河
+          1	亚洲公路1号线
+          1	亞洲公路32號線
+          1	仲坪
+          1	体育馆路
+          1	元宝区
+          1	元宝区 (Yuanbao)
+          1	光明街
+          1	八家子
+          1	八纬路
+          1	八经街
+          1	八达城村
+          1	八道沟河
+          1	八道沟河水文
+          1	八道沟镇
+          1	六号境界碑 - 6호경계비
+          1	六纬路
+          1	六经街
+          1	兴一路
+          1	兴七路
+          1	兴业路
+          2	兴丹路
+          1	兴五路
+          2	兴港大街
+          1	兴隆街
+          1	农羊屯
+          2	创业路
+          1	前聚宝街
+          1	北京–平壤
+          1	北环路
+          1	十九道沟
+          3	十纬路
+          1	南园小区
+          1	卧虎峰
+          1	厚地洞
+          2	友谊街
+          2	口岸大街
+          1	古城村
+          1	吉林省
+          1	同心路
+          1	后聚宝街
+          1	和勇线
+          1	和芦线
+          1	和龙市
+          1	嘎呀河
+          1	嘎呀河流域
+          1	四冶线
+          1	四号境界碑 - 4호경계비
+          1	四纬路
+          1	四道河
+          1	国安路
+          1	国强路
+          1	国瑞路
+          1	国祥路
+          1	图们
+          1	图们商检局 도문상품검사검역국
+          1	图们国税局
+          2	图们大路
+          1	图们市
+          1	图们市人大
+          1	图们建设局
+          1	图们江
+          1	图们江流域
+         17	图和线
+          1	圈河口岸
+          1	圖們江大橋
+          1	土海线白川温泉-土城废弃区间路基
+          2	坝岗路
+          1	大众南路
+          1	大众路
+          1	大沙河
+          1	大粟子镇
+          1	大荒沟 (Dahuang River)
+          1	天文峰
+          1	套河线
+          1	安图县
+          1	安山村
+          1	安平河
+          1	官电街
+          1	宽甸满族自治县 / Kuandian
+          1	密江
+          1	密江流域
+          1	小安线
+          2	山上街
+          1	崇健中街
+          1	崇善镇
+          1	工商局
+          1	希爾頓花園酒店
+          1	干沟子村
+          1	延边朝鲜族自治州
+          3	建设街
+          1	开山屯
+          1	开山屯镇
+          3	徳峴線
+          2	德峴線
+          1	抚松县
+          1	振兴区 (Zhenxing)
+          1	振安区 (Zhen'an)
+          1	振安桥
+          1	文兴胡同 문흥골목
+          1	文化街
+          1	文安路
+          1	文庆路
+          1	新华路
+          1	新基村
+          1	新安东
+          1	新安步行街
+          1	新建街
+          1	新星街
+          1	新柳线
+          1	新柳街
+          2	明星路
+          2	春三路
+          2	曙光路
+          1	月晴镇
+          1	月晴镇中心小学
+          1	望江楼
+          4	朝凤街
+          1	朝阳街
+          1	柳条河
+          1	毛泽东
+          1	水丰水库 / 수풍언제
+          1	水丰湖 / 수풍호
+          9	江城大街
+          1	江域村
+          3	沈丹客运专线
+          5	沈丹线
+          1	沙河镇
+          1	沙河镇街
+          1	河东街
+          1	沿江路
+          1	沿泡
+          1	泉水村
+          1	泡浑线
+          1	浑江
+          1	浑江区
+          1	浑江水文
+          1	浪东线
+          2	滨江东路
+          3	滨江中路
+          1	滨江西路
+         15	滨海公路
+          1	玉柱峰
+          1	珍珠公园
+          1	珍珠桥
+          1	珍珠街
+         15	珲乌高速
+          1	珲乌高速公路
+          1	珲春市
+          1	瓦苏线
+          1	產業道路
+          1	田地
+          1	白房河
+          1	白龙村四山
+          1	百龙村
+          1	石建坪
+          1	石建平村
+          6	福春街
+          1	空地
+          1	第二高级中学
+          1	第五中学
+          1	粮朝线
+          1	紫霞峰
+          1	維也納飯店
+          1	红旗河
+          1	群平线
+          2	胜利路
+          1	胜迹村
+          1	花园河
+          1	苇沙河镇
+          1	莲花池
+          1	菜市街
+          1	葫芦套村
+          1	蒲石河
+          1	蒲石河流域
+          1	薪岛
+          1	西城街
+          1	解放路 해방로
+          1	象鼻山
+          1	财神庙街
+          1	辽宁省
+          1	迎宾路
+          1	迎春路
+          1	通江街
+          1	郭马线
+          1	金华乡
+          1	金汤街
+          1	银河大街
+          1	锦山大街
+          2	锦水街
+          1	锦江路
+          1	镇子同村
+          1	長白山 - 백두산
+          1	长大线
+          1	长惠国际大桥
+          1	长白县
+          1	长白朝鲜族自治县
+          1	长白朝鲜族自治县人民政府
+          1	长白瀑布
+          1	长白镇人民政府
+          1	防川
+          1	雁振线
+          2	集丹线
+          1	集安
+          1	集安公安局
+          1	集安市 / Ji'an
+          1	集安鸭绿江国境铁路大桥
+          1	雙頭峰 - 쌍두봉
+          1	青年大街
+          1	青年湖
+          2	青石镇
+          1	马市村
+          1	马鹿沟镇
+          1	鴨綠江斷橋紀念售票口
+          1	鸭大铁路
+          1	鸭江路
+         49	鸭绿江 / 압록강
+          3	鸭绿江大街
+          1	鸭绿江断桥
+          1	鸭绿江流域
+          1	鹤栖屯
+          1	麻线乡
+          2	黄海大街
+          1	黎明街
+          1	龙井市
+          2	가단리
+          1	가담역
+          1	가래골산
+          1	가림역
+          1	가마봉
+          1	가봉로동자구
+          1	가산리
+          1	가승리
+          1	가원봉
+          1	가응역
+          1	가차도
+          1	가창역
+          1	각구봉
+          1	각암역
+          1	각종커피
+          1	각후봉
+          1	각흘산
+          1	간동역
+          1	간리역
+          1	간백산
+          1	간삼봉
+          1	간상봉역
+          1	간천리
+          1	간평역
+          1	갈골령
+          1	갈럼길식당
+          1	갈마역
+          1	갈천역
+          1	갈현리
+          1	감도
+          1	감봉리
+          1	감호역
+          1	갑산군
+          1	강계선
+          2	강계시
+          1	강계역
+          1	강구동
+          1	강구역
+          1	강남군
+          1	강남읍
+          3	강남천
+          1	강다리 Highway Strip
+          1	강다리비행장
+          1	강덕역
+          1	강동 제4호교화소
+          1	강동군
+          1	강동비행장
+          1	강동역
+          1	강동읍
+          1	강령군
+          1	강령읍
+          1	강상리역
+          1	강서군
+          1	강서삼묘
+          1	강서역
+          1	강선역
+          1	강성읍
+          1	강안동
+          1	강안리
+          1	강안리역
+          1	강안역
+          1	강양역
+          3	강원도
+          1	강원선
+          1	강하역
+          1	강화군
+          1	강화도
+          1	강화읍
+          1	개고청년역
+          1	개선
+         20	개선거리
+          1	개선려관
+          1	개선문
+          2	개선역
+          1	개선청년공원유희장
+          1	개성공업단지(폐쇄)
+          1	개성공업지구 제 3단계
+          1	개성민속려관
+          1	개성방직공장
+          1	개성사범대학
+          4	개성시
+          1	개성신문사
+          2	개성역
+          1	개성영화관
+          1	개성중앙시장
+          1	개성학생소년궁전
+          1	개심사
+          1	개안리
+          1	개천 제14호 관리소
+          1	개천 제1호 교화소
+          1	개천 제1호교화소
+          1	개천관리소14호
+          1	개천국수집
+          2	개천비행장
+          4	개천시
+          1	개천시장
+          1	개천역
+          1	개천제1중학교
+          1	개천제3호
+          1	개천혁명사적지
+          1	개풍역
+          1	개화리
+          1	거북선
+          1	거산역
+          1	거차역
+          1	거흥역
+          2	건국
+          2	건설
+          1	건자역
+          1	건창역
+          1	건하역
+          1	검금바위
+          1	검불랑역
+          1	검산리
+          1	검산리역
+          1	검암리
+          1	견룡저수지
+          1	결혼식당
+          1	경공업관
+          1	경기도
+          1	경기도-강원도 경계
+          1	경도리
+          1	경림동
+          1	경상동
+          1	경성군
+          1	경성역
+          1	경성읍
+          1	경성주을비행장
+          1	경안역
+          1	경원군
+          1	경원읍
+          1	경주석굴암
+          1	경포역
+          1	경흥간이식당
+          4	경흥거리
+          1	경흥군
+          1	경흥동
+          1	경흥역
+          1	경흥읍
+          1	계란도
+          1	계월향비
+          1	계정역
+          1	고간원로동자구
+          1	고남리
+          1	고려동
+          1	고려려관
+          1	고려려관 2층 식당
+          1	고려려관 3층 식당
+          1	고려려관 조선음식
+          1	고려려관 평양랭면불고기
+          1	고려려관 회전전망식당
+          1	고려박물관
+          1	고려생맥주
+          1	고려시기 99간 살림집
+          1	고려식당
+          1	고려식사칸
+          1	고려의학과학원
+          1	고려차집
+          1	고려호텔 지하식당
+          1	고령진역
+          1	고무산역
+          1	고산
+          1	고산군
+          1	고산역
+          1	고산읍
+          2	고성군
+          1	고성역
+          1	고성읍
+          1	고성항
+          1	고아이강
+          1	고안역
+          1	고암산
+          1	고왕리
+          1	고원군
+          1	고원역
+          1	고원읍
+          1	고읍리
+          1	고읍역
+          1	고인역
+          1	고잔상리
+          1	고잔하리
+          1	고장리
+          1	고주애산
+          1	고직령
+          1	고참탄광선
+          1	고천리
+          1	고토역
+          1	고풍군
+          1	고풍읍
+          1	곡구역
+          1	곡산군
+          1	곡산비행장
+          1	곡산읍
+          1	곡하역
+          8	곤양강
+          1	곤유도
+          1	공동경비구역
+          1	공인역
+          1	과일군
+          1	과일비행장
+          1	과일역
+          1	과일읍
+          1	과학기술전당
+          1	과학도서관
+          1	과학자려관
+          1	곽산군
+          1	곽산비행장
+          1	곽산역
+          1	곽산읍
+          1	관곡역
+          1	관모봉
+          1	관봉
+          1	관성단차
+          1	관음전
+          1	관하역
+          1	관해역
+          1	광개토태왕비 廣開土太王碑
+          1	광답리
+          1	광대산고구려고분군
+          1	광리
+          1	광명
+          1	광명리
+          1	광명역
+          1	광민횟집 (Gwangmin Fish Restaurant)
+          2	광복
+         10	광복거리
+          1	광복다리
+          1	광삼리
+          1	광성중학교
+          1	광장백화점
+          1	광천역
+          1	교구동
+          1	교동면
+          1	교육도서출판사
+          1	구곡리
+          2	구곡천
+          2	구단역
+          1	구당리
+          1	구레산
+          1	구령리
+          1	구룡연산도
+          1	구룡정
+          1	구룡지
+          1	구룡평역
+          1	구룡폭포
+          2	구성시
+          1	구성역
+          1	구연리
+          1	구영도
+          2	구읍리
+          2	구읍리비행장
+          2	구장군
+          3	구장읍
+          1	구장지역동굴
+          1	구장청년역
+          1	구정역
+          1	구중역
+          1	구탄역
+          1	구현역
+          1	국경역
+          9	국도 제7호선
+          1	국립연극극장
+          1	국방종합대학
+          1	국사령
+          1	국사봉
+          1	국수집
+          1	국제관계대학
+          1	국제통신국
+          1	군중앙병원
+          1	군학산
+          1	군함바위
+          1	굴산리
+          1	굴송역
+          1	궁심동
+          1	권도
+          1	권투 선수 동상
+          1	귀성역
+          1	귀인역
+          1	극동비행장
+          1	극동역
+          1	근동면
+          1	근동역
+          1	근천리
+          1	금강 아난 티 골프 앤 스파 리조트
+          1	금강군
+          1	금강비행장
+          1	금강사탑
+          1	금강산
+          1	금강산관광지구
+          1	금강산문화회관
+          1	금강산옥류관
+          1	금강산온천
+          1	금강산청년선
+          1	금강산청년역
+          1	금강산호텔
+          1	금강읍
+         13	금강천
+          1	금강폭포
+          1	금곡리
+          1	금골선
+          1	금골역
+          1	금능리
+          1	금동
+          1	금릉동굴
+          1	금릉식당
+          1	금리
+          1	금바위역
+          1	금봉강역
+          1	금부리
+          1	금사리
+          2	금산리
+          1	금산역
+          1	금산포역
+          1	금생역
+          1	금성정치대학
+          1	금성청년출판사
+          1	금송역
+          1	금수산태양궁전
+          1	금야군
+          1	금야역
+          1	금야읍
+          1	금옥역
+          2	금천;Kŭmch'ŏn
+          1	금천군
+          1	금천리
+          1	금천역
+          1	금천읍
+          1	금평역
+          1	금평천
+          1	금풍리
+          1	금풍리배행장
+          1	금학리
+          1	금호원자력발전소
+          1	금호지구
+          2	급강하탑
+          1	기곡리
+          1	기대봉
+          1	기린도
+          1	기봉리
+          1	기산청년역
+          1	기상수문국
+          1	기암역
+          1	기정동 Kijŏng-dong
+          1	기탄역
+          1	길주군
+          1	길주청년역
+          1	김기봉중학교
+          1	김만유병원
+          1	김보현씨와 리보익녀사의 묘혈
+          1	김성주기념비
+          1	김성주소학교
+          1	김성주학생소년궁전
+          1	김일성경기장
+          1	김일성고등물리중학교
+          2	김일성광장
+          1	김일성군사종합대학
+          1	김일성군사종합대학 김정일군사연구원
+          1	김일성기념관 (구, 역사박물관)
+          1	김일성김정일기금
+          1	김일성당학교
+          1	김일성동상
+          1	김일성사회주의청년동맹중앙위원회
+          1	김일성종합대학
+          1	김일성종합대학 평양의학대학
+          1	김일성주석의동상
+          1	김정숙군
+          1	김정숙읍
+          1	김정숙평양제사공장
+          1	김정일인민보안대학
+          1	김정일정치군사대학
+          1	김정일화온실
+          1	김종태 전기기관차 련합기업소
+          1	김책공업종합대학
+          1	김책공업종합대학 교육자살림집
+          1	김책공업종합대학 자동화연구소
+          1	김책공업종합대학 전자도서관
+          1	김책공업종합대학 혁명사적관
+          2	김책시
+          1	김책역
+          1	김철주사범대학
+          1	김포시
+          1	김형권군
+          1	김형직군
+          1	김형직군의대학
+          1	김형직기념비
+          1	김형직사범대학
+          1	김형직선생와 강반석녀사의 묘혈
+          1	김화군
+          1	김화읍
+          1	까치봉
+          1	꼬임회전반
+          1	꾸바대사관
+          1	나부리
+          1	나이제리아대사관
+          1	난공불락의 요새군상
+         16	남강
+          1	남강덕역
+          1	남계역
+          1	남대문
+         10	남대천
+          1	남덕역
+          1	남덕천역
+          1	남동선
+          1	남동역(폐지)
+          1	남리
+          2	남방한계선
+          3	남방한계선 (Southern Limit Line)
+          1	남북출입경사무소
+          1	남사로동자구
+          1	남사리
+          1	남산
+          1	남산 호탤
+          1	남산리
+          1	남산역
+          1	남산천
+          1	남서리
+          1	남석역
+          1	남신의주역
+          1	남안동
+          1	남압리
+          1	남애역
+          1	남양로동지구
+          1	남양역
+          1	남중역
+          1	남천고급중학교
+          1	남촌역
+          1	남평 진 南坪镇
+          1	남포
+          1	남포시
+          1	남포역
+          1	남포태산
+          1	남하리
+          1	내각관방
+          1	내금강휴계소
+          1	내동역
+          1	내옥리
+          1	내중리
+          1	내중역
+          2	내포역
+          1	녕변견직공장
+          1	녕변군
+          3	녕변읍
+          1	녕원군
+          1	녕원읍
+          1	노동리
+          1	노하리
+          1	농건리
+          1	농사로동자구
+          1	농업관
+          1	농촌역
+          1	농포역
+          1	누른봉
+          1	늘떼기산
+          1	능인암
+          1	늪평역
+          1	니서역
+          2	다보탑
+          1	다사도
+          1	다사도역
+          1	다사도항
+          1	다사로동자구
+          1	단고기식당
+          2	단군릉
+          2	단천시
+          1	단천청년역
+          1	달루리
+          1	달마산
+          1	답동역
+          1	당곡리
+          2	당옥천
+          1	당창건기념탑
+          1	당창건사적관
+          1	당후리
+          1	대각봉
+          1	대각산
+          1	대강
+          1	대강리
+          1	대건선
+          1	대건역
+          1	대계도간석지
+          1	대공 포병 부지
+          1	대관군
+          1	대관읍
+          1	대교역
+          1	대극장식당
+          1	대대로동자구
+          1	대덕역
+         45	대동강
+          1	대동강구역
+          1	대동강구역인민병원
+          1	대동강려관
+          1	대동강맥주공장
+          1	대동강맥주식당
+          1	대동강상점식당
+          1	대동강수력발전소
+          1	대동강역
+          2	대동강외교단회관
+          1	대동강축전지공장
+          1	대동강해맞이혁명사적지
+          1	대동강호텔식당
+          1	대동교식당
+          1	대동군
+          2	대동다리
+          1	대동리
+          1	대동문
+          2	대동문강안거리
+          1	대동문공원
+          1	대동문동
+          1	대동문식당
+          1	대동문영화관
+          3	대령강 (Taeryong)
+          1	대령강역
+          1	대보동
+          1	대보산
+          1	대봉식당
+          1	대북포리비행장
+          1	대서곡
+          1	대성구역
+          2	대성동
+          1	대성동길
+          1	대성동초등학교
+          1	대성동회관
+          1	대성령
+          1	대성백화점
+          1	대성봉사수
+          1	대성산
+          1	대성산성
+          1	대수압도
+          1	대숙리
+          1	대신역
+          1	대안군
+          1	대안읍
+          1	대연지봉
+          1	대오천역
+          1	대왕덕산
+          1	대왕릉 大王陵
+          1	대외경제성
+          1	대웅보전
+          1	대웅전
+          1	대응역
+          1	대청면
+          1	대초도
+          1	대초산
+          1	대택로동자구
+          1	대택역
+          1	대평리
+          1	대평역
+          1	대풍리
+          1	대풍역(폐지)
+          1	대풍작군상
+          2	대학습당거리
+          1	대한민국
+          1	대한민국 국도
+          1	대한민국 국도 제1호선
+          1	대한민국 서쪽 경계
+          1	대한민국 영해선
+          1	대향역
+          1	대홍단군
+          1	대화리
+          1	대황산
+          1	대흥역
+          1	대흥읍
+          1	댁주집
+          1	덕기봉
+          1	덕남역
+          1	덕대동곡
+          1	덕대서곡
+          1	덕동역
+          1	덕만산
+          1	덕물산
+          1	덕성군
+          1	덕성선
+          1	덕성역
+          1	덕원역
+          1	덕천국수집
+          1	덕천수력전문학교
+          2	덕천시
+          1	덕천시극장
+          1	덕천시장
+          1	덕천역
+          1	덕천운동장
+          1	덕천은덕원
+          1	덕현역
+          1	덕화리1-3호분
+          1	덕화리1호분
+          1	덕화리2호분
+          1	덕화리3호분
+          1	덕흥리
+          1	덕흥리고분
+          1	도 안전부 병원
+          1	도끼살인사건기념물
+          1	도내역
+          1	도로종점 (Doro Last stop)
+          1	도문대교
+          1	도문동
+          1	도밀리
+          1	도봉리
+          1	도안역
+          1	도이칠란트 대사관
+          1	도지리역
+          1	도평역
+          1	도하리비행장
+          2	독검리
+          1	독산역
+          1	돈산역
+          1	돌아올 수 없는 다리
+          1	동가리
+          1	동가리역
+          1	동각도
+          1	동광량역
+         13	동금강천
+          1	동대역
+          1	동대원구역
+          1	동대원구역청소년체육학교
+          1	동대원영화관
+          1	동덕섬
+          1	동덕역
+          1	동룡굴(1944년 폐지)
+          1	동리
+          1	동림군
+          1	동림리
+          1	동림역
+          1	동림읍
+          1	동명려관
+          1	동명려관차집
+          1	동명왕릉
+          1	동명왕릉와 진파리무덤군
+          1	동문네거리식당
+          1	동문소학교
+          1	동백년산
+          1	동백식당
+          1	동번포
+          1	동봉리
+          2	동부 사리원시
+          1	동북리역
+          1	동북아시아전화통신회사
+          1	동사리원역
+          2	동산리
+          1	동상리
+          1	동서리
+          1	동성동
+          1	동성리
+          1	동수정천
+          1	동신군
+          1	동신리
+          1	동신역
+          1	동신읍
+          1	동안고급중학교
+          1	동안동
+          1	동안소학교
+          1	동안정
+          1	동암문
+          1	동암역
+          1	동양역
+          1	동장리
+          1	동점역
+          1	동정리
+          1	동정천
+          1	동정호역
+          1	동조선만
+          1	동주리
+          1	동창군
+          1	동창리
+          1	동창리미싸일발사장
+          1	동창읍
+          1	동천
+          1	동천리
+          1	동천역
+          1	동평리
+          1	동평양경기장
+          1	동평양구물중심
+          1	동평양대극장
+          1	동평양시장
+          1	동평양역
+          3	동하리
+          4	동해대로
+          1	동해역
+          1	동해항여객터미널
+          1	동흥동
+          1	동흥산
+          1	동흥역
+          1	두남리
+          1	두단오리공장
+          1	두루섬
+          1	두류산
+          1	두만강
+         20	두만강 - 图们江
+          1	두만강동
+          1	두만강선
+          1	두만강역
+          1	두무산
+          1	두암역
+          1	두언선
+          1	두언역
+          1	두일령
+          1	두일령역
+          1	두지역
+          1	두포역
+          1	둔전역
+          1	등경산
+          1	땅굴로
+          1	라남역
+          1	라산역
+          2	라선시
+          1	라연 상입회사
+          1	라적역
+          1	라죽역
+          1	라진 신발 공장
+          1	라진구역
+          1	라진려관
+          1	라진만
+          1	라진소학교
+          1	라진역
+          1	라진포리
+          1	라진항역
+          1	라하대역
+          1	라흥역
+          1	락두산
+          1	락랑건재품공장
+          1	락랑구역
+          1	락산역
+          1	락생리
+          1	락생역(폐지)
+          1	락왼식당
+          2	락원
+          3	락원거리
+          1	락원군
+          3	락원기계련합기업소
+          2	락원다리
+          1	락원동
+          2	락원역
+          1	락천역
+          1	란정리
+          1	람미봉
+          1	람전역
+          1	랑림군
+          1	랑림읍
+          1	랭명
+          1	량가역
+          1	량강공업대학
+          2	량강도
+          1	량강도김정숙예술극장
+          1	량강려관
+          1	량강려관 전골집
+          1	량강려관 차집
+          1	량강려관 회전식당
+          1	량강신상역
+          1	량사리
+          1	량책로동자구
+          1	량책역
+          1	려관
+          1	려도
+         13	려명거리
+          1	려명거리대외건설자상점 (3층)
+          2	려명거리상점
+          1	려명거리영화관
+          1	려명거리황금노을상점
+          1	려명피복공장
+          1	려현리
+          1	려현역
+          1	려호역
+          1	력사유적전시구
+          1	력사종합교양고
+          1	력포구역
+          1	력포역
+          1	련곡리
+          2	련광정
+          1	련광정식당
+          1	련대봉
+          1	련대산
+          1	련못관
+          1	련산리
+          1	련수리
+          1	련진역
+          1	련화동
+          1	련화산
+          1	련흥역
+          1	렴성역
+          1	령남역
+          1	령삭리
+          2	령산전
+          1	령신리
+          1	령정리
+          1	령정포(領井浦)
+          1	령하로동자구
+          1	령하역
+          1	로동신문사
+          1	로동역
+          1	로동자와 농민녀성과 근로지식인동상
+          1	로상역
+          1	로씨야대사관
+          1	로씨야대사관 중등학교
+          3	로중리
+          1	로탄역
+          1	로하역
+          1	록봉
+          1	룡각산
+          1	룡강군
+          1	룡강대총
+          1	룡강역
+          1	룡강읍
+          1	룡계리
+          1	룡곡리
+          1	룡골산
+          1	룡담역
+          1	룡당리역
+          1	룡대역
+          1	룡동역
+          1	룡림군
+          1	룡림리
+          1	룡림역(폐지)
+          1	룡림읍
+          2	룡문산
+          1	룡반역
+          1	룡봉동
+          2	룡북리
+          1	룡산리
+          1	룡성 관저
+          1	룡성구역
+          1	룡성선
+          2	룡성역
+          1	룡송리
+          1	룡수역
+          1	룡악산
+          1	룡악산비누공장
+          1	룡악역
+          1	룡암역
+          1	룡암포로동자구
+          1	룡암포역
+          1	룡연군
+          1	룡연읍
+          1	룡연폭포
+          1	룡오리
+          1	룡운역
+          1	룡원역
+          1	룡월역
+          1	룡유리
+          1	룡주역
+          1	룡지원리
+          1	룡지원역
+          1	룡천군
+          1	룡천시장
+          1	룡천역
+          1	룡천읍
+          2	룡철로동자구
+          1	룡출역
+          2	룡포리
+          1	룡포혁명사적관
+          1	룡포혁명사적지
+          1	룡현리
+          1	룡현역
+          1	룡호리
+          1	룡호역
+          1	룡화사
+          1	룡흥가정용품상전
+          1	룡흥동
+          1	룡흥리
+          1	룡흥사
+          2	룡흥상점
+          1	룡흥식당
+          1	룡흥책방
+          1	류경1동
+          1	류경2동
+          1	류경관
+          1	류경구강병원
+          2	류경려관
+          1	류경식당
+          1	류경정주영체육관
+          1	류성동
+          1	류초리
+          1	류포리
+          1	륙교2식료품상점
+          1	륙대동역
+          1	륙승정
+          1	률목산
+          1	릉나다리
+          1	릉라고급중학교
+          1	릉라도
+          1	릉라도 5.1경기장
+          2	릉라도과선교
+          1	릉라도섬
+          1	릉라물놀이장
+          1	릉라소학교
+          1	릉라시장
+          1	릉라유희장
+          1	릉라인민유원지
+          1	릉라인민체육공원
+          1	릉파루
+          1	리계순사리원제1사범대학
+          1	리만역
+          4	리명수
+          1	리명수국수집
+          1	리명수수력발전소
+          1	리명수역
+          1	리명수폭포
+          1	리명수혁명사적지
+          1	리목역
+          1	리원군
+          1	리원비행장
+          1	리원역
+          1	리원읍
+          1	리천비행장
+          1	리철민고급중학교
+          1	리철민동상
+          1	리파역
+          1	리평역
+          1	리현비행장
+          1	리화리
+          1	린산군
+          1	린산비행장
+          1	린산읍
+          9	림진강
+          3	림진강 - 임진강
+          1	림진강수원지
+          1	림토역
+          2	립석리
+          1	립석리역
+          1	립석탄광역
+          1	마두산
+          1	마두산혁명전적지
+          1	마두산혁명전적지 구호문헌보존교양실
+          1	마리산
+          1	마산리
+          1	마식령
+          1	마식령스키장
+          1	마양로동자구
+          1	마영역
+          1	마전리
+          1	마전역
+          1	마정리
+          1	마패령
+          1	마하연지
+          1	마합도
+          2	만겅천
+          1	만경대 고향집
+          1	만경대고급중학교
+          1	만경대구역
+          1	만경대다리
+          1	만경대닭공장
+          1	만경대물놀이장
+          1	만경대유희장
+          1	만경대학생소년궁전
+          1	만경대혁명사적관
+          1	만경대혁명사적지
+          1	만경대혁명학원
+          1	만경봉
+          1	만경봉92호
+          1	만노문
+          1	만달리역
+          1	만덕선
+          1	만덕역
+          2	만세루
+          1	만수교
+          1	만수교청량음료
+          1	만수대
+          6	만수대거리
+          1	만수대거리 (Mansudae-geori)
+          1	만수대분수공원
+          2	만수대예술극장
+          1	만수대의사당
+          1	만수대지구인민극장
+          1	만수대창작사
+          1	만수동
+          1	만월대(滿月臺)
+          1	만월동
+          1	만월소학교
+          1	만춘역
+          1	만탑산
+          1	만포
+         56	만포선
+          2	만포시
+          1	만포청년역
+          1	만풍떡국집
+          1	만풍역(폐지)
+          1	망일리역
+          1	망일산
+          1	망해봉
+          1	매미섬
+          1	매봉
+          1	매산
+          5	매상천
+          1	매자봉
+          1	매현리
+          1	매화역
+          1	맥전 2
+          1	맥전 3
+          1	맹산군
+          1	맹산비행장
+          1	맹산읍
+          1	맹중리역
+          1	머운령
+          1	먹포령
+          1	명간군
+          1	명간읍
+          1	명고역
+          1	명룡로동자구
+          1	명부전
+          1	명신학교
+          1	명암리
+          1	명지덕산
+          1	명천군
+          1	명천역
+          1	명학저수지
+          1	명호역
+          1	모란건재상점
+          1	모란민죽식당
+          1	모란봉
+          4	모란봉거리
+          1	모란봉공원
+          1	모란봉구역
+          1	모란봉극장
+          2	모란봉려관
+          1	모란봉식당
+          3	모란식당
+          1	모형비행기 선수 동상
+          1	목란관
+          1	못가역
+          1	몽골국대사관
+          1	묘길상
+          1	묘향산국제우의전람관
+          1	묘향산맥
+          1	묘향산비행장
+          1	묘향산역
+          1	무두봉
+          1	무릉폭포
+          1	무산
+          1	무산군
+          1	무산령 샘물공장
+          1	무산역
+          1	무산읍
+          1	무산철산역
+          1	무수로동자구
+          1	무자천
+          1	무지개동굴
+          1	무진대역
+          7	무진천
+          1	무창역
+          1	무학산
+          1	무학역
+          1	묵천역
+          1	문덕군
+          1	문덕역
+          3	문덕읍
+          1	문동청년역
+          1	문무역
+          1	문박도
+          1	문봉리
+          1	문봉역
+          1	문수3동거리
+          1	문수각
+          2	문수거리
+          1	문수물놀이장
+          1	문수봉공원 (Munsubong-kongwon)
+          1	문수식당
+          1	문신소학교
+          1	문악역
+          1	문안고개
+          1	문암리
+          1	문암역
+          1	문어회전반
+          1	문왕동
+          2	문천시
+          1	문천역
+          1	문천항선
+          1	문필역
+          1	문홍리
+          1	문화역
+          1	물개역
+          1	물골역
+          1	물방덕산
+          1	미도 尾岛
+          1	미둔역
+          3	미래과학자거리
+          1	미래상점
+          1	미륵사동탑
+          1	미림승마구락부
+          1	미림역
+          1	미사주 尾沙洲
+          1	민속박물관식당
+          1	민속촌구
+          1	민족료리전문식당
+          1	민족식당
+          1	민탕역
+          1	박연리
+          1	박천견직공장
+          1	박천군
+          1	박천읍
+          1	반간첩투쟁전람관
+          1	반곡리
+          1	반궁리
+          2	반성열도
+          1	반야보전
+          1	반야전
+          1	발해궁전
+          1	방산천
+          1	방소도
+          1	방직동
+          1	방진역
+          1	방현비행장
+          1	방현역
+          1	방화역
+          1	배산점역
+          1	배산점역(폐지)
+          1	배천역(Baecheon Station)
+          1	배천읍
+          1	배천읍 (Paechon)
+          1	배화역
+          1	백금 향 白金乡
+          1	백금산역
+          1	백년산
+          1	백덕리
+          1	백두관
+          1	백두산
+          1	백두산간삼봉간도로
+          1	백두산건축연구윈
+          1	백두산밀영
+          1	백두산밀영고향집
+          1	백두산밀영로동자구
+          1	백두산밀영혁명사적지
+          1	백두산정계비
+          1	백두산종보존
+          1	백두산천지 / 白头山天池
+          1	백두산청년선
+          1	백두역
+          1	백두폭포
+          1	백령면
+          1	백마로동자구
+          1	백마역
+          2	백무선
+          1	백산시 / 白山市 / Baishan
+          1	백산청년역
+          1	백석역
+          1	백석포
+          1	백선행기념관
+          1	백승식당
+          1	백암군
+          1	백암로동자구
+          2	백암산
+          1	백암읍
+          1	백암청년역
+          1	백양산
+          1	백운산
+          1	백운역
+          1	백원역
+          1	백자리
+          1	백적산
+          1	백족산
+          1	백천군
+          1	백학리
+          1	백화암부도군
+          1	백화역
+          4	뱀천
+          1	범북산
+          1	범포역
+          1	법동군
+          1	법동굴
+          1	법동읍
+          1	법왕봉
+          1	베개봉
+          1	베개봉국수집
+          1	베개봉려관
+          1	베개봉밀영
+          1	베개봉밀영혁명사적지
+          1	베개봉역
+          1	벽도
+          1	벽동군
+          1	벽동읍
+          1	벽성군
+          1	벽성읍
+          1	별무리 차집
+          1	병술리비행장
+          2	보건성 구강종합병원
+          1	보건성1.25제작사
+          1	보덕암
+          1	보리골몰산
+          1	보산리
+          1	보산역
+          1	보선동
+          1	보성리
+          1	보성버섯공장
+          1	보안역
+          1	보장역
+          1	보천군
+          1	보천보전투승리기념탑
+          1	보천보혁명사적지
+         16	보통강
+          1	보통강1동
+          1	보통강2동
+          1	보통강개수공사기념탑
+          1	보통강구역
+          1	보통강려관
+          1	보통강려관 목란식당
+          1	보통강려관 보통강식당
+          1	보통강려관 은방울커피점
+          1	보통강려관 은하수주점
+          1	보통강반상점
+          1	보통강역
+          1	보통강저수지
+          1	보통교
+          1	보통문
+          1	보통문거리고기상점
+          1	보통문동
+          1	보현사
+          1	보현사 불영대
+          1	복계역
+          1	본부유치원
+          1	봉강역
+          1	봉골
+          1	봉동
+          1	봉동역
+          1	봉래호
+          1	봉련리
+          1	봉명산
+          1	봉명역
+          1	봉산군
+          1	봉산역
+          3	봉산읍
+          1	봉수령
+          1	봉수산
+          1	봉암산
+          1	봉창역
+          1	봉천군
+          1	봉천역
+          1	봉천읍
+          1	봉학역
+          1	봉화
+          1	봉화가미(Bonghwa-gami)
+          6	봉화거리
+          1	봉화교
+          1	봉화동
+          1	봉화리
+          1	봉화산
+          2	봉화역
+          2	봉화혁명사적지
+          1	봉화화학공장
+          1	부거리
+          1	부거역
+          1	부동역
+          1	부래산역
+          1	부령군
+          1	부령역
+          1	부로지령
+          1	부민역
+          1	부벽루
+          1	부산동
+          1	부산리역
+          1	부산항국제여객터미널
+          2	부성역
+          1	부전군
+          1	부전령역
+          1	부전역
+          1	부전읍
+          1	부전호반역
+          2	부지역
+          1	부채산
+          1	부천저수지
+          1	부평리
+          1	부평역
+          1	부평천
+          1	부풍역
+          1	부흥
+          3	부흥역
+          1	부흥중학교
+          1	북계수역
+          9	북방한계선
+          1	북방한계선 (Northern Limit Line)
+          1	북삼리
+          1	북상리
+          1	북새강안체육공원
+          1	북신현역
+          1	북앙부락
+          1	북중기계공장
+          1	북중로동자구
+          1	북중역
+          1	북중중학교
+          2	북쪽 사리원시
+          1	북창 제18호 관리소
+          1	북창관리소18호
+          1	북창군
+          1	북창비행장
+          1	북창역
+          1	북창읍
+          1	북청군
+          1	북청역
+          1	북포태산
+         23	북한강
+          1	불고기
+          1	불고기동석식사칸
+          1	불국사석가탑
+          1	불멸탑
+          1	불이문
+          1	불지암
+          5	붉은거리
+          1	붉은거리1동
+          1	붉은거리2동
+          1	붉은거리3동
+          2	붉은별역
+          1	붉은섬
+          1	브라질 대사관
+          1	비각
+          1	비날론역
+          1	비단섬
+          2	비래봉
+          2	비로봉
+          8	비류강
+          1	비류봉
+          1	비봉폭포
+          1	비선폭포
+          1	비암도
+          6	비파거리
+          2	비파교
+          1	비파도
+          1	비행자전거
+          1	빗사식당
+          1	빙상관
+          1	뽈스까대사관
+          1	사곡산
+          1	사구역
+          1	사기문폭포
+          1	사도
+          1	사도역
+          1	사동(폐지)
+          1	사동구역
+          1	사동리
+          1	사령부귀틀집
+          1	사리원교원대학
+          2	사리원시
+          1	사리원청년역
+          1	사방산
+          1	사성지전터
+          1	사수역
+          1	사슴못
+          1	사시리
+          1	사열대
+          1	사자도
+          1	사진꽃방 (1층)
+          1	사천
+          4	사천강 (Sachon river)
+          1	사평로동자구
+          1	사포역
+          1	사향역
+          1	사현리
+          1	사회과학원
+          1	사회리
+          1	사회역
+          1	사회주의혁명과 사회주의건설
+          1	삭주군
+          1	삭주군제1인민병원
+          1	삭주읍
+          1	산두리
+          1	산명리
+          1	산봉산
+          1	산북리
+          1	산수리
+          1	산수역
+          1	산양대역
+          1	산양리
+          1	산음역
+          1	산주폭포
+          1	산탄리
+          1	살수대첩
+          1	삼개리
+          1	삼거리
+          2	삼거리;Samgŏ-ri
+          1	삼거역
+         14	삼교천
+          1	삼기역
+          1	삼대성식당
+          1	삼덕역
+          1	삼도
+          1	삼등역
+          1	삼마중학교
+          1	삼방역
+          1	삼봉로동자구
+          1	삼봉산
+          1	삼봉역
+          1	삼불암
+          1	삼사역
+          1	삼산면
+          1	삼상리
+          1	삼석구역
+          1	삼성식당
+          1	삼소역
+          1	삼수군
+          1	삼수청년역
+          1	삼유역
+          1	삼일포
+          1	삼일포역
+          1	삼지연
+          1	삼지연1호려관
+          1	삼지연군
+          1	삼지연군문화회관
+          1	삼지연대기념비
+          1	삼지연리명수간도로
+          1	삼지연비행장
+          1	삼지연선
+          1	삼지연소학교
+          1	삼지연역
+          1	삼지연운동장
+          1	삼지연읍
+          1	삼지연인민병원
+          1	삼지연장공장
+          1	삼지연중학교
+          1	삼지연학생소년궁전
+          1	삼지연혁명사적관
+          1	삼천군
+          1	삼천역
+          1	삼천읍
+          1	삼천포역
+          1	삼포산
+          1	삼포역
+          1	삼해역
+          1	삼향역
+          1	삼호역
+          2	삼흥
+          2	삿갓봉
+          1	상갑리
+          1	상경평역
+          1	상고리
+          1	상농역
+          1	상단역
+          1	상대역
+          1	상도내역
+          1	상룡반역
+          1	상리역
+          1	상린원리
+          2	상서천
+          1	상신거리
+          1	상암리
+          1	상원군
+          1	상원군문화회관
+          1	상원군인민병원
+          1	상원소학교
+          1	상원암
+          1	상원우선중학교
+          1	상원읍
+          1	상원중학교
+          1	상음청년역
+          1	상일역
+          1	상통역
+          1	상평역
+          1	상풍강역
+          1	상황토역
+          1	새기술혁신관
+          2	새덕산
+          1	새동역
+          2	새마을거리
+          1	새마을역
+          1	새별역
+          8	새살림거리 (Saesallim-geori)
+          1	생기령역
+          1	생장역
+          1	서각도
+          1	서곡폭포
+          1	서광량역
+          1	서대총
+          1	서도면
+          3	서두수
+          1	서두역
+          1	서림리
+          8	서문거리
+          1	서문동
+          1	서번포
+          1	서부역
+          1	서북리
+          1	서산려관
+          1	서산려관 민죽식당
+          2	서산려관 차집
+          1	서산축구경기장
+          1	서상리
+          1	서석리
+          2	서성거리
+          1	서성교
+          1	서성구역
+          1	서수라각
+          1	서시역
+          1	서양산
+          1	서운사
+          1	서장동
+          1	서장회관
+          1	서제리
+          1	서조선만
+          1	서주동
+          1	서창동
+          2	서천대로
+          1	서평양역
+          1	서포역
+          1	서하리
+          1	서하역
+          1	서함흥역
+          1	서해갑문역
+          1	서해위성발사장
+          1	서호로동자구
+          1	서호리
+          1	서호선
+          1	서호역
+          1	서흥군
+          1	서흥리
+          1	서흥비행장
+          1	서흥역
+          3	서흥읍
+          1	석가봉
+          1	석가탑
+          1	석다역(폐지)
+          1	석담리
+          1	석름역
+          1	석막역
+          1	석봉
+          1	석봉역
+          1	석암동
+          1	석암역
+          1	석왕사느티나무
+          1	석왕사터
+          1	석탕온천역
+          1	석하리
+          1	석하역
+          1	석현역
+          1	석호리
+          1	선경식당
+          1	선교각
+          1	선교간이식당
+          1	선교강안가 (Songyo-Kanganga)
+          1	선교구역
+          1	선교리(폐지)
+          1	선교영화관
+          1	선내과선교
+          1	선덕비행장
+          1	선바위산
+          1	선봉역
+          1	선봉읍
+          1	선상동
+          1	선암리
+          1	선오산
+          1	선오산밀영
+          1	선주리
+          1	선죽교
+          1	선죽동
+          1	선창산
+          1	선천군
+          1	선천역
+          1	선천읍
+          1	선천헬리콥터비행장
+          1	선화당
+          1	설봉리
+          1	설봉산
+          1	설성동루
+          1	설송상점식당
+          1	설운령
+          1	성간군
+          1	성간역
+          1	성간읍
+          1	성고개
+          1	성내역
+          1	성덕역
+          1	성동리
+          1	성법역
+          1	성봉대산
+          1	성북리
+          1	성산역
+          1	성서리
+          1	성암리
+          1	성재
+          1	성점
+          1	성천강
+          1	성천강역
+          1	성천군
+          1	성천역
+          1	성천읍
+          1	성호(closed)
+          1	성후역
+          1	세거리동
+          1	세계보건기구영구임무
+          1	세길역
+          1	세선역
+          1	세존봉
+          1	세천리
+          1	세천선
+          1	세천역
+          1	세포군
+          1	세포리역
+          1	세포읍
+          1	세포청년역
+          1	세흥대학
+          1	소나무동산식당
+          1	소대계도
+          1	소도역
+          1	소문봉
+          1	소반고개
+          1	소백산
+          3	소백수
+          1	소수압도
+          1	소연지봉
+          1	소재령
+          2	소창천
+          1	소초도
+          4	속사천
+          1	속후역
+          1	손하역
+          1	송가역
+          1	송관역 (Songgwan Station)
+          1	송남리
+          1	송남청년역
+          1	송단역
+          1	송당역
+          1	송도원국제소년단야영소
+          1	송도원려관
+          1	송도원려관 금강관식당
+          1	송도원려관 단관식당
+          1	송도원려관커피점
+          1	송도원비행장
+          1	송도원선
+          1	송도원역
+          1	송도원청년야외극장
+          4	송림시
+          1	송봉동
+          1	송산궤도전차사업소
+          1	송산리
+          1	송산반관
+          1	송산역
+          1	송삼역
+          1	송상역
+          1	송신역
+          1	송악동
+          1	송악산
+          1	송악프라자
+          1	송암 소고기판매소
+          1	송원군
+          1	송원읍
+          1	송이리
+          1	송전역
+          1	송정리
+          1	송정역
+          1	송중역
+          1	송평역
+          1	송하역
+          1	송학역
+          1	송한저수지
+          1	송해면
+          1	송호리
+          1	송화군
+          1	송화역
+          1	송화읍
+          1	송흥역
+          1	쇠지고개
+          1	수교역
+          1	수구포역
+          1	수남
+          1	수남역
+          1	수덕역
+          1	수동구
+          1	수동면
+          1	수리대령산
+          1	수복동
+          1	수부리
+          1	수산리벽화고분
+          1	수산물
+          1	수성리
+          1	수성역
+          2	수성천
+          1	수안군
+          1	수안읍
+          1	수앙산
+          1	수양역
+          1	수운도
+          1	수운도등대
+          1	수의역
+          1	수진역
+          1	수촌역
+          1	수충사
+          1	수풍로동자구
+          1	수풍수력발전소
+          1	숙천군
+          1	숙천역
+          3	숙천읍
+          1	순안
+          1	순안 (Sunan)
+          1	순안공항식당
+          1	순안구역
+          1	순안다리
+          1	순안역
+          1	순위도
+          1	순천비행장
+          1	순천시
+          1	순천역
+          8	순화강
+          1	순화강식당
+          1	순화천교
+          1	숭령전
+          1	숭인전
+          1	숭전동
+          1	스웨리예대사관
+         19	승리거리
+          7	승리역
+          1	승리자동차종합기업소
+          1	승리조각
+          1	승식당
+          1	승암리비행장
+          1	승암역
+          1	승원역
+          1	승전거리
+          1	승호군
+          1	승호리역
+          1	시루봉
+          1	시정천
+          1	시중군
+          1	시중려관
+          1	시중역
+          1	시중읍
+          1	시중호
+          1	시중호관
+          1	시중호료양소
+          1	시중호역
+          1	시중호유원지
+          1	시중호차집
+          1	시중호참전용사료양소
+          1	시중호해변
+          1	시중호해수욕장
+          1	시중호해수욕장 봉사실
+          1	시중호휴계소
+          2	식당
+          1	식량농업기구영구임무
+          1	신건역
+          1	신계군
+          1	신계사
+          1	신계역
+          1	신계읍
+          2	신계전
+          1	신남포역
+          1	신단천역
+          1	신단천중학교
+          1	신당리
+          1	신대역
+          1	신덕역
+          1	신도군
+          1	신도읍
+          1	신련포역
+          1	신리
+          1	신명천역
+          1	신무성
+          1	신북청역
+          1	신상역
+          1	신생역
+          1	신서다리
+          1	신서리
+          1	신성천역
+          1	신아산역
+          1	신안주청년역
+          1	신암고등학교
+          1	신암리
+          1	신양군
+          1	신양역
+          1	신양읍
+          1	신온역
+          1	신원강안공원
+          1	신원군
+          1	신원동
+          1	신원역
+          1	신원읍
+          1	신의주-우암간도로
+          1	신의주교원대학
+          1	신의주극장
+          1	신의주농업대학
+          1	신의주닭공장
+          1	신의주동중학교
+          1	신의주렬사릉
+          2	신의주시
+          1	신의주신발공장
+          1	신의주예술전문학교
+          1	신의주의과대학
+          1	신의주정거장려관
+          1	신의주청년역
+          1	신장리
+          1	신전역
+          2	신정리
+          1	신정리역
+          1	신주막역
+          1	신중역
+          1	신증산역
+          1	신창역
+          1	신천군
+          1	신천박물관
+          1	신천비행장
+          1	신천역
+          1	신천온천역
+          2	신천읍
+          1	신청역
+          1	신파청년역
+          1	신평
+          1	신평군
+          1	신평동
+          1	신평역
+          1	신평읍
+          1	신평읍호
+          2	신포시
+          1	신포역
+          1	신풍리
+          1	신학산
+          1	신학포역
+          1	신현리
+          1	신흥군
+          1	신흥동역
+          1	신흥리
+          1	신흥선
+          1	신흥역
+          1	신흥읍
+          1	심촌청년역
+          1	심포리역
+          1	십리동역
+          1	쌍룡리
+          1	쌍룡역
+          1	쌍무지개봉
+          1	쌍방동역
+          1	쌍부역
+          1	쌍암역
+          1	쌍영총
+          1	쌍학리
+          1	쑥섬
+          1	쑥섬밥공장
+          1	쑥섬혁명사적지
+          1	아리랑식당
+          1	아부암
+          1	아브작령
+          1	아시안 하이웨이 1호선
+          1	아주에프엔씨
+          1	아호비령
+          1	아홉소골
+          1	안간령
+          1	안변군
+          2	안변보현사
+          1	안변역
+          1	안변읍
+          5	안산거리
+          1	안산다리
+          1	안산초대서
+          1	안상택거리
+          1	안석역(폐지)
+          1	안악1호분
+          1	안악2호분
+          1	안악3호분
+          1	안악군
+          1	안악읍
+          1	안주고급중학교
+          5	안주시
+          1	안주탄광선
+          1	안찬역
+          1	안학궁
+          2	알섬
+          1	압록강
+          1	압록강다이야공장
+          1	애국렬사릉
+          1	애련당
+          1	약국 (2층)
+          1	약도
+          1	약사전
+          1	약산
+          1	약수리벽화고분
+          1	약수역
+          5	양각다리
+          1	양각도
+          1	양각도경기장
+          1	양각도골프회사식당
+          1	양각도국제려관
+          1	양각도국제려관 2호식사칸
+          1	양각도국제려관 동석식사
+          1	양각도국제려관 랭면식당
+          1	양각도국제려관 마카오식당
+          1	양각도국제려관 연회장
+          1	양각도국제려관 일본료리식사칸
+          1	양각도국제려관 조선료리식사칸
+          1	양각도국제려관 중국료리식사칸
+          1	양각도국제려관 회전전망식사칸
+          1	양각도국제호텔 1호식사칸
+          1	양각도차집
+          1	양곡역
+          1	양구군
+          1	양덕군
+          1	양덕역
+          1	양덕읍
+          1	양동역
+          1	양막역
+          1	양사면
+          1	양서리
+          1	양승역
+          1	양지역
+          1	양화역
+          1	어대진역
+          1	어랑군
+          1	어랑역
+          1	어랑읍
+          1	어룡리
+          1	어룡역
+          1	어머니섬
+          1	어사역
+          1	어실각
+          1	어은산
+          1	어적산리
+          1	어파역
+          1	어화도
+          1	언무루
+          1	업억역
+          1	에짚트대사관
+          1	엠페러오락호텔
+          1	여해진역
+          5	역전가
+          3	역전동
+          1	역전백화점
+          1	역전사진관
+          1	역전식당
+          1	연강리
+          1	연대봉
+          1	연릉리
+          1	연목역
+          1	연사군
+          1	연사역
+          1	연사읍
+          1	연산군
+          1	연산읍
+          1	연삼리
+          1	연상역
+          1	연수역
+          1	연안군
+          1	연안역
+          1	연안읍
+          1	연암역
+          1	연천군
+          1	연탄군
+          3	연탄읍
+          1	연평면
+          1	연평성
+          1	연평역
+          1	연포비행장
+          1	연포역
+          1	연풍식당
+          1	연호리
+          1	염분역
+          1	염전
+          1	염전역
+          1	염주군
+          1	염주역
+          1	염주읍
+          1	염탄역
+         15	영광거리
+          1	영광군
+          3	영광역
+          1	영국대사관
+          1	영당
+          1	영변문화회관
+          1	영생탑
+          1	영암산
+          4	영웅거리
+          1	영웅거리식당
+          1	영진리
+          1	영화과학연구소
+          4	예성강
+          1	예성강(closed)
+          1	오가덕산
+          1	오가람단
+          1	오계역
+          1	오구비역
+          1	오몽리역
+          1	오봉리
+          1	오봉산
+          1	오석산
+          1	오선봉
+          1	오오앤육육
+          1	오일식당
+          1	오탄강안거리
+          1	오탄동
+          1	오탄아동공원
+          1	오포단
+          1	오현리
+          1	오현역(梧峴驛)
+          1	오흥리
+          1	옥류거리
+          2	옥류거리 (Okryu-geori)
+          2	옥류교
+          1	옥류봉사소식당
+          2	옥류식당
+          1	옥밭봉
+          1	옥정봉
+          1	옥천역
+          1	옥평역
+          1	온성군
+          1	온성역
+          1	온성읍
+          1	온수평역
+          1	온정각 동관
+          1	온정각 서관
+          1	온정각지구
+          2	온정령
+          1	온정령터널
+          2	온정천
+          1	온천군
+          1	온천비행장
+          1	온천읍
+          1	온풍역
+          2	옹진군
+          1	옹진비행장
+          1	옹진읍
+          1	왕장산
+          1	왕장역
+          1	왕재산대기념비
+          1	왕재산리
+          1	왕재산혁명박물관
+          1	외교단식당
+          1	외교단연유판매소
+          1	외국믄책방
+          1	외국어서점
+          1	외국인학교
+          1	외금강호텔
+          1	외동역
+          1	외무성
+          1	외성2식당
+          1	외성동
+          1	외성식당
+          1	외중로동자구
+          1	외하리
+          1	요덕 제15호 관리소
+          1	요덕관리소15호
+          1	요덕군
+          1	요덕역
+          1	요덕읍
+          1	용매도
+          1	용매도(用媒島)
+          1	우두산
+          1	우미도
+          1	우상역
+          1	우시군
+          1	우시읍
+          1	우쑤리스크–평양
+          1	우암리
+          1	우의탑
+          1	우타치비행장
+          1	운곡역
+          1	운곡지구
+          1	운달산
+          1	운도
+          1	운도등대
+          1	운두봉
+          1	운림폭포
+          1	운림폭포찻집
+          1	운봉역
+          1	운산군
+          2	운산읍
+          1	운송역
+          1	운암역
+          1	운양역
+          1	운전군
+          1	운전역
+          1	운전읍
+          1	운주붕
+          1	운중역
+          1	운총리
+          1	운포역
+          1	운학1동
+          1	운흥군
+          1	운흥역
+          1	웅기만
+          1	웅도
+          1	웅상동
+          1	웅상역
+          1	웅어수산
+          1	원리역
+          1	원만봉
+         79	원산금강산고속도로
+          1	원산비행장
+          2	원산시
+          1	원산역
+          1	원산역사박물관
+          1	원산중등학원
+          1	원세평리
+          1	원정리
+          1	원창역
+          1	원평역
+          1	원화리
+          1	원흥역(폐지)
+          1	월곶면
+          1	월도
+          1	월봉리
+          1	월봉역
+          1	월비산
+          1	월일리
+          1	월정리역 (폐역)
+          1	월정사
+          1	월탄역
+          1	윁남대사관
+          1	위남리
+          1	위대한 김일성동지 기념비
+          1	위대한 김일성동지와 김정일동지 기념비
+          2	위대한 김일성동지와 김정일동지 동상
+          1	위대한 김일성동지와 김정일동지 벽화
+          1	위대한 김일성동지와 김정일동지의 동상
+          1	위대한 령도자 김정일동지
+          1	위대한 수령 김일성동지
+          1	위대한 수령 김일성동지 기념비
+          1	위대한 수령 김일성동지의 개선연설 자필기�
+          1	위대한 수령 김일성동지께서는 1945년부터 
+          1	위성과학자주택지구
+          1	위연동
+          1	위연역
+          1	위원군
+          1	위원읍
+          1	유곡역
+          1	유방골
+          1	유서골
+          1	유선역
+          1	유선폭포
+          1	유앤아이펜션 (Yuaenai Pansion)
+          1	유엔사 군사 정전위원회 직원 회의 건물
+          1	유엔사 군사 정전위원회 회의 건물
+          1	유화천
+          1	율목리
+          1	은률군
+          1	은률선
+          1	은률역
+          1	은률읍
+          2	은반식당
+          1	은산군
+          1	은산선
+          1	은산역
+          1	은선폭포
+          1	은정구역
+          1	은천군
+          1	은천비행장
+          1	은천역
+          1	은천읍
+          1	은파군
+          1	은파역
+          1	은파읍
+          1	을밀대
+          1	을지전망대 (Observatory)
+          1	음료상점
+          2	읍천
+          1	의주군
+          1	의주비행장
+          1	의주역
+          1	의주읍
+          1	이딸리아료리전문식당
+          1	이산리
+          1	이압역(폐지)
+          1	이천군
+          1	이천읍
+          1	이천청년역
+          1	인계리
+          1	인광리
+          1	인도네시아대사관
+          1	인디아대사관
+          1	인민경제대학
+          1	인민군교예극장
+          2	인민대학습당
+          2	인민문화궁전
+          1	인산역
+          1	인제군
+          1	인천광역시
+          1	인천광역시-경기도-경계
+          1	인평역
+          2	인흥거리
+          1	인흥로동자구
+          2	인흥리
+          1	인흥역
+          1	인흥초급중학교
+          1	일산봉
+          1	일신역
+          1	일탄역
+          1	임남언제
+          1	임남저수지
+         18	임진강
+          1	임진강/Imjin
+          1	잉어지
+          1	자강도
+          1	자강삼강역
+          1	자남동
+          1	자남산
+          1	자력갱생만이 살길이다!
+          1	자산역
+          1	자성군
+          1	자성역
+          1	자성읍
+          1	자양리
+          1	자유의 집
+          1	자주통일문
+          1	자하동(紫霞洞)
+          1	잔승과일남새상점
+          1	장강군
+          1	장강읍
+          1	장경루
+          1	장교리
+          1	장군봉
+          1	장단역(폐지)
+          1	장대봉
+          1	장덕역(폐지)
+          1	장도
+          1	장림역
+          1	장방역
+          1	장봉
+          2	장산리
+          2	장상역
+          1	장선강역(폐지)
+          1	장송로동자구
+          1	장수군상
+          1	장수봉
+          1	장수식당
+          1	장수원동
+          1	장수지
+          1	장안리
+          1	장안사지
+          1	장연군
+          1	장연읍
+          1	장재덕산
+          1	장제도
+          1	장지문산
+          6	장진강
+          1	장진군
+          1	장진비행장
+          1	장진선
+          1	장진역
+          1	장진폭포
+          1	장천동
+          1	장파역
+          1	장평역
+          1	장포리
+          1	장항리
+          2	장흥역
+          1	재덕역
+          1	재령군
+          1	재령역
+          1	재령읍
+          1	저강도
+          1	저두봉
+          1	적음리
+          1	적지역
+          1	전거리 제12호 교화소
+          1	전거리역
+          1	전동역(폐지)
+          1	전망대로
+          1	전사대산
+          1	전산로동자구
+          1	전승
+          1	전승교
+          1	전승영화관
+          1	전승혁명기념비
+          1	전승혁명사적관
+          1	전승혁명사적지
+          1	전시관식당
+          1	전우역
+          1	전우초급중학교
+          1	전자공업관
+          1	전자도서관
+          7	전장천
+          1	전재리
+          1	전좌봉
+          1	전천군
+          1	전천역
+          1	전천읍
+          1	전탄역
+          1	전평역
+          1	절덕산
+          1	정광역
+          1	정동리
+          1	정동중학교
+          1	정릉사
+          1	정문리역
+          1	정방역
+          1	정백러시아정교회
+          1	정봉역
+          1	정산리
+          1	정심동
+          1	정양사
+          2	정일봉
+          1	정일봉고급중학교
+          1	정임다리
+          1	정주소학교
+          2	정주시
+          1	정주제1중학교
+          1	정주청년역
+          1	정주청년체육관
+          1	정주회관
+          1	정평군
+          1	정평역
+          1	정평읍
+          1	정하봉
+          2	제2땅굴
+          1	제2백화점
+          1	제3땅굴
+          1	제4땅굴
+          1	제남역
+          1	제당령
+          1	제령산
+          1	제비봉
+          2	조계문
+          1	조국통일3대헌장기념탑
+          1	조국해방전쟁승리기념관
+          1	조국해방전쟁승리기념관야외전시장
+          1	조국해방전쟁승리기념탑
+          1	조로친선각
+          1	조로친선교
+          1	조막산역
+          2	조산리
+          1	조산만
+          1	조선4.25예술영화촬영소
+          1	조선4.26만화영화촬영소
+          1	조선국민회결성 사적비
+          1	조선기록영화사
+          1	조선로동당 중앙위원회
+          1	조선로동당 평안북도당위원회
+          1	조선로동당 평양시당위원회
+          1	조선미술박물관
+          1	조선민속박물관
+          1	조선민주녀성동맹중앙위원회
+          2	조선민주주의인민공화국
+          1	조선민주주의인민공화국 륙해운성
+          1	조선민주주의인민공화국 문화성
+          1	조선민주주의인민공화국 서쪽 경계
+          1	조선민주주의인민공화국 철도성
+          1	조선민주주의인민공화국보위대학
+          1	조선반도
+          1	조선반도비무장지대 (조선민주주의인민공화
+          1	조선예술영화촬영소
+          1	조선우표박물관
+          1	조선우표전시관식당
+          1	조선인민군무장장비관
+          1	조선중앙력사박물관
+          1	조선중앙방송위원회
+          1	조선중앙은행
+          1	조선직업총동맹중앙위원회
+          1	조선체육대학
+          1	조선혁명박물관
+          2	조중우의교
+          1	종각
+          1	종로동
+          1	종성로동자구
+          1	종성역
+          1	좌초도
+          1	주서역
+          1	주의동역
+          1	주의리
+          1	주천리
+          3	주체사상탑
+          1	주체지향적인 산업군상
+          1	주체지향적인 예술군상
+          8	주체탑거리
+          1	주체탑거리국수집
+          1	주체탑거리식단
+          1	죽건식당
+          1	죽근리
+          1	죽엽산
+          1	죽전역
+          1	중강군
+          1	중강리
+          1	중강읍
+          1	중공업관
+          1	중구시장
+          1	중구역
+          1	중구역 직매점
+          1	중구역인민병원
+          1	중도역
+          1	중립국감독위원회
+          1	중봉역
+          1	중상역(폐지)
+          1	중성간역
+          1	중성동
+          1	중앙동물원
+          1	중앙동물원 릉라곱등어관
+          1	중앙로동자회관
+          1	중앙식물원
+          1	중이역
+          1	중촌역
+          1	중평역
+          1	중현동
+          1	중호리
+          3	중화군
+          1	중화역
+          1	중화읍
+          1	중화인민공화국대사관
+          1	증산군
+          1	증산리역
+          1	증산역
+          1	증산읍
+          1	증악로동자구
+          1	지방동
+          1	지상역
+          1	지수역
+          1	지하리역
+          1	지혜의 김일성 & 김정일의 말
+          1	직동령
+          1	직동탄광선
+          1	직동탄광역
+          1	진곡리
+          1	진달래식당
+          1	진봉산
+          1	진사봉
+          1	진서면
+          1	진주지
+          1	진평역
+          1	차가수역
+          1	차가평역
+          1	차일봉
+          1	창골역
+          8	창광거리
+          1	창광동
+          1	창광려관
+          1	창광산려관
+          1	창광산려관 1호 식당
+          1	창광산려관 2호 식당
+          1	창광산려관 3호 식당
+          1	창광산려관 단고기 식당
+          1	창광산려관 민죽 식당
+          1	창광산려관 커피전
+          1	창광상점
+          1	창광외국인숙소식당
+          1	창광원
+          1	창광원식당
+          1	창광유치원
+          1	창광화면주음악장식당
+          1	창덕학교
+          1	창도군
+          1	창도읍
+          1	창동역(폐지)
+          1	창두역
+          1	창린도
+          1	창성군
+          1	창성읍
+          1	창성향교
+          5	창전거리
+          1	창전초급중학교
+          2	창평역
+          1	창혜국제다리
+          1	창흥역
+          1	책도
+          1	천곡역
+          1	천내군
+          1	천내읍
+          1	천대봉
+          1	천덕산
+          1	천도
+          1	천동역
+         11	천리마거리
+          1	천리마거리식당
+          1	천리마군
+          1	천리마동상
+          1	천리마문화회관
+          4	천리마선
+          1	천마군
+          1	천마산
+          1	천마선천간도로
+          1	천마읍
+          1	천불산
+          1	천불산역
+          1	천석덕
+          1	천석식당
+          1	천성역
+          1	천수역
+          1	천신폭포
+          1	천왕문
+          1	천을역
+          1	천주사
+          1	천지원
+          1	천진산
+          1	천추총
+          1	천탑봉
+          1	천태리
+          1	철골
+          1	철광역
+          1	철도성혁명사적관
+          1	철령
+          1	철령혁명사적지
+          1	철산군
+          1	철산역
+          1	철산읍
+          2	철원군
+          1	철원읍
+          1	청강역
+          1	청계역
+          2	청남구
+          1	청남선
+          1	청남역
+          2	청년거리
+          1	청년공원야외극장
+          1	청년려관
+          1	청년려관 식당
+          1	청년려관 커피점
+         53	청년영웅도로
+          1	청년운동사적관
+          1	청년이천선
+          1	청년중앙회관
+          1	청단군
+          1	청단읍
+          1	청대산
+          1	청두/Ch'ongdu
+          1	청량음료점
+          1	청룡반도
+          1	청룡산
+          1	청룡역
+          1	청류3식당
+          2	청류교
+          1	청류대
+          4	청류벽
+          2	청류식당
+          1	청류정식당
+          1	청봉
+          1	청성로동자구
+          1	청성천
+          1	청수로동자구
+          1	청수리
+          1	청수역
+          1	청암역
+          1	청진 제25호 관리소
+          1	청진공항
+          2	청진시
+          1	청진조차장
+          1	청진청년역
+          1	청진항역
+         20	청천강
+          1	청천강 (Chongchon)
+          1	청천강역
+          1	청천려관
+          1	청춘2관
+          4	청춘거리
+          2	청춘거리 (Chongchun-geori)
+          1	청춘관
+          1	청하역
+          1	청학역
+          1	체육관
+          1	초도 (Cho Island)
+          1	초도비행장
+          1	초산군
+          1	초산읍
+          1	초상역
+          1	초소
+          1	초평역
+          1	총서관
+          1	최승대
+          1	추도
+          1	추동역
+          1	추봉리
+          1	추봉산
+          1	추애산
+          1	추정동
+          1	추지령
+          1	축구 선수 동상
+          1	축전역
+          1	춘양산
+          1	충렬리
+          4	충성다리
+          1	치악산(Chi-ak Mountain)
+          1	친선식당
+          1	칠곡과선교
+          1	칠골교회
+          1	칠골소학교
+          1	칠골역
+          1	칠골혁명사적지
+          1	칠리역(폐지)
+          1	칠만산역
+          1	칠보건축기술교류사
+          1	칠보산
+          2	칠성각
+          1	칠성리
+          1	칠성문
+         17	칠성문거리
+          1	칠성문대로 (Chilsongmun-daero)
+          2	칠성봉
+          1	칠성식당
+          1	침교역
+          2	침촌리
+          1	캄보쟈대사관
+          1	큰덕산
+          1	큰섬
+          1	탁구 선수 동상
+          4	탑제거리
+          1	태계도
+          1	태백산성역
+          1	태성역(폐지)
+          1	태성호
+          1	태을덕산
+          1	태천군
+          1	태천비행장
+          1	태천역
+          2	태천읍
+          1	태탄군
+          2	태탄비행장
+          1	태탄읍
+          3	태학거리
+          1	태향역
+          1	토령역
+          1	토문강
+          1	토산군
+          1	토산읍
+          2	통대원거리
+          1	통대원거리 (Tongdaewon-geori)
+          4	통동천
+          1	통영할인마트 (Tongyeong Retail Shop)
+          1	통일
+          1	통일각
+         11	통일거리
+          1	통일거리 (Tongil Street)
+          1	통일교회제주국제평화센터
+          2	통일대로
+          9	통일로
+          1	통일시장
+          2	통일역
+          1	통일전선탑
+          1	통천군
+          1	통천역
+          1	통천읍
+          1	퉁화 시 / 通化市 / Tonghua
+          1	파주시
+          1	파키스탄 대사관
+          1	판교군
+          1	판교비행장
+          1	판교역
+          1	판교읍
+          1	판도방
+          1	판막역
+          1	판문각
+          1	판문관기념품상점
+          1	판문역
+          1	판문점
+          1	판문점교회
+          1	판석단
+          1	팔각정
+          1	팔골다리
+          1	팔영역
+          1	팔흥역
+          1	팽랑동
+          1	평강군
+          1	평강역
+          1	평강읍
+          1	평남대안역
+          1	평남면옥
+          1	평남서호역
+          1	평남선
+          1	평남신덕역
+          1	평남온천역
+          1	평덕선
+          1	평라선
+          1	평부선
+          2	평북선
+          1	평북제련소
+          2	평산군
+          1	평산역
+          1	평산역;P‘yŏngsan
+          1	평성버섯공장
+          1	평성석탄공업대학
+          1	평성수의축산대학
+          1	평성시
+          1	평성역
+          2	평안남도
+          2	평안북도
+          1	평안북도당위원회혁명사적지
+          1	평안북도도서관
+          1	평양
+          1	평양 국제 영화집
+        367	평양-개성고속도로
+          1	평양326전선공장
+          1	평양–모스코바
+          1	평양–신의주
+          2	평양–우쑤리스크
+          1	평양개선중학교
+          1	평양골프련습장식당
+          2	평양과학기술대학
+          1	평양교예단
+          1	평양교예단식당
+          1	평양교원대학
+          1	평양국제문회회괸
+          1	평양기계대학
+          1	평양기관차대
+          1	평양대극장
+          1	평양대동문유치원
+          1	평양려관
+          1	평양려관 2층 차집
+          1	평양려관 4층 차집
+          1	평양려관 5층 차집
+          1	평양려관 피로봉차집
+          1	평양려관식사칸
+          1	평양련광중학교
+          1	평양무궤도전차공장
+          1	평양문신중학교
+          1	평양문화전시관
+          1	평양미술대학
+          1	평양민속공원
+          1	평양보링관
+          1	평양보링관식당 1층
+          1	평양보링관식당 2층
+          1	평양산원
+          1	평양상점
+          2	평양상점식당
+          1	평양수지연필공장
+          1	평양순안국제공항
+          1	평양숭어국집
+          2	평양시
+          1	평양시간
+          1	평양시만경대소년단야영소
+          1	평양신발공장
+          1	평양아동백화점
+          2	평양역
+          1	평양연극영화대학
+        199	평양원산관광도로
+          1	평양음악무용대학
+          1	평양의학대학도서관
+          1	평양의학대학병원
+          1	평양인형극장
+          1	평양접지가게
+          1	평양정보쌘터 코피
+          1	평양정보쌘터려관
+          1	평양제1백화점
+          1	평양제1중학교
+          1	평양조차장역
+          1	평양종각
+          1	평양종합인쇄공장
+          1	평양차량수리공장
+          1	평양천문대
+          1	평양철도종합대학
+          2	평양체육관
+          1	평양친선건강쎈터
+          1	평양텔레비죤방송국청량음료점
+          1	평양텔레비죤탑
+          1	평양학생소년궁전
+          1	평양화력발전소
+        289	평양희천고속도로
+          1	평원군
+          3	평원읍
+          1	평의선
+          1	평전리
+          1	평천구역
+          1	평천무궤도전차사업소
+          1	평천혁명사적관
+          1	평천혁명사적지
+          1	평화리
+          1	평화변전소
+          1	평화의 집
+          1	포춘리
+          1	포치리역(폐지)
+          1	포태리명수간도로
+          1	포태천
+          1	포평청년역
+          1	포평혁명사적관
+          1	포평혁명사적지
+          1	포환던지기 선수 동상
+          1	표훈사
+          1	풍계리 핵실험장
+          1	풍계역
+          1	풍남역
+          1	풍년역
+          1	풍년지짐집
+          1	풍류산
+          1	풍리역
+          1	풍산역
+          1	풍상역
+          1	풍서군
+          1	풍서리
+          1	풍양역
+          1	풍어역
+          1	풍인역
+          1	풍정역(폐지)
+          2	풍천리
+          1	풍천역(豊川驛)
+          1	플루토늄 재 처리
+          1	픙성리
+          1	피현군
+          1	피현역
+          1	피현읍
+          1	필밀천
+          1	하기천역
+          1	하농역(폐지)
+          2	하단리
+          1	하단역
+          1	하덕역
+          1	하리구
+          1	하면역
+          1	하모니플라워호
+          1	하석리
+          1	하성면
+          1	하성역
+          3	하신거리
+          1	하안역
+          1	하여평리
+          1	하운승역
+          1	하현동
+          1	하홍군역
+          1	하황토역
+          1	하회리
+          1	학산리
+          1	학산역
+          1	학성역
+          1	학소리
+          1	학송역
+          1	학습국군상
+          1	학우고개
+          1	학포리
+          1	학포역
+          5	학포천
+          1	학현역
+          1	학흥리
+          8	한강
+          1	한강하구 중립수역
+          1	한국토지주택공사
+          1	한반도
+          1	한반도 비무장지대 (대한민국)
+          1	한산대첩
+          1	한천역
+          3	한탄강
+          9	한탄천
+          1	한포역
+          1	함가역
+          2	함경남도
+          1	함경남도 (Hamgyongnam-do)
+          1	함경남도도서관
+          2	함경북도
+          1	함경북도도서관
+          1	함경북도미술전람관
+          1	함경북도허명사찌원
+          1	함북선
+          1	함주군
+          1	함주역
+          1	함주읍
+          1	함지원역
+          1	함흥 (Hamhŭng) narrow gauge
+          1	함흥대극장
+          2	함흥시
+          1	함흥역
+          1	함흥조차장역
+          1	함흥청년공원
+          1	합수역
+          1	합수천
+          3	합장강
+          1	합장다리
+          1	항동리
+          1	항일혁명투쟁
+          1	해금강지구
+          1	해남리
+          1	해바라기고층살림집
+          1	해발봉
+          1	해방리
+          8	해방산거리
+          1	해방산동
+          1	해방산려관
+          1	해방산식당
+          1	해방산차집
+          1	해방탑
+          1	해안원
+          1	해외동포애국자묘
+          1	해주경기장
+          1	해주비행장
+          2	해주시
+          1	해주청년역
+          1	해탈문
+          1	핵연료 요소 제작
+          1	행영리
+          1	향도봉
+          1	향로봉
+          1	향만루식당
+          1	향목리
+          1	향봉리
+          1	향산관저
+          1	향산군
+          1	향산역
+          2	향산읍
+          1	향원역
+          1	향장역
+          1	허천 강제3수력발전소
+          1	허천강
+          1	허천군
+          1	허천선
+          1	허천역
+          2	혁명렬사릉
+          1	혁명사적관
+          1	혁명사적차량관
+          2	혁신
+          4	혁신거리
+          4	혁신선
+          1	혁창리
+          1	현내면
+          1	현담지
+          1	현대구
+          1	현리비행장
+          1	현명산
+          1	현무문
+          1	현암산
+          1	현흥역
+          1	형제봉
+          1	형제산구역
+          1	형제역
+          1	형제폭포
+          1	혜산농림대학
+          5	혜산만포청년선
+          1	혜산비행장
+          2	혜산시
+          1	혜산인민운동장
+          1	혜산청년역
+          2	호남리
+          1	호남리사신총
+          1	호지문
+          1	홍군역
+          1	홍님동
+          1	홍단수
+          1	홍부식료붐상첨
+          1	홍원군
+          1	홍원리
+          1	홍원역
+          1	홍의리
+          1	홍의선
+          1	홍의역
+          1	화강
+          3	화곡리
+          1	화대군
+          1	화도역
+          1	화삼리
+          1	화성 제16호 관리소
+          1	화암역
+          1	화전역
+          1	화천역
+          1	화평군
+          1	화평리
+          1	화평역
+          1	화평읍
+          1	화풍역
+          1	황강언제
+          2	황금벌
+          1	황금의 심각주 은행
+          1	황룡사9층탑
+          1	황주비행장
+          1	황주역
+          1	황주읍
+          3	황주천
+          1	황초령역
+          1	황촌
+          1	황파역
+          2	황해남도
+          1	황해룡문역
+          2	황해북도
+          1	황해청년선
+          1	회령 22호 관리소
+          1	회령 제22호 관리소
+          2	회령시
+          1	회령청년역
+          1	회령탄광선
+          1	회령호텔
+          1	회안역
+          1	회양군
+          1	회양비행장
+          1	회양역
+          1	회양읍
+          1	회중역
+          1	회창군
+          1	회창읍
+          1	후산역
+          1	후주청년역
+          1	후창역
+          1	후평청년역
+          1	후평청룡산
+          1	후프체조 선수 동상
+          1	훈융역
+          1	훈춘 하 珲春河
+          1	흑교리
+          1	흑교역
+          1	흑령역
+          1	흑룡산
+          1	흥남역
+          1	흥남항역
+          1	흥부국빈관
+          1	흥수역
+          1	흥암역
+         12	희망로
+          1	희상봉
+          1	희천공업대학
+          1	희천려관
+          2	희천시
+          1	희천정밀기계공장
+          1	희천제사공장
+          1	희천청년역

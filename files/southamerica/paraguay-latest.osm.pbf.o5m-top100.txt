@@ -1,0 +1,100 @@
+        294	Ruta Nacional 12
+        166	Manzana 1
+        162	Manzana 7
+        161	Manzana 2
+        159	Manzana 3
+        156	Copetrol
+        155	Manzana 6
+        154	Manzana 5
+        153	Manzana 11
+        152	Manzana 4
+        151	Manzana 8
+        144	Manzana 10
+        143	Manzana 9
+        128	Manzana 12
+        114	Río Paraná
+        109	Manzana 13
+        106	Manzana 14
+        101	Petrobras
+         92	Manzana 15
+         89	Manzana 16
+         87	Ruta Nacional 2 Mariscal José Félix Estigarribia
+         85	Colectora
+         81	Ruta Nacional 1 Mariscal Francisco Solano López
+         80	Kitchen / Open cooking Fire
+         80	Boquerón
+         77	Ruta Tobatí a Arroyos y Esteros
+         76	Ruta Nacional 7 José Gaspar Rodríguez de Francia
+         76	Cerro Corá
+         76	Avenida Costanera
+         75	Avenida Mariscal Francisco Solano López
+         74	Rio Paraguai/Río Paraguay
+         74	14 de Mayo
+         73	Río Pilcomayo
+         72	Ruta Nacional 9 Presidente Carlos Antonio López
+         71	Puma
+         68	Ruta Nacional 3 General Elizardo Aquino
+         68	General Elizardo Aquino
+         67	Ruta Mariscal López
+         65	San Antonio
+         64	Ruta Nacional 8 Doctor Blas Garay
+         62	Mariscal López
+         62	Mariscal Estigarribia
+         61	Río Apa / Rio Apa
+         56	Ruta Nacional 6 Doctor Juan León Mallorquín
+         56	Curupayty
+         54	Uruguay
+         52	Avenida San Martín
+         51	San Miguel
+         51	Río Itambey
+         51	Paraguay
+         51	Avenida Uruguay
+         50	Río Tebicuary
+         50	Farmacenter
+         49	Defensores del Chaco
+         49	Avenida República Argentina
+         48	Ruta Nacional 11 Juana de Lara
+         48	Brasil
+         47	BR
+         46	Río Ypané
+         46	Ruta Nacional 10 Las Residentas
+         46	Avenida Tulo Llamosas
+         45	Iturbe
+         45	Fulgencio Yegros
+         44	Nanawa
+         44	Avenida Tomás Guido
+         43	San Martín
+         43	San Juan
+         43	Río Verde
+         43	Avenida Acceso Sur
+         42	Ruta Nacional 4 General José Eduvigis Díaz
+         42	General Díaz
+         41	Pasaje
+         41	Manzana 17
+         41	España
+         40	San Francisco
+         40	Punto Farma
+         40	Pedro Juan Caballero
+         40	Manzana 18
+         40	MAG
+         39	Yegros
+         39	San José
+         39	Chile
+         39	Buenos Aires
+         38	Mariscal José Félix Estigarribia
+         38	General Bernardino Caballero
+         38	Arroyo Pirá Pytá
+         37	Santa Rosa
+         37	Ruta Paraguarí-Villarrica
+         37	Ruta Caaguazú a Yhú
+         37	Ecuador
+         37	Avenida Juan Domingo Perón
+         37	Arroyo Guazu
+         36	San Lorenzo
+         36	Independencia Nacional
+         36	Barcos & Rodados
+         36	Banco Continental
+         36	Avenida Roque Sáenz Peña
+         36	Avenida Quaranta
+         36	8 de Diciembre
+         36	12 de Junio

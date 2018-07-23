@@ -1,0 +1,100 @@
+        349	Main Street
+        240	Sen Styles Bridge Highway
+        217	Ashuelot River
+        130	Everett Turnpike
+        126	Spaulding Turnpike
+        125	Northern Rail Trail
+        115	High Street
+        113	Elm Street
+        110	River Road
+        108	Pleasant Street
+        108	Dunkin' Donuts
+        102	School Street
+         95	Daniel Webster Highway
+         93	South Main Street
+         87	Maple Street
+         84	Bridge Street
+         82	Church Street
+         79	Tennis Court
+         76	Cross Road
+         69	Pine Street
+         67	Lafayette Road
+         66	Franklin Pierce Highway
+         64	Hole
+         63	Ridge Road
+         63	North Road
+         62	Mountain Road
+         61	Washington Street
+         59	White Mountain Highway
+         59	Summer Street
+         58	North Main Street
+         56	Spring Street
+         55	Depot Road
+         54	Water Street
+         52	Amherst Street
+         51	Central Street
+         50	Depot Street
+         48	McDonald's
+         48	Hanover Street
+         48	Cross Street
+         47	Town Forest
+         47	TD Bank
+         47	Prospect Street
+         47	Northern Main Line
+         46	West Street
+         46	Oak Street
+         44	Mill Road
+         44	Beaver Brook
+         43	River Street
+         43	Range Road
+         42	Subway
+         42	Dover Road
+         42	Conway Scenic Railroad
+         41	South Street
+         41	Calef Highway
+         40	Park Street
+         40	Mill Street
+         40	Highland Avenue
+         40	Grove Street
+         39	South Road
+         39	Rite Aid
+         39	Province Road
+         39	Portsmouth Avenue
+         38	Meadow Lane
+         37	Union Street
+         37	Broad Street
+         36	Mammoth Road
+         35	Winter Street
+         35	Granite Street
+         35	Court Street
+         35	County Road
+         34	Chestnut Street
+         34	Airport Road
+         33	Parking Lot
+         33	New England Central Railroad
+         32	State Route 107
+         32	Scenic Easement
+         32	Franklin Street
+         32	Forest Road
+         32	Concord Road
+         32	Audubon Preserve
+         32	Ash Street
+         31	Shady Lane
+         31	Highland Street
+         31	Green Street
+         31	Fox Run Road
+         31	Exeter Road
+         31	Cemetery Road
+         31	Brook Road
+         31	Bellamy Reservoir
+         30	Cumberland Farms
+         30	Brown Road
+         30	Brown Avenue
+         29	White Mountain National Forest
+         29	Valley Road
+         29	Sunset Drive
+         29	Shore Drive
+         29	Pawtuckaway State Park
+         29	Oyster River
+         29	Loudon Road
+         29	Cottage Street

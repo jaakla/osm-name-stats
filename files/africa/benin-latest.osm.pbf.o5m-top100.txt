@@ -1,0 +1,100 @@
+        101	EPP
+         62	arbres
+         55	RNIE 2
+         40	Nimes
+         35	Bénin - Togo
+         33	Mosquée
+         32	Neem, Boulanga
+         30	RNIE3
+         28	Étang vidangeable
+         27	Soneb
+         27	Pleine Marécage
+         26	RNIE 1
+         26	Mekrou
+         25	MTN
+         22	hamlet
+         22	Ouémé
+         21	chemin
+         21	Zou
+         21	Manguier
+         21	Ecobank
+         17	SONEB
+         17	RN 4
+         17	Dos d'âne
+         15	Centre Sanitaire et Nutritionnel Gbemontin
+         15	Boutique
+         15	Boulevard Steinmetz
+         14	Étang d'Alevinage
+         14	Couffo
+         14	Arbre
+         13	Lampadaire Solaire
+         13	Alibori
+         12	isolated dwelling
+         12	Le Niger
+         12	Le Mékrou
+         11	Sonacop
+         11	Niger
+         11	Le Pendjari
+         11	Isolated Dwelling
+         10	Sota
+         10	Puits
+         10	Magasin
+         10	Lampadaire solaire
+         10	Lampadaire
+         10	Couture
+         10	Bank of Africa
+         10	Avenue du Renouveau
+         10	-
+          9	route de Djougou
+          9	Rue 12.191
+          9	RNIE 3
+          9	GʊGʊ
+          9	CEG Gamia
+          9	BOA
+          8	Quincaillerie
+          8	Panneau solaire
+          8	Mobile Money
+          8	MRS
+          8	GLO
+          8	Boulevard Saint Michel
+          8	Bas-fonds
+          7	arbre
+          7	Poissonnerie
+          7	MOOV
+          7	Bas-fond
+          7	Avenue Germain Olory Togbe
+          7	Alpouro
+          6	poteau électrique
+          6	UBA
+          6	Tchamba - Prékété
+          6	Tapoa
+          6	Sazué
+          6	Route Atakpamé - Tohoun
+          6	Mono
+          6	Mantanvi (3.264)
+          6	Gendarmerie
+          6	Eglise Evangélique Union Renaissance d'Hommes en Christ
+          6	Boulevard de la Marina
+          6	Avenue du Gouv Gal Clozel
+          6	Avenue de la République
+          6	Avenue de l'Oueme
+          5	fixme=confirm
+          5	construction
+          5	Vulcanisateur
+          5	Téhoungué (3.272)
+          5	Toilette
+          5	SBEE
+          5	Restaurant
+          5	Residential Area
+          5	Poste de péage d’Ahouicodj
+          5	Pompe d'eau
+          5	Pharmacie
+          5	PFT
+          5	Marché
+          5	MTN Connect
+          5	Latrines
+          5	JNP
+          5	General Building
+          5	Diamond Bank
+          5	Carrefour Védoko
+          5	Carrefour Seme

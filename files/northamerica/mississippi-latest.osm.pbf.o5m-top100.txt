@@ -1,0 +1,100 @@
+        341	Natchez Trace Parkway
+        256	Main Street
+        185	Lance Corporal Roy M Wheat Memorial Highway
+        159	McComb Subdivision
+        145	Church Street
+        137	2nd Street
+        123	Bogue Chitto
+        122	Beaumont Subdivision
+        116	Oak Street
+        116	1st Street
+        115	Pine Street
+        113	3rd Street
+        112	Silver Creek
+        108	Meridian Subdivision
+        106	Airport Road
+        100	Mount Zion Church
+         95	First Baptist Church
+         94	Mill Creek
+         92	4th Street
+         89	Long Branch
+         89	Front Street
+         83	River Road
+         82	Magnolia Street
+         82	County Line Road
+         82	5th Street
+         79	Martin Luther King Drive
+         77	Magees Creek
+         77	East Main Street
+         75	Jackson Street
+         74	Clear Creek
+         73	Walnut Street
+         72	North Street
+         71	Elm Street
+         71	Big Creek
+         70	Grenada Railway
+         69	Dry Creek
+         68	Washington Street
+         67	Walmart Supercenter
+         67	New Hope Church
+         67	Bethel Church
+         66	Dogwood Drive
+         65	West Main Street
+         65	Mount Olive Church
+         65	Maple Street
+         64	Upper Little Creek
+         64	Levee Road
+         63	Birmingham Subdivision
+         61	Lakeview Drive
+         61	Catfish Pond
+         61	6th Street
+         60	West Street
+         59	Railroad Avenue
+         59	Pleasant Grove Church
+         58	Topisaw Creek
+         58	Magnolia Drive
+         57	South Street
+         57	Oak Grove Church
+         57	Cedar Street
+         56	Washington Avenue
+         56	North Main Street
+         56	Hardy Street
+         56	Davis Road
+         55	Norfolk Southern Railway
+         55	Church of Christ
+         55	Bienville Boulevard
+         55	Bear Creek
+         54	Shady Grove Church
+         54	Johnson Road
+         54	Jefferson Street
+         54	Columbus and Greenville Railway
+         54	Church of God
+         54	Bethlehem Church
+         53	South Main Street
+         53	College Street
+         53	Central Avenue
+         52	Yazoo Subdivision
+         52	Smith Road
+         52	Ridge Road
+         52	McDonald's
+         52	Hurricane Creek
+         52	Gulfport Branch
+         51	Macedonia Church
+         51	Holiday Creek
+         51	Frontage Road
+         50	Subway
+         50	New Hope Cemetery
+         50	East Street
+         50	Cemetery Road
+         49	Williams Road
+         49	Lee Street
+         49	East Prong Silver Creek
+         49	Cherry Street
+         49	115kV transmission line
+         48	Sunset Drive
+         48	Hill Street
+         48	Country Club Road
+         47	Lakeland Drive
+         47	Jones Road
+         47	Goodman Road
+         46	White Sand Creek

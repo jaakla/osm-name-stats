@@ -1,0 +1,100 @@
+         96	เขตชายแดนพม่า-ไทย
+         73	BCEL
+         73	A barn, storage, or a house probably
+         72	Border Laos - Thailand
+         65	Vientiane–Boten Railway
+         63	ນຳ້ຮວງ
+         43	unknown building
+         42	Star Oil
+         39	Fuel Station
+         38	ນ້ຳອູ
+         37	Drummed Fuel
+         36	L S F C
+         34	Mekong
+         32	Border Burma - Thailand
+         31	Petrolimex
+         30	JDB
+         29	ນຳ້ແບງ
+         29	Nam Bak
+         26	Border Cambodia - Thailand
+         24	ນຳ້ຊໍ
+         24	LDB
+         23	ໂພນໄຊ
+         23	ບ້ານ
+         23	ຖະຫນົນວຽງຈັນ 450 ປີ
+         23	L S F C Fuel Station
+         22	Lao Development Bank
+         22	Bouasavanh Power
+         21	ຮ່ອມ 3
+         21	Phongsavanh Bank
+         21	Building
+         20	ຮ່ອມ 1
+         19	137
+         18	ຮ່ອມ 4
+         18	Nam Thang
+         18	Nam Kay
+         17	ເຊກອງ
+         16	ຮ່ອມ 2
+         16	ນໍ້າທາ
+         16	Village
+         16	LP
+         16	A P Fuel Station
+         15	ນຳ້ແອດ
+         15	ນຳ້ບາກ
+         15	Petrotrade
+         15	Noodle Shop
+         15	Nam Fène
+         15	M-Point Mart
+         14	ໂພນທອງ
+         14	Nam Pa
+         13	ນຳ້ນຽດ
+         13	ກາງ
+         13	River Crossing
+         13	ML
+         12	ໂພນສະອາດ
+         12	ເຊໂດນ
+         12	ຮ່ອມ 7
+         12	ນ້ຳງືມ
+         12	ນຳ້ງໍ
+         12	Sithong Road
+         12	PV Oil
+         12	P V Oil
+         12	Houay Niaou
+         12	Avenue Kaysone Phomvihane
+         11	ໂພນສະຫວ່າງ
+         11	ໂພນງາມ
+         11	ເຊໂປນ
+         11	T T P
+         11	STB
+         11	M-Point
+         11	Houay Tuay
+         11	Houay Samang
+         11	Gas station 
+         11	Bouasavanh Power Fuel Station
+         11	Border Laos - Cambodia
+         10	ເຊຈໍພອນ
+         10	ນຳ້ເມັດ
+         10	นค.3029
+         10	Petrolao
+         10	Nam Ko
+         10	Joint Development Bank
+         10	Jiffy
+         10	Houay Soy
+         10	Border China - Laos
+         10	A house
+          9	ໂພນຄຳ
+          9	ວຽງຄຳ
+          9	ນຳ້ງາ
+          9	ນາຄຳ
+          9	bfl
+          9	Star Oil Fuel Station
+          9	PP Oil
+          9	New 18A
+          9	LMP
+          9	L P Fuel Station
+          9	L M P
+          9	Indochina Bank
+          9	Ban Kang
+          8	ໄຕອອນ
+          8	ເຊຄະຫມານ
+          8	ສີບຸນເຮືອງ

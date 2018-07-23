@@ -1,0 +1,100 @@
+       1158	Northeast Corridor
+        444	Main Street
+        330	(blue blazes)
+        328	Yankee Expressway
+        205	(yellow blazes)
+        183	(red blazes)
+        174	James H. Darcey Memorial Highway
+        163	(white blazes)
+        141	Chester Bowles Highway
+        140	South Main Street
+        136	High Street
+        132	Dunkin' Donuts
+        131	River Road
+        130	Elm Street
+        119	Merritt Parkway
+        118	Church Street
+        111	East Main Street
+        108	Wilbur Cross Parkway
+        108	Wilbur Cross Highway
+        106	Boston Post Road
+        100	path continues
+         99	Prospect Street
+         99	North Main Street
+         95	Waterbury Branch
+         95	North Street
+         93	Subway
+         91	115kV transmission line
+         89	West Main Street
+         89	Bridge Street
+         87	McDonald's
+         86	Maple Street
+         85	West Street
+         84	Broad Street
+         83	path contiunes
+         83	Ridge Road
+         83	(green blazes)
+         82	School Street
+         78	Spring Street
+         77	Norwich Branch
+         77	Hartford Division
+         76	Park Avenue
+         76	(orange blazes)
+         75	South Street
+         75	Center Street
+         74	Farmington Canal Heritage Trail
+         74	East Street
+         71	Oak Street
+         71	Grove Street
+         71	(mown)
+         69	Maple Avenue
+         68	Pine Street
+         68	New England Central Railroad
+         67	Water Street
+         63	Mountain Road
+         58	Stop & Shop
+         58	Farmington Avenue
+         58	Cedar Street
+         57	Pleasant Street
+         56	George Street
+         55	Walnut Street
+         55	Highland Avenue
+         53	white blaze
+         53	Carriage Drive
+         52	Mill Street
+         52	Hartford Turnpike
+         51	Chestnut Street
+         50	State Street
+         50	South Road
+         50	Meadow Street
+         50	Chapel Street
+         49	Valley Road
+         49	CVS
+         49	(blue/white blazes)
+         48	Washington Avenue
+         48	Hillside Avenue
+         48	(blue/yellow blazes)
+         47	Riverside Drive
+         47	Cherry Street
+         46	Woodland Drive
+         46	Bank Street
+         46	Appalachian Trail
+         46	(blue/red blazes)
+         45	Shell
+         45	River Street
+         45	Park Street
+         45	Mobil
+         45	Metacomet Trail (blue blazes)
+         45	Danbury Branch
+         45	Charles Street
+         44	view
+         44	cellar hole
+         44	Union Street
+         44	Starbucks
+         44	Pearl Street
+         44	Park Place
+         44	King Street
+         44	Fairview Avenue
+         43	Orchard Street
+         43	Hickory Lane
+         43	Cross Street

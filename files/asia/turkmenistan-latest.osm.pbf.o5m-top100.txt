@@ -1,0 +1,100 @@
+        192	M37
+        128	Gurban Soltan Eje (2043)
+         99	Nurmuhamed Andalyb (1958) kocesi
+         91	Aşgabat-Daşoguz awtomobil ýoly
+         72	Radar speed camera 60 kph
+         72	Bus Stop
+         52	Sumbar
+         45	Baba Annanow (1916) köçesi
+         43	Atamyrat Nyýazow (2038) şaýoly
+         42	Gorogly (2009) kocesi
+         38	Arcabil (1939) sayoly
+         36	Oguzhan (1957) köçesi
+         36	Dermanhana
+         33	radar speed camera 60km/h
+         33	Magtymguly köçesi
+         33	Border Turkmenistan - Iran
+         32	10 yyl Abadancylyk (1945) sayoly
+         31	Aşgabat köçesi
+         30	Mollanepes köçesi
+         30	Azatlyk köçesi
+         28	Р-18
+         28	P-15
+         28	Mary-Serhetabat Trassa
+         27	Garaşsyzlyk köçesi
+         27	Bitarap Frontage Road
+         27	Amu Darya
+         26	Abadancylyk Frontage Road
+         26	?
+         25	Parahat 4
+         25	PYGG
+         25	Bitarap Turkmenistan (2002) sayoly
+         25	Beýik Saparmyrat Türkmenbaşy (1966) şaýoly
+         25	Amudaryo
+         24	Magtymguly (2033) şaýoly
+         24	Kulyýew (2127) köçesi
+         24	Karakum Canal
+         24	Garagum kanaly
+         23	Türkmenistan köçesi
+         22	Watan koçesi
+         22	Metjit
+         22	Kemine köçesi
+         22	Azady köçesi
+         21	P-1
+         21	Exit to Frontage Road
+         20	Murgab
+         19	Watan köçesi
+         19	Border Uzbekistan - Turkmenistan
+         18	Görogly köçesi
+         18	Ataturk (1972) kocesi
+         17	Çandybil şaýoly
+         17	Galkynyş köçesi
+         17	Bitaraplyk (Karl Marks) köçesi
+         16	Sport Mekdebi
+         16	Qaraqum Canal
+         15	Yunus Emre (1951) kocesi
+         15	PÝGG
+         15	Parahat 1
+         15	Garassyzlyk (1986) sayoly
+         14	Tejen/Mary-Serakhs
+         14	Serdar Ýoly
+         14	Magtymguly şaýoly
+         14	Bagtyýarlyk köçesi
+         14	Atamyrat Nyyazow (2038) sayoly
+         14	Amudaryo-Talimarjon
+         13	R-C
+         13	North–South Transnational Corridor
+         13	Murgap
+         13	Howdan W
+         13	Galkynys (1995) kocesi
+         13	Bitarap Turkmenistan şayoly
+         13	Bekrewe (2072) köçesi
+         13	Atrek
+         12	Şagadam köçesi
+         12	Zelili köçesi
+         12	P-16
+         12	Hoja Ahmet Yasawy (2105) kocesi
+         12	Gurbansoltan Eje köçesi
+         12	Candybil Frontage Road
+         12	Bitarap on ramp
+         12	Bagtyyarlyk (2002/5) kocesi
+         12	Atamyrat Nyýazow şaýoly
+         12	Ahal köçesi
+         11	Каршинский Магистральный канал
+         11	Şatlyk köçesi
+         11	Çoganly Ýaşaýaş Toplumy
+         11	Seýdi köçesi
+         11	Saparmyrat Türkmenbaşy şaýoly
+         11	Saglyk Öýi
+         11	R17
+         11	Polisiýa
+         11	P38
+         11	Medeniýet Öýi
+         11	Atabaýew köçesi
+         11	Altyn Asyr köçesi
+         11	10 yyl Abadancylyk on ramp
+         10	Türkmenistan
+         10	S.A.Niyazow koçesi
+         10	Parahat köçesi
+         10	Parahat 7/1
+         10	Parahat 6

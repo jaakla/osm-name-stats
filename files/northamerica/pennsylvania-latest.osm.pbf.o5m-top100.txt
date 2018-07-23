@@ -1,0 +1,99 @@
+       1601	Main Street
+       1144	William Penn Highway
+       1064	Grand Army of the Republic Highway
+        937	Pennsylvania Turnpike
+        804	Northeast Corridor
+        777	Walnut Street
+        718	Chestnut Street
+        717	Perry Highway
+        701	2nd Street
+        692	Church Street
+        620	3rd Street
+        605	Pine Street
+        583	Market Street
+        573	Lincoln Highway
+        552	Oak Street
+        548	Ridge Road
+        535	1st Street
+        528	West Chester Pike
+        515	Maple Street
+        491	South Main Street
+        480	Pittsburgh Line
+        480	4th Street
+        479	North Main Street
+        463	Water Street
+        454	William Flinn Highway
+        449	West Main Street
+        447	River Road
+        446	East Main Street
+        436	Center Street
+        434	Railroad Street
+        424	High Street
+        391	Park Avenue
+        389	Elm Street
+        388	Spruce Street
+        386	Roosevelt Highway
+        386	Cherry Street
+        381	Pennsylvania Avenue
+        379	5th Street
+        378	Baltimore Pike
+        375	Locust Street
+        367	McDonald's
+        361	Pennsylvania Turnpike Northeast Extension
+        340	Church Road
+        340	Bridge Street
+        337	Creek Road
+        333	Mill Street
+        331	Roosevelt Boulevard
+        324	Front Street
+        318	Washington Road
+        315	Spring Street
+        314	Hill Street
+        310	Delaware Expressway
+        308	Washington Street
+        295	Poplar Street
+        295	Peach Street
+        294	Maple Avenue
+        292	Mill Creek
+        286	Ridge Avenue
+        285	6th Street
+        281	Mill Road
+        281	Highland Avenue
+        280	Short Street
+        279	School Street
+        276	Vine Street
+        276	Mountain Road
+        275	Subway
+        273	7th Street
+        267	Lehigh Valley Thruway
+        264	Sheetz
+        258	Wood Street
+        254	3rd Avenue
+        247	State Road
+        247	Airport Road
+        246	North Street
+        240	Cemetery Road
+        239	Grant Street
+        239	Broad Street
+        235	State Street
+        233	Penn Street
+        232	Sunoco
+        230	Roy E. Furman Highway
+        229	2nd Avenue
+        228	Veterans of Foreign Wars of the United States Memorial High
+        228	Meadow Lane
+        228	Easton Road
+        226	Valley Road
+        225	Harrisburg Line
+        220	Green Street
+        219	Lincoln Avenue
+        218	Keystone Corridor
+        216	Washington Avenue
+        216	Rite Aid
+        216	North Broad Street
+        214	Union Street
+        214	Sunset Drive
+        211	1st Avenue
+        209	Willow Street
+        209	Franklin Street
+        209	8th Street

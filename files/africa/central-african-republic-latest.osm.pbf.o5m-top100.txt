@@ -1,0 +1,100 @@
+         78	RN2
+         39	Mbomou
+         33	Ouham
+         33	Kotto
+         28	Bangui Ketté
+         23	RN 10
+         21	Ouaka
+         21	Chinko
+         20	Border Central African Republic - Cameroon
+         18	RN 2
+         18	Mbari
+         17	Fafa
+         17	Bahr Kameur
+         16	Bongou
+         15	Path
+         15	Mbali
+         14	Point d'eau
+         14	Nana Barya
+         14	Bahr Aouk
+         13	Kadéï
+         13	Bamingui
+         12	La M'Poko
+         11	Yata
+         11	Gribingui
+         10	Ubangi
+         10	RR13
+         10	Lobaye
+          9	RD Congo - République centrafricaine
+          9	Nana Bakassa
+          8	animal pens
+          8	Mambéré
+          8	Bangoran
+          7	Sangha
+          7	RN8
+          7	RN 8
+          7	Ouarra River
+          7	M’Pama
+          7	Chef du quartier
+          7	Baïdu
+          7	Avenue Barthélemy Boganda
+          6	Vakaga
+          6	Route de Bafio à Date
+          6	RR26
+          6	Ouara
+          6	Ouandija
+          6	Grande-Sido
+          6	Gounda
+          6	Clearing
+          6	Champs experimentaux
+          6	Border South Sudan - Central African Republic
+          6	Aoukalé
+          5	Samba
+          5	RR15
+          5	RR11
+          5	RN9
+          5	Mboma
+          5	Lom
+          5	Kéré
+          5	Bomu
+          5	Begoue
+          5	Banda
+          5	Bada
+          5	Avenue des Martyrs
+          4	WFP
+          4	Total
+          4	Rue d'Uzès
+          4	Route Djembé - Abba
+          4	RR 1
+          4	RN10
+          4	Ouadi Tiwal
+          4	MINUSCA
+          4	Lobeiye
+          4	Goula
+          4	Gbada
+          4	Eréké
+          4	Elevage
+          4	Border Ouham - Ouham-Pendé
+          4	Boko
+          4	Boguila
+          4	Bango
+          4	Banga
+          4	Avenue de France
+          3	طريق ساره-وسط سيدو
+          3	École Fondamentale 1
+          3	Zongo
+          3	Yasa
+          3	UNHCR
+          3	Tokoyo
+          3	Tiringoulou
+          3	Stream???
+          3	Rue du Languedoc
+          3	Rue du Docteur Cureau
+          3	Route de Ndim à Nzounapaye
+          3	Route de Carnot à Yoro
+          3	RR14
+          3	RR 26
+          3	RR 12
+          3	RR 10
+          3	RN 11
+          3	Pendé

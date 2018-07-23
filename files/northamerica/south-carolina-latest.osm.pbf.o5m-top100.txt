@@ -1,0 +1,100 @@
+        532	Beaverdam Creek
+        371	Black Creek
+        301	Jeffries Creek
+        301	Fishing Creek
+        281	Rocky Creek
+        280	Great Pee Dee River
+        241	Long Branch
+        232	Little Pee Dee River
+        210	Cane Creek
+        209	Main Street
+        206	Camp Creek
+        202	Mill Creek
+        190	Thompson Creek
+        185	Indian Creek
+        173	Church Street
+        163	North Main Street
+        162	Reedy Creek
+        162	Catawba River
+        161	Ashepoo River
+        159	Coosawhatchie River
+        149	McDonald's
+        141	Mill Branch
+        141	East Main Street
+        140	South Fork Fishing Creek
+        140	Bear Creek
+        130	Pine Street
+        129	South Main Street
+        128	Frontage Road
+        127	Waccamaw River
+        125	Subway
+        123	Andrews Subdivision
+        120	Oak Street
+        119	Mark Clark Expressway
+        110	Turkey Creek
+        110	Middle Swamp
+        110	Cedar Creek
+        106	West Main Street
+        104	Big Creek
+        102	Twelvemile Creek
+        102	Mountain Creek
+        102	Bear Swamp
+        100	Stony Fork
+        100	Richland Creek
+        100	Dollar General
+         96	Polk Swamp
+         96	Brushy Creek
+         92	BP
+         90	Sixmile Creek
+         90	NS W Line
+         90	High Hill Creek
+         89	Shell
+         89	Savannah Highway
+         89	Crooked Creek
+         89	Bush River
+         88	Little River
+         88	Charleston Subdivision
+         87	Walmart Supercenter
+         87	Southeastern Beltway
+         86	Whites Creek
+         86	Muddy Creek
+         86	Dry Creek
+         86	Charleston Highway
+         86	CVS
+         86	2nd Street
+         84	Reedy Branch
+         84	Railroad Avenue
+         83	Waffle House
+         83	River Road
+         82	Augusta Road
+         81	Boggy Swamp
+         80	Maple Street
+         80	Elm Street
+         80	Allison Creek
+         78	Southern Connector
+         78	Sampit River
+         77	R Line
+         77	Greenville District
+         76	Lumber River
+         74	Wolf Creek
+         74	Little Reedy Creek
+         74	Indian Field Swamp
+         74	Enoree River
+         73	Wade Hampton Boulevard
+         73	Bethel Church
+         72	Deep Creek
+         72	Carolina Bays Parkway
+         71	Mount Zion Church
+         71	Horse Creek
+         71	First Baptist Church
+         71	Burger King
+         70	Mill Street
+         70	Boggy Branch
+         68	Wendy's
+         68	Lee Street
+         68	Hazzard Creek
+         67	Sugar Creek
+         67	Spring Street
+         67	Savannah River
+         67	Kingston Lake
+         67	Green Street

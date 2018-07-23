@@ -1,0 +1,100 @@
+        113	Konzum
+         70	granica BiH-Hrvatska
+         69	Bingo
+         64	Mezarje
+         63	Gradina
+         58	Bosna
+         48	Гробље
+         47	Sarajevska
+         46	Una
+         46	Steinbeisbahn
+         43	Pošta
+         40	Sberbank
+         40	Ive Andrića
+         39	Omladinska
+         39	Groblje
+         39	Apoteka
+         38	Prisoje
+         37	Olovska
+         37	Igralište
+         37	Bare
+         37	AD Ribnjak
+         36	Maršala Tita
+         35	Vukovarska
+         35	Prvomajska
+         35	Parking
+         35	Nikole Tesle
+         35	Džemala Bijedića
+         33	Sana
+         32	Vrbanja
+         31	Kalošević
+         31	Gaj
+         30	Stjepana Radića
+         30	Njegoševa
+         30	Kula
+         30	Franjevačka
+         29	UniCredit Bank
+         29	Kamenica
+         29	Džamija
+         28	Željeznička
+         28	Zmaja od Bosne
+         28	Posavska
+         28	Autobuska stanica
+         27	Drina
+         27	Alta Via Breza Vares
+         26	Svetog Save
+         26	Novo naselje
+         26	Kralja Tomislava
+         26	Jezero
+         26	Gazprom
+         26	Bistrica
+         25	Vidovdanska
+         25	Petrol
+         25	Nikšički put
+         25	INA
+         25	Glavica
+         25	Gavrila Principa
+         24	Patriotske lige
+         24	Grabovica
+         23	Nova banka
+         23	Miloša Obilića
+         23	Gradac
+         23	Brdo
+         22	Šanac
+         22	Lištani
+         22	Karađorđeva
+         22	Cara Dušana
+         21	Štala 
+         21	Tinja
+         21	Rudarska
+         21	Odžak
+         21	Luke
+         21	Jovana Dučića
+         21	Bosanska
+         21	Autoput Banja Luka-Doboj
+         20	Rijeka
+         20	Orašje
+         20	Mini Market
+         20	Meše Selimovića
+         20	Lašva
+         20	Kovačić
+         20	Hadžići
+         20	Dolovi
+         20	Alekse Šantića
+         19	Šujica
+         19	Una / Уна
+         19	Sportska dvorana
+         19	Pijaca
+         19	Nova Banka
+         19	Luka
+         19	Križevica
+         19	Ismeta Mujezinovića
+         19	Garaža 
+         18	Vrbas
+         18	Trebižat
+         18	Skendera Kulenovića
+         18	Potočani
+         18	Nestro Petrol
+         18	Majdan
+         18	Kralja Zvonimira
+         18	Kralja Tvrtka

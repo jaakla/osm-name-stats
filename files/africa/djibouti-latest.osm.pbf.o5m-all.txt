@@ -1,0 +1,1348 @@
+          1	11 Degrees North / ١١ درجة شمال
+          1	13 Knife
+          1	4 arrondissement
+          2	5e Arrondissement
+          1	5e RIAOM / فوج الأسلحة 5 في الخارج
+          1	7 virages
+          1	A la Brise
+          1	A.C. RIES
+          1	AL GAMIL الجميل
+          1	AL- maida
+          1	AL-Ouma
+          1	AL-TAZAJ
+          1	ARKAM
+          1	ARPG
+          1	ARTA PLAGE
+          1	Abdalla Mohamed Kamil
+          1	Abou Maya
+          1	Abourma Rock Art Site
+          1	Adagalla أداغالا
+          1	Adaneh sougueh
+          1	Adaïlou أدائلو
+         11	Addis Ababa – Djibouti Railway
+          2	Addis Ababa – Djibouti Railway السكك الحديدي�
+          1	Aden Bay Casino كازينو خليج عدن
+          1	Adgueno
+          1	Adoïla أدئلا
+          1	Afah
+          1	Afalloïna أفالوئنا
+          1	Afar
+          1	Affi أفى
+          1	African Village قرية أفريقية
+          1	Agbi Dadda`O
+          1	Agence Commerciale de Djibouti-Telecom
+          1	Agence Commerciale des Eaux الوكالة التجارية
+          1	Agence Djibouti Telecom de Cheick Moussa
+          1	Agence Le Goubet
+          1	Agence de Djibouti Telecom
+          1	Agna
+          1	Air France الخطوط الجوية الفرنسية
+          1	Air-Djibouti HQ مقر جيبوتي الجوية
+          1	Akaré
+          1	Al Fakher
+          3	Al Gamil
+          1	Al Haji Hassan Gouled
+          1	Al Moalim المعلم
+          1	Al baraka
+          2	Al-Baraka
+          1	Al-HAYAT
+          3	Alaili Dadda علايلي دادا
+          1	Alaylou
+          1	Alga lux ألغا لوكس
+          1	Alhandaro
+          1	Ali Addé أدى على
+          2	Ali Sabieh - Assamo (nouveau tracé)
+          3	Ali Sabieh - Djibouti جيبوتي-علي صبيح
+          1	Ali Sabieh - Djibouti علي صبيح - جيبوتي
+          5	Ali Sabieh علي صبيح
+          1	Alliance Franco-Djiboutienne التحالف الفرنسي 
+          1	Allo Pizza
+          1	Allée de la Plaine طريق السهل
+          1	Am'isso
+          1	Am'isso أم إيسو
+          2	Ambassade d'Érythrée سفارة إريتريا
+          1	Ambassade d'Éthiopie السفارة الإثيوبية
+          1	Ambassade de France السفارة الفرنسية
+          1	Ambassade de Somalie سفارة الصومال
+          1	Ambassade de l'Égypte سفارة جمهورية مصر ا�
+          1	Ambassade de la Chine Populaire سفارة الصين ال�
+          1	Ambassade de la Fédération de Russie سفارة الات�
+          1	Ambassade de la Lybie سفارة ليبيا
+          1	Ambassade de la République fédérale d'Allemagne سفار
+          1	Ambassade des États-Unis d'Amérique سفارة الولا
+          1	Ambassade du Qatar سفارة قطر
+          1	Ambassade du Somaliland سفارة أرض الصومال
+          1	Ambassade du Yémen سفارة الجمهورية اليم�
+          1	Ambassador سفير
+          2	Amerga Assurances
+          1	American Institute المعهد الأمريكي
+          1	Ancien bowling
+          1	Ancien poste militaire
+          1	Ancien volcan
+          1	Ancien volcan بركان قديم
+          1	Ancienne Gare de Djibouti محطة السكك الحديد�
+          1	Ancienne piste Tadjourah -Obock
+          1	Andabba
+          1	Annexe du RPP
+          1	Aouadda
+          1	Aour Aoussa
+          1	Ara`Feyti Koma
+          1	Ara`Le
+          1	Aramex Center Services
+          1	Ardo أردو
+          1	Ardoukoba
+          1	Ardoukoba أردوكوبا
+          1	Arta Electronique
+          1	Arta أرتا
+          1	Arta ارتا
+          1	As Dora أس درة
+          1	As Eiya ايلى
+          1	As Eyla ايلى
+          1	As Êla ايلى
+          1	Askela Shet'
+          2	Assab - Djibouti Border Highway / طريق سريع الح�
+          1	Assamo - Ali Addé
+          1	Assamo أسامو
+          1	Assemblée Nationale الجمعية الوطنية
+          1	Assod أسود
+          1	Atlantic Hotel
+          1	Au Chic Parisien
+          1	Auberge Bimiulaos
+          1	Auberge Sable نزل الرمال
+          1	Auberge نزل
+          1	Avenue 1 / جادة 1
+          1	Avenue 10 / جادة 10
+          1	Avenue 11 / جادة 11
+          1	Avenue 12 شارع ١٢
+          1	Avenue 14 / جادة 14
+          1	Avenue 15 / جادة 15
+          1	Avenue 16 / جادة 16
+          3	Avenue 17 / جادة 17
+          2	Avenue 18 / جادة 18
+          1	Avenue 18 شارع ١٨
+          1	Avenue 19 / جادة 19
+          1	Avenue 2 / جادة 2
+          2	Avenue 20 / جادة 20
+          2	Avenue 21 / جادة 21
+          2	Avenue 22 / جادة 22
+          1	Avenue 23 /  جادة 23
+          3	Avenue 23 / جادة 23
+          2	Avenue 24 / جادة 24
+          1	Avenue 25 / جادة 25
+          1	Avenue 26 شارع ٢٦
+          1	Avenue 3 / جادة 3
+          1	Avenue 4 / جادة 4
+          1	Avenue 5 / جادة 5
+          1	Avenue 6 / جادة 6
+          1	Avenue 7 / جادة 7
+          1	Avenue 8 / جادة 8
+          1	Avenue 9 / جادة 9
+          1	Avenue Abdillahi D. Wais شارع عبد الله ويس
+          2	Avenue Admiral Bernard شارع الأدميرال برنا
+          2	Avenue Ali Bahdon شارع علي بهدون
+          2	Avenue Cheik Houmed شارع الشيخ حميد
+          1	Avenue Colombo شارع كولومبو
+          1	Avenue Franchet d'Esperey
+          2	Avenue Franchet d'Esperey شارع فرانشيت دسبي�
+          1	Avenue Gamal Abdel Nasser شارع جمال عبد النا
+          1	Avenue General Galleni شارع الجنرال كاليين
+          2	Avenue Georges Pompidou شارع بونور
+          1	Avenue Hong Kong شارع هونغ كونغ
+          1	Avenue Manille شارع مانيلا
+          1	Avenue Maréchal Foch شارع مارشال فوش
+          3	Avenue Messageries Maritimes شارع الجنرال كال
+          1	Avenue Mohamed Farah Dirir dit"Djanaleh" شارع جورج 
+          1	Avenue Mohammad Ahmad Issa شارع محمد دليتا ش�
+          2	Avenue Roosevelt شارع روزفلت
+          1	Avenue Saigon شارع مدينة هو تشي منه
+          1	Avenue Singapur شارع سنغافورة
+          1	Avenue Ugass Hassan Xersi / شارع أوغاس حسن حر
+          1	Awo Coiffure
+          1	Aérodrome d'Assa Gueyla
+          1	B.B. Modi's
+          1	B.O.A
+          1	BB 10
+          1	BB 10 bus
+          1	BCIMR البنك التجاري والصناعي للبحر
+          1	BCIMR بنك التجارة والصناعة - البحر �
+          1	BOA - Agence de l'Aviation
+          1	BRUMS
+          1	BSH Pharmacy
+          1	Balbala 2 / بلبالا 2
+          1	Balbala 3
+          1	Balbala 3 bis
+          1	Balbala 6 / بلبالا 6
+          1	Balbala 7
+          1	Balbala 7 bus
+          1	Balbala ANCIEN
+          1	Balbala بلبالا
+          2	Balha بالها
+          1	Balilli`Li
+          1	Balodli
+          1	Bambis
+          1	Banc des Salines مياه ضحلة للملاحات
+          1	Banc du Heron مياه ضحلة البلشون
+          1	Bank of Africa
+          1	Bank of Africa بنك أفريقيا
+          1	Bankoualé
+          1	Banque BOA
+          1	Banque Centrale البنك المركزي
+          1	Banque Salam Africa
+          1	Banque de Crédit et de Dépôt de Djibouti
+          1	Banque nationale de Djibouti بنك جيبوتي المرك
+          1	Barrage de Dorra السد درة
+          3	Barwako-hayabley / بارواكو - هيابلي
+          1	Base militare italiana di supporto "MOVM Amedeo Guillet"
+          1	Bassin de Kaaxa Muddo (Grand Mouddo)
+          1	Bassin de Quuxa Muddo (Petit Mouddo)
+          1	Bassin du Dôdda (1)
+          1	Bassin du Dôdda (2)
+          1	Bassin du Dôdda (3)
+          1	Bavaria Les Acacias Hotel فندق بافاريا ليس أ
+          1	Bawadi Mall
+          1	Beauty Success
+          1	Beijing Restaurant
+          1	Bijouterie
+          1	Bijouterie Touba
+          1	Birra`Into
+          1	Blue Nile النيل الأزرق
+          1	Body Forme
+          1	Bohoyto
+          1	Bolloré
+          3	Border Djibouti - Eritrea حدود جيبوتي - إريت�
+          1	Boucherie
+          1	Boucherie Bonne Viande اللحوم جيد جزار
+          1	Boudouni
+          1	Boulangerie
+          1	Boulangerie de Hayableh مخبز هيابلي
+          1	Boulangerie du CPE
+          1	Boulangerie du Moulin
+          1	Boulevard 1 / شارع 1
+          1	Boulevard 10 / شارع 10
+          1	Boulevard 11 / شارع 11
+          1	Boulevard 12 / شارع 12
+          1	Boulevard 13 / شارع 13
+          1	Boulevard 14 / شارع 14
+          1	Boulevard 15 / شارع 15
+          1	Boulevard 16 / شارع 16
+          1	Boulevard 17 / شارع 17
+          4	Boulevard 19 / شارع 19
+          1	Boulevard 19 نهج ١٩
+          3	Boulevard 2 / شارع 2
+          4	Boulevard 21 / شارع 21
+          2	Boulevard 3 نهج ٣
+          2	Boulevard 4 نهج ٤
+          2	Boulevard 5 نهج ٥
+          3	Boulevard 6 / شارع 6
+          1	Boulevard 7 / شارع 7
+          1	Boulevard 8 / شارع 8
+          1	Boulevard 8 نهج ٨
+          1	Boulevard 9 / شارع 9
+          2	Boulevard Assan Gouled الطريق الوطني ١
+          1	Boulevard Assan Gouled طريق وطني ١
+          1	Boulevard Bonhoure شارع بونور
+          1	Boulevard Hassan Gouled شارع حسن جوليد
+          1	Boulevard Khor Bourhan شارع خور برهان
+          1	Boulevard de la République شارع الجمهورية
+          7	Boulevard du Général de Gaulle شارع الجنرال د
+          1	Boutique
+          1	Boutique Harbi متجر الحربي
+          1	Brigade de Gendarmerie Cheick Moussa
+          1	Bunna House
+          1	Bus Station محطة الحافلات
+          1	CAC International Bank
+          1	CAC International Bank كاك بنك الدولي;CAC banqu
+          1	CDC de Guelleh Batal سدك من غيله بتال
+          2	CECAP
+          1	CENTRE DE SANTE COMMUNAUTAIRE TORA-DORA
+          2	CES d'Ambouli مدرسة الثانوية أمبولي
+          1	CH14
+          1	CSC_Balbala 2
+          1	CTID
+          1	Cafe de la Gare مقهى المحطة
+          1	Cafeteria Bienvenue مطعم مرحبا بكم
+          1	Cafeteria Palm مقهى بالم
+          1	Caffe Inn
+          1	Café de Paris
+          1	Café des beaux arts مقهى الفنون الجميلة
+          1	Cafétéria
+          1	Camp Cheick Osman
+          1	Camp Lemonnier معسكر ليمونير
+          1	Camp écotouristique d'ASSAMO
+          1	Campement de Rayssali
+          1	Campement de l'Ardoukoba
+          1	Campement du Day
+          1	Campement Écotouristique de Djallelo
+          1	Campus d'Université de Balbala
+          1	Carpisa
+          1	Carrefour كارفور
+          1	Caserne des pompiers
+          1	Cash Center
+          2	Casino
+          2	Casino كازينو
+          1	Cathédrale Notre-Dame du Bon-Pasteur
+          1	Cement Factory
+          1	Central Café
+          1	Centre Culturel Institut Français Arthur Rimbaud المر�
+          1	Centre National en sante de la reproduction "HOUSSENIA"
+          1	Centre commercial d'Einguella مركز تجاري أينك�
+          1	Centre d'Etudes et de Recherche de Djibouti
+          1	Centre de Sante Communantaire Wahledaba
+          1	Centre de Santé Communantaire  de  Hayabley
+          1	Centre de Santé Communantaire de PK12
+          1	Centre de Santé Communantaire de wea
+          1	Centre de Tennis de Gabode
+          1	Centre de Transmissions Interarmées (FUV) مركز الا�
+          1	Centre de developpement Communaitaire
+          1	Chambre de Commerce الغرفة التجارية
+          2	Chemin de fer Djibouto-Ethiopien
+          1	Chemin du volcan Adouadda
+          1	Chemin du volcan Aouadda
+          1	Chez Mahad في مهاد
+          1	Chez Marco في مكان ماركو
+          1	Chez Momo
+          2	Chez moi
+          2	Cimetière d'Ambouli مقبرة أمبولي
+          1	Cimetière de Balbala مقبرة بالبالا
+          1	Cimetière de la Légion Etrangère مقبرة الفيلق
+          1	Cimetiére de Cheick Moussa
+          1	Cinema Le Paris السينما باريس
+          1	Citerne enterrée de Warrabi Mouddo
+          1	Cité Arhiba مدينة أرهيب
+          1	Cité Barwaqo مدينة برواقو
+          1	Cité Cheikh Osman مدينة الشيخ عثمان
+          1	Cité Gabode مدينة غابود
+          1	Cité Ministerial المقر الرئيسي للوزارة
+          1	Cité Ministérielle مدينة الوزاري
+          1	Cité de Einguela حي أينكلا
+          1	Clinique Dentaire de Djibouti
+          1	Clinique Vétérinaire
+          1	Clinique dentaire Fathi
+          1	Club hermes نادي هيرميس
+          1	Coca-Cola Djibouti
+          1	College de Ali Sabieh كلية علي صبيح
+          1	College de Hayel said كلية هائل سعيد
+          1	College de Hodan 2
+          1	College de Hodan 3
+          1	Collège de Fukuzawa
+          1	Commercial Bank of Djibouti البنك التجاري ال�
+          1	Commiseriat de la police
+          1	Commissariat du Héron
+          1	Complexe sportif du Roi FAHD
+          1	Consulate of the United Kingdom قنصلية المملكة
+          1	Container Fuel
+          1	Corto Maltese
+          1	Croissant rouge de Djibout / الهلال الأحمر لج
+          1	Cultures'ine Japanese Food
+          1	Cyber Café Filga informatique سيبر كافيه فيلغ
+          1	DE, ADR / دي، أدر
+          1	DHL Djibouti دي إتش إل جيبوتي
+          1	Da
+          1	Daallo Airlines دالو الخطوط الجوية
+          2	Daasbiyo - Holhol
+          1	Dabadoba
+          1	Dacia Marill داسيا ماريل
+          1	Dadwayya
+          1	Dafféinaitou
+          1	Dahabshil bank بنك دهبشيل
+          1	Dahita
+          1	Dakka Plateau
+          1	Dalhis
+          1	Dallayi
+          1	Dar Al Hanan دار الحنان
+          1	Darrisse
+          1	Data Kousra
+          1	Data `Ale
+          1	Day دي
+          1	Dayli H̱arak
+          1	Daymoli ديملي
+          1	Daïmoli
+          1	De Pâtisserie Le Château المعجنات القلعة
+          1	Depot Ex Mobil مستودع إكس موبيل
+          1	Dico Meubles الأثاث ديكو
+          1	Digital Media Studio Photos
+          1	Dikhil Airport مطار دخيل
+          4	Dikhil دخيل
+          1	Dire Dawa ديرة داوا
+          1	Direction des Mines et de la Sécurité routière
+          1	Discorama
+          1	Distributeur Poulet
+          1	Dittilou ديتيلو
+          1	Diva Coiffure
+          1	Diyara ديارا
+          1	Djedjedale ججدال
+          1	Djib Optic
+          1	Djib Telecom
+          1	Djibouti
+          1	Djibouti - Adagalla - Dire Dawa / جيبوتي - أداغا
+          1	Djibouti - Adagalla / جيبوتي - أداغالا
+          2	Djibouti - Ali Sabieh جيبوتي - علي صبيح
+          1	Djibouti - Dire Dawa / جيبوتي - ديرة داوا
+          1	Djibouti - Nagad
+          1	Djibouti Airlines الخطوط الجوية الجيبوت�
+          1	Djibouti Bawadi Mall
+          1	Djibouti Kart جيبوتي كارت
+          1	Djibouti Plastic Factory
+          1	Djibouti Road طريق جيبوتي
+          1	Djibouti Telecom
+          1	Djibouti Telecom جيبوتي تليكوم
+          1	Djibouti fire department قسم الأطفاء جيبوتي
+          7	Djibouti جيبوتي
+          1	Djibouti-Obock جيبوتي-أوبوك
+          1	Djibouti-Port جيبوتي ميناء
+          1	Djibouti-Tadjoura تاجورة-جيبوتي
+          1	Djibsat جيبسات
+          1	Djibuti جيبوتي
+          1	Doda
+          1	Doraleh Container Terminal محطة حاويات دورال
+          1	Doraleh Multi-Purpose Port ميناء دورال متعدد
+          1	Doraleh Oil Terminal
+          3	Dorra درة
+          1	Douda
+          1	Douda دودا
+          1	Dougoum دوغوم
+          1	Doumeira دميرة
+          1	Dr Chakib Saad Omar / د. شكيب سعد عمر
+          1	EDD Tadjourah
+          1	EGE Legrand Electricité إجي ليغراند الكهرب
+          1	E`Ebkay
+          1	Eau de Tadjourah
+          1	Ecole de Balbala 1 / Annexe 3
+          1	Ecole de Bolli
+          2	Ecole de Mouddo
+          2	Ecole de Ouea
+          1	Ecole des Lumières
+          1	Ecole wea
+          1	Ecole-privé
+          1	Ededle
+          1	Electronique Sanka
+          1	Embassy of the United States of America سفارة الول
+          1	Escale Marine Militaire توقف البحرية
+          1	Essalou إسالو
+          1	Etablissement pénitentiaire
+          1	Ethio-Djibouti Railway
+          1	Ethio-Djibouti Railways سكة حديد أديس أبابا
+          1	Ethiopia - Djibouti
+          1	Ethiopia - إرتريا
+          1	Ethiopia - الصومال
+          6	Ethiopia - جيبوتي
+          1	Ethiopian Airlines الخطوط الجوية الإثيوب
+          1	Etoile d'Or النجم الذهبي
+          1	Ets Tani
+          1	Europcar Office مكتب وروكار
+          1	Ewali
+          1	Exim bank بنك إكسيم
+          1	Eyess & Watch
+          1	FEDEX
+          3	FLAG Europe-Asia
+          1	Fafahto فافاهتو
+          1	Fast Food
+          1	Fillakouba
+          1	Fitness centre
+          1	Flzurs Plus
+          1	Forage d'Andaba
+          1	Forêt d'Andaba
+          1	Fusee صاروخ
+          1	Future Generation
+          1	GXA
+          2	GXA Assurances
+          1	Gabode 3 / غابود 3
+          1	Gabode 5 / غابود 5
+          1	Gaggadé
+          1	Gagou غاغو
+          1	Galafa غالافي
+          1	Galikoma
+          1	Garage Adil
+          1	Garba Naba غاربا نبا
+          1	Garde-Côtes
+          1	Garderie RAHMA
+          1	Garobâ غاروبا
+          1	Garrisalo
+          1	Garrisalo Koma
+          1	Gaysalae
+          1	Gendarmerie Nationale
+          1	Geox Respira
+          4	Ghoubet Kharab
+          2	Ghoubet Kharab غربة الخراب
+          1	Go & Back Tourism & Travel Agency
+          1	Goba'Eto Meda
+          1	Goda Mountains
+          1	Godorya قدريا
+          1	Golfe d'Aden خليج عدن
+          1	Gourgour
+          1	Grand Bara بارا كبير
+          1	Grande Mosquée de Djibouti المسجد الكبير لج�
+          1	Guedi Logistics
+          1	Guerento
+          1	Guirrôri
+          1	Guister كيستر
+          2	Gulf of Aden خليج عدن
+          9	Gulf of Tadjoura
+          3	Gulf of Tadjoura خليج تاجورة
+          1	Géant Casino
+          1	Habone-Deka هتل هابون دکا
+          1	Hadla مطار هدل
+          1	Haka Tidbido
+          1	Hamakkabi Koma
+          1	Hanle
+          1	Hararte
+          1	Haudadau
+          1	Hayabley هيابلي
+          1	Haïer هاير
+          1	Herberge Le Héron
+          1	Hodan 1
+          3	Holhol-Djibouti
+          3	Holhol-Djibouti جيبوتي-هلهول
+          1	Holl-Holl هلهول
+          1	Honey Shop
+          1	Hopital Al Rahma
+          1	Hopital cheikho
+          1	Hormod SARL
+          1	Hôpital
+          1	Hôpital Militaire Soudanais مستشفى العسكري ا
+          1	Hôpital militaire
+          1	Hôtel Ali Sabieh فندق علي صبية
+          1	Hôtel Horseed فندق هورسيد
+          1	Hôtel Kempinski فندق كامبنسكي
+          1	Hôtel Menelik فندق منليك
+          1	Hôtel Résidence de l'Europe فندق الإقامة من 
+          1	Hôtel Sheraton فنادق شيراتون
+          1	Hôtel de Djibouti فندق جيبوتي
+          1	Hôtel de France فندق فرنسا
+          1	Hôtel des Impôts
+          1	Hôtel la Siesta فندق لا سيستا
+          1	H̱amra
+          1	H̱orod le ‘Ale
+          1	IGAD Biodiversity Management Programme Office إيقاد - 
+          1	IGAD Secretariat سكرتارية إيقاد
+          1	Idriss Ice Cream
+          1	Immigration et Douanes
+          1	Imprimerie Nationale
+          1	Institut Français Arthur Rimbaud - IFAR / معهد آرث�
+          1	Istanbul
+          1	Jardin حديقة
+          1	Javi House
+          1	KHOR AMBADO
+          1	Kadad Koma
+          1	Kadda Birra`Into
+          1	Kadda Dabrima
+          1	Kadda Fedda
+          1	Kadda Moudou`Oud
+          1	Kadda Sola
+          1	Kalaf كالاف
+          1	Kallîda كاليدا
+          1	Karta
+          1	Katuele
+          1	Kayan Tobacco كيان توباكو
+          1	Kaḏḏa Dâbali
+          1	Kempinsky palace فندق قصر جيبوتي كامبنس�
+          1	Kenya Airways الخطوط الجوية الكينية
+          1	Kilayto
+          1	Kilayto Koma
+          1	Kiné Pro
+          1	Kioske Douda
+          1	Kiosque Lac-Abbé كشك بحيرة آبي
+          1	Kiosque kassim
+          1	Kiosque machallah
+          1	Korbelli
+          1	Krishna Coiffure
+          1	Kulmiye
+          1	Kurry - Flavor of India كاري - نكهة الهند
+          1	L'Archot
+          1	L'Aube
+          1	L'Elixir parfumerie العطر اليكسير
+          1	L'Elégance
+          1	L'Ïle aux Pizzas
+          1	LE GOLFE
+          1	LG
+          1	LIC Ali Sabieh أل إي سي علي صبيح
+          1	La 5
+          1	La Chaumière الشومير
+          1	La Fontaine
+          1	La Galette Bretonne الغاليت بريتون
+          1	La Gelatisserie
+          1	La Grande Récré
+          1	La Mer Rouge البحر الأحمر
+          1	La Parisienne
+          1	La Pergola
+          1	La Petite Métisse
+          1	La Pharmacie Moderne صيدلية حديثة
+          1	La Plaine السهل
+          1	La Poste Western Union
+          1	La Poste البريد
+          1	La Table de Julien جدول جوليان
+          1	Laboratoire Affi
+          1	Laboratoire d'analyses Abdan
+          1	Lac Assal بحيرة عسل
+          1	Lake Abbe بحيرة آبي
+          1	Le Bafena
+          1	Le Beverly البيفرلي
+          1	Le Boiteux
+          1	Le Figaro Café مقهى فيغارو
+          1	Le Golfe الخليج
+          1	Le Kokeb
+          1	Le Maharaja المهراجا
+          1	Le Menelik
+          1	Le Monde Coréen
+          1	Le Pizzaiollo Central
+          1	Le Plateau du Marabout الهضبة المرابط
+          1	Le Plateau du Serpent الهضبة الأفعى
+          1	Le Pount
+          1	Le Santal خشب الصندل
+          1	Le Sporting
+          1	Les Halles القاعات
+          2	Les Sables Blancs الرمال البيضاء
+          1	Librairie Victor Hugo
+          1	Loncin Motocycles
+          1	Loqa Dagah Dalola
+          1	Lotissement de l'Aviation تقسيم الطيران
+          1	Lotissement de l'Aérogare تقسيم الهواء محطة
+          1	Lotissement des Gardes حي الحراس
+          1	Lotissement des Salines حي الملح
+          1	Lotissement du Stade ملعب التخصيص
+          1	Loyada لويادا
+          1	Lycée Français de Djibouti
+          1	Lycée Industriel et Commercial المدرسة الثانو
+          1	Lycée de Balbala مدرسة عالية بالبالا
+          1	Lycée de Djibouti مدرسة جيبوتي الثانوية
+          1	Lycée de Gabode مدرسة ثانوية غابود
+          1	Lycée de Hodan 4
+          1	Lé'Ado
+          1	MS12
+          1	Madala مدالا
+          1	Madgoul
+          1	Mahad Electronics
+          1	Mairie de Djibouti التوجيه الوطني للانتخ
+          1	Maison de la Beauté بيت الجمال
+          1	Maison de santé
+          1	Maison des Anciens Combattants دار شؤون المحار
+          1	Maison des jeunes de Guelleh batal بيت شباب غيله
+          1	Mak`Arrou
+          1	Maqame Cheick Moussa
+          1	Marche de Cite Hodan
+          1	Marche de FABTACH
+          1	Marché Central السوق المركزي
+          1	Marché de Hayableh السوق هيابلي
+          1	Marché de l'artisanat سوق الحرفية
+          1	Marché ousley
+          1	Margoïta مارغويتا
+          1	Marill Services
+          1	Marmara
+          1	Masdjid Al Sada مسجد الصدى
+          1	Masdjid Al-Hamoudi مسجد الحمودي
+          1	Masdjid Al-Nadwat مسجد الندوة
+          1	Masdjid Du Prince Salman مسجد الأمير سلمان
+          1	Masdjid Hadji Dideh مسجد حاجی دیدهِ
+          1	Masdjid Nouri مسجد نوري
+          1	Mashallah
+          1	Masjid Ramadan
+          1	Maskali Island جزيرة ماسكالي
+          1	Massida Logistics
+          1	MasterCard ماستركارد
+          1	Melting Pot وعاء الانصهار
+          1	Ministere de la santè وزارة الصحة
+          1	Ministère de la Défense وزارة الدفاع
+          1	Ministère des Affaires Étrangères وزارة الشؤو�
+          1	Ministère des Postes et Télécommunications وزارة ا
+          1	Ministére de L'Intérieure وزارة الداخلية
+          1	Modarek parfumerie موداريك للعطور
+          1	Mole Nord شمال حائل الأمواج
+          1	Mole Sud جنوب حائل الأمواج
+          1	Momo
+          1	Momo et Aden
+          1	Monte Veima
+          1	Mosqué
+          1	Mosqué safa
+          4	Mosquée
+          1	Mosquée Ali Dherer
+          1	Mosquée Masdjid Al-Nadwat
+          1	Mosquée Safa
+          1	Mosquée Zouber
+          1	Mosquée de Al-Rahma
+          1	Mosquée de Hodan
+          1	Mosquée place cheick moussa
+          1	Moucha Airport مطار موشا
+          1	Moucha Islands الجزر موشا
+          1	Moukbasa National رستوران بین المللی موم
+          1	Moulk Center
+          1	Mr Grill
+          1	Muya Shet'
+          1	N1 à Daasbiyo
+          1	N3
+          1	N5
+          4	N5 Ali Addé- Holhol
+          1	N5 Ali Sabieh- Holhol
+          1	N5 Holhol-Djibouti
+          2	NOC
+          1	NOC Balbala إن أو سي بالبالا
+          1	NOSTRA
+          1	Nali Accessories
+          1	Napoléon نابليون
+          1	Navy Exchange البحرية
+          1	Nicolas Gorgalis طبيب عام
+          1	Nissan - Tata
+          1	Nougaprix نوكابري
+          2	OMS
+          1	ONEAD
+          1	Obock Airport مطار أوبوك
+          4	Obock أوبوك
+          1	Oceania أوسيانيا
+          1	Office National du Tourisme de Djibouti المكتب الس
+          1	Office de la Voirie مكتب الطريق
+          1	Orobor
+          1	Oudoud Le Bahi
+          1	Oued D'Ambouli
+          2	Oued D'Ambouli واد أمبولي
+          2	Oued D'Ambouli وادي أمبولي
+          1	Ounda Ginni Kôma
+          1	Ounḏa Dâbali
+          1	Ourrouffi
+          1	PATRIA
+          1	PC 5°RIAOM / بي زي - فوج الأسلحة ٥ في ا�
+          1	PISTE Daddato - Alaïli Dadda
+          1	PNUD
+          1	Palais de Justice المحكمة
+          1	Palais du Peuple قصر الشعب
+          1	Panorama منظر عام
+          1	Parc Aquatique Pink Blue
+          1	Parfumerie Prodima
+          1	Parking de Al-Rahma
+          1	Parking موقف سيارات
+          1	Pasha café boulangerie
+          1	Patisserie d'Ambouli معجنات أمبولي
+          1	Pause Café
+          1	Petit Bara
+          1	Phare de Ras Bir
+          1	Pharmacie Océan Indien الصيدلة من المحيط ا
+          1	Pharmacie de l'Aviation
+          1	Pharmacie de l'Indépendance صيدلية الاستقلا�
+          1	Pharmacie de la Corne d'Afrique صيدلية القرن ا�
+          1	Pharmacie place cheick moussa
+          1	Pista Assa-Geyla - Daddato
+          3	Piste Adaïlou - Assa Gueyla
+          2	Piste Adaïlou - Assa Gueyla مسار أدائلو - أسا
+          1	Piste Adaïlou - Gaoura مسار أدائلو - غاؤرا
+          1	Piste Adoïla - Adaïlou مسار أدئلا - أدائلو
+          2	Piste Andaba - Bouyya
+          1	Piste As Dora-Adoïla مسار أس درة - أدئلا
+          1	Piste As Dorra - Adoïla مسار أس درة - أدئلا
+          2	Piste Assa Geyla - Guirrori
+          1	Piste Assa Gueyla - Guirrori
+          2	Piste Assa Gueyla - Yarigori
+          1	Piste Assa-Gaila - Daddato
+          1	Piste Balho-Ethiopie
+          4	Piste Daddato - Alaïli Dadda
+          4	Piste Daddato - Madgoul
+          1	Piste Dorra - Daïmoli
+          1	Piste Dorra-Assa Gueyla
+          2	Piste Dorra-Daïmoli
+          1	Piste Dorra-Mouddo طريق درة-مودو
+          1	Piste Essalou - N13
+          1	Piste Essalou مسار إسالو
+          1	Piste Gaoura - Assa Gueyal
+          1	Piste Gaoura - Assa Gueyla
+          2	Piste Gaoura - Guirrori
+          2	Piste Khor Angar - La Assa
+          1	Piste Lac Assal - Balho
+          1	Piste Malaho - Sakâlol
+          1	Piste Mouddo-Madgoul-Assa Gueyla
+          5	Piste Moulhoulé - Alaïli Dadda
+          7	Piste Obock - Alaïli Dadda
+          5	Piste Obock - La Assa
+          1	Piste Obock - La'assa
+          1	Piste Obock - Lahassa
+          1	Piste Randa-Adaïlou مسار راندا - أدائلو
+          1	Piste Ras Bir
+          1	Piste Ribta - Garba Naba
+          1	Piste campement de la faille
+          5	Piste d'Adgueno
+          1	Piste d'Agueno
+          2	Piste d'Andaba
+          3	Piste dallayi - Médého
+          1	Piste de Bankoualé
+          1	Piste de CECAP مسار شاطئ أرتا القتال مر
+          2	Piste de Dittilou مسار ديتيلو
+          2	Piste de Diyara مسار ديارا
+          1	Piste de Dougoum à Ardo / مسار دوغوم-أردو
+          5	Piste de Garba Naba
+          2	Piste de Garba Naba مسار غاربا نبا
+          2	Piste de Garobâ مسار غاروبا
+          2	Piste de Gourgour
+          1	Piste de Gâroba مسار غاروبا
+          1	Piste de Koron مسار كرون
+          1	Piste de Margoïta مسار مارغويتا
+          1	Piste de Mouddo
+          1	Piste de Rayssali
+          2	Piste de l'Oued Kalou
+          1	Piste des Sables Blancs
+          1	Piste du Lac Abbé
+          1	Piste du Moussa Ali
+          1	Piste du Moussa Ali مسار موسى علي
+          1	Piste du Mouusa Ali
+          4	Piste du Sakalol
+          1	Piste vers champs de lave المسار إلى حقول ال
+          1	Pizzaiolo Haramous
+          1	Pizzaiolo Haramous بيزيولو حراموس
+          1	Place Lagarde ساحة لاغارد
+          1	Place Mahmoud Harbi ساحة محمود حربي
+          1	Place Tokyo ساحة طوكيو
+          1	Place central de Hayableh الساحة المركزية ه�
+          2	Place de la Gare ساحة المحطة
+          1	Place de la Gare شارع باستور
+          2	Place du 27 Juin / ساحة 27 حزيران
+          1	Plage de Héron شاطئ البلشون
+          1	Plage de la Siesta شاطئ القيلولة
+          1	Plage des Sables Blancs
+          1	Planet Electronic الكوكب الإلكترونية
+          1	Planet Hollywood بلانيت هوليوود
+          1	Play House Café
+          1	Plein Soleil Mer Rouge بلين سولي البحر الأ�
+          1	Plein ciel Hôtel كامل السماء فندق
+          1	Point Burger برغر نقطة
+          1	Police شرطة
+          1	Populaire
+          1	Port de Djibouti ميناء جيبوتي
+          1	Port of Doraleh
+          1	Porto Arwad بورتو أرواد
+          1	Poste de Balbala
+          1	Poste militaire de Dorra
+          1	Prestige Prêt à Porter
+          1	Proxy Shop
+          1	Préfecture مكتب حكومة المدينة
+          1	Présidence de la République رئاسة الجمهورية
+          1	Purple drank cofe shop مقهى شرب بنفسجي
+          1	Pyramid
+          1	Pyramid Car Care Center
+          1	Pyramid Car Rental
+          1	Pôle Medical المركز الطبي
+          1	Quartier 1 / حي 1
+          1	Quartier 2 / حي 2
+          1	Quartier 3 / حي 3
+          1	Quartier 4 / حي 4
+          1	Quartier 5 / حي 5
+          1	Quartier 6 / حي 6
+          1	Quartier 7 / حي 7
+          1	Quartier 7 bis / حي 7 أ
+          1	Quincaillerie Bassetco باسيتكو متجر الأجهز
+          1	RPP إر بي بي
+          2	RUBIS Station-service
+          1	Racheed
+          1	Radio Télévision de Djibouti إذاعة وتلفزيون 
+          2	Radio station
+          1	Radiodiffusion Television de Djibouti
+          1	Rallye Pièces Auto
+          1	Ras Bir
+          1	Ras Doumeira رأس دميرة
+          1	Ras Eiro
+          1	Ras Siyyan رأس سيان‎‎
+          1	Rayssali
+          1	Recif d'Ambouli ريف أمبولي
+          1	Refuge Decan
+          1	Residence Hotel Bellevue الإقامة فندق بلفيو
+          1	Restaurant Habecha
+          1	Restaurant Mont Liban مطعم جبل لبنان
+          1	Restaurant Ougoul مطعم أوغول
+          1	Restaurant Saba مطعم سابا
+          1	Rex
+          1	Riptalé
+          1	Robleh
+          3	Route Nationale 1 / الطريق الوطني رقم 1
+          5	Route Nationale 1 / طريق وطني ١
+          1	Route Nationale 11
+          2	Route Nationale 2 / الطريق الوطني رقم 2
+          6	Route Nationale 2 / الطريق الوطني٢
+          1	Route Nationale 3 /  الطريق الوطني رقم 3
+          4	Route Nationale 3 / الطريق الوطني رقم 3
+          1	Route Nationale 4 / طريق وطني ٤
+          2	Route Nationale 5 / طريق وطني ٥
+          2	Route Nationale 9
+          1	Route Randa - Dorra طريق راندا - درة
+          4	Route de Venise طريق البندقية
+          1	Route de l'aéroport طريق المطار
+          1	Route de la Siesta الطريق القيلولة
+          5	Route de la Siesta طريق القيلولة
+          1	Route du Lac Assal
+          2	Rubis
+          1	Rubis - Quartier Aviation
+          4	Rue Abdi Hassan Liban
+          1	Rue Admiral Courbet شارع أمير البحر كوربي
+          1	Rue Ali Coubéche شارع علي كوبيش
+          1	Rue Bernard شارع برنار
+          2	Rue Bourhan Bey شارع برهان باي
+          1	Rue Cap. Briard شارع رأس بريارد
+          1	Rue Cap. Quinsac شارع رأس كوينساك
+          1	Rue Colmette شارع كالميت
+          1	Rue Curie شارع كوري
+          1	Rue Denis de Rivoye شارع دني لوريفوي
+          1	Rue Gamal Abdel Nasser شارع جمال عبد الناص�
+          1	Rue Isfahan شارع أصفهان
+          1	Rue Jean Jaurès شارع جان جوريس
+          1	Rue Kairen Kayad Wador شارع كايرين كاياد و�
+          1	Rue Marchand شارع التجاري
+          1	Rue Mohamed Dileita Chehem شارع محمد دلتا شي�
+          1	Rue Nazemi شارع ناظمي
+          1	Rue Pasteur شارع باستور
+          3	Rue Prof. Roux شارع الأستاذ رو
+          1	Rue d'Addis Ababa شارع أديس أبابا
+          1	Rue d'Athènes شارع أثينا
+          2	Rue d'Éthiopie شارع إثيوبيا
+          2	Rue de Bender شارع بندر
+          2	Rue de Bir Hakeim شارع بئر حكيم
+          1	Rue de Bruxelles شارع بروكسل
+          2	Rue de Dakar شارع داكار
+          1	Rue de Djibouti شارع جيبوتي
+          1	Rue de Foucauld شارع فوكو
+          1	Rue de Genève شارع جنيف
+          1	Rue de Genéve شارع جينيف
+          1	Rue de Houmed Loita شارع قصر العيسيون
+          1	Rue de Kampala شارع كمبالا
+          1	Rue de Kartoum شارع الخرطوم
+          1	Rue de La Plaine شارع السهل
+          2	Rue de Londres شارع لندن
+          1	Rue de Madrid شارع مدريد
+          1	Rue de Marchand شارع التجاري
+          2	Rue de Marseille شارع مرسيليا
+          1	Rue de Mogadicio شارع مقديشو
+          1	Rue de Moscou شارع موسكو
+          1	Rue de Mosquee شارع مسجد
+          1	Rue de Nairobi شارع نيروبي
+          1	Rue de Paris شارع باريس
+          1	Rue de Rome شارع روما
+          4	Rue de Venise شارع في مدينة البندقية
+          2	Rue de Verdun شارع فردان
+          1	Rue de Zeila شارع زيلع
+          1	Rue de la Paix شارع السلام
+          1	Runfa Trade
+          1	Réservoire de l'ONEAD
+          1	Résidence de l'ambassade de France إقامة السفار
+          1	SAIDATI
+          1	SALLE DE PROFESSEUR
+          1	SALT Ivestment S.A.
+          1	SDC Group
+          1	SDVK
+          1	SVAMC United Colors
+          1	Saba Bank بنك سابا
+          1	Saba Islamic Bank بنك سابا اإلسالمي
+          1	Sables Blancs
+          1	Sadiega Aéroport
+          1	Sagallo
+          1	Salaam African Bank بنك السلام الأفريقي
+          1	Salaam tower برج السلام
+          1	Salt Mine
+          1	Sangoyta
+          1	Saïdati parfumerie سيداتي العطور
+          1	Sector 0
+          2	Sector 1
+          2	Sector 2
+          2	Sector 3
+          2	Sector 4
+          1	Sector 5
+          1	Sector 6
+          1	Sector 7
+          1	Sector 8
+          1	Service de santé des armées
+          1	Service hospitalier Tadjourah
+          1	Service topographiaue ADR خدمة طبوغرافيا أد�
+          1	Seven Brothers Islands
+          1	Sham Coiffure
+          1	Sharaf Hotel
+          1	Shinile
+          1	Shoe Express
+          1	Sidiha Menguêla
+          1	Sisley
+          2	Sista سيست
+          1	Snack Time
+          1	Societe immobiliere
+          1	Somali
+          1	Somali - Afar
+          1	Soomaaliya الصومال
+          1	Sous-préfecture de Dorra
+          1	Stade de Ville ملعب المدينة
+          1	Star Coffee
+          1	Storage area منطقة تخزين
+          1	Synergies Luminaires
+          1	Synergies التآزر
+          1	Sécurité Max
+          1	TC12
+          1	TC13
+          1	Tadjoura
+          1	Tadjoura Airport مطار تاجورة
+          1	Tadjoura تاجورة
+          1	Tadjourah terminal
+          2	Tadjourah تاجورة
+          1	Tani Boulaos
+          1	Tech Pro
+          1	Terrain de Football
+          1	Terrain de foot
+          1	The Spot Coffee
+          1	Théatre des Salines المسرح المالحة
+          1	Tolka
+          1	Total Outils;Ti'kado
+          1	Toyota Marill تويوتا ماريل
+          1	Toûrka Djalelo
+          1	Treasure Bay Casino كازينو الكنز خليج
+          1	Tribune des Officiels
+          1	UCIG
+          1	UNFD قوة الطوارئ التابعة للأمم الم
+          1	UNICEF يونيسف
+          1	UNIVERSITE DE DJIBOUTI (SITE3
+          1	UPS يو بي إس
+          1	Unique Home
+          1	Unité et Paix الوحدة والسلام
+          2	Université de Djibouti جامعة جيبوتي
+          1	Unknown Hamlet
+          2	Urban Kitchen
+          1	Vap's
+          1	Video-club
+          1	Vietnam Restaurant مطعم فيتنام
+          1	Volcan Aouadda (volcan éteint)
+          1	Volcan Kammourta
+          1	Wadar Sola
+          1	Waiting Zone منطقة الانتظار
+          1	Wari Dadda`
+          1	Wassel Meubles الأثاث واسل
+          1	Wassel, s.a.r.l. واسل
+          1	Western Union ويسترن يونيون
+          1	Willo ويلو
+          1	Zen Club نادي زن
+          1	Zeylac زيلع‎‎
+          1	Zone 1
+          1	Zone de jzux
+          1	Zone industrielle Sud المنطقة الصناعية جن�
+          1	`Allalli Koma
+          1	`Amayto Dabba
+          1	`Andiddo Mallo
+          1	`Aramouda
+          1	`Arba Dabba
+          1	`Asa Gera
+          1	`Askala
+          1	`Aslous
+          1	`Inin
+          1	`Ounda Birra`Into
+          1	`Ounda Doho
+          1	`Ounda Ededle
+          1	`Ounda Fedda
+          1	administration
+          1	administration de FLLSH
+          1	barwaqo 2
+          2	batiment de pompier
+          1	batiment بناء
+          1	boulangerie wahle-daba
+          1	boutique
+          1	bureau du directeur
+          1	cdc wahle daba
+          1	central electrique
+          1	champ de tir de KORON نطاق الرماية كرون
+          1	champ de tir de MIRYAM نطاق الرماية مريم
+          1	city holl
+          1	college barwako
+          1	collège de biokeyd كلية بيوكيد
+          1	cybercafé
+          1	former N5
+          1	former railway station Chebele
+          1	former railway station Daasbiyo
+          1	former railway station Goubetto
+          1	former railway station Guelile
+          1	former railway station Holl-Holl
+          1	lac-abbé
+          1	maché wahle
+          1	magasin numérique 2 متجر رقمي 2
+          1	makha petit paris ماخا بيتت باريس
+          1	mosqueé
+          1	mosqué Aicha
+          1	office area complex مكتب منطقة معقدة
+          1	open air cinema سينما الهواء الطلق
+          1	photo caha
+          1	port pétrolier ميناء النفط
+          1	poste de police
+          1	residential area منطقة سكنية
+          1	restaurant yemenite
+          1	roi fahad
+          1	route national n1 / الطريق الوطني رقم 1
+          1	salle de professeur
+          1	service de telecom خدمة الاتصالات
+          1	station
+          1	superette hodan1
+          1	telecom الاتصالات
+          1	terrain de Football appelé '"teeranka case" (terrain rouge
+          1	terrain de foot ملعب لكرة القدم
+          1	tulyani
+          1	École 1° / مدرسة رقم 1
+          1	École Dolto مدرسة دولتو
+          1	École Primaire D'al Hourya مدرسة الحورية ال�
+          1	École de Guelleh Batal مدرسة غيله بتال
+          1	École de la Salle مدرسة القاعة
+          1	École du Stade مدرسة الملعب
+          1	École quartier 7 / مدرسة حي ٧
+          1	Île Moucha جزيرة موشا
+          1	Îles du Diable
+          1	Îlot du Héron جزيرة البلشون
+          2	école islamique
+          3	أئبولي Aïboli
+          1	أرتا
+          1	أرتا Arta
+          1	أردو
+          1	أس درة
+          1	أسا غايلا Assa Gueyla
+          1	أسا هوغود Assa Hougoub
+          3	أسامو - أدى على Assamo - Ali Addé
+          2	أسكوميتو
+          1	أمبابو
+          1	أمبولي Ambouli
+          1	أندالي Andoli
+          1	أوبوك Obock
+          1	إتكي Itki
+          1	إغالو
+          1	إيرولاف
+          1	الخطوط الجوية اليمنية
+          1	السابقة عسكري الإيطالية Ancien poste m
+          6	السكك الحديدية أديس أبابا - جيبو�
+          2	السكك الحديدية الأثيوبية جيبوتي
+          1	السوق الفرنسي
+          2	الطرق خور أنغار - لأسا Piste Khor Angar - 
+          1	الطريق أوبوك -وادي Piste Obock - Ouaddi
+          5	الطريق الوطني رقم 1
+          2	الطريق الوطني رقم 1 السابق
+          7	الطريق الوطني رقم 3
+          1	الطريق الوطني رقم 3 السابق
+          6	الطريق الوطني ١
+          1	الطريق الوطني ٣
+          1	الطريق بنكوالي Piste de Bankoualé
+          2	الطريق خور أنغار - لأسا Piste Khor Angar 
+          1	الطريق وادي Piste d'Ouadi
+          1	العمليات الجوية
+          1	الكورنيش منتزه
+          1	المسجد المركزي يوبوكي
+          1	المعسكر العسكري الفرنسي
+          1	اليمن
+          1	باب المندب
+          1	بالهو Balho
+          1	بحيرة غربة
+          1	بركة التأمين
+          1	بلول دودوب
+          1	بنك شرق أفريقيا
+          1	بنكوالي
+          1	بنكوالي Bankoualé
+          1	بولعوس Boulaos
+          1	بويا Bouyya
+          1	بيت بونا
+          1	بيسيديرو Bissidito
+          1	تاجورة
+          1	تاجورة Tadjourah
+          1	تعز
+          1	تغار
+          1	تيو
+          2	جادة 10
+          2	جادة 12
+          1	جادة 14
+          1	جادة 16
+          1	جادة 2
+          1	جادة 20
+          1	جادة 21
+          3	جادة 22
+          1	جادة 23
+          2	جادة 24
+          1	جادة 25
+          2	جادة 6
+          2	جادة 8
+          2	جادة 9
+          1	جزيرة موشا
+          1	جمهورية أرض الصومال Jamhuuriyadda Soomaali
+          1	جيبوتي (مخطط)
+          1	جيبوتي - إريتريا
+          2	جيبوتي - الصومال
+          1	حانة
+          1	حظائر طائرات الهليكوبتر/طائرة ب�
+          1	حوض مدغول الشرق Bassin du Madgoul (Est)
+          1	حوض مدغول الغرب Bassin du Madgoul (Ouest)
+          4	خليج تاجورة Gulf of Tadjoura
+          1	خور أنغار
+          1	خور أنغار Khôr ‘Angar
+          1	خيام الصلاة
+          1	دادتو Daddato
+          1	داسبييو Daasbiyo
+          1	داغويرو
+          1	داميرجوك Damerdjog
+          3	درب بحيرة آبي Piste du Lac Abbé
+          1	دنان
+          4	دوار
+          1	دوار الطريق الوطني رقم 1
+          1	دودا
+          1	دي
+          1	ديبن
+          1	ديتيلو
+          1	ديوان الزكاة
+          1	راندا
+          2	راندا Randa
+          1	ريتبا Ripta
+          1	ساحة طوكيو
+          1	سانكال
+          1	سفارة فرنسا
+         41	سكة حديد أديس أبابا - جيبوتي
+          1	سوق الرياض المركزي
+          1	شارع 10
+          1	شارع 11
+          1	شارع 12
+          1	شارع 13
+          1	شارع 14
+          1	شارع 16
+          1	شارع 17
+          1	شارع 19
+          6	شارع 20
+          1	شارع 21
+          3	شارع 22
+          5	شارع 23
+          5	شارع 24
+          7	شارع 25
+          4	شارع 26
+          2	شارع 27
+          2	شارع 3
+          3	شارع 4
+          1	شارع 5
+          1	شارع 6
+          2	شارع 7
+          1	شارع 8
+          2	شارع 9
+          1	شارع 9 - جادة 23
+          2	شارع الأدميرال برنارد
+          1	شارع الأستاذ رو
+          2	شارع الجمهورية
+          2	شارع الجنرال كالييني
+          1	شارع بئر حكيم
+          1	شارع بندر
+          1	شارع بونور
+          2	شارع جمال عبد الناصر
+          1	شارع جينيف
+          2	شارع دني لوريفوي
+          1	شارع روزفلت
+          2	شارع فرانشيت دسبيراي
+          1	شارع قصر العيسيون
+          2	شارع محمد دلتا شيشم
+          1	شارع موسكو
+          4	شارع نيلسون مانديلا
+          1	شاطئ دانكاللو
+          1	شبيلي Chebele
+          1	شمال بلبالا الالتفافية
+          2	صالة الألعاب الرياضية كمبينسكي �
+         13	ط و ١ السابق
+          3	طراق وطني ١٤
+          9	طراق وطني ٩
+          1	طريق البندقية
+          1	طريق القيلولة
+          3	طريق وطني ١١
+          7	طريق وطني ٤
+          1	طريق وطني ٧
+          1	طريق وطني ٩
+          1	طريق وطني ٩ / Route Nationale 9
+          1	عدل ‎‎ Awdal
+          1	عسل سهيل للعسل اليمني والإثيوبي 
+          2	علي صبيح - طريق الحدود الإثيوبي
+          1	علي صبيح - طريق الحدود الإثيوبي Al
+          1	علي صبيح Ali Sabieh
+          1	عماره سكنيه شقق مفروشه
+          1	غارابتيسان Garabtisan
+          1	غارنلهي Garenlhé
+          1	غربة الخراب Ghoubet Kharab
+          1	غليل Guelile
+          1	غني كما Ginni Kôma
+          1	غوبتو Goubetto
+          1	غورابو Gour A'Bbous Village
+          1	غيراري Gaoura
+          1	فغال
+          1	فندق
+          1	فندق المدينة
+          1	فندق لو بالماراي
+          1	قاعدة البحرية الصينية في جيبوتي
+          1	قرية أدى على
+          1	قطرة ماء كولايو Point d'eau de Koulayyou
+          1	كافي نت
+          1	كبح غارابتيسان Retenue de Garabitsan
+          1	كلية تشارلز دي فوكولد
+          1	كنيسة الحرية الدائمة
+          1	كورتو المالطية
+          1	كوسور
+          1	كولايو
+          1	كيستر Guistir
+          1	لأسا Lahassa
+          1	لاوياعادو
+          1	لويادا
+          1	مالاهو Malaho
+          1	مجمع الرحمة التنموي
+          1	محطة الباص علي صبيح
+          1	محطة السكة الحديد السابقة علي صب
+          1	محطة سكة حديد جيبوتي-ناقاد
+          1	محطة علي صبيح
+          2	محطة وقود
+          1	مخيم بحيرة آبي Campement du Lac Abbé
+          1	مخيم جيبوتي العسكري
+          2	مدرسة
+          1	مدرسة زي بي إس
+          1	مدغول
+          1	مديهو Medeho
+          1	مركز لوجستي المنطقة الحرة في جيب
+          1	مسار أدائلو
+          1	مسار أدائلو - أسا غيلا
+          1	مسار أردوكوبا
+          1	مسار إتكي Piste d'Itki
+          1	مسار درة-بالهو / Piste Dorra - Balho
+          4	مسار ديتيلو
+          1	مسار غاروبا
+          2	مسار كولايو Piste de Koulayyou
+          1	مسار مارغويتا
+          1	مسار وع Piste de Ouêa
+          1	مستشفى
+          1	مستشفى الرحمة
+          1	مستشفى بلتيير العام
+          1	مستشفى علي صبيح
+         13	مسجد
+          1	مسجد الشيخ إسحاق
+          1	مسجد تاجورة المركزي
+          1	مسجد تاجورة‎
+          1	مسجد جامع
+          1	مسجد علي صبيح
+          1	مسجد يوبوكي
+          1	مسرسة
+          1	مطار جيبوتي الدولي
+          2	مطار درة
+          1	مطار شبيلي Chabelley Airport
+          1	مطار شبيلي Chebele Airport
+          1	مطار علي صبيح
+          1	مطار هيركال Herkale Airport
+          1	مطعم
+          1	مطعم باشا يمني
+          1	مطعم سينغ الهندي
+          1	مطعم وادي تهامه
+          1	مقهى الفاصوليا الخضراء
+          1	مكان عبادة
+          1	مكتب اتصال صوماليلاند
+          1	مكتب الاتصال في صوماليلاند
+          1	مكتب البريد
+          1	مكتب الهجرة
+          1	ملاهي مائية
+          1	ملتو طريق وطني ١
+          1	منطقة البحر الأحمر الجنوب ዞባ ደ�
+          1	مودو Mouddo
+          1	موسى علي
+          1	مول هولة Moulhoulé
+          1	مولود Moulud Village
+          1	نفذ الوقت
+          1	نقطة المراقب كرون
+          1	نهج ١٢
+          1	نهج ١٣
+          1	نهج ١٤
+          1	نهج ١٥
+          1	نهج ٤
+          2	نهج ٨
+          2	هضبة المرابط
+          1	وادي Ouadi
+          1	وزارة التربية والتعليم
+          1	وع Ouêa
+          1	وع Weya
+          4	ويما Ouéima
+          1	يوبوكي
+          2	يوبوكي Yoboki
+          1	يوبوكي ‎‎ Yoboki
+          4	کؤتا بؤیا
+          1	ኢትዮጵያ
+          1	ኤርትራ إرتريا
+          1	‘Ounḏa Kômaytou

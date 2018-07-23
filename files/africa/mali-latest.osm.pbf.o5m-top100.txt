@@ -1,0 +1,100 @@
+        135	Trans-Sahelian Highway
+        133	Mosquée
+        127	Hameau
+        113	Arrêt Sotrama
+        112	House
+        111	bati
+         84	Orange Money
+         79	home
+         76	resident area
+         71	Niger
+         69	Residential
+         67	Route Kati - Kita
+         64	Piste rurale
+         62	Boutique
+         62	Arret Sotrama
+         61	rectangular building
+         61	Route Koulikoro-Banamba
+         59	Rivière
+         58	Casa
+         43	arbre
+         39	rectangular building with earth roof
+         37	RN17
+         36	Le Niger
+         36	?
+         35	Mali - Burkina Faso
+         34	Cours d'eau
+         31	Route de Ségou
+         29	Feu Tricolore
+         26	RN6
+         24	Hut
+         24	Bafing
+         23	resitencielle
+         23	Le Baoulé
+         21	Building
+         21	Bani
+         20	Puits Traditionnel
+         20	Marché
+         20	Le Banifing
+         19	Puits à grand diametre
+         19	Ecobank
+         18	building
+         18	Cimetière
+         18	BNDA
+         17	sentier
+         17	construction
+         17	Rue Koné Bourama
+         17	Forage
+         17	Atelier de Couture
+         17	.
+         16	NIME
+         16	Falémé
+         16	Avenue de l'O.U.A.
+         15	Quincaillerie
+         15	Boulangerie
+         15	Balé
+         14	Track
+         14	Round Building with Straw roof
+         14	Plaine
+         14	Jardin
+         14	Avenue Al Qoods - Route de Koulikoro
+         13	village
+         13	Total
+         13	La route de la Saoura
+         13	CSCOM
+         12	track
+         12	RN16
+         12	Mare
+         12	Mali - موريتانيا
+         12	Mali - Sénégal
+         12	Ecole primaire
+         12	Coopérative
+         12	Baoulé
+         12	Alimentation
+         11	Rue 266
+         11	Orange money
+         11	Mali - Guinée
+         11	Madina
+         11	Ebenesterie
+         10	hameau
+         10	building 1
+         10	Station Total
+         10	Mare/Marigot
+         10	Feldweg
+         10	Ecole
+          9	divers
+          9	Tree
+          9	Tata
+          9	Sirakoro
+          9	Rue 331
+          9	Rue 18
+          9	Route de l'Aéroport
+          9	Rotisserie
+          9	Pharmacie
+          9	Moulin
+          9	Le Bakoye
+          9	Koba
+          9	Gendarmerie
+          9	Fontaine Publique
+          9	Ecole fondamentale
+          9	Dogon Round

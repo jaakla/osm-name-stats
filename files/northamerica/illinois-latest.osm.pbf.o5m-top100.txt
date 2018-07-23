@@ -1,0 +1,100 @@
+        819	Main Street
+        520	Geneva Subdivision
+        504	Chillicothe Subdivision
+        481	McDonald's
+        457	South Main Street
+        454	West Main Street
+        449	North Main Street
+        430	2nd Street
+        424	North Avenue
+        412	Tri-State Tollway
+        404	Chicago Subdivision
+        402	Oak Street
+        397	Washington Street
+        396	Elm Street
+        392	Walgreens
+        387	1st Street
+        384	Harvard Subdivision
+        383	Walnut Street
+        370	East Main Street
+        368	3rd Street
+        352	West Cermak Road
+        349	South Western Avenue
+        347	4th Street
+        338	South Halsted Street
+        320	South Ashland Avenue
+        320	Maple Street
+        317	Kenosha Subdivision
+        309	Freeport Subdivision
+        308	Lake Cook Road
+        301	South Cicero Avenue
+        301	North Milwaukee Avenue
+        298	Subway
+        284	South Street
+        280	Harlem Avenue
+        276	Golf Road
+        267	South Pulaski Road
+        267	Shell
+        265	South State Street
+        262	North Street
+        256	Church Street
+        255	Peoria Subdivision
+        252	North Western Avenue
+        248	Pine Street
+        247	5th Street
+        244	West North Avenue
+        244	Madison Street
+        240	Frontage Road
+        239	Lincoln Avenue
+        237	West 95th Street
+        235	West Irving Park Road
+        234	West 87th Street
+        233	BP
+        231	Ronald Reagan Memorial Tollway
+        224	Railroad Street
+        223	North Ashland Avenue
+        222	La Moine River
+        219	Park Avenue
+        218	North Lincoln Avenue
+        217	Starbucks
+        216	Jefferson Street
+        215	West Grand Avenue
+        214	State Street
+        212	Chestnut Street
+        209	West Street
+        203	North 2nd Street
+        196	Center Street
+        195	West Roosevelt Road
+        195	West Algonquin Road
+        193	Lincoln Street
+        193	6th Street
+        192	West Washington Street
+        192	Jane Addams Memorial Tollway
+        192	East Washington Street
+        191	Lake Street
+        188	West Madison Street
+        187	Willow Road
+        187	Mobil
+        186	1st Avenue
+        185	South Archer Avenue
+        185	Burger King
+        182	Locust Street
+        181	Pedway
+        180	7th Street
+        178	West Dempster Street
+        177	Oakton Street
+        177	East Ogden Avenue
+        177	Adams Street
+        175	8th Street
+        173	Park Street
+        173	Maple Avenue
+        173	First Baptist Church
+        172	T7
+        172	North Walnut Street
+        172	East Street
+        170	South Kedzie Avenue
+        170	Roosevelt Road
+        170	North Side Main Line
+        170	Mill Street
+        169	West Lake Street
+        169	T9

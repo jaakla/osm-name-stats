@@ -1,0 +1,100 @@
+         52	Nyabarongo
+         50	house
+         44	RD Congo - Rwanda
+         39	Cyahinda Secondary School
+         37	Border Burundi - Rwanda
+         31	Akanyaru
+         27	Tanzania - Rwanda
+         24	Ngoma
+         22	Kobil
+         22	Akagera
+         21	KN 5 Rd
+         18	Residential
+         17	House
+         16	convent
+         15	Base
+         14	Muvumba
+         14	KN 5 Road
+         14	Group Scolaire Muhambara
+         12	KN 2 Avenue
+         12	Gatare
+         12	Border Rusizi - Nyamasheke
+         12	Bank of Kigali
+         11	Sonatubes
+         11	Mulindi
+         11	Migina
+         11	KN 3 Rd
+         10	Rukarara
+         10	Nyakagezi
+         10	Kigali-Gatuna Road
+         10	Classrooms
+         10	Border Iburengerazuba - Amajyepfo
+          9	Sebeya
+          9	Satinsyi
+          9	Rwagitugasa
+          9	Mwange
+          9	Mukungwa
+          9	Kisaro
+          9	Kabare School
+          9	KN7 Road
+          9	KN 8 Av
+          9	KG 7 Av
+          9	Giciye
+          8	Save
+          8	Place de l'Unité Nationale
+          8	Mass Grave
+          8	Kicukiro Health Centre
+          8	KN 1 Rd
+          8	KK 31 Av
+          8	Bahimba
+          7	Unknown
+          7	SP
+          7	Rusine
+          7	Remera
+          7	Nyagisenyi
+          7	Mushogoro
+          7	Murambi
+          7	Mukunguri
+          7	Karazanga
+          7	KG 501 St
+          7	KG 11 Av
+          7	Ecobank
+          7	Cyohoha
+          6	Ruzizi
+          6	Rugazi
+          6	Nyamata - Rilima
+          6	Nkora
+          6	Muyanza
+          6	Musanze
+          6	Kayihenda
+          6	Karambi
+          6	Kamicanz
+          6	KN 3 Avenue
+          6	KK 4 Ave
+          6	KK 104 St
+          6	Jari
+          6	Giswi
+          6	Engen
+          6	Cyonyonyo
+          6	Cyanika
+          6	Buyanja tertiary road
+          6	Bulimba
+          5	Track
+          5	Streets Ahead Childrens Centre
+          5	Rwakaganza
+          5	Ruyenzi
+          5	Ruvomo
+          5	Rusumo
+          5	Rusizi
+          5	Rusasa
+          5	Rukomo
+          5	Ruhango
+          5	Rugozi
+          5	Ruderanigozi
+          5	Rubona
+          5	Rice
+          5	Pfunda
+          5	Nyanza
+          5	National Speciality Coffee Quality Laboratory & Training Ce
+          5	Mwogo
+          5	Mwesa

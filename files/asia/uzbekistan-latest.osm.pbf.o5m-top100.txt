@@ -1,0 +1,100 @@
+        253	Аптека
+        199	Kichik Halqa yo'li
+        171	Яблоня
+        142	Toshkent halqa avtomobil yo'li
+        140	Магазин
+        133	Мусорка
+        122	Ташкенская железная дорога
+        108	Sirdaryo
+         98	Zakash
+         98	Toshkent-Jizzax road
+         93	1
+         87	4
+         82	Abdulla Qodiriy ko'chasi
+         81	Amir Temur shoh ko'chasi
+         77	2
+         76	Toshkent-Guliston / Jizzax
+         75	3
+         72	Автомойка
+         71	Mustaqillik ko'chasi
+         71	Chirciq
+         70	O‘zbekiston Respublikasi Prezidentining Xalq qabulxonalar
+         69	7
+         67	9
+         67	10
+         66	13
+         65	Zargarlik ko'chasi
+         65	8
+         64	Грунтовка
+         64	Jizzax-Guliston road
+         62	Olma-Ota - Termiz avtotrassasi
+         62	6
+         62	5
+         62	11
+         61	Nurafshon aylanma ko'chasi
+         60	14
+         59	АГЗС
+         58	Mini Market
+         58	17
+         56	Mustaqillik shoh ko'chasi
+         56	16
+         55	Карасу (правая)
+         55	Muqimiy ko'chasi
+         54	R-C
+         54	Ohangaron
+         54	15
+         54	12
+         52	Салар
+         52	Метан
+         52	18
+         51	Бозсу
+         50	M39
+         50	Islom Karimov ko'chasi
+         49	Стоматология
+         49	Минимаркет
+         48	Amir Temur ko'chasi
+         48	19
+         46	Shota Rustaveli ko'chasi
+         46	Samarkand-Qarshi
+         46	23
+         45	Buyuk Ipak Yo'li ko'chasi
+         45	Anhor
+         44	Кураминский хребет
+         44	Детский сад
+         44	Nukus ko'chasi
+         44	Mirzo Ulug'bek shoh ko'chasi
+         44	Amudaryo
+         43	Акташсай
+         43	UzbekNefteGaz
+         42	Столовая
+         42	Tashkent-Samarqand - Termez
+         42	Alisher Navoiy ko'chasi
+         41	Каракамыш
+         41	Вулканизация
+         41	Mahtumquli ko'chasi
+         41	Farg'ona Yo'li
+         41	21
+         40	Автосервис
+         40	Kukcha Darvoza ko'chasi
+         39	Shahrisabz ko'chasi
+         39	Bunyodkor shoh ko'chasi
+         39	20
+         38	Паркентский Магистральный кана�
+         37	улица Узбекистанская
+         37	Guliston
+         36	Jizzax-Samarqand
+         36	Durmon yo'li
+         36	Border Uzbekistan - Kazakhstan
+         35	Поликлиника
+         35	Мини Маркет
+         35	Border Uzbekistan - Tajikistan
+         35	22
+         34	Mirzo Ulug'bek ko'chasi
+         33	Bogishamol ko'chasi
+         33	Bobur ko'chasi
+         33	30
+         33	26
+         32	Стан
+         32	Автобусная остановка
+         32	Toshkent shoh ko'chasi
+         32	Taras Shevchenko ko'chasi

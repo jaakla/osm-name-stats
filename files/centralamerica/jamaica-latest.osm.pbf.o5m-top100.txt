@@ -1,0 +1,100 @@
+        123	Northern Coastal Highway
+         48	PJ Patterson Highway
+         47	Rubis
+         46	Scotiabank
+         45	Texaco
+         44	Total
+         39	Spanish Town Road
+         38	Marcus Garvey Drive
+         35	National Commercial Bank
+         35	KFC
+         34	Washington Boulevard
+         33	Edward Seaga Highway
+         33	Digicel
+         32	Juici Patties
+         29	Main Street
+         29	Beltline Road
+         28	Constant Spring Road
+         27	Street light needed
+         27	A4
+         25	Municipal Boulevard
+         24	Sir Alexander Bustamante Highway
+         24	King Street
+         24	Burger King
+         23	Red Hills Road
+         23	Nelson Mandela Highway
+         22	Old Hope Road
+         21	Howard Cooke Boulevard
+         20	Shop
+         20	Port Henderson Road
+         19	Tastee
+         19	Molynes Road
+         19	George Lee Boulevard
+         18	Old Harbour Road
+         18	NCB
+         18	Barbican Road
+         17	Longville Boulevard
+         17	Church Street
+         16	Oxford Road
+         16	Courts
+         15	Wellington Street
+         15	Orange Street
+         15	Market Street
+         15	East King's House Road
+         15	Arg Byfield Highway
+         15	A2
+         14	Yallahs River
+         14	West Street
+         14	Spanish Town Bypass
+         14	Petcom
+         14	Passage Fort Drive
+         14	Island Grill
+         14	East Avenue
+         14	Beckford Street
+         14	Barnett Street
+         13	Western Union
+         13	Trafalgar Road
+         13	Skip needed
+         13	Hibiscus Drive
+         12	street light needed
+         12	Singer
+         12	Harbour Street
+         12	East Street
+         12	Bar
+         12	August Town Road
+         11	Willow Way
+         11	Total Gas Station
+         11	Tom Redcam Drive
+         11	North Avenue
+         11	Megamart Parking Lot
+         11	Jamaica Bobsleigh
+         11	Hagley Park Road
+         11	Airport Road
+         10	Water Lane
+         10	Sunset Drive
+         10	Sports Bar
+         10	Southern Cross Boulevard
+         10	Residents
+         10	Pizza Hut
+         10	Pechon Street
+         10	Nelson Street
+         10	Mother's
+         10	Hope Road
+         10	Epping
+         10	Central High School
+          9	St Johns Road
+          9	Sangster's Book Store
+          9	Sagicor Bank
+          9	Park Avenue
+          9	Mavis Bank Road
+          9	Mahoe Drive
+          9	Light post with transformer
+          9	Hill Run Road
+          9	High Street
+          9	Hellshire Main Road
+          9	Half Way Tree Road
+          9	Dyke Road
+          9	Central Avenue
+          9	Cedar Avenue
+          8	skip needed
+          8	shop

@@ -1,0 +1,100 @@
+       1179	Autoroute Est-Ouest الطريق السيار شرق-غرب
+        347	Trans-Sahara
+        346	Mosquée
+        322	مسجد
+        273	Bureau de poste
+        263	طريق الساورة
+        229	CEM
+        210	Ecole
+        204	Pharmacie
+        176	Epicerie
+        144	Lycée
+        131	Direction des Foret
+        127	Sûreté urbaine
+        127	CFPA
+        124	Première Rocade Sud
+        121	الطريق السيار شرق غرب
+        121	Polyclinique
+        116	Gendarmerie
+        116	APC
+        113	مقهى
+        108	Cafeteria
+        105	Voie rapide Batna-Biskra
+         99	صيدلية
+         96	Ecole primaire
+         96	Café
+         90	Stade
+         86	Oliviers
+         84	Deuxième Rocade Sud
+         84	Boulangerie
+         83	piste
+         78	Station Service
+         78	Rocade Nord
+         77	Unité de protection civile
+         75	Rue Aïn Sheikh -عين الشيخ-
+         75	CNAS
+         71	palmiers
+         71	Voie Rapide Skikda-El Harrouch
+         71	Moroccan Security Wall
+         70	Sonelgaz
+         70	Boucherie
+         66	Marché
+         66	Cimetière
+         65	Voie Rapide Batna - Constantine
+         65	Ferme
+         64	Chemin de fer Méditerranée-Niger
+         63	Maison de jeunes
+         62	Parking
+         61	Route de l'aéroport طريق المطار
+         61	Gendarmerie Nationale
+         60	Supérette
+         60	Gendarmerie nationale
+         59	BNA
+         58	Palmiers
+         58	La route de la Saoura طريق الساورة
+         58	ANP
+         57	مخبزة
+         56	Unité de Protection civile
+         55	pharmacie
+         55	Rocade Ouest
+         55	Ecole Primaire
+         54	CNEP
+         53	ٌRocade ferroviaire
+         53	Quincaillerie
+         52	الدرك الوطني
+         52	Police
+         52	Dispensaire
+         51	Rocade Est
+         50	Société Générale
+         50	Protection civile
+         50	Primaire
+         50	BADR
+         49	ecole primaire
+         49	Voie Rapide Setif - Bordj Bou Arreridj
+         49	Ooredoo
+         48	Mobilis
+         48	Cimetière chrétien
+         48	Boulevard Houari Boumediene
+         47	École primaire
+         47	Salle Omnisport
+         47	Gare routière
+         46	Restaurant
+         46	CPA
+         46	BNP Paribas
+         46	.
+         45	الحماية المدنية
+         45	Zone d'activités
+         45	Naftal
+         45	Dentiste
+         44	Algérie Télécom
+         43	Boulangerie Patisserie
+         43	Avenue de l'ALN
+         42	parking
+         42	Autoroute Est-Ouest
+         41	Pizzeria
+         41	Marché couvert
+         41	BDL
+         41	Alimentation générale
+         40	SAA
+         40	Route de Constantine
+         40	Kiosque

@@ -1,0 +1,100 @@
+        980	Lebuhraya Utara–Selatan
+        680	UOB
+        519	Shell
+        427	Petronas
+        393	7-Eleven
+        323	KFC
+        304	Pan-Island Expressway
+        302	Lebuhraya Pantai Timur
+        297	KTM
+        269	Ayer Rajah Expressway
+        257	Petron
+        233	McDonald's
+        219	Surau
+        206	kanan
+        204	Caltex
+        195	kiri
+        181	Yio Chu Kang Road
+        178	Laluan Persekutuan 1
+        176	Upper Serangoon Road
+        161	Boon Lay Way
+        159	Bedok Reservoir Road
+        155	U-Turn
+        155	Lebuhraya Ipoh-Lumut
+        154	Maybank
+        147	Sembawang Road
+        144	TWY
+        142	Jalan Lingkaran Tengah 2
+        140	Pizza Hut
+        139	Jalan Besar
+        138	Starbucks
+        135	Lebuhraya Lingkaran Penyuraian Trafik Kajang
+        132	Lorong Motosikal Lebuhraya Persekutuan
+        130	Jalan Buroh
+        126	Upper Thomson Road
+        124	Jalan Semenyih
+        123	Pioneer Road
+        122	Central Expressway
+        119	Punggol Road
+        119	7 Eleven
+        117	Jalan Gadong
+        116	Lebuhraya Damansara-Puchong
+        113	Lebuhraya Sultanah Bahiyah
+        111	Clementi Road
+        110	Thomson Road
+        109	Jalan Kluang route 50
+        109	99 Speedmart
+        104	Holland Road
+        102	Jalan Ahmad Ibrahim
+         99	Lebuhraya Sungai Besi
+         98	Lebuhraya Baru Pantai
+         97	Lebuhraya Tun Dr Lim Chong Eu
+         96	เขตชายแดนพม่า-ไทย
+         96	West Coast Road
+         95	Yishun Ring Road
+         95	Public Bank
+         95	East Coast Parkway
+         95	Braddell Road
+         93	Punggol Central
+         93	Car Park
+         92	Alexandra Road
+         92	Admiralty Road West
+         91	Queensway
+         91	Bukit Timah Road
+         90	Subway
+         90	BHPetrol
+         89	Pasir Panjang Road
+         89	Commonwealth Avenue West
+         88	Woodlands Road
+         88	Muara-Tutong Highway
+         88	Jalan Muara
+         88	Jalan Kuala Kangsar
+         87	West Coast Highway
+         87	Punggol Field
+         87	Giant
+         87	Bukit Timah Expressway
+         85	Jurong Town Hall Road
+         85	Jalan Bukit Merah
+         82	Tuas South Avenue 5
+         82	Masjid
+         81	Telok Blangah Road
+         79	Upper Changi Road East
+         79	River Valley Road
+         78	Pasir Ris Drive 1
+         78	Lebuhraya Koridor Guthrie
+         78	Ang Mo Kio Avenue 3
+         77	Tampines Expressway
+         77	Ang Mo Kio Avenue 5
+         76	Simei Street 1
+         76	Lower Delta Road
+         76	Lebuhraya Baru Lembah Klang
+         76	Jalan Tun Razak
+         76	Jalan Cheras
+         76	Guardian
+         75	Yishun Avenue 1
+         74	Tuas South Avenue 7
+         74	North South Line (NS)
+         73	Woodlands Avenue 7
+         73	Lebuhraya Utara–Selatan Hubungan Tengah
+         72	Jalan Tutong
+         72	Jalan Lencong Barat

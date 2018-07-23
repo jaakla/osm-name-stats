@@ -1,0 +1,100 @@
+        530	TBC
+        285	ER
+        134	Queens Road
+        108	NK
+         76	King's Highway
+         76	KEN
+         68	Cross Island Road
+         53	NMK
+         48	Dr sec
+         39	Kings Road
+         38	nR
+         36	garage
+         32	Hibiscus Highway
+         30	swimming pool
+         30	GARAGE
+         25	Yv
+         22	GQ
+         19	Garage
+         16	pool
+         16	Under Construction
+         16	Car Park
+         15	RNC
+         15	Lot 1 - Fiji Airways Hangar
+         14	Q
+         14	Naviadamu Road
+         14	Kings Highway
+         12	Pool
+         12	NVK
+         11	Lot 1
+         11	B/T
+         10	Sheraton villa
+         10	Lot 10
+         10	Cross Island Highway
+          9	Lot 5
+          9	Lot 2
+          9	Lot 12
+          8	Waimanu Road
+          8	Rifle Range Road
+          8	Lot 7
+          8	Lot 4
+          8	Jetty
+          8	ANZ
+          7	Wailoaloa
+          7	Suva Point Apartments
+          7	MSMPS
+          7	Lot 9
+          7	Lot 8
+          7	Lot 6
+          7	Lot 3
+          7	Lot 14
+          7	Lot 13
+          7	Logging track
+          7	Drasa Avenue
+          7	Domestic
+          7	A F L
+          6	carpark
+          6	Vitilevu Drive
+          6	T B C
+          6	Sheraton fiji
+          6	Savasi Island Bridge
+          6	Ratu Dovi Road
+          6	Private house
+          6	Princes Road
+          6	Nasoso Road
+          6	NT3
+          6	MH
+          6	Lot 11
+          6	Labasa River
+          6	Grantham Road
+          6	Edinburgh Drive
+          6	Car Parking
+          6	B/Q
+          5	tbc
+          5	residential driveway
+          5	lot 9
+          5	lot 6
+          5	lot 17
+          5	car park
+          5	Vuda Back Road
+          5	Vuci Road
+          5	Vitogo Parade
+          5	Villa
+          5	Total Service Station
+          5	Study Bure
+          5	Scott Street
+          5	SUGARCANE FIELD
+          5	Rups Big Bear
+          5	River Drive
+          5	Rental apartments
+          5	Parking Garage
+          5	PACE-SD
+          5	Northern Club Lautoka
+          5	Natewa Bay
+          5	Nadi Back Road
+          5	NT63
+          5	NT61
+          5	NT6
+          5	NT4
+          5	NT17
+          5	NT1

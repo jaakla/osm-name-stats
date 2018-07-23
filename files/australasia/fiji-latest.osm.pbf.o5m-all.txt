@@ -1,0 +1,7123 @@
+          1	 BSP ATM
+          1	 Curry House
+          1	 Deluxe
+          1	 Denawini
+          1	 Dr Omar
+          1	 Drakilagi
+          1	 Fiji Times 
+          1	 Garage
+          1	 Honey bee Hostal
+          1	 Kia Service 
+          1	 Lomaiviti
+          1	 Lomaji
+          1	 Mohammed Farook
+          1	 Muakubulau
+          1	 Nagadele
+          1	 Naivinivini 3
+          1	 Nakautoga
+          1	 Nameadare
+          1	 Naocolailai
+          1	 Naqwalia
+          1	 Nasova 
+          1	 Natualeka
+          1	 Natuvulevu
+          1	 Nausori
+          1	 Rararua
+          1	 Roromali
+          1	 Savusavu
+          1	 Sirilanka
+          1	 Smart eyes
+          1	 Tokyo
+          1	 Tualeka 2
+          1	 Vatunawanawa 
+          1	 Village Nurse Center 
+          1	 Vinod Patel Complete home & building 
+          1	 Vola
+          1	 Vunalolo
+          1	 Vunamaoli
+          1	 Wailevu
+          1	 Wainibu
+          1	 solanki brothers
+          1	 store room
+          1	 the warehouse
+          1	#135
+          1	014
+          1	018
+          1	092
+          1	093 tutorial building & ITS building
+          4	1
+          1	10
+          1	114
+          2	115
+          1	116
+          1	117
+          1	118
+          1	119
+          1	12
+          1	120
+          1	121
+          1	121/122
+          2	122
+          1	123
+          1	123/124
+          1	125/126
+          1	127
+          1	128
+          2	130
+          1	131
+          1	132
+          1	14/32
+          1	155
+          1	159
+          1	160
+          1	162
+          1	164
+          1	165
+          1	166
+          1	167
+          2	168
+          1	169
+          1	17
+          1	170
+          1	171
+          1	172
+          1	173
+          1	179
+          1	18
+          1	180
+          1	181
+          1	182
+          1	183
+          1	184
+          2	185
+          1	186
+          1	187
+          2	188
+          2	189
+          1	190
+          1	191
+          4	192
+          2	193
+          2	194
+          2	195
+          1	196
+          1	197
+          1	198
+          2	199
+          1	1F9
+          1	1st Hall
+          2	2
+          2	200
+          2	201
+          2	202
+          2	203
+          2	204
+          2	205
+          2	206
+          2	207
+          1	208
+          2	209
+          1	21
+          1	210
+          1	211
+          1	212
+          1	213
+          1	219
+          3	22
+          1	220
+          1	221
+          1	222
+          1	224
+          1	224/1
+          1	224/2
+          1	225
+          1	226
+          1	228
+          1	229
+          2	23
+          1	231
+          1	239
+          2	24
+          1	240
+          1	241
+          1	242
+          2	25
+          2	26
+          1	27
+          2	28
+          1	283
+          2	29
+          1	293
+          1	294
+          1	295 A/B
+          1	299
+          2	3
+          1	3 Kings Apartments
+          1	30
+          1	3001,3101,3102,3002
+          1	3005,3006,3105,3106,3205,3206
+          2	31
+          1	316
+          1	317
+          2	32
+          2	33
+          1	332 A/B
+          1	333 A/B
+          2	35
+          1	36
+          1	360
+          1	362
+          1	366
+          1	367
+          2	37
+          2	370
+          3	371
+          1	372
+          1	373
+          1	375
+          1	376
+          1	377
+          2	38
+          2	39
+          1	3A/3B
+          1	3D Internet Cafe
+          1	3d's Internet Cafe
+          2	4
+          3	40
+          1	4001,4002,4101,4102,4201,4202
+          1	4005,4006,4105,4106
+          1	4007,4008,4107,4108,4207,4208
+          2	41
+          2	42
+          3	43
+          4	44
+          1	44 Nepani Road
+          1	45
+          1	45/11
+          1	45/12
+          1	45/16
+          1	45/18
+          1	45/23
+          2	45/25
+          1	46
+          1	47/21
+          1	5
+          1	50
+          1	52
+          1	6
+          1	62
+          1	68
+          1	7
+          1	77
+          1	78
+          1	79
+          1	7th Heaven
+          1	8
+          1	80
+          1	81
+          1	9
+          1	959
+          1	A DVD Entertainment
+          7	A F L
+          1	A F L Compound
+          1	A F L WORKSHOP
+          1	A T S Parking Space
+          1	A T S ambroied Ltd
+          1	A-1 JEWELLERS
+          1	A. V. Ram Narayan Road
+          1	A.D Patel College
+          1	A.H Electrical
+          1	A.N Souvenirs
+          1	A1
+          1	A10
+          1	A11
+          1	A12
+          1	A13
+          1	A14
+          1	A15
+          1	A16
+          1	A17
+          1	A2
+          1	A3
+          1	A4
+          1	A5
+          1	A6
+          1	A7
+          1	A8
+          1	A9
+          1	ACD computer and internet
+          1	ADVD.NET
+          1	AFL BUILDING
+          1	AFL Compound
+          1	AFL GROUND 2
+          1	AFL Q/5
+          1	AFL QUARTERS
+          1	AFL Quaters 10
+          2	AFL Quaters 13
+          2	AFL Quaters 14
+          1	AFL Quaters 15
+          2	AFL Quaters 16
+          1	AFL Quaters 17
+          1	AFL Quaters 17 [Heaven]
+          2	AFL Quaters 18
+          1	AFL Quaters 19
+          1	AFL Quaters 2
+          1	AFL Quaters 21
+          2	AFL Quaters 3
+          1	AFL Quaters 4
+          1	AFL Quaters 6
+          1	AFL Quaters 9
+          1	AFL WORKSHOP
+          1	AFL quarters 1
+          1	AFL#1
+          1	AFL#2
+          1	AFL1
+          1	AFL10
+          1	AFL11
+          1	AFL12
+          1	AFL13
+          1	AFL14
+          1	AFL15
+          1	AFL2
+          1	AFL3
+          1	AFL4
+          1	AFL5
+          1	AFL6
+          1	AFL7
+          1	AFL8
+          1	AFL9
+          3	AFLQ
+          1	AFTERDARK NIGHT CLUB
+          1	AG BELAVU
+          1	AG INDIAN SERVICE
+          1	AG NAKURAKURA  CHURCH
+          1	AG SCHOOL
+          1	AGRICULTURE QUARTERS
+          1	AH Fashion
+          1	AIMS RENT-A-CAR
+          1	AIRPORT CLUB GROUND
+          1	AIRPORT MALL
+          1	ALF Garners Office
+          1	ALL Fasteners Fiji limited
+          1	AMIRA SHOWROOM
+          1	ANGLICAN CHURCH
+          8	ANZ
+          3	ANZ ATM
+          3	ANZ Bank
+          1	ANZ Bank Building
+          1	ANZ Samabula
+          2	ANZ Stadium
+          1	AOG Primary School
+          1	AOG Secondary School
+          1	APARTMENT
+          1	APT1
+          1	APTC MAIN OFFICE
+          1	ARCADE FASHION HOUSE
+          1	ASCO Motors
+          1	ATS Catering
+          1	ATS Engineering 
+          1	ATS Pacific
+          1	AVIS GROG POOL CENTER
+          1	AVON STORE
+          1	Abaca
+          1	Abaca Community Hall, Lautoka - Polling Venue
+          1	Abaca Road
+          1	Abaca Visitor Centre
+          1	Ackland Street
+          1	Acme Fashion 
+          2	Acme Garments
+          1	Adam Street
+          1	Adi Cakabou Secondary school
+          1	Adi Davila Drive
+          1	Adi Elaine Primary School
+          1	Adi Handicraft
+          1	Admiral Circle
+          1	Advanced Aviation Training Centre
+          2	Advanced Aviation Training School
+          1	Afl Quaters 20
+          1	Afl quarters #1
+          1	Afl quarters #2
+          1	Afl quarters #4
+          1	Afl quarters #5
+          1	Afl quaters
+          1	Ahmadiya Masjid
+          1	Ahmadiyya Muslim Secondary School
+          1	Ahmads barber shop
+          1	Ahmed's house of spices
+          1	AiMs
+          1	Aidney Road
+          1	Air NZ Office
+          1	Airport
+          1	Airport Fire Station
+          2	Airport Parking
+          1	Aiwa Street
+          1	Aiyub Khan
+          1	Ajit Singh
+          1	Ajodhya Prasad Road
+          1	Akuilau 1
+          1	Akuilau 2
+          1	Al's Bed and Breakfast
+          1	Al-Hand
+          1	Ala
+          1	Albert Lee Place
+          1	Albert Park
+          1	Albert Park Tennis Courts
+          1	Alexander Road
+          1	All Engineering (Fiji) Ltd
+          1	All Saints Secondary School
+          1	Alladatta Street
+          1	Allardyce Road
+          1	Alliance Française
+          1	Amarsee 
+          1	Amatai Street
+          1	Ambala Place
+          1	Ambler Place
+          3	Amended location to match photo
+          1	American Warehou2
+          1	Amerika houz
+          1	Amputch Street
+          1	Amra Street
+          1	Amrat LAl Kasanji
+          1	Amy Street
+          1	Anand Street
+          2	Anandale Apartments
+          1	Anchorage Beach Resort
+          1	Anderson Road
+          1	Andhra Place
+          1	Andrews Road
+          1	Andrews kindergarden
+          1	Angel Pawn Shop
+          1	Angels Gas
+          1	Anil J. Singh Lawyers
+          1	Animal Sanctuary
+          1	Anish House
+          1	Anita Jewellers
+          1	Ann's Internet Cafe
+          1	Anuve Ramayan Mandali
+          1	Apco store
+          1	Aqbalids store
+          1	Aqua trek padi Dive
+          1	Aquarius on the beach
+          1	Aquatic Centre Pool 1
+          1	Aquatic Centre Pool 2
+          1	Archie Seeto Street
+          2	Argo Garments
+          1	Argo Garments 
+          1	Argo Street
+          1	Arjun Jiva Street
+          1	Armstrong Street
+          1	Asco motors
+          1	Asesela's Residence
+          1	Ashasbhai Wholesalers
+          1	Ashika Karan
+          1	Ashwin's handicraft & jewellery centre
+          1	Atoll
+          1	Atoll PLace
+          1	Augustus Street
+          1	AusAid lecture theater
+          1	Australia
+          1	Australian Embassy
+          1	Autar Place
+          1	Auto City Place
+          1	Avis
+          1	Avis Rentals
+          1	Avon Place
+          1	Avondale Motors Ltd
+          1	Avoser
+          1	Awesome Adventures
+          1	Awesome Grill
+          1	B. Ram & Company Accountants
+          6	B/Q
+         11	B/T
+          1	B1
+          1	B2
+          1	B20
+          1	B3
+          1	BACKUP GENERATOR
+          1	BAKELS
+          1	BALABALA RD
+          1	BALAWA CEMETRY
+          1	BAUVUDI RD
+          1	BBQ Chicken
+          1	BBQ Kitchen
+          1	BC
+          1	BEST BUYS STORE
+          1	BEST HOME
+          1	BEST HOME COLLECTION
+          1	BILA 18
+          1	BILA 38
+          3	BILA RD
+          1	BILA1
+          1	BILA10
+          1	BILA11
+          1	BILA12
+          1	BILA13
+          1	BILA14
+          1	BILA15
+          1	BILA16
+          1	BILA17
+          1	BILA19
+          1	BILA2
+          1	BILA20
+          1	BILA21
+          1	BILA22
+          1	BILA23
+          1	BILA24
+          1	BILA25
+          1	BILA26
+          1	BILA27
+          1	BILA28
+          1	BILA29
+          1	BILA3
+          1	BILA30
+          1	BILA31
+          1	BILA32
+          1	BILA33
+          1	BILA34
+          1	BILA35
+          1	BILA36
+          1	BILA37
+          1	BILA39
+          1	BILA4
+          1	BILA40
+          1	BILA41
+          1	BILA42
+          1	BILA43
+          1	BILA44
+          1	BILA45
+          1	BILA46
+          1	BILA5
+          1	BILA6
+          1	BILA7
+          1	BILA8
+          1	BILA9
+          1	BLK
+          1	BLU Restaurant
+          2	BMN Patel
+          2	BQ
+          1	BQ 2
+          3	BR
+          1	BREEZE MARKETING LTD
+          2	BRIDGE
+          4	BSP
+          5	BSP ATM
+          1	BSP ATM Machine
+          1	BSP BANK
+          1	BSP Bank
+          1	BSP Life Centre
+          1	BSP Suva Central
+          1	BTC
+          1	BUILDING  1
+          1	BULA SEVENS Curry and Chopsuey Express
+          1	BULACINNO
+          1	BULK
+          1	BUS STOP
+          1	BUla MAte LTd
+          1	BW1
+          1	BW2
+          1	BW3
+          1	BW4
+          1	BW5
+          1	BW6
+          1	BW7
+          1	Ba
+          1	Ba Hotel
+          1	Ba Motors
+          1	Ba River
+          1	Babu Singh & Associates 
+          1	Baby Singh REsidence
+          1	Bad Dog
+          1	Bagasau Village FEO Shed
+          1	Bagata Community Hall
+          1	Bags O Money
+          1	Bailey Bridge
+          1	Baker Lane
+          1	Bakshi Street
+          1	Bal Ram Dass Street
+          1	Bala Street
+          1	Balawa Street
+          1	Balawaviriki Farming Community Hall, Vaturova
+          1	Bale Street
+          1	Balekinaga Community Hall
+          1	Balenabelo
+          1	Baleyaganiga Village Hall
+          1	Ballentine Memorial High School
+          2	Bamboo Backpackers
+          1	Bamboo Restaurant
+          2	Bamboo Travellers Hostel
+          1	Bamboo Tropic Lodge
+          1	Bamboo Tropic of Capricorn
+          1	Bamboo car parking
+          1	Bamboo guest parking
+          1	Bamboo staff kitchen
+          1	Bamboo staff quarters
+          1	Bamboo volleyball court
+          1	Banda Place
+          1	Bandila Crescent
+          1	Banikea Community Hall
+          1	Banisoqosoqo Road
+          1	Banisucu Church Hall
+          1	Bank Of Baroda
+          1	Bank Of The South Pacific (BSP)
+          1	Bank of Baroda
+          1	Bank of South Pacific
+          1	Bank of South Pacific (BSP)
+          1	Banuve Street
+          1	Bar 66
+          1	Baravi Rd
+          3	Bargain Box
+          1	Bargain Box.ltd
+          1	Barker Place
+          1	Barotu Community Hall
+          1	Barotu Primary School
+          2	Barrett Place
+          1	Barton Place
+          1	Bathroom /Toilet
+          1	Batibalavu District School
+          1	Batiki
+          1	Batiki Street
+          1	Batinikama District School, Labasa
+          1	Batiri
+          1	Battery Road
+          1	Bau
+          1	Bau District School
+          1	Bau District School Polling Venue
+          1	Bau Drive
+          1	Bau Street
+          1	Bau house
+          1	Bavadra Road
+          1	Bavu
+          1	Bayly Memorial School
+          1	Bayview Heights
+          1	Beach Bar
+          1	Beach Escape Villas
+          1	Beach Road
+          1	Beach Vollyball
+          1	Beachcomber Island
+          1	Beagle Passage
+          1	Beaumont Road
+          2	Beautiful Life
+          1	Beautiful life
+          1	Bebe Street
+          1	Bebe house
+          1	Bedarra Beach Inn
+          2	Beddoes Circle
+          1	Beddoes Street
+          1	Beer Wine Spirits
+          1	Belo Circle
+          1	Belo Street
+          1	Benau Street
+          1	Beqa
+          1	Beqa Place
+          1	Bequa Adventure Divers
+          1	Berar Place
+          1	Berckley Cres Drive
+          3	Berry Road
+          1	Best & Less
+          1	Best & Less (Nadi Variety Shop)
+          1	Best Fish & Chips  Waimalika
+          1	Best and Less variety shop
+          1	Bethams Beach Cottages
+          2	Betobalavu
+          1	Betobalavu 2
+          1	Bhatbahat
+          1	Bhimji Street
+          1	Bhindi Street
+          2	Bhola Place
+          1	Biaugunu Village FEO Shed.
+          1	Biausevu
+          1	Big Bula Waterpark
+          1	Bikabhai Street
+          1	Bikini Bottom Dive Shop
+          1	Bila Street
+          1	Bilavou 2
+          1	Bilavou House
+          1	Bilo Battery, WWII gun emplacement position
+          1	Bioletti Road
+          1	Biosecurity service desk
+          1	Bird Island
+          1	Birdland
+          1	Bishop Kempthorne Memorial School
+          1	Bishop Kempthorne Memorial School Polling Venue
+          1	Bitu Cafe
+          1	Biukota
+          1	Blake Feeder Rd
+          1	Bliss Spa
+          1	Block 1
+          1	Block 11
+          1	Block 2
+          1	Block 4
+          1	Block 5
+          1	Block 9
+          1	Blue Gas
+          1	Blue Gas LPG Lautoka
+          2	Blue Lagoon
+          1	Blue Lagoon Beach
+          1	Blue Lagoon Cruises
+          1	Blue Lagoon SPB
+          1	Blue Lagoon Street
+          1	Blue Water Lodge
+          1	Blue Water Lodge pool
+          1	Boat Bure
+          1	Boat Slips
+          1	Boatshed Vuda Marina
+          1	Bob Store
+          1	Bocalevu Muslim Primary School
+          2	Boce Bay Ferry Dock
+          4	Boce Bay Road
+          1	Boce Bay to Korean Dock on Taveuni Island
+          1	Boila Circle
+          1	Bolabola
+          1	BomCo variety store.
+          1	Bondwell
+          1	Bonefish Restaurant
+          1	Bongo Variety store
+          1	Bookshop (4th floor)
+          1	Bookshop Park
+          2	Borron Road
+          1	Bose Place
+          1	Botaira Beach Resort
+          1	Botanical Gardens
+          1	Boubale Primary School
+          2	Bougainville Street
+          1	Bounty Restaurant & Bar
+          1	Bourbon Blues
+          1	Boutolu
+          1	Boutolu house
+          1	Bouwalu Street
+          1	Bouwaqa Community Hall, Nadroga - Polling Venue
+          1	Br1
+          1	Br11
+          1	Br2
+          1	Br3
+          1	Br4
+          1	Br5
+          1	Br6
+          1	Br7
+          1	Br8
+          2	Br9
+          1	Brand Star
+          1	BrandStar
+          1	Bred Bank ATM
+          1	Bred Bank Atm
+          1	Bred bank ATM
+          1	Breeze bar
+          1	Brewers Road
+          2	Brewster Street
+          2	Bridal
+          1	Bridge # 1
+          1	Bridge # 2
+          1	Bright Refrigeration & Electrical ltd
+          1	Brij Bhan SHop
+          1	Brij Lal
+          1	Brij's Souvenir 
+          1	Brisbane
+          1	British American Tabaco
+          1	Brown Street
+          1	Browning Street
+          1	Bryce Street
+          1	Bsp Atm
+          1	Bsp Bank
+          2	Bua
+          1	Bua Bay
+          1	Bua Central College, Dama
+          1	Bua Community Hall
+          1	Bua Place
+          1	Bua houz
+          1	Buabua
+          1	Buabua RD
+          1	Buabua Road
+          2	Buacivo
+          1	Buavou Village Hall
+          1	Buca
+          1	Buca Bay
+          1	Buca Community Hall, Natewa
+          1	Bucalevu Primary School
+          1	Budget
+          3	Budget Rentals
+          1	Buduka
+          1	Buiduna Gram Sanghathan Indian School
+          1	Buildimg
+          5	Building
+          1	Building # 1
+          1	Building -yes
+          1	Building 1
+          1	Building Test1
+          1	Building on Jetty
+          2	Building size amended
+          1	Building=yes
+          1	Bukama
+          1	Buke Levu
+          1	Bula Car Rentals
+          1	Bula Sevens Restaurant
+          1	Bula Street
+          1	Bulaccino
+          1	Bularangi Villa
+          1	Bulei Road
+          1	Buli Court
+          1	Buli Place
+          1	Bulileka Community Hall
+          1	Bulileka Primary School
+          1	Bulileka Sanatan College
+          1	Bulivou
+          1	Buliya
+          1	Bulk 2ndhand
+          2	Bullavue Pre-fashion clothing
+          1	Bulou Street
+          1	Bulsara park
+          1	Bululeke Street
+          1	Bunako Circle
+          1	Bure
+          1	Bure 101/102
+          1	Bure 103
+          1	Bure 103/104
+          1	Bure 105/106
+          1	Bure 108/107
+          1	Bure 109/110
+          1	Bure 111/112
+          1	Bure 114
+          1	Bure 115
+          1	Bure 116/117
+          1	Bure 118/119
+          1	Bure 120/121
+          1	Bure 122
+          1	Bure 123
+          1	Bure 124
+          1	Bure 125/126
+          1	Bure 127
+          1	Bure 128
+          1	Bure 129/130
+          1	Bure 131/132
+          1	Bure 133
+          1	Bure 135/136
+          1	Bure 137
+          1	Bure 138/139
+          1	Bure 140/141
+          1	Bure 142/143
+          1	Bure 144
+          1	Bure 145
+          1	Bure 201
+          1	Bure 202
+          1	Bure 203/204
+          1	Bure 205
+          1	Bure 206
+          1	Bure 301-316
+          1	Bure 317-332
+          1	Bure 401
+          1	Bure 402
+          1	Bure 403
+          1	Bure 404
+          1	Bure 405
+          1	Bure 406
+          1	Bure 407
+          1	Bure 408
+          1	Bure 409
+          1	Bure 410
+          1	Bure 411
+          1	Bure 412
+          1	Bure 501/502
+          1	Bure 503/504
+          1	Bure 505/506
+          1	Bure 507/508
+          1	Bure 509/510
+          1	Bure 511/512
+          1	Bure 513/514
+          1	Bure 515/516
+          1	Bure 517/518
+          1	Bure 519/520
+          1	Bure 601-608
+          1	Bure 609-615
+          1	Bure 616-622
+          1	Bure 623-630
+          1	Bure taxis
+          1	Burebaaaga
+          1	Burebasaga 2
+          1	Burebasaga District School
+          1	Burebasaga District School Polling Venue
+          1	Burenicagi
+          1	Burenitu Community Hall, Ra
+          1	Burenivalu
+          1	Burerua Street
+          2	Burerua Village
+          2	Buresala Landing
+          1	Bureta District School - Polling Venue
+          2	Bureta Street
+          2	Burger King
+          1	Burning West Shopping Centre
+          1	Burton Place
+          2	Bus Parking
+          1	Bus Shelter
+          5	Bus Stop
+          2	Bus stop
+          1	Bus to Colo-i Suva
+          2	Butt Street
+          1	Buyabuya Village FEO Tent - Polling Venue
+          1	By The Sea Boutique
+          1	CANTEEN
+          1	CANTON RESTAURANT
+          1	CAR WASH
+          1	CARPENTERS MOTORS
+          1	CARPENTERS MOTORS & BANDAG TYRE
+          1	CARRIER STAND
+          1	CASSAVA PLANTATION
+          1	CATHOLIC
+          1	CATHOLIC HOUSE
+          1	CAWA CHAPEL
+          1	CAWA RD
+          1	CB 1
+          1	CCP
+          1	CD Warehouse
+          1	CDP OFFICE
+          1	CHEFS KITCHEN
+          1	CHIEFLY BURIAL SITE(SAU TABU)
+          1	CHILDREN PARK
+          1	CHURCH
+          1	CJS Supermarket
+          1	CLASSIC BUS STATION
+          1	CLUB'S POOL
+          1	CM1
+          1	CM2
+          1	CM3
+          1	CM4
+          1	CM5
+          1	CM6
+          1	COCOON HOME
+          1	COLONIAL PLAZA
+          1	COM BLDING 19
+          1	COMMERCIAL
+          1	COMMERCIAL BUILDING
+          1	COMMUNITY HALL
+          1	COMS Ltd
+          1	CON -FORM HARDWARE
+          1	CONCAVE RD
+          1	COURT HOUSE
+          1	CRASH RD
+          1	CRICKET GROUND
+          1	CRT17
+          1	CRT18
+          1	CRT2
+          1	CT1
+          1	CT15
+          1	CT16
+          1	CWD Warehouse Store
+          1	CWM HOSPITAL (Maternity Unit)
+          1	Cabe Place
+          1	Cafe is on the first floor
+          2	Cafeteria
+          1	Caffee ONE
+          1	Cakacaka Road
+          1	Cakau Street
+          1	Cake World
+          1	Calcutta Street
+          1	California Road
+          1	Calvary
+          1	Camel Rock
+          1	Canberra Drive
+          1	Cannery Road
+          1	Canteen
+          1	Canterbury
+          1	Capricon International Hotel
+          1	Capricorn Apartments
+          1	Captain Withers Street
+          1	Caqalai Island
+          1	Caqiri/Nasole Methodist Church
+         16	Car Park
+          6	Car Parking
+          1	Car gradge
+          1	Car wash
+          1	CarPark
+          1	Cardo's Steakhouse & Cocktail Bar
+          1	Cardos bar&grill
+          1	Carew Street
+          1	Carnavon Street
+          1	Carpark
+          1	Carpenter Street
+          1	Carpenter's Airfreight
+          1	Carpenter's Finance
+          1	Carpenter's Financed 
+          1	Carpenters
+          1	Carpenters Forshore
+          1	Carpenters Motors
+          2	Carreras Road
+          1	Cast Away Beach Filming Location
+          1	Castaway Island Resort
+          1	Castaway Island SPB
+          1	Catalina Drive
+          1	Catalina Geospatial Laboratories
+          1	Catalina Street
+          1	Cathay Hotel
+          1	Cathedral Church
+          1	Cathedral Secondary School
+          3	Caubati Road
+          1	Caubati Village Road
+          1	Caukuro Street
+          1	Cautata District School
+          1	Cautata District School Polling Venue
+          1	Cavaga Community Hall
+          1	Cawa
+          1	Celecelekuta
+          3	Cemetary Road
+          1	Centenary
+          1	Central
+          1	Central Auto Accessories
+          1	Central Christian Centre
+          1	Central Cuisine
+          2	Central Division FEO Warehouse
+          1	Central Division Warehouse
+          5	Central Street
+          1	Centre For Appropriate Technology Development
+          1	Chabilal Place
+          1	Chameli Street
+          1	Chand's Jewellery & Handicraft
+          1	Chantara Thai restaurant
+          1	Chapel
+          1	Charles Enginering
+          1	Charles Place FEO Tent
+          1	Charles Street
+          1	Charlton Avenue
+          1	Charter Boce Bay
+          1	Chauhan Primary School Polling Venue
+          1	Chemist 
+          1	Chemistry Lab
+          1	Cheng Place
+          1	Chicken Express
+          1	Chicken express
+          1	Chickens Express
+          1	Chiefly  Ground
+          1	Chiefly Graveyard
+          1	Chiefly Toilet Residence
+          3	Childrens Park
+          1	China Club
+          1	Chinese Bread Shop
+          1	Chinese Cemetery
+          1	Chinese Family Kitchen
+          1	Chinese Palace
+          1	Chopsticks
+          1	Chopstix
+          1	Choy Gopal Road
+          1	Christian Methodist
+          1	Chung's Flower Shop
+          1	Chung's Motel
+          2	Church
+          1	Church Hall
+          1	Church Road
+          1	Church Street
+          1	Churchill Park
+          1	Churchill Park - Ground No: 2
+          1	City Private Hotel
+          1	Civic Auditorium Centre
+          2	Civic Centre
+          1	Civic Towers
+          1	Civil Aviation Authority Of Fiji Tower
+          1	Civil Aviation Authority Of Fiji. CAR PARK
+          1	Clapcott St
+          1	Clarke Street
+          1	Classik
+          1	Clay Street
+          1	Cloudbreak Fiji
+          1	Club Oceanus Resort
+          1	Co-operative Training Centre
+          1	Coastline
+          1	Coboi Sanatan Primary School
+          1	Cobyana General Parts & Accessory 
+          1	Coca Cola Amatil Fiji
+          1	Coca Cola Lautoka
+          1	Coca Cola Vending Machine
+          1	Coffee Bean
+          1	Cogea Community Hall
+          1	Colo - i - Suva Forestry Station Polling Venue
+          1	Colo-I-Suva Park Road
+          1	Colo-i-Suva Community Hall Polling Venue
+          1	Colo-i-suva Office
+          1	Colonial Lodge Backpackers
+          1	Colonial War Memorial Hospital
+          1	Commercial Hotel
+          1	Commercial Shop
+          1	Commissioner Western Building
+          1	Commissioners Drive
+          1	Communication Center
+          3	Community Hall
+          1	Compoy Place
+          1	Concord
+          1	Connect Internet Café
+          1	Constitution Crescent
+          1	Consumers
+          1	Continental Cakes
+          1	Convenience Store
+          1	Cook Place
+          1	Coolers
+          1	Copra Shed
+          1	Copra Shed Marina
+          1	Coqeloa Sangam Primary School
+          1	Coralview Island Resort
+          1	Corbett Street
+          1	Cost U Less
+          1	Council Works Depot
+          1	Court House
+          1	Courts Fiji
+          1	Courts Fiji Ltd
+          1	Courts Retail
+          1	Courts Samabula Branch
+          4	Covuli Street
+          1	Cozmo Lounge Non Smoking Bar (4th floor)
+          1	Craig Place
+          1	Crawford Avenue
+          1	Creperie Cafe
+          1	Crompton Place
+          1	Cross Cutting
+         10	Cross Island Highway
+         68	Cross Island Road
+          1	Crusoe's Retreat
+          1	Crystal POOL & Kava
+          1	Culanuku
+          1	Culanuku Village Community Hall Polling Venue
+          1	Cumming Street
+          5	Cunningham Road
+          1	Cunningham Stage 1 FEO Ground Shed Polling Venue
+          1	Cunningham Stage 2 FEO Ground Shed Polling Venue
+          1	Cunningham Stage 4 FEO Tent Polling Venue
+          1	Cuppa Bula Coffee
+          1	Curry  Restaurant
+          1	Curry Corner
+          2	Customs
+          1	Customs & Revenue
+          1	Customs Compound
+          1	Cuvu
+          1	Cuvu Beach
+          1	DAIKOKU
+          1	DAKUA RD
+          1	DAMANU STREET
+          1	DAV Girls College
+          1	DAV Girls College Suva Polling Venue
+          1	DAVIDS TAILORING LTD
+          1	DE
+          1	DEVIA BOOKSHOP&STATIONERY
+          1	DISPENSARY
+          1	DPHC
+          1	DS#1
+          1	DS#10
+          1	DS#11
+          1	DS#12
+          1	DS#13
+          1	DS#14
+          1	DS#15
+          1	DS#16
+          1	DS#17
+          1	DS#18
+          1	DS#19
+          1	DS#2
+          1	DS#20
+          1	DS#21
+          1	DS#22
+          1	DS#23
+          1	DS#24
+          1	DS#25
+          1	DS#26
+          1	DS#27
+          1	DS#28
+          1	DS#29
+          1	DS#3
+          1	DS#30
+          1	DS#31
+          1	DS#32
+          1	DS#33
+          1	DS#34
+          1	DS#35
+          1	DS#4
+          1	DS#5
+          1	DS#6
+          1	DS#7
+          1	DS#8
+          1	DS#9
+          1	DSM Centre
+          1	DVD Rush & Cosmetics
+          1	Dabea Lane
+          1	Dahia
+          1	Daikoku 
+          2	Daku
+          1	Daku Community Hall Nausori
+          1	Daku Community Hall Nausori Polling Venue
+          1	Daku Primary School, Nadogo
+          1	Daku Resort
+          1	Daku Village FEO Tent, Kia Island.
+          1	Dakua Lane
+          1	Dakua Place
+          2	Dakuibeqa
+          1	Dakuinuku Community Hall
+          1	Dakuinuku Community Hall Polling Venue
+          1	Dakuivuna Village School
+          2	Dakuni
+          1	Dakuniba Community Hall
+          1	Dalomo
+          1	Dalton Place
+          1	Daltron
+          1	Dalutu 1
+          1	Dalutu 2
+          1	Dama Community Hall, Bua
+          1	Dama Community Hall, Ra
+          2	Damanu Street
+          1	Damodar Car Park
+          1	Damodar City
+          1	Damodar City Cinema
+          1	Damu Circle Road
+          1	Damu Place
+          1	Dan's Fish n Chips
+          1	Daniva Place
+          1	Daniva Street
+          3	Datec
+          1	Datec 2
+          1	Dauds Hair Salon
+          1	Davey Avenue
+          1	Davui Lane
+          1	Dawa Street
+          1	Dawara Community Hall
+          1	Dawasamu District School
+          1	Day Spa shop
+          1	Daya Street
+          1	Deenbandhu Primary School
+          1	Deep Sea
+          1	Defence Club
+          1	Deladamanu Village
+          1	Delailabasa Community  Post (Hub)
+          1	Delailabasa Communuty Post
+          1	Delainavesi
+          1	Delainavesi Road
+          1	Delaitoga Community Hall Polling Venue
+          1	Delaivadra Village FEO Tent
+          1	Delakado Village FEO Shed
+          1	Delakado Village FEO Shed Polling Venue
+          1	Delakula Place
+          1	Delayaloi
+          1	Deluxe
+          1	Deluxe 
+          2	Denarau Duty Free
+          1	Denarau Event Centre
+          1	Denarau Golf Course
+          1	Denarau Island
+          1	Denarau Island Bridge
+          2	Denarau Island Road
+          1	Denarau Marina
+          1	Denarau Medical Centre
+          1	Denarau Post Office
+          1	Denarau Terminal
+          1	Denarau Terminal Shopping Complex
+          1	Denimanu
+          1	Denison Road
+          1	Deo Narayan  Building 
+          1	Deo Narayan Building 
+          2	Deo Street
+          1	Deoji
+          1	Deoki Place
+          1	Deovji Street
+          1	Department of Marine & Ports- Room 1
+          1	Derrick Street
+          1	Desvoeux Road
+          1	Deuba
+          1	Devi's House
+          1	Devodara Road
+          1	Dewala House
+          1	Dhanesh Karsanji Bhindi Street
+          1	Dhanji Street
+          1	Dhurup Singh Place
+          1	Digicel
+          1	Digicel Booth
+          1	Digicel Khalsa
+          1	Digicel Mobile Phones
+          1	Dike Place
+          1	Dildar Shah Street
+          1	Dilio Street
+          1	Dilkusha Boys School
+          1	Dilo Place
+          1	Dinesh Ram
+          1	Dinning Hall
+          1	Dins Tabaraki Bread Shop
+          1	Discount Flight Centre
+          2	Disraeli Road
+          1	Dive Shop
+          1	Dive Wananavu
+          1	Dog unit
+          1	Dogoru Community Hall
+          1	Dogotuki District School
+          1	Dogotuki District School Polling Venue
+          1	Dogotuki Village FEO Tent.
+          1	Dolby Laundry
+          1	Dolphin Plaza
+          1	Domain Road
+          7	Domestic
+          1	Domestic Arrivals
+          1	Domesticl Departure
+          1	Don Kyatt spare parts
+          1	Don kyatt spare parts
+          2	Donu Place
+          1	Dormitory
+          1	Dorothy's Kitchen
+          1	DoubleTree Resort by Hilton Hotel Fiji - Sonaisali Island
+          1	Douma
+          1	Down Under
+          1	Downtown
+          1	Dr NAndan Surgery
+          1	Dr Naidu medical centre
+          1	Dr PArkshit Naidu
+          1	Dr Sainesh Kumar MBBS & Dr Devika N Kumar     
+          1	Dr Sireli Biumaititoya medical centre
+          1	Dr prem chand
+         48	Dr sec
+          1	Dr. Ram Lakhan Memorial Primary School Polling Venue
+          1	DraRatanagu 2
+          1	Dragon Music 
+          1	Dragon palace are good & restaurant
+          1	Draiba Community Hall - Polling Venue
+          1	Draiba Community Hall, Navosa - Polling Venue
+          1	Draiba Primary School
+          1	Draladamu Primary School
+          7	Drasa Avenue
+          1	Drasa Avenue Primary School
+          1	Drasa Avenue School
+          1	Dratabu
+          1	Dratanagu 1
+          1	Draubuta
+          1	Drauniivi
+          1	Draunimasi
+          1	Draunivau Community Hall
+          1	Dravo Community Hall
+          1	Dravo District School
+          1	Dravo District School Polling Venue
+          1	Dravo house
+          1	Dravuni
+          1	Dravuni District School Vunidawa Polling Venue
+          1	Dravuni Street
+          1	Drawa Village FEO Tent.
+          1	Drawaqa Island
+          1	Dream Bean Coffee House
+          1	Dreamview Villas
+          1	Drekena Community Hall
+          1	Drekeniwai District School
+          1	Dreketi
+          1	Dreketi Community Post
+          2	Dreketi Feeder Road
+          1	Dreketi Road
+          1	Dreketilailai Village FEO Tent
+          1	Dressier Collection
+          1	Dreu house
+          1	Driti Community Hall
+          1	Drivers Auto Care
+          1	Dromuninuku Community Hall
+          1	Drummed Fuel
+          1	Duabale Road
+          1	Duavata Secondary School, FEO Tent
+          1	Dudley High School
+          1	Dudley Street
+          1	Duiyata
+          1	Duna Crescent
+          1	Duncan Road
+          1	Duvula Street
+          1	D’Urville Channel
+          1	EDS BAR
+          1	ELECTRICTY POST
+        285	ER
+          1	ER.
+          1	ER\
+          1	EWS Asia Pacific  (Fiji) Ltd
+          1	EXOTIC ELECTRO  & Movie World
+          1	EYE CLINIC
+          1	Eagle Boys Pizza
+          1	Eastern
+          1	Eastern Division Warehouse
+          1	Eco Lodge
+          1	Eddy Supermarket
+          1	Eden Street
+          1	Edinburg Drive
+          6	Edinburgh Drive
+          1	Elagi
+          1	Eleganza
+          1	Elevator
+          1	Eliza Street
+          1	Ellery Street
+          1	Ellington Primary School
+          1	Ellis Place
+          1	Elms-Noell Driveway
+          1	Eluvuka 1
+          1	Eluvuka 2
+          2	Emaho Sekawa
+          1	Embassy Of The Federated States Of Micronesia
+          1	Embassy of China
+          1	Embassy of France
+          1	Embassy of Japan in the Republic of Fiji
+          1	Emergency Fire Station
+          1	Emergency assembly area
+          1	Empty Lot
+          1	Emuri
+          1	Enamanu  Cemetery
+          1	Enamanu Road
+          1	Energy Lab
+          1	Epeli Street
+          1	Erenu house
+          1	Esalaga
+          1	Europcar Booth
+          1	Evans Street
+          1	Evelyn Place
+          1	Evetts Place
+          1	Excitor
+          1	Exotic And unique Sales
+          1	Extension Street
+          1	F E A
+          1	F1
+          1	F10
+          1	F11
+          1	F12
+          1	F13
+          1	F14
+          1	F15
+          1	F16
+          1	F17
+          1	F18
+          1	F19
+          1	F2
+          2	F20
+          1	F21
+          1	F22
+          1	F23
+          1	F24
+          1	F25
+          1	F27
+          1	F28
+          1	F29
+          1	F3
+          1	F30
+          1	F31
+          1	F32
+          1	F33
+          1	F34
+          1	F35
+          1	F36
+          1	F37
+          1	F38
+          1	F39
+          1	F4
+          1	F40
+          1	F41
+          1	F42
+          1	F43
+          1	F44
+          1	F45
+          1	F46
+          1	F47
+          1	F48
+          1	F49
+          1	F5
+          1	F51
+          1	F52
+          1	F53
+          1	F54
+          1	F55
+          1	F56
+          2	F57
+          1	F58
+          1	F59
+          1	F6
+          1	F60
+          1	F61
+          2	F62
+          1	F63
+          1	F64
+          1	F65
+          1	F66
+          1	F67
+          1	F68
+          1	F69
+          1	F7
+          1	F70
+          1	F71
+          1	F72
+          1	F73
+          1	F74
+          1	F75
+          1	F76
+          1	F77
+          1	F78
+          1	F79
+          1	F8
+          1	F80
+          1	F81
+          1	F82
+          1	F83
+          1	F84
+          1	F9
+          1	FANTASY COOL PLANET
+          1	FARM
+          1	FARMLAND
+          1	FEA National Control Centre
+          2	FEA POST
+          1	FEA POWER HOUSE
+          3	FEA TRANSFORMER
+          1	FEA Tower
+          4	FEA Tower Track
+          1	FH 1
+          1	FH 2
+          1	FIJI International Telecommunications Ltd
+          1	FIJI NATIONAL UNIVERSITY  COMPOUND
+          1	FINTEL
+          1	FLAT
+          1	FNPF OFFICE
+          1	FNPF Plaza
+          1	FNTC Rd
+          1	FNU Car Park
+          1	FNU Derrick Campus Samabula Polling Venue
+          1	FNU Nasese Campus
+          1	FNU Security Booth
+          1	FONG HING
+          1	FONG HING FOOD STORE
+          1	FREDDYS EXPORT
+          1	FSC-Boxing Gym
+          1	FSTE Building
+          1	FUN WORLD HOTEL BOUNDRY
+          2	FUNWORLD
+          5	FW
+          1	Faculty of Arts, Law and Education Building
+          1	Faculty of Business and Economics Block
+          2	Fairway Palms
+          1	Fairway Place
+          1	Faizals medical centre
+          1	Fale
+          1	Fale Study Area
+          1	Falvey Road
+          2	Family Home
+          1	Family Home 10
+          1	Family Home 11
+          1	Family Home 12
+          1	Family Home 13
+          1	Family Home 14
+          1	Family Home 2
+          1	Family Home 3
+          1	Family Home 4
+          1	Family Home 5
+          1	Family Home 7
+          1	Family Home 8
+          1	Family Home 9
+          1	Family house
+          1	Fane farmhouse
+          1	Fasa Avenue
+          1	Fashion Rack
+          1	Fast Food
+          1	Fattys Shop
+          1	Fawn Harbour
+          1	Fea Tower Track
+          1	Fell Place
+          1	Fenner Park
+          1	FiJi Airways Training Centre
+          1	Field 40 Road
+          2	Fiji
+          1	Fiji Council of Social Sevice
+          1	Fiji Electric Association FEA
+          1	Fiji Electricity Authority
+          1	Fiji Electricity Authority Kinoya Depot
+          1	Fiji Electricty Authority HQ
+          1	Fiji Gas Lautoka
+          1	Fiji Hockey Center
+          1	Fiji Hockey Centre
+          1	Fiji Institute of Technology
+          1	Fiji Made Products 
+          1	Fiji Meats Ltd
+          1	Fiji Meteorological Office
+          1	Fiji Museum
+          1	Fiji National Council of DIsabled Persons Complex
+          1	Fiji National Council of Disable Person Polling Venue
+          2	Fiji National University
+          1	Fiji National University - School of Education
+          4	Fiji Palm Beach Club
+          1	Fiji Palms Beach Club
+          1	Fiji Police Sport's Bar
+          1	Fiji Reserve Bank Governor's Official Residence
+          1	Fiji Sagem Office
+          1	Fiji School Of the Blind Polling Venue
+          1	Fiji School of Medicine
+          1	Fiji School of Medicine - Hoodless House Campus
+          1	Fiji School of Nursing Complex Polling Venue
+          1	Fiji Sun Office
+          1	Fiji Survivor set
+          1	Fiji Technical College
+          1	Fiji Traders - Azels Technology
+          1	Fiji Water - Lautoka Yard
+          1	Fiji meng's
+          1	Fiji sun building
+          1	Fijian
+          1	Fijis Finest Tours
+          1	Finau Street
+          1	Fintel
+          1	Fiona
+          1	First Landing Resort
+          1	Fish Market
+          1	Fish and Chips Restaurant
+          1	Five Princes Hotel
+          1	Flagstaff
+          1	Flagstaff Community Police Station
+          1	Flagstaff Laundry
+          1	Flagstaff Pharmacy
+          2	Flat House
+          3	Fletcher Road
+          1	Flying Fish Restaurant
+          1	Fonex Tonex
+          1	Fong Place
+          1	Fono's Bar SPC
+          1	Food
+          1	FoodHall store room
+          1	Foodees
+          1	Footpath
+          1	Footpath 1
+          1	For Rental Space
+          3	Foreign Exchange
+          1	Foreign Exchange 
+          1	Fort Street
+          5	Foster Road
+          1	Foster Street
+          1	Foursquare Ministries
+          1	Frangipani Place
+          1	Frangipani deck
+          2	Free Bird Institute
+          1	Freight Companies
+          1	French Bakery
+          1	Freshet Cold Storage
+          1	Friendly North Inn
+          1	Fuel Tank
+          1	Fuji Museum
+          1	Fulaga Street
+          1	Fun Factory
+          1	Funky Fish Resort
+          1	Futala Place
+          1	Fähranleger Savusavu
+          1	G279
+          1	G284
+          1	G290/G291
+          1	G313/G314
+          1	G315
+          1	GANESH Watches
+         30	GARAGE
+          1	GARAGE 2
+          1	GARDEN CITY AP1 - P.MEGHJI
+          1	GCC Exchange 
+          1	GEO PASIFIC LIMITED
+          1	GOKALS
+          1	GOVERMENT COTTERS 3
+          1	GOVERNMENT COTTERS 1
+          1	GOVERNMENT COTTERS 2
+         22	GQ
+          1	GQ 1
+          1	GQ 10
+          1	GQ 11
+          1	GQ 12
+          1	GQ 2
+          1	GQ 3
+          1	GQ 4
+          1	GQ 5
+          1	GQ 6
+          1	GQ 7
+          1	GQ 8
+          1	GQ 9
+          1	GT Plaza
+          1	GUARD BOOTH
+          1	Gable fiji-22/23/25
+          4	Gaji Road
+          1	Galba Street
+          1	Galoa
+          1	Galoa House
+          1	Galoa Village FEO Tent, Bua
+          1	Ganesh Temple
+          1	Ganges Street
+         19	Garage
+          1	Garden of the Sleeping Giant
+          1	Gardiner Road
+          1	Garib Store
+          1	Garment Factory
+          1	Garvey Drive
+          1	Gas Station
+          1	Gas Station Car Park
+          1	Gasau Street
+          1	Gaunavou
+          1	Gaunavou House
+          1	Gaunavou Primary School
+          1	Gecko's
+          1	Gecko's Resort
+          1	Genuine spares
+          1	Geography Laboratory
+          1	George Place
+          1	Geoscience Division
+          1	Geospatial Science Study Laboratory
+          1	Gibson Freight
+          1	Gibson Place
+          1	Gibson Street
+          1	Gibson freight
+          1	Girmit Centre
+          1	Gladstone Road
+          1	Gloria Jean's Coffees
+          2	Gloria Jeans
+          1	Go Go tyres repair
+          2	Gokals
+          1	Gold Coast Inn
+          1	Golden Ball Room
+          1	Golden Dragon
+          1	Golden Water Supermarket
+          1	Golf
+          1	Golf Cart House
+          1	Golf Course
+          1	Golf Link Crescent
+          3	Golf Link Road
+          2	Gomati Street
+          1	Goodenough Street
+          1	Goodman Fielder Fiji Int Pte
+          1	Goodrum Place
+          1	Goodsir Road
+          1	Goodway
+          5	Gordon Street
+          1	Gorrie Street
+          1	Gospel High School Polling Venue
+          1	Gospel Primary and High Schools
+          1	Government Offices
+          1	Governor Museum Themed Restraunt 
+          1	Governor's Museum Themed Restaurant
+          1	Govt Slipway
+          1	Grace Road Kitchen
+          1	Grahame Street
+          1	Grand Eastern Hotel
+          1	Grand Melanesian Hotel
+          1	Grand Pacific Hotel
+          1	Grand melanesian lobby
+          1	Grant Place
+          1	Grantham Plaza Community Post
+          6	Grantham Road
+          2	Graveyard
+          4	Great Harbour Drive
+          1	Green Tables
+          1	Greene Street
+          1	Greig Street
+          2	Grey Road
+          1	Griffith Place
+          1	Griswold Place
+          2	Ground
+          1	Guava Place
+          1	Guest car park
+          1	Gulabdas Hardware
+          1	Gunu
+          1	Guru Nanak Primary School
+          2	H
+          1	H#1
+          1	H#10
+          1	H#11
+          1	H#12
+          1	H#13
+          1	H#2
+          1	H#4
+          1	H#5
+          1	H#6
+          1	H#7
+          1	H#8
+          1	H#9
+          2	H1
+          1	H2
+          1	H3
+          2	H4
+          1	H5
+          1	H58
+          1	H6
+          1	H7
+          1	H8
+          1	H9
+          1	HANS
+          1	HANSON's
+          1	HARSHAL'S FASHION LTD
+          1	HAppy Heals
+          1	HEALTH QUARTERS
+          1	HFC BANK
+          1	HFC Bank
+          1	HIGGINS
+          1	HIGGINS GARAGE
+          1	HIGGINS PROJECT OFFICE
+          1	HIGGINS QUARRY
+          1	HIGGINS WORKSHOP
+          2	HLB House
+          1	HOCKEY FIELD
+          1	HORKEY GROUND
+          1	HOSTEL
+          1	HOT BREAD KITCHEN
+          1	HR
+          1	HR Manager office
+          1	HS17
+          1	HS22
+          1	HS25
+          1	HS9
+          1	Hair Shalon
+          1	Haji Street
+          4	Hall
+          1	Hall Toilet
+          1	Hamas Hair Saloon
+          1	Hamilton-Beattie Street
+          1	Hand Craft Market
+          2	Handcraft Market
+          1	Handicraft Shop
+          1	Handmade Jewellery
+          1	Hanging Garden
+          1	Happy home apartments
+          3	Harbour
+          1	Harbour Centre Mall
+          1	Hard Rock Cafe
+          1	Hardip Narayan & Sons - Hansons Bulk
+          1	Hare Krishna
+          1	Hare Krshna Temple
+          1	Harper Place
+          3	Harris Road
+          2	Harrison 
+          2	Harrisons
+          1	Harry Ah Tong Place
+          1	Hassans Barber shop
+          1	Havelock Place
+          1	Hawaiian collection
+          1	Health First Pharmacy
+          1	Health Pharmacy
+          1	Heavenly Beauty Spa
+          1	Heavenly Beauty Spa 
+          1	Hedstrom Place
+          1	Hedstroms Place
+          1	Heights Cabs
+          1	Helsen Street
+          1	Hemraj Street
+          1	Hercules Street
+          1	Hermant House
+          1	Herrick Place
+          1	Hertz
+          1	Hibiscus Autoport
+          3	Hibiscus Drive
+         32	Hibiscus Highway
+          2	Hibiscus Hwy
+          2	High Street
+          1	Hilton Fiji Beach Resort and Spa
+          1	Hindu Temple
+          1	Hira Rao Place
+          1	Hitaks  ladies tailor
+          1	Hobie Cat Sailing Center of Suva
+          1	Holiday Inn Suva
+          1	Holidays Tour Desks
+          3	Holland Street
+          1	Hollander Road
+          1	Holmes Street
+          1	Holy Family Secondary School
+          1	Holy Trinity Anglican Primary School
+          1	Holy Trinity Anglican School
+          1	Home & Living
+          1	Home Improvement
+          1	Homer Crescent
+          1	Honey Bee
+          1	Honeymoon Beach
+          1	Honeymoon Bure 1
+          1	Honeymoon Bure 2
+          1	Honeymoon Bure 3
+          1	Honeymoon Bure 4
+          1	Honeymoon Bure 5
+          1	Honeymoon Bure 6
+          1	Honeymoon Bure 7
+          1	Hong Chand General Store
+          1	Hong Kong 2
+          1	Hong peng
+          1	Hooper Road
+          1	Horsby House
+          1	Horton Street
+          2	Hospital Road
+          2	Hot Bread Kitchen
+          1	Hot Springs Hotel
+          1	Hot Springs Hotel Loop
+          1	Hotel
+          2	Hotel Apartment
+          1	Hotel Equip
+          1	Hotel Rooms
+          1	Hotel Safari Island Lodge
+          1	House#133
+          1	Howard Places
+          1	Howell Road
+          1	Human Resources Office
+          1	Hung's Cake Shop
+          1	Hung's Restaurant & Milk Bar
+          1	Hunt Place
+          1	Hunter Pearl Farm
+          1	Hunter Pearl Farm Pier
+          1	Hunter Street
+          1	Huon Street
+          2	Hutson Street
+          1	Hydrolic Hose Container Yard
+          1	Hyundai Fitness Center
+          1	IAS Conference Room
+          1	IB 1
+          1	IB 10
+          1	IB 11
+          1	IB 12
+          1	IB 13
+          1	IB 14
+          1	IB 15
+          1	IB 16
+          1	IB 17
+          1	IB 18
+          1	IB 19
+          1	IB 2
+          1	IB 3
+          1	IB 4
+          1	IB 5
+          1	IB 6
+          1	IB 8
+          1	IB 9
+          1	INDUSTRIAL
+          1	IS1
+          1	IS10
+          1	IS12
+          1	IS13
+          1	IS14
+          1	IS2
+          1	IS3
+          1	IS4
+          1	IS5
+          1	IS6
+          1	IS7
+          1	IS8
+          1	IS9
+          1	ITS 10
+          1	ITS 11
+          1	ITS Lab 7
+          1	IYC Park
+          1	Ice Cool (Ling Trade)
+          1	Iconic Tours & Transfers
+          1	Iconic tours and transfers
+          1	Ict building
+          2	Igiladi
+          1	Ika Place
+          2	Ikadroka Place
+          1	Imaging Technologies 
+          1	Imran's BARBER SHOP
+          1	Imthurn Road
+          2	In Fashion
+          1	Independence Crescent
+          1	Indian College
+          1	Indian High Commissioner's Residence
+          1	Indigo Restaurant
+          1	Indira Ghandi Memorial Primary School
+          1	Indus Place
+          1	Industrial Road
+          1	Industrial Street
+          1	Information & Help Desk.
+          1	Institute of Marine Resources
+          1	InterContinental Fiji Golf Resort & Spa
+          2	International Hotel
+          1	International Hotels Supplies
+          2	International School Nadi
+          1	International Secondary School Polling Venue
+          1	International Secondary School Suva
+          2	Internet Shop
+          1	Irrigation Rd
+          1	Irvine Place
+          1	Island Artifacts
+          2	Island Hoppers
+          1	Island Pharmacy 
+          1	Island pharmacy 
+          1	Ivi Place
+          1	JDS Building
+          1	JEHOVAHS WITNESS
+          1	JJ's on the Park
+          1	JJs Restaurant
+          1	JMC Resort
+          1	JP Maharaj Street
+          1	Jack's Fiji
+          1	Jack's Handicraft
+          1	Jack's Lautoka
+          1	Jack's Outlet 
+          1	Jack's Souvenirs
+          2	Jack's admin
+          1	Jack's of fiji
+          1	Jacks
+          1	Jacks Handicraft
+          1	Jacks Of Fiji
+          1	Jacks of Fiji
+          1	Jackson Street
+          1	Jaduram Street
+          1	Jagdish Gosai Building
+          1	Jai Ambamaa Road
+          1	Jai Hanuman Road
+          1	Jai Hind
+          1	Jaison's motors
+          1	Jale Street
+          1	James Madhavan Street
+          1	Jamison's unique handicraft
+          1	Jamnadas Bhagwan Street
+          1	Jamuna Street
+          1	Jan ali Chicken Farm
+          1	Japan
+          1	Japan ICT Center
+          1	Japan Ict Building 2
+          1	Japan-Pacific ICT Centre
+          1	Japanese Ambassador's Residence
+          1	Japanese second hand quality motor parts
+          1	Jasper Williams High School
+          1	Jasper Williams Primary School
+          1	Jaya Ben Place
+          1	Jaycar Electronics
+          1	Jayent Karsanji Bhindi Street
+          1	Jean-Michel Cousteau Fiji Islands Resort
+          1	Jerusalami Village
+          2	Jerusalem Road
+          1	Jerusalemi
+          1	Jet Setters Beuty Saloon.
+          1	Jetha Lal
+          1	Jetset Spare Parts
+          8	Jetty
+          1	Jewel's Fiji
+          1	Jewels store
+          1	Jiliva
+          1	Jing-ying shop
+          1	Jinnu Road
+          1	Jinnu Street
+          1	Jioji
+          1	Joe Singh Place
+          2	Joe's Farm Supermarket
+          1	Joe's Wood Carings
+          1	Jogia BUilding
+          1	John Hicks Place
+          1	John Wesley College Polling Venue
+          1	Johnson Street
+          1	Joji's Cafe
+          1	Joji's Wine & Dine
+          1	Jokhan Memorial Primary School Polling Venue
+          1	Joritani
+          1	Joshua  Generation 
+          1	Joske Street
+          1	Joyce Perks Street
+          1	Joyland Billiard Center
+          1	Jubilee Jewellers
+          1	Jungle Bure No. 2
+          1	K. M. James Road
+          1	K1
+          1	K10
+          1	K11
+          1	K12
+          1	K13
+          1	K14
+          1	K15
+          1	K16
+          1	K17
+          1	K18
+          1	K19
+          1	K2
+          1	K20
+          1	K21
+          1	K22
+          1	K23
+          1	K24
+          1	K25
+          1	K26
+          1	K27
+          1	K28
+          1	K29
+          2	K3
+          1	K30
+          1	K31
+          1	K32
+          1	K33
+          1	K34
+          1	K35
+          1	K36
+          1	K37
+          1	K38
+          1	K4
+          1	K5
+          1	K6
+          1	K7
+          1	K8
+          1	K9
+          1	KANTY ARCADE
+         76	KEN
+          1	KENNEDY PARK
+          1	KKS hardware
+          1	KKs HARDWARE
+          1	KLAW Chambers & Partners
+          1	KPMG
+          1	KULA Wild Advenure Park
+          1	Kaba Community Hall
+          1	Kaba Road
+          1	Kabalo
+          1	Kabani Road
+          1	Kabara Street
+          1	Kabatia Lane
+          1	Kabatia Place
+          1	Kabote Circle
+          1	Kadavu
+          1	Kadavu Road
+          1	Kade
+          1	Kai Wai Dive Shop
+          1	KaiKai Street
+          1	Kaikai Place
+          1	Kaisau Court
+          1	Kaka Street
+          1	Kake Street
+          1	Kalabu Community Hall Polling Venue
+          1	Kale Khan Place
+          1	Kalekana Methodist Church Hall Polling Venue
+          2	Kali Place
+          1	Kalia Court
+          1	Kalivari
+          1	Kaloa street
+          1	Kalokalo Crescent
+          1	Kalokolevu
+          1	Kalokolevu Village Hall Polling Venue
+          1	Kama Street
+          1	Kamba Place
+          1	Kameli Place
+          1	Kamendra School
+          1	Kami's Food Mart
+          1	Kami's Gas Station
+          1	Kams Barber shop
+          1	Kanacea house
+          1	Kanakana Community Hall
+          1	Kanavi Street
+          1	Kandavu House 
+          1	Kandavu Passage
+          1	Kansas paint
+          1	Kantis Mart
+          1	Kapadia Place
+          1	Kara Place
+          1	Kara Punja Road
+          1	Karan House
+          1	Karan Singh Road
+          5	Kasanji Street
+          1	Kasavu Primary School Nausori
+          1	Kasavu Primary School, Savusavu
+          1	Kasavu Road
+          1	Kaukimoce Road
+          3	Kaunitoni Street
+          1	Kauvula Place
+          1	Kauwai Homestay
+          2	Kava Place
+          1	Kavanagasau Road
+          1	Kavewa Community Hall
+          1	Kavika Falls
+          2	Kavika Place
+          1	Kavu Place
+          1	Kavua
+          1	Kavua house
+          1	Kavula Community Hall, Lekutu
+          1	Kayv's & Mani's Foodtown
+          1	Keka Community Hall
+          1	Kelland Street
+          1	Kennedy Avenue
+          1	Kerebula shopping Centre
+          1	Keresomi House
+          1	Kermode Road
+          1	Kese
+          1	Kese Bay
+          1	Kese Community Hall - Polling Venue
+          1	Keyasi Community Hall - Polling Venue
+          1	Khalid Hussein
+          1	Khalil Street
+          1	Khalsa road
+          1	Khemendra Central School
+          1	Khemindra Street
+          1	Khoobsurat Dulhan
+          1	Khoobsurat Dulhans
+          1	Khoobsurit 
+          1	Kia Island
+          3	Kia Motors
+          1	Kia Street
+          1	Kid's Swimming Pool
+          1	Kikau Place
+          1	Kikau Street
+          1	Kilaka Community Hall
+          1	Kilikali house
+          1	Kimberley Street
+         76	King's Highway
+          1	King's Hwy
+          1	Kingdom Hall of Jehovahs Witnesses
+         14	Kings Highway
+         39	Kings Road
+          1	Kini Street
+          1	Kinoya Village Community Hall Polling Venue
+          1	Kinoya road
+          1	Kioa
+          1	Kiran Palace
+          1	Kiriti's fast food
+          1	Kirti's Fastfood &Takeaways
+          1	Kishore Kumar Road
+          1	Kitchen
+          1	Kitione Salawa
+          1	Kiuva Community Hall
+          1	Kiwi Place
+          1	Kks  hardware
+          1	Knolly Street
+          1	Kolo-I-Suva Trailhead Car park
+          1	Kolo-i-Suva Park road
+          1	Komaia Tours
+          1	Komave Community Hall
+          1	Komo Park
+          2	Komo Street
+          1	Korea 1 engine oil
+          2	Korea 1Engine Oil
+          1	Korean Bauxite Wharf
+          1	Korean Kitchen
+          1	Korean Restaurant
+          1	Korean Resturant
+          1	Koro Community Hall - Polling Venue
+          1	Koro Island
+          2	Koro Island Airport
+          1	Koro Lane
+          1	Koro Place
+          1	Koro Sea
+          1	Koro Sun Marina
+          2	Koro Sun Resort
+          1	Koroba
+          1	Koroba House
+          1	Koroba Street
+          1	Korociri Methodist Church
+          1	Korociri r1
+          1	Korociri r2
+          1	Korociriciri Primary School
+          1	Koroi Place
+          1	Koroi Street
+          1	Koroinasolo Village School
+          1	Korokadi Primary School
+          1	Korokadi Road
+          1	Korokula
+          1	Korokulu Point
+          2	Korolevu
+          1	Korolevu Seaplane Base
+          1	Koronasau Bal Ramayan Mandir
+          1	Koronawaqa Road
+          1	Koroqaqa Primary School
+          1	Korosi Community Hall
+          2	Korosila
+          1	Korosila 2
+          1	Korosila 3
+          1	Korosila 4
+          1	Korosila Ground
+          1	Korosila House
+          1	Korotari Arya School
+          1	Korotasere Community Hall
+          1	Korotasere Community Post
+          1	Korotolutolu Primary School
+          1	Korotubu Community Hall
+          3	Korovou
+          1	Korovou Eco Tour Resort
+          1	Korovou Men's Prison
+          1	Korovou Police Station
+          1	Korovuli Community Hall
+          1	Korowai Road
+          1	Korowaiwai
+          1	Korowiri Tovata Primary School
+          1	Koroyanitu
+          1	Kotiki
+          1	Krishna
+          1	Krishna 2
+          1	Krishna 3
+          1	Krishna 4
+          1	Krishna Janardhan School
+          1	Krishna Street
+          1	Krishna Verdic School
+          1	Kruepa Restaurant
+          1	Kuala Lumpur
+          1	Kuala lampur
+          3	Kuata Island
+          2	Kuata Street
+          1	Kubulau District School FEO Tent
+          1	Kubulau Island
+          1	Kubuolo
+          1	Kula Eco Park
+          1	Kula Place
+          1	Kula Street
+          1	Kulu Street
+          1	Kumars Residence
+          1	Kumi Community Hall
+          1	Kumi Road; Turners Crescent
+          2	Kundan Singh
+          1	Kundan Singh 
+          1	Kura Drive
+          1	Kurusiga Place
+          1	Kwality Store 
+          1	L&l restaurant
+          1	LABOUR \ AGRICULURE\HEALTH OFFICE
+          1	LALES BUILDING
+          1	LARBOUR QUARTERS
+          1	LAgoon B
+          1	LAgoon C
+          1	LC's Restaurant
+          1	LDS Church
+          1	LDS Church Hall Nadera Polling Venue
+          1	LICI office
+          1	LOV#10
+          1	LOV#11
+          1	LOV#12
+          1	LOV#13
+          1	LOV#14
+          1	LOV#15
+          1	LOV#16
+          1	LOV#17
+          1	LOV#18
+          1	LOV#19
+          1	LOV#2
+          1	LOV#20
+          1	LOV#21
+          1	LOV#22
+          2	LOV#23
+          1	LOV#3
+          1	LOV#4
+          1	LOV#5
+          1	LOV#6
+          1	LOV#7
+          1	LOV#8
+          1	LOV#9
+          1	LOVU
+          1	LOVU#1
+          1	LPS Bus Stop
+          1	LTA
+          1	LTA CAR PARK
+          1	LTA Nausori
+          1	LTA Valelevu
+          1	La Dolce Vita Golf Course
+          2	La Dolce Vita Resort
+          1	La Parisienne Cafe
+          1	Lab
+          1	Labaaa
+          2	Labasa
+          1	Labasa Airport
+          1	Labasa Botanical Gardens
+          1	Labasa College
+          1	Labasa Corrections Center
+          1	Labasa Hospital
+          1	Labasa Muslim College
+          1	Labasa Police Station
+          1	Labasa Police Station (Hub)
+          2	Labasa Primary School
+          6	Labasa River
+          1	Labasa Sangam Primary School
+          1	Labau Feeder Road
+          1	Labiko Street
+          1	Lady Maraia Road
+          1	Lady Narain Road
+          1	Lagalaga Sanatan Primary School
+          1	Lagi Community Hall
+          1	Lagilagi
+          1	Lagilagi 2
+          1	Lagilagi Church Hall Polling Venue
+          1	Lagoon A
+          1	Lagoon D
+          1	Lagoon E
+          1	Lagoon F
+          1	Lagoon G
+          1	Lagoon H
+          1	Lagoon Hotel
+          1	Lagoon I
+          1	Lagoon J
+          1	Lagoon K
+          1	Lagoon L
+          1	Lagoon Resort
+          1	Lagoon Swimming Area
+          1	Lagoon Wing
+          1	Lajonia Shopping Centre FEO Shed
+          1	Lakeba House/Vunavau House
+          3	Lakeba Street
+          1	Lakeba Village FEO Tent, Labasa
+          1	Lakena Methodist Church Hall
+          1	Lalai mini mart
+          2	Lalati
+          1	Lalati Resort
+          1	Lale's
+          1	Lale's Gas Station
+          1	Lale's Supermarket and Restaurant
+          1	Lalita Bhindi Street
+          1	Lalita Devi
+          2	Lami
+          1	Lami Convent School Polling Venue
+          1	Lami Health Center
+          1	Lami Pharmacy
+          1	Lami Police Station
+          1	Lami Post Office
+          1	Lami Primary School
+          1	Lami Primary School Polling Venue
+          1	Lami School
+          1	Lami Taxis
+          1	Lami Tours
+          1	Lami Town Bus stop
+          1	Lami Village
+          1	Lami Village Road
+          1	Lami,Naitasiri Buses
+          1	Land Management
+          2	Land Transport Authority
+          1	Laqere A O G Compound, Tabia.
+          1	Laqere Bridge
+          1	Laqere River
+          1	Laselase Village
+          1	Lateef Road
+          1	Latter Day Saint Church Hall Wailoku Polling Venue
+          1	Latter Day Saints Primary School (LDS)
+          1	Lau Group
+          1	Laucala Bay
+          2	Laucala Bay Road
+          1	Laundry Room
+          1	Lautoka
+          1	Lautoka Bus Station
+          1	Lautoka Central School
+          1	Lautoka City Council
+          1	Lautoka Club
+          1	Lautoka Fijian School
+          1	Lautoka Fire Station
+          1	Lautoka Golf Course
+          1	Lautoka Gurdwara
+          2	Lautoka Hospital
+          1	Lautoka Hospital Car Park
+          1	Lautoka Hotel
+          1	Lautoka Market
+          1	Lautoka Mosque
+          1	Lautoka Muslim High School
+          1	Lautoka Police Station
+          1	Lautoka Post Office
+          1	Lautoka Primary School
+          1	Lautoka Prison
+          1	Lavena Place
+          1	Lavena Road
+          1	Lavukalili
+          1	Lawaoa Road
+          1	Laxco Print & Signs
+          2	Le Hunt Street
+          1	Le Vonu Kids Club
+          1	Lees Bakery
+          1	Legal Aid Commission
+          2	Legalega Road
+          2	Leisiaceva Road
+          1	Leisure
+          1	Leka Park
+          1	Leka Street
+          1	Lekutu
+          1	Lekutu District School, Bua
+          1	Lekutu Health Centre
+          1	Lekutu Police Post
+          1	Lekutu Police Station (Hub)
+          1	Lekutu Post Office
+          2	Lekutu Secondary School
+          1	Lekutu Street
+          1	Lekutulevu Village FEO Tent
+          1	Leleuvia
+          1	Leleuvia Island Resort Hall
+          1	Leleuvia Jetty
+          1	Leleyawa
+          1	Lemaki Street
+          2	Leonidas Street
+          1	Leps Drain
+          1	Lesi Place
+          1	Lester Street
+          1	Leveti Street
+          1	Levuka
+          1	Levuka Airfield
+          1	Levuka Homestay
+          2	Levukaidaku
+          1	Leylands 
+          1	Leys Road
+          1	Library
+          1	Life Cinema
+          1	Life Cinema 
+          1	Life Cinema Nakasi
+          1	Life Insurance of India
+          1	Ligaulevu Community Hall
+          1	Light Tower
+          1	Liladar Arcade
+          1	Limestone Caves
+          1	Lin On Place
+          1	Linen Bure
+          1	Linen Bure/Guest Laundary
+          1	Ling's Sushi House
+          1	Link Road
+          1	Lin’s Company Ltd
+          1	Liquids
+          1	Little Ones Preschool
+          1	Lo's Tea House
+          1	Loa Street
+          1	Loa Village FEO Shed
+          1	Lobbie
+          1	Lobby
+          1	Loboca
+          1	Local Handicrafts
+          1	Lodhia Street
+          1	Lodoni # 3
+          1	Lodoni 2
+          1	Lodoni Primary School
+          2	Loftus Street
+          1	Logani Community Hall
+          1	Logavatu Community Hall
+          7	Logging track
+          4	Logging trail
+          1	Lolololevu Community Hall
+          1	Loloma Street
+          1	Loma Lane
+          1	Lomaiviti
+          1	Lomaiviti Group
+          1	Lomaivuna
+          1	Lomaivuna Primary School Polling Venue
+          1	Lomalagi Resort
+          1	Lomaloma Village FEO Shed
+          1	Lomanibai ni Lotu
+          1	Lomary Catholic Memorial Primary School Polling Venue
+          1	Lomati
+          1	Lomawai
+          1	Lomolomo Public School
+          1	Lomolomo Public School Road
+          1	Lonaquto
+          1	Lonaquto 1
+          2	Lonaquto 2
+          2	London Avenue
+          1	Long Beach Resort
+          1	Lookout Hut
+          1	Lookout Point
+          1	Lorry?
+          1	Lot  1
+          1	Lot  17
+          1	Lot  18
+          1	Lot  21
+          1	Lot  22
+          1	Lot  23
+          1	Lot  8
+         11	Lot 1
+         15	Lot 1 - Fiji Airways Hangar
+          1	Lot 1 - Fiji Airways Hangar - Incinerator
+         10	Lot 10
+          1	Lot 10 House No 2
+          6	Lot 11
+          9	Lot 12
+          7	Lot 13
+          7	Lot 14
+          3	Lot 15
+          5	Lot 16
+          3	Lot 17
+          1	Lot 17 House No2
+          3	Lot 18
+          4	Lot 19
+          9	Lot 2
+          1	Lot 2 house No 2
+          5	Lot 20
+          1	Lot 20 House 3
+          1	Lot 20 House Number 2
+          1	Lot 20 HouseNo2
+          1	Lot 21
+          3	Lot 22
+          3	Lot 23
+          3	Lot 24
+          1	Lot 24 House 2
+          3	Lot 25
+          3	Lot 26
+          1	Lot 26/27
+          3	Lot 27
+          4	Lot 28
+          3	Lot 29
+          7	Lot 3
+          1	Lot 3 house 2
+          2	Lot 30
+          1	Lot 30 House 3
+          2	Lot 31
+          1	Lot 31-34
+          2	Lot 32
+          2	Lot 34
+          2	Lot 35
+          2	Lot 36
+          2	Lot 37
+          3	Lot 38
+          1	Lot 38-42
+          1	Lot 39
+          8	Lot 4
+          1	Lot 40
+          2	Lot 41
+          1	Lot 42
+          2	Lot 43
+          1	Lot 44
+          2	Lot 45
+          2	Lot 46
+          2	Lot 47
+          2	Lot 48
+          1	Lot 49
+          1	Lot 49 Vacant Lot
+          9	Lot 5
+          1	Lot 57
+          1	Lot 58
+          1	Lot 59
+          7	Lot 6
+          8	Lot 7
+          7	Lot 8
+          7	Lot 9
+          1	Lot 9 House 2
+          1	Lot house 2
+          1	Lot13
+          1	Lot14
+          1	Lot15
+          1	Lot16
+          1	Lot17
+          1	Lot18
+          1	Lot19
+          1	Lovo Pit
+          2	Lovoni
+          2	Lovoni Road
+          1	Lovonidalo Community Hall
+          1	Lovonilase( Main Suva Cemetery)
+          1	Lovu Crematorium
+          1	Lower Campus Security
+          1	Lucys Lane
+          1	Luke Street
+          1	Lula Bar Cafe & Restaurant
+          1	Lum Street
+          1	Lums Building
+          1	Lumutivou
+          1	Lumutivou 2
+          3	Lutukina Cocoa Road
+          1	Lutukina District School
+          1	Lutukina Village
+          1	Lutukina Village Hall
+          1	Lutukina Village PreSchool
+          1	M
+          1	M-H Supermarket
+          2	M. N. Naidu Road
+          1	M. T. Khan Road
+          1	M.RECHT ACCESSORIES
+          1	M10
+          1	M11
+          1	M12
+          1	M13
+          1	M14
+          1	M15
+          1	M16
+          1	M17
+          1	M18
+          1	M19
+          1	M2
+          1	M20
+          1	M21
+          1	M22
+          1	M23
+          1	M24
+          1	M25
+          1	M26
+          1	M27
+          1	M28
+          1	M29
+          1	M3
+          1	M30
+          1	M4
+          1	M5
+          1	M6
+          1	M7
+          1	M8
+          1	M9
+          1	MA n JK KHAN BUILDOLING
+          1	MANGROVES SWAMP
+          1	MARTINTAR FIJI GAS
+          1	MEENOS BUILDING 
+          1	MEGA PAPER SUPPLIER
+          1	METHODIST
+          1	METHODIST PASTORS HOUSE
+          1	METRO SHOES AND BAGS
+          1	MGM High School
+          1	MGM Primary School
+          6	MH
+          1	MH Homemaker
+          1	MH Paradise
+          3	MH SUPERMARKET
+          2	MH Superfresh
+          1	MH store room
+          1	MH1
+          1	MH10
+          1	MH11
+          1	MH12
+          1	MH13
+          1	MH14
+          1	MH15
+          1	MH16
+          1	MH17
+          1	MH18
+          1	MH19
+          1	MH2
+          1	MH20
+          1	MH22
+          1	MH23
+          1	MH24
+          1	MH25
+          1	MH26
+          1	MH27
+          1	MH29
+          1	MH3
+          1	MH30
+          1	MH31
+          1	MH32
+          1	MH33
+          1	MH34
+          1	MH35
+          1	MH36
+          1	MH37
+          1	MH38
+          1	MH39
+          1	MH4
+          1	MH40
+          1	MH41
+          1	MH42
+          1	MH43
+          1	MH44
+          1	MH45
+          1	MH5
+          1	MH6
+          1	MH7
+          1	MH8
+          1	MH9
+          1	MHCC
+          1	MHCC Mall
+          1	MINDPEARL Contact centre
+          1	MM
+          1	MM TIMBER OFFICE
+          1	MN1
+          1	MN10
+          1	MN11
+          1	MN12
+          2	MN13
+          1	MN14
+          1	MN15
+          1	MN2
+          1	MN3
+          1	MN4
+          1	MN5
+          1	MN6
+          1	MN7
+          1	MN8
+          1	MN9
+          1	MOTEL
+          1	MOTIBHAI
+          7	MSMPS
+          1	MSMPS Kindergarten
+          1	MT ST MARYS PRIMARY SCHOOL
+          1	MUAIRA GROG SHOP
+          1	Ma'afu Street
+          1	Maahaji Hardware
+          1	MacArthur Street
+          1	Macdonald's Nananu Beach Cottages
+          1	Macuata
+          1	Madams Place
+          1	Maddocks Road
+          1	Madhavan Street
+          1	Madho Crescent
+          1	Madhu Tailoring
+          1	Magic Scissors Hair & Beauty Salon
+          2	Maharaj Place
+          1	Maharaj minimart
+          1	Mahatma Gandhi Memorial High School Polling Venue
+          1	Mai Life Magazine
+          1	Maid statiom
+          1	Maid's Quarters
+          1	Maikana Cafe
+          1	Maikana cafe
+          1	Main Bure
+          1	Main Pool
+          2	Main Street
+          1	Mainaloa Road
+          2	Makadru
+          1	Makaluva Road
+          1	Makita Place
+          1	Makita Street
+          1	Makoi Health Center
+          1	Makoi Muslim Primary Sch
+          1	Makolei Community Hall
+          1	Makongai
+          2	Makosoi Road
+          1	Makuluva
+          1	Mal Street
+          1	Mala Circle
+          1	Mala Place
+          1	Malakati Community Hall - Polling Venue
+          1	Malake Island
+          1	Malake Village Community Hall, Ra
+          1	Malake Village Community Hall, Ra - Polling Venue
+          1	Malamala 2
+          1	Malamala 3
+          1	Malamala Island
+          1	Malamala Street
+          1	Malamala1
+          1	Malau Place
+          1	Malcolm Street
+          1	Malevu
+          1	Malevu 2
+          1	Mali Island
+          1	Mali Lane
+          1	Mali Place
+          1	Malima Street
+          2	Malolo
+          1	Malolo 1
+          2	Malolo 2
+          1	Malolo 3
+          1	Malolo Health Centre
+          1	Malolo Lailai Island Airport
+          1	Malolo Place
+          1	Malolo Street
+          1	Malolo fisher sports
+          3	Mama's Pizza
+          1	Mamacita's
+          1	Mamanuca Express
+          1	Mamanuca Islands
+          1	Mamanuka Restaurant
+          1	Mamaqalevu
+          1	Mamas Place
+          1	Mamasa Qoro
+          1	Mambualau
+          1	Mana Backpackers
+          1	Mana House
+          1	Mana Island Airport
+          1	Mana Island Resort
+          1	Mana Spa
+          1	Mana Street
+          1	Manawi Place
+          1	Mandhir Street
+          1	Mandir Street
+          1	Mans Works
+          1	Manta Ray Passage
+          1	Mantaray Island Resort
+          1	Mantray Dive Shop - Amended location to match photo
+          1	Manuka Street
+          1	Manuku
+          1	Manulava Circle
+          1	Manus Barber Shop
+          1	Many Hostels
+          3	Maqbool Road
+          1	Maramarua District School
+          1	Marasa Place
+          1	Marau Place
+          2	Maravu
+          1	Maravu Bar
+          1	Maravu Street
+          4	Maravu West
+          1	March Place
+          1	Mare Community Hall - Polling Venue
+          1	Mariko Street
+          1	Marine Drive
+          2	Mariners Reach
+          1	Marion Street
+          2	Marist Brothers High School
+          3	Marist Brothers Primary School
+          1	Marist Champagnat Technical Institute Polling Venue
+          1	Marist Primary School
+          1	Maritime & Ports Reception
+          1	Mark Street
+          1	Market
+          2	Market Road
+          1	Marlow Street
+          1	Marou
+          2	Marou Road
+          2	Married Quarters
+          1	Married Quarters 26
+          1	Marsha Place
+          1	Marshall
+          1	Martintar Road
+          1	Mary's Handcraft Centre
+          1	Mase Place
+          1	Mata Holdings Yacht Partners
+          1	Matacaucau Community Hall
+          1	Matacawa Levu
+          1	Matacawaniikabula
+          2	Matainananu Village Community Hall
+          1	Matainananu Village Community Hall Polling Venue
+          1	Mataiviti house
+          1	Matalolo Village FEO Tent.
+          1	Matamata
+          1	Matana Street
+          1	Matanikorovatu Rd
+          1	Matanikutu Road
+          1	Matanimoli
+          1	Matanitobua Street
+          1	Matanivusi Surf Resort
+          1	Mataniwai Community Hall
+          1	Matarua
+          1	Matarua 2
+          1	Matau Road
+          1	Matawailevu Community Hall, Ra
+          1	Matawalu
+          1	Matu Place
+          1	Matu Street
+          1	Matua Street
+          1	Matuku
+          1	Matuku Street
+          1	Matuku Wharf
+          1	Mau
+          1	Maui Bay
+          1	Maumi Community Hall
+          1	Maunikau Police Post
+          1	Maureen Wright Park
+          1	Mavoa Road
+          1	Mavua
+          1	Mavua # 2
+          1	Mawaraka Place
+          1	Max Value
+          1	Mayur's Barbershop
+          1	McDonald Carpark
+          4	McDonald's
+          1	McDonalds Drivethrough
+          1	McFarlane Road
+          1	McGregor Road
+          1	McLarens (Global Claims Services)
+          1	McOwen Street
+          1	Mead Rd Lights
+          2	Mead Road
+          1	Mecure Car Parking
+          1	Medisure pharmacy
+          1	Meenos 
+          1	Mega Variety Store
+          1	Mehndi Place
+          1	Mei Mei Room
+          1	Melanisian Building
+          1	Melanisian Imports& Export
+          1	Melbrone
+          1	Merchants Finance
+          1	Mercure
+          1	Mercure Function Park
+          1	Mercure Tennis Court
+          1	Meru
+          1	Mesuria Travel Agent
+          1	Mesuria resident
+          1	Methodist Farm Road
+          1	Michael Fried Chicken
+          1	Mid City Plaza Mall
+          1	Midwest
+          1	Midwest Supermarket
+          1	Mika Dreu Place
+          1	Military Cemetery
+          1	Mill View Road
+          1	Millenium Bure
+          2	Millenium Road
+          1	Millet Street
+          1	Milne Road
+          1	Milverton Road
+          1	Mindpearl Call Center
+          1	Mineral Resources Department
+          2	Ministry of Agriculture
+          1	Ministry of Provincial Development and National Disaster Ma
+          1	Ministry of justice
+          1	Miracle Tabernacle Revival Centre
+          1	Mission Place
+          1	Mission Road
+          1	Mission at Natuvu Bay
+          1	MixFM
+          2	Moala
+          1	Moala Street
+          1	Moana Drive
+          1	Mobil Mart Lautoka
+          1	Mobile
+          1	Mobile Nabua
+          2	Mobile Service Station
+          1	Moce Street
+          1	Mociu Island
+          1	Modern glass& mirror Ltd
+          1	Mohammed Afzal khan
+          2	Mohammed Najim
+          1	Mohini's take away
+          1	Mokoisa Community Hall
+          1	Mokosoi Road
+          1	Mokosoi street
+          1	Moli Place
+          1	Monasavu Dam
+          1	MoneyGram Money Transfer
+          1	Monfort Boys Town Polling Venue
+          1	Monique rentals
+          1	Moniques  Rent a car
+          1	Monkey rock
+          1	Montfort Technical Institute
+          1	Montreal Crescent
+          1	Morris Headsrom
+          1	Morris Hedstrom(MH Rodwell Rd Branch)
+          1	Morris Street
+          1	Morris Wala
+          1	Morrison Headsrom
+          1	Mosque
+          1	Mosquito Ground
+          1	Mosquito Island
+          1	Motel Pool
+          1	Moti Chandra Crescent
+          1	Moti Street
+          2	Motibhai
+          1	Motibhai Group
+          1	Motibhai Store Room
+          2	Motiram
+          1	Motueka
+          1	Moturiki
+          1	Mount Korobaba
+          1	Mount St Mary Crescent
+          1	Mpearl Sloane
+          1	Mt Batilamu Cabin
+          1	Mt. Batylamu Lodge
+          1	Mt. Karoromba Trail
+          1	Muaciri houz
+          1	Muaicolo Road
+          1	Muaira
+          1	Muaivuso
+          1	Muana Community Hall Rewa Polling Venue
+          1	Muani Village School, kadavu
+          1	Muanidevo Indian Primary School
+          2	Muanikau
+          1	Muanikau Road
+          1	Muanikoso Rd
+          1	Muanivatu
+          1	Muanivatu 2
+          1	Mudaliar Place
+          1	Mudpool
+          1	Mudu
+          1	Muir Lane
+          1	Mukta Ben Place
+          1	Multi international manufacturer of electrical accessories
+          1	Mumu's
+          1	Munia Street
+          1	Murray Street
+          1	Musket Cove Marina
+          1	Mutlah Street
+          1	My Hair Salon
+          1	My Hair salon 
+          1	My Suva Park
+          1	My Suva Picnic Park
+          1	N 12
+          1	N 21
+          1	N V14
+          1	N#10
+          1	N#11
+          1	N#12
+          1	N#5
+          1	N#7
+          1	N#8
+          1	N1
+          1	N10
+          1	N11
+          1	N12
+          1	N16
+          1	N2
+          1	N22
+          1	N25
+          2	N27
+          1	N28
+          2	N29
+          2	N30
+          2	N31
+          2	N32
+          1	N33
+          1	N34
+          1	N35
+          1	N36
+          2	N37
+          2	N38
+          2	N39
+          1	N4
+          2	N40
+          2	N41
+          1	N42
+          2	N43
+          1	N44
+          1	N45
+          2	N46
+          1	N47
+          1	N48
+          1	N49
+          1	N5
+          1	N50
+          2	N51
+          1	N52
+          1	N53
+          1	N54
+          1	N55
+          1	N56
+          1	N57
+          2	N58
+          1	N59
+          1	N6
+          2	N60
+          2	N61
+          1	N62
+          1	N63
+          1	N64
+          1	N7
+          1	N8
+          1	N9
+          1	NA17
+          1	NA50
+          1	NA61
+          1	NA67
+          1	NA75
+          1	NA77
+          1	NA80
+          1	NADI AIRPORT FIRE STATION
+          1	NADI AIRPORT PLAY CENTER
+          1	NADI ARIYA SAMAJ PRIMARY SCHOOL( EC)
+          1	NADI DELTA CAMP
+          3	NADI DISTRICT
+          2	NADI DISTRICT SCHOOL
+          1	NADI FIRE STATION
+          1	NADI MUSLIM COLLEGE
+          1	NADI MUSLIM PRIMARY
+          1	NADI MUSLIM SCH CAR PARK
+          1	NADI RIVER
+          1	NADI SPORTS CLUB
+          1	NADI women's crisis centre
+          2	NAGSUN GARMENTS
+          1	NAISONISONI METHODIST CHURCH (EC)
+          1	NAKURA#10
+          1	NAKURA#11
+          1	NAKURA#12
+          1	NAKURA#13
+          1	NAKURA#14
+          1	NAKURA#15
+          1	NAKURA#16
+          1	NAKURA#17
+          1	NAKURA#18
+          1	NAKURA#19
+          1	NAKURA#2
+          1	NAKURA#20
+          1	NAKURA#21
+          1	NAKURA#22
+          1	NAKURA#23
+          1	NAKURA#24
+          1	NAKURA#25
+          1	NAKURA#26
+          1	NAKURA#27
+          1	NAKURA#28
+          1	NAKURA#3
+          1	NAKURA#30
+          1	NAKURA#31
+          1	NAKURA#32
+          1	NAKURA#33
+          1	NAKURA#34
+          1	NAKURA#35
+          2	NAKURA#36
+          1	NAKURA#37
+          1	NAKURA#38
+          1	NAKURA#39
+          1	NAKURA#4
+          1	NAKURA#40
+          1	NAKURA#41
+          1	NAKURA#42
+          1	NAKURA#43
+          1	NAKURA#44
+          1	NAKURA#45
+          1	NAKURA#46
+          1	NAKURA#47
+          1	NAKURA#48
+          1	NAKURA#49
+          1	NAKURA#5
+          1	NAKURA#50
+          1	NAKURA#51
+          1	NAKURA#52
+          1	NAKURA#53
+          1	NAKURA#54
+          1	NAKURA#6
+          1	NAKURA#7
+          1	NAKURA#8
+          1	NAKURA#9
+          2	NAKURA#AG
+          1	NAKURA2#1
+          1	NAMAKA POLICE STATION
+          1	NAMOTOMOTO CEMETERY
+          1	NAP1
+          1	NAP10
+          1	NAP11
+          1	NAP12
+          1	NAP13
+          1	NAP14
+          1	NAP15
+          1	NAP16
+          1	NAP17
+          1	NAP18
+          1	NAP19
+          1	NAP2
+          1	NAP20
+          1	NAP21
+          1	NAP22
+          1	NAP23
+          1	NAP24
+          1	NAP25
+          2	NAP26
+          1	NAP28
+          1	NAP29
+          1	NAP3
+          1	NAP30
+          1	NAP31
+          1	NAP32
+          1	NAP33
+          1	NAP34
+          1	NAP35
+          1	NAP36
+          1	NAP37
+          1	NAP38
+          1	NAP39
+          1	NAP4
+          1	NAP40
+          1	NAP41
+          1	NAP42
+          1	NAP43
+          1	NAP44
+          1	NAP45
+          1	NAP46
+          1	NAP47
+          1	NAP48
+          1	NAP49
+          1	NAP5
+          1	NAP50
+          1	NAP51
+          1	NAP52
+          1	NAP53
+          1	NAP54
+          1	NAP6
+          1	NAP7
+          1	NAP8
+          2	NAP9
+          1	NASA
+          1	NASA DELTA CAMP
+          1	NAVOCI Cemetery
+          5	NDS
+          1	NETBALL COURT
+          1	NEW WORLD SUPERMARKET
+          1	NIRANJANS CAR DEALER
+          1	NJ 5
+          1	NJ R1
+          1	NJ r10
+          1	NJ r11
+          1	NJ r12
+          1	NJ r13
+          1	NJ r14
+          1	NJ r15
+          1	NJ r16
+          1	NJ r17
+          1	NJ r18
+          1	NJ r19
+          1	NJ r2
+          1	NJ r20
+          1	NJ r21
+          1	NJ r22
+          1	NJ r23
+          1	NJ r25
+          1	NJ r26
+          1	NJ r27
+          1	NJ r3
+          1	NJ r4
+          1	NJ r6
+          1	NJ r7
+          1	NJ r8
+          1	NJ r9
+        108	NK
+          1	NL#1
+          1	NL#2
+          1	NL#4
+          1	NL#6
+          1	NL1
+          1	NL10
+          1	NL11
+          1	NL12
+          2	NL13
+          2	NL14
+          1	NL15
+          1	NL16
+          1	NL17
+          1	NL18
+          2	NL19
+          1	NL2
+          2	NL20
+          1	NL21
+          1	NL22
+          1	NL23
+          2	NL24
+          3	NL25
+          3	NL26
+          3	NL27
+          2	NL28
+          2	NL29
+          1	NL3
+          2	NL30
+          2	NL31
+          2	NL32
+          2	NL33
+          2	NL34
+          2	NL35
+          2	NL36
+          2	NL37
+          3	NL38
+          2	NL39
+          1	NL4
+          2	NL40
+          2	NL41
+          2	NL42
+          2	NL43
+          2	NL44
+          2	NL45
+          2	NL46
+          2	NL47
+          2	NL48
+          2	NL49
+          1	NL5
+          2	NL50
+          2	NL51
+          1	NL52
+          1	NL53
+          2	NL54
+          2	NL55
+          1	NL56
+          1	NL57
+          1	NL6
+          1	NL7
+          1	NL8
+          1	NL9
+          2	NM1
+          2	NM10
+          1	NM11
+          1	NM13
+          2	NM14
+          1	NM18
+          2	NM2
+          1	NM24
+          1	NM28
+          1	NM29
+          2	NM3
+          1	NM30
+          1	NM34
+          2	NM4
+          1	NM42
+          1	NM44
+          1	NM45
+          1	NM46
+          1	NM47
+          1	NM48
+          2	NM5
+          1	NM6
+          1	NM7
+          1	NM9
+         53	NMK
+          1	NORTHERN PRESS RD
+          1	NP#1
+          1	NP#10
+          1	NP#11
+          1	NP#12
+          1	NP#13
+          1	NP#2
+          1	NP#3
+          1	NP#4
+          1	NP#5
+          1	NP#6
+          1	NP#7
+          1	NP#8
+          1	NP#9
+          1	NP1
+          1	NP10
+          1	NP11
+          1	NP12
+          1	NP13
+          1	NP14
+          1	NP15
+          1	NP16
+          1	NP17
+          1	NP18
+          1	NP19
+          1	NP2
+          1	NP20
+          1	NP21
+          1	NP22
+          1	NP23
+          1	NP24
+          1	NP25
+          2	NP26
+          2	NP27
+          1	NP28
+          1	NP29
+          1	NP3
+          1	NP30
+          1	NP31
+          2	NP33
+          1	NP34
+          1	NP35
+          1	NP36
+          2	NP37
+          2	NP38
+          1	NP39
+          1	NP4
+          1	NP40
+          1	NP41
+          1	NP42
+          1	NP43
+          1	NP44
+          1	NP45
+          1	NP46
+          1	NP47
+          1	NP48
+          1	NP49
+          1	NP5
+          1	NP50
+          1	NP51
+          1	NP52
+          2	NP53
+          1	NP54
+          1	NP55
+          1	NP56
+          1	NP57
+          1	NP58
+          1	NP59
+          1	NP6
+          1	NP60
+          1	NP61
+          1	NP62
+          1	NP63
+          1	NP7
+          1	NP8
+          1	NP9
+          4	NPS
+          1	NPS KINDERGARTEN
+          1	NPS PLAYGROUNDD
+          1	NR 1
+          1	NR 2
+          1	NR 3
+          1	NR 4
+          3	NR1
+          3	NR10
+          3	NR11
+          3	NR12
+          2	NR13
+          3	NR14
+          3	NR15
+          3	NR16
+          3	NR17
+          3	NR18
+          3	NR19
+          3	NR2
+          3	NR20
+          2	NR21
+          2	NR22
+          2	NR23
+          2	NR3
+          1	NR31
+          2	NR4
+          1	NR44
+          2	NR5
+          1	NR54
+          2	NR6
+          1	NR69
+          2	NR7
+          1	NR70
+          1	NR71
+          2	NR74
+          2	NR8
+          1	NR80
+          2	NR9
+          1	NR92
+          1	NR93
+          1	NR94
+          1	NR95
+          1	NR96
+          1	NR97
+          1	NR98
+          1	NR99
+          1	NRC
+          1	NS1
+          1	NS10
+          1	NS11
+          1	NS12
+          1	NS13
+          1	NS14
+          1	NS15
+          1	NS16
+          1	NS17
+          1	NS18
+          1	NS19
+          1	NS2
+          1	NS20
+          1	NS21
+          1	NS3
+          1	NS4
+          1	NS5
+          1	NS6
+          1	NS7
+          1	NS8
+          1	NS9
+          1	NT 26
+          5	NT1
+          3	NT10
+          1	NT100
+          1	NT101
+          3	NT11
+          4	NT12
+          4	NT13
+          3	NT14
+          3	NT15
+          3	NT16
+          5	NT17
+          4	NT18
+          4	NT19
+          4	NT2
+          3	NT20
+          4	NT21
+          3	NT22
+          3	NT23
+          4	NT24
+          4	NT25
+          3	NT26
+          4	NT27
+          3	NT28
+          3	NT29
+          6	NT3
+          3	NT30
+          3	NT31
+          3	NT32
+          3	NT33
+          3	NT34
+          3	NT35
+          2	NT36
+          3	NT37
+          3	NT38
+          3	NT39
+          5	NT4
+          3	NT40
+          4	NT41
+          3	NT42
+          4	NT43
+          3	NT44
+          3	NT45
+          3	NT46
+          3	NT47
+          3	NT48
+          3	NT49
+          4	NT5
+          3	NT50
+          3	NT51
+          3	NT52
+          3	NT53
+          3	NT54
+          3	NT55
+          3	NT56
+          3	NT57
+          3	NT58
+          3	NT59
+          5	NT6
+          3	NT60
+          5	NT61
+          4	NT62
+          5	NT63
+          4	NT64
+          4	NT65
+          4	NT66
+          4	NT67
+          4	NT68
+          4	NT69
+          3	NT7
+          4	NT70
+          4	NT71
+          4	NT72
+          4	NT73
+          4	NT74
+          4	NT75
+          4	NT76
+          4	NT77
+          3	NT78
+          4	NT79
+          3	NT8
+          4	NT80
+          3	NT81
+          2	NT82
+          2	NT83
+          2	NT84
+          2	NT85
+          2	NT86
+          2	NT87
+          2	NT88
+          2	NT89
+          4	NT9
+          1	NT90
+          1	NT91
+          1	NT92
+          1	NT93
+          1	NT94
+          1	NT95
+          1	NT96
+          1	NT97
+          1	NT98
+          1	NT99
+          1	NTC Engineering Department
+          1	NTC Parking Meter Office
+          1	NTC library
+          1	NU Tech Office
+          4	NV
+          1	NV#1
+          1	NV#10
+          1	NV#11
+          1	NV#13
+          1	NV#14
+          1	NV#15
+          1	NV#16
+          1	NV#17
+          1	NV#18
+          1	NV#19
+          1	NV#2
+          1	NV#20
+          1	NV#21
+          1	NV#22
+          1	NV#23
+          1	NV#24
+          1	NV#25
+          1	NV#26
+          1	NV#27
+          1	NV#28
+          1	NV#29
+          1	NV#3
+          1	NV#30
+          1	NV#31
+          1	NV#32
+          1	NV#33
+          1	NV#34
+          1	NV#35
+          1	NV#36
+          1	NV#37
+          1	NV#38
+          1	NV#39
+          1	NV#4
+          1	NV#40
+          1	NV#41
+          1	NV#42
+          1	NV#43
+          1	NV#44
+          1	NV#45
+          1	NV#46
+          1	NV#5
+          1	NV#6
+          1	NV#7
+          1	NV#8
+          1	NV#9
+          1	NV1
+          1	NV10
+          1	NV11
+          2	NV12
+          1	NV13
+          1	NV15
+          1	NV16
+          1	NV17
+          1	NV18
+          1	NV19
+          1	NV2
+          1	NV20
+          1	NV21
+          1	NV22
+          1	NV23
+          1	NV24
+          1	NV25
+          1	NV26
+          1	NV3
+          1	NV4
+          1	NV43
+          1	NV44
+          1	NV45
+          1	NV46
+          1	NV47
+          1	NV48
+          1	NV49
+          1	NV5
+          1	NV50
+          1	NV51
+          2	NV52
+          1	NV53
+          1	NV54
+          1	NV55
+          1	NV56
+          1	NV57
+          1	NV58
+          1	NV59
+          1	NV6
+          1	NV60
+          2	NV61
+          1	NV62
+          1	NV63
+          1	NV7
+          1	NV8
+          1	NV9
+         12	NVK
+          1	NVK 1
+          1	NVK 2
+          1	NZ Embassy
+          1	Nabaka
+          1	Nabalasere Community Hall - Polling Venue
+          1	Nabalebale Community Hall, Savusavu
+          1	Nabalebale Village FEO Tent, Navatu
+          1	Nabalebale village
+          1	Nabasovi
+          1	Nabau
+          1	Nabau District School, Ra
+          1	Nabekavu Primary School
+          1	Nabiti Community Hall, Seaqaqa
+          1	Nabitu District School
+          1	Naboro Landfill
+          1	Naboutini
+          1	Naboutini  Community Hall
+          1	Nabouwalu
+          1	Nabouwalu - Labasa Highway
+          1	Nabouwalu Police Station (Hub)
+          2	Nabua
+          1	Nabua Bakery
+          2	Nabua Bus Stop
+          1	Nabua Bus stop
+          1	Nabua Pharmacy
+          1	Nabua Police Station
+          1	Nabua Primary School, Koroalau
+          1	Nabua Road
+          1	Nabua Secondary School
+          1	Nabuabua Community Hall - Polling Venue
+          1	Nabubu Village FEO Tent.
+          1	Nabudrau
+          1	Nabukadogo Community Hall
+          1	Nabukadra
+          1	Nabukadra Community Hall
+          1	Nabukavesi
+          1	Nabukelevu # 2
+          1	Nabukelevu #1
+          1	Nabukeru
+          1	Nabuli 1
+          1	Nabuli 2
+          1	Nabulini Community Hall
+          1	Nabuna
+          1	Nabunikadamu Community Hall
+          1	Nabutautau Community Hall - Polling Venue
+          1	Nacagilevu Crescent
+          1	Nacara Street
+          1	Nacavacola
+          1	Nacavucavu house
+          1	Nacekoro Community Hall
+          1	Nacekoro Heights Road
+          2	Naceva
+          1	Nacevavou
+          1	Nacobo
+          1	Nacoqio Road
+          1	Nacula
+          1	Nacula Island
+          2	Nacula Street
+          1	Nacula Village FEO Tent, Saqani
+          1	Nacuva Street
+          1	Nadali
+          1	Nadali By-pass
+          1	Nadali Community Hall
+          1	Nadamole Community Hall
+          1	Nadaro Community Hall
+          1	Nadavaci Community Hall, Natewa
+          1	Nadawa Methodist Church Hall Polling Venue
+          1	Nadawa Street
+          2	Nadi
+          1	Nadi Airport
+          1	Nadi Auto Spares
+          5	Nadi Back Road
+          1	Nadi Bay Resort Hotel
+          1	Nadi Club
+          1	Nadi District School
+          1	Nadi Downtown Hotel
+          2	Nadi Hospital
+          2	Nadi International Airport
+          1	Nadi Korean Church
+          1	Nadi Mayor's Chamber
+          2	Nadi Primary School
+          1	Nadi Sangam Primary Sch
+          1	Nadi Saving Store
+          1	Nadi Soni Samaj
+          1	Nadi Town Council Library
+          1	Nadi Town Council Office
+          1	Nadi golf course  club house
+          1	Nadi market
+          1	Nadi/Primary
+          1	Nadilevu 1
+          1	Nadina
+          1	Nadine Authentic Fijian Restaurant
+          1	Nadivakarua Community Hall
+          1	Nadogo Central College
+          1	Nadogo Village FEO Tent.
+          1	Nadogoloa Community Hall
+          1	Nadogoloa Community Hall Polling Venue
+          1	Nadoi Community Hall
+          1	Nadonumai
+          1	Nadonumai Road
+          1	Nadoria Community Hall
+          1	Nadovu Park
+          1	Nadovu Road
+          1	Nadranikaba
+          1	Nadrano Settlement
+          1	Nadrau
+          1	Nadrugu Community Hall - Polling Venue
+          1	Nadua
+          1	Nadua Communiity Hall
+          1	Naduguivalu  house 1
+          1	Naduguivalu 2
+          1	Nadukuvote
+          1	Naduna Technical College
+          1	Naduri
+          1	Naduri Community Hall
+          1	Naduru Village FEO Tent.
+          1	Nagado
+          1	Nagadoa Community Hall
+          1	Nagaga Street
+          1	Nagalu
+          1	Nagigi Community Hall
+          1	Nagigi Primary School, Labasa
+          1	Nagigi Village
+          1	Nagigia
+          1	Nagin Liladar
+          1	Naidi Community Hall
+          1	Naidiri 1
+          1	Naidiri 2
+          2	Naigani
+          1	Naigani Community Hall Korovou
+          2	Naigani Island Resort
+          2	Naigani Village
+          3	Naikabula Road
+          1	Naikavaki College
+          1	Naikawaga Community Hall
+          1	Naikorokoro Community Hall - Polling Venue
+          1	Nail Goundar Building
+          1	Naila Community Hall
+          1	Nailaulaunikuthuve Islets
+          1	Nailega Community Hall Korovou
+          1	Nailega District School Wainibuka
+          1	Nailuva Road
+          1	Naimalavau Community Hall
+          1	Naimasimasi Community Hall Korovou
+          1	Naiqaqi Community Hall
+          1	Nairai
+          1	Nairai Road
+          1	Naiserelagi
+          1	Naisisili Community Hall - Polling Venue
+          1	Naisogoluvu Road
+          1	Naisogosei
+          1	Naisogosei 2
+          1	Naisogovau Community Hall
+          1	Naisoso Island
+          1	Naisosovou
+          1	Naitasiri 1
+          1	Naitasiri 1/2
+          1	Naitutu Community Hall
+          1	Naivaka Community Hall
+          1	Naivicula District School
+          1	Naividamu Village Hall, Seaqaqa
+          1	Naivinivini 2
+          1	Naiviqiri Community Hall
+          1	Naivoco Community Hall
+          1	Naivoco Community Hall Polling Venue
+          1	Naivuruvuru Community Hall
+          1	Naiyala High School
+          1	Nakabuta Community Hall, Wainunu
+          1	Nakadrudru Police Post FEO Shed.
+          1	Nakaile Community Hall
+          1	Nakalavo
+          1	Nakalawaca Community Hall Namalata
+          1	Nakalou Community Hall
+          1	Nakanacagi Community Hall, Seaqaqa
+          1	Nakanu Landing
+          1	Nakarabo Village FEO Tent
+          1	Nakasa Community Hall, Wailevu East
+          1	Nakaulevu Raod
+          1	Nakauvadra Road
+          1	Nakavika Village FEO Tent
+          1	Nakavu
+          1	Nakawaga Community Hall
+          1	Nakawaga Community Hall, Mali
+          1	Nakawakawa Community Hall, Wainunu
+          1	Nakelikoso Primary School
+          1	Nakelo District School
+          1	Nakelo District School Polling Venue
+          1	Nakelo Street
+          1	Nakobo District School, Cakaudrove
+          1	Nakodu
+          2	Nakoroivau Community Hall
+          1	Nakorokula
+          1	Nakorotiki
+          1	Nakorovai
+          1	Nakorovou
+          1	Nakorovou Community Hall Nausori
+          1	Nakorovou Community Hall, Bua
+          1	Nakorovou Village Community Hall Navua Polling Venue
+          1	Nakoyo
+          2	Nakubukubu
+          1	Nakuku Village FEO Tent
+          1	Nakusekula house
+          2	Nala
+          1	Nalauwaki Community Hall - Polling Venue
+          1	Nalauwaki Village
+          1	Naleba College
+          1	Nalidi Community Hall
+          1	Nalotawa Community Hall - Polling Venue
+          1	Nalotawa District School FEO Tent - Polling Venue
+          1	Naloto Community Hall
+          1	Nalutubogi Lake
+          1	Namacu
+          1	Namadi Heights
+          1	Namadi Heights Police Post
+          1	Namaka Health Centre
+          1	Namaka Lane
+          1	Namaka Market
+          1	Namaka School
+          1	Namaka lane
+          1	Namako Place
+          1	Namalata
+          1	Namalata Community Hall, Bua
+          1	Namalata Community Hall, Kadavu
+          1	Namalata District School
+          1	Namale
+          1	Namale Dormitory
+          1	Namale Meeting Room
+          1	Namale Private Golf Links
+          1	Namale Reception
+          1	Namale Resort
+          2	Namale Wellness Centre
+          1	Namaqumaqua
+          3	Namara
+          1	Namara District School
+          1	Namara Road
+          1	Namara2
+          1	Namarai
+          1	Namarai Community Hall
+          1	Namata District School
+          1	Namata District School Polling Venue
+          1	Namatadogo Settlement
+          1	Namataku District School FEO Tent - Polling Venue
+          1	Namatakula
+          1	Namatakula Homestay
+          1	Namau Primary School, Bua
+          1	Namdi Baptist
+          1	Namena
+          1	Namena District School
+          2	Namena Road
+          1	Namoli Avenue
+          1	Namoli Community Hall, Labasa
+          1	Namosau
+          1	Namosau Bridge
+          1	Namosau Street
+          1	Namosi Eco Retreat
+          1	Namotomoto
+          1	Namotomoto 2
+          1	Namotomoto Resource Center
+          1	Namotomoto Village
+          1	Namuaimada
+          1	Namuaimada Community Hall
+          1	Namuaivoivoi Community Hall
+          1	Namuavoivoi Road
+          1	Namuka District School FEO Tent, Macuata
+          1	Namuka Street
+          1	Namuka Village Community Hall Bau
+          1	Namuka Village Community Hall Polling Venue
+          1	Namukalau Village FEO Tent, Dogotuki
+          1	Nananu i Ra
+          1	Nananu-i-Thake
+          2	Nandi Village
+          1	Nandos
+          1	Nands Shopping Centre
+          1	Nanenivuda Village FEO Tent
+          1	Nanokonoko
+          1	Nanuku Bus stop
+          1	Nanuku Lane
+          1	Nanuku Private Airstrip
+          2	Nanuku Resort
+          2	Nanuku Street
+          1	Nanukuloa
+          1	Nanukuloa Community Hall
+          1	Nanukuloa Health Centre
+          1	Nanuya Balavu Island
+          1	Nanuya Island
+          1	Nanuya Island Resort
+          1	Nanuya Street
+          1	Nanuya-i-Ra
+          1	Nanuya-i-Yata
+          1	Naocobau
+          1	Naocobau Community Hall
+          1	Naodamu Housing Hall
+          1	Naqaidamu
+          1	Naqaiqai
+          1	Naqali Health Center
+          1	Naqali Village
+          1	Naqalia Lodge
+          1	Naqaqa Estate
+          1	Naqara Island
+          1	Naqarakoso
+          1	Naqaravutu Community Hall
+          1	Naqasima Place
+          1	Naqelecibi Community Hall - Polling Venue
+          1	Naqeledamu Community Hall
+          1	Naqumu Road
+          1	Naqwalia2
+          1	Narain Jetty
+          1	Narain Place
+          1	Naran Collection
+          1	Naranji Street
+          2	Narara Island
+          2	Narara Parade
+          1	Nararo Road
+          1	Narau Road
+          1	Narayan Singh
+          1	Narere Primary School Polling Venue
+          1	Narere Road
+          1	Narewa
+          1	Narewa Community Hall
+          1	Narewa Community office 
+          1	Narewa Road
+          1	Narewa kindergarten
+          1	Narewa village dispensary
+          1	Narhari
+          1	Narhari Building 
+          1	Narogobau
+          1	Narotam Lane
+          1	Naruwai Village School
+          1	Nasagavoki Road
+          1	Nasaibitu Community Hall
+          1	Nasalaulu
+          1	Nasalia Community Hall, Kadavu
+          2	Nasanga
+          1	Nasaqa Village FEO Shed
+          1	Nasarawaqa Community Hall
+          1	Nasarawaqa Primary School
+          1	Nasareci Methodist Church
+          1	Nasarowaqa Bridge
+          1	Nasarowaqa Cemetry
+          1	Nasarowaqa Primary School
+          1	Nasaru
+          1	Nasasa District School, Nadogo
+          1	Nasasaivua Community Hall
+          2	Nasau
+          1	Nasau Community Hall, Navitilevu, Ra
+          1	Nasaucoko Community Hall - Polling Venue
+          1	Nasautoka Primary School
+          1	Nasauvakarua Community Hall - Polling Venue
+          1	Nasauvarua house
+          2	Nasauvuki
+          1	Nasava
+          1	Nasavusavu Apostolic Church, Nalawa, Ra
+          1	Nasavusavu District School, Cakaudrove
+          1	Nasawana Community Hall
+          1	Nasealevu Community Hall
+          1	Nasekula Community Hall
+          3	Nasekula Road
+          1	Naselai Feeder Rd FEO Shed Polling Venue
+          1	Naselai Feeder Road FEO Shed
+          1	Naselai Feeder Road FEO Shed Polling Venue
+          1	Naselesele Bridge
+          1	Naselesele River
+          2	Nasesara
+          1	Nasesara Road
+          2	Nasese
+          1	Nasese Medical Center
+          1	Nasevou Street
+          1	Nasigasiga Community Hall
+          2	Nasikawa Vision College
+          1	Nasikawa/Viwa House
+          1	Nasilai Community Hall
+          1	Nasilai Place
+          1	Nasilivata Road
+          1	Nasinu
+          1	Nasinu Community Hall
+          1	Nasinu Community Hall - Polling Venue
+          1	Nasinu Rd
+          1	Nasinu Secondary School
+          1	Nasivikoso Village FEO Tent - Polling Venue
+          1	Nasoki Street
+          1	Nasole Mandir
+          1	Nasole Road
+          1	Nasolo
+          1	Nasolo Community Hall
+          1	Nasoqo
+          1	Nasorulevu
+          1	Nasoso R19
+          1	Nasoso R29
+          6	Nasoso Road
+          1	NasosoR4
+          1	NasosoR49
+          1	NasosoR9
+          1	Nasova Road
+          1	Nassau Road
+          1	Nasuva Village Hall
+          1	Natabale
+          1	Natabua
+          1	Natabua High School
+          1	Natabua Primary School
+          1	Natabua Road
+          1	Natabua Seaside Road
+          1	Natabudoka
+          1	Natadola Bay Golf Course
+          1	Natadola Beach Resort
+          1	Natadola SPB
+          1	Natadra District School
+          1	Natadradave Village FEO Shed Polling Venue
+          1	Natadradave Village FEO Tent
+          1	Natauvesi houz
+          1	Natawa Community Hall, Sabeto - Polling Venue
+          1	Natawa Community Hall, Yasawa - Polling Venue
+          1	Natawa Village
+          1	Natawarau Village
+          2	Natewa
+          5	Natewa Bay
+          1	Natewa Bay Marina
+          1	Natewa District School
+          1	Nathamaki
+          1	National Aquatic Centre
+          1	National Archives Of Fiji
+          1	National Gymnasium
+          1	National Stadium
+          1	National University Of Fiji (Samabula Campus)
+          1	Native Fijian Market
+          1	Native Land Trust Board
+          1	Natoaika Village
+          2	Natoaika Village School
+          1	Natogadravu Community Hall Polling Venue
+          1	Natogo
+          1	Natogo  2
+          1	Natogo 1
+          1	Natogo 2
+          1	Natogo3
+          1	Natokakau Community Hall - Polling Venue
+          2	Natokalau
+          1	Natokalau Community Hall, Bua
+          1	Natokowaqa Street
+          1	Natua Community Hall, Wailevu West
+          1	Natumua Community Hall, Kadavu
+          1	Natunuku
+          2	Natural Pools and Waterfalls
+          1	Natutale
+          1	Natuva Community Hall
+          1	Natuvu Community FEO Shed, Saqani
+          1	Natuvu Community Hall, Savusavu
+          1	Naukacuvu Island
+          1	Nauluvatu
+          1	Nauluvatu Methodist Church Hall Polling Venue
+          1	Nauluvatu Road
+          1	Nausatoka Village
+          1	Nausori
+          1	Nausori 2
+          1	Nausori Airport Hotel
+          1	Nausori Airport Taxi
+          1	Nausori Community Hall, Ra
+          1	Nausori Fire Brigade
+          1	Nausori International Airport
+          1	Nausori Technical College
+          1	Nausori Terminal
+          1	Nava Street
+          1	Navaga
+          1	Navaga Community Hall, Ba - Polling Venue
+          1	Navai Community Hall, Nadarivatu - Polling Venue
+          1	Navai Primary School, Seaqaqa
+          1	Navaka
+          1	Navakai DAiry shop
+          1	Navakaka Community Hall
+          1	Navakasali Community Hall
+          2	Navakase Road
+          1	Navakasiga District School
+          1	Navakasobu Community Hall
+          1	Navakuru Community Hall
+          1	Navala
+          1	Navani
+          1	Navata House
+          1	Navatu
+          1	Navatu Community Hall, Kubulau
+          1	Navatu Secondary School, Cakaudrove
+          1	Navatulevu (chiefly house)
+          1	Navatuma
+          1	Navatuma 2
+          1	Navatuma 3
+          1	Navatuvuevue 1
+          1	Navatuvula Community Hall Polling Venue
+          1	Navatuyaba Community Hall Polling Venue
+          1	Navavarogo 2
+          1	Navave Community Hall
+          1	Naveiqatu 2
+          1	Naveiwakau Rd
+          2	Naveria Road
+          1	Navesi Primary School Lami
+          1	Navesidrua Village Hall
+          1	Navetau Community Hall, Saqani
+         14	Naviadamu Road
+          3	Navidamu to Raviravi Road
+          1	Navilawa Community Hall - Polling Venue
+          1	Navini
+          1	Navintees Spicy Cuisine
+          1	Naviqa 1
+          1	Naviqwa
+          1	Naviti District School
+          1	Naviti Island
+          1	Naviti Resort
+          1	Naviti Street
+          1	Navitilevu Village Hall
+          1	Navoci
+          1	Navoci Churc
+          1	Navodrisi
+          1	Navoidi
+          1	Navoidi 2
+          1	Navolau
+          1	Navolau District School
+          1	Navolau Village No.2 Community Hall
+          1	Navonu Primary School
+          1	Navua
+          1	Navua - Sunbeam Bus
+          2	Navua River
+          4	Navua Road
+          1	Navuakece District School Polling Venue
+          1	Navuavuni
+          1	Navuloa Community Hall, Bureta - Polling Venue
+          1	Navunievu Community Hall
+          1	Navuniivi
+          1	Navuniivi Community Hall
+          1	Navuniivi Rd
+          1	Navunimono Community Hall
+          1	Navunisea District School
+          1	Navuniyasi Community Hall Polling Venue
+          1	Navurevure Road
+          1	Navutu
+          3	Navutu Road
+          1	Navutulevu
+          1	Navutulevu Village Meeting Bure - Polling Venue
+          1	Nawaca Community Hall
+          1	Nawacake
+          1	Nawai Place
+          1	Nawaido Community Hall
+          1	Nawailevu Primary School
+          1	Nawaimalua
+          1	Nawairabe Community Hall - Polling Venue
+          2	Nawaisomo
+          1	Nawaisomo Community Hall
+          1	Nawaitaci
+          1	Nawaivili 2
+          1	Nawajikuma Church
+          1	Nawaka AOG
+          1	Nawaka Church
+          1	Nawaka Co-operative Store
+          1	Nawaka District School
+          1	Nawaka Health Center
+          1	Nawaka Kindergarten School
+          1	Nawaka Primary School
+          1	Nawaka Road
+          3	Nawaka Village
+          1	Nawakalevu Settlement Road
+          1	Nawame Road
+          1	Nawanawa Road
+          1	Nawaqadamu 1
+          1	Nawaqadamu Community Hall - Polling Venue
+          1	Nawaqavesi Primary School
+          1	Nawasakubu
+          1	Nawasawasarua
+          1	Naweni District School
+          1	Nawesi
+          1	Nawi Island
+          2	Nawowo
+          1	Nayalisara #1
+          1	Nayalisara 2
+          1	Nayarabale Community Hall
+          1	Nayaroyasi
+          2	Nayau Street
+          1	Nayavu
+          1	Nayavuira
+          1	Nayavuira Community Hall
+          1	Nayavumata Rd
+          1	Nayavutoka
+          1	Nayavutoka Community Hall
+          1	Nayawa Street
+          1	Nazir Place
+          1	Ndelainamara
+          1	Nede Street
+          1	Nehru Primary School
+          1	Neidiri 1
+          1	Neidiri 2
+          1	Neidiri 3
+          1	Neiqoro
+          1	Nelson Palmer SDA Primary School - Polling Venue
+          1	Nepani Road
+          1	Nepani Shop
+          1	Neptunes
+          1	New Age Lightning & Refrigerators
+          1	New Beginners Assembly of God FEO Ground Shed  Polling Venu
+          1	New Boult Street
+          2	New Extension Room
+          1	New Nadovu Road
+          1	New Raiwaqa Market
+          1	New Rups Wing
+          1	New Southern Cross
+          2	New World
+          1	New World store room
+          1	New Zealand Natural
+          1	Newport Lifestyle Ltd
+          1	Newworld IGA
+          1	Ngau
+          1	Ngau Airport
+          1	Nice Day Cake
+          1	Nicoll Place
+          1	Nina Street
+          1	Niranjan Place
+          1	Niranjans Automotive Group
+          2	Niu Street
+          2	Niubasaga
+          1	Niubasaga 1
+          1	Niurua Community Hall
+          1	Nivis Motors
+          1	Nj1
+          1	Nj10
+          1	Nj11
+          1	Nj12
+          1	Nj13
+          1	Nj14
+          1	Nj15
+          1	Nj2
+          1	Nj3
+          1	Nj4
+          1	Nj5
+          1	Nj6
+          1	Nj7
+          1	Nj8
+          1	Nj9
+          1	Noco
+          1	Noco Secondary School
+          1	Nokinoko Circle Road
+          1	Noko Place
+          3	Nokonoko Road
+          1	Normal Flat
+          1	North Astrolabe Reef
+          1	North Beach
+          1	Northern
+          2	Northern Club
+          5	Northern Club Lautoka
+          3	Northern Club Road
+          1	Northern Division Warehouse
+          1	Northern Yasawa Seafood
+          1	Not really sure what this is
+          1	Novotel Lami Restaurant
+          1	Novotel Nadi
+          1	Novotel Suva Lami Bay
+          1	Nr1
+          1	Nr2
+          1	Nr3
+          1	Nr4
+          1	Nr5
+          1	Nu Tech Office Supply
+          1	Nubu Primary School
+          1	Nuibasaga 2
+          1	Nukasiga Sand Bar
+          1	Nuku District School Nausori
+          1	Nuku restraunt
+          1	Nuku restraunt &Bar
+          1	Nukubalavu Community Hall
+          1	Nukubalavu Road
+          1	Nukubolu Community Hall
+          1	Nukucula
+          1	Nukui Village School
+          1	Nukulau
+          1	Nukulau Road
+          1	Nukuloa
+          1	Nukumbalavu Village
+          1	Nukunuku 1
+          1	Nukunuku 2
+          1	Nukusere Settlement FEO Tent, Dogotuki
+          1	Nukuseva Road
+          1	Nukutocia Village FEO Tent - Polling Venue
+          1	Nukutubu Community Hall
+          1	Nukutubu Road
+          1	Nukuvatu
+          2	Nuqa Place
+          1	O'Brien Road
+          1	O'Reilly's
+          1	OLIMAGS
+          1	ONE WAY BRIDGE
+          1	OREGEON ENGENDERING
+          1	OTAWA RD
+          1	Oakland
+          1	Oarsman's Bay Lodge
+          1	Oasis Apartment
+          2	Oasis Hotel
+          1	Oasis HotelFront Office
+          1	Oasis Spa
+          1	Oba
+          1	Obaturu
+          1	Ocean Seafood Restaurant
+          1	Oceania Center
+          1	Oceania Center 2
+          1	Oceania Center 3
+          1	Octopus Island Resort
+          1	Octopus Resort
+          1	Oeania Centre
+          1	Ogo Circle
+          1	Ogo Place
+          4	Old Kings Highway
+          1	Old Parliment House
+          1	Old Raiwaqa Market
+          1	Olga Place
+          1	Om Chand
+          1	One World Flight Center 
+          1	Oneata Street
+          1	Oneva
+          2	Oneva 2nd Stage
+          1	Oneva Rd.
+          1	Oni Pl
+          1	Ono Island
+          1	Ono Street
+          1	Onyx( 1st floor)
+          1	Open Land
+          3	Open Space
+          1	Open Space Near the Building
+          1	Open land
+          1	Orchid Place
+          1	Oregon engineering
+          1	Orepi
+          1	Oriana Place
+          1	Oriental Gift Shop
+          1	Ormi Place
+          1	Osawa Road
+          1	Ostar Furniture 
+          1	Outrigger
+          1	Outrigger on the Lagoon
+          2	Outside Bathroom /Toilet
+          1	Outside Bathroom/Toilet
+          1	Outside Kicthen
+          4	Outside Kitchen
+          2	Ovalau
+          1	Ovalau house
+          1	Ovea Community Hall
+          1	P.T. Shreedhar Maharaj College
+          1	P.T. Shreedhar Maharaj College Polling Venue
+          5	PACE-SD
+          1	PACIFIC SERVICE STATION
+          1	PALA JEWELLERS
+          1	PALM Cafe O
+          1	PALM RD
+          1	PAPER POWER
+          2	PARISH
+          1	PARK
+          1	PASIFIC SERVICE STATION
+          1	PB2
+          1	PB3
+          1	PB4
+          1	PB5
+          1	PB6
+          1	PB7
+          1	PB8
+          1	PB9
+          1	PHARMACY
+          1	PHOTO STUDIO
+          1	PIety Shopping Centre
+          1	POLICE BARRACK 1
+          1	POLICE BARRACK 2
+          1	POLICE BARRACK 3
+          1	POLICE BARRACK 4
+          1	POLICE BARRACK 5
+          1	POLICE BARRACK 6
+          1	POLICE BARRACK 7
+          1	POLICE BARRACK 8
+          1	POLICE BARRACKS
+          1	POLICE COMPOND
+          1	POLICE CRIME OFFICE
+          1	POLICE DEIS
+          1	POLICE PLAYGROUND
+          1	POLICE QUARTERS
+          1	POLICE STATION CAR PARK
+          1	POST FIJI
+          1	POTS
+          1	PRABHAT BUILDING
+          1	PRINCE CHARLES PARK
+          1	PS  2
+          1	PS 3
+          1	PS 4
+          1	PSC quarters
+          1	PT Lot 19
+          1	PT Mahanbu Maharaj Street
+          4	PT ND 4060
+          2	PTS
+          1	Pacific
+          1	Pacific Arts Center
+          1	Pacific Destination Office
+          4	Pacific Energy
+          1	Pacific Feeds
+          1	Pacific Feeds Limited
+          1	Pacific Feeds Ltd
+          2	Pacific Harbour
+          1	Pacific Harbour Arts Village
+          1	Pacific Islands Art
+          1	Pacific Lodge
+          1	Pacific R2R office
+          1	Pacific Theological College
+          1	Pacific Z-tralasia (Hospitality Specialists )
+          1	Pacific transport limited
+          1	Padam Lala Road
+          1	Padarath Road
+          3	Paddy's
+          1	Pagoda St
+          1	Painapiu Street
+          1	Pala"s Automart Shop
+          1	Pala's Car Park
+          1	Pala's Rentai Car Office & Shopping Centre
+          1	Palas Automotive Group
+          1	Palm Drive
+          1	Palm Reception
+          1	Pan Pacific Tours
+          1	Pan Pacific Tours 
+          1	Panapasa Road
+          1	Panda Chinese Restaurant
+          1	Panikar Nair Street
+          1	Pantry
+          1	Papa Jo's
+          1	Paper Power
+          1	Papiloni
+          2	Paradise Cove Resort
+          1	Paradise Point
+          1	Pareti Feeder Rd
+          1	Parisha's Curry Lounge
+          1	Park Road
+          1	Park Street
+          5	Parking Garage
+          1	Parking Lot at trail head
+          1	Parliament
+          1	Part of Hexagon Hotel
+          2	Parts World
+          1	Pasvali Street
+          1	Path to wreck site
+          1	Pathik Crescent
+          1	Paul Sloan Street
+          1	Pawn Shop
+          1	Payphone
+          1	Pearl Hotel
+          1	Pearl Hotel Swimmin Pool
+          1	Peceli house
+          1	Peciseita
+          3	Penang Sugar Mill
+          1	Pender Street
+          1	Peninsula International Hotel
+          1	Petrie Road
+          2	Pflugers Avenue
+          2	Phillip Mishra
+          1	Pickering Place
+          1	Pier Street
+          1	Pikeu Street
+          1	Pillays' Garage
+          1	Pilling Road
+          1	Pilot School SS101
+          1	Pineapple Boutique
+          1	Pizza Inn
+          1	Pizza King
+          1	Plant /Generator Room
+          1	Plantation Island Resort Staff Hall - Polling Venue
+          1	Planter's Club
+          2	Playground
+          1	Police Officers Accommodation Barracks
+          1	Police Post
+          1	Police Station
+          1	Polling Venue
+          1	Pompey Place
+         12	Pool
+          1	Pool Bar
+          1	Pool Pump Room
+          1	Poona Place
+          1	Popo Chicken Farm
+          1	Port Denarau
+          1	Port Denerau Marina
+          1	Ports O' Call
+          1	Ports O'Call Restaurant
+          1	Possible tarpaulin covered temporary shelter.
+          1	Post Fiji Mail Centre
+          1	Post Fiji Stadium
+          1	Post Office
+          1	Post Shop Lautoka
+          1	Postgrad Lounge
+          1	Pots n Things
+          1	Prabhat Street
+          1	Prakash Feeder Road
+          1	Pratt Street
+          1	President tower
+          1	Prespertry house
+          1	Prime Complex shop no#2 & no#3
+          1	Prime Land Development Building
+          1	Prime Land Development Ltd 
+          1	Prince Charles Ground Number 2
+          6	Princes Road
+          1	Printing Shop
+          2	Pritam Singh Road
+          1	Private Doctor
+          1	Private Doctor Paula Lagoia Sili
+          1	Private Parking
+          3	Private Residence
+          6	Private house
+          1	Private residences
+          1	Procera (1st floor)
+          1	Professional Hair &Beauty Salon
+          1	Professional Nail
+          1	Professionals West Reality Fiji Ltd
+          2	Prouds
+          1	Prouds Fiji
+          1	Prouds Fiji Ltd
+          1	Psc government quarters
+          1	Public Car Park Jet Point
+          1	Pump House
+          1	Pundit Vishnu Deo College
+          2	Pure Fiji
+         14	Q
+          1	Q1
+          1	Q1000
+          1	Q1005
+          1	Q1100
+          1	Q1108
+          1	Q12
+          1	Q2
+          1	Q2001
+          1	Q2100
+          1	Q2106
+          2	Qalikarua
+          1	Qalito Island bush track
+          1	Qalito Place
+          1	Qalito Road
+          1	Qalitu District School
+          2	Qaraniqio River
+          1	Qaranivai Village FEO Tent
+          1	Qarase Street
+          1	Qauia Methodist Church Hall Polling Venue
+          1	Qauia Sports Field
+          1	Qawa Primary School
+          3	Qawa River
+          1	Qeledamu Road
+          1	Qelekuro Community Hall
+          1	Qelemumu Primary School
+          1	Qelewara  Community Hall
+          1	Qeleya Road
+          1	Qereqeretabua Road
+          1	Qolowalu
+          1	Qoma Community Hall
+          1	Qoma Community Hall Polling Venue
+          1	Queen Elizabeth Barracks
+          2	Queen Elizabeth Drive
+          1	Queen Victoria School
+        134	Queens Road
+          1	Qumusea District School FEO Tent
+          1	R#1
+          1	R, Minimart
+          1	R.C Manubhai Namaka
+          1	R1
+          1	R10
+          1	R11
+          1	R12
+          1	R13
+          1	R14
+          1	R15
+          1	R16
+          1	R17
+          1	R18
+          1	R19
+          1	R2
+          1	R3
+          1	R4
+          1	R5
+          1	R6
+          1	R7
+          1	R8
+          1	R9
+          1	RAIL
+          1	RAINBOW STORE
+          1	RAJENDRA FOODTOWN
+          1	RAJVI PATEL
+          2	RAKIRAKI VILLAGE BRIDGE
+          1	RAM PARTAP QUARRIES
+          1	RANIGA JEWELLERS LTD
+          1	RATSUN Apartment
+          1	RB
+          2	RB Patel
+          1	RB Patel Center Point or Vinod Patel
+          1	RB Patel Habour Point
+          1	RB Patel Jet Point
+          1	RB Patel Lautoka
+          1	RC MANUBAI
+          1	RC MANUBHAI YARD
+          1	RC Manubhai
+          1	RD
+          1	RED CROSS
+          1	RENTAL
+          2	RESERVOIR ROAD
+          1	RESIDENT
+          1	RESIDENT 2
+          1	RESIDENT 3
+          1	RFMF GYM
+          1	RFMF Golf Coy
+          1	RICO Business Centre
+         15	RNC
+          1	ROS 1
+          1	ROSIE TOURS COMPANY FLEET
+          1	ROUROU PLANTATION
+          1	RR
+          1	RR2
+          1	RS 14
+          1	RS 7
+          1	RS 9
+          1	Rabulu
+          1	Racule Drive
+          1	Rada Rajamma
+          1	Raddison Blu
+          1	Radilevu#2
+          1	Raffles Gateway
+          1	Raffles Gateway Hotel
+          1	Raffles Parking
+          2	Ragg Avenue
+          1	Ragg St
+          4	Ragg Street
+          1	Raghunath Singh Drive
+          1	Rai Place
+          2	Raibevu Road
+          1	Rain Tree Lodge
+          1	Rainbow Cool Technology
+          1	Raisara Road
+          1	Raiwai
+          2	Raiwaqa
+          1	Raiwaqa Bakery
+          1	Raiwaqa Bus Station
+          1	Raiwaqa Health Center
+          1	Raiwaqa Health Centre
+          1	Raiwaqa Market
+          1	Raiwaqa Parish
+          1	Raiwaqa Police Station
+          1	Raiwaqa, Seventh Day Adventists Chuurch
+          1	Raiwasa
+          1	Raiwasa Road
+          1	Rajendra Super Market
+          1	Rajendra's Foodtown
+          1	Rajendra's Foodtown Lautoka
+          1	Rajendras Supermarket
+          1	Rajju's refreshments
+          1	Raju Handicraft
+          1	Rajus Handicraft
+          1	Rajv's
+          1	Rakiraki
+          1	Rakiraki District School
+          1	Rakirakilevu Road
+          1	Rakoroi Road
+          1	Rakua Street
+          1	Ram Asre Street
+          1	Ram Autar feeder Road
+          1	Ram Lakhan Park
+          1	Ram Naresh
+          1	Ram Sami Reddy Road
+          1	Raman Nair Street
+          1	Ramani & Co
+          1	Rambo Rd
+          1	Ramco Tyres & Automotive Supplies Ltd
+          1	Rani's VAriety SHop
+          2	Raniga Jewel
+          1	Raniga's building
+          1	Ranigas Building
+          3	Raojibhai Patel Street
+          1	Rara Avenue
+          1	Raralevu Cemetry
+          1	Raranibulubulu Community Hall
+          1	Rarapatu Mandir Polling Venue
+          1	Rarata
+          1	Rarawai Sugar Mill
+          1	Rasheed Hala Butcher
+          1	Ratu Apenisa Memorial School
+          1	Ratu Cakobau Crescent
+          1	Ratu Cakobau Park
+          1	Ratu Cakobau Road
+          6	Ratu Dovi Road
+          1	Ratu Filimoni Loco Primary School
+          1	Ratu Filise Memoria School
+          2	Ratu Filise Memorial School
+          1	Ratu Ilaisa Memorial Primary School
+          1	Ratu Inia Qoro Road
+          1	Ratu Kadavulevu School
+          1	Ratu Lalabalavu Memorial School
+          1	Ratu Luke Memorial School
+          4	Ratu Mara Road
+          1	Ratu Nacagilevu Hall, Ravitaki, Kadavu
+          1	Ratu Nalewavada Public School - Polling Venue
+          1	Ratu Nalukuya Primary School
+          1	Ratu Nauliananano
+          1	Ratu Nemani Island Bar
+          1	Ratu Ravuama Vunivalu Memorial School
+          1	Ratu Sauvoli Memorial School
+          1	Ratu Sauvoli Memorial School Polling Venue
+          1	Ratu Sir Kamisese Mara Road
+          1	Ratu Sukuna Crescent
+          2	Ratu Sukuna Road
+          1	Ratu Veikoso Primary School
+          1	Rau Kini Backpackers restaurant
+          1	Rava Street
+          4	Raviravi
+          1	Raviravi Community Hall, Seaqaqa
+          1	Ravitaki District School, Kadavu
+          1	Ravoravo House
+          1	Ravouvou Street
+          1	Ray Prasad Road
+          1	Razak Road
+          1	Real Forex Money Exchange 
+          1	Reba Circle
+          3	Reception
+          1	Receptions
+          1	Reddy Place
+          1	Reef
+          1	Regal Lane
+          1	Reki Street
+          1	Renard Passage
+          1	Rendy tailoring
+          1	Renown Street
+          5	Rental apartments
+          4	Renwick Road
+          1	Reproductive and Family Health Association of Fiji
+          1	Res 1 - TBC
+          1	Reserve Bank Of Fiji
+          1	Reserve Bank of Fiji Building
+          3	Reservoir Road
+          1	Resort area
+          2	Restaurant
+          1	Rev Mustapha Street
+          1	Rewa Bridge
+          1	Rewa Diary
+          1	Rewa District School
+          1	Rewa River
+          1	Rewa Street
+          1	Rewasa
+          1	Rhine Lane
+          1	Richards Road
+          1	Riemenschneider Place
+          8	Rifle Range Road
+          1	Rifle Range Street
+          1	Rifle range Road
+          1	Riley Place
+          1	Riley Street
+          1	Rishikul High School
+          1	Rishikul Nadera Primary School Polling Venue
+          1	Rite Health
+          1	Ritova Street
+          5	River Drive
+          1	Riverside Gardens
+          1	Ro Delainamako Primary School Polling Venue
+          1	Ro Kalokalosere Road
+          1	Ro Katarotaro Road
+          1	Ro Kuboulevu Road
+          1	Road Furniture
+          1	Robertson Road
+          2	Robinson Crusoe Island
+          2	Rodwell Road
+          1	Rogavoka Street
+          1	Rogovoka Street
+          1	Rokovuaka Community Hall
+          1	Roma
+          1	Rona Street
+          1	Ronal Store
+          1	Ronshanee Place
+          1	Rooks Ki Rani
+          1	Rooms 2801- 2816
+          1	Rooms 3101-3108
+          1	Rooms 3201-3208
+          1	Rooms 3601-3604
+          1	Rooms 3801-3802
+          1	Rooms 4101- 4108
+          1	Rooms 4201-4208
+          1	Rooms 4301- 4304
+          1	Roop Milan
+          1	Roopesh Gift Shop Limited 
+          1	Roops Ki Rani
+          1	Rosawa Street
+          1	Rose Land INN
+          1	Rose Place
+          1	Rose Street
+          1	Rosedale
+          1	Rosedale 2
+          1	Rosi Street
+          1	Rosie Tours
+          1	Rosie Tours Holiday Tour Desk
+          1	Rosie Tours Holidays Tour Desk
+          1	Rosie holiday tour desk
+          1	Rosie tours & all travel agents
+          1	Rosie's Travel
+          1	Rotuman Methodist Church
+          1	Round-About 1
+          1	Rourou plantation
+          1	Rovadrau
+          1	Rovadrau 2
+          1	Rovate Road
+          1	Royal Davui Resort
+          1	Royal Palm Road
+          1	Rt Filimoni Loco Memorial School
+          1	Ruelas Rd.
+          2	Rukuruku
+          1	Rukurukulevu
+          5	Rups Big Bear
+          1	Rups Big Bear Building 
+          1	Rups Big Bear Furnitures
+          1	Ruve Place
+          1	Ruve Street
+          1	Ryland Place
+          1	S NAGINDAS WAREHOUSE
+          1	S NAGINDAS WAREHOUSE CAR PARK
+          1	S. Kumars
+          1	S. M. Koya Road
+          1	S10
+          1	S11
+          1	S21
+          1	S24
+          1	S25
+          1	S3
+          1	S30
+          1	S34
+          1	S4
+          1	S7
+          1	SA10
+          1	SA11
+          1	SA13
+          1	SA2
+          1	SA21
+          1	SA23
+          1	SA30
+          1	SA4
+          1	SA6
+          1	SA7
+          1	SA8
+          1	SABETO CHURCH
+          1	SABETO SECONDARY SCHOOL
+          1	SADHAI SPARE PART YARD
+          1	SATELLITE...Rent-A-Car
+          1	SAUNAKA RUGBY FIELD
+          1	SCHOOL'S PLAYGROUND
+          1	SDA
+          1	SDA Church
+          1	SECURTY SHED
+          1	SEVEN DAYS ADVENTIST CIRCUIT
+          1	SHOP
+          1	SHOPKEEPERS HOUSE
+          1	SHP10
+          1	SHP11
+          1	SHP12
+          1	SHP13
+          1	SHP14
+          1	SHP15
+          1	SHP16
+          2	SHP17
+          1	SHP18
+          1	SHP19
+          1	SHP20
+          1	SHP21
+          1	SHP22
+          1	SHP23
+          1	SHP24
+          1	SHP26
+          1	SHP27
+          1	SHP28
+          1	SHP29
+          1	SHP31
+          1	SHP7
+          1	SHP8
+          1	SHP9
+          1	SILVIA'S BOUTIQUE
+          1	SIVAM & CO.
+          1	SJRM Temple
+          2	SK1
+          2	SK10
+          1	SK100
+          1	SK101
+          2	SK11
+          2	SK12
+          1	SK13
+          1	SK14
+          1	SK15
+          1	SK16
+          1	SK17
+          1	SK18
+          2	SK2
+          1	SK20
+          1	SK21
+          1	SK22
+          1	SK23
+          1	SK24
+          1	SK25
+          1	SK26
+          1	SK27
+          1	SK28
+          1	SK29
+          2	SK3
+          1	SK30
+          1	SK31
+          1	SK32
+          1	SK33
+          1	SK34
+          1	SK35
+          1	SK38
+          1	SK39
+          2	SK4
+          1	SK40
+          1	SK41
+          1	SK42
+          1	SK43
+          1	SK44
+          1	SK45
+          1	SK46
+          1	SK47
+          1	SK48
+          1	SK49
+          1	SK5
+          1	SK50
+          1	SK52
+          1	SK53
+          1	SK54
+          1	SK55
+          1	SK56
+          1	SK57
+          1	SK58
+          1	SK59
+          2	SK6
+          1	SK60
+          1	SK61
+          1	SK62
+          1	SK63
+          1	SK64
+          1	SK65
+          1	SK66
+          1	SK68
+          1	SK69
+          2	SK7
+          1	SK70
+          1	SK71
+          1	SK72
+          1	SK73
+          1	SK74
+          1	SK75
+          1	SK76
+          1	SK77
+          1	SK78
+          1	SK79
+          2	SK8
+          1	SK80
+          1	SK81
+          1	SK82
+          1	SK83
+          1	SK84
+          1	SK85
+          1	SK86
+          1	SK87
+          1	SK88
+          1	SK89
+          2	SK9
+          1	SK90
+          1	SK91
+          1	SK92
+          1	SK93
+          1	SK94
+          1	SK95
+          1	SK96
+          1	SK97
+          1	SK98
+          1	SK99
+          2	SKYLODGE HOTEL
+          1	SKYLODGE RD
+          1	SM Bidesi Place
+          1	SN13
+          1	SN15
+          1	SN16
+          1	SN17
+          1	SN18
+          1	SN19
+          1	SN22
+          1	SN4
+          1	SN7
+          1	SODELPA HQ
+          1	SOGO
+          1	SP/Town-side/B-2
+          1	SP/Town-side/B-3
+          1	SP/t-side b2
+          2	SPORTS CLUB
+          3	SPR
+          1	SS100
+          1	SS101
+          1	SS102
+          1	SS103
+          1	SS104
+          1	SS105
+          1	SS106
+          1	SS107
+          1	SS108
+          1	SS109
+          1	SS110
+          1	SS111
+          1	SS112
+          1	SS113
+          1	SS117
+          1	SS118
+          1	SS119
+          1	SS120
+          1	SS121
+          1	SS123
+          1	SS124
+          1	SS125
+          1	SS126
+          1	SS127
+          1	SS128
+          1	SS129
+          1	SS130
+          1	SS90
+          1	SS91
+          1	SS92
+          1	SS93
+          1	SS94
+          1	SS95
+          1	SS96
+          1	SS97
+          1	SS98
+          1	SS99
+          1	SSKMC
+          1	SSKMC schoolground
+          1	ST16
+          1	ST17
+          1	ST18
+          1	ST23
+          1	STANDARD CEMENT
+          5	SUGARCANE FIELD
+          1	SUGARCANE FIELDS
+          1	SUN INSURANCE
+          1	SUNTANE  AREA
+          1	SUNVIEW MOTEL
+          2	SWAMP
+          1	Sabeto Hotspring and Mudbath
+          2	Sabeto River
+          1	Sabeto Road
+          1	Sabutu Lane
+          1	Sacred Heart Cathedral
+          1	Safety Electrical Services LID
+          1	Saffron Indian
+          1	Sahib Street
+          1	Saika
+          1	Sailo Assembly of God Church Hall Polling Venue
+          1	Saint Agnes Primary School
+          1	Saint Anne's Primary School
+          1	Saint Augustine School
+          1	Saint Joseph's High School
+          1	Saint Michaels Church
+          1	Saint Thomas High School
+          1	Saint Vincent de Paul Primary School
+          1	Saioko
+          1	Saioko Village Hall
+          1	Saioni
+          1	Saioni House
+          1	Sakoca FEO Ground Shed Polling Venue
+          1	Saku Place
+          1	Salads Best Quality Spices
+          1	Salala Place
+          1	Salato Place
+          1	Salato Road
+          1	Salesi Road
+          1	Salevukoso Village FEO Tent
+          1	Salia Community Hall, Tunuloa
+          1	Salim Shop
+          1	Salote Koroi
+          1	Salt Lake Road
+          1	Salt Water Swimming Area
+          1	Salusalu Street
+          1	Sam Lal Street
+          1	Sam's Shop
+          2	Samabula
+          1	Samabula East Church
+          1	Samabula North
+          2	Samabula Police Station
+          1	Samabula Police Station Hub
+          1	Samabula Post Office
+          1	Samabula Primary School Polling Venue
+          1	Samabula Service Station
+          1	Samabula South
+          1	Samat Street
+          1	Samoa
+          1	Samoa 1
+          1	Sand Bank
+          1	Sand Dunes
+          1	Sandalwood Street
+          1	Sangam Avenue
+          1	Sangam Primary
+          1	Sangam SKM
+          1	Sangam Sadhu Kuppuswamy Memorial College
+          1	Sanprits Wok & Grill
+          1	Sanyo Cabs
+          1	Saolo Community Hall
+          1	Saqa St
+          1	Saqa Street
+          1	Saqani Community Post
+          1	Saqani Seaplane Base
+          1	Saqani Secondary School
+          1	Sara Place
+          1	Sara's wati
+          1	Saraswati College Polling Venue
+          1	Saravi
+          1	Saravi houz
+          1	Sarju Delegate Road
+          2	Sarju Prasad Road
+          1	Sarosaro Lane
+          1	Sarosaro Place
+          1	Sarosaro street
+          3	Saru Back Road
+          1	Sasa
+          1	Sasa Community Hall
+          2	Satulaki Village FEO Tent
+          1	Satya Place
+          1	Saumata
+          1	Saunaka
+          1	Saunaka  Kindergarten School
+          1	Saunaka Coorperative
+          1	Saunaka Garage for Car repair
+          1	Saunaka Graveyard
+          1	Saunaka Village
+          1	Saunaka Village Community Hall
+          1	Saunaka Village Road
+          1	Saunaka rugby club gym
+          1	Sausautave
+          1	Sautabu
+          2	Sautabu chiefly cemetry
+          1	Sautamata Street
+          1	Savai Place
+          1	Savala Island
+          1	Savala Place
+          1	Savarekareka Settlement, FEO Tent.
+          1	Savasi Island
+          6	Savasi Island Bridge
+          1	Savu Road
+          1	Savu Village Community Hall
+          1	Savudrodro Community Hall
+          2	Savusavu
+          1	Savusavu Airport
+          1	Savusavu Bay
+          1	Savusavu Bus Stand
+          1	Savusavu Clinic
+          1	Savusavu Hot Springs Hotel
+          1	Savusavu Jetty
+          1	Savusavu Motor Rewinders
+          1	Savusavu Police Station
+          1	Savusavu Post Office
+          1	Savusavu Public School
+          1	Savusavu Secondary School
+          1	Savusavu Taxi Stand
+          1	Savusavu Terminal
+          1	Savusavu Town Council
+          1	Savusavu Town Market
+          1	Savusavu to Labasa Highway
+          1	Savusavuitaqa Village FEO Tent
+          1	Sawaieke
+          1	Sawaieke 2
+          2	Sawakasa Vou Village
+          1	Sawakasa Vou Village Church
+          1	Sawana
+          1	Sawani Community Hall
+          2	Sawani Street
+          1	Sawau Street
+          1	Saweilau
+          1	Sawene Community Hall - Polling Venue
+          1	Saweni Beach
+          1	Saweni Beach Road
+          1	Saweni Beach Track
+          1	Scaff Holding Ltd
+          1	Scenic Flights
+          1	School
+          1	School of Applied Sciences FNU
+          1	School of Geography, Earth Science and Environment
+          1	School of Geography, Earth Science and Environment Conferen
+          1	School of Geography, Earth Science and Environment Mapping 
+          1	School of Tourism Block
+          5	Scott Street
+          1	Seaqaqa Police Station
+          1	Seaqaqa Primary School
+          1	Second Hand Clothes Shop
+          1	Secure your Bag
+          3	Security Booth
+          1	Security Gate Main Entrance
+          1	Seini
+          3	Sekawa
+          2	Sekawa Road
+          1	Sekoula Road
+          1	Selbourne Street
+          1	Selesele Road
+          1	Semo
+          1	Senikau Lane
+          1	Senikau Road
+          1	Sentai
+          1	Sentai Restaurant
+          1	Serene 
+          1	Seru Crescent
+          1	Serua Street
+          2	Service Street
+          1	Sese Community Hall
+          1	Sese Street
+          1	Sevaka Wing
+          1	Seventh Day Adventist College
+          1	Seventh Day Adventist College Polling Venue
+          1	Seventh Day Adventist Office (SDA)
+          1	Sevua Circle
+          1	Sevuka Place
+          1	Seymour Drive
+          1	Shabu Shabu
+          1	Shabudin Bus Company Yard
+          1	Shack 1
+          1	Shadowline Rental
+          1	Shakil & Sazeem Enterprise ltd
+          1	Shalimar Street
+          1	Shangri-La Fijian Resort
+          1	Shanta Ben Place
+          1	Shark Diving
+          1	Sharma Holdings
+          1	Sharmas Building
+          1	Sharmas Building 
+          1	Sharps Street
+          1	Shars musicshop
+          1	Shelter
+          2	Sheraton Fiji
+          1	Sheraton Tokoriki
+          6	Sheraton fiji
+         10	Sheraton villa
+          1	Shirley Park
+          1	Shiu Prasad
+          1	Shiu Raj Street
+          4	Shop
+          1	Shop & safe Bakery
+          1	Shop 'n' Save
+          1	Shop N Save
+          1	Shop and Save Nabua
+          1	Shop and Save Nakasi
+          1	Shop and Save Super Market
+          1	Shop and Save Supermarket
+          1	Shop n Save Supermarket
+          1	Shopping Centre
+          1	Shops
+          1	Shops & Bottle shop
+          1	Shops & Restaurant
+          1	Short Stream
+          1	Short Street
+          1	Shortcut road
+          1	Shortlane Dental & Medical Centre
+          1	Shree Sanatan Dharam Boca Ramayan Mandir
+          1	Shree Sanatan Dharam Ramayan Mandali Hall
+          1	Shreedhar Motors
+          1	Shreedhar motors
+          1	Shreeji
+          1	Shreeji Jewellers
+          1	Shri Raman Place
+          1	Siberia Anglican Kindergarten School
+          1	Siberia Mandali Hall
+          1	Siberia Road
+          1	Siga Road
+          2	Sigatoka
+          1	Sigatoka Bus Station
+          1	Sigatoka Electric
+          1	Sigatoka Hospital
+          1	Sigatoka Market
+          1	Sigatoka Sand Dunes
+          1	Sigatoka Sand Dunes Entrance and Visitors Centre
+          3	Sigatoka Valley Road
+          1	Signals
+          1	Sikeci Place
+          1	Sikh temple
+          1	Sila Central High School
+          1	Sila Central School
+          1	Silas Ramjan Street
+          1	Simla Park
+          1	Simplex Lane
+          1	Singatoka River
+          1	Singatoka Valley Road
+          1	Singh's Photo Studio
+          1	Sinuvaca
+          1	Sirdar Narsimlu Place
+          1	Siriti Court
+          1	Sitar
+          1	Sivia 1
+          1	Sivia Deck
+          1	Skydive
+          2	Skyglory
+          1	Small Plates Garden
+          1	Small Pond
+          1	Smart Eye's
+          2	Smart eyes
+          1	Smart eyes-mobile phone repair
+          1	Smugglers Cove
+          1	Snake Island
+          1	Snap printing Fiji limited
+          1	Snorkel Bure
+          1	Snowy House
+          1	Snuggler's Cove
+          1	So Spa
+          1	Soa Village Hall
+          3	Sofitel Resort
+          1	Sogobiau Village FEO Tent
+          1	Solander Slipway
+          1	Solanki Brother's 
+          1	Solanki brothers 
+          1	Solar Panel
+          1	Solent Place
+          2	Soliyaga
+          1	Solo Lighthouse
+          1	Solomoni Street
+          1	Solove Primary School
+          1	Somosomo
+          1	Somosomo Community Hall, Yasawa - Polling Venue
+          1	Sonic Unique Craft
+          2	Sonoma Street
+          1	Sorokoba
+          1	Soronacagi Road
+          1	Soso
+          1	Soso Bay
+          1	Sote Village Community Hall
+          2	Sotutu Place
+          1	South Beach
+          1	South Beach Restaurant
+          1	South Pacific Oceania
+          1	South Sea Cruises
+          1	South Sea Island
+          1	South Seas Club
+          1	South Seas Private Hotel
+          1	Southern Cross
+          1	Southern Cross Road
+          2	Sovereign Quays
+          1	Sovo
+          1	Sovu Place
+          1	Spa Denarau
+          1	Spa Pavilion
+          1	Spa Pump Room
+          1	Spa pavilion
+          1	Spa.
+          1	Spoilt Rotten
+          1	Sports Bar ( 3rd floor of MHCC Mall)
+          1	Sports City Pharmacy
+          1	Sports Council office
+          1	Sports World
+          1	Sports World 
+          1	Spring Street
+          1	Squash Court
+          1	Sri Lanka house
+          1	Sri Siva Subramaniya Swami Temple
+          1	St Giles Mental Hospital
+          1	St John Bosco Primary School FEO Shed Polling Venue
+          1	St Joseph Secondary School
+          1	St Joseph Secondary School Polling Venue
+          1	St Lukes Anglican church hall
+          1	St Mary's Primary School
+          1	St Marys Primary School
+          1	St Pauls Primary School, Wailevu West
+          1	St Peter Chanel
+          1	St Theresa's Parish Church
+          1	St Theresa's Primary School
+          1	St Theresa's School
+          1	St. Andrews
+          1	St. Marys Lane
+          1	St. Peter's Church
+          1	Staff Quarters
+          1	Staff Quarters 5A^5B
+          1	Standard Concrete
+          1	Standard cement
+          1	Stanley Brown Naval Base
+          1	Stanley Brown Naval Base Walu Bay
+          1	Stanley Brown Naval Office
+          1	Star Hospitality  Company  Ltd
+          1	State Cinema Theater
+          1	Statement of Marine & Ports- Lab/Office Room 2
+          1	Statham Childrens park
+          1	Statham Street
+          1	Statham campus car park
+          1	Statham park
+          1	Steward Island
+          2	Stewart Street
+          3	Stinson Parade
+          1	Stocks of parts & Accessories
+          1	Stodart Road
+          1	Stony Creek Ressort
+          1	Storck Street
+          3	Store
+          1	Struan Street
+          1	Studio 6 
+          5	Study Bure
+          1	Subrail Park
+          1	Sugar Avenue
+          1	Sugar Cane Growers Council
+          1	Sugar Cane Growers Fund
+          1	Sugar Cane Producers' Association
+          1	Sugar City Mall
+          1	Sugar City Mall Car Park
+          1	Sugar cane factory
+          3	Sugercane Field
+          4	Sukanaivalu Road
+          2	Sukuna Park
+          1	Sukuna Road
+          1	Suli Place
+          1	Sulua Street
+          2	Summit's Photo Studio
+          1	Sun Insurance
+          1	Sunland Street
+          1	Sunlight building
+          1	Sunlight store/inkk mobile
+          1	Sunrise Beach
+          2	Sunset Beach
+          1	Sunview Motel
+          1	Superb Power Electrical
+          1	Susie Salon
+          1	Suva
+          1	Suva - Natovi Ferrys Bus Station
+          1	Suva -Coral Coast- Lautoka Buses
+          2	Suva Bus Station
+          1	Suva Cemetery
+          1	Suva City Council HQ
+          1	Suva City Library
+          1	Suva Civic Center
+          1	Suva Civic Centre
+          1	Suva Flea Market
+          1	Suva General Post Office
+          1	Suva Golf Club
+          1	Suva Grammar School
+          1	Suva Handicraft Centre
+          3	Suva Market
+          1	Suva Market Taxis Station
+          2	Suva Methodist Primary School
+          1	Suva Mosque
+          1	Suva Point  park
+          1	Suva Point Apartment
+          7	Suva Point Apartments
+          1	Suva Prison
+          2	Suva Private Hospital
+          1	Suva Private Hospital Phamarcy
+          4	Suva Street
+          1	Suva Swimming Pool
+          2	Suva Yacht Club
+          1	Suva point Community Post
+          1	Suvavou Community Hall Polling Venue
+          1	Suvavou House
+          1	Suvavou Village
+          1	Suweni Community Hall
+          2	Swimming Pool
+          1	Swimming Pool Area
+          1	Syria Road
+          6	T B C
+          1	T F L
+          1	T F L.
+          1	T T F
+          2	T T F Company Fleet
+          1	T T F Paking Space
+          2	T/B
+          1	TAMAC
+          1	TAPPOO CAR PARK
+          1	TAVARUA TOURS
+          1	TAXI 2000
+        530	TBC
+          1	TBC10
+          1	TBC2
+          1	TBC3
+          1	TBC4
+          1	TBC5
+          1	TBC6
+          1	TBC7
+          1	TBC8
+          1	TBC9
+          1	TBCQ
+          1	TELECOM BOX
+          1	TELECOM FIJI LIMITED
+          1	TENNIS/BOWLING LAWN
+          3	TFL
+          2	TFL BOX
+          1	TFL COMPOUND
+          1	TFL_EXCHANGE_DEUBA_AP1_DEUBA
+          1	THE GRACE ROAD KITCHEN
+          1	THE SHOE MART
+          1	TLTB Office
+          1	TOILETS
+          1	TOTAL
+          1	TPAF
+          1	TR#1
+          1	TR#10
+          1	TR#11
+          1	TR#12
+          1	TR#13
+          1	TR#14
+          1	TR#15
+          1	TR#16
+          1	TR#17
+          1	TR#18
+          1	TR#19
+          1	TR#2
+          1	TR#20
+          1	TR#21
+          1	TR#22
+          1	TR#23
+          1	TR#24
+          1	TR#25
+          1	TR#26
+          1	TR#3
+          1	TR#4
+          1	TR#5
+          1	TR#6
+          1	TR#7
+          1	TR#8
+          1	TR#9
+          1	TR1
+          1	TR10
+          1	TR11
+          1	TR12
+          1	TR13
+          1	TR14
+          1	TR15
+          1	TR16
+          1	TR17
+          2	TR19
+          1	TR2
+          1	TR20
+          1	TR21
+          1	TR22
+          1	TR23
+          1	TR24
+          1	TR25
+          1	TR26
+          1	TR27
+          1	TR28
+          1	TR29
+          1	TR3
+          1	TR30
+          1	TR31
+          1	TR32
+          1	TR33
+          1	TR34
+          1	TR35
+          1	TR36
+          2	TR37
+          2	TR38
+          2	TR39
+          1	TR4
+          2	TR40
+          1	TR41
+          1	TR42
+          1	TR43
+          1	TR5
+          1	TR6
+          1	TR7
+          1	TR8
+          1	TR9
+          1	TRANSVILLE RESIDENT
+          1	TRI FEES SPARES LTD
+          1	Tabacakacaka Vaka iVakatawa O Sawani
+          1	Tabakula Beach Bungalows
+          1	Tabalei Community Hall - Polling Venue
+          1	Tabia Primary School, Macuata
+          1	Tabia Village FEO Tent, Savusavu
+          1	Tabua Place
+          1	Tabua Street
+          1	Tabucola Tiri Settlement FEO Shed
+          1	Taci Community Hall
+          1	Tacilevu Village School
+          1	Tacirua  Primary School Polling Venue
+          1	Tacirua Primary School
+          1	Tadrai Island Resort
+          1	Tagaqe
+          1	Tagimoucia Street
+          1	Tahiti
+          1	Tai District School
+          1	Tailevu North High School
+          1	Taiwan Timber Shed, Seaqaqa
+          1	Taj Place
+          1	Talasiga Street
+          1	Talecake
+          1	Talei Creations
+          1	Talei Restaurant
+          1	Talenatusau # 1
+          1	Talenatusau # 2
+          1	Talenaua
+          1	Talenaua Community Hall Polling Venue
+          1	Tamasua Road
+          1	Tamavarua
+          1	Tamavua
+          1	Tamavua Heights
+          1	Tamavua Hospital
+          2	Tamavua Police Post
+          1	Tamavua Primary School Polling Venue
+          2	Tamavua River
+          1	Tamavua Road
+          1	Tamavua SDA Church Hall Polling Venue
+          1	Tamavua Village
+          1	Tamavua Village Hall Polling Venue
+          1	Tamavua, Nasinu, Nausori buses
+          1	Tambua Sands Beach Resort
+          1	Tanivula
+          1	Tanivula 2
+          2	Tank
+          1	Tanoa International Hotel
+          1	Tanoa Plaza
+          1	Tanoa Street
+          1	Tanoa rakiraki hôtel
+          1	Tapoos 
+          2	Tappoo
+          1	Tappoo City
+          1	Tappoo City Mall
+          1	Tappoo Shop
+          1	Tappoos
+          1	TappoosFiji Ltd
+          1	Taramati Street
+          1	Tasman Place
+          1	Tau
+          1	Taukei Nalagi Residence
+          1	Taunovo
+          1	Tavakubu Back Road
+          2	Tavakubu Road
+          1	Tavarua Island
+          1	Tavea Community Hall
+          1	Taveuni houz
+          1	Tavewa
+          1	Tavewa Avenue
+          2	Taviya
+          1	Tavola Street
+          1	Tavua
+          1	Tavua Community Hall, Malolo - Polling Venue
+          2	Tavua Town
+          1	Tavuto Place
+          1	Tawake Community Hall
+          1	Tawake Street
+          1	Tawatawa Road
+          1	Taxi 2000
+          2	Taxi Stand
+          2	Tbc
+          1	Tech World Office
+          1	Technical college
+          1	Telau Street
+          1	Telecom Fiji
+          1	Telecom HQ
+          1	Temple Feeder Road
+          1	Tennis
+          1	Tennis Courts
+          1	Teroa house
+          1	Terrace Apartments cafe & Bar
+          1	Terrace Lounge
+          1	Terrace Reception Desk
+          1	Tesla Powerpack
+          1	Textiles Garment Manufacturers
+          1	Textiles garment manufactures
+          1	Thai/Chinese/Sports Massage
+          1	Thakau Lekaleka
+          1	The Bill Lounge
+          1	The Chime
+          2	The Cove
+          1	The Domain
+          1	The Essentials
+          1	The Eye Centre
+          1	The Feast Restaurant
+          1	The Gallery
+          1	The Hot Bread Kitchen
+          1	The Jewels
+          1	The Links
+          1	The Muffin Shack
+          1	The PALMS
+          1	The Pearl Shack
+          1	The Plains
+          1	The Shoe Mart
+          1	The Shoe Shop
+          1	The Warehouse 
+          1	The Wellesley Resort
+          1	The Wet Edge
+          1	The Winery
+          1	The short cut
+          1	The warehouse 
+          1	Think Driving Scho.ol
+          1	This Massage Spa
+          4	Thomson Crescent
+          3	Thomson Street
+          1	Three Hungry Bears
+          2	Thurston Gardens
+          1	Thurston Park
+          1	Thurston Street
+          1	Ticket Booth
+          1	Ticos
+          2	Tiger IV
+          1	Tigers Lounge Bar
+          1	Tika Hair & Beauty Salon
+          1	Tikaram Park
+          1	Tikaram Place
+          1	Tiko Kece
+          2	Tila's hair salon
+          1	Tilak High School
+          1	Tilak Place
+          1	Tiliva
+          2	Timbilimbi
+          1	Tivi Road
+          1	Tivitivi Place
+          1	Tivoa place
+          1	Tivua Island
+          1	Toa Street
+          1	Toba o Nadi
+          1	Toberua Community Hall
+          1	Tofua Street
+          1	Toga District School Polling Venue
+          1	Togalevu
+          1	Togalevu Naval Base
+          1	Toganivalu Road
+          1	Togaviti Village FEO Tent
+          1	Togovere
+          4	Toilet
+          1	Toilet Block
+          1	Tokalau Eloma
+          1	Tokatoka Resort Nadi
+          1	Tokelau Street
+          2	Toki
+          1	Toki Village Community Hall
+          1	Tokitaki Street
+          1	Tokoriki
+          1	Tokoriki Place
+          1	Tokou Community Hall - Polling Venue
+          1	Tomanivi
+          1	Tomanivi 1
+          1	Tomanivi 2
+          1	Tomanu Street
+          1	Tomlus
+          1	Tonia Community Hall
+          1	Tonia Community Hallb Polling Venue
+          1	Toorak
+          1	Toorak Rd
+          2	Toorak Road
+          1	Top image and beauty salon
+          1	Topline Place
+          1	Torokina Place
+          2	Total
+          5	Total Service Station
+          1	Total Service Station 
+          1	Total Service Station Nabua
+          1	Total Service Station Namaka
+          1	Totogo Central Police Station
+          1	Totoya Street
+          1	Tour/Rental Car Desk
+          1	Tovata Rd
+          1	Tower
+          1	Tower Street
+          1	Townhouse Apartments
+          1	Trade Company 
+          1	Transville Road
+          1	Traps
+          1	Travel Centre 
+          1	Travellers Holiday Apartment
+          1	Treasure Home
+          1	Trig Place
+          1	Tropic
+          1	Tropic Kitchen
+          1	Tropic Lodge Bar
+          1	Tropic Splendor
+          1	Tropic Splendor Beachfront Cottage
+          1	Tropical Garments (Fiji) Ltd
+          1	Tropical Garments (Fiji) ltd
+          1	Tropik Wood Head Office
+          2	Tropik Wood Industries
+          1	True Automotive Spares
+          2	Tualesia Street
+          1	Tuatua
+          1	Tuatua Housing Ground FEO Shed
+          1	Tubalevu Community Hall
+          1	Tubou Street
+          1	Tububere
+          2	Tui Street
+          1	Tui Tai Charters
+          1	Tuilawa Lookout Point
+          1	Tuirara Methodist Church
+          1	Tuisowaqa Road
+          1	Tukani 
+          3	Tukani Street
+          1	Tukavesi
+          1	Tukavesi Community Hall
+          1	Tukavesi Police Station
+          1	Tulele Place
+          1	Tumavia Community Hall
+          1	Turagabeci Primary School
+          1	Turagarua Primary School Hall
+          1	Turners Place
+          1	Turtle Island Recreation Hall - Polling Venue
+          1	Turtle Island Resort
+          1	Turtle Island SPB
+          1	Turtle airways  shed
+          1	Turtle shed
+          1	Tuva River
+          1	Tuvana Place
+          1	Tuvavatu FEO Tent - Polling Venue
+          1	Twin Crosses
+          1	U save supermarket
+          1	U8 Lecture Theatre
+          1	UAE Change
+          1	UCI RD
+          1	UNITED DISCOUNTS CHEMISTS
+          1	UPPER/GROUND LEVEL
+          1	US Embassy
+          1	USP
+          1	USP - Properties & Facilities Department
+          1	USP Administrative building
+          1	USP Building
+          1	USP Buildings
+          1	USP Bure
+          1	USP Counselling Center
+          1	USP Engineering Block
+          1	USP Halls Office
+          1	USP Health Clinic
+          1	USP Library
+          1	USP Pool
+          1	USP SAS/Moodle/Foundation
+          1	USP Statham Campus FEO Shed Polling Venue
+          1	USP Student Car Park
+          1	USP building
+          1	USP buildings
+          1	Ucunivanua District School
+          1	Udal Street
+          1	Udit Narayan Road
+          1	Ulavi Street
+          1	Uluda
+          2	Uluibau
+          1	Uluibau District School
+          1	Uluiloli Community Hall
+          1	Uluvatu Road
+          1	Umaria Park
+         16	Under Construction
+          1	Unfinished  Building
+          1	University Of Fiji
+          2	University of the South Pacific
+          1	University of the South Pacific (Lower Campus)
+          1	University of the South Pacific (Statham Campus)
+          1	University of the South Pacific statham campus play ground
+          1	University of the south Pacific Gymnasium
+          1	Uprising Beach Ressort
+          1	Uprising Hotel
+          1	Ura Place
+          1	Urata Arya Ved Pachaar Mandali
+          1	Urata Community Hall
+          1	Usborne Passage
+          2	Usher Street
+          1	Uto Community Hall - Polling Venue
+          1	V 15
+          1	V 16
+          1	V 18
+          1	V restaurant
+          1	V. M. Pillay Road
+          1	VASANT STORE
+          1	VAU RD
+          1	VEITOGO POLICE POST
+          1	VEITOGO VILLAGE CEMETRY
+          1	VIJENDRA'S stylish fashion
+          1	VINOD PATEL CAR PARK
+          1	VINOD PATEL YARD
+          1	VM1
+          1	VM10
+          1	VM11
+          1	VM12
+          1	VM13
+          2	VM14
+          2	VM15
+          1	VM16
+          1	VM17
+          1	VM18
+          1	VM19
+          1	VM2
+          1	VM20
+          1	VM21
+          1	VM22
+          1	VM23
+          1	VM24
+          1	VM25
+          1	VM26
+          1	VM27
+          1	VM28
+          1	VM29
+          1	VM3
+          1	VM30
+          1	VM31
+          1	VM32
+          1	VM33
+          1	VM34
+          1	VM35
+          1	VM36
+          1	VM37
+          1	VM38
+          1	VM39
+          1	VM4
+          1	VM40
+          1	VM41
+          1	VM42
+          1	VM5
+          1	VM6
+          1	VM7
+          1	VM8
+          1	VM9
+          1	VODAFONE TOWER
+          1	VODAFONE TRANSMITOR TOWER
+          1	VODAVONE TRANSITOR
+          1	VOLLYBALL COURT
+          1	VUDI CRESANT RD
+          2	Vacant Lot
+          1	Vacant lot 2/3/4
+          1	Vacant lot 21/22/23/24
+          1	Vacant lot 9/10/11
+          1	Vacoko
+          1	Vadravadra
+          1	Vai Vai Loop
+          1	Vaidoko
+          1	Vaidoko Community Hall
+          1	Vaivai Place
+          3	Vaivai Road
+          1	Vaivai forest
+          1	Vakabale Street
+          1	Vakabuli Road
+          1	Valaga
+          1	Valaga kitchen
+          1	Vale 6
+          1	Valebasoga Muslim College
+          1	Valelawa Primary School, Seaqaqa
+          1	Valelevu Fire Station
+          1	Valelevu Health Center
+          1	Valeni Community Hall
+          1	Valetabu Road
+          1	Valetia Street
+          2	Valevuni
+          1	Valili Street
+          1	Valima Hill Road
+          1	Valley Drive
+          1	Valovoni Village FEO Tent
+          1	Value City Second hand Shop
+          1	Value city
+          1	Value city.
+          1	Vama St
+          1	Vananumi
+          1	Vananumi ni veibuli
+          1	Vanua House
+          2	Vanua Levu
+          1	Vanua Levu Drive
+          1	Vanua Levu Group
+          1	Vanuadina
+          1	Vanuakula
+          1	Vanuavou District School
+          1	Varani Street
+          1	Varanise house
+          1	Variety of Dishes
+          1	Varmans
+          1	Varokavani
+          1	Vashantilal Road
+          1	Vasilele
+          1	Vatia Beach Eco Resort
+          1	Vatoa Community Hall Nausori
+          1	Vatoa Rd
+          1	Vatoa Street
+          1	Vatu-i-Ra Channel
+          1	Vatubalavu Community Hall - Polling Venue
+          1	Vatudamu Community Hall
+          1	Vatudina Rd
+          1	Vatukajiri 1
+          1	Vatukajiri 2
+          2	Vatukalo
+          1	Vatukarasa
+          1	Vatukarasa Community Hall Tailevu
+          1	Vatukoula Airport
+          1	Vatukoula Convent School
+          1	Vatukuca Village FEO Tent
+          2	Vatulele
+          1	Vatulele Airport
+          1	Vatulele Village FEO Tent, Savusavu
+          1	Vatuniveivuke
+          1	Vatuqwaqwa
+          1	Vaturomulo Village FEO Tent
+          1	Vaturu
+          1	Vaturu Dam
+          1	Vaturua Community Hall
+          1	Vatusue St
+          1	Vatuvia Street
+          1	Vatuvuti
+          1	Vatuwaqa
+          1	Vatuwaqa Bus Stop
+          1	Vatuwaqa Cemetary
+          1	Vatuwaqa Methodist Church Hall Polling Venue
+          1	Vatuwaqa Primary School
+          2	Vatuwaqa River
+          1	Vatuwaqa Shop
+          1	Vatuwaqa,Raiwaqa,Nasese buses
+          1	Vaugham Road
+          1	Vawa Island
+          1	Vector investments real estate
+          1	Vedralalevu
+          1	Veidrala Community Hall
+          1	Veisari FEO Ground Shed Polling Venue
+          1	Veitari Road
+          1	Veiuto Primary School
+          1	Veiuto Road
+          1	Veivatuloa
+          1	Veivueti Taxi
+          1	Verata Community Hall
+          1	Verata Street
+          1	Vere Road
+          1	Verevere
+          1	Verevere Community Hall
+          1	Verona Street
+          1	Verrier Road
+          3	Veseisei Back Road
+          1	Vesi Community Hall
+          2	Vesi Crescent
+          1	Vesi Road
+          2	Vesida Place
+          1	Vesivesi
+          1	Vesivesi Road
+          1	Vetaia Street
+          2	Viani Community Hall
+          1	Victoria Courts
+          1	Victoria Palms
+          2	Victoria Parade
+          1	Victoria Wines
+          1	Victoria's  owner
+          1	Victory Milk Bar
+          1	Vidal Avenue
+          2	Vidilo Street
+          1	Vikash Nand Shop
+          1	Vikulukulu 2
+          1	Vila Place
+          5	Villa
+          1	Villa 47
+          1	Villa 48
+          1	Villa 49
+          2	Villa 53
+          1	Villa 55
+          1	Village  Canteen
+          1	Village 4 Cinemas
+          1	Village 6 Cinema Parking
+          1	Village 6 Cinemas
+          1	Vineyard Palace
+          1	Vinis Shop
+          1	Vinod Karsanji Bhindi Street
+          2	Vinod Patel
+          1	Vinod Patel Hardware Store
+          1	Vinod Patel Yard
+          1	Vinood Patel Hardware
+          1	Vio Road
+          2	Viria Road
+          2	Viria Village
+          1	Visama Sanatan Primary School
+          2	Viseisei Back Road
+          1	Viseisei Village Road
+          1	Vishal's DVD &Milkbar
+          1	Vishal's barber shop
+          1	Vishal's milk shop
+          1	Vishnu Deo Road
+          3	Vishnu Deo Street
+          1	Visi Circle
+          1	Vision Motors
+          1	Visitor carpark
+          1	Visoto District School - Polling Venue
+          1	Vitawa
+          1	Viti
+          2	Viti Levu
+          1	Viti Levu Drive
+          6	Vitilevu Drive
+          1	Vitina Community Hall
+          5	Vitogo Parade
+          1	Vitogo Road
+          1	Vitogo Village
+          1	Vivili Community Hall
+          1	Viwa
+          1	Viwa Island Resort
+          1	Vo Place
+          1	Vocational Building
+          4	Vodafone
+          1	Vodafone 
+          1	Vodafone  shop
+          1	Vodafone Access Road
+          1	Vodafone Arena
+          1	Vodafone Booth
+          1	Vodafone Cellular Site
+          1	Vodafone Fiji HQ
+          1	Vodafone MHCC Retail
+          2	Vodafone Mobile Phones
+          1	Vodafone Tower
+          1	Vodafone Transmitter
+          1	Vodafone access road
+          1	Vodafone equipment shelter
+          1	Vodokana Street
+          1	Volavola Road
+          2	Voli Voli Beach Ressort
+          1	Volivoli Beach Ressort
+          1	Volivoli Mandir Polling Venue
+          2	Volivoli Road
+          1	Volivoli Village
+          1	Voma
+          2	Vomo
+          1	Vomo 2
+          1	Vomo 3
+          1	Vomo Place
+          2	Vomo Street
+          1	Vonovono
+          1	Vonovono 2
+          1	Vonu Road
+          1	Vonu Street
+          1	Vorovoro
+          1	Vosanijaco
+          1	Votua
+          1	Votua Lalai
+          2	Votua Road
+          1	Votua Road Park
+          1	Votua Village Road
+          3	Votualevu Road
+          1	Vuadomo
+          1	Vuadomo Church
+          2	Vuadomo Road
+          1	Vuadomo Village FEO Tent
+          1	Vuadomo Waterfall
+          1	Vuanisaiki Primary School
+          1	Vuci Community Hall
+          1	Vuci Methodist Primary School
+          5	Vuci Road
+          1	Vuda # 2
+          1	Vuda # 3
+          1	Vuda Ancient Fortress
+          5	Vuda Back Road
+          1	Vuda Marina
+          1	Vuda Marina Road
+          1	Vuda Point Police Post
+          1	Vuda Point Road
+          1	Vudi Road
+          1	Vudibasoga Catholic School FEO Tent
+          1	Vuga Street
+          1	Vuinadi Village FEO Shed
+          1	Vuinaqalutu Community Hall
+          1	Vuinaqalutu Village
+          1	Vuiraqilai Community Hall
+          1	Vuisiga Community Hall Polling Venue
+          1	Vuivui Road
+          1	Vukase Street
+          1	Vuna Road
+          1	Vunabaka
+          1	Vunabuebue
+          1	Vunadalidali
+          1	Vunaivi taba sevu
+          1	Vunakece Road
+          1	Vunakulubuco
+          1	Vunamakita # 2
+          1	Vunamakita 1
+          1	Vunamulomulo
+          1	Vunaniu
+          1	Vunaniu 2
+          1	Vunarewa
+          1	Vunatawa
+          1	Vunatawa houz
+          1	Vunatawarau 2
+          1	Vunatawarau House
+          2	Vunativi
+          2	Vunato Creek
+          1	Vunato Rubbish Dump
+          1	Vunatoca
+          1	Vunatoca 2
+          1	Vunatoto
+          1	Vunatoto # 1
+          1	Vunatoto 2
+          1	Vunavau Lane
+          1	Vunavauvau houz
+          1	Vunavutu
+          1	Vunawajikini
+          1	Vunibau Place
+          1	Vunicuicui Sanatan Primary School
+          1	Vunidamoli Community Hall
+          1	Vunidawa Primary School, Savusavu
+          1	Vunidogoloa Community Hall
+          1	Vunika Primary School
+          1	Vunikavikaloa Rd
+          1	Vunikavikaloa Sett Rd
+          1	Vunikura Village FEO Shed
+          1	Vunilagi Primary School
+          1	Vunimanuca Primary School
+          1	Vunimoli Islamia College
+          1	Vunimono Arya Primary School
+          1	Vunimono Arya School
+          1	Vunimono High School
+          1	Vunimono Primary School
+          1	Vuniniudrovu Community Hall Polling Venue
+          1	Vunisavisavi Community Hall
+          1	Vunisea Airport
+          1	Vunisea Community Hall, Seaqaqa, Macuata
+          1	Vunisea Secondary School, Kadavu
+          1	Vunisinu Community Hall
+          1	Vunisinu Road
+          1	Vunitogoloa
+          1	Vuniuto Road
+          1	Vunivadra Place
+          1	Vunivaivai
+          1	Vunivaivai Community Hall
+          1	Vunivalu Road
+          1	Vunivau Methodist Church Hall Samabula Polling Venue
+          1	Vunivau Sanatan Dharam Primary School
+          1	Vunivi Street
+          1	Vunivutu
+          1	Vunivutu Primary School
+          1	Vuniwai Community Hall
+          1	Vuniyayawa
+          1	Vunuku Community Hall Rewa
+          1	Vuo Village Hall
+          1	Vusavusa Place
+          1	Vusuya Police Post
+          1	Vutia District School
+          1	Vutia District School Polling Venue
+          1	Vutuna 1
+          1	Vutuna 2
+          1	Vuvaniu
+          1	Vuvui Island
+          1	Vuya Community Hall
+          1	Vuya District School
+          2	Vuya Road
+          1	WAF WORKSHOP
+          1	WAILOALOA
+          1	WAILOALOA BEACH
+          1	WAQADRA
+          1	WAQAVUKA STREET
+          3	WATER AUTHORITY OF FIJI
+          1	WATER AUTHORITY TREATMENT PLANT
+          1	WATER WORLD
+          1	WEST BUS FLEET
+          1	WHITE HOUSE INN
+          1	WORKSHED
+          2	WQ1
+          1	WQ10
+          1	WQ11
+          1	WQ12
+          1	WQ13
+          1	WQ14
+          1	WQ15
+          1	WQ16
+          1	WQ17
+          1	WQ18
+          1	WQ2
+          1	WQ20
+          1	WQ21
+          1	WQ4
+          1	WQ5
+          1	WQ6
+          1	WQ7
+          1	WQ8
+          1	WQ9
+          1	WYNDHAM MARKETING Booth
+          1	Wacanui Road
+          1	Wadigi
+          1	Wai Crescent Road
+          2	Wai Tui Marina
+          1	Waibunabuna Primary School
+          1	Waicoka Community Hall
+          1	Waidalice District School
+          1	Waidradra Community Hall, Tavua - Polling Venue
+          1	Waidranu Street
+          1	Waidroka Bay Resort
+          1	Waigunugunu
+          1	Waikete Community Hall
+          1	Waikubukubu Community Hall - Polling Venue
+          1	Waila Housing Community Hall Polling Venue
+          1	Waila UPC
+          1	Wailea SDA Church Hall Polling Venue
+          1	Wailea Street
+          1	Wailevu
+          1	Wailevu Community Hall, Tavuki
+          1	Wailevu Community Post
+          1	Wailevu East District School
+          2	Wailevu Police Post
+          1	Wailevu Primary School, Tunuloa
+          7	Wailoaloa
+          1	Wailoaloa Beach
+          2	Wailoaloa Beach Resort
+          2	Wailoaloa Road
+          1	Wailoaloa Shopping Centre
+          1	Wailoaloaalo
+          3	Wailoku
+          1	Wailoku Road
+          1	Wailotua District School
+          1	Wailulu 3
+          1	Waimalua Community Hall
+          8	Waimanu Road
+          1	Wainaloka
+          1	Wainaloka Church Hall (PV)
+          1	Wainaloka Village
+          1	Wainibuka Secondary School
+          1	Wainikoro Community Post
+          1	Wainikoro Police Station (Hub)
+          1	Wainikoro Public School
+          1	Wainikoro Public School Polling Venue
+          1	Wainitarawau Road
+          1	Wainivedio Meeting House Polling Venue
+          1	Wainivesi Catholic Hall
+          1	Wainivula Road
+          1	Wainiyabia Village Community Hall Polling Venue
+          1	Wainunu Street
+          1	Waiqanake
+          2	Waiqanake District School
+          1	Waiqanake District School Polling Venue
+          1	Waiqele Secondary School
+          1	Wairebetia Road
+          1	Wairiki Community Hall, Bua
+          1	Wairua Road
+          1	Waisa Community Hall Polling Venue
+          1	Waisa Village FEO Tent
+          1	Waisali Village FEO Tent
+          1	Waisese
+          1	Waitui
+          1	Waivou Community Hall
+          1	Waiwai
+          1	Waiwaitu
+          1	Waiyavi Street
+          1	Wakaya Island
+          1	Wakaya Island Airport
+          1	Walt Smith International
+          1	Walu Bay
+          1	Walu Place
+          1	Walu Street
+          1	Wananavu Access Road
+          1	Wananavu Beach Resort
+          1	Waqa Circle
+          1	Waqana
+          1	Waqatabu Place
+          1	Waqavuka Flats
+          1	Warwick Resort and Spa Fiji
+          1	Wasawasa Rd
+          1	Washrooms
+          1	Watch and Jewellery Repair Shop
+          1	Water And Sanitation SPC
+          1	Water Department road to tanks
+          1	Water Feature
+          1	Water Tank
+          1	Water logged area
+          1	Water sports Centre
+          2	Water ware
+          1	WaterFront Hotel
+          1	Waterfall
+          2	Waterfront Road
+          1	Waterlogged Area
+          1	Waterlogged area
+          1	Wavi Island
+          1	Wavuwavu Primary School
+          2	Wawa
+          2	Waya
+          1	Waya Levu Village
+          1	Waya Street
+          1	Wayalailai
+          1	Wayalailai Island
+          1	Wayalailai Resort
+          1	Wayalevu Community Hall - Polling Venue
+          1	Weilulu
+          1	Weilulu 2
+          2	Wellington Drive
+          1	Werenicina
+          2	Wesley house
+          1	West point arcade
+          1	WestPac Bank
+          1	Western
+          1	Western Digital Video Productions
+          1	Western Tyre & Battery centre
+          1	Western Union
+          1	Western Union Money Exchange
+          1	Western Union Money Transfer
+          1	Westin Resort
+          1	Westin village 3
+          4	Westpac
+          1	Westpac 
+          2	Westpac ATM
+          1	Westpac ATM Machine
+          2	Westpac Bank
+          1	Westpac Bank & USP Cashier
+          1	Westpac Nabua
+          1	Westpac Suva Branch
+          1	Westpak
+          1	Wet Edge
+          1	Wetland
+          1	Where castaway was filmed
+          1	Whippy Street
+          1	White Rock
+          1	White Sandy Beach
+          1	White Sandy Beach Dive Resort
+          1	Whitten Lane
+          1	Wide Range of Dishes
+          1	Wiliamson Road
+          1	William &Goslings Limited
+          1	Wine & Done Pizza Lounge
+          1	Wing Hing Restaurant
+          1	Wishbone 
+          1	Wishbone & Pizza King
+          1	Woodward Place
+          1	Woodward Road
+          1	World Harvest
+          1	Wyndham Beach Bar
+          1	Wyndham Resort Denarau Island
+          1	Xian Sheng
+          1	Xiang Sheng Trade  Company
+          1	Xin Li Xuan
+          1	YARD
+          1	YBC
+          1	YEES  STORAGE YARD
+          1	YEES STORAGE
+          1	YS
+          1	YUSUF BARBER SHOP
+          1	YV
+          1	Yacata
+          1	Yacht shop
+          2	Yadua
+          1	Yadua Community Hall, Bua
+          1	Yadua Taba
+          1	Yaka Place
+          2	Yaka Road
+          1	Yalandi Street
+          1	Yalava Community Hall
+          1	Yalewa Kalou
+          1	Yambu
+          1	Yamoturua
+          1	Yankanna Place
+          1	Yanuca
+          1	Yanuca Lailai
+          1	Yanuca Levu
+          1	Yanuca Place
+          1	Yaqaga Community Hall
+          1	Yaqara 2
+          1	Yaqeta
+          1	Yaqeta Community Hall - Polling Venue
+          1	Yaqeta house
+          1	Yaqeta shop
+          2	Yaravudi
+          1	Yarawa Road
+          1	Yarawa Settlement Old Water Factory Warehouse Polling Venue
+          1	Yaro Community Hall
+          1	Yaro Community Hall Polljng Venue
+          2	Yaroi
+          1	Yaroi Village
+          1	Yasawa Flyer
+          1	Yasawa High School
+          1	Yasawa Island
+          1	Yasawa Island Airport
+          1	Yasawa Island Resort
+          1	Yasawa Islands
+          2	Yasawa Street
+          1	Yasawa i Rara Commmunity Hall - Polling Venue
+          1	Yasawairara
+          1	Yasi Circle
+          1	Yasi Road 
+          1	YasiYasi Road
+          1	Yat Sen Primary & Secondary Schools
+          1	Yaukuvelevu
+          1	Yavu
+          1	Yavubuli
+          1	Yavulagi
+          1	Yavuna
+          1	Yavuna Community Hall - Polling Venue
+          1	Yawa Street
+          1	Yawesa
+          1	Yawini
+          1	Yees Express Mart
+          1	YeesXpressMart
+          1	Yohann Place
+          1	Youth  Village Handicraft owner
+          1	Youth Village Handicraft
+          1	Youth Village Handicraft 
+          1	Youth Village Handicraft BOss REsidence
+          1	Yue Lai Hotel
+          1	Yurata Village
+         25	Yv
+          1	Zaika Restaurant
+          1	Zens Medical
+          1	Zens medical centre
+          1	Zhou's Shanghai Palace
+          1	Zigzag
+          1	Zip Fiji
+          1	Zipline and Orchid Waterfalls
+          1	Zoom video vision
+          1	Zoom video vision & Naaz Refreshment bar
+          1	abaca
+          1	activities department
+          1	administration building
+          1	adrenalin watersports
+          1	ahmends house of spices
+          1	airport central
+          1	amira building
+          1	apartment 2
+          1	apartments 
+          1	bR1
+          1	bR10
+          1	bR11
+          1	bR12
+          1	bR15
+          1	bR16
+          1	bR17
+          1	bR18
+          1	bR19
+          1	bR2
+          1	bR20
+          1	bR21
+          2	bR22
+          1	bR23
+          1	bR24
+          1	bR4
+          1	bR5
+          1	bR6
+          1	bR9
+          1	babita tailoring center
+          1	back rd
+          2	ball room
+          1	bathroom/toilet
+          1	bati na reba
+          1	batiri2
+          1	beachfront
+          1	bemanu houz
+          1	blue sky restaurant
+          1	bodylife
+          1	bolabola house
+          1	bonu road
+          1	bowling ground!
+          1	bread lovers
+          1	bridge
+          1	buduka house
+          1	building
+          1	building # 93
+          1	building18
+          1	bulavou houz
+          3	bure
+          1	bure 12 A
+          1	cafe
+          1	cake world
+          1	captain cook cruises
+          5	car park
+          2	car parking
+          1	car wash
+          1	cardigo cafe
+          1	cardigo lounge
+          6	carpark
+          1	carpenters rentals
+          1	cavanavula house
+          1	chapel
+          1	chemistry lab
+          1	cheveux salon
+          1	chicken Express
+          1	chicken bites
+          1	chicken express
+          1	chief garage
+          2	chiefly burial ground
+          1	chiefs garage
+          1	chillies
+          1	chillies resturant
+          1	church
+          1	cloud break
+          4	cloudbreak
+          1	colo wesi
+          1	com blding10
+          1	com blding12
+          1	com blding15
+          1	com blding6
+          1	com blding8
+          1	community hall female toilet
+          1	concrete housr
+          1	consumers supermarket
+          1	continental cakes
+          1	conua house
+          1	coomon area
+          2	corner cafe
+          1	corner cafe carpark
+          1	courts
+          1	crown
+          1	cuppa bula
+          1	curry house
+          1	curry lounge
+          1	daga house
+          1	daveendra
+          3	denarau duty free
+          1	denarau news agency
+          1	design architecture
+          2	diagnostic and specialist center
+          1	dinning area
+          1	don kyatt spare parts and services
+          1	draiba houz
+          1	drekenicagi house
+          1	elevator
+          1	fashion Rack
+          1	fishing gear
+          1	flats
+          1	foodhall supermarket
+          1	foreign exchange
+         36	garage
+          1	gare14
+          1	gare17
+          1	gaunavou houz
+          1	genuine spares bulk store
+          1	glamour jewellers
+          1	govt10
+          1	govt13
+          1	govt14
+          1	govt15
+          1	govt16
+          1	govt17
+          1	govt3
+          1	green house 
+          1	h10
+          1	h12
+          1	h13
+          1	h14
+          1	h15
+          1	h16
+          1	h17
+          1	h18
+          1	h19
+          1	h20
+          1	h21
+          1	h22
+          1	h23
+          1	h24
+          1	h25
+          1	h26
+          1	h27
+          1	h28
+          1	h29
+          1	h30
+          1	h31
+          1	h32
+          1	h33
+          2	h34
+          2	h35
+          1	h36
+          1	h37
+          1	h38
+          1	h39
+          1	h40
+          2	h41
+          2	h42
+          1	h43
+          1	h44
+          1	h45
+          1	h48
+          1	h49
+          1	h51
+          1	h52
+          3	h53
+          2	h54
+          3	h55
+          3	h56
+          2	h57
+          2	h58
+          2	h59
+          2	h60
+          2	h61
+          2	h62
+          2	h63
+          1	h64
+          1	h65
+          1	h7
+          1	h8
+          1	h9
+          1	handi-craft
+          2	harbour
+          1	head teachers quaters 
+          1	hospital house1
+          1	hospital2
+          1	hostels
+          1	house 1
+          1	house TBC
+          1	house TBC 2
+          1	hs2
+          1	hs3
+          1	hs4
+          1	hs5
+          1	hs50
+          1	hs51
+          1	hs52
+          1	hs6
+          1	ice-cream corner
+          1	ideshni
+          1	igiladi
+          1	im'raans Barber Shop
+          1	international check in.
+          1	island foot wear.
+          1	island footwear
+          1	island refrigeration & electrical wholesalers Itd
+          1	jacks of fiji garments
+          1	japan ict lecture thatre
+          1	jbk spare parts
+          1	jing ying shop
+          1	joritani house
+          2	kayaks
+          1	kids koro
+          1	kilagi
+          2	kitchen
+          1	kitchen grill restaurant
+          1	kitchen.
+          1	konoor wing
+          1	koroba house
+          1	kovelagi house
+          1	kritesh fish shop
+          1	kshatriya hall
+          1	kumar's
+          1	kumars hair salon
+          1	kumars internet
+          1	kv1
+          1	l-2
+          1	lalai mini mart
+          1	lautoka hotel
+          1	lawakilevu
+          1	lemeki
+          1	liquor world
+          2	locker room
+          3	lot 1
+          2	lot 10
+          2	lot 11
+          3	lot 12
+          3	lot 13
+          3	lot 14
+          1	lot 14/15
+          3	lot 15
+          4	lot 16
+          5	lot 17
+          4	lot 18
+          2	lot 19
+          4	lot 2
+          4	lot 20
+          2	lot 21
+          3	lot 22
+          2	lot 23
+          3	lot 24
+          4	lot 25
+          3	lot 26
+          4	lot 27
+          1	lot 28
+          3	lot 29
+          3	lot 3
+          4	lot 30
+          2	lot 31
+          2	lot 32
+          2	lot 33
+          2	lot 34
+          2	lot 36
+          1	lot 37
+          1	lot 38
+          1	lot 39
+          3	lot 4
+          2	lot 5
+          5	lot 6
+          3	lot 7
+          4	lot 8
+          5	lot 9
+          1	lot29
+          1	lot35
+          1	lovoni
+          1	madhus tailoring
+          1	main kitchen
+          1	malevu
+          1	maleya
+          1	malolo cat
+          1	marina bottle shop
+          2	marking buoy
+          1	matamata 2
+          1	md narayan & sons footwear
+          1	meke lawn
+          1	meke lounge bar
+          1	memorial Site
+          1	mesuria travels
+          1	mobil station
+          1	moneygram
+          1	muainase house
+          1	muaira
+          1	muaira kitchen
+          1	murunavutu
+         38	nR
+          1	naba waqa
+          1	nabouli house1
+          1	nabouli house2
+          1	nabukadra
+          1	nacavacola
+          1	nacavacola 2
+          1	nadavu lailai
+          1	nadawa road
+          1	nadelei
+          1	nadi
+          1	nadi bottle shop
+          1	nadi christian community school
+          1	nadi dental center
+          1	nadi mechanical services
+          1	nadi motor parts
+          2	nadi spare parts
+          1	nadi town
+          1	naduruvatu
+          1	nagadele cemetery 
+          1	naicaracara house
+          1	naidiri house
+          1	naitasiri house
+          1	nakautamata 2
+          1	nakautamata#1
+          1	nakoro tabua
+          1	nakorovau house
+          1	nalalo
+          1	nalauvatu
+          1	nalesumai
+          1	namara
+          1	namua
+          1	nanuyakoto  house
+          1	nasilivarua house
+          1	nasogosei 3
+          1	nasogosei 4
+          1	nasomlo
+          1	natabale
+          1	natabuyam garage/toilet
+          1	natala doko #1
+          1	natala doko#2
+          1	natawa
+          1	nationwide services limited
+          1	natuvulevu 2
+          1	navawagusu 1
+          1	navo house
+          1	navorau
+          1	nawaka bus shelter
+          2	nawaka district school
+          1	nawaka house
+          1	nawamagi1
+          1	nawamagi2
+          1	nawaqadamu 2
+          1	nawaruvu
+          1	new line chemical supplies
+          1	new world supermarket
+          1	nitis hair salon/jets spare parts
+          1	nm31
+          1	no.8 store
+          1	nt
+          1	nt10
+          1	nt13
+          1	nt14
+          1	nt15
+          1	nt16
+          1	nt17
+          1	nt27
+          1	nt34
+          1	nukuwasiga 2
+          1	nukuwasiga house
+          1	oladi house
+          1	old Japanese wedding chapel
+          1	one world flight center 
+          1	oolala cruises
+          1	orchid lounge
+          1	osv BOOK SHOP
+          1	paddy's market
+          1	paddys markert
+          1	paddys variety shop
+          1	padyatra wing
+          1	palm 4
+          1	paper power
+          1	parts world limited
+          1	passenger terminal
+          4	path
+          1	pawn shop
+          1	payless boutique
+          1	piggery
+          1	play ground
+         16	pool
+          1	poolside Building
+          1	porch
+          1	potter's desk
+          1	prakash fast food
+          1	prakash fast food.
+          1	prataps engineering center
+          1	premier tyre spare
+          1	premier tyre spare.
+          1	print trading ltd
+          1	r onnies murgi fry
+          1	raniqa resident 
+          1	raramavou house
+          1	raravou houz
+          1	real repairs &electronics
+          2	residential
+          5	residential driveway
+          1	rewa 2
+          1	rewa1
+          1	ridge walk
+          1	ripcurl store
+          1	rwailevu
+          1	s
+          1	s/v13
+          1	s/v3
+          2	sabeto
+          1	saineai church
+          1	saint john Bosco Primary school
+          1	sales & marketing office
+          1	sales car park
+          1	sales& marketing office
+          1	san brun01
+          1	satellite
+          1	sauka
+          2	saumata
+          1	saunaka cemetry
+          1	saunaka village cemetery 
+          1	sautabu houz2
+          1	savusavu
+          1	seafiji
+          1	security Booth
+          1	security booth
+          1	security desk
+          1	security house
+          1	security office
+          1	securty house
+          1	sekura
+          1	senibua house
+          1	serene
+          1	serene house
+          1	setura2
+          1	shannons  paints
+          1	sharma's rental
+          1	shop fitting fiji limited.
+          1	shop fittings
+          1	shopnsave supermarket
+          1	shopping center 
+          1	sigatoka motor spares
+          1	sitar
+          1	sivia houz 2
+          1	sk19
+          1	sk36
+          1	sk37
+          1	sk5
+          1	sk51
+          1	skydiv
+          1	skydive fiji
+          1	sn6
+          1	snap printing
+          1	sofia's hair beauty saloon
+          1	sofitel bus bay
+          1	solomoni
+          1	spares Fiji limited
+          1	special school
+          1	staff quarters
+          1	staff quarters 2
+          1	staff quarters 3
+          1	staff quarters 4
+          2	staff quaters
+          2	staff quaters 
+          1	stationary and computers
+          1	stationery and computers
+          1	statue
+          1	statue space
+          1	store
+          1	sunida roshini kumar
+          1	sunrise battery
+          1	sunseeker
+          1	swiimming pool
+          1	swiming pool
+         30	swimming pool
+          1	tamavua
+          1	tawatawadi house
+          5	tbc
+          1	teachers quaters 
+          1	technical college
+          1	temple
+          1	temporary container yard and play field
+          2	tennis court
+          1	terrain tamer parts Ltd
+          1	the Pearl South Pacific resort
+          1	the spa
+          1	tin bouse
+          1	tin house
+          1	tin housr
+          1	tirisamuta houz
+          4	toilet
+          1	tourist vat refund counter
+          1	tower
+          1	tower insurance
+          1	tower insurance.
+          1	tutle airways hangar
+          1	uluda house
+          1	uluiviwa 1
+          1	unique colours
+          1	valekula
+          1	value city.
+          1	vanua balavu
+          1	vatia 
+          1	vatoa house
+          1	vatu
+          1	vatukajiri 1
+          1	vatulele houz
+          1	victory milk bar and bakery
+          1	vishal's barber shop
+          1	visitors toilet
+          1	vodafone
+          1	vokai life wear
+          1	vokavo
+          1	volinage 2 house
+          1	vuda 1
+          1	vuda#4
+          1	vuinadi house
+          1	vuna mulomulo2
+          1	vunabaka house
+          1	vunadoi house
+          1	vunadou
+          1	vunaivi
+          1	vunaivi 1
+          1	vunaivi 2
+          1	vunajiviyava
+          1	vunamaravu
+          1	vunamaravu houz
+          1	vunaniu
+          1	vunaniu balavu1
+          1	vunaniu balavu2
+          1	vunarara
+          1	vunasasa 1
+          1	vunasasa 2
+          1	vunatoto
+          2	vunavau house
+          1	vunavesi  2
+          1	vunavutu
+          1	vuni talatala
+          1	vunibaka
+          1	vutia
+          1	wairarapa house
+          1	water wear LTd
+          1	way a 2
+          1	waya house 1
+          1	we're ni lali
+          2	weather ballon station
+          1	welagi
+          1	were 23
+          1	were19
+          1	were23 lean2
+          1	wereiviji
+          1	westin bakery
+          1	westin hotel
+          1	westin hotel front office
+          1	westin hotel gym
+          1	westin hotel lobby
+          1	westin hotel village 1
+          1	westin hotel village 2
+          2	westin hotel village 7
+          1	westin hotel village 8
+          1	westin village 4
+          1	westin village 5
+          1	westin/village 6
+          1	westpac
+          1	westpac bank
+          1	whales tale
+          1	wooden house
+          1	wows hairsalon
+          1	wq3
+          1	wyndham lobby
+          1	yamisa houz
+          1	yasawa house
+          1	yavulo
+          1	yv#1
+          1	yv#10
+          1	yv#11
+          1	yv#12
+          1	yv#13
+          1	yv#14
+          1	yv#15
+          1	yv#16
+          1	yv#17
+          1	yv#18
+          1	yv#19
+          1	yv#2
+          1	yv#20
+          1	yv#3
+          1	yv#4
+          1	yv#5
+          1	yv#6
+          1	yv#7
+          1	yv#8
+          1	yv#9
+          1	yv1
+          1	yv10
+          1	yv11
+          1	yv12
+          1	yv13
+          1	yv14
+          1	yv15
+          1	yv16
+          1	yv17
+          1	yv18
+          1	yv19
+          1	yv2
+          1	yv20
+          1	yv21
+          1	yv22
+          1	yv23
+          1	yv24
+          1	yv25
+          1	yv26
+          1	yv27
+          1	yv28
+          1	yv29
+          1	yv3
+          1	yv30
+          1	yv31
+          1	yv32
+          1	yv33
+          1	yv34
+          1	yv35
+          1	yv36
+          1	yv37
+          1	yv38
+          1	yv39
+          1	yv4
+          1	yv40
+          1	yv41
+          1	yv42
+          1	yv43
+          1	yv5
+          1	yv6
+          1	yv7
+          1	yv8
+          1	yv9
+          1	zing restaurant asian

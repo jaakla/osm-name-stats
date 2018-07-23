@@ -1,0 +1,100 @@
+        793	Primary School
+        494	hut
+        241	latrines
+        233	Building
+        223	Bore hole
+        220	bore hole
+        191	building
+        182	tree
+        178	Latrine
+        159	Nursery School
+        145	Hut
+        129	School
+        108	No Name
+         99	Secondary School
+         97	Public Latrines
+         77	MTN Mobile Money
+         74	latrine
+         73	Total
+         69	Tan Telecom
+         69	Shell
+         66	path
+         63	Borehole
+         62	Saint Kizito Primary School
+         60	Stanbic Bank
+         59	Semliki
+         57	Latrines
+         55	House
+         54	Mobile Money
+         54	Gulu - Kampala Road
+         52	Class Block
+         48	Shallow Well
+         47	Saint Jude Primary School
+         44	Kiosk
+         42	Lugogo By-Pass - Rotary Avenue
+         42	Ishasha
+         39	Road
+         39	Deep borehole
+         39	Centenary Bank
+         37	Entebbe–Kampala Expressway
+         35	fixme=confirm
+         35	Teacher's Quaters
+         35	Jinja Road
+         34	Crane Bank
+         33	Entebbe-Kampala Expressway
+         33	Church
+         32	النيل الأبيض
+         32	Border Kenya - Uganda
+         32	Barclays
+         30	Saint Peter's Primary School
+         29	Saint Mary's Primary School
+         29	Bright Future Primary School
+         28	Path
+         27	Northern Bypass
+         27	Kobil
+         27	Grinding mill
+         27	Good Hope Primary School
+         27	Airtel Money
+         26	Bwizibwera - Ibanda
+         25	Saint Joseph Primary School
+         24	Uganda Police
+         24	RD Congo - Uganda
+         24	Mpanga
+         24	MTN
+         24	Hoima Road
+         24	Good Hope Nursery School
+         23	trees
+         23	Teacher's Quarters
+         23	Shallow well
+         23	Entebbe Road
+         23	Early Child Development Nursery School
+         23	#salesforceeast
+         22	Street Light
+         22	PSN
+         22	Bombo Road
+         21	grinding_mill_store
+         21	Posta Uganda
+         21	#salesforcewest
+         20	house
+         20	Victoria Nile
+         20	Orient Bank
+         20	Equity Bank
+         19	Store
+         19	Saint Paul Primary School
+         19	Petro
+         18	Alivu
+         17	pit latrine
+         17	UNHCR
+         17	Saint Charles Lwanga Primary School
+         17	Residnetial Building
+         17	Private Latrine
+         17	PSN latrine
+         17	Nakivubo Road
+         17	Jinja - Kampala Road
+         17	Housing Finance Bank
+         17	Boda-Boda Stage
+         17	Airtel
+         16	Kasambya
+         16	Kampala Road
+         16	Kagera
+         16	Finance Trust Bank

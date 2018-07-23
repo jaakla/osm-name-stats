@@ -1,0 +1,100 @@
+        452	Starbucks
+        398	Subway
+        300	Burlington Northern Santa Fe R
+        289	Shell
+        281	Main Street
+        264	Aurora Avenue North
+        246	McDonald's
+        239	7-Eleven
+        238	Chevron
+        237	No Name
+        237	Food Mart
+        216	1st Avenue South
+        196	76
+        181	1st Street
+        169	2nd Street
+        168	Lewis and Clark Trail Highway
+        166	Bothell Way Northeast
+        163	Northeast 8th Street
+        159	State Route 20
+        159	Martin Luther King Junior Way South
+        155	3rd Street
+        153	Bothell-Everett Highway
+        150	Seattle Subdivision
+        146	5th Street
+        145	Pacific Highway South
+        145	Bank of America
+        143	6th Street
+        143	148th Avenue Northeast
+        141	Valley Freeway
+        139	4th Street
+        135	Lakeside Subdivision
+        132	Military Road South
+        132	Chase
+        131	Jack in the Box
+        130	Rainier Avenue South
+        127	4th Avenue South
+        126	Fallbridge Subdivision
+        124	Northeast Fourth Plain Boulevard
+        124	East Marginal Way South
+        123	Highway 99
+        120	Northeast 4th Street
+        119	Wells Fargo
+        119	Walgreens
+        118	Union Pacific Railroad
+        115	Rite Aid
+        114	Taco Bell
+        114	Olympic Highway
+        112	Columbia Plateau Trail State Park
+        110	ARCO
+        109	O'Reilly Auto Parts
+        109	Northeast 24th Street
+        109	KeyBank
+        108	Puget Sound and Pacific Railroad
+        108	A Street
+        107	Railroad Avenue
+        107	National Forest Development Road
+        104	Northeast 12th Street
+        102	Pine Street
+        102	Northeast 99th Street
+        100	BNSF Railway
+         99	Northeast 45th Street
+         98	15th Avenue Northeast
+         97	228th Avenue Southeast
+         96	Northeast 78th Street
+         96	Burger King
+         96	196th Street Southwest
+         95	The Church of Jesus Christ of Latter-day Saints
+         95	Interurban Trail
+         94	International Boulevard
+         93	7th Street
+         92	C Street
+         91	Willapa Hills Trail
+         91	Spokane Subdivision
+         91	5th Avenue Northeast
+         90	Washington Street
+         90	John Wayne Pioneer Trail
+         89	Maple Street
+         89	Highline Irrigation Canal
+         88	Northeast Highway 99
+         87	West Main Street
+         87	Northeast 10th Street
+         87	4th Avenue
+         86	Taco Time
+         86	Sunset Highway
+         86	Southeast 272nd Street
+         86	Northeast 20th Street
+         86	Cedar Street
+         85	2nd Avenue
+         85	132nd Avenue Southeast
+         84	Tukwila International Boulevard
+         84	Northeast 85th Street
+         84	Northeast 145th Street
+         83	Safeway
+         83	140th Avenue Northeast
+         82	tennis
+         82	ampm
+         82	B Street
+         81	U.S. Bank
+         81	East Mill Plain Boulevard
+         81	8th Street

@@ -1,0 +1,100 @@
+         14	EN nº 2
+         11	Avenida Marginal 12 Julho
+         10	BISTP
+          8	Avenida das Naçoes Unidas
+          7	Avenida da Independência
+          6	Rio Logui
+          4	Avenida Kwama N’Kruma
+          3	Sete Pedras
+          3	Rua da Guine
+          3	Rua Moçambique
+          3	Rua Angola
+          3	Ribeira Formiga
+          3	Palácio dos Congressos
+          3	Mercado
+          3	Estrada de Agua Porca
+          3	EN nº 3
+          3	Bar
+          3	Avenido da Leberdade
+          3	Avenida Água Grande
+          3	Avenida Geovany
+          3	Avenida Amilcar Cabral
+          2	Xicos (Cafe & Companha)
+          2	Universidade de São Tomé and Príncipe, Instituto Superio
+          2	Uba Budo
+          2	São Tomé e Príncipe
+          2	São Tomé
+          2	São Paulo
+          2	São João
+          2	São José
+          2	Seminário de padres
+          2	Santana FC
+          2	Santa Teresa
+          2	Santa Isabel
+          2	Santa Clotilde
+          2	Santa Clara
+          2	S. Francisco
+          2	Rua da Caixa
+          2	Rua Francisco Silva
+          2	Rua Barão Água Izé
+          2	Rua 3 de Fevereiro
+          2	Ribeira Afonso
+          2	R. P. Martinho Pinto de Rocha
+          2	Praça de Táxi
+          2	Praça de Independência
+          2	Praia Seca
+          2	Praia Seabra
+          2	Praia Macaco
+          2	Praia Lagarto
+          2	Praia Inhame Eco Lodge
+          2	Praia Ilhame
+          2	Praia Grande
+          2	Praia Burra
+          2	Praia Banana
+          2	Praia Abade
+          2	Parque Natural Ôbo de São Tomé
+          2	Parque Natural do Príncipe
+          2	Palácio Presidencial
+          2	Oque Daniel
+          2	Nova Olinda
+          2	Nova Apostolica
+          2	Morro da Trindade
+          2	Monte Alegre
+          2	Mira-Rio
+          2	Mionga
+          2	Ministério de Saúde
+          2	Mercado de Cova Água Santana
+          2	Malanza
+          2	Lixeira
+          2	Laura
+          2	Lagoa Azul
+          2	Jardim Botânico
+          2	Island Bank
+          2	Intermar
+          2	Igreja de Nossa Senhora de Fátima
+          2	Hotel Pestana São Tomé
+          2	Horta Cana
+          2	Estrada nº 5
+          2	Estrada nº 13
+          2	Estrada de Pantufo
+          2	Escola Secundária de Santana
+          2	Escola Primária de São Maçal
+          2	Escola Primaria do Riboque Santana
+          2	Energy Bank
+          2	ENCO
+          2	Combustivel Bombom
+          2	Clotilde
+          2	Cedec
+          2	Catedral da Sé
+          2	Capela
+          2	Cantagalo
+          2	Budo Budo
+          2	Bom Sucesso
+          2	Big Game Fishing
+          2	Benfica
+          2	Bela Vista
+          2	Beach Club
+          2	Bar R & J
+          2	Banco Equador
+          2	Banco Central de São Tomé e Príncipe
+          2	Avennia de Conceição

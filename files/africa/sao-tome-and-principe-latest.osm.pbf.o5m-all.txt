@@ -1,0 +1,872 @@
+          1	7 Cabana
+          1	A Sombra da Coleira
+          1	Abade
+          1	Abastecimento de combustível e reparação de pneus
+          1	Aeroporto
+          1	Afriland First Bank
+          1	Agau Bomba
+          1	Agostinho Neto
+          1	Agua Arroz
+          1	Agua Belas
+          1	Agua Bobo
+          2	Agua Casada
+          1	Agua Casada Praia
+          1	Agua Coimbra
+          1	Agua Dago
+          2	Agua Grande
+          1	Agua Gue Gue
+          1	Agua Ize
+          1	Agua João
+          1	Agua Lama
+          1	Agua Luzia
+          1	Agua Marçal
+          1	Agua Porca
+          1	Agua Sampaio
+          1	Agua Seca
+          1	Agua Serra
+          1	Agua Tanque
+          1	Agua Telha
+          1	Agua do Guadalupe
+          1	Albergue para Pacientes da Ilha de Principe
+          1	Aldeamenta de Monta Cafe
+          1	Alfandega
+          1	Aliança
+          1	Alice
+          1	Almas
+          1	Almas Elementary School
+          1	Almeirim
+          2	Alto Douro
+          1	Alto Poto
+          1	Alto Vouga
+          1	Alto de São João
+          1	Amelia
+          1	Amparo
+          1	Amparo II
+          1	Angobo
+          1	Angra Toldo (Praia)
+          1	Angra Toldo(Roça)
+          1	Anselmo Andrade
+          1	Antigo Forte
+          1	Antonio Morais
+          1	Antonio Soares
+          1	António Vaz
+          1	Arca de Noé
+          1	Assembleia Regional
+          1	Associacao Pica-Pau
+          1	Associação Futebol
+          1	Atras de Cadeia
+          1	Atras de Cimiterio
+          1	Atras do Estadio-Ponta Mina
+          1	Av. Amilcar Cabral
+          1	Av. Amilcor Cabral
+          1	Av. Con. dos Reis
+          1	Avenida Adriano Moreira
+          3	Avenida Amilcar Cabral
+          1	Avenida Geovane
+          3	Avenida Geovany
+          4	Avenida Kwama N’Kruma
+         11	Avenida Marginal 12 Julho
+          1	Avenida da Concelção
+          7	Avenida da Independência
+          8	Avenida das Naçoes Unidas
+          3	Avenida Água Grande
+          3	Avenido da Leberdade
+          2	Avennia de Conceição
+          1	Azeitona
+          1	B24
+          1	BGFI
+         10	BISTP
+          1	BISTP - Banco Internacional de São Tomé e Príncipe
+          1	Bairro Boa Vista
+          1	Bairro Hospital
+          1	Bairro Militar
+          1	Bairro Unido
+          1	Bairro Verde
+          1	Bairro da Liberdade
+          1	Bairro de Aeroporto
+          1	Bairro de Português
+          1	Bairro dos Casados
+          2	Banco Central de São Tomé e Príncipe
+          2	Banco Equador
+          1	Bandaca
+          3	Bar
+          2	Bar R & J
+          1	Bar li-bila-li
+          1	Barbearia Amaral
+          1	Barbosa
+          1	Barriga Branca
+          1	Batepa
+          1	Baía de Ana Chavez
+          1	Baía de Santo António
+          2	Beach Club
+          2	Bela Vista
+          1	Belem
+          1	Belo Monte
+          1	Belém
+          1	Bemposta
+          2	Benfica
+          1	Benga Neves
+          1	Bernardo Faro
+          1	Biblioteca Municipal de Cantagalo
+          1	Biblioteca Nacional
+          1	Biblioteca Paroquial de Santana
+          1	Biblioteca da Trindade
+          2	Big Game Fishing
+          1	Bigodes
+          1	Bindá
+          1	Blublu
+          1	Boa Entrada
+          1	Boa Esperanca
+          1	Boa Morte
+          1	Boa Nova
+          1	Boa Vista
+          1	Bobo Cativo
+          1	Bobo Forro
+          1	Boca do Inferno
+          1	Bom Bom
+          1	Bom Bom Island Resort
+          1	Bom Retiro
+          2	Bom Sucesso
+          1	Bombaim
+          2	Budo Budo
+          1	Burraco de Amizade
+          1	Bus Stop
+          1	CEDEC
+          1	CIEM / TOYOTA / LEXUS / DAIHATSU
+          1	CST
+          1	CST - Companhia Santomense de Telecomunicações
+          1	CVR (Bela)
+          1	Cabalo Môlê
+          1	Cabeca Agua
+          1	Cabeça Cal
+          1	Cacau
+          1	Cadão
+          1	Café Café
+          1	Café do Aeroporto
+          1	Caixao Grande
+          1	Caldairas
+          1	Camilo Domingos
+          1	Caminho Novo
+          1	Caminho de Micondó
+          1	Caminho de Rio Abade Praia
+          1	Campo Grande
+          1	Campo de Futebol Santana FC
+          1	Campo de Tennis
+          1	Campo dos Lobatos
+          1	Campo livre
+          1	Canavial
+          1	Canga
+          2	Cantagalo
+          2	Capela
+          1	Capela S. Miguel
+          1	Capela de Boa Morte
+          1	Capela de S. Francisco Xavier
+          1	Capela na Roça Agostinho Neto
+          1	Caridade
+          1	Casa A
+          1	Casa B
+          1	Casa C
+          1	Casa D
+          1	Casa da Cultura
+          1	Casada de Pesqueira
+          1	Cascalheira
+          1	Cascata
+          1	Cascata de Bombaim
+          1	Cascata de São Nicolau
+          1	Casteloo
+          1	Catacumba
+          2	Catedral da Sé
+          1	Caué
+          1	Cavalete
+          2	Cedec
+          1	Cemitério Santana
+          1	Centro Cultural
+          1	Centro Maternal de Santana
+          1	Centro Nacional de Endemias
+          1	Centro Nacional de Futebol
+          1	Centro de Ajuda ao Idosos e Antiga CAEB
+          1	Centro de Saúde
+          1	Centro hospitalar de São Tomé (CHST)
+          1	Chacara
+          1	Chamiço
+          1	Changra
+          1	Cinco Sentidos
+          1	Clara Dias
+          1	Claudina
+          1	Claudino Faro
+          1	Claudio Corallo
+          2	Clotilde
+          1	Clube Náutico (abandonado)
+          1	Cocoa Residence
+          1	Coconote
+          1	Coffe Museum
+          1	Coimbra
+          1	Cola Grande
+          1	Colonia Acoreana
+          1	Columbo
+          1	Comando da Policia
+          2	Combustivel Bombom
+          1	Commercial Bank STP
+          1	Compo de Milho
+          1	Conchas (Roça)
+          1	Conde
+          1	Conselho superior de Imprensa
+          1	Consulate of Morocco
+          1	Consulate of Switzerland
+          1	Consulate of the Netherlands
+          1	Correia
+          1	Correios
+          1	Cova Agua
+          1	Cova Barro
+          1	Cruz Curto
+          1	Cruz Grande
+          1	Cruz Mami
+          1	Cruzamento para Palmar
+          1	Cruzamento para Penha
+          1	Cruzeiro
+          1	Câmara Distrital de Cantagalo
+          1	Câmara Distrital de Água Grande
+          1	Cão Grande
+          1	César Café
+          1	D & D
+          1	DSTV
+          1	Decida Sr. Brandão
+          1	Delegacia (Centro Policlinic)
+          1	Delegacias de Saude (Centro Policlínico)
+          1	Descida Sr. Ferreira
+          1	Descida Sr. José
+          1	Desejada
+          1	Dinho
+          1	Diogo Nunes
+          1	Diogo Simão
+          1	Diogo Vaz
+          1	Direcção Geral das Alfândegas
+          1	Direção de Turismo
+          1	Discoteca Dolores
+          1	Discoteca Santo António
+          1	Dona Augusta
+          1	Dona Eugenia
+          1	Dona Tete
+          1	Dorm
+          1	EMAE
+          1	EMAE - Direção das Águas
+         14	EN nº 2
+          3	EN nº 3
+          2	ENCO
+          1	EcoBank
+          1	Economax
+          1	Embaixada da Nigeria
+          1	Embaixada de Portugal
+          1	Embaixada de Taiwan
+          1	Embassy of Brasil
+          1	Enco
+          2	Energy Bank
+          1	Equador Bank
+          1	Equipa da Luta Contra o Paludismo Taiwan-S.T.P
+          1	Equipa de Luta Contra o Paludismo Taiwan
+          1	Escoal Primaria de Conde
+          1	Escola Basica de São João
+          1	Escola Básica de Oque-Del-Rei
+          1	Escola Paula Lavres
+          1	Escola Preparatória
+          1	Escola Primaria Cova Água Santana
+          2	Escola Primaria do Riboque Santana
+          1	Escola Primeira de Desejada
+          1	Escola Primeira de Mesquita
+          1	Escola Primáia de Riboque
+          1	Escola Primária
+          1	Escola Primária Albertina Matos (Madalena)
+          1	Escola Primária Dona Maria de Jesus
+          1	Escola Primária de Monte Cafe
+          1	Escola Primária de Pantufo
+          1	Escola Primária de Praia Gamboa
+          2	Escola Primária de São Maçal
+          1	Escola Secundária Maria Manuela Margarido
+          1	Escola Secundária Patrice Lumumba
+          1	Escola Secundária da Trindade
+          1	Escola Secundária de Bela Vista
+          1	Escola Secundária de Guadalupe
+          2	Escola Secundária de Santana
+          1	Escola de Enfermagem
+          1	Escola de Secundaria
+          1	Espaco
+          1	Espaço Cacau
+          1	Esprainila
+          1	Estadio Nacinal 12 de Julho
+          1	Estadio Nacional de Futebol 12 de Julho
+          1	Estr. de Riboque
+          1	Estrada Brasil
+          1	Estrada São Marçal
+          3	Estrada de Agua Porca
+          1	Estrada de Boa Morte
+          2	Estrada de Pantufo
+          1	Estrada de Zandrigo
+          2	Estrada nº 13
+          2	Estrada nº 5
+          1	Estrada nº 6
+          1	Estrada nº 8
+          1	Estrada nº 9
+          1	Estádio 12 de Julho
+          1	Estádio Regional 13 de Junho
+          1	Farol da Lagoa Azul
+          1	Favorita
+          1	Felipe Bonfim
+          1	Fernão Dias
+          1	Ferreira Governo
+          1	Filipina
+          1	Firma Comercial ADAC
+          1	Firma Comercial LL Bem Estar Lda.
+          1	Florinda
+          1	Fofokices
+          1	Folha Fede
+          1	Formosa
+          1	Fortaleza
+          1	Fraternidade
+          1	Fruta Fruta
+          1	Fundação
+          1	Futebol Club de Palmar
+          1	Futebol Clube de Bombom
+          1	Futebol Clube de UDESCAI - União Desportiva Sardinha e Ca�
+          1	Gabinete do Primeiro Ministro
+          1	Galo Canta
+          1	Ganda I
+          1	Ganda II
+          1	Gaspar
+          1	Gelidox
+          1	Genorosa
+          1	Gingubue
+          1	Gomes
+          1	Gonga
+          1	Granja
+          1	Gratidão
+          1	Guadalupe
+          1	Guarda
+          1	HBD Príncipe
+          1	Herisantos
+          2	Horta Cana
+          1	Hospital Dr. Manuel Quaresma Dias da Graça
+          1	Hospital Velho
+          1	Hospital de Cantagalo
+          1	Hospital de Santa Margarida
+          1	Hotel Agôsto Neto
+          1	Hotel BIGODES
+          1	Hotel Baia
+          1	Hotel Bombaim
+          1	Hotel Miramar Pestana
+          2	Hotel Pestana São Tomé
+          1	Hotel Praia
+          1	Hotel Residencial Avenida
+          1	Hydro Power Plant
+          1	Igreja Adventista do Sétimo Dia
+          1	Igreja Católica
+          1	Igreja Conceição
+          1	Igreja Evangélica
+          1	Igreja Evangélica Assembleia de Deus
+          1	Igreja Maná
+          1	Igreja Nova Apostolic
+          2	Igreja de Nossa Senhora de Fátima
+          1	Igreja de Nossa Senhora de Guadalupe
+          1	Igreja de Penha
+          1	Igreja de Santana
+          1	Igreja de São Pedro (Pantufo)
+          1	Ilheu
+          1	Ilheu Bom Bom
+          1	Ilheu Quixibá
+          1	Ilhéu BomBom
+          1	Ilhéu Santana
+          1	Ilhéu das Cabras
+          1	Ilhéu das Rolas
+          1	Immigration
+          1	Infante D. Henrique
+          1	Inforfaith-Informática & Designer
+          2	Intermar
+          1	Internet Cafe
+          1	Iola
+          2	Island Bank
+          1	Ió Grande
+          2	Jardim Botânico
+          1	Jardim Olof Palme
+          1	Jardim de Infância
+          1	Jardim de Infância Santana
+          1	Java
+          1	José Luis
+          1	Jovem
+          1	Judite
+          1	Juliana Sousa
+          1	Kucha
+          1	Lagoa Amélia
+          2	Lagoa Azul
+          1	Laranjeras
+          1	Largo da Juventude
+          2	Laura
+          1	Lemba
+          1	Lembá
+          1	Lemos
+          1	Liceu Nacional
+          1	Lindinho
+          2	Lixeira
+          1	Lobata
+          1	Loja Central CST
+          1	Loja Vinte
+          1	Lozita
+          1	Lucumi
+          1	Luso Cash
+          1	Macambrará
+          1	Madalena
+          1	Madre Deus
+          1	Maianço
+          2	Malanza
+          1	Mambos Da Terra
+          1	Manuel Caroça
+          1	Manuel Morais
+          1	Marcelo Da Veiga Cinema
+          1	Margarida Manuel
+          1	Margão
+          1	Maria Luisa
+          1	Marinha
+          1	Mato Cana
+          1	Melhorada
+          1	Mendes Leite
+          1	Mendes da Silva
+          3	Mercado
+          1	Mercado Novo
+          1	Mercado Velho
+          1	Mercado da Cidade da Trindade
+          2	Mercado de Cova Água Santana
+          1	Mercado de Peixe
+          1	Mesquita
+          1	Mestro Antonio
+          1	Micolo
+          1	Micondo
+          1	Milagrosa
+          1	Minibuses to Monte Cafe
+          1	Minibuses to Neves
+          1	Minibuses to Sao Tome
+          2	Ministério de Saúde
+          2	Mionga
+          2	Mira-Rio
+          1	Miradouro Terreiro Velho
+          1	Miramar
+          1	Missão Medica de TAIWAN
+          1	Missão Tecnica de TAIWAN
+          1	Mistral Voyages
+          1	Mongo
+          1	Monserrate
+          1	Montalegre
+          1	Montavão
+          2	Monte Alegre
+          1	Monte Belo
+          1	Monte Cafe
+          1	Monte Cafe Hospital (close)
+          1	Monte Carmo
+          1	Monte Forte
+          1	Monte Macaco
+          1	Monte Mario
+          1	Montes Herminios
+          1	Monumento a Gago Coutinho e Sacadura Cabral - Linha do Equa
+          1	Morro Peixe
+          1	Morro Peixe (Roça)
+          2	Morro da Trindade
+          1	Morro de S. Francisco
+          1	Mulembu
+          1	Mulundo
+          1	Museu Nacional - Forte São Sebastião
+          1	Mé-Zóchi
+          1	Navetur
+          1	Navio naufragado
+          1	Neves
+          2	Nova Apostolica
+          1	Nova Cuba
+          1	Nova Estrela
+          1	Nova Igreja de Santana
+          1	Nova Moca
+          2	Nova Olinda
+          1	Novo Brazil
+          1	Novo Destino
+          1	O Pirata
+          1	Obo Izaquinte
+          1	Obo Longo
+          1	Oca Ocô
+          1	Oficina de Dú
+          1	Olivares Marim
+          1	Omali Lodge
+          2	Oque Daniel
+          1	Oque Ponte
+          1	Oque Rosário
+          1	Oque del Rel
+          1	Organizacao das Nacoes Unidas
+          1	Orima
+          1	Ossobo Ecosocial
+          1	Ototo
+          1	Padaria Ecar
+          1	Padaria Miquel
+          1	Padaria Moderna
+          1	Padrão de Santo António
+          1	Paga Fogo
+          1	Pagué
+          1	Palha
+          1	Palmar
+          2	Palácio Presidencial
+          1	Palácio do Governo Regional
+          3	Palácio dos Congressos
+          1	Pantufo
+          1	Papa Figo
+          1	Paraiso dos Grelhados
+          1	Paroquia da Santissima Trindade
+          1	Paroquia de Santana
+          2	Parque Natural do Príncipe
+          2	Parque Natural Ôbo de São Tomé
+          1	Parque Polular
+          1	Parque da U.C.L.A.
+          1	Pascoal Amado
+          1	Passadeira
+          1	Passô
+          1	Pau Sabão
+          1	Pedra Maria
+          1	Pedro Paiva
+          1	Pedroma
+          1	Pema Pema
+          1	Penha
+          1	Pensao Turismo
+          1	Pensão Palhota
+          1	Pentecostes
+          1	Penísula
+          1	Pestana Equador
+          1	Pestana São Tomé
+          1	Pete Pete
+          1	Petisqueira Santola
+          1	Petisqueria o Contente
+          1	Picao Flor
+          1	Pico Maria Fernandes
+          1	Pico Mencorne
+          1	Pico Mocambo
+          1	Pico Papagaio
+          1	Pico São Tomé
+          1	Pico do Príncipe
+          1	Picão
+          1	Piedade
+          1	Pinheira
+          1	Pinheira Luchan (Praia)
+          1	Piroga Sao Pedro
+          1	Piscina Clube Náutico (abandonado)
+          1	Plancas
+          1	Plancas II
+          1	Plató
+          1	Poiso Alto
+          1	Polícia Nacional
+          1	Polícia Nacional de São Tomé e Príncipe
+          1	Polícia de Santana
+          1	Ponta Baleia
+          1	Ponta Fernão Dias
+          1	Ponta Figo
+          1	Ponta Forte
+          1	Ponta Furada
+          1	Ponta Mina
+          1	Ponta do Sol
+          1	Ponte Graça
+          1	Port
+          1	Portinho
+          1	Porto Alegre
+          1	Porto Real
+          1	Posto Sanitário de Madalena
+          1	Posto de Abade
+          1	Posto de Aeroporto
+          1	Posto de Nova Estrela
+          1	Posto de Porto Real
+          1	Posto de Praia Inhame
+          1	Posto de Saude Uba Budu
+          1	Posto de Sunde
+          1	Poto Poto
+          1	Poto Zambraia
+          1	Pousada
+          1	Power and Water company
+          1	Prado
+          2	Praia Abade
+          1	Praia Almoxarife
+          2	Praia Banana
+          1	Praia Boi
+          1	Praia Bom Bom
+          2	Praia Burra
+          1	Praia Cabana
+          1	Praia Café
+          1	Praia Campanha
+          1	Praia Capitango
+          1	Praia Cruz
+          1	Praia Francesa
+          1	Praia Gamboa
+          2	Praia Grande
+          1	Praia Guegue
+          2	Praia Ilhame
+          2	Praia Inhame Eco Lodge
+          1	Praia Izé
+          1	Praia Jalé
+          2	Praia Lagarto
+          1	Praia Lapa
+          1	Praia Luchinga
+          2	Praia Macaco
+          1	Praia Maria Emilia
+          1	Praia Melão
+          1	Praia Messias Alves
+          1	Praia Nazare
+          1	Praia P.M
+          1	Praia Pesqueira
+          1	Praia Piscina
+          1	Praia Plancas
+          1	Praia Ponta Figo
+          1	Praia Santa Catarina
+          1	Praia Santana
+          1	Praia Santo Atónio (Novo Destino)
+          2	Praia Seabra
+          2	Praia Seca
+          1	Praia Sete Ondas
+          1	Praia Sta Cruz
+          1	Praia Sundy
+          1	Praia Tamarindos
+          1	Praia da Ribeira Palma
+          1	Praia da Rosema
+          1	Praia das Conchas
+          1	Praia das Pombas
+          1	Praia das Sete Ondas
+          1	Praia de Colonia Açoriana
+          1	Praça Ex-Gago Coutinho
+          1	Praça Marcelo da Veiga
+          1	Praça Yon Gato
+          2	Praça de Independência
+          2	Praça de Táxi
+          1	Provision shop
+          1	Província de Príncipe
+          1	Província de São Tomé
+          1	Príncipe
+          1	Príncipe Airport
+          1	Príncipe Trust Foundation
+          1	Quartel
+          1	Quartel de Morro
+          1	Queluz
+          1	Quifinda
+          1	Quilemba
+          1	Quilombo
+          1	Quilombo Guadalupe
+          1	Quimpo
+          1	Quinta Santo António
+          1	Quinta da Graça
+          1	Quinta das Flores
+          1	Quinta das Palmeiras
+          1	Quinta de Santo António
+          1	Quintal quebra osso
+          2	R. P. Martinho Pinto de Rocha
+          1	R. Porto Real
+          1	R. S. António
+          1	R. S. Pado Perreira
+          1	R.30 de Setembro
+          1	Radio Regional
+          1	Recepção Club Santana
+          1	Regimento e Guarnição das FASTP
+          1	Residencial Nossa Senhora da Conceicao
+          1	Residência Paroquial das Irmãs
+          1	Restaurant XS
+          1	Restaurante Filomar
+          1	Reta Micolo
+          1	Rezeption
+          1	Riba Mato
+          2	Ribeira Afonso
+          1	Ribeira Fominga
+          3	Ribeira Formiga
+          1	Ribeira Fria
+          1	Ribeira Funda
+          1	Ribeira Palma
+          1	Ribeira Peixe
+          1	Riboque
+          1	Riboque Futebol Clube
+          1	Riboque Santana
+          1	Rio Abade
+          1	Rio Abade Praia
+          1	Rio Angra Toldo
+          1	Rio Ave
+          1	Rio Caué
+          1	Rio Ió Grande
+          1	Rio Leça
+          1	Rio Lima
+          6	Rio Logui
+          1	Rio Manuel Jorge
+          1	Rio Mondego
+          1	Rio Papagaio
+          1	Rio São João
+          1	Rio Vouga
+          1	Rio do Ouro
+          1	Rio do Ouro Pequeno
+          1	Rio Água Grande
+          1	Rocks Tree House
+          1	Rolas
+          1	Rosa Pão (Rosita)
+          1	Rosema
+          1	Rosema Brewery
+          1	Roça Adade
+          1	Roça Agostinho Neto ( Roça de Cinco mil)
+          1	Roça Alice
+          1	Roça Monte Forte
+          1	Roça Nova
+          1	Roça Paciência
+          1	Roça Sundy
+          1	Roça São João
+          2	Rua 3 de Fevereiro
+          1	Rua 5 de Outubro
+          3	Rua Angola
+          1	Rua Barão de Agua Izé
+          2	Rua Barão Água Izé
+          1	Rua Damão
+          1	Rua Ed Mondelaine
+          2	Rua Francisco Silva
+          3	Rua Moçambique
+          1	Rua Oua
+          1	Rua Patrice Lumumba
+          1	Rua Trabalhador
+          1	Rua Vigoço
+          1	Rua Vila Alta
+          1	Rua Viriato da Cruz
+          2	Rua da Caixa
+          3	Rua da Guine
+          1	Rua de Damdo
+          1	Rua de Dio
+          1	Rua de Guiné Bissau
+          1	Rua de Quithiba
+          1	Rua de município
+          1	S. Carlos
+          2	S. Francisco
+          1	S. Januário
+          1	S. Jose (Pincate)
+          1	S. José
+          1	S. João
+          1	S. Mateus
+          1	S.Fenicia
+          1	SOGEST
+          1	Sabor da Ilha
+          1	Salama Snack Bar
+          1	Salao de Cha Jasmin
+          1	Saltado
+          1	Salão de Catequese Paróquia de Santana
+          1	Sameiro
+          1	Santa Adelaide
+          1	Santa Catarina
+          1	Santa Cecilia
+          2	Santa Clara
+          2	Santa Clotilde
+          1	Santa Cruz
+          1	Santa Fe
+          1	Santa Hilaria
+          2	Santa Isabel
+          1	Santa Jenny
+          1	Santa Josefina
+          1	Santa Luisa
+          1	Santa Luzia
+          1	Santa Margarida
+          1	Santa Rita
+          2	Santa Teresa
+          1	Santa Trindade
+          1	Santana
+          1	Santana Club
+          2	Santana FC
+          1	Santarem
+          1	Santo Amaro
+          1	Santo André
+          1	Santo Antonio
+          1	Santo António
+          1	Santo António Mussacamú
+          1	Santo Cristo
+          1	Santy
+          1	Sao Jose
+          1	Sao Nicolau
+          1	Saton
+          1	Secador ( Col.Açoriana)
+          1	Secretaria de Madalena
+          1	Sector Consular da Embaixada da Republica Popular de Angola
+          1	Sede Trangedia
+          2	Seminário de padres
+          1	Serração
+          3	Sete Pedras
+          1	Seven Restaurante
+          1	Snack Bar Munjaue
+          1	Solango
+          1	Soledade
+          1	Sum Secreta
+          1	Sundy (Sede)
+          1	Super CKdo
+          1	SuperMercado
+          1	Supermarket Fresco
+          1	Swimming pool of Hotel Praia
+          1	São Benjamim
+          1	São Gabriel
+          1	São Gembu
+          1	São Joaquim
+          2	São José
+          2	São João
+          1	São João da Vargem
+          1	São João dos Angolares
+          1	São Lourenço
+          1	São Manuel
+          1	São Marcos
+          1	São Marçal
+          1	São Miguel
+          2	São Paulo
+          2	São Tomé
+          1	São Tomé International Airport
+          2	São Tomé e Príncipe
+          1	TOYOTA / LEXUS / DAIHATSU
+          1	TVS - Televisão Sãotomense
+          1	Taxis to Aqua Ize, Angolares
+          1	Teresa
+          1	Terraco Sao Joao da Vargem
+          1	Terraço maritimo
+          1	Terreiro Velho
+          1	The Airplane
+          1	The National Bank of Sao Tome
+          1	Tomé Gomes
+          1	Torra Torra
+          1	Torres Dias
+          1	Toyota
+          1	Trindade
+          1	Tropicana
+          1	Túnel
+          2	Uba Budo
+          1	Uba Budo (velho)
+          1	Uba Flor
+          1	Uba Nova
+          1	Uba Quime
+          1	Uba budu (Praia)
+          1	Ubacabra
+          1	Ubaga-Tela
+          1	Ubajaca
+          1	Unitel
+          2	Universidade de São Tomé and Príncipe, Instituto Superio
+          1	Vage S. J. da Cruz
+          1	Vale Carmo
+          1	Vale Flor
+          1	Vale Formoso
+          1	Vale de Prazeres
+          1	Vanguarda
+          1	Vila Alta Santana
+          1	Vila Amelia
+          1	Vila Braga
+          1	Vila Concoicao
+          1	Vila Dolares
+          1	Vila Fernanda
+          1	Vila Graciosa
+          1	Vila Irene
+          1	Vila Maria
+          1	Vila Moura
+          1	Vila Rosa
+          1	Vila Rosario
+          1	Vila do Pantufo
+          1	Vintagejhan
+          1	Vista Alegre
+          1	Voz America
+          1	Voz America (VOA, IBB Transmitter Site)
+          1	Warehouse A B C
+          2	Xicos (Cafe & Companha)
+          1	Zamplama Velha
+          1	Zandrigo
+          1	Zinha
+          1	benfica
+          1	túnel de Taiwan
+          1	warehouse D
+          1	Água Bobô
+          1	Água Grande

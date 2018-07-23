@@ -1,0 +1,100 @@
+         95	Kassala-Port Sudan Highway
+         56	Al-Junaynah - Nyala road
+         46	Nyala to Al-Fashir
+         33	النيل
+         25	شارع افريقيا
+         25	Madani-Qadarif Highway
+         22	island
+         22	Atbara-Port Sudan Highway
+         21	نهر النيل
+         19	شارع كسلا - بورسودان
+         19	ATM
+         18	Bahr al 'Arab
+         17	Border Sudan - South Sudan
+         16	مسجد
+         16	النيل الأزرق
+         14	بقالة
+         14	Ad Damazin Kurmuk Road
+         13	Fuel Station
+         13	Changtong Company Road
+         11	معروف الصديق
+         11	Ghaba Street
+         11	Garri Ring Road
+         11	Border Sudan - Eritrea
+         10	piste
+         10	Mosque
+         10	Masjid
+         10	Kassala PortSudan Highway
+         10	Greater Nile Oil Pipeline
+         10	Atbarah River
+         10	Alwadi Road
+          9	Sudan - Ethiopia
+          9	Renk-Kosti
+          9	Qadarif-Kassala Highway
+          9	Babanusa-Wau railway
+          9	Al-Arbaeen Road
+          8	شارع محمد نجيب
+          8	شارع الزعيم الازهري
+          8	شارع البوابة
+          8	private
+          8	Wadi Hesmet Omar
+          8	Station de pompage
+          8	Shandi - Atbara Road
+          8	Muhandiseen South
+          8	Grocery
+          8	Abrouv Road
+          7	دكان
+          7	Wadi Kutum
+          7	Wad Madani-Sennar Road
+          7	Unknown
+          7	Umbadda Front Street
+          7	Salha Road
+          7	Nile Petroleum
+          7	Nahir ad Dindar
+          7	Kosti-Sennar Road
+          7	AlWadi Road
+          7	A1
+          7	7
+          7	5
+          6	طريق كوستي‎-سنار‎
+          6	طريق أبشي - الحدود السودانية - ال�
+          6	شارع عطبرة بورسودان
+          6	شارع النيل
+          6	شارع الميرغنية
+          6	بنك الخرطوم
+          6	بحر أزوم
+          6	Yabus
+          6	Wadi Bergo
+          6	Wad Medani Highway
+          6	Petronas
+          6	Al Mek Nimir Circle
+          6	Ad-Damazin-Sennar Road
+          6	9
+          6	8
+          6	73
+          6	57
+          6	56
+          6	53
+          6	13
+          5	وادي درام
+          5	كبري المك نمر
+          5	شارع غزة
+          5	شارع الوادي
+          5	شارع الخور
+          5	شارع البلدية
+          5	شارع الازهري
+          5	حدائق السلام
+          5	ترعة
+          5	اشارع البدية
+          5	Wawa - Wadi Halfa
+          5	Wadi Uri
+          5	Wadi Golol
+          5	Street 59
+          5	Juba Street
+          5	Gonder - Metema Road
+          5	Cafeteria
+          5	Blue Nile
+          5	Bahr Azoum
+          5	Al-Wali Street
+          5	99
+          5	98

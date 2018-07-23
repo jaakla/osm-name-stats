@@ -1,0 +1,100 @@
+        721	Main Street
+        278	Appalachian Trail
+        186	Freight Main Line
+        179	High Street
+        169	River Road
+        154	School Street
+        154	Pleasant Street
+        154	Elm Street
+        142	Maine Turnpike
+        138	Water Street
+        120	Church Street
+        106	Bridge Street
+        105	Maple Street
+        103	Old County Road
+         97	Pine Street
+         94	Ridge Road
+         94	Pond Road
+         91	Oak Street
+         89	Park Street
+         88	Spring Street
+         88	North Street
+         88	Mill Street
+         86	Western Avenue
+         83	Summer Street
+         82	Rigby Yard
+         81	Cross Street
+         80	Mountain Road
+         76	Forest Avenue
+         68	Union Street
+         67	Shore Road
+         66	Washington Street
+         65	Lincoln Street
+         65	Cross Road
+         63	Grove Street
+         63	Center Street
+         62	Main Road
+         61	West Street
+         61	South Street
+         61	North Road
+         58	Realty Road
+         57	State Street
+         56	Town Farm Road
+         55	Highland Avenue
+         53	Middle Street
+         53	Highway 2
+         52	Winter Street
+         51	Spruce Street
+         51	South Main Street
+         51	Middle Road
+         51	Maine Eastern Railroad
+         51	Congress Street
+         51	Broadway
+         50	Smith Road
+         50	Depot Road
+         49	North Main Street
+         49	Depot Street
+         47	West Main Street
+         47	Spruce Lane
+         47	Meadow Lane
+         47	Cedar Street
+         45	County Road
+         44	Loon Lane
+         44	Cemetery Road
+         44	Cedar Lane
+         44	2nd Street
+         43	Shady Lane
+         43	McDonald's
+         43	Lewiston Road
+         43	Atlantic Highway
+         42	Gray Road
+         42	Franklin Street
+         42	Cottage Road
+         41	Maine Street
+         41	Front Street
+         41	Bar Harbor Road
+         40	Royal River
+         40	Brown Road
+         40	Augusta Road
+         39	Blueberry Lane
+         38	Rue Principale
+         38	Prospect Street
+         38	Mill Road
+         38	Irving
+         38	East Main Street
+         37	Van Buren Road
+         37	T1
+         37	Oak Hill
+         37	Johnson Road
+         36	Willow Street
+         36	Station Road
+         36	South Road
+         36	Kennebec River
+         36	Green Street
+         36	Bog Road
+         36	Birch Lane
+         36	Airport Road
+         35	York Street
+         35	West Road
+         35	River Street
+         35	Commercial Street

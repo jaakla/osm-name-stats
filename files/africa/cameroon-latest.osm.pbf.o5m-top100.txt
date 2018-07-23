@@ -1,0 +1,100 @@
+        547	Forages
+        202	mbokambo road
+        199	Mosquée
+        189	Mangrove
+         89	Palmiers
+         82	limit(tree) baro-bajo road
+         75	main road to etody
+         73	*
+         70	Puits
+         68	Centre de Santé
+         65	Total
+         62	Express Union
+         60	Dja
+         58	Ferme
+         57	Marché
+         55	cité universitaire
+         50	MRS
+         50	Départementale 62
+         49	Palmeraie
+         38	Maroua-Kousséri
+         37	Stade
+         37	Cité Universitaire
+         37	Bamenda-Mamfe
+         36	Ntem
+         32	Église
+         32	Ngaoundéré-Garoua
+         30	s
+         30	Rural Roads
+         29	Tap
+         29	Douala-Limbé
+         29	Douala-Bafoussam (N5)
+         28	osuke road
+         28	Mbam
+         28	Commune
+         27	Nationale 4
+         26	Kumba-Mamfe
+         26	CDC Plantation
+         25	tap
+         25	Oilibya
+         25	Garoua-Maroua
+         25	Forage
+         25	Dépôt de Bois
+         24	Sanaga
+         24	Borne Fontaine
+         23	Provinciale 31
+         23	Mfoundi
+         22	Kadéï
+         21	École
+         21	arbre
+         21	Market
+         20	New Apostolic Church
+         20	Border Central African Republic - Cameroon
+         19	Piste forestière
+         19	Nyong
+         19	Ngaoundéré-Garoua-Boulai
+         19	Gendarmerie
+         19	Ecobank
+         19	Douala-Edea
+         18	Salle de classe
+         18	Chefferie
+         17	Tribune
+         17	Texaco
+         17	Pharmacie
+         17	Djérem
+         17	Afriland First Bank
+         16	Yaoundé-Mbalmayo
+         16	Tradex
+         16	Tibati-Ngaoundal
+         16	Mungo
+         16	Lom
+         16	Bafoussam-Foumban
+         15	Kumba-Mundemba
+         15	Eglise Evangélique du Cameroun
+         15	ENEO
+         15	BICEC
+         14	Église Presbytérienne Camerounaise
+         14	School
+         14	Provinciale 17
+         14	Orange
+         14	Mbalmayo - Ebolowa
+         14	Intake weir
+         14	Garoua-Mokolo
+         14	Garoua-Bolai-Ngaoundéré
+         14	Express Exchange
+         14	Congelcam
+         14	Boutique
+         13	verger
+         13	Menuiserie
+         13	Efoulan
+         13	Boumba
+         12	route Yaoundé-Kribi
+         12	TOTAL
+         12	Provinciale 15
+         12	Oveng
+         12	Moroua-Pouss
+         12	Mbouda-Bamenda
+         12	Mbang
+         12	Mairie
+         12	House
+         12	Ganye - Jimeta Federal Road

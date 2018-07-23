@@ -1,0 +1,100 @@
+        675	State Highway 1
+        498	New Zealand Contiguous Zone
+        455	State Highway 2
+        317	Marae
+        312	Gravel pit
+        309	Palmerston North - Gisborne Line
+        247	North Island Main Trunk
+        232	Open Space Convenant
+        221	ANZ
+        209	State Highway 3
+        206	Subway
+        204	State Highway 6
+        190	Rapids
+        173	Main North Line
+        164	Westpac
+        163	Wairarapa Line
+        163	Main South Line
+        162	Main North Road
+        156	Great South Road
+        155	Beach Road
+        151	Main South Road
+        149	River Road
+        147	Four Square
+        140	Queen Street
+        136	Great North Road
+        135	High Street
+        133	Countdown
+        132	Midland Line
+        130	Mill
+        124	Auckland Southern Motorway
+        123	Victoria Street
+        120	Mobil
+        118	Bridge Street
+        117	King Street
+        115	Station Road
+        114	Church Street
+        112	Main Street
+        111	West Coast Road
+        110	Grey Street
+        110	East Coast Main Trunk
+        109	Main Road
+        107	George Street
+        103	Lake Road
+        103	Ferry Road
+        103	Bank of New Zealand
+        102	Cableway
+        101	Mill Road
+        100	Haast Highway
+         99	New World
+         97	Z
+         97	State Highway 4
+         96	North Auckland Line
+         96	McDonald's
+         94	Stillwater Ngakawau Line
+         93	Auckland Northern Motorway
+         90	Caltex
+         89	Waikato Expressway
+         89	State Highway 7
+         89	Southern Line
+         89	Queen Charlotte Track
+         89	Hall
+         87	North Island Main Trunk Line
+         84	School Road
+         84	Boundary Road
+         84	BP
+         83	State Highway 35
+         83	KFC
+         80	Northwestern Motorway
+         79	Oxidation ponds
+         78	The Warehouse
+         78	State Highway 63
+         76	ASB Bank
+         75	Domain Road
+         75	Airstrip
+         75	ASB
+         74	Marine Parade
+         74	Albert Street
+         73	Southwestern Motorway
+         73	Silos
+         73	Princes Street
+         73	Elizabeth Street
+         70	Queens Drive
+         70	Hawke's Bay Expressway
+         69	The Strand
+         69	Colombo Street
+         69	Burger King
+         68	State Highway 12
+         68	Brougham Street
+         67	State Highway 30
+         67	Rata Street
+         66	Pizza Hut
+         64	Hibiscus Coast Highway
+         63	Seddon Street
+         62	Lincoln Road
+         62	Kapiti Expressway
+         59	Totara Street
+         59	State Highway 25
+         59	Miro Street
+         59	Duke Street
+         58	Ward Street

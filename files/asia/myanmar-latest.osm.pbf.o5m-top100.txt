@@ -1,0 +1,100 @@
+        373	Yangoon-Mandalay Expressway
+        317	pagoda
+        254	monastery
+        233	House
+        181	Building
+        150	Pathein-Thalatkyar-Mawtin Swun Road
+        136	Tukmaepar -1/2
+         96	เขตชายแดนพม่า-ไทย
+         94	house
+         86	Unknown
+         82	Ah Myann Lan
+         74	building
+         72	Pagoda
+         72	Border Laos - Thailand
+         71	KBZ Bank
+         66	ကမ်းနားလမ်း
+         58	Teknaf Road
+         58	Bld
+         51	ပြည်လမ်း
+         50	#MCCares #YoProsPUN
+         49	Home
+         48	Ah Myan Lan
+         46	#amm #pacific #missingmaps
+         45	အမှတ် (၁) ရန်ကုန်-မန္တလ
+         42	ဝေဇယန္တာလမ်း
+         42	KBZ
+         42	Burma Mines Railway
+         40	CB Bank
+         39	Monastery
+         37	Unknown Building
+         36	ကြည်မြင်တိုင်ကမ်းနာ�
+         36	Border Burma - Thailand
+         35	Hostel
+         34	Thu Dhamma Rd
+         34	Stupa
+         34	Police Station
+         33	သံလွင်မြစ
+         33	မႏၱေလး - ျမစ္ၾကီးနားလ�
+         32	AYA Bank
+         30	ကမ္ဘာအေးစေတီလမ်း
+         26	Border Cambodia - Thailand
+         26	#Cisco#CiscoOPS-GATS
+         25	ဗညားဒလလမ်း
+         25	Tanintharyi River
+         25	#cisco
+         24	Road
+         23	ဗိုလ်ချုပ်အောင်ဆန်း�
+         22	မဟာဗန္ဓုလလမ်း
+         22	ဘုရင့်နောင်လမ်း
+         22	ဇော်ဂျီမြစ်
+         22	แม่น้ำเมย
+         21	ถนนเพชรเกษม
+         21	City Express
+         20	အနော်ရထာလမ်း
+         20	Lecture Room
+         19	သမိုင်းဘူတာရုံလမ်း
+         19	စစ်တောင်းမြစ်
+         19	BLD
+         18	ကုန်သည်လမ်း
+         18	AGD Bank
+         18	1
+         17	အထက်ပုစွန်တောင်လမ်း�
+         17	ဘောလုံးကွင်း
+         17	ဆူးလဘေုရားလမ်း
+         17	ကမ္ဘာအေးစေတီလမ်းမကြ�
+         17	Yoma Bank
+         17	Yangon-Pathein Highway
+         16	南垒河
+         16	အင်းစိန်လမ်း
+         16	လှိုင်မြစ်လမ်း
+         16	ရွှေတိဂုံ ဘုရားလမ်း
+         16	မတၱေလး - ဗန္းေမာ္လမ္း
+         16	ပုစွန်တောင် ချောင်း
+         16	ကျောက်တန်း
+         15	ရွာသစ်
+         15	မြစ်ငယ်
+         15	တံတားဖြူ
+         15	ကျောင်းလမ်း
+         15	No 3 Main Road
+         15	Dawei - Myeik Road
+         15	64th Street
+         14	အင်းစိန်လမ်း Insein Road
+         14	သာယာကုန်း
+         14	ထားဝယ်မြစ
+         14	ကျိုက္ကစံလမ်း
+         14	farmhouse
+         14	MICT Park Street
+         14	Dining room
+         13	အင်းစိန်
+         13	သိမ်ဖြူလမ်း
+         13	လှိုင်မြစ်
+         13	ရာဇသဂၤဟလမ္း
+         13	ဘုရင့်နောင်လမ်း Bayint Naung 
+         13	ပင်လုံလမ်းမကြီး
+         13	ခရေပင်လမ်း
+         13	ကျန်စစ်သားလမ်း
+         13	KBZ ATM
+         13	Circular Road
+         13	63rd Street
+         13	12th Street

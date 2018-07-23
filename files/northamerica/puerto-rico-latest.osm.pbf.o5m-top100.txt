@@ -1,0 +1,100 @@
+       1129	Calle 1
+       1057	Calle 2
+        982	Calle 3
+        870	Calle 4
+        750	Calle 5
+        656	Calle 6
+        607	Calle 7
+        535	Calle 8
+        518	Calle A
+        447	Calle B
+        428	Calle 9
+        399	Calle 10
+        365	Autopista Luis A. Ferré
+        343	Calle C
+        286	Autopista José de Diego
+        284	Calle 11
+        273	Calle D
+        273	Calle 12
+        250	Calle 13
+        210	Calle 14
+        204	Carretera 2
+        193	Calle Marginal
+        189	Carretera 3
+        186	Calle E
+        186	Calle 15
+        171	Autopista José Celso Barbosa
+        156	Expreso Roberto Sánchez Vilella
+        156	Calle F
+        150	Calle 16
+        144	Calle 17
+        142	Calle Principal
+        128	Calle 19
+        126	Calle 18
+        116	Línea de Transmisión
+        114	Calle 20
+        112	Calle 21
+        108	Carretera 1
+        105	Calle Amapola
+        102	Expreso Cruz Ortíz Stella
+        102	Calle G
+        102	Calle 22
+        101	Calle 23
+         97	Calle Luis Muñoz Rivera
+         94	Autopista Roberto Sánchez Vilella
+         85	Calle Gardenia
+         80	Calle H
+         79	Calle Ceiba
+         78	Calle 24
+         75	Calle Margarita
+         75	Burger King
+         73	Reserva Natural Arrecifes de La Cordillera
+         73	Barrio Pueblo
+         72	Calle 25
+         71	Reserva Natural de La Parguera
+         69	Calle Girasol
+         69	Calle Azucena
+         68	Calle Flamboyan
+         67	Canal de Juana Díaz
+         66	Calle 26
+         65	Canal de Patillas
+         65	Calle J
+         65	Calle Esmeralda
+         63	Expreso Román Baldorioty de Castro
+         63	Calle Laurel
+         63	Calle I
+         60	Avenida Juan Ponce de León
+         59	Calle Orquidea
+         59	Calle Las Flores
+         59	Calle 27
+         57	Walgreens
+         57	Calle Lirio
+         57	Calle Caoba
+         56	Calle Violeta
+         56	Calle 28
+         55	Camino Vecinal
+         54	Carretera 10
+         53	Calle Roble
+         53	Calle Clavel
+         52	Calle 32
+         52	Calle 30
+         52	Avenida Luis Muñoz Rivera
+         51	Carretera 181
+         50	Expreso Jesús T. Piñero
+         50	Calle Jazmin
+         50	Calle 29
+         49	Calle Robles
+         48	McDonald's
+         48	Calle Flamboyán
+         47	Calle Coral
+         47	Calle 31
+         46	Subway
+         46	Carretera 165
+         46	Calle Almendro
+         45	Calle Rosa
+         45	Avenida Principal
+         44	Calle Ramón Emeterio Betances
+         44	Calle K
+         44	Avenida Regimiento 65 de Infantería
+         44	Avenida Las Cumbres
+         43	Utility Pole

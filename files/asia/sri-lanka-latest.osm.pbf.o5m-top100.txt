@@ -1,0 +1,100 @@
+        449	House
+        442	Temple
+        424	Paddy
+        281	Paddy Field
+        238	Southern Expressway
+        188	paddy
+        181	Buddhist Temple
+        173	Kovil
+        172	building
+        169	Coastal Line
+        157	Main Line
+        153	Peoples Bank
+        133	1st Lane
+        124	Hindu Temple
+        121	2nd Lane
+        115	Galle Road
+        111	Temple Road
+        109	School
+        107	BOC
+        106	Sampath Bank
+        101	Colombo - Ratnapura - Wellawaya - Batticaloa Road
+        100	Mixed Retail Residential
+         99	Commercial Bank of Ceylon PLC
+         97	Church
+         95	Bank of Ceylon
+         93	Colombo - Kandy Road
+         92	School Road
+         89	People's Bank
+         88	Cargills Food City
+         86	3rd Lane
+         85	Telecom Tower
+         84	water well
+         78	Mixed retail residential
+         78	Ceypetco
+         77	HNB
+         73	well
+         73	Colombo - Katunayake Expressway
+         70	Commercial Bank
+         70	Coconut Cultivation
+         66	a
+         66	Shop
+         66	Lanka Filling Station
+         64	Puttalam-Anuradhapura-Trincomalee Road
+         64	4th Lane
+         63	Store
+         62	Samagi Mawatha
+         62	Hospital Road
+         60	Batticaloa Line
+         60	5th Lane
+         59	Water Tank
+         57	New Kandy Road
+         57	NSB
+         56	Beach Road
+         55	Station Road
+         55	Seylan Bank
+         55	Northern Line
+         54	Main Street
+         53	6th Lane
+         52	Peradeniya-Badulla-Chenkaladi Road
+         52	Cemetery Road
+         51	Trincomalee Batticaloa Road
+         51	Pillayar Kovil
+         50	river
+         50	Coconut
+         49	Sathosa
+         49	High Level Road
+         49	Building
+         47	Peradeniya - Badulla - Chenkaladi Road
+         46	A5 Peradeniya-Badulla-Chenkaladi Road
+         45	Outer Circular Highway
+         45	Church Road
+         44	coconut
+         44	Post Office
+         44	Avissawella - Hatton - Nuwara Eliya Road
+         44	1
+         43	Colombo-Galle Road
+         42	Garage
+         42	Cargills
+         41	Gampaha-Ja Ela Road
+         40	Pre School
+         40	8th Lane
+         39	School Lane
+         39	7th Lane
+         38	Jaya Mawatha
+         37	Sub Post Office
+         37	Colombo -Matara Road
+         37	Buddha Statue
+         36	Perera & Sons
+         36	Paddy field
+         35	school
+         34	house
+         34	Rail Gate
+         34	Murukan kovil road
+         34	Colombo - Galle - Hambantota - Wellawaya Road
+         34	Anuradhapura-Padeniya Road
+         33	shop
+         33	Thiruwanaketiya - Agalawatte Road
+         33	Hatton National Bank
+         33	Baseline Road
+         32	road

@@ -1,0 +1,100 @@
+        280	Main Street
+        257	West Virginia Turnpike
+        241	Corridor H
+        225	2nd Street
+        206	1st Street
+        200	3rd Street
+        159	Corridor D
+        150	4th Street
+        142	Walnut Street
+        134	High Street
+        132	5th Street
+        126	Cumberland Subdivision
+        122	Church Street
+        117	County Route 7
+        115	County Route 1
+        110	Cowen Subdivision
+        109	North Bend Rail Trail
+        105	6th Street
+        104	Oak Street
+        104	Elm Street
+        104	Chesapeake and Ohio Canal
+        101	Pocahontas District
+        100	Maple Street
+         99	Chestnut Street
+         95	Center Street
+         90	Princeton-Deepwater District
+         88	Front Street
+         86	3rd Avenue
+         85	County Route 3
+         84	Highland Avenue
+         84	County Route 13
+         83	Central Avenue
+         80	County Route 22
+         78	PRT
+         77	County Route 9
+         77	County Route 8
+         77	County Route 2
+         75	Water Street
+         75	Kanawha Subdivision
+         75	County Route 20
+         75	2nd Avenue
+         74	East Main Street
+         74	County Route 11
+         73	River Road
+         72	Pennsylvania Avenue
+         72	7th Street
+         72	1st Avenue
+         71	County Route 10
+         69	Washington Street
+         69	County Route 6
+         69	County Route 28
+         69	County Route 18
+         69	Circle Drive
+         68	Virginia Avenue
+         68	McDonald's
+         68	Chesapeake and Ohio Canal Trail
+         67	Mountain Subdivision
+         67	County Route 5
+         67	County Route 30
+         67	County Route 21
+         66	Market Street
+         66	Locust Street
+         66	County Route 12
+         65	West Main Street
+         65	Pine Street
+         65	Maple Avenue
+         65	Jefferson Street
+         64	Bridge Street
+         63	Spruce Street
+         62	Ohio River Subdivision
+         62	8th Street
+         61	Sheetz
+         61	School Street
+         61	Park Avenue
+         61	County Route 4
+         61	County Route 26
+         60	West Virginia Secondary
+         60	Virginia Street
+         60	Orchard Street
+         60	County Route 17
+         60	County Route 15
+         59	Spring Street
+         59	County Route 36
+         58	Short Line Subdivision
+         58	Railroad Street
+         57	Park Street
+         57	7th Avenue
+         57	11th Street
+         56	Riverside Drive
+         56	County Route 40
+         56	Cherry Street
+         56	4th Avenue
+         56	12th Street
+         55	Sunset Drive
+         55	Hill Street
+         54	Wilson Street
+         54	Sycamore Street
+         53	County Route 34
+         53	County Route 23
+         53	County Route 14

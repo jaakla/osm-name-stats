@@ -1,0 +1,100 @@
+        232	Београд-Бар (Beograd-Bar)
+        158	Groblje
+        128	Šćepan Polje - Plužine
+        109	Jadranska magistrala
+         78	BT TT2
+         44	IDEA
+         41	Gradina
+         38	Србија - Crna Gora
+         33	BT TT3
+         32	Njegoševa
+         31	Voli
+         31	Shqipëria - Crna Gora
+         30	Milana Raičkovića
+         29	Glavica
+         27	Dolovi
+         27	Autoput Bar-Boljare
+         24	E 851
+         24	Bioče - Mateševo
+         22	Trebinje Herceg Novi
+         22	Trebinje - Nikšić
+         22	Suvodo
+         22	Dalmatinska
+         21	Jadranska Magistrala
+         21	Crni vrh
+         20	Žabljak - Šavnik
+         20	Vrela
+         20	Gradac
+         19	Lim
+         19	Cetinje - Lovćen
+         18	Studenac
+         18	Planinica
+         18	Mateševo - Andrijevica
+         18	Lipci - Vilusi
+         17	Rujela
+         17	Razvršje
+         17	Duboki potok
+         17	CT-1
+         17	Bulevar Svetog Petra Cetinjskog
+         16	Plužine - Nikšić
+         16	Moskovska
+         16	Josipa Broza Tita
+         16	Ceklinska
+         16	Boška Buhe
+         16	Bare
+         16	BT PL03
+         15	V Proleterske brigade
+         15	Previja
+         15	Cetinjski put
+         15	Berane - Andrijevica
+         14	Žabljak - Trsa - Plužine
+         14	Korita
+         14	Aroma
+         13	Šetalište Stari grad-Rafailovići
+         13	Vrelo
+         13	Vidikovac
+         13	Pobljenik
+         13	Obilaznica Golubovaca
+         13	Borova glava
+         12	Београд - Бар
+         12	Vaka Đurovića
+         12	Tara
+         12	Ravni
+         12	Paljevine
+         12	Nikšićki put
+         12	Miladina Popovića
+         12	Luke
+         12	Lokva
+         12	Krš
+         12	Krstac
+         12	Karaula
+         12	Bulevar Stanka Dragojevića
+         12	Borje
+         11	Veliđe
+         11	Surdup
+         11	Ravna gora
+         11	Peaks of the Balkans
+         11	Nikole Tesle
+         11	Ljubaštica
+         11	Krlje
+         11	Jama
+         11	Ivana Milutinovića
+         11	Dr. Ljubomira Rašovića
+         11	Doline
+         11	Bosna i Hercegovina - Crna Gora
+         11	Berane - Jelovica
+         11	13. jula
+         10	Šanac
+         10	Đurđevića Tara - Žabljak - Šavnik
+         10	Đoka Miraševića
+         10	Serdara Jola Piletića
+         10	Pošta CG
+         10	Padež
+         10	Osoje
+         10	Lica
+         10	Javorak
+         10	Ivangradska
+         10	Hercegovačka
+         10	Glave
+         10	Ferrovia di Antivari
+         10	Crna Gora - Kosova

@@ -1,0 +1,100 @@
+       1386	Main Street
+        872	Washington Street
+        564	Massachusetts Turnpike
+        563	Pleasant Street
+        484	Elm Street
+        440	High Street
+        411	South Street
+        399	School Street
+        371	Massachusetts Avenue
+        364	Summer Street
+        363	West Street
+        336	Maple Street
+        329	Dunkin' Donuts
+        321	Prospect Street
+        319	North Street
+        317	Chestnut Street
+        316	Broadway
+        307	Central Street
+        297	Walnut Street
+        296	Church Street
+        295	Grove Street
+        290	Pine Street
+        284	Park Street
+        279	Yankee Division Highway
+        275	Union Street
+        261	River Street
+        254	Oak Street
+        246	Spring Street
+        245	Beacon Street
+        239	Cross Street
+        237	Centre Street
+        236	Mill Street
+        235	Lincoln Street
+        233	East Street
+        230	North Main Street
+        228	Bridge Street
+        220	Water Street
+        218	Pond Street
+        214	Adams Street
+        206	Highland Avenue
+        204	Boston Subdivision
+        203	Winter Street
+        200	Berkshire Subdivision
+        195	Forest Street
+        190	Commonwealth Avenue
+        187	Franklin Street
+        185	South Main Street
+        185	River Road
+        185	Cedar Street
+        184	Town Forest
+        181	Boylston Street
+        178	Pearl Street
+        174	Green Street
+        173	Northeast Corridor
+        169	Charles Street
+        168	Cambridge Street
+        167	Freight Main Line
+        166	CVS
+        155	Conservation Land
+        153	Lowell Street
+        152	Highland Street
+        148	Essex Street
+        144	Harvard Street
+        143	Pilgrim Highway
+        143	Center Street
+        141	Park Avenue
+        141	New Hampshire Route Main Line
+        138	Warren Street
+        138	Liberty Street
+        137	Willow Street
+        135	Cottage Street
+        135	Brook Street
+        134	East Main Street
+        133	Salem Street
+        132	Cherry Street
+        124	Western Route Main Line
+        121	Commercial Street
+        120	Western Avenue
+        120	West Main Street
+        120	Lake Street
+        120	King Street
+        120	Hancock Street
+        119	Orchard Street
+        119	Connecticut River Greenway Sp
+        118	Tremont Street
+        118	McDonald's
+        116	Memorial Drive
+        116	Fitchburg Route Main Line
+        115	Mohawk Trail
+        114	Mechanic Street
+        114	Maple Avenue
+        114	Front Street
+        111	Starbucks
+        111	Middleborough Main Line
+        111	Belmont Street
+        111	Bay Circuit Trail
+        110	Parker Street
+        110	Congress Street
+        109	Howard Street
+        109	Columbia Road

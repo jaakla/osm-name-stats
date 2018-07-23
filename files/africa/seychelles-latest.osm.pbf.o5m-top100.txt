@@ -1,0 +1,100 @@
+         16	Bus
+          9	5th June Avenue
+          7	Le Niol-Mare aux Cochons
+          7	Barclays
+          6	Seychelles Petroleum
+          6	Chemin le Niol
+          5	Îles Glorieuses
+          5	Supermarket
+          5	Le Boulevard
+          5	Grand Anse
+          5	Anse Takamaka
+          4	Zerof
+          4	Praslin
+          4	Port Launay
+          4	Pasquière Track
+          4	Les 4 Frères
+          4	Anse Kerlan
+          4	Anse Boudin
+          4	Albert Street
+          3	Vallée de Mai
+          3	Snorkeling place
+          3	Praslin Island Airport Terminal
+          3	Port Glaud
+          3	Platte
+          3	Olivier Maradan Street
+          3	Nouvobanq
+          3	Montagne Posée Road
+          3	MCB
+          3	Grand' Anse
+          3	Francis Rachel Street
+          3	Fond Ferdinand Nature Reserve
+          3	Curieuse
+          3	Chemin Val d'Endor
+          3	Anse Volbert
+          3	Anse Source d'Argent
+          3	Anse Soleil
+          3	Anse Royale
+          3	Anse Marie-Louise
+          3	Anse Major
+          3	Anse Louis
+          3	Anse Badamier
+          2	Îlot Hajangoua Pengoua
+          2	Îlot Choazil Malandzamiayatsini
+          2	Îles Éparses de l'océan Indien
+          2	Zimbabwe
+          2	Whitetip Divers
+          2	Victoria
+          2	Verte Rocks
+          2	University of Seychelles
+          2	Trail No 6 - Morne Blanc
+          2	Tea Factory
+          2	Takamaka
+          2	Seychelles Commercial Bank
+          2	Savoy Resort & Spa Seychelles
+          2	Saffron Avenue
+          2	STC Supermarket
+          2	STC
+          2	Round Island
+          2	Roche Grand Maman
+          2	Riviere du Rempart
+          2	Revolution Avenue
+          2	Reception
+          2	Quincy Bus Stop
+          2	Providence Atoll
+          2	Praslin Big Game Fishing Centre
+          2	Police Bay
+          2	Poivre Avenue
+          2	Pointe Rouge
+          2	Pointe Conan Bus Stop
+          2	Plantation House
+          2	Plaisance School
+          2	Petit Police
+          2	Petit Anse
+          2	Parkplatz
+          2	Paradise Sun
+          2	Oceans Plaza
+          2	National House
+          2	Mini Market
+          2	Mcb
+          2	Mason's Travel
+          2	Market Street
+          2	Marina Drive
+          2	Maisons
+          2	Mahé
+          2	Mahek
+          2	Ma Joie Bus Stop
+          2	Le Repaire
+          2	Lalla Panzi
+          2	Lai Lam Food Shop
+          2	La Modestie
+          2	La Misère Road
+          2	La Digue Police Station
+          2	La Digue
+          2	Kannus
+          2	Jungle Trail to Anse Cocos
+          2	Independence Avenue
+          2	Ile du Nord
+          2	Gym
+          2	Grande Anse
+          2	Glorious Bakery

@@ -1,0 +1,3432 @@
+          1	"ذاكرة قارة" الحرفي القفص
+          1	04/22
+          1	1 Mai
+          1	74
+          9	?
+          1	@rob@se
+          1	A 15
+          1	A. COMBATTANTS
+          1	A.Mauritel
+          1	AAU
+          2	ACF
+          1	ADU
+          1	AGENCE DE VOYAGES
+          1	AID
+          1	AIR ALGERIE
+          1	AL AMANE
+          1	AL DAYATOU ISLAMIYATOU SOUENA [1er C]
+          1	AL DAYATOU ISLAMIYATOU SOUENA [2ème C]
+          1	AL ITIHAD KALINIORO
+          1	ALI BABA
+          1	AMBE
+          1	AMEXTIPE
+          1	AMI
+          2	ARTISANAT
+          1	ATARBIATOU ISLAMIYATOU SOUENA
+          1	AVIS Agence de Voyages
+          1	AVIS Service
+          1	Abatoire
+          1	Abattoir de Saint-Louis
+          1	Abattoire
+          1	Abdallah
+          3	Abdallhi Ould Oubeid
+          1	Abdarrahmane Cissakho
+          1	Abdel Aziz Kane
+          2	Abdel Wahab Cheiguer
+          1	Abdel Wedoud Ould Dahi
+          1	Abdellahi Fall
+          2	Abdellahi Ould Boye
+          1	Abdoul Aziz Ba
+          1	Abdoul Ould Samba Fall
+          1	Abeidy Ould El Gharraby
+          1	Abonné SOS Environnement(N:1)
+          1	Abonné SOS Environnement(N:2)
+          1	Abonné SOS Environnement(N:3)
+          1	Achram
+          1	Adabéré
+          1	Adama Diani Kamara
+          2	Adm
+          1	Adrar أدرار
+          1	AfricaRice
+          1	Agagaktem
+          1	Agagaktem أغاغاكتم
+          1	Agence Afrique Voyage et Tourisme
+          1	Agence Al Hadj Al Mebrour
+          1	Agence BNM Al Watani
+          1	Agence Douae
+          1	Agence Ejmel Voyages
+          1	Agence El Hadiya
+          1	Agence Elvath Voyage
+          1	Agence Mechar
+          1	Agence Projets
+          1	Agence Service El Moubarak
+          1	Agence Varha Voyages
+          1	Agence comptable de l'UGB
+          1	Agence de Voyage AMVT
+          1	Agence de Voyage MVLT
+          1	Agence de la Sénelec
+          1	Agence de voyage Porte d'Afrique
+          1	Ageroute
+          1	Aghoratt
+          2	Aghouinite ⴰⵖⵡⵉⵏⵉⵜ أغوينيت
+          1	Agmamine
+          1	Agmamine 2
+          1	Aguelt-en-Nemadi
+          1	Ahagala
+          1	Ahel Cheiheb
+          1	Ahel el Jailani
+          1	Ahmed Ben Amar
+          1	Ahmed Fall
+          1	Ahmed Ould Cherif El Moktar
+          1	Ahmed Ould El Aghel
+          1	Ahmed Ould Ely El Kory
+          2	Ahmed Ould Kerkoub
+          1	Ahmed Ould Mhamed
+          1	Ahmed Salem Ould Boubout
+          1	Ahmed Salem Ould Ghadde
+          1	Ahmed Salem Ould Haiba
+          1	Ahmed Salem Ould Moulaye Ould H'Meyayda
+          1	Ahmed Salem Ould Sambe
+          3	Ahmed ould Mohamed Salem
+          1	Ahmedou Ould Abdallahi
+          1	Ain Ben Tili عين بن تيلي
+          1	Ain Safra
+          1	Air France
+          1	Aissata Kane
+          1	Akjoujt South Project - Trench 9
+          1	Al Alangol
+          1	Al Azhair
+          1	Al Bedil
+          1	Al Chenaguitta
+          1	Al Mahbass ⵍⵎⵃⴱⵙ المحبس
+          3	Al Quds
+          1	Aleg Prison
+          1	Algeria - Mauritania
+          1	Algerian wall
+          1	Algérie, jours fériés
+          1	Alimentation Dioko de Ngallèle
+          1	Alimentation Mbun Maak
+          1	Alimentation et Transfert d'argent
+          1	Alimentation le Bon prix
+          3	Alioune Ben Ebi Taleb
+          8	Allées des UFR
+          1	Almoravides
+          1	Amadou Moktar Sakho
+          1	Ambassade de l'Iran
+          1	Amegchouf
+          1	Amgala ⴰⵎⴳⴰⵍⴰ أمگالة
+          1	Amoura
+          1	Amphi B
+          2	Amphitheatre
+          1	Amphithéâtre C
+          1	Amphithéâtre Madické Diop
+          1	Anajim
+          1	Ando Réo
+          1	Anne Amadou Babaly
+          1	Annexe du Génie zone militaire n2
+          1	Antenne chiguitel
+          1	Antenne réseau orange
+          1	Aouelloul
+          3	Aouldou
+          8	Aqueduc Bango-Khor
+          1	Arabe
+          1	Arber
+          6	Arbre
+          2	Arena Fight Club
+          1	Aroundou
+          1	Arrêt bus
+          1	Art Gallé
+          1	Aréfounda
+          1	Assaba الحوض الشرقي
+          1	Assurances Généales de Mauritanie
+          1	Atlantic Hôtel
+          1	Atlas
+          1	Atlas Voyage
+          1	Attijari Bank
+          1	Au bonheur des enfants
+          1	Auberge Islam
+          1	Auberge La Louisane
+          1	Auberge La Louisianne
+          1	Auberge Nomade
+          1	Auberge Tembejit
+          1	Auberge de la cité plateau
+          1	Auberge du Terkour
+          1	Autorité Régulation
+          1	Autorité régulation
+          1	Avalon Pharma
+          1	Avenue Boubaker Ben Amer
+          1	Avenue Cherif Adrame Bakhayda
+          1	Avenue Dodds
+          6	Avenue Jean Mermoz
+          2	Avenue du Roi Fayçal
+          1	Aweker
+          2	Azlat Ridge
+          1	Aéroport de Podor
+          1	Aéroport de Saint-Louis
+          1	Aïn Bentili
+          1	B2Beach
+          1	BAMIS
+          1	BANA BLANC
+          1	BANA BLEU
+          1	BANQUE
+          1	BANQUE CAISSE DE DEVELOPPEMENT
+          1	BEHJAA RESTAURANT
+          1	BI
+          1	BIMO
+          2	BNM
+          1	BOUGOUDIRE [1er C].
+          1	BOULOULI
+          1	BOUTIQUES
+          1	BPM
+          1	Ba Abdel Aziz
+          2	Ba Amadou Diadie
+          2	Ba Ibrahima
+          2	Ba M'Baré
+          2	Ba Mahmoud
+          1	Babe Ould Cheikh Sidya
+          1	Bakar Ould Ahmedou
+          2	Bakel
+          1	Ballou
+          1	Balèl Pathé
+          1	Bango
+          1	Banin Kolé
+          1	Banque Al Mouamalat As Sahiha
+          1	Banque Nationale de Mauritanie - ELwatani
+          1	Banque Populaire
+          1	Bara
+          1	Barkédji
+          2	Baro Abdoulaye
+          1	Barrage de Bango
+          1	Barrage de Diama سد دياما
+          1	Barrage de Foum Gleita
+          1	Barrage de Ndiawdoune
+          1	Barrage Éderoum
+          1	Barôbé
+          1	Bassiknou
+          2	Bassikonou-Aghor
+          1	Bassikounou temporrary
+          2	Bassikounou-Koussana
+          2	Bebbaha Ould El Aghel
+          2	Bechir Ould Bezeid
+          1	Bekar Ould Sidi Haiba
+          1	Bellewar
+          1	Ben Amira
+          1	Bey Dundé
+          1	Beysous
+          1	Bibliothèque Universitaire Centrale
+          1	Bidji
+          1	Bilbassi
+          1	Bilikoïté
+          1	Bir Gandouz ⴱⵉⵔ ⴳⴰⵏⴷⵓⵣ بئر كندوز
+          1	Biri Diagana
+          1	Bissét 1
+          1	Bito
+          1	Bloc 1H
+          1	Bloc 1I
+          1	Bloc 1J
+          1	Bloc 1K
+          1	Bloc 1L
+          1	Bloc 2H
+          1	Bloc 2I
+          1	Bloc 2J
+          1	Bloc 2K
+          1	Bloc 2L
+          1	Bloc 3H
+          1	Bloc 3J
+          1	Bloc 3K
+          1	Bloc 3L
+          1	Bloc En restructuration
+          1	Boke Dialloubé
+          1	Bokhol
+          1	Boki
+          1	Boko Diomby
+          1	Bokoul
+          1	Bondji 1
+          1	Bondji Bokar
+          1	Bop Thior
+          1	Bordj Badji Mokhtar
+          1	Borne fontaine
+          1	Borne geodésique UGB
+          1	Borné géodésique UGB
+          1	Bou El Mogdad بو المقداد
+          1	Bou El Mohdad بو المقداد
+          1	Bouda
+          1	Boudama Peul
+          2	Bouddah Ould Bousseiry
+          1	Boudiouck
+          1	Bougara
+          1	Bouky Ould Eleyatt
+          1	Boulangerie Delta
+          1	Boulevard Abdoulaye Mar Diop
+          7	Bourse Voitures
+          1	Bouse Voitures
+          2	Boutique COM-SOC
+          1	Boutique Fouta Coro
+          1	Boutique de Demba camara
+          1	Boutique la tienda de Ngallèle
+          1	Bouyagui Ould Abidine
+          1	Bowél
+          1	Boû Derga
+          3	Brahim Khill Ould Babetta
+          1	Brahim Ould Mogueya
+          1	Brigarde de dédouanement de la douane
+          1	Brigarde de la gendarmerie
+          1	Bruxelles
+          6	Buffer Strip
+          1	Bureau ASUFOR Dimath
+          1	Bureau de Poste
+          1	Bureau de Transit
+          1	Bureaux de la SAED
+          1	Bus NDB
+          1	Bâtiment A
+          2	Bâtiment B
+          1	Bâtiment C
+          1	Bâtiment D
+          1	Bâtiment F
+          1	Bâtiment H
+          1	Béli Tiovi
+          1	Bétanie Boisson et Gaz
+          1	C AVL
+          1	CAPEC 5ème
+          2	CBAO
+          1	CDI
+          1	CEM 1 de Richard Toll
+          1	CEM Amadou Mar Diop
+          1	CEM Boulaye Fanthio Barry de Golmy
+          1	CEM Matam
+          1	CEM Richard-Toll 2
+          1	CEM de Rosso-Sénégal
+          1	CENI
+          1	CENTRALE SOMELEC
+          1	CENTRE ORTHOPÉDIE
+          1	CENTRE RÉGIONAL DE FORMATION DES PERSONNELS DE L'ÉDUCATIO
+          1	CFPM
+          1	CGB
+          1	CHEIKH SIDI MOHAMED BEN OMOIS
+          1	CID
+          1	CIMDET
+          1	CLÉ MINUTE
+          1	CNCAS Edk
+          1	COMASEL
+          1	Café Tunisien
+          1	Cafétéria de l'UGB
+          1	Cairo-Dakar Highway
+          1	Caisse Nationale de Sécurité Sociale
+          1	Camp Militaire "El Hadj Omar"
+          1	Camp Militaire de Momar Gary
+          1	Campement Njagabaar
+          1	Campement Richard Toll
+          1	Campement de Diama
+          1	Campement de chasse Maka Diama
+          1	Campement de la Tour
+          1	Campus 1
+          1	Campus 2
+          1	Campus Numérique (AUF)
+          1	Canal Diéya Koudy
+          1	Canal Gorgui
+          1	Canal principal d'irrigation
+          1	Canyon de Souigya
+          1	Cap Draa
+          1	Cap of the ostriches
+          1	Carrefour BMD
+          2	Cas-Cas
+          1	CasaHouse
+          1	Case Culturelle
+          1	Case des Tout Petits
+          1	Case des Tout-Petits
+          1	Cave Paintings of Agrour
+          1	Centrale Manatali
+          1	Centrale Solaire Senergy II
+          1	Centre Régional de Formation en Santé de Saint-Louis
+          1	Centre anti-acridien
+          1	Centre commercial des femmes
+          1	Centre d'Etat civile
+          1	Centre de Calcul
+          1	Centre de Recherche sur le Drepanocytose
+          1	Centre de Santé
+          1	Centre de formation
+          4	Centre de santé
+          1	Centre de santé de Doué
+          1	Cercle de Goundam دائرة غوندام
+          1	Cercle de Nara
+          1	Cercle de Niono
+          1	Cercle de Tombouctou
+          1	Chabab
+          1	Chambre de commerce
+          1	Champs de Gorgui
+          2	Changol séounde
+          1	Chateau d'eau
+          1	Chatou El Kebir
+          1	Checkpoint Chgueig
+          1	Chegga
+          2	Cheibany Ould Haiba
+          1	Cheikh Ahmed VALL street
+          1	Cheikh Ahmedou Bamba
+          1	Cheikh El Hadj Malick Sy
+          1	Cheikh El Mehdi
+          1	Cheikh Hamahoullah
+          1	Cheikh Hammonni
+          1	Cheikh Melainine
+          2	Cheikh Mohamed Abdel Haye Ould Sabbar El Mejlissi
+          1	Cheikh Mohamed Vadhel
+          1	Cheikh Mohamed el Mamy
+          1	Cheikh Mélanine Robert
+          1	Cheikh Ould Abba
+          1	Cheikh Ould Mekiyene
+          1	Cheikh Ould Noueisry
+          1	Cheikh Saad Bouh
+          1	Cheikh Saad Bouh Kane
+          1	Cheikh Sid' Ahmed R Gueiby
+          1	Cheikh Sid' El Moktar Ould Cheikh Abdella
+          1	Cheikh Sid'Ahmed El Kounty
+          1	Cheikh Sid'Ahmed Learoussi
+          1	Cheikh Sid'El Moktar
+          1	Cheikh Sid'El Moktar Tendghy
+          1	Cheikh Sidaty Ould Cheikh Taleb Bouya
+          1	Cheikh Tourad O/Abass
+          1	Cheikh Zayed Ben sultan
+          3	Cheikhna Ould Mohamed Laghdaf
+          1	Chemin de fer de Mauritanie سكك حديد موريتان�
+          1	Cherif Sabar
+          1	Chez Aliou
+          1	Chez Ata
+          1	Chez DAME
+          1	Chez Gilles
+          1	Chez Lemzo
+          1	Chia Ould Ahmed Baba
+          1	Chinguity Hôtel
+          1	Chivaa
+          1	Choum Tunnel
+          1	Chourava
+          1	Chrif Ahmed Ould Abderrahmane
+          1	Château d'eau
+          1	Château du Baron Roger
+          1	Ciment Mauritanie
+          1	Cimetieère de N'Diago
+          2	Cimetière
+          1	Cimetière d'Escal
+          1	Cimetière de Bokoul
+          1	Cimetière de Gaé
+          1	Cimetière de Golmy
+          1	Cimetière de Khor
+          1	Cimetière de Lany-Tounka
+          1	Cimetière de Ngalléle
+          1	Cimetière de Ouâssétâké
+          1	Cimetière de Podor
+          1	Cimetiére de Rosso
+          1	Cimetiére de Rosso Peulh
+          1	Cité Cadre
+          1	Cité Niakh
+          1	Cité Police
+          1	Cité S.A.E.D.
+          1	Cité Vauvert
+          1	Clinique Bouna
+          1	Clinique Kissi
+          1	Colibri
+          1	Collonel Yalla Abdellah
+          1	Collège Ksar
+          1	Collège de Saldé
+          2	Colonel Cheikh Ould Beida
+          1	Colonel M'Bareck ould Bouna Moctar
+          1	Colonel Viyah
+          1	Commerce
+          1	Commissariat de Saint-Louis
+          1	Commission Nationale des Concours
+          1	Commune rurale de Gaé
+          1	Compagnie D'assurance et de Réassurance
+          1	Complexe sportif de UGB
+          1	Conakry
+          1	Conciergerie du Village G
+          1	Congo Démocratique
+          1	Conseil Constitutionnel
+          1	Consulat de Belgique
+          1	Consulat de Pays-Bas
+          1	Corée du Nord
+          1	Corée du Sud
+          1	Cour Suprême
+          1	Cours Elémentaire Serigne Moussa Diop
+          1	Crampel
+          1	Cratère d'Aouelloul
+          1	Cratère de Tenoumer
+          1	Croissant Rouge
+          2	Croix-Rouge sénégalaise
+          1	D.SOLDE
+          1	DAVO
+          1	DGI
+          1	DYNOUL LAHY:Kakoulou
+          1	Daara alkhourane cité SAED
+          1	Dabi
+          4	Dadevol
+          1	Dadje
+          4	Dagana
+          1	Dah Ould Sidi Haiba
+          2	Dahan Ould Tavel Ethmane
+          1	Dakhla-Oued Ed-Dahab ⴷⴰⵅⵍⴰ-ⵡⴰⴷ ⴷⴰⵀⴰ
+          1	Dancing
+          1	Dara
+          1	Dara Halaïbe
+          1	Davoure
+          1	Daya Ghaara
+          1	Daïra Tindouf
+          1	Daïra de Bordj Badji Mokhtar
+          1	Daïra de Reggane
+          1	Dbéat
+          1	Demba Ablaye
+          1	Demba Assa Diagne
+          1	Dembakané
+          1	Dern Wassa
+          1	Desert Voyage
+          1	Diadiam 3
+          1	Diadiam I
+          1	Diadiam II
+          1	Diagana Ousmane Diallo dit Dembo
+          1	Dialaane
+          1	Diama
+          1	Diama Yalar
+          1	Diamaguène
+          1	Diammél
+          1	Diaramouna Soumaré
+          1	Diaranguel
+          1	Diatal
+          1	Diawar
+          1	Diawara
+          1	Digarelle Douga
+          1	Dimar Walo
+          1	Diobivol Station
+          1	Dioko Khor
+          1	Dioko cité SAED
+          1	Diol Foulbé
+          1	Diol Soubalbé
+          2	Diorbivol
+          1	Dioss
+          1	Dioss Peul 1
+          1	Dioss Peul 2
+          1	Dioudé Diabé
+          1	Diougop Peul
+          2	Dioulol
+          2	Diowguel
+          1	Direction Douanes
+          1	Direction Générale SAED
+          1	Direction de la scolarité
+          1	Direction du CROUS
+          1	Dirim Bodioal
+          1	Dispensaire de Golmy
+          1	District sanitaire de Rosso/Sénégal
+          1	Diâba Déklé
+          1	Diâba Maoundé
+          1	Djajibine Chorfa
+          1	Djeddah Cosmétique
+          1	Djewol Ouorgo
+          1	Djoudi
+          1	Djoudj
+          1	Djoûk
+          1	Docteur Abdoullahi Ould Bah
+          2	Docteur Ba Bocar Alpha
+          1	Dodel
+          1	Dojo Aïkido et Gymnastique
+          1	Domaines
+          1	Donaye
+          1	Dondou
+          1	Douane sénégalaise
+          1	Dougou
+          1	Dougoulgui
+          1	Douloubal
+          1	Doumga Lao
+          1	Doundé
+          1	Dounguel
+          8	Doué
+          1	Dy Ould Zeine
+          1	Débi
+          1	Débinokho kilé
+          1	Démizine
+          1	Démèt
+          1	EL MOHAMADIYATOU:Kirané [1er C]
+          1	EL MOHAMADIYATOU:Kirané [2ème C]
+          1	ELEVAGE
+          1	ENA
+          1	ENDA Énergie et environnement
+          1	ENO Saint Louis
+          1	ETS MAOA
+          1	EUROPCAR
+          2	Ecobank
+          1	Ecole
+          1	Ecole Elémentaire
+          1	Ecole Franco-Arabe de Rosso Sénégal
+          1	Ecole Golmy II
+          1	Ecole Goxu Mbathie
+          1	Ecole Khayar
+          1	Ecole Moussa Camara de Golmy
+          1	Ecole Ngallele 2
+          1	Ecole maternelle
+          1	Ecole n°3
+          1	Ecole primaire 1 de Rosso Sénégal
+          1	Ecole primaire 2 de Rosso Sénégal
+          1	Ecole primaire I
+          1	Ecole primaire Sada Ndiaye
+          1	Ecole privée
+          1	Ecole élémentaire Matam IV
+          1	Ecole élémentaire de Gourel Serigne
+          1	Ecole1
+          1	Ecole2
+          1	El Arby Ould Zergane
+          1	El Béthia
+          1	El Djouf
+          1	El Ezze Raha
+          1	El Falah
+          1	El Ghallaouya
+          1	El Ghallâouîya
+          1	El Gnâter
+          1	El Gouirât Plateau
+          1	El Gueleita الكليتا
+          1	El Hadj Abdoul N'Gaydé
+          1	El Hadj Koueymel ould Guewthil Fall
+          1	El Hadj Mahmoud Ba
+          1	El Hadj Mohamed Limame Ould Mohamed Lahmade
+          1	El Hadrami Ould Khatry
+          1	El Kheir
+          1	El Mamy
+          1	El Mechtabe Ould Mohamed vall
+          2	El Mreïti
+          1	El Sérabo
+          1	El Yakouby
+          1	Ely Chendhoura
+          1	Ely Chikh Ould Momme
+          1	Ely Ould Beydedde
+          1	Embarcadère de Djoudj
+          2	Emirats Arabes Unis
+          1	Enclos d'élevage
+          1	Energie Environnement Mines
+          1	Erg Chech
+          1	Escal
+          1	Espace Voyage
+          1	Essama VOyages
+          1	Etihad Airways
+          1	Ets Jawda
+          1	Ets TRANSAC - Azizi
+          1	Everyday Shop
+          1	F. Publique
+          1	F.Chérif
+          1	FAST-FOOD KIF KIF
+          1	Fabrizio Meoni Memorial
+          2	Fades
+          1	Fall Abdarahmane dit Tatoum
+          1	Falémé
+          1	Fanaye
+          1	Fanaye Diery
+          1	Fatimetou Aoufly street
+          1	Fatma Zeine Mint S'Baghou
+          1	Faty Coiffure
+          1	Feeling Voyage
+          1	Felix Houphouet Boigny
+          1	Fenicia
+          1	Ferme Avicole SERIC
+          5	Fleuve Sénégal
+          2	Fleuve Sénégal نهر السنغال
+          1	Fodie Hadietou Cisse
+          1	Fodie Sidi Koita
+          1	Fondation Moktar Ould Dadah
+          1	Fondation Noura
+          1	Fondé Thiéwo
+          3	Forage
+          1	Fort Faidherbe
+          1	Fort Saganne
+          1	Fort de Podor
+          2	Forêt classé de Gawol Guiraye
+          1	Four Mathioubé
+          1	Foyer des Jeunes de Guédé
+          1	Félou
+          1	Fôndé Elimane
+          1	G1A
+          1	G1B
+          1	G1C
+          1	G1D
+          1	G1E
+          1	G1F
+          1	G1G
+          1	G2A
+          1	G2B
+          1	G2C
+          1	G2D
+          1	G2E
+          1	G2F
+          1	G2G
+          1	G3A
+          1	G3B
+          1	G3C
+          1	G3D
+          1	G3E
+          1	G3F
+          1	G3G
+          1	G4A
+          1	G4B
+          1	G4C
+          1	G4D
+          1	G4E (village E)
+          1	G4F
+          1	G4G
+          1	G5A
+          1	G5B
+          1	G5C (ARMEE)
+          1	G5D
+          1	G5E ( GASS)
+          1	G5F
+          1	G5G
+          1	G6A
+          1	G6B
+          1	G6C
+          1	G6D
+          1	G6E (United Sisters)
+          1	G6F
+          1	G6G
+          1	G7A
+          1	G7B
+          1	G7C
+          1	G7D
+          1	G7E
+          1	G7F
+          1	G7G
+          1	G8A
+          1	G8B
+          1	G8C
+          1	GAB ECOBANK UFR
+          1	GAE 2
+          1	GAKHE FILY ET LEE SARAKOLE
+          1	GARE NOUADHIBOU GRN
+          1	GBM
+          1	GOGUI
+          1	GOGUI (Med)
+          2	GOGUI [2ème C]
+          1	GRET
+          1	Gabobé
+          1	Gadalkhoute
+          1	Gakhe Fily et Lee Sarakole
+          1	Galb Lazib
+          1	Galladé
+          1	Gamadji Sarre
+          1	Gamadji Saré
+          1	Gamal Abdel Nasser
+          1	Gandon
+          1	Gandé
+          1	Ganguel
+          1	Garage
+          1	Garage Administratif
+          1	Garage Taxi Diama
+          1	Garalla
+          1	Garderie Diawar
+          1	Gare Routiere de Bakel
+          2	Gare du Nord
+          1	Gare routière de Podor
+          1	Gare routière de Rosso Sénégal
+          1	Gawdal I
+          1	Gawdal II
+          1	Gawol
+          1	Gaya
+          3	Gaé
+          1	Ge U L'academie
+          1	Ghaithy ould Abdel Haye
+          1	Ghali Ould Abdel Hamid
+          1	Gherd el Mghallef
+          1	Gleibat El Foula ⴳⵍⵉⴱⴰⵜ ⵍⴼⵓⵍⴰ اكل�
+          1	Gleiguem Ould Habiboullah
+          1	Gogui
+          1	Golmy
+          2	Gorgol
+          1	Gorgol blanc
+          1	Gorko Goto
+          1	Gourang Kolé
+          1	Gourel Bey
+          1	Gourel Dara
+          1	Gourel Kotché
+          1	Gouthioube
+          1	Gouvernance de Nouakchott Sud
+          1	Gouvernance de Nouakchott Sud (Wilaya )
+          1	Gowad Ould Mohamed Benane
+          2	Goxumbaac
+          1	Goûr Regagda
+          1	Grand Place de HLM
+          1	Grande Dune
+          3	Grande Mosquée
+          1	Grande Mosquée Dagana
+          1	Grande Mosquée de Gaé
+          1	Grande Mosquée de Rosso
+          1	Grands Domaines du Sénégal
+          1	Groupe Chinguitty Pharma
+          1	Groupe WAFA
+          1	Guelb Arouedil
+          1	Guelmim-Oued Noun ⴳⵍⵎⵉⵎ-ⵡⴰⴷ ⵏⵓⵏ گل�
+          1	Guelta
+          1	Gueltat Zemmour ⴳⵓⵍⵜⴰⵜ ⵣⵎⵎⵓⵔ گلتة
+          1	Guewel
+          2	Guidakar
+          1	Guig Ould Ale Ould Mellouk
+          2	Guinanourou
+          1	Guiraye Ouorgo
+          1	Guiro
+          1	Guédé Chantiers
+          1	Guédé Ouro
+          2	Guédé Village
+          1	Général Charles de Gaulle
+          2	H'Bib Ould H'Reitani
+          1	H'Meimed Ould Boubacar
+          1	HAMAKE I
+          1	HAMAM Gassama Esthétique
+          1	HAPA
+          1	HPS-Voyage
+          1	Habib Ould Mahfoudh
+          2	Hacen Ben Ali Ibn Abi Taleb
+          2	Hacen Ould Saleh
+          1	Hacen ould Zein
+          1	HadinaRimtic
+          1	Hadji Ould Sidina
+          1	Haiba Ould Dhmine
+          1	Haimouda Ould Weddadi
+          1	Halvar
+          1	Hama Assurances
+          3	Hamdi Ould Mouknass
+          1	Hamdi ould Mouknass
+          1	Hamed Ould Nagim
+          1	Hasi Budit
+          1	Hasi Meheiris
+          4	Hassan ould Cheikh ould Ahmed Salem
+          4	Hassen Ben Youssef El Alaoui
+          1	Hassi Bagra
+          1	Hassi lokar
+          1	Haut Commissariat des Droits de L'homme
+          1	Hazette Dicko
+          1	Hbib Ould Brahim
+          1	Hemeyenne Ould Eroissi
+          1	Hemmam Fall
+          1	Hemody ould Mahmoud
+          2	Horma Ould Abdel Jelil
+          1	Hotel Boundou
+          1	Hotel El Khaima
+          1	Hotel Wagadu
+          2	Houcein Ben Ali Ibn Abi Taleb
+          6	Housseine Ben Talal
+          1	Hovratt ehl Cheikh Sid'Elemine حفرة أهل الشيخ �
+          1	Hydraulique
+          1	Hydrobase
+          1	HÔTEL HALIMA
+          1	Hôpital
+          1	Hôpital de l'Amitié
+          1	Hôtel Bema
+          1	Hôtel Houda
+          1	Hôtel Marhaba Groupe Azalai
+          1	Hôtel Oumou Maabed
+          1	Hôtel de Ville Podor
+          1	Hôtel de ville
+          1	Hôtel de ville de Diama
+          1	Hôtel du Djoudj
+          1	I.E.T.C
+          1	IEF saint louis
+          1	IMMEUBLE ABASS
+          1	IMMEUBLE GHADAA
+          1	IMMEUBLE HAJAAR
+          1	IMPÔTS TZ
+          1	INAP
+          1	INSTITUT CULTUREL TAFACIRGA [2ème C];INSTITUT CULTUREL TAF
+          1	IPN
+          1	ISCAE
+          1	ISFOS
+          1	ISKAN
+          1	Ibrahima BA
+          1	Immeuble Abass
+          1	Immeuble Gouvernement
+          1	Immeuble Nasr
+          1	Impôts
+          1	Incubateur
+          1	Indépendance
+          1	Infinitif Coiffure
+          1	Institut islamique
+          1	Institution Présentation de Marie
+          1	Ismail Abdoul Sy
+          1	JIO Market
+          1	Jardins de manguiers
+          1	Jdiriya ⵊⴷⵉⵢⵔⵉⵢⴰ أجديرية
+          2	Jiddou Ould Kh'Live
+          1	Jiddou Ould Saleck
+          1	Joncto
+          1	Juma Doué
+          1	KABOU MEDERSA
+          1	KAKOULOU [1er C].
+          1	KALINIORO [1er C].
+          1	KALINIORO [2ème C].
+          1	KARDIDI
+          1	KERSIGNANE - K [1er C]
+          1	KERSIGNANE - K [2ème C]
+          1	KIRANE [1er C] B
+          1	KIRANE [1er C]ycle
+          1	KIRANE [1er C]ycle C
+          1	KIRANE [2ème C]
+          1	KOTERA [1er C]
+          1	KOTERA [2ème C].
+          1	KOUROUKERE
+          1	KOUROUKERE [2ème C]
+          1	Kabou
+          1	Kabou [1er C]
+          1	Kalinioro
+          1	Kalise
+          1	Kallu les ummaade Agnam-Goly faade e Oréfonde
+          2	Kane Saidou
+          1	Kane Tijane
+          1	Kaniaga Kersignané
+          1	Karakoro
+          1	Karikoro نهر كاراكورو
+          2	Kayes
+          1	Kayes - Koulikoro
+          1	Kediet ej Jill
+          2	Kemal Ould Baha
+          1	Keur Moussa
+          1	Keur Pathé Bâ
+          1	Khaddaja Mint Emir
+          1	Khar Yallah
+          1	Kheune
+          2	Khor
+          1	Khor Cabane
+          1	Khor Matériaux
+          1	Khoubat
+          3	Khouma Mbodjène
+          1	Khouma Thiarréne
+          1	Khouma-Yakasabar
+          1	Khouma-yakasabar
+          1	Kirané
+          1	Kissi
+          2	Kolimbiné
+          1	Kolly Tengala
+          1	Kolombéré
+          1	Kopé
+          1	Korkadié
+          1	Kotera
+          1	Koulikoro
+          1	Koulikoro - Ségou
+          2	Koumbi Saleh
+          1	Koundél
+          1	Kounguely
+          1	Kourouma
+          1	Koussana-Medala
+          1	Kreb en Nâga Plateau
+          1	L. voitures
+          1	LA CSS: compagnie sucriére sénégalaise
+          1	LABIDI
+          1	LABORATOIRE LEIDI
+          1	LAKANGUEMOU
+          1	LANIMODI MEDERSAS ISLAMIC;MEDERSA ISLAMIC LANI-MODI
+          1	LANY TOUNKA [1er C]
+          1	LANY TOUNKA [2ème C]
+          1	LEYA [1er C]ycle
+          1	LEYA [2ème C]
+          1	La Dune qui murmure
+          1	La Grue à vapeur de vingt tonnes
+          1	La Saigonnaise
+          1	La Table de la Cité
+          1	La passe Ebnou
+          1	La poste
+          1	Laawol Gese Waalo
+          1	Lac du Lamartin
+          1	Lahel
+          1	Lahwetatt
+          1	Lalla Mint Tebbakh
+          1	Lam Alpha Bocar
+          1	Lampsar
+          1	Lany-Tounka
+          1	Laranguémou
+          1	Laâyoune-Sakia El Hamra ⵍⵄⵢⵓⵏ-ⵙⴰⵇⵢⴰ �
+          2	Le Diar
+          2	Le Djeuss
+          1	Le Falémé
+          1	Le Gorom
+          2	Le Kolimbiné الكوليمبيني
+          1	Le Ksar Al Kiali
+          1	Le Nichoir
+          1	Le Parisien
+          1	Le Sedor
+          1	Le Virage
+          1	Leboudi
+          1	Legara
+          1	Legdam
+          1	Lembrabott Sidi Mahmoud
+          1	Lemrabott Ould Berrou
+          1	Leourine
+          1	Les Almoravides
+          1	Les Sultanes
+          1	Letfatar
+          1	Letfotar
+          1	Lezaila
+          1	Limalé Ndiaye
+          1	Linguere Ndieumbeutt
+          1	Lobali
+          2	Location voitures
+          1	Lodges Timinguest
+          1	Louis Dreyfus Company Saint-Louis
+          2	Lounguéré Baba
+          1	Lycee Privé des Nations Secondaire
+          1	Lycee Privé du Sahel Enseignement Français
+          1	Lycée Arafat
+          1	Lycée Diam Ly
+          1	Lycée Théodore MONOD
+          1	Lycée Zahra ( Privée)
+          1	Lycée de Matam
+          1	Lycée/Collège de Guédé Chantier
+          1	Léboudou Doué
+          1	Léboudou Ouro Foulbé
+          1	Léopold Sédar Senghor
+          1	M'Beidett Essagha
+          1	M'Rabih Ould Abidine
+          1	M'bareck Ould Mohamed El Hadj
+          1	M'billar
+          1	M. Communication
+          1	M. F. Publique
+          1	M.FP
+          1	MAIRIE TZ
+          1	MANTHIA
+          1	MATFORCE
+          1	MATTEL
+          1	MAURI LAB
+          1	MAURIPOST
+          1	MEDERSA ALITIHADE NAFADJI
+          1	MEDINA
+          1	MELGA
+          1	MELGA [2ème C]
+          1	MENATA
+          1	MINURSO Airfield
+          1	Macina Mamadou Lamine
+          1	Madina Ndiatbé
+          1	Madrassa de Golmy
+          1	Magasin de Golminkany
+          1	Magasin tissu le Hangar
+          1	Magazin d'stockage de la Douane.
+          1	Maine
+          1	Maire de Teyarett
+          1	Mairie
+          1	Mairie Arafat
+          1	Mairie commune Waly
+          1	Mairie d'El Mina
+          1	Mairie de Ngalléle
+          1	Mairie de Sebkha
+         12	Maison
+          1	Maison 1
+          1	Maison 2
+          1	Maison 3
+          1	Maison CAPEC
+          1	Maison de Jeunes de Golmy
+          1	Maison de l'Université
+          1	Maison des DIALLO
+          1	Maison des Jeunes
+          1	Maison du Préfet
+          1	Maka Diama
+          1	Makhoul Semaan Hajjar
+          1	Makhouz Plateau
+          1	Mali
+          3	Mali - Mauritania
+         12	Mali - موريتانيا
+          1	Mamadou Bouya
+          1	Mamadou Konate
+          1	Mamouny Ould Moktar M'bareck
+          1	Mamour Diallo
+          1	Manaél
+          1	Manguesse hore
+          1	Mantiabou
+          1	Maracana Training Center
+          1	Maraye
+          1	Marche wali
+          3	Marché
+          1	Marché Arafat
+          1	Marché Ksar
+          1	Marché Municipal
+          2	Marché Tentes
+          1	Marché de Dondou
+          1	Marché de Golmy
+          1	Marché de Rosso
+          1	Mare de Koumbi Saleh
+          1	Marial
+          2	Mariem Mint Sid'El Moktar
+          2	Marigol de Diammél
+          1	Marigot Vourogne
+          1	Marigot de Diamel
+          1	Marigot de Diammél
+          1	Marigot de Gayo
+          2	Marigot de Khar
+          1	Marigot de Ndépeloul
+          1	Marigot de Toulet
+          1	Maroc ⵍⵎⵖⵔⵉⴱ المغرب
+          2	Matam
+          1	Matel
+          1	Maternité Suisse
+          1	Mauretanian military wall
+          1	Mauricana Garage & Training Center
+          1	Mauris Banque
+         40	Mauritania - Western Sahara
+          1	Mauritanie Voyage
+          1	Mbagam
+          1	Mbakhana
+          2	Mbane
+          1	Mbantou
+          1	Mbaré Ba dit Mamadou
+          1	Mbassou
+          1	Mbaye Wade
+          1	Mboubéne Nar
+          1	Mboubéne Peul
+          1	Mboyo
+          1	Mbéra-Aghor
+          1	Mbôlo Birane
+          1	Mechrou Lejwad
+          1	Mega Foot
+          1	Meson d´hotes Jeloua
+          1	Mess6ave
+          1	Meymoune Ould Bilal
+          1	Meïmous
+          1	Mijik ⵎⵉⵊⵉⴽ ميجيك
+          1	Mine Ould Babe
+          1	Ministère Justice
+          1	Ministère de Santé
+          1	Ministère de l'Education Nationale
+          1	Ministère de la Santé et de la Prevention de la Région M
+          1	Ministère des Afaires Islamiques et d'Enseignement Orginal
+          1	Ministère des Affaires Etrangères et de coopération
+          1	Ministère des Finances
+          1	Ministère des affaires sociale et Famille
+          1	Ministére de L'environnemement et du développement
+          1	Ministére de la jeunesse de la culture et de sport
+          1	Ministére des affaires sociales de l'enfance et dce la fam
+          1	Mis bah Voyage
+          1	Moctar Ould Hamidoun
+          1	Modi Arafa
+          1	Modibo Keita
+          1	Mody Fah Seck
+          1	Mogreïn
+          1	Mohamed Abdellahi Ould El Moubareck Ould Yemini
+          1	Mohamed Abdellahi ould El Hacen
+          1	Mohamed Ahmed Vall street
+          1	Mohamed Ben Brahim Boukharouba
+          2	Mohamed Bouna Moctar Ould Mohamed Sid'Ahmed
+          2	Mohamed Cheikh Ould Dide Semlali
+          1	Mohamed Diallo
+          1	Mohamed El Agheb Ould Mayaba
+          2	Mohamed El Moktar Ould Bellaamech
+          2	Mohamed Khatry Ould Segane
+          1	Mohamed Lamine Sakho
+          1	Mohamed Lemine Ould Abdel Haye
+          1	Mohamed Lemine Ould Ahmed
+          1	Mohamed Lemine Ould Bilal Djouly
+          1	Mohamed Lemine Ould Tlamid
+          2	Mohamed Lemine ould Abdel Haye
+          1	Mohamed Mahmoud Ould Deh
+          4	Mohamed Mahmoud Ould Mah
+          1	Mohamed Mahmoud ould Tlamid Terkzi
+          1	Mohamed Maouloud ould Abeid
+          1	Mohamed Ould Abdel Wedoud
+          1	Mohamed Ould Ahmed Aicha
+          1	Mohamed Ould Ghall
+          1	Mohamed Ould Ghnahallah
+          1	Mohamed Ould Haimassou
+          2	Mohamed Ould Haroun
+          1	Mohamed Ould Kh'lil
+          1	Mohamed Ould Khayar
+          1	Mohamed Ould Mohamed Salem El Medelchi
+          1	Mohamed Ould Moulaye Ould Cheikh
+          1	Mohamed Ould Ramdhane
+          1	Mohamed Salah Ould Abdallahi Ould Hamma
+          1	Mohamed Saleck Ould B'Neijara
+          3	Mohamed Teguedi
+          1	Mohamed Vall Ould Moutaly
+          1	Mohamed Yahya El Welati
+          1	Mohameden Ould Ebnou Moghdad Seck
+          1	Mohmed Lemine Ould Cheikh Tendghy
+          1	Moktar Ould Heddar
+          1	Moktar Sow
+          1	Mollé Walo
+          1	Monotel
+          1	Mont Tourniat
+          1	Montagne de Tenamrouret
+          1	Montagne de Zarga
+          1	Montréal
+          1	Monument
+          4	Moroccan Security Wall
+         17	Moroccan Wall
+          1	Mosquee de Guidimpale
+          1	Mosqué de Ngalléle
+          3	Mosquée
+          1	Mosquée Ancien Camp
+          1	Mosquée Douganabé
+          1	Mosquée El Hadj Oumar Tall
+          1	Mosquée Imam Malick
+          1	Mosquée Khouma Mbodjène
+          1	Mosquée Salif Mbengue
+          1	Mosquée de Birgal
+          1	Mosquée de Golminkany
+          1	Mosquée de Golmy
+          1	Mosquée de Gourankanny
+          2	Mosquée de HLM
+          1	Mosquée de Kabou
+          1	Mosquée de Lany-Tounka
+          1	Mosquée de Léboudou Doué
+          1	Mosquée de Mbantou
+          1	Mosquée de Mboyo
+          1	Mosquée de Sikhou Finda
+          1	Mosquée de Toulel
+          1	Mosquée de Yelga
+          1	Mosquée de l'UGB
+          1	Mosquée_de_Tivaoune
+          1	Mouamelat sahiha
+          1	Moudéri
+          1	Mouhameden Ould Sidi Brahim
+          1	Moulaye Ahmed Ould El Gharrabi
+          5	Moulaye El Hacen Ould Moctar El Hacen
+          1	Moulaye Ely Ould Moumenne Ould Moulaye Ismail
+          1	Moulaye Hacen ould Moulaye D'Khil
+          1	Moulaye Ould Boukhreisse
+          1	Moulaye Ould Hacheme Ould Madi
+          1	Moundaye Orgo
+          2	Moustapha Ould Mohamed Saleck
+          1	Médine
+          1	Méry
+          1	N'Beiket Lahwach
+          1	N'Beiket Lehwach
+          1	N'Dar-Toute
+          1	N'Deye Tabara Fall
+          1	N'Diago
+          5	N'Galam
+          1	N1
+          1	NAFADJI
+          1	NEJAH
+          1	NOTAIRE
+          1	NOUGHTA SAKHINA
+          1	Nagi Ould Moustapha
+          1	Nasal pushes
+          3	Natchié
+          1	Ndiafaf Beltyindé
+          1	Ndiafat Sorokoum
+          1	Ndialène
+          1	Ndiangué
+          1	Ndiarol
+          2	Ndiarème
+          1	Ndiaw
+          1	Ndiawdoun
+          1	Ndiaye
+          1	Ndiayene Pendao
+          1	Ndigue
+          1	Ndiébène Gandiol
+          1	Ndoye
+          1	Ne ould Abdel Maleck
+          1	Ngad Ngourane
+          6	Ngalanka
+          1	Ngallèle Sud
+          1	Ngalléle Nord
+          1	Ngona
+          1	Nguidjilone
+          1	Niandane
+          1	Niarwango
+          1	Niawle
+          1	Nice Burger Plus
+          1	Niima
+          1	Nimjat
+          1	Niokolo
+          1	Nioro
+          1	North Bay
+          1	Notaire
+          1	Nourmbos
+          1	Nouvelle Banque Mauritanie
+          1	Nouvelle Quincaillerie
+          1	Ntiagar
+          1	OMRG
+          1	OMS
+          1	OMVS
+          1	ONG CCD
+          1	ONT
+          1	ORCA
+          1	OUMOUNA BOKE DIAMBI
+          1	Oasis
+          1	Oasis Lagueila
+          1	Old Runway
+          1	Oncologie
+          1	Ophthalmological Hospital
+          1	Orstome
+          1	Oréfondé
+          1	Oua Oua
+          1	Ouad Naga
+          1	Ouallah
+          1	Oualtoundé
+          1	Oudei
+          1	Oudeï Hadeï
+          1	Oudourou
+          1	Oued El Hammam
+          1	Oued El Wedhan
+          5	Oued Karakoro
+          2	Oued Karakoro وادي كاراكورو
+          4	Oued Lahraj
+          1	Oued Mreïti
+          1	Oued Niakhlée
+          1	Oued Tenafodh
+          8	Oued Touna
+          1	Oued d'Atar
+          1	Oueringuel
+          1	Ouissalang
+          1	Ouloum Baba
+          1	Oumar Ben Abdel Aziz
+          1	Oumar Ben El Khattab
+          1	Ouro Demba Tilo
+          1	Ouro Djawdi
+          1	Ouâssétâké
+          1	Oûdiâne Dlîm
+          1	Oûdiâne el Mouilihine
+          1	PAF senegalaise
+          2	PAPETERIE
+          1	PAPRTERIE
+          1	PARK
+          1	PDU
+          1	PHARMACIE SY
+          1	PLACE DE TUNISIE
+          1	PMI
+          1	PNBA
+          1	POLICE
+          1	POSTE DE SANTE
+          1	PROSERVICES TOUR
+          1	Palm Tree
+          1	Palmeraie
+          2	Parc national des oiseaux du Djoudj
+          1	Parking du Rectorat
+          2	Passe d'Amogjar
+          1	Passe de Voutche
+          1	Passe d’Amogjar
+          1	Patrice Lumumba
+          1	Paté Galo
+          1	Pavillion de Rene Caillie
+          1	Pavillon M bloc A
+          1	Pavillon M bloc B
+          1	Peintures rupestres Monod
+          1	Petro Dis
+          1	Phamacie EL Ihssane
+          1	Phamacie Hopital National
+          1	Phamacie Idéale
+          1	Phamacie Sahel
+          1	Pharmacie
+          1	Pharmacie Al Hasane Salam
+          1	Pharmacie Amadou
+          1	Pharmacie Averroes
+          1	Pharmacie De l'espoir
+          1	Pharmacie Dr Bedih
+          1	Pharmacie El Avia
+          1	Pharmacie Errava
+          1	Pharmacie Esalama
+          1	Pharmacie Kennedy
+          1	Pharmacie ZEM ZEM
+          1	Pharmacie de Golmy
+          7	Piste de Djoudj
+          1	Piste de Ouadane
+          1	Place Sall Abdel Aziz
+          1	Plateforme des Initiatives du Nord (PINORD)
+          3	Podor
+          1	Podor, gare routière
+          1	Pointe Nord
+          1	Pointe Sud
+          1	Pointe de l´Archimède
+          1	Pointe des Hyènes
+          1	Pointe des Marais
+          1	Pointe du Désert
+          1	Police Economique
+          1	Police Frontaliére de Rosso
+          1	Pont Gadalkhoute
+          1	Poste Police
+          1	Poste de Golmy
+          1	Poste de Police de l'UGB
+          1	Poste de Santé/Marternité de khor
+          1	Poste de la Douane
+          1	Poste de pesage des camions
+          1	Poste de santé
+          1	Poteau 11
+          1	Projet PDIDAS
+          2	Projet SNHLM
+          1	Protection civile
+          1	Province Assa-Zag ⵍⵉⵇⵍⵉⵎ ⵏ ⴰⵙⵙⴰ ⵣ�
+          1	Province d'Aousserd إقليم أوسرد
+          1	Province d'Es-Semara إقليم السمارة
+          1	Province d'Oued Ed-Dahab إقليم وادي الذهب
+          1	Province de Boujdour إقليم بوجدور
+          1	Provinces du Sud أقاليم جنوبية
+          1	Prytanée Militaire Charles N'tchoréré de Saint Louis
+          1	Préfet
+          1	Puits du Khat
+          1	PÂTISSERIE LES PRINCES
+          1	Qatar
+          5	Quai Bacar Waly Gueye
+          1	Quai Des Arts Saint-Louis
+          1	Quai Henry Jay
+          1	Quai Masseck Ndiaye
+          3	Quai Roume
+          2	Quai Sud
+          1	Queue des Sfariat
+          1	Quincaillerie Ali Imrane
+          1	Quincaillerie Cité des Eaux
+          1	Quincaillerie Sahara
+          1	Quincaillerie Wakeur Serigne Babacar Sy
+          1	RAM
+          1	REPRESENTATION SNIM
+          1	RESTAURANT
+          1	RIM Assurance
+          1	RIM Oil
+          1	RN2-Résidences
+          1	Rababs
+          1	Raha Voyage
+          1	Ranch de Bango
+          1	Rao
+          1	Rashid قرية الرشيد
+          1	Rawét
+          1	Rectorat
+          1	Rectorat De L'Université Gaston Berger
+          1	Reggane
+          1	Relais SAED nianga
+          1	Reservoir Eau
+          1	Residence Arc-en-Ciel
+          1	Restaurant 1 salle 1
+          1	Restaurant 1 salle 2
+          1	Restaurant 1 salle 3
+          1	Restaurant 1 salle 4
+          1	Restaurant Bab Marrakech
+          1	Restaurant Dagana
+          1	Restaurant Darou Salam
+          1	Restaurant Fast-food TERAL
+          1	Restaurant Le Prince
+          1	Restaurant Yaye Abba
+          1	Restaurant compexe Yaye Abba AFC
+          1	Restaurant universitaire numero 2
+          6	Restricted Area
+          1	Rhone El Debouback
+          1	Richard-Toll
+          1	Rim Oil
+          1	RimTech
+          1	Rkine Matériaux Succursale
+          1	Road maintenance base
+          2	Ronkh
+          1	Rosso Peulh
+          2	Rosso Sénégal
+          1	Rosso Sénégal, Gare routiére
+          1	Route Boutilimit - Rosso
+          1	Route de Mbéra à Legara
+          1	Route de Nouakchott
+          3	Route de Rosso
+          1	Route peintures rupestres
+          1	Route vers Azougui
+          3	Rue Abdoulaye Mar Diop
+          1	Rue El Hadji Seydou Nourou Tall
+          1	Rue GMB-07
+          1	Rue GMB-08
+          1	Rue GMB-09
+          1	Rue GMB-10
+          1	Rue GMB-100
+          1	Rue GMB-102
+          1	Rue GMB-103
+          1	Rue GMB-104
+          1	Rue GMB-105
+          1	Rue GMB-106
+          1	Rue GMB-107
+          1	Rue GMB-108
+          1	Rue GMB-109
+          1	Rue GMB-11
+          1	Rue GMB-110
+          1	Rue GMB-111
+          2	Rue GMB-112
+          1	Rue GMB-113
+          3	Rue GMB-114
+          1	Rue GMB-116
+          1	Rue GMB-117
+          1	Rue GMB-118
+          1	Rue GMB-12
+          1	Rue GMB-120
+          1	Rue GMB-13
+          1	Rue GMB-14
+          1	Rue GMB-15
+          1	Rue GMB-16
+          1	Rue GMB-19
+          1	Rue GMB-21
+          1	Rue GMB-22
+          1	Rue GMB-23
+          1	Rue GMB-24
+          1	Rue GMB-25
+          1	Rue GMB-26
+          1	Rue GMB-27
+          1	Rue GMB-28
+          1	Rue GMB-29
+          2	Rue GMB-30
+          1	Rue GMB-31
+          1	Rue GMB-33
+          1	Rue GMB-35
+          1	Rue GMB-37
+          1	Rue GMB-39
+          3	Rue GMB-40
+          3	Rue GMB-45
+          4	Rue GMB-48
+          1	Rue GMB-50
+          1	Rue GMB-51
+          1	Rue GMB-52
+          1	Rue GMB-53
+          1	Rue GMB-54
+          1	Rue GMB-56
+          1	Rue GMB-58
+          1	Rue GMB-6
+          1	Rue GMB-60
+          1	Rue GMB-62
+          1	Rue GMB-64
+          1	Rue GMB-66
+          1	Rue GMB-68
+          1	Rue GMB-70
+          1	Rue GMB-71
+          1	Rue GMB-72
+          1	Rue GMB-73
+          1	Rue GMB-74
+          1	Rue GMB-76
+          1	Rue GMB-77
+          1	Rue GMB-79
+          1	Rue GMB-80
+          1	Rue GMB-82
+          1	Rue GMB-83
+          1	Rue GMB-84
+          1	Rue GMB-85
+          1	Rue GMB-86
+          1	Rue GMB-88
+          1	Rue GMB-90
+          1	Rue GMB-91
+          1	Rue GMB-92
+          1	Rue GMB-93
+          1	Rue GMB-94
+          1	Rue GMB-95
+          1	Rue GMB-96
+          1	Rue GMB-98
+          1	Rue GND-37
+          2	Rue Henry Jay
+          1	Rue IN-05
+          1	Rue IN-56
+          1	Rue IN-66
+          1	Rue IN-68
+          1	Rue KE-07
+          1	Rue KE-08
+          1	Rue KE-09
+          1	Rue KE-10
+          1	Rue KE-15
+          1	Rue KE-19
+          1	Rue KE-21
+          1	Rue KE-29
+          1	Rue KE-31
+          1	Rue KE-33
+          1	Rue KE-35
+          1	Rue KU-18
+          1	Rue KU-21
+          1	Rue KU-25
+          1	Rue KU-27
+          1	Rue KU-29
+          1	Rue Khalifa Ababacar Sy
+          1	Rue Lumumba
+          1	Rue Monotel
+          2	Rue NDT-05
+          3	Rue Place Bafoulabe
+          2	Rue Potier
+          1	Rue de France
+          2	Rue due Général de Gaulle
+          1	Région Ile de France
+          1	Région médicale
+          1	S.A.E.D.
+          1	SABIL SALAM WAL FALAH:LAKANGUEMOU I [1er C]
+          1	SABIL SALAM WAL FALAH:LAKANGUEMOU I [2ème C]
+          2	SAED
+          1	SALAM
+          1	SANSANGUE
+          1	SCL
+          1	SECTION GÉOGRAPHIE LSH
+          1	SEMIRAMIS
+          1	SMAR
+          1	SMH
+          1	SNDE
+          1	SNDE Arafat
+          1	SNIM
+          1	SORECI
+          1	SOUENA SOUMARE
+          1	SUPER MARCHE Auchan
+          1	Saad Bouh Ould Eebade
+          2	Sadigui Bocar Ciré
+          1	Sadél
+          1	Safima carreaux import export
+          1	Sahara
+          1	Sahara Voyage
+          3	Saint-Louis
+          3	Saldé
+          1	Sall Amadou Clédor
+          1	Salle c25
+          1	Salon Awa Fashion
+          1	Salon de coiffure homme
+          1	Samba
+          1	Samba Dieng
+          1	Samba Gandéga
+          2	Samba Guéla Diédi
+          3	Samba Ould Snih
+          1	Sambowté
+          1	Samory Ould Barhoum
+          2	Samoury Touré
+          1	Sanar
+          1	Sanar Peul
+          2	Santhiaba
+          1	Santé
+          1	Santé délegation
+          1	Saré Souki
+          1	Saveur d'Afrique
+          2	Sebhka Oumm el Drous Guébli
+          2	Sebjet Um Drus Sahlia
+          1	Sebket el Guelb
+          2	Sebkha Aroueïdil
+          2	Sebkha Oumm El Drous Telli
+          2	Sebkhet Taguilalet
+          1	Sebkhet Tourassine
+          2	Sebkhet ej Jill
+          2	Seck Mame Diack
+          1	Secrétariat permanent du G5 Sahel
+          1	Sed Loueid
+          1	Sel Aurich
+          1	Serpoli
+          1	Service Medical des Etudiants de l'Université Gaston Berge
+          1	Service Médical
+          1	Seye Ordi
+          1	Seye Service
+          1	Sfariat Ridge
+          1	Shell
+          2	Sid Ely Ould Assas
+          1	Sid'Ahme Ould HMeyada
+          1	Sid'Ahmed Oud Aida
+          1	Sid'Ahmed Ould Hamdinou
+          1	Sid'Ahmed Ould Khyar
+          1	Sid'Ahmed Ould Lab
+          3	Sid'Ahmed Ould Taya
+          1	Sid'Ahmed ould Lehbib
+          1	Sid'Ahmed ould Noby
+          1	Sid'El Moktar Ould Yahya N'diaye
+          1	Sidi Abdoullah Ould El Hadj Brahim
+          2	Sidi Bouna Ould Sidi
+          1	Sidi M'Bareck Ould Ahmed Baba
+          1	Sidi Med Ahmed Vall street
+          1	Sidi Mohamed Diagana
+          1	Sidi Mohamed Ould Abass
+          1	Sidi Mohamed ould Abass
+          1	Sidi Ould Hanenne
+          1	Sidi Ould Moulaye Zeine
+          1	Sidi Yahya El Kebir
+          1	Sidina Ould Dhib
+          2	Sidina Ould Sidiya
+          1	Sidna Ould Cheikh Taleb Bouya
+          1	Silbé
+          1	Silla
+          1	Silla Ouorgo
+          1	Sintiou Boummaka
+          1	Sintiou Dangdé
+          1	Sintiou Diamdioré
+          1	Sister Création couture
+          1	Siwré
+          1	Smagec - Moteurs Eléctriques
+          1	Société Anonyme Assurance et de Réassurance
+          2	Société Générale
+          1	Société Mauritanienne d'Electricité
+          1	Société des Tomates Séchées
+          1	Sonimex
+          1	Sope Naby
+          2	Soueidatt Ould Waddade
+          1	Soufa
+          1	Souima
+          1	Souk Dubai, Maché Dubai,سوق دبـــــــي
+          1	Souleymane Ould Cheikh Sidya
+          2	Soumaré Fatima
+          1	Sounnatou
+          1	Souraye
+          1	Souspréfecture de Mbane
+          1	Sphinx de la baie de l'Etoile
+          1	Stade Municipal de Richard Toll
+          1	Stade de Matam
+          2	Star
+          1	Statin Hindou
+          3	Station Chalket El Imane
+          1	Station EDK
+          1	Station Elton
+          1	Station SHELL
+          1	Station Service NP
+          1	Station de pompage
+          1	Station eau potable
+          1	Station pluviométrique de Guédé
+          1	Station régionale RTS Saint Louis
+          1	Ségala
+          1	Ségala - Gadiaga (1er & 2ème cycles)
+          1	Ségou
+          1	Ségou - Tombouctou
+          1	Sélifély
+          4	Sénégal
+          1	Sénégal (Petit Bras)
+         24	Sénégal السنغال
+          4	Sénégal نهر السنغال
+          1	Sérotandi
+          1	Sérouga
+          1	TAFACIRGA [1er C].
+          1	TAFACIRGA [2ème C] (RG)
+          1	TATA SUPER MARCHE
+          1	TFEILA Hôtel
+          1	TICHY AMBIDEDI [2ème C]
+          1	TICHY-AMBIDEDI
+          1	TOP TECHNOLOGY
+          1	Tab El Hadj
+          1	Taba Ahmétou
+          1	Taba Darou Salam
+          1	Taba El Youloul
+          1	Taba Tach
+          1	Taba Treize
+          1	Tabbal
+          1	Tachoot
+          1	Tafacirga
+          1	Tafara
+          1	Tafara kô
+          1	Tagorarit Salt Lake
+          1	Tagoujalet
+          1	Taief
+          1	Taki Ould Sidi
+          1	Tamazgha ⵜⴰⵎⴰⵣⵖⴰ تمازغا
+          1	Tambacounda
+          1	Tamourt Naaj
+          1	Tamsagout
+          1	Tamsogout
+          1	Tanja Voyages
+          4	Taouey
+          1	Tarf Garn Thour
+          1	Taskaye
+          4	Tchangol Bale
+          3	Ten Aloul
+          1	Tenadi Tours
+          1	Tene Youssouf Gueye
+          1	Tenoumer
+          1	Teral
+          1	Terrain Tour de l'Oeuf
+          1	Terrain Valentin
+          1	Terrain Valentin 2
+          1	Terrain de football
+          1	Territory inside Moroccan Security Wall by Sep 1985
+          1	Territory inside Moroccan Security Walll by Jan 1984
+          1	Tessot
+          2	Thierno Kalidou Ben Oumar Ly
+          1	Thierno N'diaye Ba
+          1	Thierno Ousmane Ba
+          2	Thillé Boubacar
+          1	Thioubalel Lao
+          1	Thyli
+          1	Tiamala
+          1	Tiaski
+          1	Tichla ⵜⵉⵛⵍⴰ تشلا
+          3	Tidjikja تجكجة
+          1	Tifariti ⵜⵉⴼⴰⵔⵉⵜⵉ تيفاريتي
+          1	Tiguèt
+          1	Tijary Banque
+          1	Tindouf
+          1	Tindouf تندوف
+          1	Tiourébougou
+          1	Tiwilit
+          2	Tiélaw
+          1	Tiéli Mayil
+          2	Tokossel Sy
+          1	Tombouctou
+          2	Total
+          1	Touba Keur Serigne Saliou
+          1	Toufadé Bali
+          1	Tour de l'Oeuf
+          1	Tourade Kamara
+          1	Tourassine
+          1	Trans-African Highway 1 (Senegal)
+          1	Transfert d'argent
+          1	Trech Peul
+          1	Tresor
+          1	Tubao
+          1	Tunis air
+          1	Turkya Daddah
+          1	Télédiffusion de Mauritanie
+          1	UFR SEFS
+          1	UGB 2
+          1	UMA
+          1	Uad el Aabd
+          1	Ufr crac
+          1	Université Gaston-Berger
+          1	Usine SCL
+          1	VILLES ANCIENNES
+          1	Vending
+          1	Verma
+          1	Veten Ould Moulaye
+          1	Village A
+          1	Village B
+          1	Village C
+          1	Village D
+          1	Village F
+          1	Village G
+          2	Village H
+          1	Village I
+          1	Village J
+          1	Village K
+          2	Village L
+          1	Village M
+          1	Village N
+          1	Village O
+          1	Vulganisateur
+          1	Véndou Kanél
+          1	WAÏNKANOU
+          1	WaKeur Amineta DIOP Ndar
+          1	Walaldé
+          1	Wali Diala
+          2	Wane Birane
+          1	Waoundé
+          1	Waraba
+          2	Wassoul
+          1	Werekoura وركورا
+          1	Wilaya sud
+          1	Wodosse
+          1	Wouro kéllé
+          2	Yacoub Ould Cheikh Sidya
+          1	Yafera
+          1	Yahya Ould Bouamatou
+          1	Yassiré Laké
+          1	Youba et Oumar (Ba et Frére)
+          1	Youba ould Abdi
+          1	Youssouf Tandia
+          1	Yélimané
+          1	Yélingara
+          1	Zahra
+          1	Zein Ould Abghary
+          1	Zoug ⵣⵓⴳ الزوگ
+          1	Zîret Sahabé Dunes
+          1	allées
+          2	allées du Restaurant numero 2
+          2	allées du complexe sportif
+          1	ancient roadway
+         12	arbre
+          3	arret
+          2	arrêt
+          2	boutique
+          1	cabinet dentaire Siam
+          1	camp sapeur
+          1	carfour sabah
+          1	caïdat d'Aghouinite
+          1	caïdat d'Al Mahbass
+          1	caïdat d'Amgala
+          1	caïdat d'Gleibat El Foula
+          1	caïdat de Bir Gandouz القيادة بئر كندوز
+          1	caïdat de Gueltat Zemour
+          1	caïdat de Jdiriya
+          1	caïdat de Mijik
+          1	caïdat de Tichla
+          1	caïdat de Tifariti
+          1	caïdat de Zoug
+          1	cercle d'Aousserd
+          1	cercle de Bir Anzarane
+          1	cercle de Bir Gandouz دائرة بئر كندوز
+          1	cercle de Es-Semara
+          1	cercle de Jraifia
+          1	cercle de Zag
+          1	champs
+          1	chateau d'eau de Rosso
+          1	cheikhna Ould Mohamed Laghdaf
+          2	chemins du pavillon M vers bloc A
+          1	chez Abo
+          1	cimetiere
+          1	cimetière
+          1	circonscription administrative Bordj Badji Mokhtar
+          1	city centre
+          1	ciwré
+          2	cliff
+          1	coiffeur
+          1	college
+          1	cosmetique golob one
+          1	digarelle
+          1	ecole primaire
+          1	fleuve
+          1	garage taxi clando
+          1	gite les grands hommes
+          1	grand mosquée
+          1	highway
+          1	immeuble SNIM
+          1	khayraty
+          2	khouma Mbodjène
+          1	la Caverne d'Ali Baba
+          1	la Passe d'El Mezzine
+          1	la grande dune d'Azouiga
+          1	la passe de Tivoujar
+          1	laboratoire
+          1	land
+          1	lycée privée commercial et industriel
+         77	maison
+          4	mangier
+          2	marché de khouma
+          1	mosquée Laboyabé
+          1	mosquée el Khoudous
+          1	ndierba
+          3	pallel
+          1	pharmacie
+          1	pharmacie Diyé Ba Bocoum
+          1	point d'eau
+          1	poste de santé
+          1	poste police
+         19	primaire
+          1	puit demba ablaye
+          1	raccourci
+          1	restaurant dounya
+         11	secondaire
+          1	sitronier
+          1	somalec
+          2	sonadere
+          1	sonelec 5eme
+          1	sonelec sebkha
+          1	sortie vers boguel
+          1	stade de footballe
+          1	survey
+          1	terrain campus 2
+          1	terrain collège
+          1	territories inside moroccan wall
+          1	tour de l'oeuf
+          1	tribunal de sebkha
+          1	ugb
+          2	unknown
+          1	usine de traitement des eaux
+          1	village en construction
+          1	º
+          1	École Daroul Attakawa Bilikoïté
+          1	École Oasis Books
+          1	École chams dine
+          1	École de Bilikoïté
+          1	École de Sélifély
+          1	École de Tafara
+          3	École primaire
+          1	École primaire II
+          1	École primaire d'El Gueleita المدرسة الابتدا
+          1	École primaire de Garalla
+          1	École primaire de Léboudou Doué
+          1	École primaire de Taskaye
+          1	École primairre de Sed Loueid
+          1	École primiare de Gouthioube
+          1	École sécondaire de Sélifély
+          1	École Élémentaire Goxumbacc 2
+          1	Église catholique de Nouakchott
+          1	Île Bamba
+          1	Île Nord
+          1	Île de N'Thieng
+          1	Île de Roup
+          1	Île de Saint-Louis
+          1	Île de Sor
+          1	Île de Tiong
+          1	Île à Morfil
+          7	آزوكي
+          4	آمرج
+          1	أ 20
+          1	أ 21
+          2	أبو بكر غاي
+          3	أبو بيكر بن عامر
+          2	أبو ظبي
+          1	أبيدجان
+          1	أحمد بيزيد ولد بريكالا
+          1	أحمد سالم ولد سيبوت
+          1	أحمد ولد بكر سويد
+          1	أحمد ولد بوسيف
+          1	أحمد ولد جعفر
+          1	أحمد ولد داه
+          2	أحمد ولد محمد
+          2	أحمد ولد منيه
+          1	أحمد ولد هرما ولد باباني
+          1	أحمدو ولد عبد الله
+          2	أداباي
+          1	أدار
+          1	أدت
+          1	أدرار
+          2	أر
+          1	أرتيمو
+          1	أرغين
+          1	أسمنت الموريتاني الفرنسي
+          6	أطار
+          1	أطلس الجليد
+          1	أعلى الطازجة
+          2	أغشوركيت
+          2	أفوينات
+          1	أكادير
+          2	أكجوجت
+          2	أكوئنيت
+          3	ألاك
+          1	ألمانيا
+          1	أم سرياه
+          3	أم غريدات
+          2	أمادو موسى
+          1	أماشمينت عمار تيشيتx
+          2	أمحيرث
+          1	أمكستاب
+          2	أملامهار
+          1	أمن الحدود - مكتب التأشيرات ٠١
+          1	أندو
+          1	أندونيسيا
+          1	أهل الشيخ
+          1	أهل باب النباغية
+          1	أهل ديداه ولد بيب
+          1	أهل سليمان عماد
+          1	أهل لخديم
+          1	أهل محمد ماء العينين
+          1	أهل محمد ملعينين ولد خطراتي
+          1	أورا نانك
+          1	أورانانك
+          2	أورو هايري
+          1	أوكر
+          1	أوكي
+          1	أولو أولوغو
+          2	أولو أولوغو الاحتياطي
+          1	أيمي امسيرا
+          1	إبراهيما كين
+          1	إتويميرت
+          1	إدفييا
+          2	إديني
+          1	إس أ إمبكس تشينج إس أ
+          1	إسبانيا
+          1	إستراها أجيجا عودة ٠٤٠٣١٧
+          3	إعادة هيكلة المنطقة
+          2	إغرم
+          1	إفدارن
+          1	إقامة المذرذرة
+          1	إليمان أبو كين
+          1	إم سي أر ش.م.م. ميشلان
+          3	إنال
+          1	إنتاكات
+          2	إنتكمكمت
+          1	إنتيربيسكا فريكو
+          2	إهل باريك
+          1	إوي
+          2	إيجناون
+          2	إيران
+          1	إيطاليا
+          1	إيمان
+          2	إينشيري
+          2	ابن سينا
+          1	ابن ولد الصليحي
+          3	ابو بكر الصديق
+          1	اتحاد العمال الموريتانيين
+          2	اتكلالت
+          3	اتميمشات
+          3	اتواجيل
+          2	اجویر
+          1	احسي الكردان
+          1	اذاعة موريتانيا
+          1	ارف - مستودعات
+          2	اركيز
+          1	استثمار بنك التسليف ألاك
+          1	استراحة
+          1	استقلال
+          1	اسفايا
+          3	افديرك
+          1	الأراضي داخل الجدار الأمني المغ�
+          1	الأغ
+          1	الأمم المتحدة
+          1	الأولمبيك علي (السلوقي خليج)
+          1	الإدارة
+          1	الإدارة العامة للأمن الوطني
+          1	الإدارة العامة للجمارك
+          1	الإذاعة الإقليمية أطار
+          1	الإقامة سرور
+          2	الإقامة والي
+          1	الإنسانية الصيدلة
+          2	الاتحاد الأفريقي
+          3	الاتحاد الأوروبي
+          1	الاتحادية الوطنية لكرة القدم
+          1	الاستاد الاولمبي
+          1	الاكتشافات
+          1	البتيك في الطينطان
+          1	البرازيل
+          1	البراكنة
+          1	البرتغال
+          1	البرك
+          1	البنك الدولي
+          3	البنك المغربي للتجارة و الصناعة
+          1	البنك المغربي للتجارة و الصناعة 
+          1	البنك المغربي للتجارة والصناعة
+          1	البنك المغربي للتجارة والصناعة �
+          1	البنك الموريتاني للتجارة الدولي
+          2	البنك الوطني الموريتاني
+          1	البنك الوطني لموريتانيا سيليباب
+          1	البوريا
+          1	البيت البرتغالي
+          1	التجاري بنك
+          1	التجارية مدرسة ثانوية
+          1	الترارزة
+          1	الترحيل
+          1	التسجيل الوكالة الوطنية للسكان �
+          1	التعاون الإسباني
+          1	التعليم العالي
+          1	التلفزيون الوطني
+          1	التلقيح الاصطناعي
+          1	التمثيل البنك الاهلى موريتانيا
+          1	التمثيل بانك التجارة و الطناعة
+          3	التيدرة
+          1	الثانوية الفنية
+          1	الجامع العتيق
+          1	الجامع الكبير كيفة
+          1	الجامعة اللبنانية الدولية
+         24	الجدار الأمني المغربي
+          3	الجدار العسكري موريتانيان
+          2	الجدار المغربي
+          1	الجدران المغربية
+          1	الجدول الدراسي
+          1	الجديدة
+          1	الجديدة اولاد منصور بن عبد الله
+          2	الجزائر
+          1	الجمارك
+          1	الجمارك موريتانيا
+          1	الجماعة الحضرية نواكشوط
+          2	الجمعة
+          2	الجمعية الوطنية
+          1	الجمهورية العربية الصحراوية الد
+          2	الجنرال شارل ديغول
+          1	الجو
+          1	الحاج الشيخ إبراهيم نياس
+          3	الحاج محمد سعيد با
+          1	الحاج ولد فحوفو
+          1	الحاكم
+          4	الحالة المدنية
+          1	الحانة شنقيط
+          1	الحرس الوطني
+          1	الحرف المدرسة
+          1	الحرف عادلة
+          5	الحزام الأخضر
+          1	الحسين بن طلال
+          1	الحوت بيتش
+          2	الحوض الشرقي
+          1	الحوض الغربي
+          1	الحي العسكري
+          1	الحيتان
+          2	الخرطوم
+          1	الخشب معرض الغابات
+          1	الخوارة
+          1	الخيار الصحيح
+          1	الدائرة اركيز
+          2	الدار البيضاء
+          1	الدرك
+          1	الدرك الوطني
+          1	الدوحة
+          1	الديوان الوطني للإحصائيات
+          1	الرابطة الوطنية لكرة الرعوية
+          1	الراهب ختم الحماية
+          1	الرباط
+          1	الربينه
+          1	الرياض
+          1	الزعتر
+          3	الزويرات
+          2	الزويرات‎
+          1	السبخة
+          1	السجن المدني
+          1	السفارة التونسية
+          2	السفارة الروسية
+          1	السفارة الليبية
+          5	السنغال
+          1	السنغال Le Sénégal
+          2	السنغال Sénégal
+          1	السودان
+          1	السوق
+          1	السوق آمرج
+          1	السوق أطار
+          1	السوق الجديدة
+          1	السوق المركزي القصيبة
+          1	السوق امبوت
+          1	السوق باركيول
+          1	السوق تمبدغة
+          1	السوق روصو المركزي
+          1	السوق كنكوصه
+          1	السوق كوباني
+          1	السوق موبيدوغو
+          3	الشركة الموريتانية للبريد
+          1	الشركة الموريتانية للكهرباء
+          1	الشركة الوطنية للصناعة والمناجم
+          2	الشيخ أحمد عبي الملي
+          1	الشيخ الخطاط أبي
+          2	الشيخ جابر الأحمد الصباح
+          1	الشيخ عمر الفوتيو طعل
+          1	الشيخ محمد الأمين ولد الزيني الغ
+          1	الشيخ محمد اللمين ولد سيدي محمد
+          1	الصحراء الغربية
+          1	الصحراء المغربية (الأراضي الخاض�
+          1	الصحوة
+          1	الصندوق الوطني للتأمين على المر�
+          1	الصومالية ليك
+          1	الصيدلة النجاح
+          1	الصيدلة شفاء ٢
+          1	الصين
+          1	الطريق إلى اوجفت
+          2	الطريق الاسباني القديم
+          1	الطريق السريع عبر أفريقيا 1 (موري
+          1	الطريق السريع عبر أفريقيا ١ (الم�
+         11	الطريق السيار نواذيبو
+          4	الطريق الوطني رقم  2
+          2	الطريق الوطني رقم 2
+          3	الطريق الوطنية رقم 1
+         14	الطريق الوطنية رقم 2
+          5	الطريق الوطنية رقم 3
+          1	الطريق اوجفت
+          1	الطريق باسكنو-كوسانا
+          1	الطريق باسكنو-مبرا
+          3	الطريق بوتلميت - روسو
+         17	الطريق تجكجة
+          2	الطريق روصو
+          3	الطريق في آزوكي
+          1	الطريق في شنقيط
+          5	الطريق في شوم
+          1	الطريق مبرا-فاسالا
+         14	الطريق نواكشوط
+          1	العبارة روصو Bac de Rosso
+          2	العراق
+          1	العربي
+          1	العربية السعودية
+          1	العصابة
+          1	العقيد سيدي ولد مولاي علي
+          3	العيون
+          1	الغريب
+          1	الفالوجا
+          1	الفردوس
+          1	الفيدا
+          1	القبطان جي
+         10	القدس
+          1	القديمة
+          1	القصر
+          1	القصر الرئاسي
+          2	القصيبة
+          1	القلعة الأسبانية القديمة
+          1	القهوة الإمبراطورية
+          1	الكابتن ميد ولد عمير
+          1	الكابتن ميد ولد عودة
+          1	الكاف
+          1	الكصعة
+          1	الكلاب السلوقية شي علي التخييم خ
+          1	الكوليمبيني
+          1	الكونغو الديمقراطية
+          1	الكونغو برازافيل
+          1	الكويت
+          2	الكويرة
+          1	الكيشوت
+          1	اللجنة الدائمة المشتركة بين الد�
+          1	اللوحات مغاربي
+          1	المالح
+          1	المامغار
+          3	المبروك
+          1	المتحف الوطني
+          1	المتياسر
+          1	المجلس الدائم للفرنكفونية
+          1	المجمع الثقافي للشيخ سيد احمد بن
+          1	المحكمة
+          1	المحلات التجارية
+          1	المحمدية
+          6	المختار ولد داداه
+          1	المدرسة الابتدائية
+          1	المدرسة المتعددة التكنولوجية
+          1	المدرسة الوطنية العليا
+          1	المدرسة الوطنية للشرطة
+          1	المدرسة الوطنية للنقل البحري وا�
+          1	المدرسة رقم ١٠
+          1	المدرسة رقم ٩
+          1	المديرية الجهوية للتعليم
+          1	المدينة
+          1	المدينة المنورة
+          2	المذرذرة
+          1	المذرذرة-روصو
+          1	المرافق الإدارية
+          1	المركز الصحي السويسري
+          1	المسار الإمبراطوري
+          1	المستشفى الوطني
+          2	المسجد
+          1	المسجد الأبيض
+          1	المسجد التلي
+          1	المسجد الجامع
+          1	المسجد الرئيسي سيلسفيلي
+          1	المسجد الشرقي
+          1	المسجد القبلي ومحظرته
+          1	المسجد الكبير
+          1	المسجد الكبير أطار
+          1	المسجد الكبير القصيبة
+          1	المسجد الكبير النعمة
+          1	المسجد الكبير امبوت
+          1	المسجد الكبير بابابى
+          1	المسجد الكبير جول
+          1	المسجد الكبير شنقيط
+          1	المسجد الكبير واد الناقة
+          1	المسجد روصو الكبير
+          1	المطاعم والمطاعم موناكو
+          1	المعهد العالي الإنجليزية
+          1	المعهد العالي للتعليم التكنولوج
+          1	المعهد العالي للدراسات والبحوث �
+          1	المغرب
+          1	المفترق
+          1	المقعد المركزي
+          1	المكتبة الوطنية
+          1	الملحق إيمان
+          1	الملحق كلية
+          2	الملعب البلدي
+          1	المنزل دار نايم
+          1	المنظمة العربية للتنمية الزراعي
+          1	المنظمة الوطنية لسلامة الطرق
+          2	المودر
+          1	المياه الإقليمية للصحراء الغربي
+          1	الميعاد
+          1	الميمون
+          1	الميناء
+          1	الناعم
+          2	النباغية
+          1	النخلتين
+          1	النعمة
+          1	النعمه
+          2	النعيمات
+          2	النقيب نيانك إبرا
+          1	الهجين نواكشوط المركزية
+          1	الهند
+          1	الودائع والتنمية
+          1	الوزارات
+          1	الوزارة الأولى
+          1	الوكالة الوطنية لترقية تشغيل ال�
+          1	الولايات المتحدة الأمريكية
+          1	اليابان
+          1	اليمن
+          1	اماودات
+          2	امباني
+          2	امباني بوجي
+          2	امبتو
+          1	امبلل
+          3	امبوت
+          1	امرئرا
+          1	امي تونسي
+          2	انتوفكت
+          2	انتير
+          1	انتيشط
+          2	انجاكو
+          1	اندواس
+          1	اندومري
+          1	انديرول
+          2	انديو أركو
+          2	انديو ريو
+          2	اندييمار
+          1	انكالك
+          1	انكرل
+          3	اوجفت
+          3	بئر الخير
+          2	بئر مغرين
+          1	با أمادو ديادي
+          1	با الحسن امبكو
+          2	باب الفتح
+          2	بابابى
+          1	باباكار فال
+          2	باتوكون
+          2	باركال
+          3	باركيول
+          2	باريس
+          2	باسكنو
+          1	باسكنو-كوسانا
+          1	باسكنو-مبرا
+          1	باشوية الكويرة
+          2	بافريشية
+          1	باكستان
+          1	باكي بالد
+          2	باماكو
+          1	باميس
+          1	بانغي
+          1	بانك الوفاء الموريتاني الإسلامي
+          2	بايو
+          1	بتافراوت
+          1	بتروناس
+          1	بتيدومة
+          1	بجامز
+          1	بحديدة
+          1	بحيرات ألاك
+          2	بحيرة ألاك
+          1	بحيرة فوم غليتا
+          1	بحيرة كاو
+          2	برازافيل
+          1	برج البحرية
+          1	برج العالم
+          1	برج المياه
+          3	بركة كنكوصه
+          1	برلين
+          1	برن
+          1	برنامج الأغذية العالمي
+          1	برنامج الأمم المتحدة الإنمائي
+          1	برنامج التنمية المستدامة واحة
+          1	بروكسل
+          1	برينة
+          1	بستان النخيل اوجفت
+          1	بستان النخيل تونكاد
+          1	بستان النخيل تيكيمكمت
+          1	بستان النخيل لكليتات
+          1	بستان النخيل لميلاه
+          1	بستان النخيل مداح
+          1	بسي بانك
+          1	بطاقة فيزا البنك
+          2	بغداد
+          1	بقالة
+          1	بقالة الدعاة
+          1	بقالة اولا موساني
+          2	بكي همت
+          1	بكين
+          1	بل غردان
+          1	بلادي
+          1	بلال ولد يمر
+          2	بلانا
+          1	بلجيكا
+          1	بلدية افديرك
+          1	بلغربان
+          1	بلواخ
+          1	بنات مدرسة ثانوية
+          2	بنشاب
+          1	بنك االئتمان واالستثمار
+          1	بنك ادخار كانيك
+          1	بنك اسبانيا
+          1	بنك الطعام
+          1	بنك شنقيط
+          2	بهر اركيز
+          1	بو أحديد
+          1	بو الموهو
+          2	بو انوار
+          1	بو درغ
+          1	بوانزي
+          1	بوب
+          2	بوباكار
+          2	بوتاندا
+          3	بوتلميت
+          1	بوتيك البنك
+          1	بوحديدة
+          1	بورصة السيارات
+          1	بوسديرة
+          2	بوصطيلة
+          4	بوغي
+          1	بوغيغا
+          1	بوكادوم
+          1	بولو دوكو
+          4	بولي
+          3	بوينس آيرس
+          1	بويو
+          2	بي ولد ني
+          1	بيت بلال سامبا فال
+          1	بيت شرائح اللحم
+          1	بيت صناع السينما
+          1	بيديام
+          1	بير مغرين
+          1	بيزرنو
+          1	بيسو
+          1	بيونغ يانغ
+          1	تازيازت
+          1	تافاريت
+          1	تاكو
+          2	تاكوتالا
+          1	تالهايا
+          1	تامباس
+          1	تامريكت
+          3	تامشكط
+          1	تانوشرت
+          2	تايارت
+          4	تجكجة
+          1	تجيد
+          1	تحالف
+          4	تحديد الساحلية
+          1	تخصصات المستشفى
+          1	تخييم
+          2	ترجيت
+          1	تروان
+          1	تريد
+          1	تريق البدع
+          2	تستائ
+          1	تسجيل السيارة
+          1	تسيم
+          1	تشت
+          2	تصفيف الشعر ليزهار
+          1	تفرغ زينة
+          1	تقاطع طرق باماكو
+          1	تقاطع طرق معرض
+          1	تقاطع كوبني
+          1	تكانت
+          1	تكماطين
+          3	تكنت
+          2	تمبدغة
+          2	تمبيعلي
+          1	تميز مدرسة ثانوية
+          1	تن اسويلم
+          1	تناد
+          1	تناد ٢
+          1	تنبدار
+          1	تنتمدج
+          1	تنغادي
+          1	تنيارغ
+          1	تنييره
+          1	تو كينجي
+          1	توجنين
+          1	توجنين صيدلية الرحمات
+          1	توسان
+          2	تولل
+          1	تومبيري جينكي
+          1	تونس
+          2	تونكاد
+          1	تويدرمي
+          1	توير كليري
+          1	تيارت
+          1	تيانل باركيول
+          2	تيربان
+          2	تيرس زمور
+          1	تيريس
+          1	تيشلاف
+          2	تيشيت‎‎
+          1	تيغل امباني
+          1	تيفكين
+          1	تيفيكين
+          2	تيكان
+          2	تيكنال
+          2	تينكان
+          1	تينيبار
+          2	تيونغ
+          1	تييكت
+          2	تيينل
+          1	ثام تيام
+          1	جالت أهل محمد
+          1	جامع الأوابين
+          1	جامع الإمام علي كرم الله وجهه
+          1	جامع الربيع
+          1	جامع الرضوان
+          1	جامع الصفا والامان
+          6	جامع العتيق كانصادو
+          1	جامع العون
+          1	جامع عائشة بنت أبي بكر الصديق
+          1	جامع نصرة الحبيب
+          1	جامع ومحظرة
+          1	جامعة العربية
+          2	جامعة نواكشوط
+         31	جدار دفاع موريتاني سابق
+          1	جدة
+          1	جزيرة السلطانيات
+          1	جزيرة خليج
+          1	جزيرة دياكي
+          1	جسر إديباي
+          1	جمرك
+          1	جمعيات كنيسة الله
+          1	جمعية
+          1	جمعية الصيد الصناعي العظيم
+          2	جول
+          3	جون تيالكات
+          3	جون تيبونوي
+          1	جون كافارت
+          1	جون كولوس
+          1	جوهانسبرج
+          1	جيغني
+          1	جيكني
+          2	حار
+          1	حاسي الفرس
+          2	حاسي بقرة
+          3	حافلة
+          1	حانة الصحراء
+          1	حدائق أفريقيا
+          1	حدائق التمور سوكوجيم
+          1	حديقة الحيوانات
+          3	حديقة المجتمع
+          1	حديقة تذكارية كانصادو
+          1	حسي الحب
+          3	حسين بن علي بن أبي طالب
+          1	حصن أرغين
+          1	حصن إسباني
+          1	حصن الاستعمارية
+          1	حفرة الريشات- Guelb er Richât
+          1	حقل ألغام
+          1	حقل الغام
+          1	حقل القرية
+          1	حماية ديك
+          2	حمود
+          1	حمود ولد أحمدو
+          1	حوش علي
+          2	حوض أركين
+          1	خاطر
+          1	خالد بن الوليد
+          1	خام الحديد تلقي المرافق
+          2	خبو
+          1	خبير فنار من 1910
+          1	خليج الشرق
+          1	خليج النجم
+          1	خليج كانصادو
+          2	خليج كيري
+          1	خليفة
+          1	خليل ولد عبد الله
+          1	خور
+          1	داخلة أرخميدس
+          2	داخلة نواذيبو
+          1	دار أهل ببان
+          1	دار أهل لخديم
+          2	دار البركة
+          1	دار البلدية
+          1	دار البلدية الرياض
+          1	دار البلدية توجنين
+          1	دار الحاكم
+          3	دار السلام
+          2	دار الشباب
+          1	دار الكتاب
+          1	دار النعيم
+          1	دار سعيد
+          1	دار منصور
+          1	دار نفيس
+          1	دار هيل أحمد سالم
+          1	دار هيل داه
+          1	دارنا برينة
+          3	داكار
+          2	دانكي
+          2	داه ولد أحمد بوسات
+          1	داودا كيرابا دياوارا
+          2	دبي
+          1	دمشق
+          1	دواتل
+          2	دوار الطريق الوطنية رقم 2
+          1	دوار جاك شيراك
+          1	دوار مدريد
+          1	دوار ولد ماه
+          2	دواكامارا
+          1	دوم سنيبا
+          1	دي إتش إل
+          1	ديا
+          1	دياتار
+          1	دياكو
+          1	دياكيلي
+          1	ديالو
+          1	ديام ديام
+          1	ديايان
+          2	ديس
+          1	ديكوتورو
+          2	ديلدي
+          2	ديمي منت أبا
+          1	ديوان المحاسبة
+          2	ديود ديري
+          2	ديوس
+          2	رأس آركين
+          1	رأس ألزاز
+          1	رأس تاغاريت
+          1	رأس تافاريت
+          1	رأس تيميريسن
+          1	رأس دوبوشاج
+          1	رأس سانت آنا
+          1	رأس كانصادو
+          1	رأس نواذيبو
+          1	رأس نواذيبو خاطئ
+          1	رأس والينا
+          1	رئيس بلدية القصر
+          1	راديو ألاك
+          1	راديو النعمة
+          1	راديو تمبدغة
+          1	راديو روصو
+          1	راديو عيون العتروس
+          1	راديو عيون العتروس ٢
+          2	راسينغ كلوب
+          1	رباط البحر
+          1	رتنا
+          1	رقيبة
+          1	روتي أودي
+          5	روصو
+          1	روضة أطفال
+          1	روما
+          1	رياض الأطفال
+          1	ريستو فريسكو
+          1	زدنس
+          2	زم زم
+          1	زيرت الخشب
+          2	زينيكي
+          1	سابوالا
+          2	سابوسيسري
+          1	ساحل العاج
+          2	سافا
+          1	ساكي اندكو ديبيري
+          1	سالك ولد محمد
+          1	سالم ولد الشيخ
+          1	سامبا ثيديل مباي
+          2	سانبا كانجي
+          4	ساندبيت - الطريق القديم إلى نواك�
+          1	ساني
+          2	سانيي
+          1	سبخة ندرهامشا
+          1	سبيخات
+          2	ستار
+          1	سفارة السنغال
+          1	سفارة المغرب
+          1	سفارة المملكة المغربية
+          2	سفارة الولايات المتحدة الأمريكي
+          1	سفارة جمهورية ألمانيا الاتحادية
+          1	سفارة جمهورية الصين الشعبية
+          1	سفارة جمهورية الصين الشعبية الد�
+          1	سفارة فرنسا
+          1	سفارة مالي
+          1	سفارة مملكة اسبانيا
+          1	سفر سعيد
+          3	سكام
+          2	سلام
+          1	سوبرماركت
+          1	سوبرماركت كيفة
+          1	سوبرماركت مجمع الفاضل أكجوجت
+          1	سوري مالي
+          1	سوريا
+          1	سوسيتيه جنرال
+          1	سوسيتيه جنرال - وكالة كارفور
+          2	سوسيم
+          3	سوق
+          1	سوق اركيز
+          1	سوق الأثاث
+          1	سوق التمور
+          1	سوق الثروة الحيوانية
+          1	سوق الحيوان
+          1	سوق الخشب
+          1	سوق الخضار
+          1	سوق السمك
+          1	سوق العيون
+          1	سوق القصيبة كوركول
+          1	سوق الماشية كيفة
+          1	سوق المزارع
+          1	سوق المغربية
+          1	سوق المينا
+          1	سوق تيارت
+          1	سوق رأس المال
+          1	سوق سبخة
+          1	سوق سوسيم
+          1	سوق كرفي
+          1	سوق كرو المركزي
+          1	سوق لكبيد
+          2	سوق للماشية
+          1	سوق محفوظ ولد أخو
+          1	سوق مكة
+          1	سوق ولد الحسن
+          2	سوق ولد سني
+          1	سوق ولد كبار
+          2	سوكونابي
+          2	سي إف إف
+          1	سي إف إم
+          1	سيارات للأوراق المالية
+          2	سيارة للأوراق المالية
+          1	سيد أحمد الشيخ
+          1	سيدي محمد مصطفى
+          1	سيدي يحيى الكبير
+          2	سيفي
+          3	سيليبابي
+          1	سيمالي ولد حمدود فال
+          1	سيمون
+          1	سيمون فاطمة با
+          1	سيني كونا
+          1	سيول
+          1	شارع 21-185
+          2	شارع أبدل ناصر
+          1	شارع أغنمريت
+          4	شارع الإسبانية القديم
+          2	شارع البحرية
+          2	شارع الرئيسية دبي
+          1	شارع السوق
+          1	شارع السوق الخامس
+          1	شارع السوق من الخامس
+          1	شارع المختار ولد داداه
+          2	شارع المستشفى
+          3	شارع الملك فيصل
+          1	شارع الولاية
+          4	شارع بورقيبة
+          5	شارع جمال عبد الناصر
+          4	شارع شارل ديغول
+          1	شارع شاطئ الراحة
+          1	شارع عزيز
+          1	شارع غاندي
+          5	شارع كينيدي
+          2	شارع لحريث ازملة(منزل فنفانة محم
+          1	شارع لحريث زملة (منزل فنفانة محم�
+          5	شارع ليسي
+          3	شارع محطة الحافلات
+          3	شارع ولاية
+          1	شامي
+          1	شبه الجزيرة نواذيبو الغربية
+          1	شجار
+          1	شرطة
+          1	شرطة الحدود موريتانيا
+          1	شرطة المرور
+          1	شركة اسمنت موريتانيا
+          1	شركة الغاز الموريتانية
+          1	شريف غوميز
+          1	شقق الأندلس
+          1	شقق ميمونة
+          1	شكار الاخضر
+          1	شمال ج
+          1	شمال ح
+          1	شمس الدين
+          1	شنقيتل
+          3	شنقيط
+          1	شنقيط مدينة قديمة
+          4	شوم
+          1	شيز جمال
+          1	صحراء ميديا
+          1	صدى الساحل
+          1	صناع السينما بارك
+          1	صندوق الوطني للضمان الاجتماعي
+          1	صنعاء
+          1	صنكرافة
+          1	صيد مركز الرياضة والترفيه
+          1	صيدلية الرحمة أنواكشوط - البرء ٢
+          1	صيدلية المختارة
+          1	صيدلية المنارة
+          1	ضواحي تييكيا
+          1	طب القلب
+          1	طرابلس
+          1	طرف ري
+          3	طرق
+          2	طريق أغنمريت
+          1	طريق أفريقيا
+          6	طريق أكجوجت
+          5	طريق أمحيرث
+          4	طريق إدايرا
+          2	طريق الأسرة ديا
+         14	طريق الأمل
+          1	طريق الإقامة الولاية
+          1	طريق المدرسة العسكرية مجتمعة
+          4	طريق المطار
+          2	طريق المعهد العالي للتعليم التك�
+          2	طريق اوجفت
+          1	طريق بوتلميت - بوغي
+          6	طريق بوتلميت - روصو
+          3	طريق بور
+          2	طريق خولا
+          2	طريق ديك
+         37	طريق روصو - بوغي
+          3	طريق سريع روصو
+          3	طريق صكوك
+          3	طريق مباركة عمارة
+          3	طريق نواذيبو
+         25	طريق نواكشوط
+          3	طريق وطني 2
+         33	طريق وطني ١
+          2	طريق وطني ٢
+          1	طهران
+          2	طوكيو
+          2	طينطان
+          1	عام المجموعة للسلامة على الطرق
+          1	عبد الحي ولد طعب
+          1	عبد العزيز سي
+          1	عبد الله ولد الشيخ صدية
+          1	عبدات ولد محمد سني
+          1	عثمان بن عفان
+          1	عثمان ولد بيكار
+          2	عجار توروب
+          2	عجار ساراكلي
+          1	عدالة ديري
+          2	عدل بكرو
+          1	عربات إلى كيفة
+          3	عرفات
+          1	عرفات موش بوش
+          2	عرق أماتليش
+          1	عرق الأوقات ’Erg el Aouikat
+          1	عرق الأويكت ’Erg el Aouikat
+          1	عرق مالسشيغدان
+          3	علب آدرس
+          2	علب جمال
+          2	علي كيلل
+          1	علي ولد أساس
+          1	علي ولد سيد المهدي
+          2	عمر ضياء
+          1	عميرة
+          2	عيادة
+          1	عيادة الأسنان ذو نورين
+          1	عيادة الأمة لطب الأسنان
+          1	عيادة السلام
+          1	عيادة الفضل للعناية التمريضية
+          1	عيادة المرام
+          1	عيادة سوكوجيم
+          1	عين الطلح
+          2	عين اهل الطايع
+          1	غابة مصنفة دارتو
+          1	غابة مصنفة دانكي
+          2	غاري
+          1	غامبيا
+          1	غبرني
+          1	غلب الرين
+          1	غلب سيغان
+          1	غلب موغرين
+          1	غلب موغرين الودائع الذهب والنحا�
+          3	غورل سامانا
+          3	غوري
+          1	غي سيلي سوماري
+          2	غيديماغا
+          1	غينيا
+          1	غينيا بيساو
+          2	فاسالا
+          1	فرع الفحص
+          1	فرنسا
+          1	فرودگاه نما
+          1	فم شور
+          3	فندق
+          1	فندق أدرار
+          1	فندق أواسين
+          1	فندق إم كا تي
+          1	فندق الأحمدي
+          1	فندق الجزيرة
+          1	فندق الصباح
+          1	فندق العهد غويي
+          1	فندق العيون
+          1	فندق الواحة
+          1	فندق الواحة أطار ٢٦٠٢١٧
+          1	فندق برستيج
+          1	فندق بوب
+          1	فندق بوتلميت
+          1	فندق راحة
+          1	فندق سكليل
+          1	فندق شنقيط قصر نواكشوط ٠٤٠٣١٧
+          1	فندق فاطمة
+          1	فندق كرو
+          1	فندق كيفة
+          1	فندق ليدالي نواكشوط
+          1	فندق موريتور
+          1	فندق مونود
+          1	فندق نسيبة
+          1	فندق يوتي
+          1	فنديهلا
+          1	فنزويلا
+          2	فهد بن عبد العزيز آل سعود
+          1	فورت غورو افديرك
+          2	فوم غليتا
+          1	فيفي مينت فويجي
+          1	فيلا ماغلا
+          1	فيندي كيبي
+          1	فينديتيلي
+          1	قاعة المدينة
+          1	قاعة المطار
+          1	قاعة بلدة دار النعيم
+          1	قرى ألاك
+          1	قرية اجویر
+          1	قرية بوسدرة
+          1	قرية تنتمدج
+          2	قرية سينتيان دياما
+          1	قرية لكليتات
+          1	قصر إفلان
+          1	قصر العدالة
+          1	قصر الكونغرس
+          1	قصر ترشان
+          2	قطاع عازلة
+          1	قطر
+          1	قطع الغيار
+          1	قلعة الميناء
+          1	قندهار
+          1	قوات حفظ السلام
+          1	قوي ترانكب
+          3	كار مينا إم سي إم
+          2	كاراك
+          1	كاراكاس
+          1	كارالول
+          1	كارلو مدريد
+          1	كامب أبا (07/2016 مخيم مقفلة)
+          2	كامور
+          1	كانصادو
+          1	كانيون ترجيت
+          2	كاهاجي
+          1	كتيبة انواكشوط ٢
+          1	كثيب نواكان
+          1	كديا كمكوم
+          2	كديويل
+          2	كديويل دمبا
+          1	كراتشي
+          1	كراج الميكانيكي
+          1	كراج روصو
+          1	كرفي
+          3	كرمسين
+          2	كرو
+          1	كف
+          2	كفين كاري
+          1	كلمة تورفين
+          2	كلية
+          1	كلية البنات
+          1	كلية الطب
+          1	كلية بنين
+          2	كليتا
+          1	كندا
+          2	كنز
+          3	كنكوصه
+          1	كنيسة الطاهر
+          1	كنيكر
+          1	كوبانو
+          2	كوباني
+          2	كور كوري
+         12	كوركول
+          1	كوركول أبيض
+          2	كوركول أسود
+          2	كورل أداما
+          1	كورل تيرنا أمادو
+          2	كورل دياري
+          1	كورل فولي
+          1	كوروكورو
+          2	كوسانا
+          3	كوسانا-ميدالا
+          2	كومبو
+          1	كوندي
+          1	كونديل ريو
+          1	كياون الشرق
+          1	كياون الغرب
+          2	كيدالا
+          1	كيدايو
+          2	كيري
+          1	كيفة
+          4	كيكي
+          1	كينشاسا
+          3	كيهيدي
+          1	لاس بالماس
+          1	لاس بالماس في حكيم
+          2	لاهراج
+          1	لاهوفيش
+          1	لبرار
+          1	لشبونة
+          1	لقزئبا
+          2	لكراع لبيظ
+          1	لكليتات
+          1	لكليغ
+          2	لمزيد
+          1	لوبل
+          1	لودج مور الأزرق
+          2	لودي
+          2	لوزان - سويسرا
+          4	لوغيري
+          1	لويهدا
+          1	ليبرفيل
+          2	ليراج
+          1	ليسي الرياض رقم ١
+          1	مؤسسة السيرفر الموريتاني
+          1	ماريفا
+          2	ماسينا محمد لامين
+          1	مال
+          1	مالي
+          1	مايا
+          2	مباراك دياور
+          2	مبرا
+          1	متجر الولايات المتحدة الأمريكية
+          1	متجر بقالة صعدة
+          1	متجر سكاكر
+          1	متجرعمومي
+          1	متحف الحضرية
+          1	متحف تيوزكيت
+          1	متنزه
+          1	مجلس الشيوخ
+          1	مجمع البيت
+          1	مجمع النصر التجاري روصو
+          1	مجمع انواكشوط للتسوق
+          1	مجمع تناد
+          1	مجمع مدارس الجيل الرقمي
+          1	مجمع مدارس صلاح الدين
+          1	محجز
+          1	محطات معالجة مياه الصرف
+          7	محطة
+          4	محطة الحافلات
+          1	محطة الخير والعافية
+          1	محطة الصينية
+          1	محطة الغابات تن اسويلم
+          2	محطة الوقود
+          1	محطة بنزين
+          1	محطة توليد كهرباء الديزل
+          1	محطة ستار
+          1	محطة للطاقة الشمسية
+         17	محطة وقود
+          2	محطة وقود توتال
+          1	محطة وقود ستار
+          2	محطة وقود شنقيط
+          1	محكمة جنوب نواكشوط
+          1	محكمة كيفة
+          1	محل إلكترونيات
+          2	محل الهدايا
+          1	محلات
+          2	محمد الأمين ولد طاهر
+          1	محمد الرادي
+          1	محمد بؤية ولد محمد سيد أحمد
+          1	محمد سالم ولد عدود
+          1	محمد عبد الله ولد مبارك ولد شركة 
+          1	محمد ليمين سعود يقول ميني
+          2	محمد مولود
+          2	محمد مولود ولد داداه
+          1	محمد ولد بواماتو
+          1	محمد ولد ضاحي
+          1	محمود بال
+          1	محمية غابة لام نايو
+          1	محيجرات
+          1	مخبزة مكة والمدينة المنورة
+          1	مخبزة ولد سبرو
+          1	مختار ولد المائدة
+          1	مختار ولد حميدون
+          1	مخيم تصفح
+          1	مخيم للاجئين مبرا
+          2	مداح
+         40	مدرسة
+          7	مدرسة ابتدائية
+          1	مدرسة ابتدائية إدفييا
+          1	مدرسة اتواجيل
+          1	مدرسة الإمام البخاري
+          1	مدرسة الثانوية الفتيات
+          1	مدرسة العتيق
+          1	مدرسة العدل
+          1	مدرسة المعلمين العليا نواكشوط
+          1	مدرسة المهندسين
+          1	مدرسة النباغية
+          1	مدرسة تكوين المعلِّمين بانواكشو
+          2	مدرسة ثانوية
+          1	مدرسة ثانوية أطار
+          1	مدرسة ثانوية العربية
+          1	مدرسة ثانوية الميناء
+          1	مدرسة ثانوية تجكجة
+          1	مدرسة ثانوية تيارت
+          1	مدرسة رقم 	٢ شريف غوميز
+          1	مدرسة رقم 1
+          1	مدرسة رقم 5
+          2	مدرسة رقم ٤
+          1	مدرسة رقم ٥
+          1	مدرسة رقم ٦
+          1	مدرسة رقم ٧
+          1	مدرسة رقم ٨
+          1	مدرسة شمس الدين
+          1	مدرسة عسكرية
+          1	مدرسة ٤
+          1	مدريد
+          1	مدينة الجامعية
+          1	مدينة الكويرة المهجورة
+          3	مدينة كايا
+          1	مرابطون
+          2	مركز الإرسال
+          1	مركز البصريات الريان
+          1	مركز التحكم
+          1	مركز التدريب القطاعي للاتصالات �
+          2	مركز التدريب المهني
+          1	مركز التدريب المهني للتميز
+          1	مركز التدريب المهني للماهادرا ن�
+          1	مركز التدريب المهني نواكشوط
+          1	مركز التسوق
+          1	مركز الحالة المدنية
+          1	مركز الشرطة
+          1	مركز الشركة الموريتـ ـانية للكه�
+          9	مركز الصحة
+          1	مركز الصحة - الأمومة
+          1	مركز الصحة إيطاليا
+          1	مركز الصحة المذرذرة
+          1	مركز المؤتمرات
+          1	مركز المستشفى الإقليمي
+          1	مركز شباب جديد
+          1	مركز شركة المياه الوطنية موريتا�
+          1	مركز صحة الشرطة
+          1	مركز صحي
+          1	مركز محمد سالم ولد عدود
+          1	مركز معلومات الزائر
+          1	مركز نواكشوط الإنكليزي
+          1	مركزي
+          1	مركزية شراء الأدوية والتجهيزات �
+          2	مسار بولنوار - شوم قديم (2008)
+          3	مسار بولنوار - شوم قديم (٢٠٠٨)
+          5	مسار فم شور
+          1	مستشفى
+          1	مستشفى أطار أدرار
+          2	مستشفى الأخوة
+          1	مستشفى الأم والطفل
+          1	مستشفى الشركة الوطنية للصناعة و�
+          1	مستشفى الشيخ زايد
+          1	مستشفى الكويرة
+          1	مستشفى بوتلميت
+          1	مستشفى عسكري
+          1	مستشفى كيفة
+          1	مستشفى كيفة مركز
+          1	مستشفى كيهيدي
+          1	مستشفى نواذيبو الإقليمي
+          1	مستنقع تومبس
+          1	مستوصف
+          1	مستوصف بو انوار
+          1	مستوصف توجنين
+          1	مستوصف نواكشوط
+          1	مسج دبابابى
+         79	مسجد
+          1	مسجد  بوتلميت الشمالية
+          1	مسجد أحمدّو
+          1	مسجد أرتيمو
+          1	مسجد أمورات
+          1	مسجد أهل الشيخ سيدي
+          1	مسجد أهل طه
+          1	مسجد أهل محمد عالي
+          1	مسجد ابن عباس
+          1	مسجد احسي الكردان
+          1	مسجد اركيز
+          1	مسجد افديرك
+          1	مسجد اكجوجت
+          1	مسجد الإجابة
+          1	مسجد الباري بقرية الميمون
+          1	مسجد التقوي بجامز
+          1	مسجد الحاج عمر
+          1	مسجد الرحمن
+          1	مسجد السنة والجماعة
+          1	مسجد العتيق تجكجة
+          1	مسجد الفتح
+          1	مسجد الفردوس
+          1	مسجد الكصعة
+          2	مسجد المدينة
+          1	مسجد المذرذرة
+          1	مسجد المركزي اوجفت
+          1	مسجد المعهد العالي للدراسات وال�
+          1	مسجد المغربي
+          1	مسجد النور
+          1	مسجد الهدى
+          1	مسجد امبلل
+          1	مسجد انجاكو
+          1	مسجد اندومري
+          1	مسجد باب الفتح
+          1	مسجد بافريشية
+          1	مسجد بتافراوت
+          1	مسجد بتيدومة
+          1	مسجد برينة
+          1	مسجد بل
+          1	مسجد بوتاندا
+          1	مسجد بوتلميت الجنوبي
+          1	مسجد بوتلميت الغربية
+          1	مسجد بير مغرين
+          1	مسجد تكماطين
+          1	مسجد تمبدغة
+          1	مسجد تمبدغة ٢
+          1	مسجد جعفر الطيار
+          1	مسجد جول
+          1	مسجد حمدي
+          1	مسجد دياكيلي
+          1	مسجد سانبا كانجي
+          1	مسجد سكطار الجامع
+          1	مسجد سيد الأمين
+          1	مسجد سيفي
+          1	مسجد سيليبابي الجنوبية
+          1	مسجد شوم
+          1	مسجد صنكرافة
+          1	مسجد فاطمة
+          2	مسجد قطر
+          1	مسجد كرفي
+          1	مسجد لكراع لبيظ
+          1	مسجد معطى مولانا الجامع
+          1	مسجد منجم الذهب تازيازت
+          1	مسجد موبيدوغو
+          1	مسجد همدان
+          1	مسجد والي
+          1	مسجد ولاتة
+          1	مسجد ومحظرة أهل أبنو
+          1	مسلخ
+          1	مسلخ كيفة
+          2	مشروع فندق
+          1	مصايد الأسماك
+          1	مصحة الرضى
+          1	مصرف الأمانة
+          1	مصرف بي بي أم - وكالة كارفور
+          1	مصرف وطني
+          1	مصفاة الربع
+          1	مصفاة قديمة
+          1	مصنع الطوب
+          1	مطار أطار الدولي
+          1	مطار ازويرات تازاديت
+          1	مطار افديرك
+          1	مطار اكجوجت
+          1	مطار بئر مغرين
+          1	مطار تجكجة
+          1	مطار سيليبابي
+          1	مطار شنقيط
+          1	مطار عيون العتروس
+          1	مطار كيفه
+          1	مطار كيهيدي
+          1	مطار نواذيبو الدولي
+          3	مطار نواكشوط الدولي
+          1	مطاعم
+          1	مطام العيون
+          1	مطبعة الوطنية
+          3	مطعم
+          1	مطعم أدراهيم
+          1	مطعم أكادير
+          1	مطعم أيام وليلة
+          1	مطعم برينة
+          1	مطعم بنغلاديش
+          1	مطعم تينيكي
+          1	مطعم مأكولات إفريقية
+          1	مطعم ونزل الأمل
+          1	معرض شيماء للأثاث
+          2	معروف ولد الشيخ
+          1	معطى مولانا
+          1	معهد بن عباس
+          2	مغامة
+          1	مفوض الشرطة كيفة
+          1	مفوض قصر ٢
+          1	مفوضية عرفات4
+          6	مقبرة
+          1	مقبرة أطار
+          1	مقبرة الرياض
+          1	مقبرة الصالحين
+          1	مقبرة القصر
+          1	مقبرة المتفجرات
+          1	مقبرة المدينة
+          1	مقبرة شنقيط
+          1	مقبرة فرنسية
+          1	مقبرة كيفة
+          1	مقبرة كيهيدي
+          1	مقربلدية انتيشط
+          2	مقطع الحجار
+          1	مقعد موريتل موبيل
+          1	مقهى
+          1	مقهى الجزائر
+          1	مكاتب الولاية
+          1	مكاتب محافظة
+          1	مكار تمبدغة
+          1	مكان السوق
+          1	مكة المكرمة
+          3	مكتب البريد
+          1	مكتب بريد
+          1	مكتب حكومي المغرب
+          1	مكتبة دار التوحيد
+          1	ملتقى القدس
+          2	ملتقى طرق الرابع والعشرين
+          2	ملتقى طرق تنسويلم
+          1	ملتقي طرق مدريد
+          1	ملح
+          1	ملعب الشيخة
+          1	ملعب القصر
+          1	ملعب تيارت
+          1	ملعب سبخة
+          2	ممر ببكر
+          1	ممر بوسديرة
+          1	منارة الصحراء
+          1	منتزه أهل الإمام
+          1	منجم تازيازت
+          1	منزل أهل تجدين
+          1	منزل أهل محمد بيب
+          1	منزل داه مختار
+          1	منزل مختار داه عليوة
+          1	منزل ١٤
+          1	منزلنا
+          2	منطقة إيل دو فرانس
+          1	منطقة الصناعية
+          1	منطقة الفيضانات
+          1	منطقة بيع بالتجزئة
+          1	منطقة عسكرية
+          1	منطقة غير معاد هيكلتها
+          1	منطقة محظورة
+          1	منطقة مستنقعات
+          1	منظمة تنمية نهر السنغال
+          1	منعطف
+          1	منى
+          1	مهبط الطائرات تازيازت
+          2	موبيدوغو
+          3	مودجيريا
+          2	موريتانيا
+          3	موريتانيا - السنغال
+         15	موريتانيا - الصحراء الغربية
+          1	موريتانيا مغامرة
+          2	موريتل موبيل
+          1	موريطاليا
+          2	مولسيمو
+          2	مونكل
+          1	ميدالا
+          1	ميناء الحرفية
+          1	ميناء الصيد الحرفي نواكشوط
+          1	ميناء الكويرة
+          1	ميناء النفط
+          1	ميناء انواذيبوا المستقل
+          1	ميناء معدني
+          1	ميناء نواكشوط
+          1	نادي غوريبا
+          2	ناسرال
+          1	نبيكا
+         14	نزل
+          1	نزل الزرقة
+          2	نزل الغيلا
+          1	نزل الوردة السيوف
+          1	نزل ترجيت
+          1	نزل دار الخاطر
+          1	نزل صانتر روصو
+          1	نزل لوحات مغاربي
+          1	نزل نهازا
+          1	نزل واران
+          1	نطاق البريد
+          1	نقطة الأوبرا
+          1	نقطة الكركند
+          1	نقطة النجم
+          1	نقطة النسر
+          1	نقطة بورتا إليا
+          1	نقطة شيشي
+          2	نهج أحمد أولاد محمد
+          1	نهج إيفري
+          1	نهج الاستقلال
+          3	نهج الجامع المغربي
+          2	نهج الحبيب
+          1	نهج الفتاح
+          2	نهج باكاري حخة
+          1	نهج باكر أحمد
+          1	نهج حنون أولاد بوسيف
+          3	نهج غاري
+          2	نهج فلسطين
+          2	نهج مامادو كوناتي
+          2	نهج محمد لمين صاخو
+          1	نهج محمد ولد طلبة اليعقوبي
+          2	نهر السنغال Fleuve Sénégal
+          1	نهر السنغال Sénégal
+          4	نواذيبو
+          3	نواكشوط
+          1	نياراوال
+          2	نياكوات
+          3	نيربل
+          2	نيلسون مانديلا
+          1	نيودلهي
+          2	هائري امبار
+          1	هاسي شداد
+          1	هامار فال
+          2	هري دبال
+          1	همدان
+          1	هوائي الهيئة التنظيمية
+          2	هيميدا
+          1	واحة التونسية
+          1	واحه
+          1	واحه ترجيت
+          1	واد أطار
+          1	واد أمور
+          3	واد اسفايا
+          1	واد الفضة
+          2	واد الناقة
+          1	واد بلم نراه أرد
+          1	واد بو امخارا
+          1	واد تنافوذ
+          2	واد تونة
+          1	واد تيغیسیت
+          1	واد تيموزين
+          1	واد حاسي الحفيرة
+          1	واد حاسي مهيريس
+          1	واد مغرين
+          1	واد نوس
+          1	وادان
+          2	وادان‎‎
+          6	وادي أطار
+          2	وادي الابيض
+          1	وادي الوذان
+          1	وادي صنكرافة
+          1	وادي كاتشي
+          2	وادي كارفا
+          2	وادي كراكورو Oued Karakoro
+          1	وادي كركر
+          1	وادي كوروجل
+          1	وادي لاهراج
+          1	واشنطن
+          1	والي
+          1	وامبو
+          1	وجبات السريعة أماندين
+          1	ورشة إصلاح سيارات
+          2	وزارة البيئة
+          1	وزارة الثروة الحيوانية
+          1	وزارة الداخلية
+          1	وزارة الزراعة
+          1	وزارة الشؤون الاقتصادية والتنمي
+          1	وزارة الشؤون الخارجية
+          1	وزارة الفلاحة
+          1	وزارة النفط
+          1	وزارة النقل
+          1	وسط
+          1	وصال
+          1	وفد الإقليمي نواكشوط البيئة
+          1	وكالة البنك المغربي للتجارة وال�
+          1	وكالة سلامة الملاحة الجوية في أف
+          3	ولاتة
+          3	ولاية
+          1	ولاية أدرار
+          1	ولاية البراكنة
+          1	ولاية الترارزة
+          1	ولاية الحوض الغربي
+          1	ولاية تكانت
+          1	ولد انديان
+          1	ولد نادين
+          1	ولد ينج
+          2	ولد يينكي
+          2	ويتي
+          3	ياسر عرفات
+          1	يبي ولد عبدي
+          1	يحي بيب
+          1	يحيى ولد حميدون
+          1	يوسف كويتا
+          1	يونسكو
+          1	يونيتيد ماليكا
+          1	يونيسف
+          1	١١١
+          1	١٤٣
+          1	’Aguelt Sfaya
+          1	ⵍⵣⵣⴰⵢⴻⵔ الجزائر

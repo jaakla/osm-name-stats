@@ -1,0 +1,100 @@
+        296	Mercator
+        248	A1 (Ljubljana-Maribor)
+        211	A1 (Maribor-Ljubljana)
+        200	Ljubljanska cesta
+        162	A1 (Ljubljana-Koper)
+        144	A1 (Koper-Ljubljana)
+        143	Tržaška cesta
+        117	Partizanska cesta
+        117	A2 (Karavanke-Ljubljana)
+        115	Mariborska cesta
+        113	A2 (Ljubljana-Karavanke)
+        101	Prešernova ulica
+         98	Koroška cesta
+         97	Vežica
+         97	Jezero
+         97	Gradiška
+         96	Cankarjeva ulica
+         91	Border SI-IT
+         87	Gregorčičeva ulica
+         85	Kidričeva ulica
+         79	Kolodvorska ulica
+         78	Ptujska cesta
+         77	Kajuhova ulica
+         76	Šolska ulica
+         76	Gradišče
+         75	Planina
+         75	Mobitel
+         74	Selo
+         74	Mur
+         73	PST
+         72	Kidričeva cesta
+         71	Border SI-HR
+         71	Border SI-AT
+         69	Parenzana
+         69	NLB
+         69	Log
+         68	Zagrad
+         67	Partizanska ulica
+         65	Ljubljanska severna obvoznica
+         63	Mladinska ulica
+         62	Vrtna ulica
+         62	Kolodvorska cesta
+         62	Hrastje
+         60	Južna obvoznica
+         58	Dunajska cesta
+         57	Spar
+         57	Parkomat
+         56	Celovška cesta
+         55	Podgorje
+         55	Gubčeva ulica
+         54	Vzhodna obvoznica
+         54	Polje
+         54	Moste
+         52	Trubarjeva ulica
+         52	Rošpoh
+         52	Gačnik
+         52	Border SI-HU
+         50	Zgornji Duplek
+         50	Pristava
+         50	Križevci
+         49	Tomšičeva ulica
+         49	Savska cesta
+         49	Reka
+         48	Župančičeva ulica
+         48	Zgornja Velka
+         48	Slap
+         48	Limbuška cesta
+         48	Levstikova ulica
+         48	Krtina
+         48	Klanec
+         48	Dolenci
+         47	Štajerska cesta
+         47	Šober
+         47	Šmartinska cesta
+         47	Zgornje Pirniče
+         47	Prešernova cesta
+         47	Gorenjska cesta
+         47	1
+         46	Titova cesta
+         46	Industrijska ulica
+         45	Soška Pot
+         45	Pohorska cesta
+         45	Goriška cesta
+         44	Via Flavia di Stramare
+         44	Veščica
+         44	Vaneča
+         44	Tovarniška cesta
+         44	Sveti Trije Kralji
+         44	Slomškova ulica
+         44	Sebeborci
+         44	Pivola
+         44	Panonska ulica
+         44	Ob potoku
+         44	Maistrova ulica
+         44	Legen
+         43	Sava
+         43	Glavna ulica
+         43	Banfi
+         43	A1 (Maribor-Šentilj)
+         42	Zaloška cesta

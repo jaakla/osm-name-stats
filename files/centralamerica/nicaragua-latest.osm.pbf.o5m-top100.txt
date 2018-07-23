@@ -1,0 +1,100 @@
+        540	Avenida Central
+        503	Calle Central
+        306	Casa
+        164	1a Avenida SO
+        156	1a Avenida SE
+        150	2a Avenida SO
+        146	Quebrada
+        144	2a Avenida SE
+        141	1a Calle SE
+        139	1a Calle NO
+        139	1a Avenida NE
+        136	2a Calle NE
+        135	1a Calle SO
+        133	1a Avenida NO
+        132	Vivienda
+        132	1a Calle NE
+        130	Pulperia
+        128	2a Calle SE
+        127	2a Calle NO
+        125	2a Calle SO
+        123	3a Avenida SO
+        121	2a Avenida NE
+        118	2a Avenida NO
+        117	Pista La Reynaga
+        110	Carretera Norte
+        110	3a Calle SO
+        108	3a Calle SE
+        107	3a Avenida NE
+        100	3a Avenida SE
+         97	3a Avenida NO
+         96	3a Calle NO
+         94	4a Avenida SO
+         93	Pulpería
+         91	3a Calle NE
+         88	4a Calle NE
+         87	Pista Juan Pablo II
+         85	4a Avenida NO
+         85	4a Avenida NE
+         80	NIC-12
+         78	4a Avenida SE
+         77	Claro
+         76	NIC-4
+         76	Building
+         71	5a Avenida SO
+         68	5a Calle NE
+         68	4a Calle SO
+         66	5a Avenida NE
+         64	4a Calle SE
+         62	4a Calle NO
+         60	Pista de la Solidaridad
+         56	5a Calle SE
+         56	5a Avenida SE
+         54	Pista Suburbana
+         54	5a Avenida NO
+         52	6a Avenida SO
+         51	Parque los marañones
+         51	NIC-28
+         51	NIC-1
+         51	6a Avenida NE
+         50	7a Avenida SO
+         50	5a Calle SO
+         48	Movistar
+         48	5a Calle NO
+         46	Carretera Sur
+         44	Pista de la Resistencia
+         43	6a Avenida NO
+         42	Carretera Norte (Dupla Norte)
+         42	6a Avenida SE
+         40	Banpro
+         40	6a Calle NE
+         39	7a Avenida NE
+         39	6a Calle SE
+         38	NIC-7
+         38	Eskimo
+         38	Carretera Panamericana
+         37	Pista Benjamín Zeledón
+         37	8a Avenida SO
+         36	Avenida Simón Bolivar
+         35	Río Santa Rita
+         35	Pista Buenos Aires
+         35	Farmacia
+         34	7a Avenida SE
+         33	Pulperìa
+         33	7a Avenida NO
+         33	6a Calle NO
+         32	Uno
+         32	NIC-25
+         32	Calle 15 de Septiembre
+         32	8a Calle SE
+         32	8a Avenida NE
+         31	Pista La Sabana
+         31	La Esperanza
+         30	Parque Central
+         30	Finca
+         30	Escuela
+         30	8a Calle NE
+         30	7a Calle SO
+         30	6a Calle SO
+         29	San Antonio
+         29	Radial Santo Domingo

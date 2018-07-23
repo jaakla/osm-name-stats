@@ -1,0 +1,100 @@
+        384	Main Street
+        194	House
+        189	Dixie Highway
+        178	2nd Street
+        163	Walnut Street
+        160	Church Street
+        154	West Main Street
+        149	1st Street
+        142	Pennyrile Parkway
+        140	East Main Street
+        138	McDonald's
+        137	Cemetery Road
+        135	Maple Street
+        134	Gene Snyder Freeway
+        131	Preston Highway
+        129	High Street
+        129	Elm Street
+        128	CNO&TP First District
+        127	3rd Street
+        125	South Main Street
+        124	North Main Street
+        123	Oak Street
+        122	CC Subdivision
+        118	Shawnee Expressway
+        116	Short Street
+        111	CNO&TP Second District
+        105	SAM
+        103	River Road
+        103	Railroad Street
+        103	Purchase Parkway
+        102	Burlington Pike
+        100	4th Street
+         99	New Circle Road
+         99	Madison Pike
+         99	Lakeview Drive
+         97	Western Kentucky Parkway
+         97	Lexington Road
+         95	South 3rd Street
+         92	Breckenridge Lane
+         91	Bardstown Road
+         91	5th Street
+         90	Subway
+         90	College Street
+         89	Taylorsville Road
+         87	Mountain Parkway
+         86	Circle Drive
+         85	West Market Street
+         84	South 4th Street
+         84	Center Street
+         82	North Bend Road
+         81	Walmart Supercenter
+         81	Henry Watterson Expressway
+         77	South 2nd Street
+         77	Park Avenue
+         77	Natcher Parkway
+         76	Mill Street
+         75	Washington Street
+         75	Pine Street
+         75	EK Subdivision
+         74	Sunset Drive
+         73	Poplar Street
+         73	Locust Street
+         71	Spring Street
+         71	Alexandria Pike
+         70	Sycamore Street
+         70	Louisville Loop
+         70	Kroger
+         70	Johnson Road
+         70	Hill Street
+         68	Vine Street
+         67	Taco Bell
+         67	Men's Restroom
+         66	Smith Road
+         66	Shady Lane
+         66	Bluford Subdivision
+         65	Wilson Road
+         65	LH&STL Subdivision
+         65	Highland Avenue
+         65	Eastern Parkway
+         65	AA Highway
+         64	Speedway
+         64	Park Road
+         64	LBL-WRANGLERS CAMPGROUND TRAIL
+         64	Jefferson Street
+         64	Cairo Subdivision
+         63	Ohio River
+         63	Cherry Blossom Way
+         63	Central Avenue
+         63	Brownsboro Road
+         62	Wendy's
+         62	Norfolk Southern - Louisville District
+         62	Kentucky Avenue
+         62	Golf Cart Path
+         61	Outer Loop
+         61	Cincinnati Terminal Subdivision
+         61	Airport Road
+         60	Women's Restroom
+         60	Broadway Street
+         60	Bluegrass Parkway
+         59	Water Street

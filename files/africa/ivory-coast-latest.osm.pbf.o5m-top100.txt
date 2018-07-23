@@ -1,0 +1,100 @@
+        227	Chemins de fer Abidjan-Niger
+        223	Autoroute du Nord
+         90	Boutique
+         90	Boulevard Latrille
+         82	Puits Trad
+         70	Boulevard Valéry Giscard d’Estaing
+         56	Boulevard de France
+         53	Boulevard François Mitterrand
+         45	common
+         41	Côte d'Ivoire - Liberia
+         39	Station Service Shell
+         39	Boulevard de Marseille
+         37	Boulevard du Général de Gaulle
+         36	three huts
+         36	Orange Money
+         31	Route Man-Duékoué
+         31	Autoroute Riviéra-Marcory
+         27	Comoé
+         26	Côte d'Ivoire - Ghana
+         24	Shell
+         24	SGBCI
+         24	Boulevard de la Paix
+         24	Boulevard de l'Université
+         23	Manguier
+         23	La Côtière
+         23	Ecole primaire
+         23	Boulevard du 4 Novembre
+         22	King Cash
+         22	Côte d'Ivoire - Guinée
+         21	Route parallèle de Boulevard Valéry Giscard d’Estaing
+         21	Route Duékoué-Daloa
+         20	Rue L84
+         20	Rue D4
+         20	Marché hebdomadaire
+         19	Banque Atlantique
+         18	Western Union
+         18	Station Service Total
+         18	Route de Dabou
+         18	Mosquée
+         18	Ecobank
+         17	Boulevard du Canal
+         17	Bouaflé-Daloa
+         17	Bicici
+         16	Garbadrome
+         16	Canal+
+         15	Station Shell
+         15	Loka
+         15	Côte d'Ivoire - Burkina Faso
+         14	Rue Booker Washington
+         14	Marché
+         14	MTN
+         14	Cash Ivoire
+         14	Boulevard de l'Ouest
+         14	Autoroute Abidjan - Mossou
+         13	Séguéla - Boundiali
+         13	Quincaillerie
+         13	Boulangerie
+         13	Bayakokoré
+         12	P Trad Aband
+         12	NSIA Banque
+         12	Boulevard Angoulvant
+         11	Rue L43
+         11	Rue D3
+         11	Restaurant
+         11	Orange
+         11	Kiosque
+         11	Davo
+         11	Boulevard Valéry Giscard d'Estaing
+         11	Boulevard Alassane Ouattara
+         11	Bia
+         11	Atelier de couture
+         11	A7
+         11	A3
+         10	school
+         10	jardin
+         10	Total
+         10	Top Pain
+         10	Station Service Corlay
+         10	Rue des Jardins
+         10	Rue de la Grande Mosquée
+         10	Rue L41
+         10	Rue L35
+         10	Rue L31
+         10	Rue F109
+         10	Rue A2
+         10	NSIA
+         10	Bandama blanc
+         10	Avenue de la fraternité
+         10	Avenue Reboul
+          9	bureau aministration résidence5
+          9	Vulcanisateur de Pneus
+          9	Station Service Pétro Ivoire
+          9	SIB
+          9	Rue de l'Avenir
+          9	Rue L37
+          9	Rue L29
+          9	Rue K73
+          9	Rue C20
+          9	Route de l'Aéroport
+          9	Oilibya

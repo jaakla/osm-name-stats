@@ -1,0 +1,100 @@
+        131	Cuisine communautaire
+         37	Border Burundi - Rwanda
+         24	Ruvubu
+         21	Boutique
+         17	Tanzania - Burundi
+         17	Akanyaru
+         17	3ème Avenue
+         16	RD Congo - Burundi
+         15	Malagarazi
+         15	Boulevard du 1 Novembre
+         14	Rumpungwe
+         14	RP 31
+         14	Boulevard du 28 Novembre
+         13	RN 2
+         13	Mpanda
+         12	Ruvironza
+         12	Rusizi
+         11	Ruzizi
+         11	RN13
+         11	Mubarazi
+         11	1ère Avenue
+         10	RN19
+         10	Eglise
+          9	Waga
+          9	Nyamugogo
+          9	Moulin
+          9	Boulevard de L'Uprona
+          9	5e Avenue
+          9	3e Avenue
+          9	11e Avenue
+          8	Residential
+          8	RN12
+          8	Mosquée
+          8	Cafétéria
+          8	Boulevard de l'Indépendance
+          8	15e Avenue
+          7	Restaurant
+          7	Ndurumu
+          7	Eglise Anglicane
+          7	Chausseée de Gitega
+          7	BCB
+          7	9e Avenue
+          7	7e Avenue
+          7	6ème Avenue
+          6	Sanzu
+          6	Ruwiti
+          6	RP34
+          6	Nyabuhira
+          6	Lavoir
+          6	Lac Kanzigiri
+          6	Gasenyi
+          6	9ème Avenue
+          6	5ème Avenue
+          6	2ème Avenue
+          6	2e Avenue
+          6	10ème Avenue
+          5	Petite Rusizi
+          5	Nyamuswaga
+          5	Nyakerera
+          5	Ngozi
+          5	Mwitega
+          5	Mwiruzi
+          5	Muyinga
+          5	Mutimbuzi
+          5	Musenyi
+          5	Kayongozi
+          5	Kayave
+          5	Kanyosha
+          5	Kajeke
+          5	Kabanga
+          5	InterBank
+          5	Gitaramuka
+          5	Ecole Primaire
+          5	Chaussee du Peuple Murundi
+          5	CDS KIRA
+          5	CDS IZERE
+          5	Boulevard Mwambutsa
+          5	Bd. Mutaga
+          5	Avenue de I'OUA
+          5	Avenue Muyinga
+          5	Akagera
+          5	4e Avenue
+          5	14e Avenue
+          4	UNHCR
+          4	Ruzibazi
+          4	Ruhwa
+          4	Ngoma
+          4	Mwogere
+          4	Muyange
+          4	Mutumba
+          4	Murehe
+          4	Muramvya
+          4	Murago
+          4	Mugere
+          4	Migogo
+          4	Maragarazi
+          4	Maison Vulnérable C R B MURAMBI KARAGARA
+          4	Maison Vulnérable C R B MUGARA MUHUTA
+          4	Kirundo
+          4	Kinyankuru

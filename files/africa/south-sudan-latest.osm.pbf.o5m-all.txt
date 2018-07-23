@@ -1,0 +1,3929 @@
+          6	#Nr143
+          1	#uvmMapping
+          1	(largely dismantled) Juba University Girl's Hostel
+          1	(بركات)مدينة الشوال
+          1	+
+          2	.
+          1	12th Street
+          1	15th Street
+          1	16th Street
+          1	17th Street
+          1	18th Street
+          2	19th Street
+         14	2
+          1	20th Street
+          1	21st Street
+          1	28th Street
+          1	36.6
+          1	6N08
+          1	6N09
+          1	???
+         65	A
+          1	AAA hospital
+          1	AAH
+          1	AAH WARE HOUSE
+          1	ACF
+          1	ACTED
+          1	ACTED ACCOMONDATION
+          1	ACTED OFFICE
+          2	ADRA
+          1	AECOM (Local Council)
+          1	AFEX Camp
+          1	AGAN NINA LODGE, BAR & RESTAURANT
+          1	AISS OFFICE
+          2	Aba
+          1	Aba Airport
+          1	Abadai
+          1	Abaiat
+          1	Abandoned Building?
+          2	Abang
+          1	Abanim
+          1	Abanime
+          1	Abanimo
+          1	Abarnima
+          1	Abate Morris Grinding Mill
+          1	Abaya Church Of Uganda
+          1	Abayok Tap Stand 1
+          1	Abayok Tap Stand 2
+          1	Abayok Tap Stand 3
+          1	Abayok Tap Stand 4
+          1	Abdraman
+          1	Abe Yii
+          1	Abele Yii
+          1	Abeso Primary School
+          1	Abi
+          1	Abiemnom
+          1	Abieth
+          1	Abira
+          1	Abmju
+          1	Abon
+          1	Absala investment
+          1	Absala shop
+          1	Abu Gaw
+          1	Abu Ras
+          1	Abu_Gebiha-Athidway
+          1	Abue Justin Enterprise
+          1	Abujop
+          1	Abukadara
+          1	Abuokdit
+          1	Abuong
+          1	Aburoc
+          1	Abuyong
+          1	Abwong
+          1	Abyei Masjid
+          1	Abyei New Market سوق أبيي الجديد
+          1	Abyei-Ajackwac
+         15	Abyei-Turalei
+          1	Acacia Village
+          1	Achamrath
+          1	Achidri Yii
+          1	Achilbong
+          1	Achua
+          2	Achwa
+          1	Aciek Agriculture Training centre
+          1	Acioio
+          1	Across Compound
+          1	Action Africa Help International
+          1	Acumcum
+          1	Adado
+          1	Adar
+          1	Adar Yel Airstrip
+          1	Addidiang Paych
+          1	Addis Ababa
+          1	Addis Ababa Road
+          1	Adeso
+          1	Adet
+          1	Adiang
+          2	Adibu
+          1	Adibu Baptist Church
+          1	Adibu Primary
+          1	Adibu Village Community Borehole
+          2	Adior
+          1	Adis Ababa Road
+          1	Adis Ababa Street
+          1	Adjumani
+          1	Adjunyafe
+          1	Adjunyafe Community Borehole
+          1	Adjuong Thok
+          1	Adjuong Thok Refugee Camp
+          1	Administration
+          1	Adod
+          2	Adok
+          1	Adok Ferry Terminal
+          1	Adok Health Post
+          1	Adok Rastaurant
+          1	Adol
+          1	Adong
+          1	Adongo
+          1	Adotic primary school
+          2	Adubu
+          1	Adubu Community Borehole
+          1	Adubu Mosque
+          1	Adukan
+          1	Adull
+          1	Aduno Shet'
+          1	Aduot
+          1	Adwojo
+          1	Aemta Shop
+          1	AfEX Camp
+          1	Afex Bar and Restaurant
+          1	Affo Bakery restaurant
+          1	Afonji Primary School
+          1	Afro petrol
+          1	Agaigai
+          1	Agangrial
+          1	Agbia
+          1	Ageer Gum Primary School
+          2	Ager
+          1	Aggresive Checkpoint
+          1	Agherren
+          2	Agodo
+          1	Agok Hospital
+          1	Agok market
+          1	Agor
+          2	Agoro
+          1	Agoro Nursery School
+          1	Agoro Primary School
+          1	Agricultural Bank
+          1	Agricultural Land
+          1	Aguat Market
+          1	Aguda
+          1	Aguetker
+          2	Agugo
+          1	Agur
+          1	Aguu Primary School
+          1	Agwoj
+          6	Ah mar
+          1	Ahumad Grinding Machine
+          2	Aido
+          1	Airport Clinic
+          2	Airport Drive
+          1	Airport Inn
+          1	Airport Plaza Hotel
+          4	Airport Road
+          1	Ajaach
+          1	Ajaach Market
+          1	Ajackwac
+          7	Ajackwac-Mayom
+          2	Ajak
+          1	Ajakdit
+          1	Ajakuac
+          1	Ajaugo
+          1	Ajiep
+          1	Ajiep 2 (North)
+          1	Ajiep 3
+          1	Ajiep 4
+          1	Ajiep South
+          1	Ajijuit
+          1	Ajongthok airstrip
+          1	Ajubele Yii
+          1	Ajumani - Kajo Keji Road
+          2	Akak
+          1	Akala
+          1	Akande Primary School
+          1	Akayiec
+          1	Akewich
+          1	Akewich PHCU
+          1	Akka Community Primary School
+          1	Akob
+          2	Akobo
+          1	Akobo Airport
+          2	Akobo-Waat
+          1	Akoc
+          1	Akok
+          1	Akok Hotel
+          1	Akok Tent Village
+          1	Akoka
+          1	Akol Jal
+          1	Akol'gal'
+          1	Akola
+          1	Akoldit
+          2	Akon
+          1	Akon-Akak
+          2	Akon-Alek
+          1	Akong market
+          1	Akop
+          2	Akot
+          3	Akot-Adhel
+          1	Akot-Mvolo
+          1	Akot-Yirol
+          1	Akswa Dera
+          2	Akuem
+          1	Akuem Market
+          1	Akuem market
+          1	Akuem primary School
+          1	Akula Shet'
+          1	Akuot Ayool Hotel
+          1	Akur
+          1	Akwoing
+          1	Al Ali
+          1	Al Amin Nursing Home
+          1	Al Fifi
+          1	Al Jazeera
+          1	Alaal
+          2	Alaku
+          1	Alam
+          2	Albert Nile
+          1	Alcool
+          1	Aldea
+          2	Alek
+          1	Alek 1
+          1	Alek 2 New
+          1	Alek 3
+          1	Alemiga Yii
+          1	Alero
+          1	Alero School
+          1	Alex's Shop
+          1	Alice apartments
+          1	Alidoro Yii
+          1	Aliek
+          1	Aligo
+          1	Aligo Church Of Uganda
+          5	Aligo Primary School
+          1	Alimo Primary School
+          1	Alipi Primary School
+          1	All Saints Cathedral
+          1	All Saints Church
+          1	Allolup FFS- IAS horticultural project
+          1	Allolup bh-IAS
+          1	Alomda
+          1	Alongdior
+          1	Aloru
+          1	Alpha
+          1	Alpha Gate
+          1	Aluak luak
+          1	Aludu
+          1	Aludu Community
+          1	Aluma Yii
+          1	Alur
+          1	Amadi
+          5	Amadi-Kemande
+          4	Amadi-Tali
+          1	Amarat Classic Hotel
+          1	Amarula restaurant and hotel
+          1	Amas Hotel
+          1	Ambala
+          1	Ambala Community Borehole
+          1	Ambassador Resort Hotel
+          1	Amen
+          1	American Refugee Council
+          1	Ameth
+          1	Amin
+          1	Amionga I
+          1	Amionga Yii
+          1	Amit
+          1	Amou
+          1	Amref Health Africa
+          1	Amua
+          1	Amua - Mt Otze
+          1	Amua Primary School
+          1	Amuru
+          1	Andrew luals house
+          1	Angyi
+          1	Anip
+          1	Anisa FM
+          1	Anituna
+          1	Annacurra Street
+          1	Annet
+          1	Antipas Pharmacy
+          1	Anyal Chol
+          1	Anyidi
+          1	Apanauane
+          1	Apron
+          1	Apwoyo Primary School
+          1	Aquana Bottled Water Factory
+          1	Aquana water factory
+          1	Arabic Chicken
+          1	Arafa Bugo Mosque
+          1	Ardeba / Marenji
+          1	Area1
+          1	Arial Beek investment
+          1	Ariath
+          1	Arieri
+          1	Arilo
+          1	Arkel
+          1	Army Bank under construction
+          1	Aroma
+          1	Aroyo
+          1	Arra Primary School
+          1	Arroyo
+          1	Arroyo PHCC
+          1	Aru
+          1	Arza-Shepa
+          1	As Track inferred by river crossings
+          1	Asega Alex's Retail Shop
+          1	Assossa Primary and Secondary School
+          1	Assossa Road
+          2	Atar
+          1	Atar Badodi
+          1	Atcherah
+          2	Atelegu Border Police Post
+          1	Athang
+          1	Athian p school
+          1	Athidwey
+          1	Atiaba
+          1	Atiabba
+          1	Atlabara West Basic School
+          1	Atuet phcu
+          1	Atukuel
+          1	Australia House
+          1	Auxilium Basic School
+          1	Auxilium Kindergarten
+          1	Aviation Obstacle
+          1	Awalat Hamed
+          1	Awangaling
+          1	Awarajwok
+          1	Awau
+          1	Awaw
+          2	Aweil
+          2	Aweil Airport
+          1	Aweil Civil Hospital
+          1	Aweil East state HQ
+          1	Aweil East state ministries
+          1	Aweil Grand Hotel
+          1	Aweil Souk
+          1	Aweil complex market
+          1	Aweil, wanjok bus st
+          1	Aweil-Malualkon
+          6	Aweil-Nyamlell
+          1	Aweng
+          1	Aweno-Olwiyo
+          2	Awerial
+          2	Awerial County
+         12	Awerial-Pakujiak
+          1	Awerial-Tindalo
+          1	Awoda
+          1	Awoda Primary Health Care Centre
+          1	Awoda airstrip
+          1	Awuk
+          1	Ayaa Primary School
+          1	Ayaal-Edris Saferi
+          1	Ayaal-Edris-A
+          1	Ayen
+          1	Ayido
+          1	Ayien
+          1	Ayii
+          1	Ayikoru Yii
+          1	Ayipe Cope Primary School
+          1	Ayipe Primary School
+          2	Ayod
+          1	Ayod New
+          1	Ayokbek
+          1	Ayuang
+          1	Aywangeu
+          5	B
+          3	B u s h
+          1	BANKUMAN PRIMARY
+          1	BBC
+          1	BBC Media Action
+          1	BBC Media Action Juba
+          1	BNTC
+          2	BRAC
+          1	BUNJ HOSPITAL
+          1	Baac p school
+          1	Baar
+          2	Baau
+          1	Baba
+          1	Baba Enterprises
+          1	Baba Musa
+         17	Babanusa-Wau railway
+          2	Babanya
+          1	Badingilo National Park
+          1	Bahacois
+          1	Bahr El Ghazal clinic
+         15	Bahr al 'Arab
+         11	Bahr al 'Arab ?
+          1	Bahr al 'Arab بحر العرب
+          1	Bahr al Jabal (The Mountain Nile)
+          5	Bahr al-Dschabal
+          1	Bahr al-Ghazal
+          3	Bahr el Zeraf
+          1	Bai-ruer
+          1	Baidit
+          1	Baignol
+          1	Bail
+          1	Baiparu Road
+          1	Bak-Kou
+          1	Bakudangba
+          1	Bala Pool
+          1	Balala
+          1	Baliet
+          1	Bambari
+          1	Bambouti
+          1	Bambouti Airport
+          1	Ban Canteen
+          1	Banana Market
+          1	Bandingilo park headquarters
+          1	Banga
+          1	Bangali
+          1	Banika Islamic Primary School
+          1	Bank of South Sudan, Yei Branch
+          1	Bankeka
+          1	Banya
+          3	Bar
+          1	Bar Pakum
+          1	Barakis Pio
+          2	Baranyakuto
+          1	Baraquic
+          1	Bararud
+          1	Baras
+          1	Bari
+          1	Barma
+          1	Barmach
+          1	Barmayen
+          1	Barn
+          1	Barngoto
+          3	Baro
+          1	Barriak
+          1	Basic Services Fund
+          2	Bass
+          1	Batheng
+         12	Batiment
+          2	Bauw
+          1	Bazi
+          1	Bazungua
+          1	Bebnis
+          1	Bedouin
+          1	Bedouin Lodge
+          2	Bekk
+          1	Belatuma
+          1	Belichinanu
+          1	Bellel
+          1	Ben
+          1	Benagoro Primary School
+          1	Benda
+          1	Bendingo
+          1	Bene
+          2	Beneshowa
+          1	Benji Maji
+          2	Bentiu
+          1	Bentiu Stadium
+          1	Bentiu hospital
+         10	Bentiu-Gogrial
+          1	Bentiu-Leer
+          1	Bereka
+          1	Besia Primary School
+          1	Best Home Supermarket
+          1	Betty
+          1	Betty's Hotel
+          1	Biat
+          1	Bieh
+          1	Biem
+          2	Bil
+          1	Billala
+          1	Billing
+          5	Bilpam Road
+          1	Binawaw
+          1	Bir Talta
+          1	Bira
+          1	Birdiga
+          1	Birkodok
+          2	Bisellia
+          1	Bisellia-Wau
+          1	Bishop Asili Senior Secondary School
+          1	Bishop Ngalamu Theological Seminary
+          1	Bitima
+          1	Biw
+          2	Black Rock
+          2	Block b
+          1	Block c
+          5	Blood Bank
+          1	Blue Gold Hotel
+          2	Bo River
+          1	Boal
+          1	Boaw Two
+          1	Boda Boda Park
+          1	Bokenj
+          1	Boki
+          1	Bokolo
+          1	Bokoyo
+          1	Bolbel
+          1	Bolbel Track
+          1	Bolotinganu
+          1	Boma
+          1	Boma (HSBO)
+          1	Boma National Park
+          1	Boma airstrip
+          2	Boma-Ethiopia
+         12	Boma-Pibor
+          6	Boma-Pochalla
+          1	Bomu
+          1	Bonktolingan
+          2	Bor
+          1	Bor A Primary School
+          1	Bor Airfield
+          1	Bor Airport Parking
+          1	Bor B Primary School
+          1	Bor Commercial Harbour (Wath Nyoong Agany)
+          1	Bor Power Station
+          1	Bor State Council
+          1	Bor-Mabior
+          9	Bor-Pibor
+          1	Border Control Ethiopia
+          1	Border Kenya - Uganda
+          6	Border South Sudan - Central African Republic
+         17	Border Sudan - South Sudan
+          4	Bore hole
+          4	Borehole
+          1	Bosco Drole Shop
+          1	Bosco Enterprise
+          1	Both
+          1	Bou Inchar
+          1	Boundary KVNP East
+          1	Bowac
+          1	Boyi Spare Parts Sale
+          1	Brick production area
+          1	Bright Junior Nursery And Primary School
+          1	Bright Junior Nursery And Primary School Toilet
+          2	Britam Tower
+          1	British Council
+          1	Brong
+          1	Bu Kieny
+          1	Buailoach
+          1	Bugaya
+          3	Bugo
+          2	Building
+          1	Building Feature
+          7	Building Features=Building
+          1	Building(s)
+          1	Buildings ?
+          1	Buka
+          1	Buko
+          1	Bukteng
+          1	Bulluk Eye Clinic
+          1	Bulluk Technical Secondary School
+          2	Bulluk West Basic School
+          1	Bunagok
+          1	Bunj
+          1	Bunj Airfield
+          1	Bunj Hospital
+          2	Buong
+          2	Buopdit Centre
+          1	Buoth
+          1	Burbur
+          1	Burmath
+          1	Burr
+         21	Bush
+          1	Bushara
+          1	Bushes
+          3	Busserri Street
+          1	Bwell
+         10	Bygning
+          1	Bīnshangul-Gumuz Kilil
+          1	C
+          1	CAD
+          1	CARE
+          3	CASA
+          1	CDF Building I
+          1	CDF Building II in Munuki Block A, Juba, South Sudan
+          1	CDoT (Nimule Parish)
+          1	CENTER
+          1	CHUKUDUM CHURCH
+          1	CII Complex
+          1	COA Road
+          1	COUNTY HQ
+          1	CPA Road
+          1	CSB 2 (Turalei, Twic, Warrap)
+          1	CSB 3 (Renk, Upper Nile)
+          1	CSB 4 (Pibor, Jonglei)
+          1	CSB 5 (Akobo, Jonglei)
+          1	CWEP Guesthouse
+          1	CWEP ITC
+          1	CWEP Restaurant
+          1	Cabata
+          1	Cafod & Trocaire in partnership
+          4	Camino
+          1	Camino Secundario
+          3	Camino de tierra
+          1	Camp 15
+          3	Camp 15 - Chukudum
+          1	Camp Management
+          1	Camp Oasis
+          1	Canada House
+          1	Canal
+          1	Cantiere
+          1	Care Plus clinic
+          1	Caritas
+         20	Casa
+          1	Casa parroquial
+          1	Caterpillar
+          1	Catholic
+          1	Catholic Church
+          1	Catholic Media
+          1	Catholic Printing press
+          1	Catholic Relief Services
+          2	Catholic University of South Sudan
+          1	Catholic cha
+          1	Cattle camp
+          3	Cemetery Road
+          1	Central Equatoria
+          1	Central Equatoria State
+          1	Central Equatoria State Headquarter
+          1	Central Pub
+          1	Cessna Lane
+          1	Cestný úsej JS
+          1	Cestný úsek JS
+          1	Chaang
+          1	Chahu Chaye Wala
+          1	Chaiban
+          1	Chakgula
+          1	Chalamni
+          2	Chamidi-a
+          1	Chapati
+          1	Chaplain Chonga
+          1	Chapochapo
+          1	Char Akau
+          1	Charyier
+          1	Check
+          3	Checkpoint
+          2	Chel River
+          1	Chele
+          1	Chele Chele
+          1	Chelkou
+          1	Chelkou Game Reserve
+          1	Chere
+          1	Cheri
+          1	Cheri Yii
+          1	Cherosh Wenz
+          1	Chichi Ii
+          1	Chichi Yii
+          1	Childfund Korea
+          1	Childrens' ward
+          1	China Friendship Hospital
+          1	China Peace Hospital
+          1	Chindura
+          1	Chinese Farm
+          1	Chinese Generators for sale
+          1	Chiness Hospital
+          2	Choatjak
+          1	Chogonok
+          1	Choi Yii
+          1	Chokokbid Nursery School
+          1	Chokokbid Well
+          3	Chokokbidi
+          1	Chokokbidi Catholic Church
+          1	Chokokbidi Church
+          1	Chol Anyang
+          1	Cholera Isolation Ward
+          1	Choro
+          1	Choro Lower Community Borehole
+          1	Choro Pendacostole Church Latrine
+          1	Choro Pentacostal
+          1	Choro Upper Community Borehole
+          3	Chotbora
+          3	Choza
+          1	Christ The King
+          1	Christian Aid
+          1	Christian Mission Aid
+          1	Christian Women Empowerment Program
+          1	Chua Yii
+          2	Chuei
+          2	Chuil
+          1	Chuk
+          1	Chukudum
+          1	Chukudum Airstrip
+          1	Chukudum-Lotukei
+          2	Chukudum-Nagishot
+          2	Church
+          1	Church ruins
+          4	Churchyard
+          1	Cinema
+          2	City FM
+          1	City Mall
+          1	City Petroleum
+          1	Clearing
+          1	Clergy
+          1	Cloth Market
+          1	Collapsed Road (as of Jan 2014)
+          1	Combined Relief Team Agencies
+          1	Comboni Brothers' Mission Residence
+          1	Comboni Catholic Church
+          1	Comboni Hospital
+          1	Comboni Mission School
+          1	Comboni Sisters' Mission Residence
+          1	Comitato Collaborazione Medica
+          1	Commercial Tower
+          1	Commercial UNMISS laundry
+          1	Commissionair house
+          1	Commissioner Residence
+          1	Commissioner office
+          1	Commissioner's Office
+          1	Communal Kitchen
+          1	Communication tower
+          1	Cona
+          2	Congo Road
+          1	Container
+          1	Container Jonny
+          1	Continental Whole Sale Pharmacy
+          1	Cooporative Bank
+          1	Cordaid South Sudan
+          1	Corner store
+          1	Country Health Department
+          1	County Commission
+          1	County Headquarters State Assembly
+          1	Cow Market
+          1	Crop Training Centre (CTC)
+          1	Crown Auto
+          1	Crown Hotel
+          1	Crown Hotel restaurant
+          1	Csqatok
+          1	Cuei
+          1	Cuei Chok
+          1	Cuei Dong
+          1	Cuei Ker
+          2	Cueibet County
+          1	Cuibet
+          1	Cuicer
+          1	Curry & Hurry
+          1	Custom Market
+          1	Customs
+          1	Customs Bus Depot
+          2	Customs Road
+          1	Customs Roundabout
+          1	DHL
+          1	DISTRIBUTION CENTER
+          1	DPOC mast
+          2	DRC
+          1	DRC COMMUNITY CENTER
+          1	DWD 52358
+          1	Da Genesis
+          1	Da Vinci Lodge
+          1	Dabluai Primary Healthcare Unit
+          3	Dablual
+          2	Dablual Primary Healthcare Centre
+          3	Daga
+          1	Dakhtodo
+          1	Dakhtodo 1
+          1	Dakhtodo 2
+          1	Dalaga
+          1	Daldiva
+          1	Dambesh
+          1	DanChurch Aid
+          1	Dangaji Village
+          1	Danish Refugee Council | Danish Deming Group
+          1	Dar Petroleum VIP Helipad
+          1	Dar es Salam
+          1	Dar es Salam Church
+          1	Dar es Salam Road (Char Franco)
+          1	Darfur Market
+          1	Darjo
+          1	David's House in Doro
+          1	Debalo
+          1	Debris?
+          1	Dedigo
+          1	Deim Zubeir
+          1	Delegation of the European Union to the Republic of South S
+          1	Delicious Hotel
+          1	Dembe
+          1	Dembe Community
+          1	Deng
+          1	Deng Gak
+          1	Dengdor 1
+          1	Dengdor 2
+          1	Dengdor 3
+          3	Dengluoth Primary School
+          1	Denis
+          1	Dentema
+          1	Denthoma
+          2	Denthoma 2 Market
+          3	Der
+          1	Dera
+          1	Dera Community Borehole
+          1	Destroyed: Operating Theatre
+          1	Deutsches Eck
+          1	Dhiak Kuei
+          1	Dhiene Yuol
+          2	Dhornor
+          1	Dhow
+          2	Diabio
+          1	Diak
+          1	Diakonie Katastrophenhilfe
+          1	Dial
+          1	Diamonds Hotel
+          1	Diboc
+          1	Diclili
+          1	Diel
+          1	Diem Zubeir
+          1	Dikbara
+          1	Dikbayak
+          1	Diknyala
+          1	Dina's Restaurant
+          2	Dindin
+          1	Dining
+          1	Dinkar
+          1	Diplomat Hotel
+          1	Dire Petrol
+          1	Directorate of Commerce
+          1	Directorate of Veteranary
+          1	Dirt Path 1
+          1	Dirt Path 2
+          1	Dispensary
+          1	Division HQ
+          1	Diwado
+          1	Djebel
+          2	Dock
+          1	Doha Petrol Station
+          1	Dok Presbyterian Church
+          1	Dokkul
+          1	Dokul bridge
+          1	Doleib Hill
+          8	Doleib_Hill-Malakal
+          1	Dolieb
+          1	Dolobo
+          1	Dolobo Community Borehole
+          1	Dolobo Corner Curve
+          1	Dolobo Enterprises
+          1	Dolobo Grinding Mill
+          1	Dolobo Market
+          1	Dolobo Market Public Rubish Pit
+          1	Dolobo Meat Supply
+          1	Doloth
+          1	Doma
+          1	Doma Primary Health Care Centre
+          1	Don Bosco Parish
+          1	Dongoda
+          1	Dongotona
+          1	Dongoture Borehole
+          1	Dongoture Community Borehole
+          1	Dongture
+          2	Dor
+          1	Dor Centre
+          2	Doro
+          2	Doro Refugee Camp
+          2	Dortuol
+          1	Doruma
+          1	Doruma Airport
+          1	Doruma-Nagasi
+          1	Dot
+          1	Dr John Garang International School
+          1	Dr John Garang Road
+          1	Dr's Building
+          1	Dream Hotel
+          1	Drink & Sheesha
+          1	Dualjany
+          2	Duar
+          1	Duar(Oil Field)
+          1	Dubai Bakery
+          1	Dube's Shop
+          1	Dubo Drug Shop
+          1	Dubu
+          1	Dufile
+          1	Dufile Primary School
+          1	Dugrout
+          1	Duk
+          1	Duk Fadiet
+          1	Duk Padiet
+          1	Duk Payuel
+          2	Duk_Padiet-Ayod
+          5	Duk_Padiet-Waat
+          1	Dukduk
+          1	Dukir
+          1	Duku
+          1	Duku Olivia's Retail Shop
+          1	Duku Simons Shop
+          1	Dukuret
+          1	Dunkuya
+          1	Duyi
+          1	Dwak
+          1	EC Sudan Secondary School
+          1	ECS Cathedral
+          1	ECS Compound
+          1	ECS Dinka Congregation
+          1	ECS Guest House
+          1	ECS Guesthouse
+          1	ECS Immanuel Cathedral
+          1	ECS St. Immanuel Cathedral
+          1	ECS St. Phillip Church
+          1	EPC Clinic Yei
+          1	EPC Garage
+          1	EPC Meeting Hall
+          1	EPC Nehemia Nursery School
+          1	EPC Nehemiah Primary School
+          1	EPC Radio 88.4
+          1	EU Compound
+          1	Eagle Air Yei Office
+          1	Eastern Equatoria
+          1	Eastern Equatoria State
+          1	Echo Bank Head Office
+          1	Edele
+          1	Eden Church
+          1	Eden Nursery School
+          1	Edu Island
+          1	Edward
+          2	Edward Court Apartments
+          1	Egyptian Clinic
+          1	Ehkätie
+          1	Ejército Moyo
+          1	El Aburu
+          1	El Amin Hospital
+          1	El Fil
+          1	El Glama Primary School
+          1	El Mashash
+          1	El Salaam
+          1	El Seriha
+          1	El Zeka
+          1	Elegu Collection Point
+          1	Elegu Market
+          1	Elegu Primary School
+          1	Elegu Trading Centre
+          1	Elemi Triangle
+          2	Elemi Triangle - Kenya
+          1	Elite Residence
+          1	Eliza
+          1	Embassy of Canada
+          1	Embassy of the Arab Republic of Egypt
+          1	Embassy of the Federal Republic of Germany
+          1	Embassy of the French Republic
+          1	Embassy of the People's Republic of China
+          1	Embassy of the Republic of Kenya
+          1	Embassy of the Republic of Turkey
+          1	Embassy of the United Kingdom
+          1	Embassy of the United States of America
+          1	Emma Secondary School
+          1	Emma's Grave
+          1	Emtitode
+          1	Enkitang
+          1	Enviromental Alert
+          1	Epicostal church
+          1	Episcopal Church of South Sudan
+          3	Equity Bank
+          1	Equity Coorporate Bank Section
+          1	Era Primary School
+          1	Eremi Primary School
+          1	Erepi
+          1	Erepi Primary School
+          1	Erepi Primary Teachers College
+          1	Eria Primary School
+          1	Etele Primary School
+          1	Ethiopian Restaurant
+          1	Evangelical Presbyterian Church
+          1	Evangelical Presbyterian Church of South Sudan
+          1	Evenpuisto5/5
+          1	Ez Zeraf Game Reserve
+          1	Ezo
+          3	Ezo-Nagasi
+          1	Ezo-Yangiri
+          1	Ezo-Yubo
+          1	F O R E S T
+          2	F o r e s t
+          1	FM STATION
+          1	FREEDOM  HALL
+          1	Fadallah home
+          1	Faima
+          1	Faisal Bank
+          1	Faiu
+          1	Fakwar
+          1	Fanus
+          1	Faraksika
+          1	Faraksika-Maridi
+          1	Faraksika-Mundri
+          1	Farm House
+          1	Faruq Koloa
+          1	Faruq Koloa Latrine
+          1	Fashoda Youth Forum
+          1	Fataha Primary School
+          1	Fathai
+          1	Fathau
+          1	Father Biribawo Primary School
+          1	Father Biribawo Secondary School
+          1	Fathworo
+          1	Fc Hospital
+          1	Female Abolutions
+          1	Fence
+          1	Field
+          1	Finn Church Aid
+          1	Firka
+          1	Firtait
+          1	Fish market
+          1	Food storage WFP
+          3	Football field
+          1	Football ground
+          1	Footpath
+          1	Forcier Consulting Company
+          7	Forest
+          1	Fork And Fingers
+          1	Former ACTED office
+          1	Fr Bilbao nursery school
+          1	Fraser Lake 1
+          1	Fraser Lake 3
+          1	Frasers Lake 2
+          1	Frasers Lake 4
+          1	Free Voice
+          1	Freedom Barber Shop
+          2	Freedom Hotel
+          1	Freedom Hotel Restaraunt
+          1	Freedom Square
+          1	Freedom Square Borehole
+          1	Freedom Square Konyo-konyo
+          3	Freedom Street
+          2	Fuel Station
+          1	Full Gospel Church Worlwide
+          1	GENTEL CLINIC
+          1	GIZ Hai Cinema
+          1	GIZ YEI
+          1	GOAL
+          2	GOAL Health Center
+          1	GOSS Secretariat
+          1	GUDELE  SURGICAL CLINIC
+          1	GUSHEN CHURCH
+          1	GUSHEN HOUSE
+          1	Gaar Road (River Road)
+          1	Gabat Market
+          1	Gabot Health Center
+          2	Gabu Iyi
+          1	Gabur
+          1	Gadiang
+          1	Gadiang Airfield
+          1	Gaikwach
+          1	Gaireng
+          1	Gaji
+          1	Gambela
+          1	Gambela National Park
+          1	Games for you
+          1	Gamyiic
+          1	Ganda
+          2	Ganyiel
+          1	Gap Mayom
+          1	Garamba
+          1	Garden Resort
+          1	Garieng
+          2	Gasmala
+          1	Gbalia
+          3	Gbangatulu
+          1	Gbangatulu Village Borehole
+          1	Gbari Primary School
+          1	Gboro And Brothers
+          1	Gborogborochu
+          1	Gborogborochu Community Borehole
+          1	Gbudue Street
+          1	Gebel Dagobasa
+          1	Geigar
+          7	Gel
+          1	Gel River
+          1	Gele & Sons Enterprises
+          1	Gemmaiza
+          1	Gemtel Customer Care Center
+          1	Gendrassa
+          2	Generator Shed
+          1	Georgia Hotel
+          1	Gerbena
+          1	Gerebe
+          2	German Leprosy & TB Relief Association office
+          1	German Leprosy &TB Relief Association
+          1	Ghousia Supermarket
+          1	Giada Military Baracks
+          1	Giamciar
+          1	Gideon Theological College
+          2	Giel 1
+          2	Giel 2
+          2	Gier
+          1	Gilo
+          1	Girbanat
+          1	Giripio
+          1	Giwaya
+          1	Giwaya Church Of Uganda
+          3	Giwaya Community Borehole
+          1	Global Communities
+          1	Go Down Bar
+          1	GoSS Ministries & Assembly
+          1	GoSS offices
+          1	Goboro Primary School
+          2	Gogrial
+          4	Gogrial-Abyei
+          5	Gogrial-Aweil
+          1	Gogrial-Warrab
+          2	Gok Machar
+          1	Gok Machar Market
+          1	Gok Machar PHCC
+          2	Gold Panning
+          2	Gold Pits
+          1	Golden
+          1	Golden Hills Appartment
+          1	Goldwong
+          1	Goli
+          1	Goli Hospital
+          1	Golmayen
+          1	Gombura Street
+          2	Gondokoro غندكرو
+          1	Gondu Yii
+          1	Goopi Primary School
+          1	Gordhim
+          1	Goreisho
+          1	Gorok
+          2	Gorwai
+          1	Governments Cantonment
+          1	Governor's Grave
+          2	Greater Nile Oil Pipeline
+          2	Greater Nile Oil pipeline
+          1	Green Hotel
+          1	Group of homes
+          2	Guat
+          2	Gudele Road
+          2	Gudele-MiaSaba Road
+          1	Gudele-Munuki Roundabout
+          2	Guel Guk
+          1	Guel Guk (oil field)
+          1	Guic
+          1	Guingor
+          1	Guke
+          1	Gulelegu
+          1	Gullop
+          1	Gulubu
+          1	Gumriak
+          1	Gumriak 2
+          1	Gumriak 3
+          4	Gumuruk
+          1	Gumuruk Market
+          1	Gumuruk Payam Administration
+          1	Gunjang
+          1	Gurba
+          1	Guril
+          1	Gurnyang
+          1	Gutthom
+          1	Gwere-Luzira Power Station
+          1	Gwojo-Adung
+        407	H
+          1	H2
+          1	H3
+          1	H4
+          1	H5
+          2	HAMLET
+          2	HASS
+          1	HASS Petrol Station
+          1	HDC
+        111	HH
+          1	HIV/AIDS Commission
+          2	Haat
+          1	Haba
+          1	Hafir
+          1	Hai Amarat
+          1	Hai Amarat Wastewater pond
+          1	Hai Atlabara 'A'
+          1	Hai Atlabara 'B'
+          1	Hai Atlabara 'C'
+          1	Hai Buluk
+          1	Hai Cinema
+          1	Hai Commercial
+          1	Hai Dar el Salam
+          1	Hai Durapi
+          1	Hai Engaz
+          1	Hai Ghabat
+          1	Hai Gonya
+          1	Hai Gudele (Ministry)
+          2	Hai Gudele 1
+          2	Hai Gudele 2
+          1	Hai Gumbo
+          1	Hai Jalaba
+          1	Hai Jebel
+          1	Hai Jerusalem
+          1	Hai Jopha
+          1	Hai Juba Na Bari (Thong Ping)
+          1	Hai Kator
+          1	Hai Kator West
+          1	Hai Khor Dab Dab
+          1	Hai Konyo Konyo
+          1	Hai Kosti
+          1	Hai Kuweit
+          1	Hai Lologu
+          1	Hai Machuor
+          1	Hai Malakal
+          1	Hai Malakia
+          1	Hai Mia Saba
+          1	Hai Mouna
+          1	Hai Munuki Block 'A'
+          1	Hai Munuki Block 'B'
+          1	Hai Munuki Block 'C'
+          1	Hai Muozifin
+          1	Hai Neem
+          1	Hai Neem (near Equatoria Tower)
+          1	Hai Negli
+          1	Hai New Site
+          1	Hai Nimra Talata
+          1	Hai Nyakama
+          1	Hai Nyakuron
+          1	Hai Nyakuron Imtidat
+          1	Hai Nyakuron West
+          1	Hai Sakha
+          1	Hai Salam Basic School
+          1	Hai Soura
+          1	Hai Suk Hager
+          1	Hai Suki Zande
+          1	Hai Tarawar
+          1	Hai jebel primary health care unit
+          1	Haja Achans house
+          1	Halaka
+          1	Halbul primary school
+          9	Hama
+          1	Hama (Faith-based NGO)
+          1	Hama Borehole
+          2	Hamia Road
+          1	Hamlet
+          2	Hamza Inn
+          1	Handicap International
+          1	Happy Street
+          1	Harbor Nasir
+          1	Hardware Store
+          1	Harvesters Reaching the Nations
+          1	Hash Harriers House Beach
+          1	Hass
+          1	Haut-Mbomou
+          1	Haut-Uele
+          1	Haute-Kotto
+          1	Health Centre
+          1	Healthcare Waste Management Area
+          1	Healthnet TPO
+          1	HelpAge International
+          2	Hemlet
+          1	High Court & Judiciary
+          1	High Mission Road
+          2	Higlig-Bentiu
+          1	Hillview Bar
+          1	Hillview Hotel
+          1	His House of Hope
+          1	Holiday restaurant
+          1	Holy Cross Catholic Church
+          2	Holy Family Cathedral
+          1	Holy Rosary Church
+          2	Holy Trinity Catholic Church
+          1	Home & Away
+          1	Home Dave Primary School
+          1	Hospital
+          1	Hospital gouvernemental
+          1	Hotel & Restaurant
+          1	Hotel Intra-Africa
+          1	Hotel Juba Regency
+          1	Hotel Panorama
+          1	Hotel Panorama Plaza
+         14	House
+          1	Houses
+          1	Humanitarian Camp
+          1	Humanitarian compound (EU-IOM)
+          1	Humanitarian hub
+          1	Hungry Hippo
+          1	Huntau
+         10	Hus
+         91	Hut
+          1	Huts
+          1	Hyjamia Street
+          1	I am not sure whether it´s a building
+          3	IAS
+          1	IAS Mayen achien
+          1	IAS, Thouic bh
+          1	IBIS
+          3	ICRC
+          1	ICRC Borehole
+          1	IDP Camp
+          2	IDP Camp Denthoma 1
+          1	IDP Camp Denthoma 2
+          1	IDP camp
+          1	IGAD HQ
+          1	IMA World Health
+          1	IMC Head Office
+          1	INTERSOS
+          1	IOM
+          1	IOM/OIM
+          1	ITFC
+          1	ITFC Overflow
+          7	Ibba
+          1	Ibra
+          1	Idaya Adibu Mosque
+          1	Idaya Adibu Mosque Latrine
+          1	Iga
+          1	Ijoviga Yii
+          1	Ikotos
+          1	Ikotos Airfield
+          1	Ikotos-Chukudum
+          1	Ikotos-Uganda
+          1	Ikpiro
+          1	Ikpiro Road
+          1	Il Paradiso
+          1	Illi Valley Primary School
+          2	Imatongas
+          1	Imatongas Torit
+          2	Imehejek
+          3	Imehejek-Lafon
+          1	Immanuel Primary School
+          1	Immanuel Secondary School
+          1	Immigration
+          1	Immigration (Alien Registration)
+          1	Immigration Office
+          1	In a
+          1	Independence Road
+          1	Indian Tukul
+          1	Infaq Oluga Mosque
+          1	Ingile
+          1	Iningo Street
+          1	Injo Pio
+          3	Inpatient Department
+          3	International Aid Services
+          1	International Aid Services NBEG
+          1	International Aid Services guest houde, Tomping
+          2	International Christian Assembly
+          1	International Committee of Red Cross
+          1	International Committee of the Red Cross (ICRC) Compound
+          1	International Medical Corps
+          1	International Rescue Committee
+          1	IntraHealth
+          1	Isaac Stadium
+          1	Islamic Council
+          3	Island
+          1	Isoke
+          1	Istanbul
+          1	Istanbul Restaurant
+          1	Itele
+          1	Ituri
+          1	Ivory Bank
+          1	JCC Church
+          1	JCC Kindergarden and Basic School
+          1	JICA
+          1	JIT
+          1	JIT Supermarket
+          1	JMEC
+          1	JRS
+          1	Jaac
+          1	Jabal Birnu
+          1	Jabal Lodio
+          1	Jabal Manga
+          1	Jackson
+          3	Jaguar
+          1	Jaguar Primary Healthcare Unit
+          1	Jaguar Primary School
+          2	Jaguar Road
+          1	Jale Enterprise
+          1	Jalhak
+          1	Jaliny
+          1	Jallo Park
+          1	Jama
+          1	Jamam-Bunj Road
+          1	Jambo
+          3	Jambo-Lainya
+          1	Jame Moses Enterprise
+          2	James
+          2	James Apartments
+          2	James Hotel
+          1	Jamus
+          1	Janam
+          1	Jankok
+          1	Jayi
+          1	Jazeera
+          1	Jazeera Village
+          1	Jebel  Lado farms
+          1	Jebel Kujur
+          1	Jebel Lodge
+          1	Jebel Lodge Hotel
+          1	Jebel Market
+          3	Jebel Road
+          1	Jebel Tamitiro
+          2	Jehova's Witness Church
+          1	Jehova's Witness Compound
+          1	Jellab
+          1	Jeri Yii
+          1	Jhpiego
+          1	Jiath
+          1	Jiath Bridge
+          3	Jiech
+          1	Jikaw
+          2	Jikawo
+          2	Jikmir
+          1	Jikou-Maiwut
+          1	Joan Jessys Restaurant
+          1	Johanniter International
+          1	John Garang Mausoleum Park
+          1	John Garang's Memorial
+          1	Johny auto garage
+          1	Joint Verification and Validation Mechanism
+          1	Jonglei
+          1	Jonglei Canal
+          1	Jonglei State
+          1	Joseph Gasi Secondary School
+          1	Jotome
+          1	Juaboir
+          2	Juba
+          6	Juba - Kajo Keji
+          1	Juba -KajoKeji Road
+          1	Juba Academy
+          3	Juba Bridge
+          1	Juba Cinima
+          1	Juba Civil Hospital
+          1	Juba Council of Churches Workshop
+          1	Juba Diocesan Model Secondary School
+          1	Juba Grand
+          1	Juba Grand Hotel
+          1	Juba International Airport
+          1	Juba Market
+          1	Juba Men's Prison
+          1	Juba Orphanage
+          1	Juba Radio Station
+          1	Juba Raha
+          1	Juba Raha Hotel
+          3	Juba Road
+          1	Juba Stadium
+          1	Juba Town
+          1	Juba University Road
+          1	Juba University Roundabout
+          2	Juba University Staff Housing
+          1	Juba University Staff Quater
+          1	Juba na-Bari
+         46	Juba-Kapoeta
+          1	Juba-Kapoeta, Nimule Highway
+          6	Juba-Lainya
+         11	Juba-Mangalla
+         19	Juba-Mundri
+          4	Juba-Sindiru-Karpeto-Moli
+          2	Juba-Sindiru-karpeto-Moli
+          3	Juba-Terakeka
+          1	Juba-Terakeka Road (Khor mobil)
+          1	Juba-Terekeka Road (Khor Mobil)
+          1	Juba-Yei New
+          1	Jubal Basic School
+          1	Juban
+          1	Jubek State Ministry of Health
+          1	Jukokurembe Road
+          1	Juma
+          1	Juong Borehole
+          1	Jurua Grinding Mill
+          1	Jurudan Yii
+          1	Just Romours
+          1	K5
+          3	KCB Bank
+          1	KCB Kenya Commercial Bank
+          1	KK Sweet Honey Limited
+          1	KWICH
+          1	KWICH payam
+          1	Kaabong
+          2	Kaang Koc
+          1	Kabash Inn
+          1	Kabash Road
+          2	Kaboro
+          1	Kadet
+          1	Kadio Market
+          1	Kadio Market Latrine
+          1	Kadio Mosque
+          1	Kadio Mosque Latrine
+          1	Kagelu Teak Farm
+          1	Kagoropa Primary School
+          1	Kai Gai Primary
+          1	Kaikuny
+          1	Kajo Kaji
+          1	Kajo Keji
+         10	Kajo Keji-Yei
+          2	Kajo-Keji-Moli
+          2	Kaka
+          1	Kakelay-Lotukei
+          1	Kakor
+          1	Kal Kaal Petrol Station
+          1	Kala Yii
+          1	Kalana North
+          2	Kaldak
+          1	Kaldak-Canal Road
+          1	Kalodoputh
+          1	Kalook
+          2	Kamel
+          1	Kampala Bar
+          1	Kampala International clinic
+          1	Kanatorok Hot Spring
+          3	Kandak
+          4	Kangen
+          1	Kangi
+          1	Kanyawal
+          1	Kapaat
+          1	Kapoeta
+          1	Kapoeta Airport
+          1	Kapoeta Market
+          3	Kapoeta-Chukudum
+          1	Kapoeta-Kassangor
+          5	Kapoeta-Lauru
+          1	Kara
+          1	Karair
+          2	Kareloboboka
+          3	Karenga-Torit Road
+          1	Karibu Shoma
+          1	Karkade Tea House
+          1	Kassangor
+          3	Kassangor-Biat
+          2	Kassangor-Boma
+          1	Katajok Wells
+          1	Katdalok
+          1	Katieth
+          1	Katinga
+          1	Kator Market
+          2	Kaya
+          1	Kaya Primary School
+          3	Kaya Road
+          1	Kaya-Yei
+          2	Kaygaii
+          2	Kechi
+          1	Keew
+          1	Keir
+          1	Kelero
+          1	Kemande
+          1	Kena River
+          1	Kenda
+          1	Kendra
+          2	Kendra Community Borehole
+          1	Kendra Primary School
+          1	Kendra Primary/mosque Public Toilet
+          1	Kengezi
+          1	Kengezi Base
+          1	Kenia Namoruputh
+          1	Kenya
+          1	Kenya - Ethiopia
+          2	Kenyi
+          1	Kenyi Clemen
+          1	Kenyi Clements Video Hall
+          1	Kenyi Morris Shop
+          1	Kera
+          1	Keren Hotel
+          1	Kerepi
+          1	Keriel
+          1	Kerika
+          1	Kernyang
+          1	Kerwa
+          1	Kerwa Headquarters Latrine
+          1	Kerwa Primary School
+          1	Kerwa Primary School Borehole
+          1	Kerwa Primary School Rubbish Pit Point
+          1	Kerwa Primary School Toilets
+          1	Kerwa Primary School Water Tank
+          1	Kerwa Secondary School
+          1	Kerwa Secondary School Borehole
+          1	Kerwa Sub-County Headquarters
+          1	Kerwa UPDF Barracks
+          1	Kevecho
+          1	Keyala
+          4	Keyala-Ikotos
+          1	Khadija
+          1	Khor Koss
+          1	Khorfulus
+          1	Khorr Hajar
+          1	Khot
+          2	Kibish
+          1	Kibish Shet'
+          1	Kibish Wells
+          1	Kida
+          1	Kidepo
+          1	Kidepo Game Reserve
+          3	Kidepo River
+          1	Kidepo Valley National Park
+          1	Kidish Wells
+          2	Kiech Kuon
+          1	Kigile
+          1	Kiiric Water Site
+          1	Kilagnanga
+          1	Kilaji
+          1	Kilaji Drug Shop
+          1	Kilaji Hotel
+          1	Kilaji Pentecostal Church
+          1	Kilaji Pentecostal Church Public Toilet
+          1	Kilaji Popular Bar
+          1	Kilaji Primary School
+          1	Kilaji Primary School Borehole
+          1	Kilaji Primary School Toilet
+          1	Kilkel
+          1	Kilo 10/Ban Jallo
+          1	Kilo 15 Centre A
+          1	Kimatong
+          1	Kimatong-Camp 15
+         20	Kimatong-Chukudum
+          1	Kimberly Pio
+          1	Kimotong
+          1	Kimotong-Bor
+          1	Kimotong-Kapoeta
+          1	Kimu Mosque
+          1	Kimu Mosque Latrine
+          1	Kimu Stream
+          1	King primary school yei
+          1	Kinji Primary School
+          1	Kirik
+          1	Kissito Healthcare International
+          3	Kitchen
+          2	Kiterazawia 2
+          1	Kitgum
+          1	Knich
+          1	Koat
+          1	Koboji
+          1	Koboko
+          1	Koburua
+          2	Koch
+          1	Koch County Commissioner's Office
+          1	Koch Market
+         10	Koch Primary Healthcare Centre
+          1	Koch-Leer Road
+          1	Kochonga Community Borehole
+          1	Kodok
+          1	Kodok كودوك‎
+          4	Kodok-Malakal
+          1	Kogbo A
+          1	Kogbo Community Borehole
+          1	Koich
+          1	Koka
+          1	Kokfiat
+          1	Kokora Road
+          1	Kokuro
+          1	Kolmerek
+          1	Koloa
+          1	Koloa Community Borehole
+          1	Koloa Primary School
+          1	Kolokolo Primary School
+          1	Kololo
+          1	Kololo Church
+          1	Kololo Church Latrine
+          1	Kololo Community Borehole
+          1	Kololo Community Primary School
+          1	Koloro
+          1	Konbek
+          1	Kong Kong
+          1	Konga
+          1	Kongolo Primary School
+          3	Kongor
+          2	Koniki
+          1	Konio Konio
+          1	Konna
+          1	Konyier
+          1	Konyo Konyo Market
+          4	Konyokonyo Road
+          1	Kor Bou River
+          1	Korath Range
+          1	Koratong
+          1	Korier
+          1	Korkalanch
+          1	Kosho
+          1	Kosho Airstrip
+          1	Kosta Kosta
+          1	Kot
+          1	Kotdalok
+          1	Kothiroi
+          1	Kotobi
+          2	Kotobi-Gariya
+          2	Koulier
+          1	Koulier Hand Pump
+          1	Kuac
+          1	Kuach
+          1	Kuajiena
+          2	Kuajok
+          1	Kubbas
+          1	Kubi
+          3	Kubri Abuba
+          1	Kuda
+          1	Kudo
+          1	Kuek
+          1	Kuem-Let
+          1	Kuerguini
+          1	Kuerklang
+          2	Kuernyang
+          1	Kuey
+          1	Kuidko
+          3	Kulachara
+          1	Kulachara Community Borehole
+          1	Kulachara Iyi
+          1	Kuleng Ethoay
+          1	Kuleng Pakual
+          1	Kuleu
+          1	Kuliny
+          1	Kulugur
+          2	Kuok
+          1	Kuok Primary Healthcare Unit
+          3	Kuok Primary School
+          1	Kuom
+          1	Kuom Bridge
+          1	Kuomdhol
+          1	Kuona
+          1	Kuotke
+          1	Kupia
+          1	Kupia Community Borehole
+          1	Kurchok
+          1	Kurmot
+          1	Kuron
+          1	Kurur
+          2	Kurwai
+          1	Kurwei bh
+          1	Kutul
+          1	KuutioCity
+          1	Kuyi
+          1	Kwack
+          1	Kwaje Mary Retail Shop
+          1	Kwek Makur
+          1	Kwogo
+          1	Kwoinlo
+          1	Kwonyrek
+          1	Kworijik
+          1	Kworjik
+          1	Kyeyo Primary School
+          1	Kykkoskela
+          1	Ködörösêse tî Bêafrîka - République Centrafricaine
+          2	LINDIK
+          1	LWF
+          1	La Baguette Bakery
+          2	Labone
+          2	Labrab
+          2	Lafon
+          1	Lafon Mountain
+          4	Lago
+          1	Lago Benjamín
+          1	Lago Cristina Lamuño
+          1	Lago Ubales
+          1	Lagon Iván Arias
+          1	Laguete
+          1	Lagón
+          1	Lainya
+          1	Lajak
+          1	Lake Abiad (Jau)
+          1	Lake Ambadi
+          1	Lake Kerrita
+          1	Lake Munideng
+          2	Lake No
+          1	Lake Shambe
+          1	Lake Tayer
+          1	Lake Yirol
+          1	Lakes
+          1	Lakes State
+          1	Lakes State Hospital
+          1	Lakes State Statehouse
+          1	Lakey Mc Lakeface
+          1	Lakitala
+          1	Lakujo Road
+          1	Lalanga
+          1	Lama Primary School
+          1	Lamuribenge Primary School
+          1	Lamuribenge Vocational School
+          1	Lamwo
+          1	Lamwoka Primary School
+          1	Land use
+          1	Landmark Hotel
+          3	Landuse Features=Residential Areas
+          4	Lang
+          1	Langcok
+          1	Langkap
+          1	Lankachot
+          2	Lankien
+          1	Lankien Airstrip
+          2	Lankien Swamp
+          1	Lankien to Thol
+          1	Lantoto National Park
+          1	Lanyduop
+          1	Lapak
+          1	Lara
+          1	Laso
+          1	Latrines
+          1	Laufori
+          1	Laundry & Washing Area
+          2	Lauru
+          1	Lauru School
+          1	Lauru-
+          1	Law reform Commission
+          1	Lawol
+          1	Le Bistro
+          1	Leal
+          1	Lechu Primary School
+          3	Leer
+          1	Leer County Commisioner's Office
+          1	Leer Freedom Square
+          1	Leer International Airport (MSF cargo container)
+          1	Leer Market
+          1	Leer Market Butchers
+          1	Leer Primary School
+          1	Leer on Top
+          6	Leer-Adok Road
+          1	Leer-Bentiu Road
+          2	Leer-Mayendit
+          1	Legeri
+          1	Leiko
+          1	Leju Brothers
+          1	Lekumuku
+          2	Lelo
+          1	Lemarribuch
+          1	Lemi David Shop
+          1	Leng
+          1	Lenyirith
+          1	Letimeko
+          1	Letimeko Community Borehole
+          1	Letimeko Iyi
+          1	Liang
+          1	Liap PHCU
+          2	Liberty Clock
+          1	Libya Basic School
+          1	Liethnom
+          1	Lieu
+          1	Life Bridge Pharmacy
+          1	Light house school
+          1	Liil 2
+         11	Likiberi-Sirsiri
+          2	Likuangole
+          4	Likuangole-Akobo
+          1	Lill
+          1	Lily’s
+          1	Lim Nuer Bar
+          1	Limidia High Secondary School
+          1	Limidia Primary School
+          1	Limu
+          1	Link House
+          1	Liri Primary School
+          1	Liria
+          1	Lismareng
+          1	Lithik Ateet
+          1	Living Waters Centre
+          1	Liyaywen
+          1	Llagin
+          1	Loa
+          2	Loba Yii
+          1	Lobilla
+          1	Lobira
+          1	Lobira-Ikotos
+          1	Local Dispensary
+          1	Local Restaurant
+          1	Local Tukul
+          1	Lodiom
+          1	Lodu Alex Grinding Mill
+          1	Lodu Bar
+          1	Lodu Brothers
+          1	Lofus
+          1	Logali House
+          1	Logirim
+          1	Logoa Primary School
+          1	Logoba
+          1	Logoba Primary School
+          1	Logoba Secondary School
+          1	Logunye Morris Shop
+          1	Lohutok
+          1	Lohutok Protestant Mission
+          1	Lojora
+         84	Lokichokio-Kapoeta
+          1	Lokimali
+          1	Lokongole
+          1	Lokopio Primary School
+          2	Lokubero Road
+          1	Lokwa Primary School
+          1	Lokwa Secondary School
+          3	Lol
+          1	Lol River
+          1	Lol pan Tong-IAS bh
+          1	Lologo (ii) IDP Center
+          1	Lologo (ii) IPD Center
+          1	Lologo IDP Center
+          1	Longa Roberts Retail Shop
+          1	Longamere
+          1	Longchok
+          1	Longo
+          1	Longtem
+          1	Lonjak
+          1	Lonyili
+          1	Lopeemugath
+          1	Lopoloden
+          1	Loree Atone
+          1	Loreje
+          1	Lori
+          1	Lornyang
+          1	Loronya
+          1	Loronyo
+          1	Lorus
+          1	Loruth
+          1	Lorutur
+          5	Lotilla
+          1	Lotimor
+          1	Lotimor School
+          2	Lotimor clinic
+          1	Lotome
+          1	Lotukei
+          1	Lou Khalaboun
+          1	Lou Specialised Clinic
+          1	Lou Specialized Clinic
+          2	Loual
+          1	Loual Hand Pump
+          1	Lower Ibba
+          1	Lowulang
+          1	Loya
+          1	Loya And Miyira Community Borehole
+          1	Loyal Stream
+          1	Luak Piny
+          1	Lual
+          1	Lual Leek
+          1	Lualdit
+          1	Lucy
+          1	Luel
+          1	Luella
+          1	Lui
+          1	Lui Hospital
+          1	Lujulo
+          1	Lukriyang
+          2	Lul
+          1	Lunguma Primary School
+          1	Lunyaker
+          1	Lunyaker-Thiet
+          1	Luri
+          1	Luri Rokwe
+          1	Lurunya Primary School
+          1	Luum
+          1	Luwaya Morris Grinding Point
+          1	Luwe (Gezira)
+          1	MAF Residence
+          1	MARKET
+          1	MBPO
+          1	MEDAIR
+          1	MEDAIR CLINIC
+          2	MENTOR Initiative
+          1	MOVCON
+          1	MSA 5
+          4	MSF
+          2	MSF CLINIC
+          1	MSF Health Center
+          1	MSF Hospital
+          2	MSF Latrines
+          1	MSF Water Treatment Plant
+          7	MSF Water point
+          2	MSF distribution center
+          1	MSF hospital
+          1	MSI
+          1	MTC
+          1	MTN
+          1	MTN Head quarters
+          1	MTN TOWER
+          1	Maar
+          1	Maban County
+          1	Mabeek
+          1	Mabek
+          4	Mabior
+          2	Mabior_Canal_Road
+          1	Mabiu
+          1	Mabok
+          1	Machoron
+          1	Machot
+          1	Macot
+          1	Mada Primary School
+          1	Madebe
+          1	Madebe-Egge
+          2	Madhol
+          1	Madial
+          2	Mading
+          1	Madol (U/Nile)
+          1	Madol-Dain
+          1	Mafi Road
+          1	Magang
+          1	Magera
+          1	Maguklolong
+          1	Magwe
+          1	Magwi
+          1	Magwi-Farajok
+         13	Magwi-Sirsiri
+          1	Mahute
+          1	Mai Sacchi
+          1	Main Entrance of University of Bahr el-Ghazal
+         99	Maison
+          1	Maiwuit-Longchuk
+          2	Maiwut
+          1	Majaak
+          1	Majak
+          1	Majak Deng Aguer
+          1	Majak Kaar
+          1	Majak Kaar PHCC
+          1	Majak awal,
+          1	Majak p. Sch
+          1	Majak p. School
+          1	Majak primary school
+          1	Majakliet
+          1	Majok Mut
+          1	Major's house & WWF camp
+          1	Makal Shilluk Island
+          2	Maker
+          1	Makol`
+          2	Makpandu
+          1	Makuag
+          1	Makuak
+          1	Makuei
+          1	Makuen Agap p. school
+          1	Makwac
+          1	Makwach
+          1	Malaka
+          1	Malaka Football Stadium
+          2	Malakal
+          1	Malakal Airport
+         10	Malakal-Bentiu
+          2	Malakal-Jamam Road
+          4	Malakal-Naseer
+         13	Malakal-Wuntau__East
+          1	Malakia Basic School
+          1	Malakia Health Center
+          2	Malakia Market
+          1	Malakia Police Post
+          1	Malakia Sports Center
+          1	Malaria Consortium
+          1	Malau
+          1	Malau_Pech
+          2	Male Abolutions
+          1	Male Gumel borehole
+          1	Male abolutions
+          1	Malek
+          1	Malek Agok
+          3	Malek Alel
+          1	Malek Alel Market
+          1	Malek Alel PHCU
+          1	Malek Gumel
+          1	Malek Senior Secondary School
+          1	Maliki Yii
+          1	Malith
+          1	Maloing
+          1	Malou
+          1	Malteser
+          1	Malual
+          2	Malual Bai
+          1	Malualbai
+          1	Malualbai p school
+          2	Malualkon
+          1	Malualkon Market
+          1	Malualkon PHCC
+          2	Malualkon-Akak
+          2	Malualkon-Akon
+          2	Malualkon-Sumeih
+          1	Maluil Akong
+          1	Maluo
+          1	Malwal
+          3	Malwal-Old_Fangok
+          1	Mama Hotel
+          1	Mama Mary
+          1	Mama Modong
+          1	Mambara
+          1	Mambe
+          2	Manajang
+          1	Mandegal
+          1	Mandeng
+          2	Mangalla-Bor
+          2	Mangar Angui
+          1	Mangartong
+          1	Mangayat
+          1	Mangjang
+          2	Mango Camp
+          2	Mango trees
+          1	Mangok
+          1	Mangole
+          1	Mankien
+          1	Mankuo
+          1	Mantakaro
+          1	Manteloch
+          1	Manyabol
+          2	Manyat
+          1	Manyiel
+          1	Manyumen
+          1	Mapair
+          1	Mapase
+          2	Mapear
+          1	Mapel
+          1	Mapoko
+          2	Marakulu
+          2	Marakulu Community Borehole
+          1	Mareng Akal wek-IAS bh
+          1	Margian
+          2	Marial
+          1	Marial Baai
+          1	Marial Bai
+          1	Marial Lou
+          1	Marida Airport
+          1	Maridi
+          1	Maridi Road
+          7	Market
+          1	Maror Market
+          1	Martha Clinic
+          1	Maruka-Madebe
+          1	Maruwa
+          1	Mary John Primary School
+          1	Mary Stopes International Residence
+          1	Masa Yii
+          1	Masaloa Primary School
+          1	Mashra Hamadok
+          1	Masiya Market
+          1	Masiya Nursery & Primary School
+          1	Masiya Pharmacy
+          1	Masiya Police Station
+          1	Matalogbong Church Of Uganda
+          1	Matar
+          1	Maternity & Lab
+          1	Mathew Inn
+          4	Mathiang
+          1	Mathing
+          1	Matu
+          1	Matu Bicycle Repairs
+          1	Matu Brothers
+          1	Matu Church Community
+          1	Matu Clinic
+          1	Matu Community Borehole
+          1	Matu Depot
+          1	Matu Hotel
+          1	Matu Pentecostal Church
+          1	Matu Popular Bar
+          1	Matu Primary School
+          2	Matu Primary School Rubish Pit
+          2	Matu Primary School Toilet
+          1	Maud
+          1	Mauna Classic Hotel
+          1	Maurintie
+          1	Mawien Dit clinic
+          1	May Basic School
+          1	Mayelic
+          1	Mayen Abun
+          1	Mayen Achien
+          1	Mayen Achien-IAS bh
+          1	Mayen Dit
+          1	Mayen Jur
+          1	Mayen Loic
+          1	Mayen Pajok
+          1	Mayen Ulem
+          1	Mayen Ulem PHCC
+          1	Mayen Ulem market
+          2	Mayendit
+         15	Mayendit-Shambe
+          2	Mayom
+          1	Mayom Akol
+          1	Mayom Deng Akol
+          1	Mayom Heliport
+          3	Mayom-Duar
+          1	Mayual
+          2	Mbomou
+          1	Meat Market
+          1	Meat market
+          2	Medair
+          1	Medair Abayok PHCU
+          1	Medar
+          1	Medecins Sans Frontieres (MSF): Expat Compound
+          1	Medecins Sans Frontiers Suisse
+          1	Medenkwoin
+          1	Medi care Health Clinic
+          1	Medical Clinic
+          1	Medicines Sans Frontieres Lankien
+          1	Megak
+          1	Melisia-Libiya Road
+          1	MelkeeKuutioCity
+          1	Melut
+          1	Melut - Mabek track
+          1	Melut Hospital
+          1	Mena
+          1	Mena Primary School
+          3	Menime
+          1	Meninger
+          1	Mennonite Central Committee
+          1	Mentor primary school
+          1	Menzere
+          1	Mercy Cafeteria No 2
+          3	Mercy Corps
+          1	Merua
+          1	Merue Stream
+          1	Merwa
+          1	Merwa Boyz
+          1	Merwa Clinic
+          1	Merwa Primary School
+          1	Merwa Progressive College
+          1	Mesheitir
+          2	Metu
+          1	Metu Secondary School
+          1	Metuli
+          1	Meturu
+          1	MiG19
+          1	Mianga Church Of Uganda
+          1	Mianga Church Of Uganda Latrine
+          1	Mianga Nursery School
+          1	Midan Rambo
+          1	Midel
+          9	Midland Highway
+          1	Might be a house? not enough resolution
+          1	Mijale
+          1	Mijale Amazing Grace Baptist Nursery And Primary School
+          1	Mijale Church Of Uganda
+          4	Mijale Community Borehole
+          1	Mijale Primary School
+          1	Mijale Toilets
+          1	Mijale Transit Centre
+          1	Mijali Hotel
+          1	Mijikita Catholic Church
+          1	Mijikita Community Borehole
+          1	Mijikita Primary School
+          1	Mijikita Primary School Toilets
+          1	Mijikita Primary School Water Tank
+          1	Mikaya And Sons Tower
+          1	Military Area Basic School
+          1	Military Hospital
+          1	Militia Market
+          1	Milk Kitchen
+          1	Miluol
+          1	Mina
+          1	Minamba
+          1	Mine Action Group
+          2	Mini Depot For Drinks & Beverages
+          1	Minibus Station
+          1	Minibus Stop
+          4	Ministries Road
+          2	Ministry Affairs
+          2	Ministry Education
+          1	Ministry Finance
+          1	Ministry Housing
+          1	Ministry Information
+          3	Ministry Telecommunications
+          1	Ministry Transport
+          2	Ministry of Agriculture
+          1	Ministry of Agriculture & Forest
+          1	Ministry of Commerce and Supply
+          1	Ministry of Culture and Information
+          2	Ministry of Education
+          1	Ministry of Engineering Affairs
+          2	Ministry of Finance
+          4	Ministry of Health
+          1	Ministry of Health(Bor Hospital)
+          1	Ministry of Housing
+          1	Ministry of Information
+          1	Ministry of Interior
+          1	Ministry of Justice
+          2	Ministry of Legal Information
+          1	Ministry of Public Services
+          1	Ministry of Social Affairs
+          2	Ministry of Tourism
+          1	Ministry of Water, Cooperatives and Rural Development
+          2	Ministry of the Interior - Immigration Office
+          2	Minkamman
+         11	Minkamman-Yirol
+          1	Minmin
+          1	Minyal Public Market
+          2	Mir Mir
+          1	Mir Mir PHC
+          1	Mir Mir PHU
+          1	Mir Mir Primary School
+          1	Mirikalanga ECS Church
+          2	Mirnyal
+          1	Missa Lul
+          2	Mission
+          1	Mission Aviation Fellowship
+          1	Mission Aviation Fellowship - Airport Check In Office
+          1	Mission Aviation Fellowship - Airport Office
+          1	Mission Aviation Fellowship - South Sudan (MAF)
+          1	Miyira
+          1	MoH/Unido Clinic
+          1	Mocha
+          1	Modit Feeding Centre
+          2	Modunuso
+          1	Moga Jacob Iyi
+          1	Mogiri
+          3	Mogok
+          1	Mojukorocho
+          1	Mokonzi Street
+          1	Moli
+          1	Moll Tokuro
+          1	Monar
+          1	Money Changers
+          2	Mongalla
+          1	Monoja
+          1	Monsoon
+          1	Monsoons
+          1	Monte Naqua
+          1	Monte Tosco
+          1	Monti Cutul Birino
+          1	Mopai
+          1	Morgue
+          1	Morobo
+          1	Morokita
+          1	Morokita Community Borehole
+          1	Morsak
+          1	Moses Shop
+          1	Mosh petrol
+          1	Mosingo
+          3	Mosque
+          1	Mosque Market
+          1	Mosque Road
+          4	Motot
+          1	Motot - Lankien Road
+          1	Motot Base
+          1	Motot to Lankien Swamp
+          1	Mount Kei
+          1	Mount Kei Forest Reserve
+          1	Mount Kinyeti
+          1	Mount Lolinga
+          1	Mount Otze
+          1	Mount Tereteinia
+          2	Moyo
+          1	Moyo Airfield
+          2	Moyo Army Primary School
+          1	Moyo Boys primary
+          1	Moyo Boys' Primary School
+          1	Moyo Girls primary
+          1	Moyo Girls' Primary School
+          1	Moyo Hospital
+          1	Moyo Institute for Nursing & Midwifery
+          1	Moyo Multipurpose Centre
+          1	Moyo Parish
+          1	Moyo Senior Secondary School
+          1	Moyo Subcounty
+          1	Moyo Technical Institute
+          1	Moyo Town Council Primary School
+          1	Moyo Town Council primary school
+          1	Moyo Town SS
+          1	Mt Octze to masts
+          3	Mud Hut
+          1	Mud hole Passable with difficulty
+          1	Mudukorocho
+          1	Mugumbe Primary School
+          1	Muhajirina Kendra Mosque
+          1	Muhammad
+          1	Muhammad Ali
+          1	Mulbok
+          1	Mulbok Barracks
+          1	Multipurpose training center
+          1	Mulumulia Yii
+          2	Mundri
+          1	Mundri Health Center
+          2	Mundri-Mvolo
+          1	Mungalla
+          1	Munuki Hai Gezira
+          1	Munuki Health Centre
+          1	Munuki Mosque
+          1	Murkuku
+          1	Murrlingo
+          1	Muru ECS Church
+          1	Mushra Game Reserve
+          1	Mut Hut
+          1	Mutogna Noue
+          3	Mvolo
+          1	Mvolo-Maridi
+          8	Mvolo-Rumbek
+          1	My Place
+          1	Médecins Sans Frontières
+          1	Médecins Sans Frontières (MSF): Feeding Centre
+          1	Médecins Sans Frontières (MSF): Hospital (destroyed in 20
+          1	Médecins Sans Frontières (MSF): Inpat Compound
+          1	N of Juba
+          1	NASIR HOSPITAL MSF (until 2015)
+          1	NCA Compound (Offices)
+          1	NGO ACF
+          1	NGO Compound
+          1	NGO Cordaid
+          1	NGO MSF-B
+          1	NGO Mercy Corps
+          1	NGO NPI
+          1	NGO PSI
+          1	NGO Save the Children
+          1	NH
+          2	NOTOS
+          1	NRC/UNHCR Compound
+          1	Naagori Road
+          1	Naam
+          1	Nabaka
+          1	Nabanga
+          1	Nabaqaya
+          1	Nabiapay
+          1	Nabima Primary School
+          1	Nabima Road
+          2	Nabolag
+          1	Nade Pali
+          1	Nagasi
+          1	Nagdiar
+          1	Nagdiar-Doleib_Hill
+          1	Nagichot
+          1	Nagishot
+          1	Nagishot Clinic
+          1	Nagishot School
+         39	Nahr al Jur
+          1	Naimeri
+          1	Naisa
+          2	Nak East
+          2	Nak North
+          1	Nakhr
+          1	Nakpadu Road 
+          1	Namaiku
+          1	Namamkweng Crossing
+          1	Namuruputh
+          1	Nanaam River
+          1	Nanyangachor_West
+          1	Napere Road
+          1	Narful
+          1	Narus
+          1	Narus River
+          8	Narus-Boma
+          1	Naseer
+          1	Nasera Suites
+          1	Nasir
+          1	Nasira Ajubele Mosque
+          1	Nasira Ajubele Mosque Latrine
+          1	Nasser-Ethiopia
+          1	Natade
+          2	Natinga (New Site)
+          1	National Bureau of Statistics
+          1	National Security
+          1	National Security House
+          1	National Telecommunications Commission
+          1	National Water
+          1	Nebit
+          1	Nebor
+          1	Nehemiah Secondary School
+          1	Neringadoket
+          1	Nesutu
+          1	Neum
+          1	Never Thirst Building
+          2	New Cush
+          1	New Fangak
+          1	New Gasmala / Upper Dinga
+          1	New Palouch
+          1	New Rock Shield
+          1	New Sudan Palace Hotel
+          1	New Terminal
+          1	New Tuet
+          1	New Waste Management Site
+          1	New York Hotel
+          1	Neyalwal
+          1	Ngapul
+          1	Ngaragam
+          1	Ngerbobor
+          1	Ngongo
+          2	Ngop
+          1	Ngueng
+          2	Nhialdiu
+          1	Niang
+          1	Nice Petroleum
+          1	Nile Hope
+          1	Nile Nest Apartments
+          1	Nile Petroleum
+          1	Nile Printing Press
+          1	Nimni
+          1	Nimnim
+          1	Nimra Talata Medical Complex
+          1	Nimule
+          1	Nimule - Gulu Road
+          2	Nimule Border Point
+          1	Nimule National Park
+          1	Nimule Resort
+          1	Nimule residential Area
+          1	Nimule-Gulu A104
+          4	Nimule-Gulu;A 104
+          3	Nimuli Airport
+          1	Nine Boli
+          1	Ningar
+          1	Niniwe Church
+          1	Ninong
+          1	Niyagwado
+          1	Nollo
+          1	Noor Primary School
+          1	Northern Bahr el Ghazal
+          1	Northern Bahr el Ghazal State
+          1	Northern Region
+          1	Northern Taxiway
+          1	Northern Upper Nile State Government
+          1	Norway Residence
+          1	Norwegian Church Aid
+          1	Norwegian Peoples Aid
+          1	Norwegian Refugee Council
+          1	Not sure
+          1	Not sure about that one...
+          1	Nova
+          1	Nshunju House
+          1	Nuer
+          1	Numatina Game Reserve
+          1	Nursery School
+          1	Nuru Nursery School
+          1	Nutrition Unit
+          1	Nya ying
+          1	Nyabongi
+          1	Nyadiar Presbyterian Church
+          1	Nyadiar Village
+          1	Nyadin
+          1	Nyakuron Cultural Center
+          1	Nyakuron Exhibition Center
+          1	Nyakuron Health Center
+          3	Nyal
+          1	Nyambiri Primary School
+          1	Nyambor
+          1	Nyambor Hafir
+          1	Nyamborturia
+          1	Nyamboryien
+          1	Nyamlell
+          1	Nyamlell Market
+          1	Nyamlell PHCC
+         12	Nyamlell-South_Darfur
+          1	Nyamliell
+          1	Nyamwendo
+          3	Nyanapol
+          4	Nyanapol-Wai
+          1	Nyandin
+          1	Nyanding
+          1	Nyandit
+          1	Nyangea-Napore Forest Reserve
+          1	Nyangeire
+          2	Nyangora
+          1	Nyangwath
+          1	Nyanthor
+          1	Nyantim
+          1	Nyapan
+          1	Nyapnyalro
+          2	Nyewa
+          1	Nyilwak
+          1	Nyin Yar
+          1	Nyinbuli
+          1	Nyirol
+          2	Nyirol County
+          1	Nyithko
+          1	Nyiwara
+          1	Nyiyar
+          1	Nyojo Primary School
+          1	Nyokuran Cultural Center
+          1	Nyolenyua
+          1	Nyongita Catholic Church Of Uganda
+          1	Nyongkuach
+          2	Nyony
+          1	Nyota Grinding Point
+          1	Nyuwa
+          1	Nzara
+          1	Nzara Airfield
+          1	Nzara Road
+          1	Nzoro
+          1	Nærosetveien 69
+          1	O/head Ayod
+          1	OASIS Hotel
+          1	OASIS Water Company
+          1	OCHA AREA
+          1	OCHA OFFICE
+          1	OPD
+          2	OVCI Usratuna
+          1	OVCI Usratuna Orthopedic Workshop
+          1	OVCI Usratuna Rehabilitation Centre
+          3	OXFAM Latrines
+          2	OXFAM Water Tank
+          1	OXFAM Water Treatment Plan Camp 2
+          1	OXFAM Water Treatment Plant Camp 1
+          4	OXFAM Water point
+          1	Oanbut
+          1	Obai Dego
+          1	Obei
+          1	Obero Primary School
+          1	Oboa
+          1	Obodiang
+          3	Oboth
+          1	Obwodi
+          1	Odokomba Primary School
+          1	Odrujo 2
+          1	Odrujo 3
+          1	Odrujo 4
+          1	Odrujo1
+          1	Oduga Yii
+          1	Odwoigo
+          1	Oghin
+          1	Ogod
+          1	Ogod One
+          1	Ogod Two
+          1	Ogol-Pachy
+          1	Ogolo Primary School
+          1	Ojipaku Trading Center Rubbish Pit
+          1	Okoi Primary School
+          1	Okudi Road
+          1	Olang
+          1	Old Army Base
+          1	Old Fangak
+          1	Old Fangak (Village Side)
+          1	Old Fangak New Airstrip
+         15	Old Juba-Terakeka
+          1	Old man's house
+          2	Oleal
+          1	Olimpic Hotel
+          1	Olkisa
+          1	Olld SSTV AM mast
+          1	Oluga
+          1	Oluga Kololo
+          1	Oluga Osubirua
+          1	Olugofe
+          1	Omar
+          1	Omdoroman Bank
+          1	Omdulis
+          3	Omdurman
+          1	Omdurman market
+          1	Omdurman p school
+          1	Omgbamgbe
+          1	Omio
+          1	Omo National Park
+          1	Opari-Farajok
+          1	Oraba
+          1	Orerea
+          1	Orereacommunity Borehole
+          1	Orfanato Fr Bilbao
+          1	Oridrika Yii
+          1	Orientale
+          2	Oriny
+          2	Oriny-Malakal_Road_West
+          1	Orniela
+          1	Oromia
+          1	Oromia - Benishangul-Gumuz
+          1	Oromia - Gambela
+          1	Oshol
+          2	Osiku
+          3	Osubira
+          2	Osubira Primary School
+          1	Osubirua
+          1	Osubirua Community Borehole
+          1	Otango
+          1	Otze Forest
+          1	Otze Forest Wildlife Sanctuary
+          1	Outpatient Department
+          1	Oviedo's road
+          1	Owachi
+          1	Owalenj
+          1	Oxbow Lake
+          1	Oxfam
+          1	Oxfam Apartment 1
+          1	Oxfam Apartment 2
+          1	Oxfam HQ Office
+          1	Oxfam Lankien
+          1	PAE
+          1	PALICA - Bishop compound and Wau catholic diocese offices
+          2	POLICE
+          1	PSI
+          1	Paanjala Nursery School
+          1	Pabuong
+          1	Pabur
+          1	Pachella Airfield
+          1	Pachong
+          1	Pacong
+          1	Pact
+          1	Padai
+          2	Padak
+          1	Padamlay
+          3	Padeah
+          1	Padeah Hand Pump
+          1	Padiek Feeding Centre
+          1	Padiet
+          2	Pading
+          1	Pading Payam Headquarters
+          1	Padit East
+          1	Padoi
+          1	Paduar
+          1	Pagai
+          3	Pagak
+          1	Pagar
+          1	Pagarau
+          1	Pageri
+          1	Pageri-Moli
+          3	Pageri-Nimule
+          3	Pagil
+          1	Pagok
+          1	Pagol
+          1	Pagook
+          2	Paguir
+          2	Paguir-Fagil
+          1	Pagune
+          1	Paguor
+          1	Pah
+          1	Pah-ajang
+          1	Paiyai
+          1	Paiyak
+          1	Paja Ley
+          1	Pajok
+          1	Pajok Airfield
+          2	Pajut
+          1	Pakam
+          1	Pakang
+          1	Pako Market
+          1	Pakok
+          1	Pakor
+          1	Pakuai
+          1	Pakuech
+          1	Pakuem
+          1	Pakum
+          1	Pakuor
+          1	Palacam Primary School
+          1	Palal
+          1	Pale
+          1	Palego Yii
+          1	Paliang
+          2	Paliau
+          1	Palmuch/Pamach
+          2	Paloich
+          1	Paloich Airport
+          1	Paluer
+          1	Pam
+          2	Pamal
+          1	Pamiir
+          1	Pamir refugee camp
+          1	Pamoti
+          1	Pan-Awach
+          1	Panadhot Market
+          1	Pandoung
+          1	Panere
+          1	Pangok
+          1	Panidway
+          1	Panipandiar
+          1	Panjara Primary School
+          1	Panliet
+          1	Panorama Hotel
+          2	Panthou
+          1	Panthou Market
+          1	Panthou PHCC
+          2	Pantit
+          1	Panwel
+          1	Panyagor
+          2	Panyijar
+          1	Panyim
+          1	Panzala
+          1	Paolam
+          1	Papwojo
+          1	Paradise
+          1	Parahiso
+          1	Parc National de la Garamba
+          2	Pariak
+          2	Pariang
+          1	Partial p school
+          1	Path
+          1	Pathiel
+          1	Patient Waiting Area
+          1	Patugo
+          1	Pawuoi
+          1	Payak
+          2	Payak Borehole
+          1	Payawa
+          1	Payawa PHCU
+          1	Payom
+          1	Payuel
+          3	Payuer
+          1	Peace & Reconciliation Commision
+          1	Peace Hotel
+          1	Pearl Petroleum
+          1	Pegncoa
+          1	Pentagon College
+          1	Peremasu School
+          1	Perenyang
+          1	Peth
+          1	Petro City Cpompound
+          2	Petron
+          1	Petronas
+          1	Phen
+          2	Phenicia
+          1	Phomdhor
+         10	Pibor
+          1	Pibor UNMISS protected area
+          3	Pibor-Likuangole
+          4	Pibor-Pochalla
+          1	Pierbam
+          3	Pieri
+          1	Pig shed
+          2	Pillieny
+          1	Pillieny PHU
+          1	Pillieny Police Station
+          1	Pillieny Primary Health Care Unit
+          1	Pillieny Public Market
+          1	Pingo
+          1	Pingo Catholic Church Of Uganda
+          1	Pingo Community Borehole
+          1	Pista Alejandro Poso
+          1	Pista de tierra
+          1	Plan B
+          1	Pochalla
+          4	Pochalla-Akobo
+          1	Pokari
+          1	Poko
+          2	Poktap
+          1	Pokwelleimer
+          1	Police
+          1	Police Gudele
+          2	Police Headquarters
+          1	Police Hospital
+          1	Police Hq
+          1	Police Post
+          1	Police Station
+          1	Police Training Center
+          1	Police/army check point
+          1	Polish Humanitarian Action
+          1	Polur
+          1	Pond
+          1	Poni
+          1	Poni Hotel
+          1	Port Supiri
+          1	Posible de camino
+          1	Potika Nursery School
+          1	Pour
+          1	Pout
+          1	Powing
+          1	Première Urgence Internationale
+          1	Presbitarian church Wehda
+          1	Presbyterian Church
+          1	Presidential Palace (J1)
+          1	Primary Health Care Center
+          2	Prison
+          1	Prison Road
+          1	Public Market
+          1	Public information Center
+          1	Pugee
+          1	Pulchol
+          1	Pulchuol
+          1	Pulchuol Feeding Centre
+          1	Pulkier
+          1	Pulmok
+          1	Pulngoany
+          1	Pulowar Road
+          2	Pulturuk
+          1	Pulturuk Swamp
+          1	Pulturuk Swamp Track
+          1	Pulturuk to Tharkuel
+          1	Pump
+          1	Pwot
+          1	Pyramid Continental Hotel
+          2	Qatar National Bank
+          1	Quality Hotel
+          1	Queens Medical Clinic
+          1	Queens Pharmacy
+          1	R
+          1	R akuem
+          2	R. Adar
+          2	R. Akuem
+          1	R.Akuem
+          1	R.Akwuem
+          1	R.Lol
+          7	RD Congo - South Sudan
+          1	RD Congo - Uganda
+          1	RD Congo - anciennes provinces (avant mi-2015)
+          1	RD Congo - provinces
+          1	RELIEF INTERNATIONAL
+          1	ROK ROK
+          1	ROUND ABOUT
+          1	Radio Station
+          1	Raga
+          1	Raga River
+          1	Rainbow
+          1	Rainbow Hotel
+          1	Raja
+         19	Raja-Malualkon
+          1	Rajaf
+          1	Rango
+          2	Reception
+          1	Red Cross road
+          1	Red Ocean Hotel
+          1	Redeemer Day School
+          1	Regional Accountancy Center
+          1	Regional Drug Stores
+          1	Rekyuol
+          1	Rekyuol Road
+          1	Rekyuol Road Hand Pump
+          1	Relax
+          1	Relief International
+          1	Relief and Rehabilitation Commission
+          1	Rembe Clement Shop
+          1	Remela
+          1	Remenze
+          1	Remo Joseph Pio
+          2	Renk
+          1	Renk Civil Hospital
+          1	Renk County/Payam
+          1	Renk EPI Centre
+          1	Renk Military Hospital
+          1	Renk Ministry of Labour
+          1	Renk RRC
+          3	Renk-Kosti
+          4	Renk-Melut East
+          3	Renk-Melut West
+          2	Residence
+          1	Residencia
+          5	Residential
+          9	Residential Area
+          1	Residential area
+          1	Rest Area
+          1	Reynaldo's
+          1	Rhianna's Shop
+          1	Rial
+          1	Rialbek
+          1	Rialdit One
+          1	Rialdit Two
+          1	RianLoc bh- IAS
+          4	Riang
+          1	Riang Akeith
+          1	Riang Aketh
+          1	Riang Angon
+          1	Riang Angon PHCU
+          2	Riangmal primary school
+          1	Riangther
+          1	Rieng
+          1	Rier
+          1	Rier Market
+          1	Rimbo
+          2	Ringasi
+          1	Rirnyang
+          1	River
+          3	River Akuem
+          1	River Bank surrounding the community
+          3	River Crossing
+          2	River Fulus
+          3	River Gel
+         24	River Gulnam
+          1	River Kaia
+          1	River Lodge
+          1	River Maridi
+          1	River Nile
+          2	River Nile Hotel
+          1	River Rohl
+          1	River cross for cattle
+          1	River cross over cattle
+          4	Road
+          2	Road to Akobo
+          1	Roba & Sons
+          1	Robert Iyi
+          1	Rock City
+          1	Rock City Bus Station
+          1	Rock City Hotel
+          1	Rock City Hotel Compound
+          2	Rock City Restaurant
+          1	Rock City police centre
+          1	Rock Formations
+          1	Rockshield Camp
+          1	Rokon
+          2	Rokon-Gobo
+          1	Rokon-Minga Spur
+          2	Rom
+          1	Romogi Seed Secondary School
+          1	Rony
+          1	Rony PHCU
+          1	Rose Hotel
+          2	Rosolo-Maridi
+          1	Route nationale 26
+          1	Routes Nationales Congo Kinshasa
+          1	Royal Embassy of the Netherlands
+          1	Royal Garden Hotel
+          1	Royal Hotel
+          1	Royal Hotel Chinese Restaurant
+          1	Royal Junior Primary School
+          1	Royal Norwegian Embassy
+          1	Royal Palace Apartments
+          2	Rub Kona
+          1	Rubeke P school
+          1	Rubeke p school
+          1	Rubeke primary school otogo pam
+          1	Rubeke s s
+          1	Rubjiech
+          2	Rubkuach Health Centre
+          1	Rubmyheai
+          1	Ruguwra / Likuongulula / Manyeran
+          1	Ruins: Coordination, Admin & Medical Office
+          1	Rujal Mafi Market
+          1	Rumaker
+          1	Rumaker market
+          1	Rumaker p school
+          2	Rumbek
+          1	Rumbek Airport
+          3	Rumbek Centre County
+          3	Rumbek East County
+          1	Rumbek Freedom Square
+          2	Rumbek North County
+          1	Rumbek University
+          1	Rumbek University (RU)
+          4	Rumbek-Akot
+          1	Rumbek-Cueibet
+          4	Rumbek-Maper
+          9	Rumbek-Tonj
+          1	Rumbul bh- IAS
+          1	Rumu
+          1	Runway construction (clearway)
+          1	Rupkai PHU
+          1	Rupkai-Mayendit Junction
+          1	Rupkeni
+          1	Rupkera
+          1	Rupkona Market
+          1	Rupkuai
+          1	Rupkuai Junction
+          1	Rupkuai Market
+          1	Rupkuai Primary School
+          1	Ruqchuq
+          1	Rural Water Development
+          1	Régionale prioritaire 434
+          1	République démocratique du Congo
+          1	Réserve de chasse d'Azande
+          1	Réserve de chasse de Mondo Missa
+          5	S
+          1	SAGBU Airway Intersection
+          1	SAMARITAN PURSE
+          1	SAWA  Electrics  COM
+          1	SAWA ELECTRONIC COM
+          1	SAWA Electronics COM
+          1	SC-UK
+          1	SCHOOL
+          1	SECONDARY SCHOOL
+          1	SICHUAN Restaurant
+          1	SIL
+          1	SIM
+          1	SNV Netherlands Development Organisation
+          1	SOLIDARITY
+          1	SOLIDARY
+          1	SP Star Pharmscuticals
+          1	SPC
+          3	SPLA
+          1	SPLA Field Armory New Site
+          1	SPLA Geida barracks
+          1	SPLA JIT
+          2	SPLA camp
+          1	SPLA/SPLM Headquarters
+          1	SPLM Yei Baracks
+          1	SPLM office
+          1	SRRC Office
+          1	SSBC Power house
+          1	SSRRA
+          1	STANBIC Bank
+          1	Sabrina
+          1	Sadia Janes
+          1	Sadia Loyces Restaurant
+          2	Safari Link
+          1	Sahara Resort & Hotel
+          1	Saint Andrew College
+          1	Saint Daniel Komboni Secondary School
+          1	Saint Joseph
+          1	Saint Joseph Basic School
+          1	Saint Joseph the Worker Church
+          1	Saint Kizito Primary School
+          1	Saint Martin Brothers Residence
+          1	Saint Mary
+          1	Saint Paul
+          1	Saint Teresa Basic Kindergarten
+          1	Saint Teresa Fathers Quarters
+          1	Saint Teresa Kindergarten
+          1	Saint Teresa Sisters Quarters
+          1	Sakina
+          1	Salesian Sisters
+          1	Salesian Sisters Convent
+          1	Salesians of Don Bosco
+          1	Samara
+          1	Samaritan purse
+          1	Samaritan's Purse
+          1	Samasim Cafe
+          1	Samuel
+          1	Samuel Rembe
+          1	Sandersons Gulf
+          1	Sar Vetery
+          1	Saruop
+          1	Sasanya Nursery School
+          1	Saudah
+          1	Saura-Nakang
+          2	Save the Children
+          2	School
+          1	School Building
+          1	School House
+          1	Scole
+          1	Search for Common Ground
+          1	Secondary Gate
+          1	Secondary School Complex
+          1	Secratariat of Western Equatoria
+          1	Secret cprner
+          1	Seja Guest House
+          1	Senekpuro
+          1	Seria Arubeni
+          1	Seventh Day Adventist Pitch
+          1	Shabele
+          1	Shabele petrol
+          1	Shabelle
+          2	Shambe
+          1	Shambe National Park
+          1	Shell Company
+          1	Shetta
+          1	Shining star auto spare parts
+          1	Shol
+          1	Shop
+          1	Shops & market
+          1	Shrubbery
+          1	Si Chuan
+          1	Sidas Retail Shop
+          1	Sidernitermader Shop
+          1	Sierra
+          1	Sign of Hope
+          1	Simran's Meadow
+          2	Singaita River
+          1	Sir
+          1	Sirinya (Sirinya Island)
+          6	Sirsiri-Moli
+          1	Sisters Restaurant
+          2	Siyang
+          1	Siyasa Yii
+          1	Skills for South Sudan
+          6	Skog
+          1	Slak
+          1	Small Clinic
+          3	Sobat
+          3	Sobat River
+          1	Soccer
+          1	Sogata
+          1	Soketha Basic School
+          1	Solidarites International
+          1	Solka
+         12	Somar Workshop
+          1	Songo
+          1	Sorcerer Grave
+          1	Soro
+          1	Sotome
+          1	Souq El Shabi
+          1	Source oil
+          1	South Omo
+          2	South Sudan
+          1	South Sudan - Central African Republic
+          2	South Sudan - Elemi Triangle
+         19	South Sudan - Ethiopia
+          3	South Sudan - Kenya
+          1	South Sudan - السودان
+          2	South Sudan Broadcasting Corporation
+          1	South Sudan Hotel
+          1	South Sudan NGO Forum
+          1	South Sudan Parliament
+          1	Southern National Park
+          1	Southern Nations
+          1	Southern Nations - Gambela
+          1	Southern Taxiway
+          1	Souvenir Stalls
+          1	SowetoClinic
+          2	Spice n'Herbs
+          1	St Anne's
+          1	St Augustine Nursery School Mijale
+          1	St John Kadio Church
+          1	St Kizito Health Center
+          1	St Kizito P/S
+          1	St Kizito Primary School
+          1	St Luke's Medical Clinic
+          1	St Pauls Bookshop
+          1	St. Andrew (Leudier)
+          1	St. Bakhita Hospital
+          2	St. John Bugo Nursery And Primary School
+          1	St. John ECS, Aweil
+          1	St. John's Church Of Uganda Bugo
+          2	St. Joseph Basic School
+          1	St. Joseph Parish
+          2	St. Joseph's Catholic Church
+          1	St. Jospeh's Pharmacy
+          1	St. Kizito Ch. Complex
+          1	St. Peter Claver Computer and Ecological Training Center
+          1	St. Theresa Cathedral
+          1	St.Edwards Drug Shop
+          1	St.Mark Nursery School Kololo
+          1	Staff Houses
+          1	Star Express Airways
+          1	Star Hotel
+          1	Star Hotel by the Nile
+          1	State Assembly
+          1	State Governor Office
+          1	State Headquarter
+          4	State House Road
+          1	State Police HQ
+          1	State Prison
+          1	State TV Station
+          1	Stella Yii
+         19	Sti
+          1	Sto
+          1	Stordy Nursery & primary School
+          1	Street Food
+          1	Stuart King Lane
+          1	Sudan Bank
+          1	Sudan Council of Churches
+          1	Sudan Safari
+          1	Sudanes Red Crescent
+          1	Sudani Telecom Net work office
+          1	Sudatel
+          2	Sudd
+          1	Sudd wetlands
+          1	Suk Elhajal
+          2	Suk Gamba Road
+          1	Suk Sita
+          1	Summer Palace Business Hotel
+          1	Sun Shine Hotel
+          1	Sunday Barber Shop
+          1	Sunrise Restaurant
+          1	Super Bar
+          1	Super Boyz
+          1	Survey Department
+          1	Swaib Candiga
+          1	Swinga Primary School
+          1	Swiss Agency for Development and Cooperation
+         13	T
+          3	T r e e
+          1	TF Yuai Base
+          1	THESO
+          1	TOI
+          1	Taalo
+          1	Taam Petroleum
+          1	Tagajon
+          1	Tailor
+          1	Tajalei
+          1	Tajiel
+          2	Takanno
+          1	Tali
+          1	Tali Post
+          1	Tali-Madbar
+          1	Tam
+          1	Tambura
+         28	Tambura-Wau
+          1	Tambura-Yubo
+          1	Tamor
+          1	Tangyang
+          1	Tangyier
+          1	Tank wreck
+          1	Tawad Supermarket
+          1	Tayyibah
+          1	Teaching Hospital
+          1	Tearfund
+          1	Teashops and meeting place
+          1	Technical College
+          1	Tejo
+          1	Telecommunication Mast (probable microwave link)
+          1	Telephone tower
+          1	Tendele Community School
+          6	Terakeka-Minkamman
+          9	Terakeka-Tindalo
+          2	Terekeka
+          1	Terrain
+          1	Terre des Hommes
+          1	Tet Bear
+          1	Tete
+          2	Thaker
+          3	Thaker Primary Healthcare Unit
+          1	Thanyang
+          1	Thar Jath
+          1	Thar Jath Oil Field Block 5a
+          1	Thargana
+          1	Tharkuel
+          1	The Ler Tree
+          1	The Ministries
+          1	The Nest
+          1	Theab
+          1	Theemotpiny
+          1	These may be houses
+          1	Thiek thou
+          1	Thiel
+          2	Thiet
+          3	Thiet-Malau_Pech
+         10	Thiet-Wun Chuei
+          1	Thoanyni
+          1	Thokchak
+          1	Thol
+          1	Thongpiny
+          1	Thonkwauch
+          2	Thonyor
+          1	Thonyor Primary Healthcare Unit
+          5	Thonyor Road
+          1	Thonyor airstrip
+          1	Thor
+          1	Thor Gwang
+          1	Thornyor Airfield
+          1	Thouic FFS
+          1	Thourobounj
+          1	Thwoloung
+          1	Thworo
+          1	Tiep Payam
+          2	Tieraliet
+          1	Tige
+          1	Tiire Community Borehole
+          1	Tiit Agok
+          1	Tiji Community Borehole
+          1	Timsaha
+          1	Tindalo
+          1	Tindalo-Kemande
+          1	Tindoka Road
+          2	Tingida Street
+          1	Tirama
+          1	Tire
+          1	Tirigol
+          1	Tishwin
+          1	Titchok mareng
+          1	Tiyang 1
+          1	Tiyang 2
+          1	Toboret
+          1	Toch
+          1	Toch-luak
+          1	Toch-luak Chan
+          1	Toic
+          3	Toilets Females
+          5	Toilets Males
+          1	Toilets, Showers and Laundry Area
+          1	Toligamago
+          1	Toligamago Roman Catholic Chruch
+          1	Tolwa
+          2	Tombak
+          1	Tombe
+          1	Tombe Enterprise
+          1	Tomeer
+          1	Tong Centre
+          1	Tonga
+          1	Tongiir
+          1	Tongneer
+          1	Tongo SW
+          2	Tonj
+          5	Tonj-Thiet
+          1	Torakit
+          2	Tore
+          1	Torit
+          1	Torit Airport
+          1	Torit Hotel
+          1	Torit-Gilo
+          2	Torit-Juba
+          4	Torit-Lafon
+          1	Torit-Lafon Road
+         11	Torit-Pageri
+          1	Tormun
+          1	Toroko Community Borehole
+          1	Tororo Primary School
+          1	Touc
+          1	Tourist Hotel
+          1	Towell Edwins Shop
+          1	Tower
+          1	Toy
+          2	Toyota
+          1	Track Road
+          1	Traditional Fishing
+          1	Traffic Police
+          1	Transit Hotel
+        254	Tree
+          1	Tree Bar
+         17	Tree(s)
+          1	Triage & waiting area
+          1	Trigore
+          1	Trippel-Divide
+          1	Trojan
+          1	Truck Stop
+          1	Tsertanya
+          2	Tu
+          1	Tuarkiel
+         78	Tukul
+          1	Tukul Restaurant
+         16	Tukuls
+          1	Tulip Inn Hotel
+          2	Tuluk
+          1	Tumbura Airport
+          1	Tumu
+          1	Tungmer
+          1	Tungmir
+          1	Tungyung
+          1	Tunjea
+          1	Tuqls
+          2	Turalei
+          1	Turalei 2
+          1	Turalei-Ajackwac
+          1	Turaybah
+          1	Turkana
+          1	Turkej
+          1	Turu
+          1	Tuthia
+          2	Tutnyang
+          1	Tutnyang PHU
+          1	Twolong
+          1	Typhor pharmacy
+          1	Tyre Repair
+          1	U Davida
+          1	UN - UNMISS Assembly point
+          1	UN FAO Road
+          1	UN Peacekeeping Forces
+          1	UN camp
+          2	UN concentration point
+         12	UNDP
+          1	UNDP Compound 2 (Residence)
+          1	UNDP Compund 1 (Residence)
+          1	UNDP برنامج الأمم المتحدة الإنمائ�
+          5	UNHCR
+          1	UNHCR Bor
+          1	UNHCR Field Office Yei
+          2	UNHCR Staff Compound (Tongping)
+          1	UNHCR compound
+          2	UNICEF School
+          1	UNICEF South Sudan
+          1	UNICEF Water Tank
+          1	UNICEF office
+          1	UNISFA Camp معسكر يونميس
+          1	UNISFA قوة الأمم المتحدة الأمنية ال
+          1	UNMAS
+          1	UNMAS Tukel
+          1	UNMIS Torit camp
+          1	UNMIS Yambio camp
+          1	UNMIS Yei camp
+          4	UNMISS
+          1	UNMISS Apron
+          2	UNMISS Bentiu
+          1	UNMISS Bor Levell 1 Hospital
+          1	UNMISS Bor camp
+          1	UNMISS FC's tukul
+          1	UNMISS Field Teamsite NASSER
+          1	UNMISS GUMURUK Camp
+          1	UNMISS HQ Cafeteria
+          1	UNMISS Helipad
+          1	UNMISS Lankien
+          1	UNMISS Level 1 Hospital
+          1	UNMISS Level 2 Hospital
+          1	UNMISS Pibor CSB
+          1	UNMISS Rumbek
+          1	UNMISS Tomping Compound
+          1	UNMISS UN House
+          1	UNMISS compound
+          1	UNMISS supply
+          1	UNMiS Camp
+          1	UPDF Barracks Kanatorok
+          1	URG clinic
+          2	USAID
+          6	USAID Offices
+          1	USAID Residence
+          7	USAID Residences
+          1	UWA Outpost
+          1	Uac
+          1	Uau
+          1	Ubbi Primary School
+          1	Uburu Mission
+          1	Udhum
+          1	Udhum Market
+          1	Udhum PHCC
+          3	Udici
+          1	Udiec
+          3	Udier
+          1	Uganda
+          1	Uganda Revenue Authority
+          1	Ugora
+          2	Ulang
+          1	Ulang Primary Health Care Centre
+          1	Uleng
+          2	Ulu
+          1	Ulut
+          1	Um Duruman Islamic University
+          1	Uma Cocab
+          1	Umbelasha
+          1	Unguale
+          1	Unintedified parktype of area :D
+          1	United Nations Office for the Coordination of Humanitarian 
+          1	Unity
+          4	Unity Avenue
+          2	Unity Road
+          1	Unity State
+          1	Unity airstrip
+          1	University of Bahr el-Ghazal
+          5	University of Juba
+          1	University of Juba Compound
+          1	University of juba
+         15	Unknown
+          7	Unknown Hamlet
+          1	Unknown linear, may be path
+          1	Unkown Settlement
+          1	Unmiss Road
+          1	Upper Ibba
+          1	Upper Nile
+          1	Upper Nile State
+          1	Ura
+          1	Ura Community Borehole
+          1	Urieng
+          1	Uror County
+          1	Urungo
+          5	Urungo-Nadapal
+          1	Used to be URG clinic, closed since Dec 2013
+          1	Usratuna Basic Church School
+          1	Usratuna PHCC
+          1	Usratuna Road
+          1	Uyiga
+          1	Uyon market
+          1	Uyon primary sch
+          1	VILLAGE
+          1	VSF
+          1	VSS Main Office
+          1	VaMP
+          1	Vakaga
+          1	Valley Park Hotel
+          1	Vamp Coffee Shop
+          1	Vamp Vegetables and Fruits
+          1	Vegetable Farm
+          1	Vei
+          1	Veterinaires Sans Frontieres - Germany
+          1	Victoria Hotel
+          1	Victorious Medical Centre
+          1	Victors Guest House
+          6	Village
+          1	Viola
+          3	Vivacell
+          1	Vivacell Customer Care Center
+          1	Volunteer's house
+          3	WFP
+          1	WFP (World Food Programme) compound
+          1	WFP Compound road
+          1	WFP WARE HOUSE
+          1	WFP WAREHOUS
+          1	WFP Warehouse
+          1	WFP Warehouse 1
+          1	WFP Warehouse 8
+          1	WFP Warehouse Compound
+          2	WFP office
+          1	WFP-Motot
+          1	WNPOC Thar Jath Base Camp
+          1	WOMEN CENTER
+          2	WPF Warehouses
+          1	Waak
+          3	Waat
+          2	Waat-Ayod
+          1	Waat-Malakal
+          2	Waat-Malwal
+          1	Wadakona
+          1	Wadelbas hir
+          1	Waga
+          2	Waguru Yii
+          5	Wahko
+          2	Wai
+          1	Wakor Shet'
+          1	Walang walang
+          1	Wale
+          1	Wale Village Shallow Well
+          3	Walgak
+          1	Walichmar
+          1	Wancual
+          2	Wanding
+          1	Wangilo
+          1	Wangoro
+          1	Wangoro 1
+          1	Wangoro Community Borehole
+          1	Wangoro Yii
+          1	Wani
+          1	Wani & Sons
+          1	Wani Baka
+          1	Wani Simons Retail Shop
+          1	Wanyang
+          1	Wanyjok
+          1	Wanyjok market
+          1	Waradit
+          1	Waranyang
+          2	Warapath
+          1	Warawar
+          1	Warawar Market
+          1	Warawar PHCU
+          1	Warchild
+          1	Ward
+          1	Warehouse
+          1	Wargan
+          1	Wargeng
+          1	Wariach
+          1	Warlac
+          3	Warrap
+          1	Warrap State
+          1	Warriang
+          1	Warrior HQ
+          1	Warrior Training School
+          1	Warrit
+          1	Water
+          1	Water Cart Filling Station
+          1	Water District
+          1	Water District Office
+          1	Water Pump
+          1	Water factory
+          1	Water is Basic
+          1	Wathjak
+          1	Wathmuok Market
+          1	Wathmuok PHCU
+          1	Wathok Bridge
+          3	Wau
+          1	Wau Airport
+          1	Wau Complex
+          1	Wau Grand hotel
+          1	Wau Police Station
+          1	Wau Prison
+          1	Wau Shilluk Clinic
+          1	Wau Shilluk IDP camp
+          1	Wau Shilluk School
+          1	Wau Stadium
+          6	Wau-Aweil
+         21	Wau-Gogrial
+          2	Wau-Kuajiena
+         44	Wau-Raja
+          2	Wau-Tonj
+          5	Wau-Warrab
+          1	Wech Tulkol
+          1	Wechakuen
+          1	Wechakuen Road
+          1	Wechaten
+          1	Wechbol
+          1	Wechbor
+          1	Wechdengdak
+          1	Wechgai
+          1	Wechgew
+          1	Wechjak
+          1	Wechkok
+          1	Wechkuooth
+          1	Wechpuoch
+          1	Wechtut
+          1	Weenyal
+          1	Weka Bidi Kawa Kaziya
+          1	Wel agur apin
+          1	Welthungerhilfe
+          1	Wenyal - Pakum
+          1	Wenyal to Pulturuk
+          1	Wer Ping
+          1	Wer-wuak
+          1	Wereboi
+          1	Weri Moses
+          1	Werkok
+          1	Werngueny
+          1	Wernyol
+          1	West Wellega
+          1	Western Bahr el Ghazal
+          1	Western Bahr el Ghazal State
+          1	Western Equatoria
+          1	Western Equatoria State
+          1	Weyakni
+          2	White Nile
+          1	White Nile / النيل الأبيض
+          1	White Nile Hotel
+          1	White Nile النيل الأبيض
+          1	Whole Sale Pharmacy
+          1	Whure
+          1	Wichkuer Buom borehole
+          2	Wicok
+          1	Wiernyor
+          1	Wij Malaqal
+          1	Wijbur
+          1	Wildlife Conservation Society
+          2	Wildlife Police Headquarters
+          1	Wildlife Rangers
+          1	Wiljokthiong
+          1	Wilnyang
+          1	Wilsary
+          1	Windle Trust International
+          1	Windsock
+          1	Winrock
+          1	Wit Dokott
+          2	Wogo
+          1	Women's League
+          1	Wonderful
+          1	Wonderful Chinese Restaurant
+          1	Wonduruba
+          1	Wood
+          1	Wood Workshop supported by MAF
+          1	Workshop
+          1	World Food Program
+          1	World Food Program compound
+          2	World Relief
+          1	World Renew
+          1	World Vision
+          1	World Vision compound
+          1	Worowiwinya
+          1	Wotu
+          1	Wrecked Plane
+          1	Wulikare
+          1	Wullu
+          2	Wulu County
+          1	Wumachwil
+          1	Wun_Chuei-Boyapak
+          2	Wun_Chuei-Warrab
+          1	Wunakok
+          1	Wunangui
+          1	Wunawualian
+          1	Wunbil
+          1	Wuncuei
+          1	Wuncum
+          1	Wunding
+          1	Wungok
+          1	Wunikir
+          1	Wunkir
+          1	Wunkok
+          1	Wunlam
+          1	Wunlier
+          1	Wunlit
+          1	Wunrok
+          1	Wuntau
+          1	Wuntau-Melut East
+          1	Wuntheep
+          1	Wunura
+          1	Wunyok
+          1	Wuunyic
+          1	Wuyu God's Mercy Hardware
+          1	X
+          1	Yabongo Girls
+          7	Yabus
+          1	Yadit
+          1	Yagaru
+          1	Yakara Dogatwan
+          1	Yali Yii
+          1	Yalidris 2
+          1	Yam Hotel
+          2	Yamba
+          1	Yamba Stream
+          1	Yambio
+          1	Yambio Airport
+          1	Yambio Bus station
+          1	Yambio FM
+          1	Yambio Power Station
+          1	Yambio Secondary School
+          1	Yambio-Sakure
+          8	Yambio-Tambura
+          1	Yang Chuk
+          1	Yangiri
+          1	Yangiri Hospital
+          1	Yangiri Market
+          1	Yardit
+          1	Yargot
+          1	Yargot bridge
+          2	Yargot-Wanyjok South Loop
+          2	Yei
+          1	Yei - Koboko Road
+          1	Yei Airport
+          1	Yei Central Market
+          1	Yei Civil Hospital
+          1	Yei Commissioner Office
+          1	Yei Day Secondary School
+          6	Yei Maridi
+          1	Yei Police Station
+          8	Yei River
+          6	Yei Road
+          1	Yei Teacher Training Collage
+          3	Yei-Juba Road
+          1	Yida
+          1	Yiikou
+          1	Ying
+          1	Yiom
+          2	Yirol
+          1	Yirol Airport
+          2	Yirol East County
+          2	Yirol West County
+          8	Yirol-Shambe
+          1	Yol Agou
+          1	Yomding
+          1	Yomichir
+          1	Yomichir  2
+          2	Youm
+          1	Youth Garden
+          3	Yuai
+          1	Yuai Feeding Centre
+          1	Yuai PHCU
+          1	Yubo
+          1	Yukow
+          1	Yumbe
+          1	Yusuf Batil
+          1	ZOA
+          1	Zagallona, Wau
+          1	Zain
+          1	Zain Cellular Tower
+          1	Zain Network main Office
+          1	Zain Road
+          1	Zakaranda Bar
+          1	Zamba Road
+          1	Zamoi Road
+          1	Zara Hotel
+          1	Zebra Hotel
+          1	Zemen
+          1	Zeraf Cut 1
+          1	Zeraf Cut Canal (North)
+          1	Zetin Solar
+          1	Zhong Nan
+          1	Ziapea (Government Club)
+          1	Zilmamo
+          1	Zone 0
+          1	Zone 1
+          1	Zorchigaw
+          1	Zugbe Street
+          5	a
+          1	added building
+          1	agrarian feature
+          1	agrarian features
+          2	airport road
+          1	al startupgrande
+          1	alshawal city
+          1	alternate route
+          1	apollo's hause
+         15	b
+          1	bed room
+          1	betty home
+          9	block
+          1	block a
+          1	border of low-res Bing-island as of 2013-04-28
+          4	bore hole
+          1	buiding
+          1	building
+          5	building enclosure
+          1	buildings enclosure
+          2	buliding
+          1	bygning
+          2	c
+          1	camino
+          1	casa
+          1	centre
+          1	classrooms
+          2	cluster of buildings
+          1	commissioner office
+          1	countryside
+          1	danielle
+          1	dire
+          1	drop
+          1	dukan hasun
+          6	eventuell
+          1	fence?
+          1	field
+          2	footpath
+          1	former ACTED guest house
+          1	globa
+         44	h
+          3	hh
+          1	home
+          1	hospital Boma (not working -data Jan.2015-)
+         42	house
+          3	https://www.hotosm.org/https://www.hotosm.org/https://www.h
+        130	hut
+          1	hökkelöskylä
+          1	internal check-point (entrance of the IDP camp)
+          1	island
+          1	jebel church
+          1	jessyca home
+          1	kaigo
+          1	kakpoung
+          1	kekkoskatu
+          1	kiri
+          1	kitchen
+         37	kraal
+          1	laku sid home
+         19	landuse=residential
+          1	lokita
+          1	mama martha
+          1	marais
+          1	marol ding geng
+          2	marshland
+          1	maybe a building
+          1	maybe its a house
+          1	mosh petrol station
+          1	natinga
+          1	not sure
+          1	ocean
+          1	office
+          1	oo
+          1	opeco
+          1	or fence
+          2	or fence?
+          1	path
+          1	petromin
+          1	plane
+          1	possible residential area
+          1	pp
+          1	queen
+         14	randal
+          4	randaval
+          1	randavals
+          1	randavaol
+          1	randavell
+          3	randevall
+          1	rendavall
+          2	rendavell
+         12	rendevall
+          1	residential area
+          1	residential road
+          1	rivernorthofjuba
+          1	road 1
+          1	road 2
+          1	road 3
+          1	road 4
+          1	road 5
+          1	rondaval
+          2	rondevall
+          1	ruins
+          2	rural road
+          7	s
+          1	sabrin home
+          1	sadham home
+          1	sass
+          1	scole
+          1	sendero
+          1	settlement
+          2	shop
+         12	shrub
+          1	small town - 250 houses
+          1	stores
+          1	structure
+          1	sule home
+          1	sweet home
+          5	t
+          1	taam
+          1	tiba
+          1	to Mt Otze
+         10	track
+          4	tree
+          9	tukul
+          1	tukuls
+          5	uncertain
+          2	unclassified
+          1	unknown area - maybe old town? ' ABANDONNED AREA
+          1	unknown hamlet
+          8	wall or fence
+          1	warehouse
+          4	water?
+          1	way
+          2	y
+          3	yes
+          1	zaun
+          1	Área residencial
+          2	أبيي
+          2	أبيي - دفرا Abyei - Diffra
+          1	أبيي Abyei
+          2	أكوك Agok
+          1	أم حجار
+          1	الباو
+          1	الدمازين
+          1	الروتروتايا
+          1	السودان
+          1	السودان - Central African Republic
+          1	السودان - Ethiopia
+          3	السودان - South Sudan
+          1	الكرمك
+         50	النيل الأبيض
+          1	بحر العرب Bahr al 'Arab
+          5	بحر الغزال
+          1	بوتيك السيد والطيب
+          1	توداج Todaj
+          1	دفرا Diffra
+          1	رادوم
+          1	سنجة
+          1	سيري مالقة
+          1	فولو
+          1	كافيا كنجي
+          1	كافيا كنجي-رادوم
+          1	كرشي
+          1	كلي Goli
+          1	مخيم
+          1	مشرع الراق
+          1	ناما -دفرا Nama-Difra
+          1	ولاية النيل الأبيض
+          1	ولاية النيل الأزرق
+          1	ولاية جنوب دارفور
+          1	ولاية جنوب كردفان
+          1	ولاية سنار
+          1	ولاية شرق دارفور
+          1	ولاية غرب كردفان
+          1	ኢትዮጵያ

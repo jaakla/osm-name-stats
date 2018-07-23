@@ -1,0 +1,100 @@
+        225	Abandoned
+         83	three huts
+         52	Ruin
+         48	St. Paul
+         41	Côte d'Ivoire - Liberia
+         33	Loffa
+         28	Timbo
+         23	Mano
+         22	five huts
+         22	Gbarnga - Monrovia
+         21	Guinée - Liberia
+         20	one hut?
+         19	Ganta - Tapita
+         19	Common Area
+         18	Mani
+         17	Borbor
+         15	School
+         14	six huts
+         14	Kollie
+         14	Jawajeh
+         14	Bassa
+         13	open area
+         13	Makona
+         13	Doe
+         12	Boe
+         11	hut
+         11	Video Club
+         11	Saint John
+         11	Moses
+         11	Johnson
+         11	Brown
+         11	(Yekepa) Tokadeh - Buchanan
+         10	residential
+         10	Willie
+         10	Varney
+         10	United Nations Drive
+         10	Toe
+         10	Sackie
+         10	Mauwa
+         10	John
+         10	Joe
+         10	David
+         10	Cooper Farm
+         10	Clearing
+         10	Boutique
+          9	Peace Hut
+          9	Morris
+          9	Massaquoi
+          9	Bong railroad
+          9	Blackie
+          8	Zahn
+          8	Wesseh
+          8	Tubman Boulevard
+          8	Sierra Leone - Liberia
+          8	Peter
+          8	Kpah
+          8	Koidu Community Market
+          8	James
+          8	George
+          8	Freeman
+          8	Duo
+          8	Dennis Farm
+          8	Dennis
+          8	Bong Mines - Kakata road
+          8	Boakai
+          8	Bewa Creek
+          7	Wilson
+          7	Via
+          7	Somalia Drive
+          7	Open area
+          7	Open Area
+          7	Nancy Bindi's Bar
+          7	Moore
+          7	Lorma Village
+          7	Kpelleh Village
+          7	Kpelle
+          7	Kolleh
+          7	K K Gonah Elementary and Junior High School
+          7	Gwen Creek
+          7	Ganta - Sanniquellie
+          7	Freetown
+          7	Filling Station
+          7	Fahn
+          7	Dugbe
+          7	Dolo
+          7	Daniel
+          7	Cotton Tree
+          7	Cooper
+          7	Cook Shop
+          7	Common
+          7	Cheboken
+          7	Charlie
+          7	Charging Booth
+          7	Bassa Village
+          6	one building
+          6	Zoe
+          6	Zinc Camp
+          6	Weah
+          6	Total
+          6	Togba

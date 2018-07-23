@@ -1,0 +1,100 @@
+        262	Route Nationale # 1
+        262	Calle 2
+        242	Calle 3
+        235	Autopista Duarte
+        229	Calle 4
+        225	Calle 5
+        214	Calle 1
+        187	Calle 6
+        177	Calle A
+        176	Arbre
+        164	Calle B
+        164	Calle 2da
+        162	Calle 8
+        160	Calle 7
+        155	Calle 9
+        144	abre
+        143	Calle C
+        136	Claro
+        134	manguier
+        133	Calle 10
+        127	Colmado
+        127	Calle D
+        122	Calle 11
+        120	Route Nationale # 3
+        119	Route Nationale # 2
+        100	Obstacle
+        100	Calle E
+         99	Texaco
+         98	orangiers
+         97	Duarte
+         96	Calle 1ra
+         95	Calle 1era
+         92	Calle 13
+         90	Calle F
+         88	Calle 12
+         85	Route Nationale # 5
+         84	Route Nationale # 6
+         83	Avenida 27 de Febrero
+         81	Calle 3ra
+         77	Orange
+         73	Calle 14
+         72	Banco Popular
+         69	Cementerio
+         67	Route Départementale # 402
+         67	Calle 15
+         63	Calle Principal
+         63	Calle 4ta
+         62	arbre
+         62	Route Départementale # 401
+         62	Calle H
+         62	Calle Central
+         61	Circunvalación
+         59	Mella
+         59	Calle Duarte
+         58	Route Nationale # 7
+         57	Bananiers
+         56	Esso
+         56	Calle Proyecto
+         56	Calle Mella
+         55	Shell
+         55	Calle J
+         55	Calle 17
+         54	Boutique
+         53	Boulevard Toussaint Louverture
+         52	Calle K
+         51	Calle 20
+         51	27 de Febrero
+         50	Calle 18
+         48	Hermanas Mirabal
+         48	Expreso 27 de Febrero
+         48	Calle 16
+         47	Scotiabank
+         46	John F. Kennedy
+         46	Calle G
+         45	Digicel
+         45	Calle 1RA
+         43	lam veritab
+         42	Total
+         42	Sánchez
+         42	Eau Miracle
+         41	Proyecto
+         41	Calle 19
+         39	Natcom
+         39	Lila
+         39	Circunvalación Santo Domingo
+         39	Calle 5ta
+         39	Banca
+         38	Isla
+         38	Calle Hermanas Mirabal
+         38	Banreservas
+         37	Rue Louverture
+         37	Patience Bank
+         37	Calle 21
+         37	Bon
+         36	Ebenisterie
+         35	bloc latrine
+         35	Manguier
+         35	Calle 22
+         34	Calle 26
+         33	Shop Soudure

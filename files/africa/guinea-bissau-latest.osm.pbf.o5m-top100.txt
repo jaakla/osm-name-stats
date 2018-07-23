@@ -1,0 +1,100 @@
+         19	Avenida dos Combatentes da Liberdade da Pátria
+         13	Rio Corubal
+         12	Rio Cacheu
+         11	Rio Grande de Buba
+         10	Rio Mansoa
+          9	Rua Eduardo Mondlane
+          8	Río Geba
+          7	Sénégal - Guiné-Bissau
+          7	Rua Guerra Mendes
+          7	Avenida Amilcar Cabral
+          6	Rio Geba
+          6	Avenida Domingos Ramos
+          5	Rua José Carlos Schwarz
+          5	Rio Colufi
+          5	Rio Cana
+          5	Ilha do Rei
+          5	Avenida Pansau Na Isna
+          4	Rua Areolino Cruz
+          4	Rua 7
+          4	Rua 1
+          4	Rio Probreza
+          4	Rio Campanto
+          4	Picada
+          4	Guinée - Guiné-Bissau
+          4	Estrada Granja do Pessube
+          4	Cacine
+          4	Bolama
+          3	São João
+          3	Rua de Bolama
+          3	Rua de Bafatá
+          3	Rio de Mansabandim
+          3	Rio Pefiné
+          3	Rio Combidjam
+          3	Rio Bidigor
+          3	Rio Armada
+          3	Prite
+          3	Ponta Nova
+          3	Ilha das Cobras
+          3	Fulacunda
+          3	Farim
+          3	Elia's school
+          3	Ecobank
+          3	Canal de Jata
+          3	Bubaque
+          3	Banjara
+          3	BAO
+          3	Avenida da Unidade Africana
+          3	Avenida Francisco Mendes
+          3	Avenida Amílcar Cabral
+          3	Avenida 3 de Agosto
+          3	Ancalho
+          2	clearing
+          2	Taibatá
+          2	Senta
+          2	Sarube
+          2	Río Corubal
+          2	Rua de São Tomé
+          2	Rua de Boé
+          2	Rua Osvaldo Vieira
+          2	Rua Cacheu
+          2	Rua 5
+          2	Rua 4
+          2	Rua 2
+          2	Rio Uaniama
+          2	Rio Tombali
+          2	Rio Seli
+          2	Rio Sanjota
+          2	Rio Safim
+          2	Rio Petu
+          2	Rio Melo
+          2	Rio Jata
+          2	Rio Cacine
+          2	Restaurante Kalliste
+          2	Residências
+          2	Quinhámel
+          2	Portão
+          2	Portugal
+          2	Ponta Isidoro
+          2	Ponta Doce Mancanha
+          2	Ponta Comba
+          2	Ponta Biombo
+          2	Pidjunguto
+          2	Pensão Central
+          2	Oriente
+          2	Monumento a Teixeira Pinto
+          2	Mercado Central
+          2	Mael Jaubè
+          2	Mael Bane
+          2	Madina
+          2	Maca
+          2	Lulú
+          2	K
+          2	Injante
+          2	Ilha da Flecha
+          2	Hospital Nacional Simão Mendes
+          2	Guiné-Bissau
+          2	Fonda Huuwa ecotourism camp
+          2	Fly
+          2	Estrada de Bandim
+          2	Essukujak

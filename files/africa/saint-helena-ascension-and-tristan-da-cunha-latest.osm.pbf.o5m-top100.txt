@@ -1,0 +1,100 @@
+          4	Tristan da Cunha
+          4	Saint Helena
+          3	Main Street
+          3	Constitution Hill
+          3	Airport Access Road
+          2	West Point
+          2	Traveller's Hill
+          2	The Buoys
+          2	Stoltenhoff Island
+          2	Seafront
+          2	Sandy Bay Road
+          2	Sandy Bay Ridge
+          2	Royal Mail Ship St Helena
+          2	Round Hill Gulch
+          2	Red Hill
+          2	Nightingale Island
+          2	Napoleon Street
+          2	Little Sandy Gulch
+          2	Isolda Rock
+          2	Inaccessible Island
+          2	Hottentot Gulch
+          2	Government Garage
+          2	Gough Island
+          2	Cave Gulch
+          2	Casons
+          2	Ascension Island
+          2	Ascension
+          2	Alex or Middle Island
+          1	future fisheries building
+          1	combined building
+          1	aviation fuel facility
+          1	White Rocks
+          1	White Hill
+          1	Where Times fall off Gulch
+          1	West Stony Gulch
+          1	West Road
+          1	West Landing
+          1	West Jews Point
+          1	Washout Gulch
+          1	Wash Gulch
+          1	Warren's Cliff
+          1	Vallée du Tombeau
+          1	Unity Cottage Road
+          1	Two Boats Village
+          1	Twin Falls
+          1	Turks Cap Bay
+          1	Tripot bay
+          1	Tripe Bay
+          1	Transvaal Bay
+          1	Top pond
+          1	Tom's Beach
+          1	Thompson's Bay
+          1	Third Gulch
+          1	The Wharf
+          1	The Waterfall
+          1	The Trail
+          1	The Star
+          1	The Slump
+          1	The Run
+          1	The Ridge where the Goat jumped off
+          1	The Prison
+          1	The Ponds up the Eastard
+          1	The Ponds
+          1	The Peak
+          1	The Patches
+          1	The Moat
+          1	The Hillpiece
+          1	The Heart Shaped Waterfall
+          1	The Coffee Shop
+          1	The Castle
+          1	The Base
+          1	Tern Rock
+          1	Tasty Bites
+          1	Swales Fell 580 m
+          1	Supermarket
+          1	Stonyhill Point
+          1	Stonybeach Bay
+          1	Stony Beach Gulch
+          1	Stone Top Bay
+          1	St. Paul’s Cathedral
+          1	St. Mary's School
+          1	St. Mary
+          1	St. Joseph
+          1	St Helena Airport terminal
+          1	St Helena Airport
+          1	Spring Gulch
+          1	Spinners Point
+          1	Speary Island
+          1	South Point
+          1	South Hill
+          1	South Gannet Hill
+          1	South East Crater
+          1	South Atlantic Media Services
+          1	Skua Pond
+          1	Sisters Peak
+          1	Shy Road
+          1	Shield
+          1	Serengheti
+          1	Sehan rocks
+          1	Second Lagoon Gulch

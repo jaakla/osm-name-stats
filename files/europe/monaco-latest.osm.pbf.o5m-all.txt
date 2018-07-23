@@ -1,0 +1,814 @@
+          1	1
+          1	100 Menton à Nice
+          1	100 Nice à Menton
+          1	2
+          1	3
+          1	3 Tapas
+          1	4
+          1	5
+          1	6
+          1	8&demi
+          2	A Roca
+          1	ACM
+          1	AMRR-AG2R
+          1	AS Monaco Football Store
+          1	Académie de Nice
+          1	Accès Villa Yéyé
+          1	Address
+          1	Aigue Marine
+          1	Akris
+          1	Al dente
+          4	Albert II
+          1	Alexander McQueen
+          3	Allée Guillaume Apollinaire
+          2	Allée Lazare Sauvaigo
+          1	Allée Piétonne François Blanc
+          1	Allée Saint Jean-Paul II
+          4	Allées des Boulingrins
+          1	Alpes Maritimes
+          1	Alpes-Maritimes
+          1	Alpes-Maritimes - cantons (mars 2015)
+          1	Ambassade d'Italie à Monaco
+          1	Ambassade de France à Monaco
+          1	Amici Miei
+          1	Annonciade
+          1	Ariston
+          1	Arrow burger
+          1	Ascenseurs Sainte-Dévote
+          7	Athanée
+          1	Athos Palace
+          1	Audi
+          3	Auditorium Rainier III
+          1	Aurore
+          1	Autobus de Monaco
+         14	Avenue Albert II
+          1	Avenue Camille Blanc
+          3	Avenue Crovetto-Frères
+          1	Avenue Henri Dunant
+          1	Avenue Hugues Savorani
+          1	Avenue Jaques Abba
+          5	Avenue John F. Kennedy
+          2	Avenue Marquet
+          6	Avenue Pasteur
+          9	Avenue Prince Pierre
+          3	Avenue Princesse Alice
+         23	Avenue Princesse Grace
+          1	Avenue Saint Romain
+          2	Avenue Saint-Charles
+          1	Avenue Saint-Laurent
+          3	Avenue Saint-Martin
+          5	Avenue Saint-Michel
+          1	Avenue d'Alsace
+          5	Avenue d'Ostende
+          6	Avenue de Fontvieille
+          1	Avenue de Grande-Bretagne
+          8	Avenue de La Quarantaine
+          4	Avenue de Monte-Carlo
+          4	Avenue de Roqueville
+          1	Avenue de Saint-Romain
+          6	Avenue de l'Annonciade
+          2	Avenue de l'Hermitage
+          7	Avenue de la Costa
+          1	Avenue de la Madone
+          5	Avenue de la Porte Neuve
+          2	Avenue des Beaux-Arts
+         12	Avenue des Castelans
+          3	Avenue des Citronniers
+          6	Avenue des Guelfes
+          3	Avenue des Ligures
+          6	Avenue des Papalins
+          1	Avenue des Pins
+          4	Avenue des Spélugues
+          2	Avenue du 3 Septembre
+          1	Avenue du Berceau
+          1	Avenue du Maréchal Foch
+         10	Avenue du Port
+          2	BNP Paribas
+          1	BNP-Paribas Monaco La Condamine
+          1	BSI
+          1	Balenciaga
+          1	Balmoral
+          1	Bambi
+          1	Banque Populaire
+          1	Banque Populaire Cote d'Azur
+          1	Barclays
+          1	Barrage de Valbourges
+          1	Bateau Bus
+          3	Beausoleil
+          1	Beefbar
+          1	Before
+          1	Bel Air
+         13	Belgique
+          1	Bibliothèque Louis Notary
+          1	Bibliothèque Princesse Caroline
+          1	Black Legend
+          4	Bosio
+          1	Bottega Veneta
+          1	Boucherie des Arcades
+          1	Boucheron
+          3	Boulevard Albert 1er
+         15	Boulevard Charles III
+          5	Boulevard Louis II
+          5	Boulevard Princesse Charlotte
+          4	Boulevard Rainier III
+          7	Boulevard d'Italie
+         11	Boulevard de Belgique
+          2	Boulevard de Suisse
+          7	Boulevard des Moulins
+          1	Boulevard du Général Leclerc
+         16	Boulevard du Jardin Exotique
+         31	Boulevard du Larvotto
+          2	Boulevard du Tenao
+          1	Brasserie de Monaco
+          1	Bretelle
+          2	Bretelle Ostende
+          1	Briganti
+          1	British Motors
+          1	Buddha-Bar
+          1	Bugatti Lifestyle Boutique Montecarlo
+          1	Bughin
+          1	Bulgari
+          1	Bureau de Monaco Fontvieille
+          1	Bureau de Monaco Herculis
+          1	Bus 1
+          1	Bus 100
+          1	Bus 1: Monaco Ville (le Rocher) → Saint-Roman
+          1	Bus 1: Saint-Roman → Monaco Ville (le Rocher)
+          1	Bus 2
+          1	Bus 2: Jardin Exotique → Monaco Ville (le Rocher)
+          1	Bus 2: Monaco Ville (le Rocher) → Jardin Exotique
+          1	Bus 3
+          1	Bus 3: Fontvieille - Centre Commercial → Hector Otto
+          1	Bus 3: Hector Otto → Fontvieille - Centre Commercial
+          1	Bus 4
+          1	Bus 4: Fontvieille - Centre Commercial → Saint-Roman
+          1	Bus 4: Saint-Roman → Fontvieille - Centre Commercial
+          1	Bus 5
+          1	Bus 5: Hôpital → Larvotto
+          1	Bus 5: Larvotto → Hôpital
+          1	Bus 6
+          1	Bus 6: Fontvieille - Centre Commercial → Larvotto
+          1	Bus 6: Larvotto → Fontvieille - Centre Commercial
+          1	Bus N: Bus de Nuit
+          1	Bus de Nuit
+          1	CIC
+          1	CMB
+          1	Café Llorca
+          1	Café Place d'Armes
+          1	Café de Paris
+          1	Caisses sociales de Monaco
+          1	Camefi - Crédit Mutuel
+          1	Cap-d'Ail
+          2	Carmes
+          1	Carrefour
+          1	Carrefour City
+          1	Cartier
+          1	Caserne de Fontvieille
+          1	Caserne de la Condamine
+          1	Casino
+          1	Casino de Monte Carlo
+          2	Castelleretto
+          1	Castelroc
+          1	Cathédrale Notre-Dame-Immaculée
+          1	Centre Cardio Thoracique de Monaco
+          1	Centre Hospitalier Princesse Grace
+          1	Centre commercial de Fontvieille
+          1	Centre d'Imagerie Médicale de Monaco
+          1	Centre de Gérontologie Clinique Rainier III
+          1	Centre de Rencontre International
+          1	Champions Promenade
+          3	Chanel
+          1	Chapelle Sainte-Dévote
+          1	Chapelle de l'Annonciade
+          1	Chapelle des Pénitents
+          1	Chapiteau
+          5	Chemin de la Turbie
+          1	Chemin des Oeillets
+          1	Chemin des Pêcheurs
+         14	Chemin des Révoires
+          2	Chemin des Salines
+          1	Chemin du Castellaret
+          1	Chez Edgar
+          1	Chez Roger - Socca
+          1	Chocolaterie de Monaco
+          1	Chopard
+          1	Château Périgord 1
+          1	Château Périgord 2
+          3	Cimetière
+          1	Cimetière de Monaco
+          1	Cipriane Monte Carlo
+          1	Circonscription Sud-Est
+          1	Circuit de Monaco
+          1	Citronniers
+          1	Club Alpin Monégasque
+          1	Club de Plongée
+          1	Col d'Allos
+          1	Col de Larche
+          1	Col de Tende
+          1	Columbus
+          1	Commissariat de la Condamine
+          1	Compagnie des Autobus de Monaco
+          1	Conseil National de la Principauté de Monaco
+          1	Constantine
+          1	Costa
+          1	Credit Suisse
+          1	Croix rouge monégasque, crèche et garderie Rosine Sanmori
+          1	Croix-Rouge Monégasque
+          4	Crémaillère
+          1	Czarina
+          1	Céline
+          1	Decathlon Monaco
+          1	Depart Grand Prix de Monaco
+          3	Descente du Ténao
+          4	Digue Croisières
+          1	Dior
+          1	Dotta
+          1	Dubernet
+          1	Eden Tower
+          1	Emilie's Cookies
+          1	Entrée Parking
+          2	Entrée Parking de la Comdamine
+          1	Entrée Parking de la Costa
+          1	Entrée du Sporting
+          1	Entrée-Sortie de Parking
+          1	Escalier Gabriel Arnoux
+          1	Escalier Malbousquet
+          1	Escalier Sainte-Dévote
+          3	Escalier de la Costa
+          1	Escalier de la Peirera
+          1	Escalier des Fleurs
+          1	Escalier des Gaumates
+          1	Escalier des Pissarelles
+          1	Escalier des Salines
+          5	Escalier du Castelleretto
+          1	Escalier du Ténao
+          2	Espace Saint-Antoine
+          1	Esso
+          1	European Union
+          1	Explorers Pub
+          1	Fairmont
+          1	Farmacy des Anglais
+          1	Flashman
+          1	Fnac
+          1	Fondation Prince Albert II de Monaco
+          1	Fontaine Japonaise
+          1	Fontaine du Casino
+          2	Fontvieille
+          4	Fontvieille - Centre Commercial
+          1	Fort Antoine 1er
+          1	Fort Saint-Antoine
+          1	Fourrière de Monaco
+          1	Foyer Sainte-Dévote
+          1	France
+          1	France (terres)
+          1	France - Limite côtière - Alpes-Maritimes (06)
+          8	France - Monaco
+          1	France - Monaco (eaux territoriales)
+          1	France - cantons (mars 2015)
+          1	France métropolitaine
+          1	France métropolitaine (terres)
+          1	France, Code de la Route
+          1	France, jours fériés
+          1	France, vacances scolaires, zone B
+          1	Fred
+          1	Funérarium
+          1	Galerie Princesse Stéphanie
+          2	Galerie Sainte-Dévote
+          2	Galerie du parking de la Costa
+          2	Galeries du Parc Palace
+          1	Geprocor
+          1	Gerhard's Café
+          1	Gildo Pastor Center
+          1	Girasole
+          1	Giratoire Aureglia
+          1	Giudi's
+          1	Gramaglia
+          1	Graziella
+          2	Grimaldi Forum
+          2	Grimaldi Forum/Villa Sauber
+          1	Grottes de l'Observatoire
+          1	Grubers Burgers
+          1	Gucci
+          1	HRH Jewels
+          1	Harbour Crest
+          1	Hector Otto
+          1	Henri Geraci
+          1	Hermitage
+          2	Hermés
+          4	Honoré II
+          1	Héliport
+          2	Héliport de Monaco
+          7	Hôpital
+          1	Hôtel Ambassador
+          1	Hôtel de Paris
+          1	Ilot 1
+          1	Impasse
+          4	Impasse de la Fontaine
+          1	Impasse des Carrières
+          1	Institut Monégasque de Médecine du Sport
+          1	International University of Monaco
+          1	Jardin Des Enfants
+          7	Jardin Exotique
+          1	Jardin Exotique et Grottes de l'Observatoire
+          1	Jardin Japonais
+          1	Jardins de Saint-Martin
+          1	Jardins de la Petite Afrique
+          1	Jardins du Cafe de Paris
+          1	Jetée Lucciana
+          1	Jetée de Cap d'Ail
+          1	Jeux d'Enfants sur le Musée
+          1	Jimmy’z Monte-Carlo
+          1	Jouéclub!
+          1	Jules Massenet, 1842-1912
+          4	Kennedy
+          1	Kiwi
+          1	L'Argens
+          1	L'Edelweiss
+          1	L'En-K
+          1	L'Epi d'Or
+          1	L'Escorial
+          1	L'Oiseau Bleu
+          1	L'Orrenaye
+          2	L'Ubaye
+          2	L'Ubayette
+          1	L'hommage aux éléphants de cirque
+          1	LCL
+          1	La Chaumière
+          1	La Collection de voitures anciennes de SAS le Prince de Mon
+          2	La Condamine
+          1	La Florida
+          1	La Gelateria
+          1	La Grande Laveuse
+          1	La Matinière
+          1	La Meranda
+          1	La Mescla
+          1	La Méditerranée à vélo - Partie Française
+          1	La Méditerranée à vélo : Arles - Menton
+          3	La Nartuby
+          1	La Poste
+          1	La Poste - Centre de Tri
+          1	La Rascasse
+          1	La Roccabella
+          9	La Rousse
+         12	La Roya
+          1	La Saliere
+          1	La Tavernetta
+          1	La Turbie
+          1	La Vigie
+          1	La Villa
+          1	La maison des pâtes
+          1	La médina
+          3	Lacets Saint-Léon
+          1	Lalique
+          1	Lanvin
+          4	Larvotto
+          1	Le 29
+          1	Le Bachelard
+          1	Le Beau Rivage
+          1	Le Bermuda
+          1	Le Botticelli
+          1	Le Comptoir
+          1	Le Concorde
+          1	Le Corner
+          1	Le Coronado
+          1	Le Grill
+          1	Le Jardin Animalier
+          1	Le Louis XV - Alain Ducasse à l'Hôtel de Paris
+          1	Le Meridien Beach Plaza
+          1	Le Millenium
+          1	Le Mirabeau
+          1	Le Métropole
+          1	Le Nautic
+          1	Le Neptune
+          1	Le Palace Café
+          1	Le Patio Palace
+          1	Le Petit Bar
+          1	Le Schuylkill
+          1	Le Simona
+          1	Le Sporting d'Hiver
+         20	Le Verdon
+          1	Le Versailles
+          1	Le Virage (old)
+          1	Le Zinc
+          1	Le barbagiuan
+          1	Le kiosque
+          1	Le media
+          1	Le quai des princes
+          1	Les Agaves
+          1	Les Eucalyptus
+          1	Les Gémeaux
+          1	Les Ligures
+          2	Les Monegetti
+          1	Les Villas Du Sporting
+          1	Les flots bleus
+         10	Liaison Marquet
+          6	Ligne de Marseille à Vintimille
+          1	Ligne de Marseille-Saint-Charles à Vintimille (frontière)
+          1	Lignes SNCF Région Sud-Est
+          1	Louis Aureglia
+          1	Louis Vuitton
+          1	Lycée Albert-1er
+          1	Lycée Technique et Hôtelier
+          1	LyounMen
+          1	Mairie de Monaco
+          1	Maison Mullot
+          1	Maison d'Arrêt de Monaco
+          1	Maison de Caroline de Monaco
+          1	Maison de Stéphanie de Monaco
+          1	Maison de la Presse
+          1	Malizia Statue
+          1	Marché U
+          1	Marché de la Condamine
+          1	Marriott Hotel Riviera Monaco
+          1	Maya Bay
+          2	McDonald's
+          1	Mecaplast
+          1	Menton
+          1	Mercedes-Benz
+          2	Metropole
+          1	Milady Fourrure
+          1	Ministère d'État
+          1	Mirabeau
+          1	Miramar Hotel & Restaurant
+          1	Miu Miu
+          1	Modjo
+          4	Monaco
+         11	Monaco - Monte Carlo
+          1	Monaco Fitness Center
+          1	Monaco Grand Prix
+          1	Monaco Mutualité
+          1	Monaco Premium Car Wash
+          1	Monaco Telecom
+          1	Monaco Ville
+          4	Monaco Ville (le Rocher)
+          1	Monaco-Monte Carlo
+          2	Monaco-Ville
+          2	Moneghetti
+          1	MontBlanc
+          1	Monte Carlo Bay
+          1	Monte Carlo Sporting Club and Casino
+          1	Monte Carlo Star
+          8	Monte-Carlo
+          6	Monte-Carlo (TAM)
+          3	Monte-Carlo (Tourisme)
+          1	Monte-Carlo Bar
+          1	Monte-Carlo C
+          1	Moshi Moshi
+          1	Motophant
+          1	Motor Cars Monaco
+          5	Musée Océanographique
+          1	Musée d'Anthropologie Préhistorique
+          1	My Sushi
+          1	Ni
+          1	Nice
+          1	Nice Côte d'Azur
+          1	Nice Ferry Terminal
+          1	Nikki Beach Monte Carlo
+          1	Nouveau Musée National - Villa Paloma
+          1	Nouveau Musée National - Villa Sauber
+          1	Novotel
+          4	Observatoire
+          1	Office du Tourisme
+          1	Office du Tourisme de Monaco
+          1	Opéra de Monaco
+          7	Ostende
+          1	P&P
+          1	Palais Princier de Monaco
+          1	Palais de Justice
+          4	Papalins
+          7	Parc Princesse Antoinette
+          1	Parc de la Roseraie
+          1	Paris 8
+          2	Parkhaus
+          1	Parking Plati
+          1	Parking Roqueville
+          1	Parking Saint-Charles
+          2	Parking Saint-Laurent
+          1	Parking Saint-Nicolas
+          1	Parking Uter
+          2	Parking de l'Héliport
+          1	Parking de la Colle
+          1	Parking de la Condamine
+          1	Parking de la Costa
+          1	Parking de la Digue
+          1	Parking de la mer
+          1	Parking des Agaves
+          1	Parking des Boulingrins
+          1	Parking des Carmes
+          2	Parking des Ecoles
+          1	Parking des Moulins
+          1	Parking des Papalins
+          1	Parking du Casino
+          3	Parking du Jardin Exotique
+          2	Parking du Larvotto
+          1	Parking du Port
+          1	Parking du Quai Antoine 1er
+          1	Parking du Square Gastaud
+          1	Parking du Stade
+          2	Parking du centre commercial
+          1	Parvis Sainte-Dévote
+          1	Passage Doda
+          2	Passage Grana
+          1	Passage Saint-Michel
+          1	Passage de l'Ancienne Poterie
+          1	Passage de la Fonderie
+          2	Passage de la Miséricorde
+          1	Passage du Coin
+          1	Pasteur
+          2	Pattaya
+          1	Pavillion 1
+          1	Pavillion 2
+          1	Pavillion 3
+          1	Pavillion 4
+          1	Pavillion 5
+          1	Pavillons Monte-Carlo
+          1	Petit Casino
+          1	Pharmacie Ferry
+          1	Pharmacie Internationale
+          1	Pharmacie Marsan
+          1	Pharmacie des Moulins
+          1	Pharmacie du Rocher
+          1	Piaget
+          1	Pizza Boutique
+          1	Pizza Pino
+          1	Pizza&co
+          1	Place Moulins
+          1	Place Saint Nicolas
+          2	Place Sainte-Dévote
+          4	Place Sainte-Dévote (Gare)
+          1	Place Wurtemberg
+          7	Place d'Armes
+          6	Place d'Armes (Charles III)
+          3	Place d'Armes (Port)
+          6	Place d'Armes (TAM)
+          3	Place d'Armes (vers Monaco Ville)
+          2	Place de l'Opéra
+          1	Place de la Mairie
+          1	Place de la Source
+          3	Place de la Visitation
+          2	Place des Bougainvilliers
+          7	Place des Moulins
+          1	Place du Campanin
+          6	Place du Casino
+          6	Place du Palais
+          1	Plage Larvotto
+          1	Plage du Solarium
+          2	Plages
+          1	Planet Pasta
+          1	Planet Sushi
+          1	Plaque commémore l'inauguration de la Via Alpina
+         10	Pont Sainte-Dévote
+          1	Porsche
+          1	Port Hercule de Monaco
+          1	Port de Cap d'Ail
+          5	Port de Fontvieille
+          2	Porte Neuve
+          7	Portier
+          1	Poste de Police de Fontvieille
+          1	Poste de la Condamine
+          1	Poste des Spélugues
+          1	Prada1
+          1	Pretty You
+          4	Princesse Antoinette
+          1	Princesse Florestine
+          7	Princesse Stéphanie
+          1	Principaute de Monaco B
+          1	Promenade Honoré II
+          1	Provence-Alpes-Côte d'Azur
+          1	Punta Garavano
+          1	Punta della Rocca
+          6	Quai Albert 1er
+          1	Quai Antoine 1er
+          2	Quai Chicane
+          2	Quai Jean-Charles Rey
+          1	Quai Louis II
+          1	Quai de l’Hirondelle
+          1	Quai des Artistes
+          3	Quai des États-Unis
+          1	Quimper
+          1	Rainier III
+          6	Rampe Major
+          1	Range Rover
+          2	Rascasse
+          1	Ravin de Paluel
+          1	Red
+          1	Restaurant Le Botticelli
+          1	Richard Mille
+          1	Richmond Bar
+          2	Riou de Poussandriou
+          1	Riviera Française
+          4	Rond-Point Bosio
+          6	Rond-Point Canton
+          2	Rond-Point Papalins
+          5	Rond-Point Sainte-Dévote
+          2	Rond-Point de l'Hopital
+          6	Rond-Point du Portier
+          4	Rond-Point du Sporting
+          1	Roquebrune-Cap-Martin
+          7	Roqueville
+          4	Roseraie
+          1	Roseraie Princesse Grace
+          3	Rotondes
+          2	Rue Augustin Vento
+          1	Rue Baron Sainte-Suzanne
+          1	Rue Basse
+          1	Rue Bel Respiro
+          1	Rue Bellevue
+          1	Rue Biovès
+          3	Rue Bosio
+          1	Rue Comte Félix Gastaldi
+          2	Rue Grimaldi
+          4	Rue Hector Otto
+          1	Rue Honoré Labande
+          2	Rue Imberty
+          1	Rue Jean Bono
+          1	Rue Joseph Bressan
+          1	Rue Langlé
+          1	Rue Louis Auréglia
+          7	Rue Louis Notari
+          2	Rue Malbousquet
+          1	Rue Notre-Dame de Lorete
+          1	Rue Paradis
+          1	Rue Philibert Florence
+          1	Rue Plati
+          2	Rue Princesse Antoinette
+          1	Rue Princesse Caroline
+          3	Rue Princesse Florestine
+          2	Rue Princesse Marie de Lorraine
+          1	Rue Saige
+          3	Rue Suffren Reymond
+          1	Rue Terrazzani
+          2	Rue de Millo
+          1	Rue de Vedel
+          1	Rue de l'Abbaye
+          2	Rue de l'Industrie
+          1	Rue de l'église
+          4	Rue de la Colle
+          3	Rue de la Lüjerneta
+          2	Rue de la Source
+          1	Rue de la Turbie
+          2	Rue des Agaves
+          1	Rue des Açores
+          1	Rue des Carmes
+          2	Rue des Fours
+          1	Rue des Genêts
+          1	Rue des Giroflees
+          1	Rue des Géraniums
+          3	Rue des Iris
+          1	Rue des Lauriers
+          2	Rue des Lilas
+          1	Rue des Oliviers
+          2	Rue des Orangers
+          3	Rue des Orchidées
+          1	Rue des Princes
+          1	Rue des Remparts
+          1	Rue des Roses
+          1	Rue des Spelugues
+          1	Rue des Violettes
+          1	Rue du Campanin
+          3	Rue du Castelleretto
+          6	Rue du Gabian
+          1	Rue du Marché
+          2	Rue du Portier
+          1	Rue du Rocher
+          1	Rue du Ténao
+          2	Rue Émile de Loth
+          1	Ruelle Chanoine Georges Franzi
+          1	Ruelle Herculis
+          1	Ruelle Sainte Devote
+          1	Ruelle Sainte-Barbe
+          1	Ruelle de la Fonderie
+          1	SONG QI
+          1	Saint Paul's Anglican Church
+          7	Saint-Charles
+          5	Saint-Roman
+          2	Saint-Roman (Bus 1)
+          3	Saint-Roman (Bus 4)
+          2	Sainte-Dévote
+          1	Salle d'Exposition
+          1	Sardanapale
+          1	Sass
+          1	Saut du Capelan
+          7	Sea Club
+          1	Servi muti
+          1	Ship & Castle
+          1	Snack Bar La Pampa
+          1	Snowflake
+          1	Societe générale
+          1	Société Générale
+          1	Sodexo
+          1	Solis Bio
+          1	Sonia Rykiel
+          1	Sortie Parking de la Condamine
+          1	Sortie Parking de la Costa
+          1	Sortie Pompiers
+          2	Sortie du Sporting
+          2	Spar
+          7	Spélugues
+          2	Square Beaumarchais
+          4	Square Lamark
+          1	Square Théodore Gastaud
+          1	Square Winston Churchill
+          9	Stade Louis II
+          1	Stade Municipal
+          3	Stade Nautique
+          1	Stade Nautique Rainier III
+          1	Starbuck
+          1	Starbucks
+          1	Stardust
+          1	Stars n Bars
+          1	Station de Vélos Electriques
+          2	Stura di Demonte
+          1	SuperU Snack
+          1	Sûreté Publique de Monaco
+          1	TER
+          1	TER 4 : Mandelieu/Grasse - Cannes - Nice - Ventimiglia
+          1	TER 6 : Marseille - Nice - Ventimiglia
+          1	TER Provence - Alpes - Côte d'Azur
+          1	TGV
+          1	TGV 512 : Paris − Nice − Vintimille
+          1	Temple antoiniste
+          1	Terminal Croisiere
+          4	Terrasses du Casino
+          1	Terrazino
+          1	The Living Room
+          1	The bike shop
+          1	Thello : Marseille − Milan
+          1	Thermes Marins Monte-Carlo
+          1	Théatre Princesse Grace
+          1	Tip Top
+          1	Torso desperacion
+          1	Tour Odéon
+          1	Tourist Bus Monaco: Circulaire
+          1	Travaux du Sporting d’Hiver
+          1	Travolator
+          3	Tunnel Albert II
+          4	Tunnel Aureglia
+          2	Tunnel Dorsale
+          1	Tunnel Pasteur
+          2	Tunnel Pont Cadre
+          1	Tunnel Rainier III
+          3	Tunnel Rocher Antoine 1er
+          1	Tunnel Rocher Canton
+          1	Tunnel Rocher Fontvieille
+          2	Tunnel Rocher Nogues
+          3	Tunnel Rocher Palais
+          3	Tunnel Sainte-Dévote
+          5	Tunnel de Serravalle
+          1	Tunnel de la Colle
+          1	Tunnel du Millenium
+          1	Twiga
+          1	U Picin Tocu
+          4	UBS
+          1	Unité de psychiatrie et de psychologie médicale La Rosera
+          1	Université Internationale de Monaco
+          1	Valentin (in the Galery)
+          1	Valentino
+          1	Via Alpina
+          1	Via Alpina Red
+          1	Via Alpina Red R161
+          1	ViaAlpina
+          1	Villa Agmyr
+          1	Villa Camélia
+          1	Villa Emphyrée
+          1	Villa Florida
+          1	Villa Frontalière
+          1	Villa Frontiera
+          1	Villa Hermosa
+          1	Villa J. Rey
+          1	Villa José-Denis
+          1	Villa Les Coccinelles
+          1	Villa Madso
+          1	Villa P. Medecin
+          3	Villa Paloma
+          1	Villa Paola
+          1	Villa Serenita
+          1	Villa Victoria
+          1	Villefranche-sur-Mer
+          4	Virage Antony Nogues
+          1	William Grover-Williams
+          1	Wine O Clock
+          1	Yacht Club de Monaco
+          1	Yesss Électrique
+          1	Yoshi
+          1	Yves Saint Laurent
+          1	Zara
+          1	cap D'Ail, cale mise à l eau
+          1	d'Ostende
+          1	de France
+          1	jet travel
+          1	pizzeria monegasque
+          1	station de Vélos Electriques
+          1	u Tapu
+          1	École Saint-Charles
+          1	École de Fontvieille
+          1	École de la Condamine
+          1	École des Carmes
+          1	École des Révoires
+          1	Église Saint-Charles
+          1	Église Saint-Martin
+          1	Église Saint-Nicolas
+          1	Église des Carmes
+          1	Église des Franciscains
+          1	Église du Sacré Coeur
+          1	Évolution

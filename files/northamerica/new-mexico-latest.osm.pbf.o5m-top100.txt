@@ -1,0 +1,100 @@
+        394	Rio Chama
+        393	Gallup Subdivision
+        266	Union Pacific Railroad
+        264	El Paso Subdivision
+        199	Clovis Subdivision
+        192	Glorieta Subdivision
+        184	Rio Gallina
+        174	Raton Subdivision
+        169	Rio Ojo Caliente
+        165	Willow Creek
+        156	MOC LR
+        145	Pan American Freeway
+        140	North Main Street
+        124	Boulder Creek
+        117	Alameda Drain
+        108	Carlsbad Subdivision
+        104	Rio Tusas
+        102	El Rito
+         98	Main Street
+         93	Southwestern Railroad
+         91	Arroyo
+         90	Conchas Canal
+         89	Rio Vallecitos
+         88	Horse Lake Creek
+         80	Rio Nutrias
+         80	East Lohman Avenue
+         80	Coronado Freeway
+         79	West Picacho Avenue
+         77	Saint Michaels Drive
+         76	Continental Divide Trail
+         75	2nd Street
+         73	4th Street
+         72	North White Sands Boulevard
+         70	Rio Grande
+         70	Jefferson Street Northeast
+         70	Frontage Road
+         70	3rd Street
+         69	Rio Puerco
+         68	Rio de los Pinos
+         68	Garfield Drain
+         68	Burlington Northern Santa Fe R
+         68	Airport Road
+         67	Subway
+         67	Indian School Road Northeast
+         67	Central Avenue Southeast
+         66	I-25
+         65	Rio Brazos
+         65	Louisiana Boulevard Northeast
+         64	Canjilon Creek
+         64	1st Street
+         63	5th Street
+         62	Rito de los Ojos
+         62	Los Padillas Drain
+         62	First Baptist Church
+         61	Pipeline Road
+         61	McDonald's
+         60	South Main Street
+         59	Rio San Antonio
+         57	University Boulevard Southeast
+         56	Coors Boulevard Northwest
+         56	Central Avenue Northwest
+         54	US Veterans Hospital Loop Southeast
+         54	Arroyo del Puerto Chiquito
+         52	6th Street
+         50	cdt
+         50	Wyoming Boulevard Northeast
+         50	San Pedro Drive Northeast
+         50	Rito de Tierra Amarilla
+         49	Seven Rivers Highway
+         49	Santa Fe Highway
+         49	North 1st Street
+         49	8th Street
+         49	7th Street
+         48	Bataan Memorial Highway
+         47	Echo Ditch
+         46	Rio Chamita
+         46	Menaul Boulevard Northeast
+         45	Tramway Trail
+         45	Comanche Road Northeast
+         45	Candelaria Road Northeast
+         45	CDT
+         44	Walgreens
+         44	Starbucks
+         44	Rio del Oso
+         44	East Tank
+         43	South 1st Street
+         43	Lomas Boulevard Northeast
+         43	Gibson Boulevard Southeast
+         43	2nd Street Northwest
+         42	San Mateo Boulevard Northeast
+         42	Rio Cebolla
+         42	Paseo del Norte Boulevard Northeast
+         42	Central Avenue
+         42	BNSF York Canyon Branch
+         42	9th Street
+         41	Stock Tank
+         41	North Tank
+         41	Navajo Route 30
+         41	Cimmaron River
+         41	Canyon Road

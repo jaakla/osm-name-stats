@@ -1,0 +1,100 @@
+        153	Northeast Corridor
+        108	Main Street
+        105	Post Road
+         59	South County Trail
+         53	Dunkin' Donuts
+         52	Broad Street
+         50	High Street
+         50	Division Street
+         49	Kingstown Road
+         45	Washington Street
+         44	Frenchtown Road
+         42	East Avenue
+         41	Broadway
+         40	Tower Hill Road
+         40	Pawtucket Avenue
+         39	Westerly Bypass
+         38	Washington Secondary Rail Trail
+         38	Pleasant Street
+         36	Nooseneck Hill Road
+         33	George Street
+         33	CVS
+         32	Smith Street
+         32	Church Street
+         31	Victory Highway
+         31	Spring Street
+         30	Park Avenue
+         30	Bald Hill Road
+         29	Pine Street
+         29	Oak Street
+         28	Woonasquatucket River
+         28	Westminster Street
+         28	School Street
+         28	John Street
+         28	Central Avenue
+         27	Warren Avenue
+         27	Quaker Lane
+         27	New London Avenue
+         27	Mill Street
+         27	F C Greene Memorial Boulevard
+         26	Reservoir Avenue
+         26	Main Avenue
+         26	Charles Street
+         25	Greenwich Avenue
+         25	Eddie Dowling Highway
+         24	Mendon Road
+         24	Eddy Street
+         24	Atwood Avenue
+         23	Warwick Avenue
+         23	McDonald's
+         23	Franklin Street
+         23	Exchange Street
+         23	Chestnut Street
+         23	Airport Connector
+         22	Ten Rod Road
+         22	Roosevelt Avenue
+         22	River Street
+         22	New London Turnpike
+         22	Elm Street
+         22	Cross Street
+         22	Cottage Street
+         22	Central Street
+         22	Benefit Street
+         21	Union Avenue
+         21	Summer Street
+         21	Ocean Road
+         21	Main Line
+         21	Elmwood Avenue
+         21	3rd Street
+         20	West Street
+         20	Smithfield Avenue
+         20	Putnam Pike
+         20	North Smithfield Expressway
+         20	Diamond Hill Road
+         20	Boston Neck Road
+         19	West Shore Road
+         19	Prospect Street
+         19	Pond Street
+         19	Old Post Road
+         19	Narragansett Avenue
+         19	Maple Avenue
+         19	Kenyon Avenue
+         19	Hope Street
+         19	Hartford Avenue
+         19	Cumberland Farms
+         19	2nd Street
+         18	Walnut Street
+         18	Subway
+         18	South Street
+         18	Providence Street
+         18	Oaklawn Avenue
+         18	Lincoln Avenue
+         18	Francis Street
+         18	Dunkin Donuts
+         18	Dean Street
+         18	County Road
+         18	Citizens Bank
+         18	Beach Street
+         17	Woonsocket Industrial Highway
+         17	Valley Street
+         17	South Main Street

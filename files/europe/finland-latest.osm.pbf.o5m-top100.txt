@@ -1,0 +1,100 @@
+        557	Helsingintie
+        502	Maapaloposti
+        499	Rantarata
+        444	Turuntie
+        428	Rádjajohka
+        411	Kehä III
+        408	Lahdentie
+        384	Hämeentie
+        371	Kirkkotie
+        367	Porintie
+        358	Jyväskyläntie
+        354	Laavu
+        350	Savon rata
+        325	Valtatie
+        324	Lahdenväylä
+        315	Pohjanmaan rata
+        296	Kehä I
+        296	Hämeenlinnanväylä
+        286	Vihdintie
+        286	Itäväylä
+        265	Tampereentie
+        264	Koulutie
+        261	Skiehččanjohka
+        257	Kajaanintie
+        253	Rantatie
+        237	Koskelantie
+        236	Ouluntie
+        234	Kuopiontie
+        233	Hämeenlinnantie
+        227	Tikkurilantie
+        223	Vaasantie
+        222	Kirkkokatu
+        218	R-Kioski
+        218	Luontopolku
+        217	Länsiväylä
+        207	Keskustie
+        194	Vanhatie
+        191	Moottorikelkkareitti
+        191	Asematie
+        189	Mäkelänkatu
+        188	Teollisuustie
+        185	Yhdystie
+        185	Kokkolantie
+        184	Lentoasemantie
+        180	Lahden oikorata
+        178	Mannerheimintie
+        178	Keskuskatu
+        178	Kauppakatu
+        172	Siltakatu
+        171	Viikintie
+        171	Mustalampi
+        169	Keravan kaupunkirata
+        167	Alko
+        166	Luonnonsuojelualue
+        165	Välitie
+        163	Koulukatu
+        160	UKK-reitti
+        159	Kota
+        157	R-kioski
+        156	Joensuuntie
+        155	Seurantalo
+        154	Turunväylä
+        154	Rovaniementie
+        152	Pappilantie
+        151	Ratakatu
+        149	Kuusitie
+        148	Urheilutie
+        147	moottorikelkkareitti
+        147	Sale
+        146	Torikatu
+        146	Mäntytie
+        146	Mustajoki
+        145	Kuutostie
+        142	Myllytie
+        140	Opintie
+        139	Turku-Helsinki moottoritie
+        139	Rinnetie
+        138	Kotipizza
+        137	Asemakatu
+        136	Tattariharjuntie
+        136	Peltotie
+        136	Kehärata
+        132	Niementie
+        132	Heikkiläntie
+        132	Ahvenlampi
+        127	Riihitie
+        126	Siltatie
+        126	Rautatienkatu
+        126	Puistokatu
+        126	Mäkitie
+        126	Kalevankatu
+        126	Helsinginkatu
+        125	Lestijoki
+        124	Käsivarrentie
+        124	Kuusamontie
+        123	Vantaankosken rata
+        122	Seppäläntie
+        122	Saarijärvi
+        121	Tampereen valtatie
+        121	S-Market

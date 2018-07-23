@@ -1,0 +1,100 @@
+        690	null
+        423	Main Road
+        347	VD
+        304	Spar
+        280	Engen
+        273	Church Street
+        266	Voortrekker Street
+        264	KFC
+        234	Gautrain
+        227	Woolworths
+        198	Steers
+        197	Shoprite
+        194	Koeberg Road
+        194	Caltex
+        189	Wimpy
+        181	ABSA
+        178	Pick n Pay
+        177	Shell
+        176	Clicks
+        174	FNB
+        156	Standard Bank
+        155	Total
+        155	BP
+        141	Pep
+        138	Checkers
+        136	2nd Avenue
+        136	1st Avenue
+        135	Nedbank
+        134	Western Bypass
+        134	Cape Epic
+        134	3rd Avenue
+        130	Old Main Road
+        125	Settlers Way
+        125	Main Street
+        121	McDonald's
+        121	Marine Drive
+        119	North Coast Toll Road
+        117	Beach Road
+        115	Voortrekker Road
+        113	Kerk Street
+        112	4th Avenue
+        111	Sasol
+        110	Edgars
+        105	Park Street
+        104	Knysna Street
+        104	High Street
+        100	Rammopo Road
+        100	Joubert Street
+        100	5th Avenue
+         99	Market Street
+         98	Ackermans
+         97	Sishen-Saldanha Railway
+         94	Mr Price
+         93	First Avenue
+         91	Van Riebeeck Street
+         90	Protea Street
+         89	Victoria Road
+         88	Mthatha - Amabele Branch Line
+         88	Milner Road
+         86	York Street
+         86	Nelson Mandela Drive
+         86	6th Avenue
+         85	Jakes Gerwel Drive
+         82	ZR Mahabane Highway
+         82	Sundays River
+         81	Plein Street
+         81	Absa
+         80	7th Avenue
+         79	West Coast Road
+         78	Main Reef Road
+         78	Apple Express (Avontuur Branch Line)
+         78	1
+         77	Pick 'n Pay
+         77	5th Street
+         76	Short Street
+         75	Boundary Road
+         73	3
+         72	West Street
+         72	Station Road
+         72	Solomon Mahlangu Drive
+         72	8th Avenue
+         71	Victoria Street
+         71	Standard
+         71	Kakamas Branch Line
+         70	Truworths
+         70	Park Road
+         69	Spur
+         69	4th Street
+         68	Service road
+         68	Kruger Street
+         68	1st Street
+         67	Game
+         67	CJ Langenhoven Street
+         67	2nd Street
+         67	11th Avenue
+         66	Kort Street
+         66	Hill Street
+         65	Nando's
+         65	Meyer Street
+         65	9th Avenue

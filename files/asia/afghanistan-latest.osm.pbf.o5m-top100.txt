@@ -1,0 +1,100 @@
+       4925	R-C
+        466	R3
+        228	Safe Haven
+        130	Shop
+        121	A1
+        118	R-A
+        114	R-1
+        110	Border Pakistan - Afganistan
+        105	R-B
+         97	MYMN-RD-2
+         84	HLMND-RD-3
+         84	H-R
+         74	شهرك خواجه رواش.
+         68	A77
+         65	KNDR-RD-3
+         64	A-77
+         63	Water Tap
+         62	brick kiln
+         62	School
+         61	SW-Rd-1
+         60	R17
+         58	Brick Kiln
+         56	Tarin Kowt to Dirawud
+         48	Border Tajikistan - Afganistan
+         47	R1
+         44	Amu Darya
+         43	R-3
+         38	Keshim-Faizabad Road
+         35	Rodat to Dih Bala Road
+         34	Safa Haven
+         34	R18
+         33	3rd Microrayan
+         32	دریای لوگر
+         31	Kabul-Jalalabad road
+         31	Bridge
+         30	Ghourian - Zendeh Jan - Herat Rd
+         28	Mill
+         27	Kabul - Kandahar road
+         26	هلمند رود
+         26	دریای اندراب
+         26	Jalalabad Torkhan High Way
+         25	Панҷ
+         25	Russian Road
+         24	رودخانه کوکچه
+         23	Kabul River کابل سيند
+         22	MYMN-RD-3
+         20	فراه رود
+         19	رود کندوز
+         19	Hesarak High Way/حصارک لويا لاره
+         18	رود سرخ‌آب
+         18	HLMND-RD-1
+         18	HLMND-R-1
+         17	tr
+         17	MYMN-Rd-2
+         17	Ali abad- Khanabad Road
+         17	Airport Road
+         16	Sharan/Janikhel Road
+         16	N-5 National Highway
+         16	Khanabad-Taloqan road
+         16	Jalalabad to Kuner Road
+         15	ارغنداب رود
+         15	chaprahar Road
+         15	RD-250
+         15	Olive Farm
+         15	Nargasi Road
+         14	Wadi
+         14	Public lands
+         14	High School
+         13	خاش رود
+         13	بلخ
+         13	Магазин
+         13	MYMN-Rd
+         13	Kabul / Gardez Highway
+         13	JAA-Bay Pass Ring Road
+         13	Border Afghanistan - Iran
+         13	Baharak-Zebad road
+         12	جاده آسمایی
+         12	Taloqan-Keshim Road
+         12	SW-Rd-3
+         12	Route 611
+         12	Brick Factory
+         12	A75
+         11	تجن
+         11	Sharan / Gardez road
+         11	Sayaf Family Road
+         11	SW-Rd-2
+         11	R8
+         11	MYMN-RD
+         11	Kolola Pushta Street
+         11	Kabul–Kandahar Highway
+         11	Kabul - Nangarhar Hwy
+         10	پنجشیر
+         10	رود موغاب
+         10	دریای خلم
+         10	Tarin Kowt to Kandahar
+         10	Ruin?
+         10	R9
+         10	Mosque
+         10	Darulaman Road
+         10	Avalanche Gallery

@@ -1,0 +1,100 @@
+        400	Baobab
+        140	Ikopa
+        115	Fianarantsoa-Côte Est
+        101	Tananarive Côte Est
+         83	FCE
+         80	Betsiboka
+         69	Tananarive Antsirabe
+         40	Moramanga Lac Alaotra
+         36	Mangoky
+         36	Canal des Pangalanes
+         34	Tanambao
+         29	Voasary
+         29	Mahavavy
+         27	Sofia
+         26	Làlana Pasitora Rahajason
+         25	Matsiatra
+         23	Mandranofotsy
+         23	Manambolo
+         22	Morafeno
+         22	Boulevard de l'Europe
+         22	Araben'ny Fahaleovantena
+         21	Route Circulaire
+         21	Mananara
+         20	Onilahy
+         20	Antrema
+         20	Ambodimanga
+         20	29 mars 1947
+         19	Làlana Ravoninahitriniarivo
+         19	*
+         18	Route de l'Ouest
+         18	Mangoro
+         17	TCE
+         17	Route d'Anjeva
+         17	Boababs
+         17	Ampasika
+         17	Ambohitsara
+         16	Boulevard de Tokyo
+         16	Ambatomainty
+         15	Vohidiala Morarano Chrome
+         15	Route de l'Université
+         15	Namorona
+         15	Manambato
+         15	Mahasoa
+         15	Làlana Hydrocarbures
+         15	Farihy Alaotra
+         15	Building
+         15	Avenue du Maréchal Foch
+         15	Antanambao
+         14	Tsarahonenana
+         14	Sainte Luce reserve trail
+         14	Morarano
+         14	Mahatsinjo
+         14	Mahatsara
+         14	Bemarivo
+         14	Andranofotsy
+         14	26 juin 1960
+         13	Route de Nord
+         13	EPP
+         13	Anosy
+         13	Ambohimiarina
+         12	Tsingy
+         12	Soanierana
+         12	Sisaony
+         12	Rue Docteur Joseph Raseta
+         12	Mangarivotra
+         12	Manandona
+         12	Mananantanana
+         12	Fiadanana
+         12	Andranomena
+         12	Amboasary
+         12	Ambalabe
+         11	Tsiandanitra
+         11	Sakamarekely
+         11	Route d'Andramasina
+         11	Menavava
+         11	Epicerie
+         11	Arabe Andrianampoinimerina
+         11	Andranomavo
+         11	Ampasibe
+         11	Ambodivona
+         10	Tsiribihina
+         10	Mananjary
+         10	Mahazoarivo
+         10	Maharivo Fleuve
+         10	Madagascar National Parks
+         10	Làlana Digy
+         10	Làlana Andriantsihoarana Ratsimbazafy
+         10	Kamoro
+         10	JIRAMA
+         10	Intsaka
+         10	Fenoarivo
+         10	Arabe Jeneraly Charles de Gaulle
+         10	Antsahabe
+         10	Ambohipeno
+         10	Ambohimahavelona
+         10	Ambodivoahangy
+         10	Ambalavolo
+          9	Vohitsara
+          9	Tsaratanana
+          9	Tsaramandroso

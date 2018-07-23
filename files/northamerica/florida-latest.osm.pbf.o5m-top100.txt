@@ -1,0 +1,100 @@
+        829	Tamiami Trail
+        814	230KV
+        627	Florida's Turnpike
+        572	Main Street
+        554	McDonald's
+        545	Publix
+        405	Walgreens
+        388	Federal Highway
+        364	Subway
+        360	CVS
+        358	Dixie Highway
+        349	2nd Street
+        329	1st Street
+        324	Thomasville Road
+        311	115KV
+        299	South Dixie Highway
+        299	3rd Street
+        297	4th Street
+        293	Northwest 39th Avenue
+        289	Pine Street
+        285	Southwest 8th Street
+        285	7-Eleven
+        284	Shell
+        284	Oak Street
+        283	North Monroe Street
+        281	Wendy's
+        281	Apalachee Parkway
+        277	Starbucks
+        277	5th Street
+        276	Homestead Extension of Florida's Turnpike
+        275	Burger King
+        256	Florida Avenue
+        252	Overseas Highway
+        250	Alligator Alley
+        247	Eglin Air Force Base
+        238	Walmart Supercenter
+        235	Bank of America
+        234	Palmetto Expressway
+        231	Northwest 27th Avenue
+        230	Central Avenue
+        229	West Tennessee Street
+        225	East-West Expressway
+        219	Collins Avenue
+        218	138KV
+        217	Northwest 13th Street
+        217	Florida East Coast Railway
+        216	Southwest 10th Street
+        210	6th Street
+        208	Northwest 12th Street
+        203	Park Avenue
+        203	Northwest 7th Street
+        202	Wells Fargo
+        199	Palm Avenue
+        199	Golf Cart Path
+        199	Dunkin' Donuts
+        199	Capital Circle Northeast
+        198	State Road 7
+        197	Taco Bell
+        190	Griffin Road
+        188	Old Dixie Highway
+        187	Jefferson Street
+        186	7th Street
+        183	Southwest 117th Avenue
+        182	Northwest 2nd Street
+        180	Northwest 6th Street
+        175	Beachline Expressway
+        172	Central Florida GreeneWay
+        172	8th Street
+        170	Washington Avenue
+        169	Palm Drive
+        168	Northwest 14th Street
+        167	Church Street
+        166	Southwest 3rd Street
+        163	Washington Street
+        163	Northwest 2nd Avenue
+        163	Northwest 15th Street
+        163	John Young Parkway
+        163	Chevron
+        162	Southwest 40th Street
+        162	Lee Roy Selmon Crosstown Expressway
+        161	Northwest 5th Street
+        161	Northwest 3rd Street
+        161	Magnolia Avenue
+        161	Hillsborough Avenue
+        161	10th Street
+        160	Western Beltway
+        160	Orange Avenue
+        158	Southwest 2nd Street
+        158	Northwest 36th Street
+        156	Northwest 4th Street
+        154	Southwest 6th Street
+        154	Biscayne Boulevard
+        153	Southwest 137th Avenue
+        153	Ponce de Leon Boulevard
+        153	Northeast 2nd Avenue
+        152	Southwest 18th Street
+        152	Lake Drive
+        152	9th Street
+        151	Southwest 13th Street
+        151	Northwest 1st Street

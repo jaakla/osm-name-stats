@@ -1,0 +1,100 @@
+        221	kraal
+        145	building under construction
+        138	ruins
+         53	wall
+         48	construction
+         42	woodland
+         38	Motebo
+         34	scrub
+         33	motebo
+         31	rondavel
+         28	malaene
+         27	home
+         25	toilet
+         25	conveyor belt
+         24	flats
+         24	Landbank
+         24	Koffi Annan
+         23	under construction
+         22	A4
+         22	A2
+         21	footbridge
+         20	Field
+         19	Time Trial 2012
+         18	path
+         18	Karral
+         17	Senqunyane River
+         17	Main North 1
+         17	Caledon River
+         16	track
+         16	karral
+         16	huis
+         16	cattle post
+         16	Senqu River
+         15	Standard Lesotho Bank
+         14	residential house
+         14	ROOF2014Q
+         13	residential road
+         13	residential housing
+         13	donga
+         13	Phuthiatsana River
+         12	underconstruction
+         12	school
+         12	karrall
+         12	Kraal
+         11	scrub land
+         11	ruin
+         11	natural
+         11	cliff
+         11	Mophato
+         11	Hut
+         10	school building
+         10	foot path
+         10	dirt road
+         10	Woodland
+         10	Wood
+         10	Principal Highway
+          9	shrub
+          9	Tree
+          9	Mandela Road
+          9	Malibamatso River
+          9	Lesotho Funeral Services
+          9	Kingsway
+          9	Airport Road
+          8	rock
+          8	mophato
+          8	lesaka
+          8	ford
+          8	contruction
+          8	a brick house
+          8	Pope John Paul II Road
+          8	Naledi Pass Road
+          8	Moshoeshoe Road
+          8	Ketane River
+          8	Dinakeng
+          7	Sanqebethu River
+          7	Pope John Paul II
+          7	Pioneer Road
+          7	Mokhotlong
+          7	Linotsing
+          7	Lesaka
+          7	Hiotse River
+          7	HA- TEBA
+          6	unfinished building
+          6	shrubland
+          6	road
+          6	moshoeshoe road
+          6	cropland
+          6	WASCO
+          6	Tsereoane
+          6	Senqu
+          6	Residential Housing
+          6	Pope John Paul Road
+          6	PEP
+          6	Makhaleng River
+          6	Makhaleng
+          6	Liphakoeng
+          5	shop
+          5	s
+          5	poultry farm
+          5	lekhoakhoa

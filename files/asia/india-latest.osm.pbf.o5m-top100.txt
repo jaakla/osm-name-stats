@@ -1,0 +1,99 @@
+       1198	State Bank of India
+       1072	Street Lamp
+       1015	Outer Ring Road
+        775	Eastern Peripheral Expressway
+        772	Delhi Western Peripheral Expressway
+        635	Yamuna Expressway
+        529	2nd Cross Road
+        498	1st Cross Road
+        490	Grand Trunk Road
+        489	Indian Oil
+        454	3rd Cross Road
+        398	4th Cross Road
+        356	5th Cross Road
+        348	Canara Bank
+        340	1st Main Road
+        337	Pond
+        317	2nd Main Road
+        306	East–West Corridor
+        304	Grand Southern Trunk Road
+        303	Ring Road
+        302	3rd Main Road
+        299	Building
+        294	Axis Bank
+        290	Bharat Petroleum
+        284	HDFC Bank
+        270	Border Nepal - India
+        269	ICICI Bank
+        268	6th Cross Road
+        267	Cafe Coffee Day
+        255	Temple
+        252	Banyan
+        239	Agra - Lucknow Expressway
+        231	Hanuman Temple
+        230	7th Cross Road
+        227	4th Main Road
+        219	Mahatma Gandhi Marg
+        218	Salem-Kochi-Kanyakumari Highway
+        212	Mahatma Gandhi Road
+        208	Kangra Valley Railway
+        204	Station Road
+        203	Road
+        196	5th Main Road
+        195	East Coast Road
+        190	8th Cross Road
+        187	Inner Ring Road
+        180	HP
+        180	6th Main Road
+        178	Mumbai-Pune Expressway
+        172	Punjab National Bank
+        168	SBI ATM
+        165	Petrol Pump
+        165	Mosque
+        164	Culvert
+        159	Konkan Railway
+        156	Salem-Kochi-Kanyakumari Road
+        153	Service Road
+        151	Kotturu
+        151	9th Cross Road
+        150	Bijapur Road
+        150	7th Main Road
+        149	Masjid
+        146	Syndicate Bank
+        144	10th Cross Road
+        142	Water Tank
+        141	Airport Road
+        137	Park
+        136	Church
+        136	Bank of India
+        135	Kottapalle
+        134	McDonald's
+        134	8th Main Road
+        130	Pune - Daund Railway Line
+        130	Indian Bank
+        129	Hanuman Mandir
+        127	Western Express Highway
+        127	Nilgiri Mountain Railway
+        127	GT Road; Sher Shah Suri Marg
+        125	9th Main Road
+        122	Indian Overseas Bank
+        119	Bank of Baroda
+        118	Sion Panvel Highway
+        118	Malapalle
+        118	Hissar Ambala Road
+        118	BRTS Route
+        118	Andhra Bank
+        116	Paradip Port Expressway
+        116	Maliya Branch Canal
+        116	Federal Bank
+        115	11th Cross Road
+        114	coconut plantation
+        114	Mula Reservoir
+        114	Bus Stop
+        113	Manali-Leh
+        113	Corporation Bank
+        112	Apollo Pharmacy
+        111	Village
+        110	Agra Jaipur Bikaner Road
+        108	MC Road
+        108	KFC

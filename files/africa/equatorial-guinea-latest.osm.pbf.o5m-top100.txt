@@ -1,0 +1,100 @@
+         17	Paseo Marítimo de Bata
+         15	Border Gabon - Guinea Ecuatorial
+         13	Carretera del Aeropuerto
+         12	Mbini
+         11	Bioko
+         11	Av de Hasan II
+         10	Sipopo - Baney
+         10	Ela Nguema Highway
+          9	Malabo - Luba
+          7	Soccer
+          7	Gas Turbine
+          7	Border Guinea Ecuatorial - Cameroon
+          6	Río San Nicolás
+          6	Ntem
+          6	Hangar
+          6	Av de S.S. Juan Pablo II
+          5	Plaza de la Independencia
+          5	Drill River
+          5	Calle de Acacio Mañé
+          5	Av de la Independencia
+          4	Wele
+          4	Tennis
+          4	Rebola - Baney
+          4	Malabo - Sipopo
+          4	Calle de Nigeria
+          4	Calle Mauritania
+          4	Baney - Riaba
+          3	waterfall
+          3	Río Campo
+          3	Centro Cultural Español
+          3	Av de los Parques de África
+          3	Av de las Naciones Unidas
+          3	Av de la Libertad
+          3	Annobón
+          2	Woleu
+          2	Wele-Nzas
+          2	Tenis
+          2	SGBGE
+          2	Río Cónsul
+          2	Runway 1
+          2	Rebola
+          2	Punta Europa
+          2	Pizza Place
+          2	Pico Basilé
+          2	Parque nacional de malabo
+          2	Palacio Presidencial
+          2	Malabo II
+          2	Los Ángeles
+          2	Litoral
+          2	La Luna
+          2	La Estrella Electric - Iluminación
+          2	LNG Storage Tank
+          2	Kié-Ntem
+          2	Instituto de Educación Física
+          2	Guinea Ecuatorial
+          2	French Cultural Center / Le Club des Partenaires - Institut
+          2	Elobey Grande
+          2	Ela Nguema
+          2	Ecobank
+          2	Complejo El Caribe
+          2	Centro Sur
+          2	Carretera del Puerto Nuevo
+          2	Carretera Ppal. de Paraiso
+          2	Calle del Rey Malabo
+          2	Calle del Rey Boncoro
+          2	Calle del Presidente Nasser
+          2	Calle del Botuku Lubá
+          2	Calle de Enrique Nvó
+          2	Calle de Argelia
+          2	Calle de Annobón
+          2	Calle Mongomo
+          2	Buena Esperanza
+          2	Bongola
+          2	Boats to Cogo
+          2	Bioko Sur
+          2	Bioko Norte
+          2	Bar
+          2	Av del 3 de Agosto
+          2	Anganchi
+          1	马拉博机场
+          1	Área Presidencial
+          1	national hotel
+          1	cuartel marina
+          1	cruce fiston
+          1	cine real
+          1	Yutaka
+          1	Yogui
+          1	Ye Cuin
+          1	Woleu-Ntem
+          1	Wastewater Treatment Plant
+          1	Viviendas Sociales Malabo II
+          1	Villas Présidentielle
+          1	Vicatana
+          1	Viajes
+          1	Ventage Hogar
+          1	Venezia
+          1	Vallée-du-Ntem
+          1	Universidad Nacional de Guinea Ecuatorial
+          1	Universidad Afroamericana de África Central
+          1	United Nations

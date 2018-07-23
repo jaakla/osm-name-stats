@@ -1,0 +1,100 @@
+        120	Niger - Nigeria
+         83	Concession
+         81	Arbre
+         54	Neem, Boulanga
+         50	arbre
+         29	Niger
+         24	Oriba Petrolium
+         23	Boulevard Mali Bero
+         20	Mosquée
+         18	Sabon Gari
+         18	Le Niger
+         18	Avenue du Zarmaganda
+         16	Federal Road F.128 Benin Border - Bisagana
+         15	Niger - Burkina Faso
+         14	Trans-Sahara
+         14	Toudou
+         14	Banizoumbou
+         13	Road
+         12	Quartier Jamoul
+         12	Mouléla
+         12	Magaria
+         12	Kalgo
+         11	yes
+         11	Station Oryx
+         11	Kaura Namoda - Jibiya Road
+         11	Gangara
+         11	Boutique
+         10	Grand Marché de Dosso
+         10	Ecobank
+         10	Boulevard de l'independance
+         10	Avenue de l'Arewa
+          9	Station Sahara
+          9	Station 3SK
+          9	Route de Say
+          9	Guidan Tanko
+          9	Gobérawa
+          9	Boulevard de l'Indépendance
+          9	Bnif Afuwa
+          9	Baboulwa
+          9	Avenue de l'Afrique
+          9	Adoua
+          8	Trans-Sahelian Highway
+          8	Tawalala
+          8	Tajaé
+          8	Sonitel
+          8	Samia
+          8	Oubandawaki
+          8	Mali - Niger
+          8	Malamawa
+          8	Gorou
+          8	Garin Toudou
+          8	Dan Toudou
+          8	Banque Atlantique
+          8	Amphitheâtre (EMIG)
+          8	Alibori
+          7	École Coranique
+          7	boutique
+          7	Vulganisateur
+          7	Tree
+          7	Station Morey
+          7	Oilibya
+          7	Nigelec
+          7	Maymagaria
+          7	Maraké
+          7	Makyéra
+          7	Le Mékrou
+          7	Lawandi
+          7	Kouka
+          7	Guidan Mousa
+          7	Guidan Bawa
+          7	Guidan Bara
+          7	Guidan Ango
+          7	Boulevard de l'Université
+          7	Avenue de l'Amitié
+          7	Avenue Seyni Kountche
+          7	Aléla
+          7	Al Izza - Transfert d'Argent
+          7	3STV
+          6	Zango
+          6	Tondi Banda
+          6	Tapoa
+          6	Station en construction
+          6	Station RPS
+          6	Station Oriba Petrolium
+          6	Station Oilibya
+          6	Station OiLibya
+          6	Soungalé
+          6	Sabongari
+          6	Rue du Musée
+          6	Quartier Massaraouta
+          6	Quartier Gabass
+          6	Poissonerie
+          6	N27
+          6	Mandawa
+          6	Kaoura
+          6	Guidan Gado
+          6	Guidan Ali
+          6	Garanga
+          6	Gao
+          6	Gamji

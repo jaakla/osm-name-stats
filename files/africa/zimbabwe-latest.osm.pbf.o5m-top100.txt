@@ -1,0 +1,100 @@
+        225	Primary School
+        201	Rural Business Centre
+        135	Hut
+         82	Secondary School
+         77	School
+         66	Harare-Beitbridge Highway
+         57	Clinic
+         53	Munyati River
+         51	Samora Machel Avenue
+         45	Zambezi
+         38	Bulawayo Road
+         37	Robert Mugabe Road
+         37	Mutare-Masvingo Road
+         32	Total
+         32	Masvingo-Mbalabala Road
+         32	Harare Drive
+         31	Shamrock Mine Road
+         29	Sam Nujoma Street (2nd St. Extension)
+         27	Rotten Row
+         27	Mupfure River
+         26	Matopos Road
+         25	Sadza market place
+         25	Main Access road to PWMA Tashinga
+         25	Border Mozambique - Zimbabwe
+         24	Seke Road
+         24	High Glen Road
+         24	Enterprise Road
+         24	Binga Road
+         23	Simon Mazorodze Road
+         23	Rhino Safari Camp
+         23	Masiyephambili Drive
+         23	Chiremba Road
+         22	Riverside Road
+         22	Luveve Road
+         21	Leopold Takawira Avenue
+         21	Borrowdale Road
+         20	house
+         20	Runde
+         20	Beitbridge Bulawayo Railway (BBR)
+         19	Robert Mugabe Way
+         19	Dirt Road
+         18	Shashe Irrigation Scheme - Block B
+         18	Rukometche River
+         18	Esigodini Road
+         18	Border Zimbabwe - Botswana
+         17	Tuck Shop
+         17	PWMA Access road to Nyakasikana Gate
+         17	Julius Nyerere Way
+         17	Hillside Road
+         17	Glenara Avenue South
+         17	Bishop Gaul Avenue
+         16	Willowvale Road
+         16	Shashe Irrigation Scheme - Block A
+         16	Robert Mugabe Avenue
+         16	Nelson Mandela Avenue
+         16	Mazowe
+         16	Lomagundi Road
+         16	Cecil Avenue
+         15	Shell
+         15	Save
+         15	Leopold Takawira Street
+         14	Umwinsi
+         14	Pandamatenga Primary School
+         14	Mzingwane
+         14	Joshua Nkomo Road
+         14	Harare Road
+         14	Chicken Inn
+         14	Business Centre
+         13	Security Road
+         13	Queens Street
+         13	OK
+         13	Herbert Chitepo Street
+         13	Engen
+         13	Charter Road
+         12	hut
+         12	Vic falls road
+         12	Remembrance Drive
+         12	Powerline Road
+         12	M15 Kariba to Makuti
+         12	Lobengula Avenue
+         12	Gwayi
+         12	Gaydon Road
+         12	Enterprise Road South
+         12	Bulawayo-Beitbridge Highway
+         12	Batoka Gorge
+         12	Batanai Primary School
+         12	BP
+         12	Avondale Stream
+         12	Area of interest
+         11	Track 37 Access road to PWMA Nyamoumba
+         11	Shangani
+         11	Security Road to Kuperinengu
+         11	Mwenezi
+         11	Main Access road to Bumi Hills
+         11	Edificio
+         11	Angwa River
+         10	Victoria Falls
+         10	Tokwe
+         10	Speke Avenue
+         10	Nhamburiko Primary School

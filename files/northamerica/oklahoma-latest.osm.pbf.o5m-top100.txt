@@ -1,0 +1,100 @@
+       1177	Canadian River
+        981	Vietnam Veteran's Memorial Highway
+        856	Korean War Veterans Memorial Highway
+        616	World War II Veterans Memorial Highway
+        534	Will Rogers Turnpike
+        493	Harry E. Bailey Turnpike
+        475	Main Street
+        473	West Main Street
+        471	Deep Fork
+        449	World War I Veterans Memorial Highway
+        431	South Yale Avenue
+        423	Governor Roy Joseph Turner Turnpike
+        397	Creek Turnpike
+        382	Sand Creek
+        363	East 71st Street South
+        358	Southeast 15th Street
+        354	North Pennsylvania Avenue
+        345	Salt Creek
+        345	Muskogee Turnpike
+        343	Northwest Expressway
+        333	North May Avenue
+        332	North Canadian River
+        330	South Memorial Drive
+        327	2nd Street
+        318	Martin Luther King, Junior Memorial Expressway
+        310	3rd Street
+        307	Little River
+        306	1st Street
+        302	5th Street
+        301	East Main Street
+        298	Deer Creek
+        292	John Kilpatrick Turnpike
+        289	Cimarron Turnpike
+        288	East Reno Avenue
+        285	South Main Street
+        284	Spring Creek
+        282	Will Rogers Expressway
+        281	4th Street
+        278	West Reno Avenue
+        277	Northeast 23rd Street
+        270	North Main Street
+        267	Northwest 23rd Street
+        265	Okmulgee Beeline
+        263	Turkey Creek
+        261	Indian Nation Turnpike
+        252	North Western Avenue
+        248	Rock Creek
+        246	Southeast 29th Street
+        245	Pearl Harbor Memorial Expressway
+        240	Buffalo Creek
+        237	6th Street
+        234	East 51st Street
+        231	Northwest 10th Street
+        217	East 41st Street
+        216	Union Pacific Railroad
+        215	North Portland Avenue
+        214	East 2nd Street
+        213	Skelly Bypass
+        207	North Classen Boulevard
+        206	South Shields Boulevard
+        206	South Pennsylvania Avenue
+        204	Jack Vernon Begley Memorial Highway
+        203	South Mingo Road
+        203	South Garnett Road
+        202	East Skelly Drive
+        198	Southeast Washington Boulevard
+        198	South Lewis Avenue
+        198	Broken Arrow Expressway
+        197	West 3rd Street
+        196	South Harvard Avenue
+        195	Riverside Drive
+        194	Northwest 36th Street
+        194	Brushy Creek
+        189	7th Street
+        188	Red Rock Subdivision
+        188	Coal Creek
+        187	Cottonwood Creek
+        186	Burlington Northern Railroad
+        185	East 11th Street
+        184	North Santa Fe Avenue
+        183	South Western Avenue
+        183	Coon Creek
+        180	North MacArthur Boulevard
+        177	South Peoria Avenue
+        175	South Sheridan Road
+        175	Riverside Parkway
+        171	Cherokee Turnpike
+        170	Elm Creek
+        168	South Sooner Road
+        168	East Pine Street
+        166	Northwest 63rd Street
+        164	Northeast 10th Street
+        161	Walnut Creek
+        160	Dry Creek
+        159	West Hefner Road
+        159	8th Street
+        150	Saint Louis-San Francisco Railway
+        150	East 31st Street
+        149	North Peoria Avenue
+        148	Northwest 50th Street

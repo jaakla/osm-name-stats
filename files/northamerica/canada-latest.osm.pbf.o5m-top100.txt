@@ -1,0 +1,93 @@
+       3418	Main Street
+       2603	Tim Hortons
+       2520	Trans-Canada Highway
+       1731	Subway
+       1705	Esso
+       1465	Rue Principale
+       1398	Railway Avenue
+       1276	Petro-Canada
+       1230	Shell
+       1158	Queen Street
+       1155	Highway 11
+       1148	Highway 401
+       1134	Highway 17
+       1081	King Street
+       1059	Highway 7
+       1045	McDonald's
+        989	River Road
+        929	Church Street
+        826	Yellowhead Highway
+        815	Yonge Street
+        811	Shoppers Drug Mart
+        792	Salmon River
+        777	John Street
+        763	Highway 2
+        752	TD Canada Trust
+        737	Centre Street
+        707	Trans Canada Highway
+        704	Riverside Drive
+        696	Airport Road
+        695	Water Street
+        670	Victoria Street
+        669	Lakeshore Road
+        665	Canadian Tire
+        655	Black Creek
+        652	Kennedy Road
+        649	Highway 3
+        642	CN
+        641	Ultramar
+        631	George Street
+        619	Canadian Pacific Railway - Belleville Subdivision
+        619	CIBC
+        617	Alaska Highway
+        615	Snoman Trail
+        614	Albert Street
+        610	Park Street
+        609	Highway 97
+        603	Scotiabank
+        601	Highway 6
+        596	Mill Street
+        592	CNR
+        587	1 Avenue
+        582	Starbucks
+        582	Autoroute Félix-Leclerc
+        581	William Street
+        574	Autoroute Jean-Lesage
+        552	50 Avenue
+        549	Big Creek
+        546	Victoria Avenue
+        537	A&W
+        532	Dollarama
+        522	50 Street
+        518	Pine Street
+        517	Lougheed Highway
+        516	Maple Street
+        515	Crowsnest Highway
+        503	Otter Creek
+        503	Baseline Road
+        501	Main Road
+        497	Ontario Street
+        492	Elm Street
+        481	Jane Street
+        481	Bayview Avenue
+        480	2 Avenue
+        477	Highway 417
+        474	James Street
+        465	LCBO
+        464	Wellington Street
+        462	Dufferin Street
+        460	Cabot Trail
+        455	NU
+        452	Black River
+        449	Beaver Creek
+        442	Steeles Avenue East
+        441	Dundas Street West
+        438	Highway 10
+        429	52 Avenue
+        420	County Road 2
+        420	51 Avenue
+        418	Husky
+        413	Queen Elizabeth Way
+        411	Leslie Street
+        409	Starbucks Coffee
+        409	Hurontario Street

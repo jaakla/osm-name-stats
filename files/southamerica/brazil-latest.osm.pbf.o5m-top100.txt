@@ -1,0 +1,100 @@
+       4372	Rodovia Governador Mário Covas
+       2561	PROJAC
+       2553	Rua A
+       2457	Avenida Brasil
+       2417	Rua B
+       2138	Rua C
+       1825	Rua São Paulo
+       1760	Rua D
+       1643	Rua Dois
+       1614	Banco do Brasil
+       1610	Rua Um
+       1569	Rua Tiradentes
+       1569	Rua 1
+       1566	Rua São José
+       1540	Rua 2
+       1463	Rua 3
+       1458	Rua E
+       1376	Rua Duque de Caxias
+       1362	Rua 4
+       1361	Rua Santo Antônio
+       1333	Rua Três
+       1329	Rua Sete de Setembro
+       1326	Rua Quatro
+       1292	Rua F
+       1253	Rua Rui Barbosa
+       1251	Rua 5
+       1157	Rua Cinco
+       1149	Rua Bahia
+       1128	Rua 6
+       1106	Rua Minas Gerais
+       1092	Rua Sem Denominação
+       1062	Rua G
+       1061	Rodovia Fernão Dias
+       1047	Rua São Pedro
+       1046	Bradesco
+       1037	Rua São João
+       1030	Rua Amazonas
+       1028	Rua 7
+       1026	Avenida Getúlio Vargas
+       1021	Rua Seis
+        999	Rua Santa Catarina
+        998	Rua Paraná
+        968	Rua Santos Dumont
+        962	Rua Sete
+        958	Rua 8
+        955	Rua São Francisco
+        946	Rua H
+        907	Rua Rio de Janeiro
+        902	Rua 10
+        870	Centro
+        855	Rua 7 de Setembro
+        844	Rua Ceará
+        832	Rodovia Santos Dumont
+        831	Rua Pernambuco
+        830	Rua Castro Alves
+        829	Rua São Sebastião
+        812	Rua Goiás
+        806	Rua Sergipe
+        790	Rua Oito
+        785	Rua Mato Grosso
+        759	Rua Dom Pedro II
+        758	Rua Barão do Rio Branco
+        758	Caixa Econômica Federal
+        754	Rodovia Marechal Rondon
+        752	Rodovia Raposo Tavares
+        746	Rua 11
+        745	Rua Getúlio Vargas
+        742	Rua 12
+        741	Rua Bela Vista
+        739	Itaú
+        735	Rodovia Ulysses Guimarães
+        728	Rua Belo Horizonte
+        727	Rua Principal
+        725	Rua 9
+        703	Rua Nove
+        702	Rua Alagoas
+        701	Rua Santa Luzia
+        699	Rua Pará
+        698	Rua Rio Grande do Sul
+        689	Rua José Bonifácio
+        687	Rodovia Anhanguera
+        681	Rua Maranhão
+        676	Santander
+        669	Rua Dez
+        658	Rua Espírito Santo
+        655	Correios
+        643	Avenida São Paulo
+        642	Rua Quinze de Novembro
+        639	Rua I
+        633	Rua Marechal Deodoro
+        633	Rodovia Governador Antônio Mariz
+        627	Rua 13
+        626	Rua Piauí
+        626	Rodovia Presidente Dutra
+        623	Rua 14
+        620	Rua Treze de Maio
+        618	Rua das Flores
+        615	Rua do Campo
+        615	Avenida Presidente Vargas
+        613	Rua Boa Vista

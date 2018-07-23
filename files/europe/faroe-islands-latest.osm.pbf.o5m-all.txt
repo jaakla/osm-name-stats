@@ -1,0 +1,3285 @@
+          1	147
+          1	2x3
+          1	5E Kirkjubøur - Kaldbak
+          2	A.C. Evensens gøta
+          1	AB Húsið
+          1	AED
+          1	AWI Boats
+          1	AWJ
+          1	Abbatrøð
+          1	Abbreyt
+          2	Active
+          1	Advokatur Kristina Samuelsen
+          1	Aggusteinusvegur
+          1	Agnið
+          1	Akraberg
+          2	Akrabergsvegur
+          1	Akranesgøta
+          1	Akranesskarð
+          1	Akranessker
+          2	Akrar
+          1	Akratangi
+          1	Akravegur
+          2	Akstovan
+          1	Alfa Bókhandil
+          1	Almannaverkið
+          1	Alskarabotnur
+          1	Altarið
+          1	Ambadalur
+          1	Amphitheater
+          1	Amtmansbrekkan
+          1	Amtsmansbrekkan
+          1	Andrasargøta
+          1	Angus Steakhouse
+          1	Antarvegur
+          1	Antinisfjall
+          1	Apotekið Steinatún
+          1	Aquarium
+          2	Argir
+          1	Argisvegur
+          1	Argja Kirkja
+          1	Argja skúli
+          1	Argjaboðagøta
+          9	Argjavegur
+          1	Arnes Minde
+          1	Atlagøta
+          1	Atlantis Bio
+          1	Auto Service
+          1	Auto taxi
+          1	B36
+          1	BORC XL BYG
+          1	BR
+          2	Badmintonhøllin
+          1	Baglahólmur
+          1	Bakaríið á Skála Sp/f
+          1	Bakkabrúgvin
+          3	Bakkafløttur
+          2	Bakkagøta
+          1	Bakkahella
+         29	Bakkavegur
+          7	Bank Nordik
+          2	BankNordik
+          1	Baraldsgøta
+          1	Barbara
+          1	Baresso
+          1	Barmur
+          1	Barnagarðurin og Vøggustovan við Velbastaðvegin
+          1	Barnatannrøktin
+          1	Bartalstova
+          1	Bartskersstova
+          1	Barðflesjar
+          1	Barðið
+          1	Barðsgjógv
+          1	Basalt
+          1	Basecamp
+          1	Basketball Soccer  Æðuvík
+          1	Bassarnir
+          1	Bedingsvegur
+          1	Beingjógv
+          2	Beinisvørð
+          2	Beitisbrekka
+          1	Beitisrás
+          4	Beitisvegur
+          1	Beitið
+          1	Berg Motors
+          1	Bergið
+          2	Bergsmunni
+          1	Bergstangi
+          1	Bergsvegur
+          1	Berinartindur
+          7	Berjabrekka
+          1	Berjavegur
+          2	Bertugøta
+          1	Berøa
+          1	Betania
+          1	Betri
+          1	Betri Banki
+          1	Bilasølan
+          1	Billugøta
+          1	Bilrøkt
+          1	Birnugøta
+          1	Biskupsmerkur
+          1	Biskupsstøð
+          1	Biskupsstøðgøta
+          1	Bjargalíð
+          1	Bjargamansdalur
+          1	Bjargatrøðin
+          2	Bjarnavegur
+          1	Bjarnoyarvegur
+          1	Blankagøta
+          1	Blankskálalíð
+          1	Blankskáli
+          3	Blikagøta
+          1	Blá Kross Handil
+          1	Blábjørg
+          1	Bládýpi
+          1	Bláfelsskúti
+          1	Blákollugøta
+          1	Blákrossheimið
+          2	Blámansfjall
+          1	Blásendi
+          1	Blæing
+          4	Blómubrekka
+          1	Blýtangi
+          1	Bob and Marilyn's Suitcase
+          1	Boganesgøta
+          1	Bolafløttur
+          1	Bollin
+          1	Bolstaður
+          1	Bonus
+          1	Borgardalur
+          1	Borgarfelli
+          1	Borgarheyggjur
+          1	Borgarin
+          1	Borgarknappur
+          1	Borgartún
+          6	Borgin
+          1	Borðan
+          1	Borðdrangur
+         11	Borðoy
+          1	Borðoyarnes
+          1	Borðoyarvík
+          1	Borðsteinur
+          1	Borðtangi
+          2	Botnavegur
+          1	Botnstindur
+          1	Botnsá
+          1	Bowling
+          1	Bowlinghøllin
+          1	Boðabergstangi
+          1	Boðanes
+          4	Boðanesgøta
+          1	Boðanesheimið
+          1	Boðatangi
+          1	Brandansvik
+          3	Brattabrekka
+          1	Brattagøta
+          1	Brattalíð
+          1	Brattaskoragjógv
+          2	Breiðablik
+          1	Breiðabrekka
+          1	Breiðadalsá
+          2	Breiðafles
+          2	Breiðanes
+          1	Breiðateig
+          1	Breiðistíggjur
+          5	Breiðá
+          1	Breiðábotnur
+          1	Breiðásandur
+          1	Brekkubøur
+          1	Brekkugerði
+          1	Brekkugil
+          4	Brekkugøta
+          3	Brekkulág
+          1	Brekkuskákið
+          5	Brekkutún
+          6	Brekkuvegur
+          1	Brigðufelli
+          1	Brimnes
+          1	Brimnestangi
+          1	Brimtangi
+          1	Bringsnagøta
+          1	Bringstún
+          4	Brobbersgøta
+          1	Bros
+          8	Bryggjan
+          1	Bryggjubakki
+          1	Brúarvegur
+          2	Brúgv
+          1	Brúgvarskákið
+          1	Brúnagøta
+          1	Brúnaskarð
+          1	Brýnið
+          1	Bugur
+          1	Bumshamarsvegur
+          1	Burger King
+          2	Bussleið 1
+          2	Bussleið 2
+          2	Bussleið 3
+          1	Bussleið 4
+          1	Bustartangi
+          2	Bustin
+          1	Bygdahúsið
+          1	Bygdaleið 481 Oyndarfjørður-Skálabotnur
+          1	Bygdaleið 481 Skálabotnur-Oyndarfjørður
+          1	Bygdarhúsið
+          1	Bygdastovan
+          1	Bylgjan
+          1	Byrgishavn
+          6	Byrgisvegur
+          1	Byttufelli
+          1	Bára
+          1	Báraldarbrekka
+          1	Bárðardrangur
+          1	Bátahylur
+          1	Bátahylurin á Skála
+          1	Bátatænastan
+          1	Bævinsgjógv
+          1	Bíarvegur
+          1	Bíggjar kirkja
+          2	Bíggjarvegur
+          1	Bíldsskoratangi
+          1	Bókabúðin
+          1	Bókbindaragøta
+          2	Bóndabrekka
+          1	Bóndagerði
+          1	Bóndaheygur
+          1	Bóndansbeiti
+          3	Bóndatún
+          1	Bóndavegur
+          6	Bónus
+          1	Bótolvsvegur
+         26	Bøgøta
+          1	Bøherðan
+          1	Bøkjarabrekka
+          3	Bøllufjall
+          1	Bøllurin
+          1	Bøllutitangi
+          1	Bønhúsið
+          1	Bønhúsvegur
+          9	Børkugøta
+          1	Børkuvegur
+          1	Bøsdalafossur
+          2	Bøur
+          2	Bøvegur
+          1	Búgvin
+          1	Búnin
+          1	Búnýti
+          1	Búrhella
+          1	Búðabrekka
+          1	Búðarvegur
+          1	Búðaskákið
+          1	Býarbókasavnið
+          1	Býlingshúsið á Norðasta Horni
+          1	Býlingshúsið á Ternuryggi
+          1	C. Pløyens gøta
+          1	CANTAT 3
+          1	CW Wear
+          1	Cafe 22
+          1	Cafe Natúr
+          1	Cafe Paname
+          1	Cafe Sandwich
+          1	Cafe Vágar
+          1	Café Cibo
+          2	Café Fjørðoy
+          1	Camping
+          1	Camping Eiði
+          1	Camping Klaksvík
+          1	Camping Mikladalur
+          1	Camping Selatrað
+          1	Camping Tvøroyri
+          1	Camping Vágseiði
+          1	Christianskikjan
+          1	City Burger
+          1	Cleopatra
+          1	Coffee & Waffles
+          1	Colorama
+          1	Dagstovnurin Sólareygað
+          1	Dagstovnurin á Hamrinum
+          1	Dagstovnurin á Landavegnum
+          3	Dalabøur
+          3	Dalagerði
+          1	Dalagøta
+          1	Dalakrókur
+          3	Dalalíð
+          1	Dalar
+          1	Dalastígur
+          1	Dalatrøð
+          2	Dalatún
+          6	Dalavegur
+          2	Dalbøgøta
+          1	Dalhús
+          1	Dalkinsfjall
+          1	Dalkinsvegur
+          1	Dalsbøur
+          1	Dalsfles
+          1	Dalsgøta
+          1	Dalslækki
+          2	Dalsnípa
+         15	Dalsvegur
+          4	Dalsá
+          2	Dalur
+          1	Dalur Campsite
+          4	Dalá
+          1	Dansifrøi
+          1	Dansistovan
+          2	Deildarvegur
+          1	Deildará
+          2	Demic
+          2	Depil
+          1	Depilsknúkur
+          1	Diana
+          1	Dirvisgjógv
+          1	Disvoy
+          2	Djóna í Geil gøta
+          1	Djúpaberg
+          1	Djúpadalsgjógv
+          1	Djúpagilsvegur
+          2	Djúpheiðar
+          5	Djúpidalur
+          1	Djúpini
+          1	Djúpumýru
+          1	Doktara Dahls gøta
+          2	Doktara Jakobsens gøta
+          3	Doktaragøta
+          1	Dosshellugjógv
+          1	Dragasund
+          1	Dragin
+          1	Drangarnir
+          1	Drangsfles
+          1	Drangur í Høvn
+          3	Drelnes
+          1	Dritstapi
+          1	Dronning Alexandrines Hospital
+          1	Dungabrekka
+          2	Dungagøta
+          1	Dungansvegur
+          1	Dungavegur
+          1	Dunjaheyggjur
+          1	Dunnesdrangar
+          1	Dupultbólið
+          3	Dvørgasteinsvegur
+          1	Dvørgastígur
+          1	Dyllan
+          1	Dysjarnar
+          1	Dánjalsgøta
+          2	Dánjalstrøð
+          1	Dávabrekka
+          2	Dávabreyt
+          1	Dávagerði
+          1	Dímun
+          1	Dímunarfjørður
+          1	Dúvugarðar
+          2	Dýrindalsgøta
+          1	EL Ding
+          1	Ebenezer
+          2	Edmundstrøð
+          3	Effo
+          3	Eggin
+          1	Eggjafles
+          2	Eggjargøta
+          1	Eggjarklettur
+          1	Eggjarmúli
+          8	Eggjarvegur
+          1	Eggjarók
+          1	Eggjastakkur
+          3	Eggjavegur
+          1	Egholmstrøð
+          1	Egilsfjall
+          7	Eik
+          4	Eik Banki
+          1	Eiler Jacobsens gøta
+          1	Einarsgøta
+          1	Eindalsfjall
+          1	Eingargøta
+          1	Eingjartoftir
+          3	Eirargarður
+          1	Eiriksfjall
+          1	Eiriksgarður
+          3	Eiriksgøta
+          3	Eiði
+          1	Eiði II hydropower construction road
+          1	Eiðis skarð
+          2	Eiðisbrekka
+          1	Eiðiskollur
+          1	Eiðisvatn
+          9	Eiðisvegur
+          1	Eiðsvík
+          2	Eiðsvíksvegur
+          1	El-Net
+          1	Elcon
+          1	Elderly home á Sýnini
+          1	Elding
+          2	Elduvík
+          1	Elduvíkar Kirkja
+          1	Elduvíksnes
+          1	Ellisheimið
+          1	Ellubitin
+          3	Endin
+          1	Endurnýtslan
+          2	Enni
+          1	Enniberg
+          1	Ennigøta
+          1	Ennini
+          1	Ennivegur
+          1	Erlings jals gøta
+          3	Ervavegur
+          2	Essalág
+          1	Eta
+          1	Etika
+          1	Eyrgøta
+          1	Eystan Heyg
+          3	Eystanvegur
+          6	Eystara Bryggja
+          1	Eystarafjall
+          2	Eystari Ringvegur
+          1	Eystfelli
+          1	Eystnes
+          2	Eystur í Hagan
+          1	Eystur í Túni
+          1	Eysturhøvdi
+          2	Eysturi á Veg
+          1	Eysturi á veg
+          1	Eysturi í Túni
+          2	Eysturoy
+          1	Eysturoyar sýsla
+          4	Eysturskúlin
+          1	Eysturstræti
+          1	Eysturtindur
+          1	Eyðansbrekka
+          1	Eyðargøta
+          2	FK
+          2	FK-Hoyvík
+          1	FK-Skálafjørður
+          1	FTZ
+          1	Fagragil
+          4	Fagralíð
+          1	Faksagøta
+          2	Faktorsvegur
+          1	Falkavegur
+          1	Falltangi
+          1	Farice
+          1	Faroe Fitness
+          2	Farstøðin
+          1	Ferry terminal Gamlarætt
+          1	Filpusardrangur
+          1	Filthatturin
+          1	Fimi
+          1	Fish & Chips
+          1	Fiskimúli
+          2	Fiskivinnuhavnin
+          1	Fiskivinnuskúlin
+          1	Fitnes
+          1	FjalIið Litla
+          1	Fjallavatn
+          1	Fjalli & Marknagil
+          8	Fjallið
+          2	Fjallið Mikla
+          1	Fjallið millum Botnar
+          1	Fjallsgarður
+          5	Fjalsgøta
+          1	Fjalslíð
+          1	Fjalstún
+          2	Fjalsvegur
+          5	Fjarðarvegur
+          1	Fjarðará
+          4	Fjarðavegur
+          1	Fjósabrekka
+          1	Fjósagøta
+          1	Fjósið
+          1	Fjósið í Havnardali
+          1	Fjósteigur
+          1	Fjørdalsgøta
+          7	Fjøruvegur
+          1	Fjørðukrógvin
+          2	Flatarvegur
+          1	Flatibøur
+          1	Flatidrangur
+          1	Flatnabrekka
+          1	Flatnagarður Camping
+          1	Flatnagerði
+          1	Flatnatangin
+         10	Flatnavegur
+          2	Flesin
+          2	Flesjarnar
+          1	Flesjavegur
+          1	Fleygabergstangi
+          5	Flogvøllurin
+          1	Flyðrunev
+          1	Fløguvegur
+          1	Fløttabrekka
+          2	Fløttavegur
+          2	Fløttisgøta
+          1	Fløttur
+          1	Fløtugøta
+          1	Fløtunestangi
+         10	Fløtuvegur
+          1	Fodlendi
+          1	Folagerði
+          1	Follendisvegur
+          1	Fonnflog
+          1	Football Stadium
+          1	Football ground
+          1	Footballstadium EB/Streymur
+          1	Foragøta
+          4	Foravegur
+          1	Fornabrekka
+          1	Fornagarður
+          3	Fornagøta
+          1	Fornarætt
+          2	Fornavegur
+          1	Forni
+          1	Forstólur
+          1	Fossa verkið
+          2	Fossagøta
+          6	Fossavegur
+          1	Fossdalsheyggjur
+          1	Fossdalur
+          3	Fossá
+          1	Fossá waterfall view
+          2	Fossávegur
+          1	Fotomiðstøðin
+          3	Fram við Ánni
+          1	Frammi við Rætt
+          1	Frammi á Trøð
+          1	Frammi á vatni
+          7	Frammi í Dal
+          4	Frammi í Gerði
+          1	Fransatoftir
+          1	Friðartún
+          1	Frooba Heliport
+          2	Froðba
+          1	Froðbiarbotnur
+          1	Froðbiarkambur
+          1	Froðbiarnipa
+          2	Froðbiarvegur
+          2	Frítíðarklæðir
+          1	Fríða
+          1	Fríðriks Petersens gøta
+          1	Fríðriksgøta
+          1	Fríðrikskirkja
+          1	Fríðufløtur
+          1	Fróðskaparsetur Føroya
+          2	Frúutrøð
+          2	Fuglafjarðar skúli
+          5	Fuglafjarðarvegur
+          3	Fuglafjørður
+          1	Fuglfjarðarskarð
+          2	Fugloy
+          1	Fugloyar viti
+          1	Fugloyarfjørður
+          4	Fugloyarvegur
+          3	Funningsfjørður
+          3	Funningsvegur
+          2	Funningur
+          3	Fyri oman Brúgv
+          1	Fyri uttan Kirkju
+          1	Fámarasund
+          2	Fámjin
+          2	Fámjinsvegur
+          1	Fíggjamálaráðið
+          1	Fílasandsvegur
+          1	Fóm ísur
+          1	Fótbóltssamband Føroya
+          1	Fótbúni
+          1	Fønix
+          1	Føroya Bjór
+          1	Føroya Fornminnisavn
+          2	Føroya Handilsskúli
+          1	Føroya Heimavirdkis Felag (faroese wool)
+          2	Føroya Keypssamtøka
+          1	Føroya Rættur
+          1	Føroya Studentaskúli og HF Skeið
+          2	Føroya Tele
+          1	Føroyamálsdeildin
+          1	Føroyaprent
+          3	Føroyar
+          1	Fútahúsini
+          5	Fútalág
+          2	Fútastova
+          1	Fýramarkaknúkur
+          1	Gaddareyn
+          2	Gaddavegur
+          1	Galvsskorafjall
+          1	Galvur
+          1	Galvurin
+          1	Gamlarætt
+          1	Gamlarætt Havn
+          1	Gamli Bógahandil
+          3	Gamli Velbastaðvegur
+          1	Gamli kirkjugarður
+         10	Gamlivegur
+          1	Gardsgjógv
+          8	Garðabrekka
+          4	Garðagøta
+          1	Garðatún
+         12	Garðavegur
+          1	Garðavegur (Martinsvegur)
+          1	Garðsendavegur
+          1	Garðsendi
+          3	Garðsgøta
+          1	Garðstún
+         14	Garðsvegur
+          1	Gas Station
+          1	Gassola
+          1	Geilabrekka
+          3	Geilagarður
+          3	Geilargøta
+          1	Geilartún
+          5	Geilarvegur
+         21	Geilin
+          1	Geitagerði
+          1	Geitaskoragjógv
+          1	Geituskor
+          1	Geldingaklettur
+          1	Gerdisbrekka
+          3	Gerðagøta
+          1	Gerðar
+         10	Gerðavegur
+          2	Gerðisbrekka
+          1	Gerðisbreyt
+          7	Gerðisgøta
+          1	Gerðismørk
+          2	Gerðistún
+         19	Gerðisvegur
+          1	Gestahúsið
+          1	Geytagøta
+          1	Giljageil
+          1	Giljanes
+          2	Giljavegur
+          1	Gillagøta
+          1	Gimgragøta
+          1	Gistingarhúsið Undir Heygnum
+          1	Gistingarhúsið í Miðbrekkuni 
+          1	Gjáar kirkja
+          1	Gjáarbotnur
+          1	Gjáargarður
+          1	Gjáarkaffi
+          3	Gjáarvegur
+          1	Gjánoyrarvegur
+          1	Gjánoyri
+          1	Gjóardalsgjógv
+          1	Gjóardalur
+          1	Gjófelli
+          2	Gjógv
+          1	Gjógvarafjall
+          4	Gjógvará
+          1	Gjógvaráfjall
+          3	Gjógvarávegur
+          1	Gjógvin Forna
+          1	Gjógvin Lítla
+          2	Gjógvin Stóra
+          1	Gjógvin á Skálanum
+          2	Gjørðabrekka
+          1	Gl. Kgl. Handil Pub & Kafé
+          1	Glarsmiðjan
+          1	Glasholan
+          3	Glasir
+          1	Glaðsgøta
+          1	Gleðin
+          1	Glitnir
+          1	Glopprók
+          1	Gluggarnir
+          1	Glyggur
+          1	Glyrva missiónshús
+          1	Glyvra kirkja
+          1	Glyvra skúli
+          1	Glyvraberg
+          1	Glyvrabergsgjógv
+          1	Glyvrafjall
+          3	Glyvrar
+          1	Glyvravegur
+          1	Glyvursgøta
+          1	Glyvursnes 2 (weather station)
+          7	Glyvursvegur
+          1	Glyvursá
+          1	Gomlumannatindur
+          1	Gongin
+          1	Gortrugøta
+          1	Gotu kirkje
+          1	Granagøta
+          1	Grannatún
+          1	Gras
+          1	Grasagarður
+          2	Grasgøta
+          1	Grillvognurin
+          2	Gripsvegur
+          1	Grundin
+          1	Grunnlendisgøta
+          1	Gráfelli
+          1	Grásteinsgøta
+          3	Gríms Kambans gøta
+          1	Grímsfjall
+          1	Grímstaðfjall
+          1	Gríslatindur
+          1	Grógv
+          1	Grótbrekka
+          1	Grótbrotsgøta
+          2	Gróthústangi
+          1	Gróthústoft
+          1	Gróthúsvatn
+          6	Gróthúsvegur
+          1	Grótvík
+          2	Gróvargøta
+          1	Grønalíð
+          1	Grønaskor
+          1	Grønaskorartangi
+          6	Grønlandsvegur
+          1	Grønskoradrangur
+          1	Grønutangar
+          2	Grøv
+          1	Grýtingsvegur
+          1	Gulahusid
+          1	Gulansbugur
+          1	Gulasteinsvegur
+          1	Gummaldagøta
+          1	Gundadalshøllin
+          2	Gundadalsvegur
+          1	Gundadalur
+          1	Gustugøta
+          1	Guttormsgøta
+          1	Guðrunargøta
+          2	Guðrunartún
+          1	Gáadrangur
+          1	Gálgatangi
+          1	Gálgin
+          1	Gásadalsgarður Guesthouse
+          1	Gásadalsgjógv
+          1	Gásadalstunnilin
+          5	Gásadalsvegur
+          2	Gásadalur
+          5	Gásafelli
+          1	Gásafjall
+          1	Gásamansklettur
+          3	Gásamýri
+          1	Gásdalsbarmur
+          1	Gásdalsvatn
+          1	Gáshólmssund
+          1	Gáshólmur
+          1	Gáshøvdi
+          2	Gæsugøta
+          1	Gívrufelli
+          1	Gívrufjall
+          1	Gómagott
+          1	Góðidalur
+          1	Gøta
+          1	Gøtueiði
+          2	Gøtugjógv
+          1	Gøtuljós A101
+          1	Gøtuljós A102
+          1	Gøtuljós A103
+          1	Gøtuljós A105
+          1	Gøtuljós A106
+          1	Gøtuljós A107
+          1	Gøtuljós B101
+          1	Gøtuljós B102
+          1	Gøtuljós B103
+          1	Gøtuljós B104
+          1	Gøtuljós B105
+          1	Gøtuljós B106
+          1	Gøtuljós B107
+          1	Gøtuljós B109
+          1	Gøtuljós B110
+          1	Gøtuljós B111
+          1	Gøtuljós B112
+          1	Gøtuljós C101
+          1	Gøtuljós C102
+          1	Gøtuljós C103
+          1	Gøtuljós C104
+          1	Gøtuljós C105
+          1	Gøtuljós C106
+          1	Gøtuljós C107
+          1	Gøtuljós C109
+          1	Gøtuljós C110
+          1	Gøtuljós C111
+          1	Gøtuljós C112
+          1	Gøtuljós C113
+          1	Gøtuljós C114
+          1	Gøtuljós C115
+          1	Gøtuljós E104
+          1	Gøtunes
+          1	Gøtunesgjógv
+          1	Gøtunestindur
+          1	Gøtusandur
+          1	Gøtuteigur
+          6	Gøtuvegur
+          1	Gøtuvík
+          1	HB
+          1	HDYGD
+          1	HKcare
+          4	Hagabrekka
+          1	Hagagerði
+          2	Hagagøta
+          2	Haldórsvík
+          1	Halgafelstindur
+          1	Hallarheygur
+          1	Hallaritangi
+          1	Hallarvegur
+          1	Hamar
+          1	Hamarin
+          1	Hamarsgjógv
+          2	Hamarsgøta
+          3	Hamarssniðið
+          4	Hamarsvegur
+          4	Hammershaimbsvegur
+          2	Hamrabyrgi
+          6	Handan Á
+          1	Handansvegur
+          1	Handaná
+          1	Handaratún
+          1	Handilskjarnin
+          1	Handskavegur
+          1	Hanna
+          2	Hannugøta
+          1	Hans Andreas Djurhuus
+          1	Hans Andriasar gøta
+          1	Hanusargøta
+          1	Haps
+          1	Har Norðri
+          1	Haraldsen
+          2	Haraldssund
+          1	Haraldstrøð
+          1	Haraldstún
+          1	Hat-Trick
+          1	Hattardalstindur
+          1	Hattardalur
+          2	Hattarvík
+          1	Hattarvík Kirkja
+          1	Hattur
+          1	Havaldará
+          1	Havnalagið
+          1	Havnar Kirkja
+          1	Havnar Klubbi
+          1	Havnar bio
+          1	Havnar kajakfelag
+          1	Havnarfles
+          9	Havnargøta
+          1	Havnarkonur
+          3	Havnarlagið
+          1	Havnartangi
+          2	Havnartindur
+          2	Havnará
+          1	Havnaskrivustovan
+          1	Havragerði
+          1	Havsbrún
+          1	Havstovan
+          1	Havursgøta
+          1	Heilsufrøðiliga starvsstovan
+          1	Heima á Bø
+          2	Heima á Garði
+          1	Heimara Bryggja
+          1	Heimara Hálsavatn
+          1	Heimarafjall
+          1	Heimaralið
+          1	Heimaranes
+          1	Heimaratún
+          1	Heimaridalur
+          1	Heimariheyggjur
+          6	Heimasandsvegur
+          2	Heimasta Horn
+          1	Heimastanes
+          1	Heimastivegur
+          1	Heimi í Túni
+          1	Heimigarður
+          1	Heimistovuvegur
+          1	Heimið á Grønanesi
+          1	Heimtún
+          2	Heinagerði
+          3	Heinagøta
+          1	Heinanøva
+          1	Heinesen Myndir
+          1	Heiðafjall
+          2	Heiðagøta
+          1	Heiðahúsið
+          1	Heiðaravegur
+          1	Heiðarvegur
+          1	Heiðaskákið
+          1	Heiðastubbi
+          1	Heiðatjørn
+          1	Heiðatrøð
+          2	Heiðatrøðin
+          1	Heiðatún
+          1	Heiðavatn
+         10	Heiðavegur
+          8	Heiðriksmørk
+          1	Heldarstindur
+          1	Heliport Check In
+          1	Heljareya
+          1	Heljareyga
+          1	Heljargjógv
+          3	Hellisdalur
+          1	Hellisgjógv
+          1	Hellisgøta
+          1	Helludalur
+          1	Hellur
+          2	Hellurnar
+          1	Hellutangi
+          1	Hellutún
+          1	Helláir
+          2	Helnabrekka
+          1	Heltnará
+          1	Heltnin
+          1	Hereford Restaurant
+          1	Herjaskorargjógv
+          1	Hermundarjørð
+          1	Herðablaðið
+          1	Hestmúli
+          4	Hestur
+          1	Hetlandsvegur
+          1	Heygabrekka
+          2	Heygagerði
+          3	Heygagøta
+          1	Heygalíð
+          1	Heyganesgøta
+          4	Heygatún
+          1	Heygavatn
+         12	Heygavegur
+          1	Heygaverkið
+          1	Heyggjur
+          1	Heyggjur á Bergi
+          2	Heyggjurin Mikli
+          1	Heygsbreyt
+          1	Heygsgerði
+          1	Heygskrókur
+          1	Heygsmannavegur
+          1	Heygsmúli
+          1	Heygsstøð
+          2	Heygstún
+          1	Heygsvatn
+          7	Heygsvegur
+          1	Heykavegur
+          1	Heðinsskorarfjall
+          1	Hiplingadalur
+          1	Hirthals (DK) -Tórshavn (FO) - Seyðisfjörður (IS)
+          1	Hirtshals
+          1	Hirtshals-Tórshavn
+          1	Hjallabølsflesjar
+          2	Hjallavegur
+          3	Hjaltarók
+          1	Hjarðardalstindur
+          1	Hjarðardalur
+          1	Hjá Annu
+          1	Hjá Fróða
+          1	Hjá Kissa
+          1	Hjá Klett
+          1	Hjá Kára
+          1	Hjá Vimu
+          1	Home Sp/f
+          1	Horn
+          3	Hornagøta
+          9	Hornavegur
+          1	Hotal Vagar
+          1	Hotel Eiði
+          1	Hotel Føroyar
+          2	Hotel Hafnia
+          1	Hotel Havn
+          1	Hotel Klaksvik
+          1	Hotel Norð
+          1	Hotel Runavík
+          1	Hotel Skálavík
+          1	Hotel Streym
+          1	Hotel Tvøroyri
+          1	Hotel Tórshavn
+          1	Hotel Vágar
+          2	Hov
+          1	Hovs Tunnilin
+          1	Hovsfjørður
+          1	Hovshólmur
+          1	Hovstúgva
+          1	Hoydalsvegur
+          3	Hoygarðsvegur
+          1	Hoyskorsgjógv
+          3	Hoyvík
+          1	Hoyvíkar Kirkja
+          1	Hoyvíkar skúli
+          1	Hoyvíks tjørn
+          1	Hoyvíkshólmur
+          1	Hoyvíkshøllin
+         10	Hoyvíksvegur
+          1	Huginsgøta
+          1	Hulkavegur
+          1	Hundagjógv
+          2	Hundsarabotnur
+          2	Hvalba
+          1	Hvalbiar kirkja
+          2	Hvalbiar skúli
+          1	Hvalbiar tunnilin
+          1	Hvalbiareiði
+          1	Hvalbiarfjall
+          1	Hvalbiarfjørður
+          1	Hvalnes
+          1	Hvalsoyargøta
+          1	Hvalsryggur
+          2	Hvalvík
+          1	Hvalvíkar skúli
+          3	Hvalvíksvegur
+          1	Hvammabotnur
+          1	Hvammavegur
+          1	Hvannadalur
+          1	Hvannafelli
+          2	Hvannagjógv
+          2	Hvannasund
+          1	Hvannasundsgøta
+          1	Hvannasundstunnilin
+          3	Hvannasundsvegur
+          1	Hvannavatn
+          3	Hvanndalsbrekka
+          2	Hvannkrókur
+          2	Hvarvið
+          1	Hvilvtarskarð
+          1	Hvilvtarvegur
+          1	Hvilvíkinnavatn
+          1	Hvonn
+          1	Hvonn Brasserie
+          1	Hvíldarheimið Naina
+          1	Hvítakletsvegur
+          3	Hvítanes
+         13	Hvítanesvegur
+          1	Hvíthamar
+          1	Hvíthúsbrekka
+          1	Hvíturð
+          1	Hádegisfjall
+          1	Háfjall
+          2	Hákunargøta
+          1	Hálagøta
+          1	Hálgafelli
+          1	Hálsabrekka
+          3	Hálsagøta
+          1	Hálsatjørn
+          1	Hálsgjógv
+          1	Hálsur
+          2	Háskúlavegur
+          1	Háskúlin
+          2	Hæddin
+          2	Hægstafjall
+          1	Hælsíða
+          2	Hælur
+          2	Hólabrekkan
+          2	Hólavegur
+          1	Hólmagøta
+          1	Hólmavatn
+          1	Hólmgjógv
+          1	Hólmsfles
+          1	Hólmsskorafjall
+          1	Hólmssund
+          5	Hórheiðar
+          2	Hósvík
+          1	Hóvabrekka
+          1	Høgabólsvegur
+          1	Høgabø
+          1	Høgafjall
+          1	Høgaleiti
+          1	Høganes
+          2	Høganesvegur
+          3	Høgibøur
+          1	Høgnaboði
+          1	Høgoyggj
+          1	Høgubjørg
+          1	Høguskorar
+          1	Høgøksl
+          1	Høsmøl
+          1	Høvdaberg
+          2	Høvdagjógv
+          1	Høvdagøta
+          1	Høvdamøl
+          2	Høvdarhagavegur
+          1	Høvdaskoratangi
+          1	Høvdasund
+          1	Høvdatangi
+          2	Høvdavegur
+          3	Høvdin
+          2	Húgvan
+          1	Húsa Toftavegur
+          2	Húsabrekka
+          2	Húsabrúgv
+          1	Húsadalsvegur
+          1	Húsadalur
+          2	Húsafelli
+          1	Húsafjall
+          1	Húsagjógv
+          2	Húsagøta
+          1	Húsahagi
+          2	Húsanesvegur
+          2	Húsar
+          1	Húsareyn
+          2	Húsavík
+          1	Húsavíkarvegur
+          1	Húsavíkslíð
+          4	Húsgarður
+          1	Húsklond
+          1	IDE møblar
+          1	INN
+          1	Illitangi
+          1	Indian Haven
+          1	Information
+          1	Ingibjargargøta
+          1	Inn vid landavegin
+          1	Inn á Gjógv
+          2	Innan Glyvur
+          2	Innandalsvegur
+          2	Innara Bryggja
+          1	Innaranes
+          3	Innaridalur
+          3	Inni á Bakka
+          1	Inni á Fjósi
+          2	Inni á Fløtum
+          2	Inni á Leiti
+          1	Inni á Støð
+          1	Inni í Bø
+          4	Inni í Firði
+          2	Innistova
+          1	J. F. Kjølbro
+          1	J.A.P.
+          3	J.C. Svabos gøta
+          1	J.H. Schrøters gøta
+          1	JANUAR
+          3	Jansstovugøta
+          2	Janusargøta
+          2	Jatnagarðar
+          1	Jatnavegur
+          1	Javnagøta
+          1	Jekaragøta
+          1	Jensgøta
+          1	John W. Thomsen
+          1	Jomfrúbakkin
+          1	Julia
+          1	Junkaravegur
+          2	Jákup Nolsøes gøta
+          1	Jákups Dahls gøta
+          1	Jóan Karls gøta
+          1	Jóan Paula gøta
+         15	Jóannesar Paturssonar gøta
+          1	Jóansgøta
+          1	Jógvan
+          1	Jógvan Waagsteinsgøta
+          1	Jógvansfjall
+          1	Jóhansgøta
+          4	Jónas Broncks gøta
+          1	Jøkilsgjógv
+          1	Jøkladalur
+          2	Jøkulstræti
+          2	Jørundargøta
+          1	Jørundsgøta
+          1	Jústabrekka
+          1	Jústsgøta
+          1	KFUK
+          1	KI Høllin
+          1	Kafe Kaspar
+          1	Kafe Umami
+          1	Kaffihúsið
+          1	Kaffistovan í Dúvugørðum
+          1	Kagið
+          1	Kaguklettur
+          1	Kalavegur
+          1	Kalbaksbotnur
+          2	Kaldbak
+          2	Kaldbaksbotnur
+          2	Kaldbakskambur
+          3	Kaldbaksvegur
+          1	Kaldræsi
+          1	Kallanes
+          2	Kallsoyarvegur
+          1	Kallur
+          2	Kalsfles
+          5	Kalsoy
+          1	Kalsoyar viti
+          1	Kalsoyarfjørður
+          5	Kalsoyarvegur
+          1	Kamarshella
+          1	Kamarð
+          1	Kambsdalur
+          2	Kambsenni
+          5	Kambur
+          1	Kappróðrarneystið
+          2	Karlamagnusarbreyt
+          1	Karlotsgøta
+          1	Karlsvegur
+          1	Karvatoftir
+          1	Kassgjógv
+          2	Kastalag
+          1	Katarina Christiansen
+          1	Katlarnir
+          1	Katrin
+          1	Keldan Vivd
+          1	Keldhúsið
+          1	Keldufjall
+          1	Kelduskákið
+          1	Kelduvegur
+          1	Kellingin
+          1	Kerjalon
+          1	Kerlok
+          1	Kinnartangi
+          1	Kinnarvegur
+          1	Kinnavegur
+          1	Kiosk Steinatún
+          1	Kioskin
+          2	Kirkja
+          3	Kirkjan
+          6	Kirkjatún
+          1	Kirkjavegur
+          1	Kirkjubrekka
+          2	Kirkjubrekkan
+          1	Kirkjubreyt
+          2	Kirkjubøarvegur
+          2	Kirkjubøhólmur
+          1	Kirkjubøkambur
+          1	Kirkjubønes
+          1	Kirkjubøreyn
+          2	Kirkjubøur
+          1	Kirkjugarður í Miðvági
+          2	Kirkjugarðurin
+          1	Kirkjugjógv
+          1	Kirkjugrundin
+         12	Kirkjugøta
+          3	Kirkjugøtan
+          1	Kirkjumørk
+          3	Kirkjustræti
+          2	Kirkjuvatn
+         23	Kirkjuvegur
+          1	Kirkjuá
+          1	Kirviskollur
+          1	Kjalarskákið
+          2	Kjalarvegur
+          1	Kjalnes
+          1	Kjarrdalur
+          1	Kjóadalsgjógv
+          1	Kjóadalsvegur
+          1	Kjølur
+          1	Klakksteinur
+          2	Klakkur
+          2	Klaksvik
+          1	Klaksvik Effo
+          1	Klaksvik Heliport
+          1	Klaksvikar Svimjihøll
+          1	Klaksvík
+          1	Klaksvík - Syðradalur
+          1	Klaksvíkar Skipasmiðja
+          1	Klaksvíksskákið
+          1	Klaksvíksvegur
+          1	Klaskvik
+          1	Klettagøta
+          1	Klettarnir
+          1	Klettaskot
+          1	Klettur
+          3	Klingran
+          1	Klingrugarður
+          1	Klokkaragøta
+          4	Klovavegur
+          1	Klovna
+          1	Klovningur
+          1	Klubbarnir
+          5	Klubbin
+          1	Kluftá
+          1	Klávusarvegur
+          1	Klæmintsgjógv
+          1	Klívsdalsá
+          1	Klóraratangi
+          1	Klórarin
+          1	Knattarheyggjur
+          1	Knavin
+          1	Kneysurin
+          1	Knitted Stone
+          1	Knubbahjalli
+          1	Knyklarnir
+          1	Knópur
+          1	Knúkaborg
+          1	Knúkarnir
+          2	Knúkin
+          1	Knúksdalur
+          7	Knúkur
+          1	Knúkur, vestari
+          1	Knúkurin
+          1	Knútur
+          1	Kobbatangi
+          1	Koks
+          1	Kolaratangi
+          1	Kolavegurin
+          2	Kolbanargjógv
+          1	Kolbeinagjógv
+          1	Kolheyggjur
+          3	Kollafjørður
+          1	Kollfjarðardalur
+          1	Kollfjarðardalur (Tunnilin)
+          1	Kollfjarðardalur (effo støðin)
+          1	Kollfjarðartunnilin
+          1	Kollgjógv
+          1	Kolshjallar
+          1	Kolsvegur
+          3	Koltur
+          1	Kolturshamar
+          1	Kolturssund
+          2	Kommunubrekka
+          1	Kommunukontórið
+          1	Kommunuskrivstovan
+          1	Kommunuskúlin
+          1	Konan
+          2	Kongabrekkan
+          2	Kongabrúgvin
+          3	Kongagøta
+          1	Kongaminnið
+          1	Kongavarði
+          2	Kongsgil
+          2	Kongshavn
+          2	Kongsstovubrekka
+          1	KonufelIi
+          1	Kopakonan
+          1	Kopargøta
+          1	Koppsenni
+          1	Korkadalur
+          1	Korkagøta
+          1	Korkdalur
+          1	Korndalsgøta
+          3	Korndalsvegur
+          1	Korndalur
+          2	Kovalág
+          1	Koytugøta
+          1	Krea
+          1	Kringvarpið
+          2	Kristiansgøta
+          1	Kristjansgøta
+          1	Kropni
+          1	Krossafelli
+          1	Krossdalsá
+          3	Krossgøta
+          2	Krosslabrekka
+          2	Krosslið
+          2	Krosslíð
+          1	Krosstindur
+          2	Krossur
+          3	Krossurin
+          1	Krossvatn
+          1	Kráargilsvegur
+          7	Kráargøta
+          1	Kráarheyggjur
+          1	Kráarrás
+          7	Kráarvegur
+          3	Kráavegur
+          1	Kráir
+          1	Krákan
+          1	Krókagøta
+          1	Krókaskákið
+          1	Krókavegur
+          1	Krókábrekka
+          1	Krúnufjall
+          1	Krúpshamar
+          4	Kulibakki
+          1	Kumlavegur
+          1	Kumlin
+          1	Kumlá
+          2	Kumláarbrekka
+          1	Kunningarstovan Sandoy
+          1	Kunnistovan (Tourist Info) Nolsoy
+          5	Kunoy
+          1	Kunoyargøta
+          1	Kunoyarnakkur
+          1	Kunoyarnes
+          1	Kunoyartunnilin
+          3	Kunoyarvegur
+          1	Kvigingaskarð
+          1	Kvíandalsvatn
+          1	Kvígandalur
+          1	Kvígardalsvegur
+          2	Kvíggjagilsá
+          3	Kvíggjartún
+          6	Kvíggjarvegur
+          1	Kvíggjaskarð
+          1	Kvíggjávegur
+          2	Kvívík
+          1	Kvívíkar kirkja
+          1	Kvívíksskoranøva
+          1	Kvørntangi
+          1	Kákagøta
+          2	Kálhagabrekka
+          3	Kálvadalur
+          2	Kálvagerði
+          1	Kálvalíð
+          2	Kálvalíðvegur
+          1	Kálvanes
+          1	Kálvhúsvegur
+          2	Kósabrekka
+          1	Kósarbrúgvin
+          1	Kósaskákið
+          1	Køstavegur
+          1	Køtlum
+          1	Kúlugjógv
+          1	Kúrdalsvegur
+          1	Kúvingafjall
+          1	Kýrberg
+          2	LM Handilin
+          1	LM-handilin
+          2	Lamba
+          2	Lamba - Rituvik
+          1	Lamba-Rituvik
+          2	Lambadalur
+          1	Lambaeggjarfles
+          1	Lambafelli
+          1	Lambafles
+          1	Lambagerði
+          2	Lambagjógv
+          1	Lambaklettur
+          1	Lambanes
+          1	Lambareggjafles
+          2	Lambareiði
+          1	Lambareiðisvegur
+          1	Lambareyn
+          1	Lambaskarð
+          1	Lambastovubrekkan
+          2	Lambavegur
+          1	Lambavík
+          1	Lampubúðin
+         12	Landavegur
+          1	Landsapotekarin
+          1	Landsbanki Føroya
+          4	Landssjúkrahúsið
+          1	Landsuðursfjall
+          1	Langabrekka
+          1	Langafjall
+          1	Langagerði
+          2	Langanes
+          1	Langanesvegur
+          2	Langasandur
+          1	Langatrøð
+          2	Langatún
+          1	Lansbókasavn
+          1	Lauritsargøta
+          1	Lavagøta
+          1	Laðabrekka
+          1	Laðagøta
+          1	Laðanbergstangi
+          1	Laðanfelli
+          2	Laðið
+          1	Leguhúsið í Nesvík
+          1	Leigubúðin
+          1	Leikabúðin
+          1	Leirlist
+          2	Leirvík
+          1	Leirvíkartunnilin
+          3	Leirvíkarvegur
+          1	Leirvíksfjørður
+          3	Leirvíksvegur
+          1	Leitannatangi
+          2	Leiti
+          1	Leitisbrekka
+          2	Leitisgøta
+          1	Leitistangi
+          1	Leitisvatn
+          7	Leitisvegur
+          1	Leitið
+          1	Leivsgøta
+          1	Lendingargjógv
+          1	Lendingarvegur
+          1	Leyna tunnilin
+          3	Leynar
+          6	Leynarvegur
+          1	Leynasandur
+          1	Leynavatn
+          1	Liabergshálsur
+          2	Liasarvegur
+          1	Liksteinur
+          1	Liljugøta
+          1	Liljuteigur
+          1	Limstúgva
+          1	Lissahøvdi
+          1	Listagluggin
+          1	Listasavn Føroya
+          1	Listaskálin
+          1	Litladalsá
+          1	Livulág
+          1	Liðabrekka
+          1	Liðabrekkan
+          1	Liðagøta
+          2	Liðarvegur
+          3	Ljósá
+          1	Lokkafelli
+          1	Lokkagarðsvegur
+          1	Lokkanøv
+          1	Lokki
+          1	Lokloysi
+          2	Lonarstræti
+          1	Longubreyt
+          3	Lonin
+          2	Lopra
+          1	Lopransfjørður
+          2	Lopransvegur
+          1	Losjan Glotti
+          1	Lotavegur
+          1	Loysing
+          1	Loysingarfjall
+          1	Lucas Debesar gøta
+          1	Lukkasarstøð
+          1	Lunnarsgjógv
+          1	Lux
+          1	Lygnesvegur
+          1	Lygnnes
+          1	Lykkjan
+          1	Lykkjugerði
+          1	Lykkjuvøtn
+          1	Lyngbrekkugøta
+          2	Lynggøta
+          2	Lyngvegur
+          1	Láargerði
+          4	Láarvegur
+          2	Lágabø
+          1	Lágafjall
+          1	Lágargarður
+          1	Lágargøta
+          2	Lágarvegur
+          1	Lágibøur
+          1	Lágiryggur
+          1	Látragjógv
+          1	Látrið
+          1	Láturgjógv
+          1	Lávíkabrekka
+          1	Lækjutún
+          1	Lækjuvegur
+          1	Læknamiðstøðin
+          1	Líggjasarbrekka
+          1	Líraberg
+          1	Lírhamrar
+          1	Lírisfelli
+          1	Lítla Dímun
+          1	Lítla Tvørgøta
+          1	Lítlabrekka
+          1	Lítlafelli
+          2	Lítlafjall
+          1	Lítlagerði
+          1	Lítlagøta
+          1	Lítlarás
+          1	Lítlatrøð
+          1	Lítlatún
+          2	Lítlavatn
+          1	Líðarfjall
+          3	Líðargøta
+          1	Líðarmunni
+          1	Líðarnøv
+          1	Líðartangi
+          4	Líðartún
+          7	Líðarvegur
+          2	Líðin
+          1	Lógvatangi
+          1	Lómfelli
+          1	Lómsvegur
+          1	Lómundaroyri
+          1	Lónirnar
+          1	Løgdalsá
+          3	Løgmannabreyt
+          1	Løgmansbreyt
+          1	Løgtingið
+          1	Løkjatún
+          1	Løkshøll
+          1	Løðugarður
+          1	Lützenstrøð
+          2	Lýðarsvegur
+          1	M.A. Winthers gøta
+          1	M/F Teistin
+          1	MB
+          1	MEST - Søla og Eykalutir
+          1	Madar og Kona
+          1	Maggie's
+          6	Magn
+          1	Magn Norðragøta
+          2	Magn Støðin Miðvágur
+          1	Magn Vestmanna
+          1	Magn v. Streymin
+          1	Magnstøðin
+          1	Magnstøðin á Frælsinum
+          1	Magnus Cathedral
+          1	Magnus Heinasonar gøta
+          1	Magnus Heinasonargøta
+          1	Mainifløta
+          1	Make up Store
+          1	Malaknúkur
+          1	Malarendavegur
+          1	Malarvegur
+          1	Malinsfjall
+          1	Malinstindur
+          1	Mammulág
+          1	Mannagjógv
+          3	Mannaskarð
+          2	Mannbrekka
+          1	Mannsetur
+          1	Map of Suduroy
+          1	Marcopolo
+          1	Margarinfabrikin
+          1	Maria Poulsen Búnýti
+          1	Marinargøta
+          1	Marine Harvest Faroes P/f
+          2	Maritugøta
+          1	Mariugøta
+          1	Mariukirkjan
+          1	Mariusargøta
+          1	Marjun Heimá
+          2	Marknagilsvegur
+          3	Marknagjógv
+          1	Marknalíð
+          2	Marknará
+          1	Marknaskarðsgjógv
+          4	Marknavegur
+          3	Marknoyrarvegur
+          1	Marragjógv
+          1	Mary's Bænk
+          1	Maskinhandilin
+          1	Mastova og kiosk
+          1	Matstovan hja Elisabeth
+          3	Mattalág
+          1	Mattalágarvegur
+          1	Meinhartstrøð
+          1	Meinigheitshúsið
+          1	Meklarin
+          2	Melin
+          1	Mentunarhúsið
+          3	Middagsfjall
+          1	Middagur
+          1	Midvagur
+          1	Mikkjalsbøur
+          1	Mikkjalsgøta
+          2	Mikkjalstrøð
+          1	Mikladals kirkja
+          2	Mikladalur
+          2	Millum Garðarnar
+          8	Millum Gilja
+          1	Millum Hjalla
+          5	Millum Horna
+          1	Millum Húsa
+          1	Mimir
+          1	Mirmansvegur
+          1	Misávegur
+          2	Miðafelli
+          2	Miðagøta
+          1	Miðalbergsdalur
+          1	Miðalfelli
+          1	Miðalhøvdi
+          1	Miðardalstindur
+          1	Miðberg
+          1	Miðbrekka
+          2	Miðbrekkan
+          1	Miðfjall
+          1	Miðgjógvin
+          1	Miðgøta
+          1	Miðhjallar
+          1	Miðlahúsið
+          1	Miðlon
+          1	Miðrás
+          3	Miðtún
+          1	Miðvatn
+          1	Miðvágs kirkja
+          2	Miðvágur
+          1	Mjovanes lighthouse
+          1	Mjólkargøta
+          2	Mjóstíggjur
+          2	Mjóvanes
+          1	Mjørkadalur
+          1	Mojo Club
+          1	MorMor
+          2	Morskranes
+          4	Mortansstovubrekka
+          1	Morðbergstangi
+          1	Mosarøkur
+          1	Moskursfjall
+          2	Munkastova
+          1	Murufelli
+          2	Musikskúlin
+          3	Mykines
+          1	Mykines - Sørvágur
+          1	Mykines Holmur Lighthouse
+          1	Mykinesar kirkja
+          1	Mykinesfjørður
+          1	Mykinesgøta
+          1	Mykineshόlmur
+          1	Mykinesstova
+          2	Myllá
+          1	Myllágøta
+          2	Mylnan
+          3	Mylnugøta
+          1	Mylnuskákið
+          3	Mylnuvegur
+          1	Myrisnípuvegur
+          1	Myrkagjógv
+          1	Myrkjanoyrarfjall
+          1	Myrkjanoyri
+          1	Mækjugøta
+          1	Mækjuvegur
+          1	Mígandisá
+          1	Móanes
+          1	Móanessund
+          1	Móanestangi
+          1	Móritsarvegur
+          2	Mølin
+          1	Mørkin
+          1	Mørkin Mikla
+          1	Møttisgil
+          1	Múlafossur
+          2	Múlagjógv
+          1	Múlatangi
+          1	Múlatindur
+          2	Múlavegur
+          1	Múlbergsvatn
+          3	Múlheiðar
+          2	Múli
+         15	Múlin
+          1	Müllers pakkhús
+          1	Mýlingur
+          1	Mýranar
+          1	Mýrarfjørður
+          6	Mýravegur
+          1	Mýrigarður
+          1	Mýrigøta
+          6	Mýrisnípuvegur
+          4	Mýrivegur
+          1	Mýrnamørk
+          1	Mýrubrekka
+          2	Mýrugøta
+          1	Mýrusnípuvegur
+          1	Mýrutún
+          2	Mýruvegur
+          1	Nabbi
+          1	Nabbin
+          6	Nakkur
+          1	Nakkurin
+          1	Nakkurin (norðari)
+          1	Nakkurin Langi
+          1	Nasin
+          1	Navia
+          2	Navirnar
+          3	Nes
+          1	Nes (Eysturoy)
+          1	Nes, Eysturoy
+          1	Nesavegur
+          1	Nesið
+          2	Neslíð
+          1	Nest
+          1	Nestangi
+          1	Nestindar
+          8	Nesvegur
+          4	Nesvík
+          1	Nev
+          1	Nevið
+          1	Nevtangi
+          1	Neystagøta
+          1	Neystatún
+          3	Neystavegur
+          1	Neytageilin
+          1	Nicolai Mohrs gøta
+          9	Niels Finsens gøta
+          1	Niels Winthers gøta
+          2	Niðan Horn
+          1	Niðan Mannaskarð
+          4	Niðan Viðarlund
+          1	Niðara Vatn
+          2	Niðaragøta
+          4	Niðari Vegur
+          1	Niðari vøllur
+          2	Niðarivegur
+          1	Niðri við Strond
+          1	Niðri á Sandi
+          1	Niðri í Húsi
+          1	Niðri í Túni
+          1	No12 juicebar
+          1	Nordbil
+          1	Nordcar
+          1	Noregsvegur
+          3	Noroyðar Sparikassi
+          1	Norröna (Smyril Line)
+          1	Norðadalur
+          1	Norðanfyri Blámansfjall
+          1	Norðanfyri Kvíggjaskarð
+          1	Norðanfyri Lokkaskarð
+          1	Norðara Hálsavatn
+          1	Norðarafjall
+          7	Norðari Ringvegur
+          1	Norðaritangi
+          2	Norðasta Horn
+          1	Norðberg
+          1	Norðbergseiði
+          1	Norðbergsvatn
+          1	Norðbergsvegur
+          2	Norðdepil
+          2	Norðhavnin
+          1	Norði í Á
+          1	Norðnátún
+          1	Norðoya Spariki
+          1	Norðoyar sýsla
+          1	Norðoyartunnilin
+          2	Norðoyri
+          1	Norðradalsskarð
+         11	Norðradalsvegur
+          1	Norðradalur
+          2	Norðragøta
+          1	Norðragøtudalur
+          1	Norðskálatunnilin
+          6	Norðskálavegur
+          2	Norðskáli
+          1	Norðtoftavegur
+          2	Norðtoftir
+          1	Norður á Bergi
+          2	Norðurgarður
+          2	Norðuri á Heyggi
+          1	Norðuri á Trøð
+          1	Norðuri í Bø
+          1	Norðuri í Fløgum
+          2	Norðuri í Sundum
+          1	Norðurlandahúsið
+          1	Norðurrás
+          1	Norðurstíggjur
+          1	Nykurin
+          1	Nánestangar
+          1	Náttúruvísindadeildin
+          2	Næmingaheimið á Argjum
+          1	Næraberg
+          1	Nípubakkin
+          1	Nípubarmur
+          1	Nóatún
+          3	Nólsoy
+          1	Nólsoyar Kirkja
+          1	Nólsoyar Páll
+          1	Nólsoyar Páls gøta
+          1	Nólsoyar Pálsgøta
+          1	Nólsoyar skúli
+          1	Nólsoyarstova
+          2	Nónfjall
+          1	Nónkjálki
+          1	Nøvan
+          2	Nøvin
+          1	Núgvan
+          1	Núpsá
+          2	Núpur
+         10	Nýggivegur
+          1	Nýggjaberg
+          1	Nýggjagerði
+          2	Nýggjastova
+          2	Nýggjavegsbrekka
+          1	Nýggjustova
+          1	OCD
+          1	Ognarvegur
+          3	Okkara
+          1	Oknadalsdrangur
+          1	Oknadalur
+          1	Oknarvegur
+          1	Olgarsgøta
+          1	Olivarsvegur
+          1	Olmussudrangur
+          1	Oman Eið
+          1	Oman Gil
+          4	Oman Hoydalar
+          1	Oman Mattalág
+          1	Oman Pisuvarða
+          1	Oman Reyðhús
+          1	Oman Stóragarð
+          1	Oman Svínanes
+          1	Oman Valrætt
+          2	Oman Viðarlund
+          1	Oman fyri Kirkju
+          1	Oman á Bakka
+          1	Omanfyri Klivsdal
+          1	Onnugøta
+          2	Onundarvegur
+          1	Orkis
+          1	Orknoyavegur
+          1	Ovara Tvørgøta
+          4	Ovaragøta
+         14	Ovari Vegur
+          1	Ovari vegur
+          1	Ovari vøllur
+          3	Ovarivegur
+          2	Ovastova
+          2	Ovastuhjallar
+          1	Oyggjarmúli
+          1	Oyggjarskoratindur
+          3	Oyggjarvegur
+          3	Oyndarfjarðarvegur
+          2	Oyndarfjørður
+          1	Oyndfjarðarfjall
+          1	Oyran
+          5	Oyrarbakkavegur
+          2	Oyrarbakki
+          2	Oyrareingir
+          2	Oyrarnar
+          1	Oyrarskarð
+         10	Oyrarvegur
+          7	Oyravegur
+          2	Oyri
+          1	Oyrnafjall
+          1	Oyrnanípa
+          2	Oyrnaskarð
+          1	Oyrnatangi
+          1	P/F Eivind Petersen
+          2	PE
+          1	PE Sp/f
+          1	PE á Hálsi
+          2	PETRI Tannklinikk
+          1	Pakkhús 18
+          1	Pakkhús 4
+          1	Pakkhúsið Gisting í Miðvági
+          1	Palli
+          2	Peché
+          2	Pedda við Stein gøta
+          2	Per Mohrs vegur
+          4	Perlan
+          1	Pershús
+          3	Perskonugøta
+          2	Peturstrøð
+          1	Pisshúsið
+          1	Pizza 67
+          1	Pizza King
+          1	Plenan
+          1	Polar
+          1	Polatrøð
+          2	Pollur
+          2	Porkeri
+          1	Porkeris Viti
+          1	Porkerisnes
+          1	Portugálið
+          1	Posthúskjallarin
+          1	Postulakirkja
+          1	Poul Juels gøta
+          1	Prestagøta
+          1	Prestfjall
+          1	Prestgjógv
+          1	Prestgøta
+          1	Prestheiðar
+          1	Presttangi
+          1	Prestvegur
+          1	Purkugerði
+          1	Pylsuvognurin
+          1	Páls Høll
+          1	Pálsgøta
+          1	Pæsastova
+          2	Pætursfjall
+          2	Pætursgøta
+          1	Píkarsdrangur
+         15	R.C. Effersøes gøta
+          1	RAF Eide
+          1	Radiiobúðin
+          1	Radiohandilin
+          1	Raktangi
+          1	Rangabotnur
+          1	Rangihálsur
+          1	Ranndalur
+          4	Rasmusargøta
+          1	Ravnagjógv
+          1	Ravnaskarð
+          1	Ravnsfjall
+          1	Ravnsoyargøta
+          1	Raðnes
+          5	Regnavegur
+          1	Reinsaríið
+          1	Reipaskor
+          1	Reipsáfossur
+          1	Reiðgøta
+          1	Rektaragøta
+          1	Restaurant Hafnia
+          1	Reunstún
+          1	Revatangi
+          1	Reynagarður
+          1	Reynagøta
+          1	Reynavegur
+          2	Reyngøta
+          1	Reyni Service
+          2	Reynini
+          2	Reynið
+          1	Reynsatindur
+          1	Reynsendi
+          3	Reynsgøta
+          1	Reynslíð
+          2	Reynstún
+          1	Reyðafelstindur
+          1	Reyðagøta
+          1	Reyðastíggjatangi
+          1	Reyðfiskagjógv
+          1	Reyðibakki
+          1	Reyðibarmur
+          1	Reyðikambur
+          1	Rinkusteinar
+          1	Risabein
+          1	Risagrøv
+          1	Risin
+          1	Ritafjall
+          1	Rituberg
+          1	Ritubergsnøva
+          1	Ritudalsskarð
+          2	Ritudalur
+          1	Ritufelli
+          1	Ritufelshálsur
+          1	Ritugjógv
+          1	Ritunøva
+          1	Ritunøvsteinur
+          1	Rituskor
+          2	Rituvík
+          1	Rituvík1
+          2	Rituvíkarvegur
+          1	Rivið
+          2	Rivtangi
+          1	Rossafelli
+          1	Rossagerði
+          1	Rossagøta
+          1	Rossaklettur
+          1	Rossatrøðin
+          1	Rosságøta
+          1	Roykstovan
+          1	Roynhøllin
+          1	Royðragjógv
+          4	Runavík
+          1	Runavíkar skúli
+          2	Rundingur
+          1	Runtagøta
+          1	Rustartindur
+          1	Ryggjavegur
+          3	Rygsgøta
+          2	Rygstún
+          1	Rygsvegur
+          1	Ryskidalur
+          1	Ryskivatn
+          2	Rávan
+          1	Rávugjógv
+          1	Ræst
+          1	Rættargarðar
+          6	Rættargøta
+          1	Rættarhjálp Føroya (The Faroe Islands Legal Aid)
+          1	Rættarhøvdi
+          2	Rættartangi
+          3	Rættartún
+          5	Rættarvegur
+          1	Rættá
+          1	Ríkisumboðið
+          1	Ró Guesthouse
+          1	Rógvukollur
+          4	Rógvuvegur
+          1	Rókahavnin
+          1	Rókartún
+          2	Rókavegur
+          1	Rókin
+          1	Rólantsgøta
+          1	Róvin
+          1	Róðraneystið
+          1	Rúnarvegur
+          1	Rúsan
+          1	Rúsdrekkasøla landsins
+          1	Rúsdrekkasøla landsins -  Goymslan
+          1	Rúsdrekkasølan
+          1	Rútarfelli
+          1	SEGMENT10
+          1	SEV
+          3	SEV Landavegin
+          1	SHEFA-2 Seg 7-1
+          1	SK Pizza
+          4	SMS
+          1	SPEKT
+          1	Saksabergskollur
+          2	Saksun
+          1	Saksunar Kirkja
+          9	Saksunarvegur
+          1	Salong 55
+          1	Salong Aida
+          1	Salong Annika
+          1	Salong Beinta
+          3	Saltangará
+          1	Salthøvdi
+          2	Saltnes
+          1	Saltnesvegur
+          1	Salurin
+          1	Sambýlið Vesturskyn
+          4	Samkeyp
+          3	Samognarbøur
+          1	Samskip
+          1	Sanatoriivegur
+          1	Sandabrekkan
+          1	Sandagerð
+          1	Sandagerðisvegur
+          1	Sandagerðsvegur
+          1	Sandaskorar
+          1	Sandavegur
+          1	Sandavágs kirkja
+          2	Sandavágur
+          1	Sandbakkin
+          1	Sandenni
+          4	Sandfelli
+          1	Sandhálsar
+          2	Sandoy
+          1	Sandoyar bókasavn
+          1	Sandoyar kunningarstova
+          2	Sandoyar skúli
+          1	Sandoyar sýsla
+          2	Sandoyravegur
+          1	Sandslíð
+          1	Sandsvatn
+          1	Sandsvágur
+          2	Sandur
+          1	Sandur - Skúvoy
+          2	Sandvík
+          1	Sandvíkartunnilin
+          2	Sandvíkarvegur
+          1	Sandvíksfles
+          4	Sandá
+          1	Sandáarbreyt
+          1	Sandágøta
+          1	Sandávegur
+          1	Sankta Josefs Barnagarður
+          1	Sankta frans skúlin
+          1	Sapugerði
+          1	Sarpavegur
+          1	Savn-Museum
+          1	Seggjatangsboði
+          1	Seglhúsloftið
+          1	Segment 2
+          1	Segment 3
+          1	Segment 4
+          1	Selabarmur
+          2	Selatrað
+         12	Selatraðarvegur
+          1	Selatraðvegur
+          1	Selberg
+          1	Selbergsfles
+          1	Selbergsskarð
+          1	Selheygsgøta
+          1	Sellátrafles
+          1	Selnes
+          1	Selvik
+          1	Selvindisvegur
+          1	Sentrum
+          1	Setrabarmur
+          1	Setursskrivstovan
+          1	Sevdalsvegur
+          1	Seven
+          2	Sevmýri
+          1	Seymistovan
+          1	Seyringaskarð
+          1	Seyðagøta
+          1	Seyðaskor
+          1	Seyðaskoragjógv
+          1	Seyðhamar
+          1	Seyðtorva
+          1	Seyðurð
+          1	Sigatindur
+          1	Siglidalur
+          1	Siglifelli
+          1	Siglugøta
+          1	Sigmundarberg
+          1	Sigmundargøta
+          2	Sigmundshol
+          2	Signabøur
+          1	Simme Musikkhús
+          1	Siri
+          1	Sirkus
+          1	Sivjugøta
+          1	Siða
+          1	Sjatlá
+          1	Sjeyndir
+          1	Sjó- og Vektarbúðin
+          2	Sjóberið
+          7	Sjógøta
+          1	Sjóndeplin
+          3	Sjónleikarhúsið
+          1	Sjóvarbrekka
+          1	Sjóvartoftir
+          1	Sjóvartún
+          2	Sjóvarvegur
+          1	Sjóvará
+          1	Sjøthamar
+          3	Sjúkrahúsbrekkan
+          1	Sjúrðargarður
+          2	Sjúrðargøta
+          1	Sjúrðarmýri
+          1	Skaldavegur
+          1	Skansapakkhúsið
+          1	Skansatangi
+          1	Skansavegur
+          2	Skansin
+          1	Skarvadrangur
+          1	Skarvagjógv
+          2	Skarvanes
+          1	Skarvaneslíð
+         10	Skarvanesvegur
+          1	Skarvastakkur
+          2	Skarvatangi
+          1	Skarð
+          1	Skarðbyrgishella
+          1	Skarðdalsá
+          1	Skarðgjógv
+          1	Skarðið á Stakkinum
+          1	Skarðsskriðuá
+          1	Skarðsvegur
+          1	Skarðsvík
+          1	Skarðsá
+          1	Skaðahella
+          1	Skeiva pakkhús
+          1	Skeiðsskarð
+          1	Skemmingsgøta
+          3	Skeravegur
+          1	Skerhella
+          1	Skerhólmur
+          1	Skerá
+          1	Skerðingur
+          3	Skipanes
+          3	Skipanesvegur
+          1	Skipara Hansens gøta
+          3	Skiparagøta
+          1	Skiparavegur
+          1	Skipasmiðan
+          1	Skjaldrarboði
+          1	Skoparin
+          2	Skopun
+          1	Skopunarfjørður
+          2	Skopunarskúli
+          3	Skopunarvegur
+          1	Skoragjógv
+          1	Skoragjógvarvegur
+          1	Skoragøta
+          2	Skoralíð
+          1	Skorar
+          1	Skorarnar
+          1	Skorartangi
+          1	Skoratindur
+          3	Skorin
+          1	Skornasaklettur
+          3	Skorpisoyrarvegur
+          1	Skotarók
+          6	Skraddaragøta
+          1	Skrivaragøta
+          1	Skriðubakki
+          1	Skriðudalur
+          1	Skriðugøta
+          1	Skriðutangi
+          1	Skriðuvegur
+          6	Skákið
+          1	Skáktangi
+          2	Skála
+          1	Skálabeiti
+          1	Skálabotn
+          2	Skálabotnur
+          2	Skálafjall
+          2	Skálafjarðarvegur
+          1	Skálafjørður
+          1	Skálagjógv
+          1	Skálanes
+          1	Skálatoftir
+          3	Skálatrøð
+         24	Skálavegur
+          2	Skálavík
+          1	Skálavíkslíð
+          1	Skálhøvdi
+          1	Skáli
+          1	Skálin
+          1	Skálsá
+          2	Skáltavegur
+          1	Skælingsfjall
+          1	Skælingsskarð
+          1	Skælingsskor
+          2	Skælingur
+          1	Skóhornið
+          1	Skótahúsið
+          2	Skørugøta
+          1	Skúlabrekkan
+          5	Skúlagøta
+          1	Skúlaheimið
+          1	Skúlateigur
+         16	Skúlavegur
+         21	Skúlin
+          1	Skúlin við Løgmannabreyt
+          1	Skúlin á Argjahamri
+          1	Skúlin á Giljanesi
+          1	Skúlin á Trøðni
+          1	Skúlin í Trongisvági
+          1	Skúvadalsá
+          1	Skúvafjall
+          1	Skúvagjógv
+          1	Skúvanøs
+          3	Skúvoy
+          1	Skúvoy Heliport
+          1	Skúvoyar kirkja
+          1	Skúvoyarfjall
+          1	Skúvoyarfjørður
+          1	Skúvoyarsker
+          1	Sleipnisgøta
+          1	Slokkarnir
+          1	Slumbufles
+          1	Slætnatindur
+          1	Slættaberg
+          1	Slættabergsmúli
+          1	Slættafelli
+          2	Slættafjall
+          1	Slættalíð
+          1	Slættanes
+          1	Slættanesgøta
+          1	Slættanestangi
+          1	Slættaratindur
+          1	Smakka
+          2	Smillavegur
+          1	Smiðjan í Lítluvík
+          3	Smiðjugerði
+          1	Smiðjuvegur
+          1	Smyril
+          3	Smyril Blue Water
+          3	Smyrilsvegur
+          1	Smyrjibreyðsbúðin
+          1	Smæran
+          5	Smærugøta
+          2	Smæruteigur
+          1	Smørbúshellisgjógv
+          1	Smørdalsá
+          1	Snarskivan
+          1	Snatin
+          2	Sneis
+          1	Snerran
+          1	Sniðgøta
+          1	Snubburnar
+          2	Snæbjarnarvegur
+          1	Snæfelli
+          1	Snældansfjall
+          1	Snæválsheyggjur
+          1	Snípuvegur
+          1	Sodnhúsvegur
+          1	Somwang
+          1	Sornfelli
+          1	Sorngjógv
+          6	Sornhúsgøta
+          1	Sornhústún
+          4	Sornhúsvegur
+          1	Soyðistangi
+          1	Spinarnir
+          3	Sporamørk
+          2	Sportmaster
+          1	Spunagøta
+          1	Spáafelli
+          1	Spæliplássið
+         10	Spógvavegur
+          1	Stadion Royn Hvalba
+          1	Stadion TB Tvøroyri
+          2	Stallagøta
+          1	Stallur
+          1	Stangabrúgvin
+          1	Stangarnestangi
+          1	Stangaskákið
+          2	Stangavegur
+          1	Stapatá
+          1	Stapavegur
+          1	Stapi
+          1	Stapin
+          1	Staravegur
+          1	Start of Prestgøta
+          1	Starvsmannafelagið
+          1	Staðið
+          1	Steffanstangi
+          1	Steigarbrekka
+          1	Steigartún
+          2	Steinagerði
+          6	Steinatún
+          1	Steinavíksgøta
+          1	Steinprent
+          1	Steinsdrangur
+          2	Steinsgøta
+          1	Steinsheyggjur
+          1	Stella Maris Vøggustova
+          1	Stevnuválur
+          1	Steyrur
+          1	StiðjafjalI
+          1	Stiðjagøta
+          1	Stoffabrekkan
+          6	Stoffalág
+          1	Stokkastovan
+          2	Stoksoyrarbakki
+          3	Stoksoyrarvegur
+          1	Stone enclosure
+          2	Stongin
+          1	Stovugerði
+          1	Strandardalur
+          2	Strandatún
+          1	Strandavegur
+          2	Strendur
+          1	Streymagjógv
+          3	Streymnes
+          4	Streymnesvegur
+          1	Streymnev
+          2	Streymoy
+          1	Streymoyar sýsla
+          2	Strond
+          1	Strætið
+          3	Studentaskúlin
+          1	Studentaskúlin og HF Skeiði í Eysturoy
+          1	Studio Bloch
+          3	Stykkið
+          1	Stykkjagerði
+          1	Stykkjavegur
+          1	Stættirnir
+          1	Stíganev
+          1	Stígargøta
+          1	Stígarnir
+          1	Stígaskarð
+          1	Stólur
+          2	Stóra Dímun
+          1	Stóradys
+          2	Stórafjall
+          1	Stórafles
+          1	Stóragerði
+          3	Stóragjógv
+          1	Stóraleiti
+          1	Stórasker
+          1	Stórasund
+          1	Stóratjørn
+          1	Stóratún
+          2	Stóravatn
+          2	Stórheyggjur
+          1	Stórhúsvegur
+          3	Stórá
+          1	Støðarvegur
+          1	Støðlabrekka
+          1	Støðlafjall
+          1	Støðlagøta
+          2	Støðlatún
+          2	Sumba
+          1	Sumbiar tunnilin
+          1	Sumbiarfles
+          1	Sumbiarsteinur
+          1	Sumbiarvegur
+          3	Sund
+         15	Sundalagsvegur
+          1	Sundini
+          1	Sunds verkið
+          1	Sundsnøva
+          1	Sundsskarð
+          6	Sundsvegur
+          1	Sundsverkið
+          1	Sunnanávegur
+          1	Sunnarafjall
+          1	Sunnasti Grønutangi
+          1	Sunset Boulevard
+          1	Supermarket Nolsoy
+          1	Suður Bio
+          1	Suður á FjaIli
+          1	Suður á Nakki
+          4	Suðuri í Fjósi
+          2	Suðuroy
+          1	Suðuroyar Sjúkrahús
+          1	Suðuroyar Sparikassi
+          1	Suðuroyar sýsla
+          1	Suðuroyarbanki
+          1	Suðuroyarfjørður
+          1	Suðuroyavegur
+          1	Suðurrás
+          1	Suðurstova
+          2	Suðurstíggjur
+          7	Svabosvegur
+          1	Svalbardsgøta
+          1	Svalbardsvegur
+          1	Svangaskarð
+          1	Svartbakstindur
+          1	Svartidalur
+          1	Svartskorardrangur
+          1	Svarturð
+          1	Svedalsheyggjur
+          1	Sveipur
+          3	Sverrisgøta
+          1	Sverrishola
+          1	Svimjihøllin í Gundadali
+          1	Svíni Kirkja
+          4	Svínoy
+          1	Svínoyarfjørður
+          1	Svínoyarvík
+          1	Svíná
+          1	Svínáavegur
+          2	Svínáir
+          1	Svørvisvegur
+          1	Svøðutangi
+          1	Syðradalsvegur
+          3	Syðradalur
+          1	Syðradalur, Kal.
+          1	Syðritangi
+          2	Syðrugota
+          2	Syðrugøta
+          1	Sámalsgøta
+          1	Sárubrekka
+          2	Sátan
+          1	Sæurðardrangur
+          2	Sævareingir
+          1	Sævargøta
+          1	Sílagøta
+          1	Símun á Høgabóli
+          1	Símunargøta
+          1	Sívarsvegur
+          1	Sóljubrekka
+          4	Sóljugøta
+          2	Sóljuteigur
+          4	Sólteigur
+          1	Sótabakki
+          3	Søldarfjarðarvegur
+          2	Søldarfjørður
+          2	Søltuvík
+          1	Søltuvíkarvegur
+          1	Sølvá
+          1	Sørvágs skúli
+          1	Sørvágsfjørður
+          1	Sørvágsvatn
+          2	Sørvágur
+          1	Sýnarbrekkan
+          1	Sýnarvegur
+          1	Sýnisnes
+          1	Sýnávegur
+          2	Sýrugøta
+          1	Sýslumansgøta
+          1	TAKS
+          1	TN-Bygging
+          1	Take Away
+          1	Talvborð
+          1	Tangafjørður
+          1	Tangavegur
+          1	Tangin á Trøð
+          1	Tannlæknamiðstøðin
+          1	Taravíkstangi
+          1	Tartalág
+          1	Tartavegur
+          1	Taxi 323232
+          1	Taðabarmur
+          1	Teigafjall
+          3	Teigagøta
+          1	Teigar
+          2	Teigavegur
+          1	Teigsgjógv
+          2	Teistin
+          2	Tekniski Skúli
+          1	Teldutænastan
+          1	Tempilsklettur
+          1	Tent site - Svínoy
+          1	Ternan
+          1	Ternubrekkan
+          1	Ternusker
+          1	Territorial waters of Faroe Islands
+          1	The Irish Pub
+          1	The Locals
+          1	The Tarv
+          1	The old Cemetary
+          1	Tide table
+          1	Tiger
+          1	Til minnis um fahr Mykinesmen
+          2	Tildugøta
+          1	Tilhaldið
+          1	Tindagjógv
+          1	Tindastakkur
+          1	Tindhólmur
+          1	Tindskriðubarmur
+          1	Tindsskarð
+          8	Tindur
+          1	Tinganes
+          1	Tinghús vøllur
+          1	Tinghúsið
+          3	Tinghúsvegur
+          1	Tingstøðin
+          1	Tino & His Pizza
+          1	Tjaldavík
+          1	Tjaldravegur
+          2	Tjaldurs apotek
+          4	Tjaldursvegur
+          2	Tjarnardeild
+          1	Tjarnargarður
+          1	Tjarnarheyggjur
+          8	Tjarnarlág
+          1	Tjarnarvegur
+          1	Tjóðhildargøta
+          1	Tjóðpallur Føroya
+          1	Tjørndalsá
+          1	Tjørndalur
+          1	Tjørnudalsá
+          1	Tjørnudalur
+          4	Tjørnunes
+          2	Tjørnuvík
+          1	TjørnuvíksStakkur
+          3	Todnes
+          1	Tofta skúli
+          1	Tofta-Ísaksskarð
+          1	Toftabrekka
+          2	Toftagjógv
+          2	Toftagøtan
+          1	Toftaknúkur
+          2	Toftalíð
+          7	Toftanes
+          1	Toftanesvegur
+          1	Toftaskarð
+          2	Toftatún
+          1	Toftavatn
+         11	Toftavegur
+          3	Toftir
+          1	Tollaksgøta
+          1	Torbjarnargøta
+          2	Torfinsgøta
+          2	Torgið
+          1	Torgrímsgøta
+          2	Torkilsgøta
+          1	Torkilsheyggjur
+          1	Torkilskrókur
+          1	Torkilsvegur
+          1	Tormansbakki
+          1	Tormansgøta
+          5	Tormansvegur
+          1	Torsteinsgøta
+          1	Torvadalsá
+          3	Torvgøta
+          2	Torvheyggjur
+          1	Torvunøstangi
+          1	Toscana
+          1	Tosskorarhorn
+          1	Touché
+          1	Touristinformation
+          1	Trantur
+          2	Trappugøta
+          1	Trapputún
+          2	Traðabrekka
+          1	Traðadalur
+          9	Traðagøta
+          1	Traðarbrekka
+          1	Traðargøtan
+          1	Traðartún
+         13	Traðarvegur
+          1	Traðará
+          1	Traðarók
+          7	Traðavegur
+          1	Traðir
+          1	Trillan
+          1	Trongannagjógv
+          1	Trongisvágsbotnur
+          1	Trongisvágsfjørður
+          5	Trongisvágsvegur
+          2	Trongisvágur
+          1	Trygd
+          1	Tryggingarfelagið Føroyar
+          1	Tryglabrekka
+          1	Trávisnes
+          1	Trælanípa
+          1	Trælavatn
+          1	Trælavatnaskarð
+          1	Tróndarbrekka
+          1	Tróndardalslíð
+         11	Tróndargøta
+          1	Trøllakampasandur
+          2	Trøllanes
+          1	Trøllhøvdi
+          1	Trøllið
+          3	Trøllkonufingur
+          2	Trølsøvdagjógvin
+          1	Tumbakkavegur
+          1	Tummasargøta
+          1	Tundradalur
+          1	Tunga
+          1	Tungufelli
+          1	Tungufellið Lítla
+          1	Tungugarðar
+          3	Tungugøta
+          1	TungulíðfjalI
+          2	Tungureynsgøta
+          8	Tunguvegur
+          2	Tungá
+          1	Tungáir
+          1	Tunnafjall
+          3	Turiðargøta
+          1	Tussagjógv
+          1	Tutl
+          1	Tváttur
+          1	Tvífaldará
+          2	Tvørfelli
+          5	Tvørgarðsgøta
+          2	Tvørgøta
+          1	Tvørmegi
+          1	Tvøroyrar Kirkja
+          1	Tvøroyrar Klubbi
+          1	Tvøroyrar Skúli
+          2	Tvøroyri
+          1	Tvørteigur
+          3	Tvørávegur
+          2	Tyril
+          1	Tyrilsenni
+          1	Tyrilsválur
+          1	Títlingsvegur
+          1	Tógvhúsið
+          1	Tólvmarkaknúkur
+          5	Tórgarðsgøta
+          1	Tórhús
+          3	Tórsbreyt
+          5	Tórsbyrgi
+          4	Tórsgøta
+          2	Tórshavn
+          1	Tórshavn - Gamlarætt
+          2	Tórshavn - Seyðisfjörður
+          1	Tórshavn - Sørvágur
+          1	Tórshavn - Vestmanna
+          2	Tórshavn Camping-Site
+          1	Tórshavn/Boðanes Heliport
+          1	Tórshavnar Brandstøð
+          1	Tórshavnar Byråd
+          1	Tórshavnar RC Felag
+          1	Tórshavnar RC Felag Báta hús
+          1	Tórsvøllur
+          3	Tórugøta
+          1	Tórðarenni
+          1	Tórðargøta
+          1	Tølthøllin
+          2	Tøðutún
+          1	Túalsvegur
+          1	Túgvugøta
+          1	Túnagøta
+          2	Túnið
+          1	Tútalág
+          4	Túvuvegur
+          1	UannI Gift Shop
+          1	Uldalið
+          1	Um Eiði
+          1	Um Heygar
+          2	Umhvørvisstovan
+          1	Undir Bjørgum
+          1	Undir Borgarhálsi
+          1	Undir Brekkuni
+          1	Undir Bryggjubakka
+          2	Undir Brúnni
+          3	Undir Bólheyggi
+          1	Undir Bøbrekku
+          1	Undir Fobbakletti
+          7	Undir Fossum
+          3	Undir Glaðsheyggi
+          1	Undir Grashjalla
+          9	Undir Gráasteini
+          1	Undir Grótheyggi
+          1	Undir Gørðum
+          1	Undir Gøtueiði
+          2	Undir Gøtuni
+          1	Undir Halgaheyggi
+          1	Undir Hamarsenda
+          2	Undir Heyggi
+          7	Undir Heygnum
+          2	Undir Hválinum
+          1	Undir Hálsi
+          1	Undir Hæddini
+          2	Undir Kerjum
+          1	Undir Kjallara
+          1	Undir Klakki
+          4	Undir Kongavarða
+          2	Undir Krákugjógv
+          1	Undir Liðakletti
+          1	Undir Miðhorni
+          3	Undir Nesinum
+          1	Undir Pisuvarða
+          1	Undir Reyni
+          3	Undir Reynum
+          1	Undir Ryggi
+          1	Undir Ryski
+          1	Undir Skoragarði
+          1	Undir Skorum
+          3	Undir Svartafossi
+          2	Undir Torvbrekku
+          1	Undir Ólastovuheygnum
+          1	Ungmannafelagshúsið
+          1	Ungmannahúsið Samljóð
+          1	Univice
+          1	Uppi á Brekku
+          1	Uppi á Grind
+          1	Uppi á Gálga
+          1	Uppi á Helluni
+          1	Uppi á Leiti
+          1	Uppi á Manni
+          1	Uppi á Oyggj
+          2	Uppi á Reyni
+          1	Uppi á Váli
+          2	Uppi í Húsi
+          1	Uppi í Smiðju
+          1	Uppi í Trøð
+          1	Uppi í Túni
+          1	Uppi í Túninum
+          2	Uppistova
+          3	Uppsalagøta
+          1	Uppsalir
+          1	Upsartangi
+          1	Ur- og brillustovan
+          2	Urðafjall
+          1	Urðarboði
+          1	Urðarvegur
+          1	Urðará
+          2	Urðin
+          1	Urðnagjógv
+          1	Urðnagøta
+          1	Uttan Kirkju
+          1	Uttan Lið
+          2	Uttan Á
+          1	Uttarafjall
+          1	Uttaragerð
+          1	Uttarstova
+          1	V.U. Hammershaimbsgøta
+          1	VB huset
+          1	Vagar Airport
+          4	Vaglið
+          1	Vaktarhúsbrekka
+          1	Vaktarhúsgøta
+          1	Vaktarhúsvegur
+          2	Valarabrekkan
+          1	Valdaskarð
+          1	Valdemar Lützen
+          1	Valhøll
+          1	Vallalíð
+          1	Vallaratún
+          1	Valloyravegur
+          1	Varmakelda
+          1	Varpabrúgvin
+          2	Varðabrekka
+          2	Varðabyrgi
+          3	Varðabú
+          4	Varðagøta
+          1	Varðalág
+          1	Varðatún
+          1	Vatnaskarðar
+          5	Vatnavegur
+          1	Vatndalsegg
+          1	Vatndalsá
+          2	Vatnfelli
+          1	Vatnið
+          1	Vatnið i Tindalið
+          1	Vatnsdalsfjall
+          1	Vatnsdalsvatn
+          3	Vatnsdalur
+          2	Vatnsoyrar
+          1	Vatnsoyrarvegur
+          1	Vaðhorn
+          6	Vegurin Langi
+         10	Velbastaðarvegur
+          2	Velbastaður
+          7	Velbastaðvegur
+          1	Venjingarskúlin
+          1	Verkhúsið Virkni
+          1	Verkstaðið Vón
+          2	Vest pack
+          1	Vestan Garða
+          4	Vestara Bryggja
+          1	Vestari Ringvegur
+          1	Vestfelli
+          3	Vestmanna
+          2	Vestmanna Camping
+          1	Vestmanna kirkja
+          1	Vestmanna skúli
+          1	Vestmannasund
+          4	Vestmannavegurin
+          1	Vesturdalsá
+          1	Vesturdalur
+          2	Vesturgøta
+          1	Vesturkirkjan
+          2	Vesturrás
+          1	Vesturvarði
+          1	Veðranes
+          1	Vikará
+          1	Vikingur
+          1	Vilhelmstrøð
+          1	Viljormsgøta
+          1	Villingadalsfjall
+          2	Villingadalur
+          1	Villingagjógv
+          1	Villinganøs
+          3	Villingardalsvegur
+          1	Villingatangi
+          1	Villumsgøta
+          1	Vinnuháskúlin
+          1	Vinnuhúsið
+          1	Vinnukavaraskúlin
+          1	Visit Mykines
+          2	Vitin
+          3	Við Bojsensgard
+          1	Við Eirikstoftir
+          1	Við Garð
+          5	Við Gjónna
+          1	Við Grind
+          1	Við Gálgastein
+          1	Við Havnará
+          2	Við Hurð
+          1	Við Hólkin
+          1	Við Klingrutjørn
+          1	Við Korkusá
+          2	Við Krossá
+          1	Við Kvíggjá
+          3	Við Matará
+          6	Við Myllutjørn
+          1	Við Ranggil
+          1	Við Rangá
+          1	Við Rossalið
+          1	Við Rætt
+          3	Við Sandá
+          2	Við Sjógv
+          1	Við Sornhús
+          1	Við Stóraklett
+          2	Við Stórheyggj
+          2	Við Svartheygg
+          1	Við Sílá
+          1	Við Toftir
+          1	Við Týkarheyggj
+          4	Við Á
+          1	Við Álvheygg
+          1	Við Ánna
+          1	Við Ósagarð
+          1	Við íshyl
+          2	Viðareiði
+          1	Viðareiðistunnilin
+          2	Viðareiðisvegur
+          1	Viðargøta
+          1	Viðarlundin
+          1	Viðarlundin í Kunoy
+          1	Viðarlundin úti í grøv
+          3	Viðoy
+          1	Viðurbyrgi
+          1	Viðvík
+          1	Vollabúðin
+          2	Vollavegur
+          1	Vága sýsla
+          1	Vágafjørður
+          2	Vágar
+          1	Vágatunnilin
+          1	Vágfelli
+          1	Vágsbotnur
+          1	Vágseiði
+          1	Vágsfjørður
+          1	Vágsgeil
+          2	Vágsheygsgøta
+          1	Vágsheygur
+          1	Vágsskarð
+          1	Vágstún
+          3	Vágsvegur
+          1	Vágsverkið
+          2	Vágur
+          3	Válagøta
+          8	Válavegur
+          1	Válheiðar
+          2	Válur
+          1	Vár
+          2	Vælvera Fitness
+          1	Vættrastígur
+          1	Víkar
+          1	Víkarbotnur
+          2	Víkarbyrgi
+          2	Víkarbyrgisvegur
+          1	Víkarfjørður
+          1	Víkartangi
+          1	Víkartindur
+          2	Víkarvatn
+          4	Víkarvegur
+          7	Víkavegur
+          5	Vípuvegur
+          1	Víðoy
+          1	Vónin
+          1	Vørdan
+          1	Vørlufjall
+          1	Vørufelli
+          1	Vøruhúsið á Tvøroyri
+          2	Vørðan
+          1	Vørðslan
+          1	Vørðubrekka
+          1	Vørðuklettar
+          3	Vørðuvegur
+          1	WAAG
+          1	WWII RADAR tower
+          2	WWII machine gun position
+          3	WWII ruin
+          1	War museum
+          1	Wenzel
+          1	Worlds largest bostbox
+          1	XL Byg
+          1	Yndi Fitness
+          1	Ytralíð
+          1	Ytri Skáli
+          1	Ytriheyggjur
+          1	Ytsti Vegur
+          1	Ytstidalur
+          1	Yvir á Dal
+          1	Yvir í Dal
+          6	Yviri við Strond
+          2	Yviri við Strond (Eik banki)
+          1	Yviri í Gjógv
+          1	Zarepta
+          2	Ziskagøta
+          1	arrheboesvegur
+          1	curved basalt
+          2	effo
+          1	fK
+          1	for a local poet, Poul F. Joensen
+          1	hvannasund - Svíni
+          1	i Bygdini
+          1	kimi
+          1	kirkjugøta
+          1	millum Helli
+          1	millum Hjalla
+          1	millum Stovur
+          2	millum Svalir
+          1	oman Sandheyggj
+          1	powerstation
+          2	undir Brekku
+          1	undir Brekkuenda
+          1	undir Giljum
+          1	undir Hamri
+          1	undir Kletti
+          1	undir Kongseiði
+          3	undir Kráarbrekku
+          1	undir Krákugjógv
+          1	undir Lokka
+          1	undir Lyngbrekku
+          2	undir Mýruhjalla
+          1	undir Rókini
+          2	undir Svartakletti
+          1	við Bólstein
+          1	við Drekkarsá
+          1	við Garð
+          1	við Gellingarklett
+          2	við Gjónna
+          2	við Grástein
+          1	við Høgnaheyggj
+          2	við Júksnará
+          2	við Langanes
+          1	við Løkin
+          1	við Matará
+          3	við Mylnutún
+         10	við Sjógv
+          1	við Stovutoft
+          4	við Svartá
+          1	við Trøllagil
+          1	við Trøllaklett
+          2	við Áir
+          3	við Ánna
+          1	yviri í Gjógv
+          1	Á
+          4	Á Bakkanum
+          1	Á Barnalofti
+          1	Á Brekkukletti
+          1	Á Brekkumørk
+          1	Á Brekkunum
+          1	Á Breyt
+          1	Á Brúgv
+          1	Á Buggarði
+          1	Á Bø
+          2	Á Dalinum
+          3	Á Eystaru Hellu
+          1	Á Flatabø
+          2	Á Flatnabeiti
+          1	Á Fløtti
+          2	Á Fløttinum
+          2	Á Fossi
+          2	Á Frælsinum
+          1	Á Geilargarði
+          3	Á Gerðabrekku
+          3	Á Giljanesi
+          1	Á Giljatrøðni
+          2	Á Gørðum
+          1	Á Hamranesi
+          2	Á Heyggi
+          3	Á Heygnum
+          2	Á Heygnum Mikla
+          2	Á Heygum
+          1	Á Hillingatanga
+          5	Á Hjalla
+          2	Á Hvítanesi
+          4	Á Hálsi
+          2	Á Hólalagi
+          1	Á Hólmanum
+          2	Á Høvdanum
+          2	Á Kelduni
+          1	Á Kletti
+          1	Á Kneysum
+          1	Á Kvíggj
+          3	Á Langabakka
+          1	Á Langasandi
+          1	Á Leingjuni
+          1	Á Longubrekku
+          1	Á Lágabø
+          1	Á Líknargøtu
+          1	Á Magnusarbø
+          1	Á Merkrunum
+          1	Á Myru
+          1	Á Mølini
+          4	Á Mýratrøðni
+          3	Á Mýrini
+          4	Á Nesi
+          3	Á Oyrareingjum
+          3	Á Oyrunum
+          1	Á Reyni
+          4	Á Ryggi
+          1	Á Rókatrøð
+          1	Á Sandinum
+          2	Á Signabø
+          1	Á Skardi
+          1	Á Skælingi
+          1	Á Sondum
+          1	Á Soylugørðum
+          1	Á Stongum
+          1	Á Stórheyggi
+          1	Á Svínanesi
+          1	Á Teigi
+          1	Á Tippinum
+          2	Á Trøllanesi
+          1	Á Tungu
+          1	Á Túgvu
+          1	Á Túni
+          1	Á kleivini
+          1	Á Ørg
+          1	Áarbakkin
+          1	Áarberg
+          1	Áarbergsdalur
+          1	Áarbøur
+          1	Áardalur
+          2	Áargarður
+          3	Áargeil
+          2	Áargøta
+          1	Áarlið
+          1	Áarrás
+          1	Áarskarð
+          1	Áarstova
+          1	Áarstíggjafossur
+          2	Áartún
+          6	Áarvegur
+          1	Ágarður
+          1	Áin Svarta
+          1	Álaberg
+          1	Álvastakkur
+          1	Álvastígur
+          1	Álvsnebbi
+          4	Ánavegur
+          1	Ánir
+          2	Ánirnar
+          1	Ápramsvegur
+          1	Árdalsá
+          1	Árnaberg
+          1	Árnadalstindur
+          1	Árnadalur
+          2	Árnafjall
+          1	Árnafjarðar-tunnilin
+          3	Árnafjørður
+          1	Árnanes
+          1	Árndalsfjall
+          1	Árnfjarðarvegur
+          1	Ásugjógv
+          1	Ægishædd
+          1	Ærgisbrekka
+          1	Ærgisdalur
+          2	Ærgisá
+          1	Æðugøta
+          3	Æðuvík
+          1	Æðuvíkarvegur
+          1	Í Botni
+          1	Í Brekkum
+          1	Í Brekkuni
+          5	Í Bygdini
+          1	Í Búri
+          1	Í Fjalstrøðini
+          1	Í Fjósi
+          2	Í Fornanum
+          1	Í Fámara
+          2	Í Garðinum
+          5	Í Geilini
+          3	Í Gerðinum
+          1	Í Gjørðum
+          1	Í Gomlutrøð
+          1	Í Grønulág
+          1	Í Heiðatrøðini
+          1	Í Heygnum
+          5	Í Heygunum
+          1	Í Hoggarðinum
+          1	Í Horni
+          5	Í Hólinum
+          1	Í Hørg
+          2	Í Húsgarði
+          1	Í Húsi
+          1	Í Innistovu
+          1	Í Kelduni
+          1	Í Kerinum
+          1	Í Kongsbø
+          1	Í Koytu
+          1	Í Króki
+          1	Í Køkinum
+          1	Í Lambabyrgi
+          1	Í Leirum
+          1	Í Leivsgarði
+          1	Í Liðanum
+          1	Í Lon
+          1	Í Lonini
+          1	Í Lágabø
+          1	Í Lágbø
+          3	Í Lágni
+          1	Í Líðini
+          1	Í Miðstovuni
+          1	Í Mýrunum
+          4	Í Nesi
+          1	Í Nesinum
+          1	Í Niðristovu
+          1	Í Nýggjagørðum
+          1	Í Seyðageil
+          1	Í Soylu
+          2	Í Stong
+          1	Í Støð
+          1	Í Støðlunum
+          1	Í Støðni
+          2	Í Svanga
+          2	Í Syðrutoftum
+          1	Í Toftaryggjum
+          7	Í Trøðum
+          5	Í Túni
+          2	Í Túninum
+          2	Í Vika
+          1	Í Ónagerði
+          1	Íralíðgjógv
+          1	Írarók
+          1	Ísaksgøta
+          1	Ísaksskarð
+          3	Íslandsvegur
+          1	Íslendingatangi
+          1	Ítrottarhøllin á Kambsdali
+          2	Ítróttarhøllin
+          1	Ítróttarhøllin á Hálsi
+          1	Íðutangi
+          1	Ókyrrumúli
+          1	Ólavskirkjan
+          1	Ólavsstovuvegur
+          2	Ólivantsgøta
+          3	Óluvugøta
+          1	Ólvugøta
+          1	Ónavíksvegur
+          1	Ósabakkavegur
+          2	Ósavegur
+          1	Ósávegur
+          1	Óðinshædd
+          2	Óðinshædd (Posthúsið)
+          2	Øksnagerði
+          2	Øksnagjógv
+          1	Øraskarð
+          1	Øravík
+          1	Ørgurnar
+          1	Ørmansdalur
+          1	Ørvisfelli
+          2	Ørðavík
+          1	Ørðavíkarvegur
+          1	Øssursdrangur
+          1	Østrøm
+          1	Út á Bakka
+          3	Úti við Neyst
+          1	Úti á Bakka
+          5	Úti á Bø
+          2	Úti á Fløtum
+          1	Úti á Heyggi
+          1	Úti á Lending
+          2	Úti á Støð
+          1	Úti á Trøð
+          5	Úti í Bø
+          1	Úti í Dølum
+          1	Úti í Húsinum
+          1	Úti í Rætt
+          2	Úti í Støð
+          1	Útilív
+          3	Útistova
+          2	á Bakka
+          1	á Brekku
+          3	á Byrgi
+          1	á Byrgisheyggi
+          1	á Eiðinum
+          1	á Flat
+          1	á Fløttinum
+          1	á Gaddi
+          1	á Giljanesi
+          1	á Gøtuteigi
+          1	á Heyggi
+          1	á Heygunum
+          1	á Hillingatanga
+          1	á Kinn
+          1	á Kjalnesi
+          1	á Kneysum
+          2	á Lygnnesi
+          1	á Miðgerði
+          1	á Mýruni
+          1	á Norðurhædd
+          1	á Ryggi
+          1	á Rókini
+          1	á Signabø
+          1	á Svartafossi
+          3	á Sýnini
+          1	á Tjørnini
+          1	á Todnesi
+          1	á skúlatrøð
+          1	í Barmi
+          1	í Brekkuni
+          1	í Bygdini
+          1	í Dalinum
+          1	í Depli
+          1	í Garðinum
+          1	í Geilini
+          2	í Gerði
+          1	í Gerðunum
+          1	í Homrum
+          1	í Kass
+          1	í Líðini
+          1	í Sundhøvda
+          1	í Toft
+          8	í Tungu
+          1	í Urðini

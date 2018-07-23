@@ -1,0 +1,100 @@
+        241	Northeast Corridor
+        158	Pulaski Highway
+        134	Lancaster Pike
+        106	Coastal Highway
+         81	Main Street
+         76	Newport Gap Pike
+         74	Naamans Road
+         73	Summit Bridge Road
+         72	Wilmington Bypass
+         72	South Dupont Parkway
+         71	Red Lion Road
+         68	Concord Pike
+         66	Churchmans Road
+         63	South State Street
+         60	Delaware Avenue
+         59	Philadelphia Subdivision
+         59	New Churchmans Road
+         58	Interstate 95
+         57	West Newport Pike
+         57	Old Baltimore Pike
+         57	Dupont Boulevard
+         56	Korean Veterans Memorial Highway
+         53	Wrangle Hill Road
+         53	Stanton Christiana Road
+         53	New Castle Avenue
+         50	Sussex Highway
+         47	Faulkland Road
+         46	North Dupont Parkway
+         44	Philadelphia Pike
+         41	Salem Church Road
+         41	2nd Street
+         40	South College Avenue
+         39	Royal Farms
+         39	Kirkwood Highway
+         38	Silverside Road
+         38	Ogletown Road
+         38	Bear Corbitt Road
+         37	Wilmington and Western Railroad
+         37	Wawa
+         37	Marsh Road
+         36	Cherry Lane
+         35	Washington Street
+         35	Middletown Warwick Road
+         35	Heritage Shores Circle
+         33	Frenchtown Road
+         33	Delaware Turnpike
+         33	Centre Road
+         32	South Dupont Highway
+         32	Railroad Avenue
+         32	Pennsylvania Avenue
+         32	Maryland Avenue
+         32	Limestone Road
+         32	Delmarva Secondary
+         30	Ogleton-Stanton Road
+         30	Little River
+         30	Bay Road
+         30	Barley Mill Road
+         30	Airport Road
+         29	West 7th Street
+         29	Pine Street
+         29	East Chestnut Hill Road
+         29	Cape Henlopen State Park Junction Breakwater Trail
+         28	West Main Street
+         28	South Main Street
+         28	Lebanon Road
+         27	River Road
+         27	Marrows Road
+         27	Levels Road
+         27	Foulk Road
+         27	3rd Street
+         26	Lighthouse Road
+         26	Kennett Pike
+         26	Christiana Road
+         26	5th Street
+         26	1st Street
+         25	Walther Road
+         25	Paper Mill Road
+         25	North Walnut Street
+         25	North Market Street
+         25	Montchanin Road
+         25	Kings Highway
+         25	Elkton Road
+         25	Creek Road
+         25	Christiana Meadows
+         24	Shipley Road
+         24	Seashore Highway
+         24	Mall Road
+         24	Chapman Road
+         23	Point Branch
+         23	North Washington Street
+         23	McDonald's
+         23	Bunker Hill Road
+         22	Washington Avenue
+         22	Hercules Road
+         22	Choptank Road
+         22	Centerville Road
+         21	Wilmington and Northern Branch
+         21	Valley Road
+         21	School Lane
+         21	Rehoboth Avenue

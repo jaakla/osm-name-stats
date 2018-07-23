@@ -1,0 +1,100 @@
+       1583	Adirondack Park
+       1361	Main Street
+       1243	New York State Thruway
+        685	(u)
+        648	Southern Tier Expressway
+        647	LIRR Main Line
+        635	Broadway
+        574	Montauk Branch
+        559	Northern Boulevard
+        551	Church Street
+        517	Hillside Avenue
+        436	Park Avenue
+        428	Southern Tier Line
+        413	Mill Street
+        398	1st Avenue
+        393	River Road
+        390	McDonald's
+        362	Old Country Road
+        351	Elm Street
+        348	Dunkin' Donuts
+        344	Hylan Boulevard
+        342	Pine Street
+        342	Maple Avenue
+        338	West Main Street
+        338	Atlantic Avenue
+        330	Sunrise Highway
+        330	1st Street
+        328	Washington Avenue
+        319	Long Island Expressway
+        319	Adirondack Park Preserve
+        318	Adirondack Northway
+        312	Ridge Road
+        312	East Main Street
+        310	Bridge Street
+        306	West Street
+        305	Stewart's
+        304	North Main Street
+        301	!
+        292	Washington Street
+        289	Queens Boulevard
+        284	Maple Street
+        284	2nd Street
+        282	Taconic State Parkway
+        279	Oak Street
+        276	North Street
+        275	4th Avenue
+        273	BMT Brighton Line
+        272	Northeast Corridor
+        272	2nd Avenue
+        268	Starbucks
+        265	Rochester Subdivision
+        264	High Street
+        260	Mill Road
+        260	Central Avenue
+        259	South Street
+        253	Subway
+        253	Railroad Avenue
+        252	Selkirk Yard
+        252	Linden Boulevard
+        250	South Main Street
+        250	Prospect Street
+        249	Center Street
+        248	School Street
+        245	Clinton Street
+        239	Park Street
+        239	3rd Street
+        233	5th Avenue
+        229	Hempstead Turnpike
+        227	Spring Street
+        225	Lincoln Avenue
+        225	John Street
+        222	Water Street
+        218	3rd Avenue
+        216	School Number 4 (historical)
+        216	Atlantic Branch
+        214	State Street
+        213	Enlarged Erie Canal
+        211	Union Turnpike
+        209	Franklin Avenue
+        208	Ocean Parkway
+        208	Chase
+        205	Ocean Avenue
+        204	North Road
+        204	Cemetery Road
+        203	Rite Aid
+        201	Kings Highway
+        200	Freight Main Line
+        199	Rockaway Boulevard
+        199	Pearl Street
+        199	Front Street
+        199	Chili Commons
+        198	Smith Road
+        196	Grove Street
+        196	Canal Street
+        195	River Street
+        194	Orchard Street
+        194	Hudson Subdivision
+        193	Hudson Line
+        193	4th Street
+        192	School Number 2 (historical)

@@ -1,0 +1,5457 @@
+          1	"Immeuble Air France"
+          1	017
+          1	018
+          1	019
+          1	1
+          1	100Km Odiba
+          1	14 BIS
+          1	18 rue de Franceville
+          1	1A
+          1	1B
+          2	2
+          1	2 Manguiers
+          1	2#复线终点pk16环岛
+          1	2#路pk65营地
+          1	23 juin
+          1	2A
+          1	2B
+          2	3
+          1	3 Manguiers
+          1	3 tombes
+          1	32
+          1	32 samba Felix
+          1	354
+          1	3A
+          1	3B
+          1	4
+          1	4M
+          1	7
+          1	7-7 De Dany
+          1	7-7 de Dany
+          1	7A
+          1	7B
+          1	7C
+          1	7D
+          1	A - entrance
+          1	A pied
+          2	A tester
+          2	ADC Congo
+          1	AG1
+          1	AG2
+          1	AG3
+          1	AG4
+          1	AG5
+          1	AG6
+          1	AGC-Vie
+          1	APP / CO
+          1	ARPCE
+          1	ASKY
+          1	AVR
+          1	Aba
+          3	Abala
+          1	Abeya
+          1	Acacia hotel
+          1	Accident Train
+          1	Accueil
+          1	Adjaia
+          1	Adyalakété
+          1	Adzi
+          3	Aenue Delphin Poaty
+          1	Aeroport d'Ollombo
+          1	Afric'
+          1	Africa Fondation
+          1	Africaine des Travaux Publics
+          1	Afrilog
+          1	Afrimines Potash Corp
+          1	After
+          1	Agape
+          1	Agence AIRTEL
+          1	Agence Cogelo Loandjili
+          1	Agence océan du nord
+          1	Ago
+          1	Agricongo
+          1	Air Côte d'Ivoire
+          2	Air France
+          1	Airport Enyelle
+          3	Airtel
+          2	Airtel Congo
+          1	Akana
+          1	Akara
+          1	Akenande
+          1	Akou
+          1	Akélé
+          1	Al Wady
+          1	Aladin
+          1	Alastin
+          1	Alati
+          1	Aldo
+          1	Alhambra
+         12	Alima
+          1	Aliou Fatima
+          1	Allion
+          2	Allée de Makimba
+          1	Allée de Mamboma
+          1	Alpi Pietro et Fils
+          1	Alu Congo
+          1	Ambassade de Cuba
+          1	Ambassade de Guinée Equatoriale
+          1	Ambassade du goût
+          1	Ambomo
+          1	Amboto
+          1	Amical
+          1	Amphithéatre le Phénotype
+          1	Ananas
+          1	Ancien Poste Madingo
+          1	Ancien camp BGP
+          1	Ancien terminus bel aire
+          1	Ancienne piste Scirima
+          1	Ancienne usine
+          1	Andreas
+          1	Andzoin
+          1	Angama
+          1	Angoini
+          1	Angola
+          1	Angola (Embassy)
+          1	Animalia
+          1	Ankan
+          2	Antenne
+          1	Aqua vital
+          1	Aquarium
+          1	Arbre
+          1	Armand Mécanique
+          1	Arret Colonel
+          1	Arret Commandant
+          1	Arret Granvent
+          1	Arret Mavoungou
+          1	Arret Mfoubou
+          1	Arret Mupila
+          1	Arret Ngulu Mango
+          1	Arret Tom Papaye
+          2	Arrêt 753
+          1	Arrêt CHU
+          1	Arrêt Foyer de tié-tié
+          1	Arrêt Jardin
+          2	Arrêt Koulounda
+          2	Arrêt Lycée
+          2	Arrêt Mapassi
+          1	Arrêt manguier
+          2	Artisans
+          2	Asia
+          1	Asia Congo
+          1	Asoumondélé I
+          1	Asoumondélé II
+          1	Asoumondélé III
+          1	Assangou
+          1	Assemblee De Dieu Du Congo
+          1	Assemblée Nationale
+          1	Assiéné
+          1	Atcheké
+          1	Atlantic Palace
+          1	Atlantic Palace Hotel
+          2	Atlas Suites
+          1	Attention
+          1	Atémeya
+          1	Au bazard de Ngoyo
+          1	Au large
+          1	Auberge André
+          1	Auberge Bon Signe
+          1	Auberge Kimbeul
+          1	Auberge Km102
+          1	Auberge Londela-Kayes
+          1	Auberge Ndongui
+          1	Auberge Place Vendome
+          1	Auberge Ralco
+          1	Auberge Theresa
+          1	Auberge de Boko
+          1	Auberge de Madingou
+          1	Auberge de la Jeunesse
+          1	Auberge de la jeunesse
+          1	Auberge le Sultan
+          1	Aubeville
+          1	Aubeville Airport
+          1	Avebue Fia
+          1	Avene michel Kissangou
+          1	Aventin
+          1	Avenue Agostino Néto
+          3	Avenue Alexandre Honoré PAKA
+          1	Avenue Aloise Ngouma
+          1	Avenue Alphonse Demosso
+          1	Avenue Alphonse Koumba Diboka
+          2	Avenue Amilcar Cabral
+          1	Avenue Amilcar Cabrat
+          1	Avenue André Kissambou
+          2	Avenue André Milongo
+          1	Avenue André Méthode Tchikaya
+          2	Avenue Antoine Nganga
+          2	Avenue Antoinette Sassou Nguesso
+          1	Avenue Aouzou
+          1	Avenue Auxence Ickonga (ex Boulevard du Maréchal Lyautey)
+          2	Avenue Bapounou
+          1	Avenue Barbier
+          1	Avenue Barthélémy Bongad
+          1	Avenue Benoit Gatsongo
+          2	Avenue Benoît Loembet
+          8	Avenue Bitelika Ndombi
+          1	Avenue Blanche Gomez
+          2	Avenue Bruno Thcikaya
+          1	Avenue Buayenda
+          1	Avenue Cardinal Emile Biayenda (ex Avenue du Maréchal Foch
+          1	Avenue Cardinal Emile Biayenda (ex Foch)
+          1	Avenue Cdt Paulin Tchicaya
+          1	Avenue Colonel Louis Géorges Louembet
+          1	Avenue Costode Zacherie
+          1	Avenue De Kingambo
+          1	Avenue De la Raffinerie
+          2	Avenue Des Mâ Loango
+          2	Avenue Des premiers jeux Africains
+          3	Avenue Docteur Cordorelle
+          2	Avenue Dominique Batchi
+          2	Avenue Dr Denis Loemba
+          2	Avenue Dr Moé poaty
+          2	Avenue Du Havre
+          2	Avenue Du Mgr Theophile Mbemba
+          2	Avenue Edouard Renard
+          1	Avenue Eger Tati
+          1	Avenue Emmanuel Dadet
+          1	Avenue Energie
+          8	Avenue Fayette Tchitembo
+          1	Avenue Florent Tsiba
+          1	Avenue Foundou Foundou
+          1	Avenue François Charles
+          1	Avenue Fulbert Youlou
+          5	Avenue Félix Eboué
+          1	Avenue Georges Dumond
+          1	Avenue Gerar taty
+          2	Avenue Germain Bicoumat
+          1	Avenue Gustave Ondziel
+          1	Avenue Guy Macosso
+          1	Avenue HFO
+          1	Avenue Hector Pieterson
+          1	Avenue Henri N'Zambi
+          1	Avenue Isidore Mvouba
+          4	Avenue Jacques Opangault
+          2	Avenue Jean Claude Mavoungou
+          4	Avenue Jean Félix Tchikaya
+          1	Avenue Jean Marie Concko
+          5	Avenue Jean Pierre Thystère Tchikaya
+          1	Avenue Jean Vacherot
+          2	Avenue Jean-Jacques Mouaga
+          1	Avenue Jean-Jacques Mouaya
+          1	Avenue Jean-Marie Mavoungu
+          3	Avenue Joseph Sinald
+          2	Avenue Kalli Fayette
+          1	Avenue Kongo Michel
+          1	Avenue Kongo Moukouba
+          4	Avenue Koua
+          1	Avenue Lamine Gueye
+          1	Avenue Leonard Mavoungou
+          1	Avenue Linguissi Tchicaya
+          1	Avenue Louemba Tchilo
+          1	Avenue Louis Portella
+          6	Avenue Loutassi
+          1	Avenue Louzolo
+          1	Avenue Ma Loango
+          1	Avenue Makaya Dangui
+          1	Avenue Makosso Mensagou
+          2	Avenue Marcel Tchionovo
+         11	Avenue Marien Ngouabi
+          1	Avenue Massafi
+          1	Avenue Matsokota
+          5	Avenue Matsoua
+          2	Avenue Maurice MOUNTOU SAMBOU
+          1	Avenue Mgr Edouardo A Muaca
+          3	Avenue Mgr Ernest Kombo
+          2	Avenue Moe N'déndé
+          2	Avenue Moe Tchiapi
+          2	Avenue Monseigneur Augouard
+          3	Avenue Moussa Eta
+          2	Avenue Moussa Kanda
+          1	Avenue Moé Kaat Matou
+          3	Avenue Moé Prat
+          1	Avenue Moé Tchiboulou
+          2	Avenue Moé Telli
+          1	Avenue Moé Vangoula
+          1	Avenue Mpanzou
+          1	Avenue N'Gouédi
+          1	Avenue N'Kola
+          4	Avenue N'Teta
+          1	Avenue Ndéndé Gabon
+          3	Avenue Nelson Mandela
+          1	Avenue Ngandou
+          3	Avenue Ngoumbi
+          2	Avenue Ngueli Ngueli
+          1	Avenue Nkanka Prosper
+          1	Avenue Nkoula Petipois
+          1	Avenue Nkusu
+          1	Avenue Ntoumbo
+          2	Avenue Okassa
+          3	Avenue Oline
+          1	Avenue Orsi
+          3	Avenue Pascal Lissouba
+          1	Avenue Paul Ontsietsieyi
+          1	Avenue Paul Taty
+          1	Avenue Poaty Loemba
+          2	Avenue Pointe à Pitre
+          1	Avenue R. Poincarré
+         10	Avenue Raymond Paillet
+          3	Avenue Richard Bongo
+          1	Avenue Rigadin Makoso Tchiapi
+          3	Avenue Savorgnan de Brazza
+          5	Avenue Schoelcher
+          4	Avenue Simon Kimbangou
+          1	Avenue Stéphane Tchichellé
+          1	Avenue Tchibanda
+          1	Avenue Tchibanga
+          1	Avenue Tchikaya U'Tamsi
+          3	Avenue Tchikoungoula
+          4	Avenue Tchingobo
+          1	Avenue ToulouKanou
+          1	Avenue Verrerie
+          3	Avenue Yacinthe Bakanga
+          2	Avenue Zacharie Costade
+          1	Avenue Zacharie Taty
+          1	Avenue bizoulou
+          2	Avenue d'Alger
+          2	Avenue de Bolobo
+          3	Avenue de Brazza
+          3	Avenue de France
+          3	Avenue de Guinée
+          1	Avenue de Mafouka
+          4	Avenue de Matendé
+          2	Avenue de Moscou
+          2	Avenue de Mouabe
+          1	Avenue de Pointe-Noire
+          2	Avenue de l'Amitié
+          8	Avenue de l'Auberge Gascogne
+          2	Avenue de l'Indépendance
+         10	Avenue de l'O.U.A.
+          1	Avenue de l'Orstom
+         11	Avenue de l'indépendance
+          1	Avenue de l'émeraude
+          1	Avenue de la 2e Division Blindée
+          5	Avenue de la Base
+          1	Avenue de la Bouenza
+          1	Avenue de la Bouonza
+          1	Avenue de la Caravane
+          6	Avenue de la Liberté
+          1	Avenue de la Loubomo
+          1	Avenue de la Meteo
+          3	Avenue de la Paix
+          2	Avenue de la Patte D'Oie
+          6	Avenue de la République
+          1	Avenue de la Révolution
+          1	Avenue de la Tsiémé
+          3	Avenue des 16ème
+          2	Avenue des Anciens Enfants de Troupe (AET)
+          1	Avenue des Collines
+          1	Avenue des Eglises
+          4	Avenue des Pilotes
+          2	Avenue des Trois Francs
+          1	Avenue des Trois Malonga
+         11	Avenue des Trois Martyrs
+          2	Avenue des caravanes
+          1	Avenue des palmiers
+          3	Avenue des premiers jeux Africains
+         12	Avenue des trois Martyrs
+          1	Avenue du 14 Août 1963
+          1	Avenue du 19 février 1969
+          3	Avenue du 23 Septembre 1963
+          2	Avenue du 5 février
+          1	Avenue du CHAILLU
+          1	Avenue du Caire
+          1	Avenue du Congo Ocean
+          2	Avenue du District
+          2	Avenue du Ghana
+          4	Avenue du Général Alfred Raoul
+          1	Avenue du Général de Gaulle
+          1	Avenue du Mali
+          1	Avenue du Marché
+          2	Avenue du Mayombe
+          2	Avenue du Niari
+          1	Avenue du Pool
+          1	Avenue du Sergent Malamine
+          2	Avenue du Temple
+          3	Avenue du général De Gaulle
+          2	Avenue du marché
+          1	Avenue les Mandous
+          1	Avenue okamamoue
+          1	Avenue tombe
+          2	Avenur Moussa Kanda
+          1	Avis
+          1	Azur International Hotel
+          1	Aéroclub
+          1	Aérodrome de Bomassa
+          1	Aérogare
+          1	Aéroport International Agostinho-Neto
+          2	Aéroport International Maya-Maya
+          1	Aéroport Ngot Nzoungou de Dolisie
+          1	Aéroport de Ouesso
+          1	Aéroport de Sibiti
+          1	Aïna
+          1	B - Exit
+          1	B - entrance
+          1	B - exit
+          1	B13 shop
+          1	BAKER
+          1	BBH
+          1	BCEAO
+          2	BCH
+          3	BCI
+          1	BESCO
+          4	BGFI
+          2	BGFI Bank
+          1	BI-CLUB
+          1	BOSCONGO
+          1	BRGM
+          1	BTA
+          1	BTB
+          1	BUROTEC
+          1	Bac Niari
+          2	Bacongo
+          1	Bada
+          1	Bado
+          1	Bagama
+          1	Bagota
+          1	Baie de Lekonde
+          3	Bailly
+          1	Baily
+          1	Baka Gbine
+          2	Bakoukouyas Street
+          1	Baloumbou
+          1	Balémon
+          3	Bambama
+          1	Bambous
+          1	Banana
+          1	Bananes Chez Jean-Pierre
+          1	Banda
+          1	Banda-Kaye
+          1	Bandembo
+          1	Bandundu
+          1	Banga
+          1	Banga Cayo
+          1	Bangamba Airport
+          1	Bangando
+          1	Banginga
+          1	Bangolo
+          1	Bankousou
+          1	Banque BCI
+          1	Banque Postal Du Congo
+          1	Banque Postale du Congo
+          1	Banque Sino-Congolaise pour l'Afrique (BSCA)
+          1	Banque alimentaire de Mboukou
+          1	Banque de Développement de l'Afrique Centrale
+          1	Banque des Etats de l'Afrique Centrale
+          1	Bantiete
+          1	Banza-Kombe
+          1	Baobab
+          1	Baobab Nanga
+          1	Baobab de Brazza
+          1	Baobabs amoureux
+          2	Bar
+          1	Bar under mango tree
+          1	Bara
+          1	Barrage Diboulou
+          1	Barrage de Liouesso
+          1	Barrage de Moukoukoulou
+          1	Barrage de Sounda
+          1	Barriere Presidentielle
+          1	Bas Fleuri
+          1	Bas Kouilou
+          1	Bas-Congo
+          2	Bas-Kouilou
+          1	Base ACTEMIUM
+          1	Base Aeroport
+          1	Base Aéroport
+          1	Base Bourbon
+          1	Base Djeno
+          1	Base EDVT
+          1	Base Escom
+          1	Base Industrielle
+          1	Base SATF
+          1	Base SPIE OGS
+          1	Base SPIE OGS 2
+          1	Base de vie BGP
+          1	Basilique Sainte-Anne
+          1	Batanga
+          1	Batignolles
+          1	Beach de Brazzaville
+          3	Bek
+          2	Bela
+          1	Belgium (Embassy)
+          1	Bellelo
+          1	Beltrando
+          1	Bembo Mboté
+          1	Bendere
+          1	Bercy
+          1	Bernabé
+          1	Bgfi Bank (Gd Marche)
+          1	Bibanga
+          1	Bibaye
+          1	Bibliothèque Universitaire
+          1	Bidondo
+          1	Bihoua
+          1	Bikabisende
+          1	Bikaka
+          1	Bikie
+          1	Biko
+          1	Bikondo
+          1	Bikondolo
+          1	Bikouka
+          3	Bilala
+          2	Bilinga
+          1	Bimbakassa
+          1	Bimoussiau
+          1	Binga
+          1	Bioko
+          1	Biokono
+          1	Bisala
+          1	Bissindzi
+          1	Bissongo
+          1	Bissoni
+          1	Bistrot de la Gare
+          1	Bitambala
+          1	Bitolo
+          1	Bivela
+          2	Bivela Foralac
+          1	Bivouac11
+          1	Bling Bling
+          3	Bloc 1
+          3	Bloc 2
+          3	Bloc 3
+          1	Bloc 8 A
+          1	Bloc 8 B
+          1	Bloc 8 C
+          1	Bloc 8 D
+          1	Blé Sucré
+          1	Bobanga
+          1	Bobeka
+          1	Bodissa
+          1	Bogandji
+          1	Bois
+          1	Bois OK
+          3	Boko
+          1	Boko Songo
+          2	Boko-Songho
+          1	Bokouélé
+          2	Bold
+          1	Bolingo
+          1	Bolobo
+          1	Bololo
+          1	Bolozo
+          2	Bomassa
+          1	Bomba Ngay
+          1	Bombanda
+          1	Bombo
+          1	Bona
+          2	Bondi
+          1	Bondo
+          1	Bonga
+          1	Bongalou
+          1	Bonsoko
+          1	Border Barrier
+          2	Border Bush Camp
+          1	Border Cameroon - Congo
+          1	Border Cameroon - Gabon
+          1	Border Central African Republic - Cameroon
+          1	Border Checkpoint Cameroon
+          2	Border Congo - Cameroon
+          3	Border Congo - Central African Republic
+         38	Border Congo - Gabon
+         11	Border Gabon - Congo
+          1	Borne ?
+          1	Borne Astro IGN Angao
+          1	Borne Astro IGN Anka
+          1	Borne Astro IGN Ankan
+          1	Borne Astro IGN Biokono
+          1	Borne Astro IGN Bouligi
+          1	Borne Astro IGN Boundji
+          1	Borne Astro IGN Gamboma
+          1	Borne Astro IGN Ingoini Moké
+          1	Borne Astro IGN Kakamoeka
+          1	Borne Astro IGN Kounzoulou Moké
+          1	Borne Astro IGN Lefini
+          1	Borne Astro IGN Loubilika
+          1	Borne Astro IGN Mpouya
+          1	Borne Astro IGN Ndouomi
+          1	Borne Astro IGN Ngabe
+          1	Borne Astro IGN Nsa
+          1	Borne Astro IGN Okiele
+          1	Borne Diosso S.H
+          1	Borne Frontière
+          1	Borne Frontière A
+          1	Borne Frontière B
+          1	Borne Frontière C
+          1	Borne Frontière D
+          1	Borne Frontière E
+          2	Borne Frontière F
+          2	Borne IGN Boulingi
+          1	Borne IGN Dolisie
+          2	Borne IGN Doumanga
+          1	Borne IGN Les Saras
+          1	Borne III
+          1	Borne IV Hinda
+          1	Borne Kayes
+          1	Borne Kousou Kanbana
+          1	Borne Monts Mbengi
+          1	Borne NGA Kakamoeka
+          1	Borne SPAFE 128
+          1	Borne SPAFE 129
+          2	Borne SPAFE 130
+          1	Borne SPAFE 131
+          1	Borne SPAFE 132
+          1	Borne SPAFE 329
+          1	Borne SPAFE 330
+          1	Borne SPAFE 52
+          1	Borne Titi
+          1	Borne Tunnel du Bamba
+          1	Borne VI
+          1	Borne X
+          1	Borne XII
+          2	Borne XIII
+          1	Borne XIV
+          1	Borne XIX
+          1	Borne XVI
+          2	Borne XVII
+          1	Borne XVIII
+          1	Borne XX
+          2	Borne XXII
+          1	Borne XXIV
+          1	Borne XXIV bis
+          1	Borne XXIX
+          1	Borne XXV
+          1	Borne XXVI
+          1	Borne XXVIII
+          1	Borne XXX
+          1	Borne XXXI
+          1	Borne XXXII
+          1	Borne XXXIV
+          1	Borne Yoyo
+          1	Borne astronomique Kola
+          1	Bos Congo
+          1	Bosua I
+          1	Botatela
+          1	Bouala Bantou
+          1	Bouala Mfilou
+          3	Bouansa
+          1	Bouara +
+          1	Boubassam
+          1	Boucks
+          2	Boudianga
+          1	Boudou
+          1	Boudouhou
+          2	Boudzouka
+          1	Bouengué
+          4	Bouenza
+          1	Bouenza-Assoko-Street
+          1	Bouenzé
+          1	Boueti
+          2	Bougou
+          1	Boukagni-Congotali
+          1	Boukomassi
+          1	Boukoulibouali
+          1	Boukoumoukongo
+          1	Boukoupaka
+          1	Boulamaletchi
+          5	Boulangerie
+          1	Boulangerie Benove de Siafoumou
+          1	Boulangerie Moulin Roouge 2
+          1	Boulangerie Mpele
+          1	Boulangerie Patisserie
+          1	Boulangerie Patisserie L'Orchidée
+          1	Boulangerie des rêves
+          1	Boulangerie du Chateau d'eau
+          1	Boulangerie du Plateau
+          1	Boulangerie le Moulin
+          1	Boulangerie les délices de Brazza
+          3	Boulevard Alfred Raoul
+          1	Boulevard Bitelika Dombi
+          2	Boulevard Denis Sassou Nguesso
+         11	Boulevard Denis Sassou-Nguesso
+          1	Boulevard Des Mâ Loango
+          1	Boulevard Jacques Bouity
+          1	Boulevard Louis Portella
+          2	Boulevard Moé Makosso
+          6	Boulevard de Sounda
+          2	Boulevard de la ceinture
+          1	Boulevard du 13 Août 1963
+          1	Boulevard du 14 Août 1963
+          1	Boulevard du 15 Août 1963
+          9	Boulevard du Général Charles de Gaulle
+          2	Boulevard du Maréchal Lyautey
+          1	Boulingi
+          1	Boulou Ngimbi
+          1	Bouloukombo
+          1	Boum Boum
+          1	Boumaga
+          1	Boumango
+          2	Boumba
+          1	Boumba-et-Ngoko
+          1	Boumbou
+          2	Bounda
+          1	Boundi
+          3	Boundji
+          2	Boundji Airport
+          1	Boungolo
+          1	Boungoto
+          1	Boungou
+          1	Boungounza
+          1	Bounza
+          1	Bourbon Offshore Surf Guest-House
+          1	Bourou Moukouti
+          1	Bourse du travail
+          1	Bousamba
+          2	Bousoumouna
+          1	Boutila
+          1	Bouyala
+          1	Boyelle
+          1	Boyellé
+          1	Boyoka
+          1	Bralico
+          1	Brasserie du Congo
+          1	Brazil (Embassy)
+          1	Brazil Club
+          1	Brazza Hotel
+          3	Brazzaville
+          1	Brazzaville - Pointe-Noire
+          1	Brazzaville Beach Hotel
+          1	Brazzaville-Kinshasa
+          1	Briques Ling Ye Sarl
+          1	Briqueterie
+          1	Buburu I
+          1	Buburu II
+          1	Buckingham Palace
+          1	Buddha Bar
+          1	Bureau SNE
+          1	Bureau Securite
+          1	Bureau Sécurité
+          1	Bureau UNHCR de coordination de Bétou
+          1	Bureau d'Etude et de Contrôle des Travaux Cadastraux
+          1	Bureau gestionnaire du camp
+          1	Burostock
+          1	Burotop
+          1	Bush Camp aerodrome
+          2	Bush camp
+          1	Byblos
+          1	Bétou
+          1	C.E.G Moê Poaty
+          1	C.E.G. Central
+          1	C.E.G. Nganga Edouard
+          1	CAB
+          1	CAPFOR unité de production
+          1	CASANOVA
+          1	CAVE chez RAI
+          1	CBS dépôt de ciment
+          1	CCEM ESPÉRANCE
+          2	CCF
+          1	CEG 30 Mars 1970
+          1	CEG Agostino Neto
+          1	CEG Angola Libre
+          1	CEG Fraternité
+          1	CEG Pierre Ntsiete
+          1	CEG RAYMOND MOUTOU
+          1	CEG de Bihoua
+          1	CEG de Diosso
+          1	CEG de Hinda
+          1	CEG de Ouésso
+          1	CEG de Sibiti
+          1	CERGEC
+          1	CETM
+          2	CFAO
+          1	CFCO
+          1	CFCO Bilinga - Dolisie
+          1	CFCO Pointe Noire - Brazzaville
+          1	CHU
+          1	CIB
+          1	CIDES Congo
+          1	CIESPAC
+          1	CMI Congo
+          1	CMS ENI Congo
+          1	CMS TEPC
+          1	CNCS
+          1	CNLS
+          1	CNSS
+          1	CNSS de Fouks
+          1	COG Luther King
+          1	COGELO
+          1	COGELO Direction Départementale du Kouilou
+          1	COGELO Fond Tié-Tié
+          1	COMILOG Cableway
+          1	COMILOG Mbinda - Mont Belo
+          1	CONGO Malembé
+          1	CORAF
+          1	CS Expedit
+          1	CTI
+          1	CUAMED
+          1	Ca metre
+          2	Cabane
+          1	Cabinda
+          1	Cabinet Bissongo
+          1	Cacao
+          1	Cachet Rouge
+          1	Cafe Torino
+          1	Café de Paris
+          1	Caisse de Brazza centre
+          1	Camara
+          1	Cambala
+          1	Cameroon (Embassy)
+          1	Cameroun
+          2	Cameroun — Congo
+          2	Camp
+          1	Camp 15 Août
+          1	Camp 23
+          1	Camp Foralac Matalila
+          1	Camp Forestier
+          1	Camp Forestiers
+          1	Camp HELP Triangle
+          1	Camp Ikpembele
+          1	Camp MAG
+          1	Camp Militaire
+          1	Camp SIC Tié-Ttié
+          1	Camp Sic Tié-Tié
+          2	Camp chinois
+          1	Campement
+          1	Campement Adel
+          5	Campement forestier
+          1	Canadian Airways COngo
+          1	Canal+ shop
+          1	Capable
+          1	Capitaine du Ferry
+          1	Capital Hotel
+          1	Carnivore
+          1	Carosette Mu. Ubulu
+          1	Carrefour 14
+          1	Carriere de Mpatra
+          1	Carrière
+          1	Carrière MVeto
+          1	Carrière de Granulats
+          1	Carrière de Latérite
+          1	Carrière de Loulabi
+          1	Carrière de Nkougni
+          1	Case Du Parti
+          1	Case de Gaulle
+          1	Case du Parti
+          1	Caserne du Moulende
+          1	Cases
+          1	Cases de Matombi
+          2	Casino
+          1	Cathédrale Notre Dame de l'Asomption
+          1	Cathédrale Sacré-Coeur
+          1	Cave à vins
+          1	Cayo
+          1	Celio
+          1	Central
+          1	Centrale
+          1	Centre Commercial Grand Fleuve
+          1	Centre Culturel Russe
+          1	Centre Hospitalier Universitaire de Brazzaville (CHU-BZV)
+          2	Centre International de Conférence de Kintélé
+          1	Centre Psychiatrique du CHU
+          1	Centre Sportif de Makélékélé
+          1	Centre agricole
+          1	Centre de Formation ILOGS
+          1	Centre de Formation Servtec
+          1	Centre de Sante
+          1	Centre de Santé Intégré
+          1	Centre de Santé Intégré Charles MININGOU
+          1	Centre de Santé Intégré de Bissongo
+          1	Centre de Santé intégré de Ngoyo
+          1	Centre de lecture les AS
+          1	Centre de santé de Dembouanou
+          1	Centre de santé de Ikalou
+          1	Centre de santé intégré de Kakamoeka
+          1	Centre de santé intégré de Manzi
+          1	Centre de santé intégré de Mbota
+          1	Centre de santé intégré de Mpita
+          1	Centre de santé intégré de Tchimbamba
+          1	Century Motors
+          1	Cercle Africain
+          1	Cercle Bouali
+          1	Cercle culturel
+          1	Cesse
+          1	Ch. Major Leka
+          1	Chaine du Kiloundou
+          1	Chambre de Commerce, d'industrie, d'agriculture et des mét
+          1	Chambre de commerce
+          1	Chaminade
+          1	Champ pétrolier Tilapia
+          1	Chantier BOKOKO
+          1	Chantier Brazzaville Mall
+          1	Chantier Hôpital Général de Kinkala
+          1	Chantier Hôpital des Armées
+          1	Chantier Mémorial de l'Histoire
+          1	Chapet Congo
+          2	Charbon
+          2	Charden Farell
+          1	Charlemagne
+          1	Chateau BZ_04
+          1	Chateau d eau
+          2	Chevron
+          1	Chez Ahmed
+          1	Chez Aimé
+          1	Chez Bea
+          1	Chez Belle-famille
+          1	Chez Cornelia
+          1	Chez Denise
+          1	Chez Elisa Embiance
+          1	Chez Gaspard
+          1	Chez Mère José
+          1	Chez Noelly
+          1	Chez Prisca
+          1	Chez Stella
+          1	Chez Stella La Base
+          1	Chez Tata
+          1	Chez Tonton Richard
+          2	Chez Wou
+          1	Chez edo
+          1	Chez le Boss
+          1	Chez les Petits
+          1	Chez maman nono
+          1	Chez simon
+          1	Chicha Bar
+          1	Chimie Afrique Congo
+          1	China (Embassy)
+          1	Chinois
+          1	Christ House
+          1	Chute Catherine
+          1	Chute de Madiaba
+          1	Chute de Tchiaki
+          2	Chutes Bari
+          1	Chutes Chollet
+          1	Chutes de Dimani
+          1	Chutes de Lekoulou
+          1	Chutes de Mougounda
+          1	Chutes de Nki
+          1	Chutes de la Boubissi
+          1	Chutes de la Loufoulakari
+          2	Chutes du Loufoulakari
+          4	Château d'eau
+          1	Cie Pastorale
+          2	Cimetiere
+          1	Cimetière Itatolo
+          1	Cimetière Makosso
+          1	Cimetière Mongo Komba
+          1	Cimetière Mont Komba
+          2	Cimetière Nanga
+          1	Cimetière de Diosso
+          1	Cimetière de Les Saras
+          1	Cimetière de Loango
+          1	Cimetière de Tchimani
+          1	Cimetière de Tchimbanmba
+          1	Cimetière de Tsila
+          1	Cimetière de la Tsiémé (Grand)
+          1	Cimetière de la Tsiémé (Petit)
+          1	Cimetière familial NGANTSOUE
+          1	Cimitière Moupepe
+          1	Cirque Nsenzé
+          2	Cirque de Boueti
+          1	City Sport
+          1	Class
+          1	Clef minutes codée
+          2	Clemente
+          1	Clinique Guenin
+          1	Clinique Hirondelle
+          1	Clinique Louise Michel
+          1	Clinique Medicale Jesus Christ de Nazareth
+          1	Clinique Ocean
+          1	Clinique Pasi
+          1	Clinique Pasteur
+          1	Clinique chinoise
+          1	Clinique churgico du plateaux
+          1	Clinique du Château d'eau
+          1	Clinique les Oliviers
+          1	Clinique médicale Louis Pasteur
+          1	Clos Songolo
+          1	Club Nautique
+          1	Club Pétrolier
+          1	Club des Gorges
+          1	Club des gorges
+          1	Club hippique
+          1	Coiffeur Chez Eric
+          1	Col du Bamba
+          1	College Hamar
+          1	Colline - Vue sur lac
+          1	Collège
+          1	Collège KM4
+          1	Collège KWAME KRUMA
+          1	Collège d'Owando
+          1	Collège de Les Saras
+          1	Collège jean Felix Tchicaya
+          1	Collège technique Moukoundzi-Ngouaka
+          2	Comba
+         35	Comilog
+          1	Cominco
+          1	Comissariat Lumumba
+          1	Comissariat de police de Mpaka
+          2	Commissariat
+          1	Commissariat Mpongo Mpoukou
+          1	Commissariat Ngoyo
+          1	Commissariat Tsila
+          1	Commissariat de Diata
+          1	Commissariat de Hinda
+          1	Commissariat de Loandjili
+          1	Commissariat de Mongo Kamba (Vindoulou)
+          1	Commissariat de NKayes
+          1	Commissariat de Police de Moutamba Tsimba
+          1	Commissariat de l'OCH
+          1	Communauté Rasta du Congo
+          1	Complexe Nautique
+          1	Complexe Sportif de Kintelé
+          1	Complexe scolaire Ilama
+          1	Complexe scolaire Les Biquettes
+          1	Complexe scolaire les Biquettes
+         12	Congo
+        129	Congo - Océan
+          1	Congo Gold
+          1	Congo Malembé
+          1	Congo Mining
+          2	Congo Pharmacie
+          1	Congo Pneus
+          2	Congo Telecom
+          1	Congo Toles
+          1	Congo Tubes
+          1	Congo-Radio-Cathédral
+          1	CongoGold
+          1	Congotelecom
+          5	Conkouati
+          1	Conny's academy
+          1	Consul de France
+          1	Consulat Honoraire d'Italie
+          1	Consulat de France
+          1	Consulat du Mali
+          1	Coraf
+         12	Corniche
+          1	Cote Mondaine
+          1	Cote Mondaine 2
+          1	Cote Sauvage
+          1	Cote Sauvage 2
+          1	Cote Sauvage 3
+          1	Cotivindou
+          1	Couple Ngakosso (Domaine)
+          1	Cours d'appel de Pointe-Noire département du kouilou
+          4	Credit du Congo
+          1	Credit du Congo grand marché Castador
+          1	Creperie
+          1	Croix Rouge Congolaise - Siège Départementale Bouenza
+          1	Croix du Sud
+          1	Croix du sud
+          1	Crystal
+          4	Crédit du Congo
+          1	Crédit du Congo grand
+          1	Customs Cameroon
+          1	Customs Congo
+          1	Customs Control
+          2	Cuvette
+          2	Cuvette-Ouest
+          1	Cyber cafe fibre
+          1	Cycle Kouilou
+          1	DAB Ecobank VISA
+          1	DAUCGTF
+          1	DD du Cadastre
+          1	DDATJ
+          1	DE-NETWORK
+          1	DECTP (Direction des Examens et Concours)
+          1	DG de la Police
+          1	DG des Affaires Foncières, du Cadastre et de la Topographi
+          1	DG des Douanes et des Droits Indirects
+          1	DG des Impôts et des Domaines
+          1	DG du Tourisme
+          1	DGH
+          1	DGTT (Dir. Gén. Transports Terrestres)
+          2	DHL
+          1	DIRECTION GÉNÉRALE AIRTEL CONGO
+          1	DJENO-SBM
+          1	DP1
+          1	DP2
+          1	DP3
+          1	DP4
+          1	DRTV
+          1	DS
+          1	DSA
+          1	DSB
+          2	Da Vinci
+          1	Dakar
+          1	Dalle de Grès Quartzitique
+          2	Dandi
+          1	Darnah
+          1	Dembo
+          2	Dembouanou
+          1	Democratic Republic of Congo (Embassy)
+          1	Denganda
+          1	Derick parking
+          2	Derrick
+          3	Deuxième Sortie Nord
+          1	Diamant
+          1	Diambala
+          1	Diambou-Fouana
+          1	Diata
+          1	Diatakolo
+          1	Diboueta
+          1	Diboungou
+          1	Dibouta
+          1	Dienga
+          1	Dietsman
+          2	Dihesse
+          1	Dihetso
+          1	Dihétso
+          1	Dikokele
+          1	Dilou Manba
+          1	Dimebeko
+          1	Dimina
+          1	Dimona
+          1	Dimonika
+          1	Dingi-Malembe
+          1	Diocese
+          1	Diosso
+          1	Diplomate
+          1	Diplomates
+          1	Direction Des Examens et Concours
+          1	Direction Dom Helder Camara
+          1	Direction Servtec Congo
+          1	Direction commerciale et financière du port
+          1	Direction départementale de la santé de Pointe-Noire
+          1	Direction technique de la SNDE
+          1	Directions des voiries
+          1	Disiala
+          2	Dispensaire
+          1	Dispensaire Armée du Salut
+          1	Dispensaire de Mila-Mila
+          1	Dispensaire de Tenrikyo
+          3	Ditadi
+          1	Ditouadila
+          1	Divenié
+          1	Divénié
+          7	Dja
+          1	Dja-et-Lobo
+          2	Djambala
+          1	Djambala Airport
+          1	Djembe
+          1	Djeno
+          1	Djinji
+          4	Djiri
+          8	Djoua
+          1	Djouah
+          1	Djouama
+          9	Djoué
+          1	Dola
+          2	Dolisie
+          1	Dom Helder CAMARA
+          1	Dom Helder Camara
+          1	Dom1
+          1	Dom2
+          1	Dom3
+          1	Dom4
+          1	Dom5
+          1	Domicile
+          1	Domicile Cyriaque YALA
+          1	Domicile Maman Thérèse
+          1	Domicile Me Sandra Larissa Mankou
+          1	Domicile Messilah Nzoussi
+          1	Domicile Mr Jespe Yebas Bakalas
+          1	Domicile Mr Vangsy YALA
+          1	Domicile Mr Will Bardon
+          1	Domicile de JC Ngniolouo
+          1	Domicile de Leaticia YALA
+          1	Domicile de Mr Hassan Vangsy YALA
+          1	Domicile de Mr MABOUNDA
+          1	Dongo
+          3	Dongou
+          1	Douane
+          1	Doubouma
+          1	Doubvolo
+          1	Doufouma
+          1	Douguila
+          2	Doumanga
+          1	Doumanga 3
+          1	Doumani
+          1	Doumbi
+          1	Doungou
+          1	Dounguila
+          1	Doussala
+          1	Dovi Labrousse
+          1	Dreams
+          1	Dynasty
+          2	Dzanga
+          1	Dzanga sector
+          1	Dzanga-Ndoki National Park
+          1	Dzatakola
+          2	Dziba-Dziba
+          4	Dziélé
+          1	Délices de France
+          2	Délégation de l'Union européenne
+          1	Dépot de Carburant
+          1	Député Madingou
+          1	Dépôt DMC Congo
+          1	Dépôt Mayo
+          1	Dépôt boissons, grossiste
+          1	ECO-OIL ENERGIE S.A
+          1	ECONOMA
+          2	ECair
+          1	EDTV
+          1	EDVT Home
+          1	EDVT Socofran
+          1	EEC Site KISSILA
+          1	EEC, Mont Sinai
+          1	EFM Multi-services Congo
+          1	EGN Ecole de la Gendarmerie nationale Congolaise
+          2	ELECINCOM
+          1	ENAM
+          2	ENI
+          1	ENI Compound
+          1	ENI Offshore
+          2	ENICongo
+          1	EPAC
+          2	ESI Congo
+          2	ETC
+          2	Eaux et forets
+          1	Eaux et forêts
+          1	Ebani
+          1	Ebani camp
+          1	Eben Ezer
+          1	Ebene Diva
+          1	Ebina
+          1	Ebou
+          1	Eclise Evangeliste de Zanaga
+          1	EcoBank Agence Lumumba
+          5	Ecobank
+          1	Ecole
+          1	Ecole 13 Février
+          1	Ecole 19 Septembre 1965
+          1	Ecole 28 juin 1969
+          1	Ecole 31 Décembre 1969
+          1	Ecole Alcar
+          1	Ecole Anne-Marie Javouhey
+          1	Ecole Antoine Batou
+          1	Ecole Bilingue The Rainbow
+          1	Ecole Bilingue The Rainbow 2
+          1	Ecole Catholique
+          1	Ecole Charlemagne
+          1	Ecole Charles MININGOU
+          1	Ecole Conférence
+          1	Ecole Consulaire "Charlemagne"
+          1	Ecole Dimebeko
+          1	Ecole Emmanuel Dadet
+          1	Ecole Galnel Mboukou
+          1	Ecole Internationale Les Anges
+          1	Ecole La Loeme
+          1	Ecole Leon Bitoumbou
+          1	Ecole Makayabou
+          1	Ecole Marc MAYINGA
+          1	Ecole Minu
+          1	Ecole Ndaka Soussou
+          1	Ecole Pierre Ndontala
+          1	Ecole Primaire Emeri Patrice Lumuba
+          1	Ecole Primaire Marien Ngouali
+          1	Ecole Primaire de Diosso
+          1	Ecole Primaire de Les Saras
+          1	Ecole Primaire de Mpita
+          1	Ecole Primaire de Nanga
+          1	Ecole Primaire de Voungou
+          1	Ecole Primaire de Yanga
+          1	Ecole Primaire31 juillet 1963
+          1	Ecole Saint Exupéry
+          1	Ecole Saint Joseph
+          1	Ecole Sans Pareil
+          1	Ecole Sophia
+          1	Ecole St-Jean-Baptiste
+          1	Ecole Tchibanda
+          1	Ecole catholique
+          1	Ecole d'Ingolo
+          1	Ecole d'Ingolo 2
+          1	Ecole de Bas-Kouilou
+          1	Ecole de Bioko
+          1	Ecole de Boudianga
+          1	Ecole de Dembouanou
+          1	Ecole de Diambou-Fouana
+          1	Ecole de Djeno
+          1	Ecole de Kikonde
+          1	Ecole de Kissoki
+          1	Ecole de Likouala
+          1	Ecole de Louvoulou
+          1	Ecole de Mango Tandou
+          1	Ecole de Mapati
+          1	Ecole de Mikamba
+          1	Ecole de Mila-Mila
+          1	Ecole de Mongo
+          1	Ecole de Moujondi Yama
+          1	Ecole de Nzassi
+          1	Ecole de Ossiba
+          1	Ecole de Siafoumou
+          1	Ecole de Tchimbamba
+          1	Ecole de Tchingoli
+          1	Ecole du Marché
+          1	Ecole internationale DELABORIEUX
+          1	Ecole primaire
+          1	Ecole primaire Balou Coston
+          1	Ecole primaire Kayes poste
+          1	Ecole primaire Mateve
+          1	Ecole primaire Mengo
+          1	Ecole primaire de Bamba
+          1	Ecole primaire de Kakamoeka
+          1	Ecole primaire de Loyo
+          1	Ecole primaire de Soulou
+          1	Ecole primaire de Youbi
+          1	Ecole primaire de moukondo
+          5	Ecole privee
+          1	Ecole privé souenet
+          1	Ecole privée La Vocation
+          1	Ecole privée Louis Grégory
+          1	Ecole privée la colombe
+          1	Eden
+          1	Edou
+          1	Edzouga
+          1	Efm
+          2	Eglise
+          1	Eglise Amour De Christ
+          1	Eglise Evangelique de Diosso
+          1	Eglise Evangelique du Congo, EEC, Paroisse Plateau
+          1	Eglise Evangeliste de Divénié
+          1	Eglise Fatima
+          1	Eglise Kimbaguiste
+          1	Eglise Nazareth
+          1	Eglise Orthodoxe
+          1	Eglise Ortodoxe
+          1	Eglise Pentecote
+          1	Eglise Protestante de Mvou Mvou
+          1	Eglise Saint François
+          1	Eglise Saint J. Bosco
+          1	Eglise Saint Jean Bosco
+          1	Eglise Saint-Kisito
+          1	Eglise St-Christophe
+          1	Eglise américaine
+          1	Eglise bois
+          1	Eglise d'Owando
+          1	Eglise de Divénié
+          1	Eglise de Loaka
+          1	Eglise de Makabana
+          1	Eglise de Massabi
+          1	Eglise de Missama
+          1	Eglise de Vounda
+          1	Ekata
+          1	Ekolo
+          1	Ekorokoro
+          1	Ekoti ya monseigneur
+          1	El Maestro
+          1	Elaïs
+          1	Electra
+          1	Elion
+          1	Elle et Lui
+          1	Elonda Lodge
+          1	Elouna
+          1	Embama
+          1	Embarcadere Ouesso
+          1	Embarcadere Pocola
+          1	Embarcadère de Tchiabi
+          1	Embarcadère de la Toko
+          1	Embassy of the United States
+          1	Emonpibi
+          1	Empire
+          1	Empoura
+          1	Enfin je respire
+          1	Engalango
+          1	Engankou
+          1	Enkesso
+          1	Entrepot
+          1	Entreprise ACD
+          1	Entré bloc 8
+          1	Entrée Base Industrielle TOTAL EP CONGO
+          1	Entrée Raffinerie
+          1	Entrée Sanctuaire
+          1	Entrée du Mayombe
+          1	Entrée du Verger
+          2	Enyellé
+          1	Epere
+          1	Epicerie Boko
+          1	Epicerie Ets N Mandela
+          1	Epinatsa
+          1	Epoma
+          3	Epéna
+          1	Equaflight
+          1	Esan
+          1	Escon 监理营地
+          1	Espace Ami des enfants
+          1	Espace Brunelle Maya
+          1	Espace France 24
+          1	Espace Jogla Chez Gladys
+          1	Espace Marie Diallo
+          1	Espace Mbalé
+          1	Espace Plein Sud
+          1	Espace Pëage
+          1	Espace d'attraction
+          1	Esplanade Marien Ngouabi
+          1	Est
+          1	Esthetique inzo ya nene
+          1	Et si Eschile
+          1	Etat Major
+          1	Etebe
+          2	Ethiopian Airlines
+          1	Etoumbi
+          1	Ets AGM
+          1	Ets BMW auto
+          1	Ets Baba
+          1	Ets Djaye
+          1	Ets Iriji
+          1	Ets Ngoyo services
+          1	Ets TATY Quincaillerie, Dépôt de ciment, Vente de matéri
+          1	Ets Tabourama
+          1	Ets Zang-Luman
+          1	Etsouali
+          1	Eunoce Bio
+          1	Evapore air conditionné
+          1	Eveche
+          1	Ewanzombo
+          2	Ewo
+          1	Ewo Airport
+          1	Ex-piscine
+          1	Eximius int school
+          1	Explosion
+          1	F. Anselmi
+          1	FERCO
+          1	FLM
+          1	Faculté des Lettres et des Sciences humaines
+          1	Faculté des sciences et techniques
+          1	Fad
+          1	Fal'H
+          1	Famille MALONGA S. J. P.
+          1	Ferme Bouara
+          1	Ferme Danze
+          1	Ferme JBZ (Carpes)
+          1	Ferme sud africaine
+          1	Ferronerie
+          1	Ferry
+          1	Filo Tempo
+          1	Five Star
+          1	Flare
+          1	Florida
+          1	Flotel Congo
+          1	Flovica
+          1	Foberd
+          2	Forage
+          1	Forage Kenge
+          2	Forage Ngoyo Central
+          1	Forage Warra
+          1	Forage terminus Bissongo
+          1	Foralac
+          1	Foret du Mayombe
+          1	Forum Bangui
+          1	Forêt de l'Orostom
+          1	Fouck's
+          2	Fouks
+          1	Foula Palace
+          1	Foulakary
+          1	Founvou
+          1	Four
+          1	Fouta
+          1	Foyer ENI
+          1	Fr Ngoma Jabin
+          1	France Volontaires
+          1	France/Germany (Embassy)
+          1	Fred optique
+          1	Fresque de l'Afrique
+          1	Frontière Congo/RDC
+          1	Fruits
+          1	Fédération des MUCODEC
+          1	GA
+          1	GFM Climatisation auto
+          1	GHS Hotel
+          1	GIRMA
+          1	GLOBAL AFRICA AUTO
+          1	GYF
+          1	Gabon
+          1	Gabon (Embassy)
+          1	Gaillard
+          1	Galatee
+          1	Galerie Amadou
+          1	Galerie Genevieve
+          1	Gambari
+          2	Gamboma
+          2	Gamboma Airport
+          1	Gandabinda
+          1	Gankono
+          1	Gantchou
+          1	Gaps
+          1	Garage Auto Touring Club Cars
+          1	Garage Total
+          1	Garage administratif de la ville de Brazzaville
+          1	Garage aeroport
+          1	Garb_Tiétié-1
+          1	Gardiens Tchimpounga
+          1	Gare CFCO
+          1	Gare Les Bandas
+          1	Gare Routière Dolisie
+          1	Gare de Brazzaville
+          1	Gare de Mfilou
+          1	Gare de Pointe-Noire
+          1	Gaspard Bord bord
+          1	Gaïa
+          1	Gemiland
+          3	Gendarmerie
+          1	Gendarmerie de Hinda
+          1	Gendarmerie de Kakamoeka
+          1	Gendarmerie de Loandjili
+          1	Gendarmerie de Louvakou
+          1	Gendarmerie de Louvoulou
+          1	Gendarmerie de Tsembo
+          1	Gendarmerie du Kouilou (Mpaka)
+          1	Gendarmérie
+          1	Georges
+          1	Gerda
+          1	Gestrim Océan
+          1	Ghana (Consulate General)
+          1	Ginger
+          1	Global Sky Business, Agence de voyage
+          1	Globaline Direction Générale
+          1	Gokango Airport
+          1	Golden Textiles 2
+          1	Golf Course OMS
+          1	Golf course OMS
+          1	Golf de Diosso
+          1	Goma
+          1	Gombé
+          1	Gonaka
+          4	Gorges
+          7	Gorges de Diosso
+          1	Gorges de Sounda
+          1	Gorges de Tchissanga
+          3	Gouga
+          1	Goundji
+          1	Gourmandine
+          1	Grand Fleuve
+          1	Grand Hotel
+          1	Grand Marche de Betou
+          1	Grand Marché
+          1	Grand Quartier Général
+          1	Grand bois
+          1	Grand garage du Kouilou
+          2	Grand marché
+          1	Grande Avenue
+          1	Grande Mine
+          1	Grasset Sporafric Brazzaville
+          1	Greece (Honorary Consulate)
+          1	Grottes de Foualouila
+          1	Groupe Charden FARELLL
+          1	Groupe Lemonga
+          1	Groupe Scolaire Du Centre
+          1	Groupement du 31 juillet
+          2	Guenin
+          1	Guess
+          1	Guest House
+          1	Guest Pandi
+          1	Guest Total
+          2	Gué
+          1	Guéla
+          1	Gwalangu
+          1	Gymnase
+          1	Gymnase Massamba-Débat
+          1	Gymnase Michel d'Ornano
+          1	Gymnase de Makélékélé
+          1	Gymnase de Ouenze
+          1	Géant Casino
+          2	HELP
+          1	HELP (Conkouati)
+          1	Hangar désafecté
+          1	Hangars d'accueils
+          1	HardingPN
+          1	Hassan Automobile
+          1	Hassan Burger
+          1	Haut-Ntem
+          1	Haut-Nyong
+          1	Haut-Ogooué
+          1	Haute tension
+          1	Heli-Union
+          1	Hermina
+          1	Hidi
+          1	Hilary
+          2	Hinda
+          1	Hippocampe
+          2	Hollemoni
+          1	Homa
+          1	Hongora Voyages
+          1	Hopital A. Sicé
+          1	Hopital Général de Dolisie
+          1	Hopital Général de NANGA
+          1	Hopital Manganzi
+          2	Hopital Militaire
+          1	Hopital de BASE DE Tié-Tié
+          1	Hopital de Loandjili
+          1	Hopital de NKola
+          1	Hopital de Reference
+          1	Hotel Adonis
+          1	Hotel Berger
+          1	Hotel Delta
+          1	Hotel Du Port
+          1	Hotel FORMULE. TRIPLE ' P'
+          1	Hotel Hippique
+          1	Hotel Hippocampe
+          1	Hotel La Concorde
+          1	Hotel Le Patriarche
+          1	Hotel Maboso
+          1	Hotel Mpori
+          1	Hotel Murex
+          1	Hotel Nelvie
+          1	Hotel Ngoyo
+          1	Hotel Nonine
+          1	Hotel OBOLA
+          1	Hotel Papyrus
+          1	Hotel Petit Logis
+          1	Hotel Restaurant Marina
+          1	Hotel Versa
+          1	Hotel de Bilala
+          1	Hotel de Fez
+          1	Hotel de Police
+          1	Hotel de l'Eglise
+          1	Hotel des Aigles
+          1	Hotel le Barreau
+          1	Hôpital
+          1	Hôpital Blanche Gomez
+          1	Hôpital De Talangaï
+          1	Hôpital Général Edith Lucie Bongo Ondimba
+          1	Hôpital Général de Nkombo
+          1	Hôpital Loandjili
+          1	Hôpital MDA
+          1	Hôpital Militaire
+          1	Hôpital de Makélékélé
+          1	Hôpital de Mossendjo
+          1	Hôpital de Talangaï
+          1	Hôpital de base de Ouesso
+          1	Hôtel
+          1	Hôtel Ambassadeur
+          1	Hôtel Basilisque
+          1	Hôtel ETMA
+          1	Hôtel Hilary
+          1	Hôtel Saint Jean
+          1	Hôtel de Police
+          2	Hôtel de Ville
+          1	Hôtel de Ville - Mairie de Pointe-Noire
+          1	Hôtel de l'Aéroport
+          1	Hôtel du Cercle
+          1	Hôtel le Saphire
+          2	IHM
+          1	INDUSTRIE FORESTIERE
+          1	INFRA-COM S.A
+          1	Ibadja
+          5	Ibenga
+          1	Idamo
+          1	Idoubi
+          1	Idzendi
+          1	Ifouka
+          1	Ignie district
+          1	Igomi
+          1	Iguane café
+          1	Ikalou
+          1	Ikalou Nord
+          1	Ikalou-sud
+          1	Ikembe
+          1	Ikomi
+          1	Ikoumba
+          1	Ikoumba I
+          1	Ikpembele
+          1	Ikélemba
+          1	Ile principale des Chimpanzés
+          1	Ilolo
+          1	Ilouponga
+          1	Imbama
+          1	Imese
+          1	Immaculée Conception
+          1	Immeuble Monte Cristo
+          1	Immeuble de l'ARC
+          1	Immigration
+          1	Immigration Cameroon
+          1	Immigration Congo
+          1	Immigration and customs
+          1	Imongui Palace
+          1	Impasse Joseph Nkeoua
+          1	Impasse Kila
+          2	Impasse Mangay
+          1	Impasse Radio Vent
+          1	Impasse Tchinganga Mvoumvou
+          1	Impasse Tsimpambou
+          1	Impasse de Mpema
+          1	Impasse de Sanza
+          1	Impasse de Touba
+          1	Impasse des Hérons
+          2	Impfondo
+          1	Impfondo Airport
+          1	Imporo
+          1	Impé
+          1	Imvouba
+          1	Inaer
+          1	India Palace Hotel
+          1	Indo
+          1	Inga
+          1	Ingha
+          1	Ingolo
+          1	Ingolo 2
+          1	Ingoumina
+          1	Iniounga
+          1	Inkala
+          2	Inkisi
+          1	Inoni
+          1	Institut Congolais du Sang
+          1	Institut Français (ex CCF)
+          1	Institut Français du Congo
+          1	Institut Supérieur de Gestion (I.S.G. - UMN)
+          1	Institut Supérieur de Technologie d'Afrique Centrale
+          1	Institut Thomas Sankara
+          1	Institut de Formation Technique et Professionnelle de Loudi
+          1	Inter
+          1	Intsielle
+          1	Ipini
+          1	Irogo Airport
+          1	Irène Banda
+          1	Isato
+          1	Italgrille
+          1	Italy (Embassy)
+          1	Itela
+          1	Itilitounga
+          1	Itsotsou
+         14	Ivindo
+          1	Ivosi
+          1	Iyeli
+          1	JC domicile 1
+          1	Jagger - Pharmacie de nuit
+          1	Jardin Zoologique de Brazzaville
+          1	Jardin de Maman Celine
+          2	Jean Baba
+          1	Jean paul
+          1	Jeanne- Viale
+          1	Jet Set
+          1	Jinri Peche
+          1	Jonas Bush Camp
+          1	Jose Marti
+          3	Jua
+          1	Jules Ferry (Site1)
+          1	Jules Ferry (Site2)
+          1	Julyd
+          1	KAFCC
+          1	KISOUNDI
+          2	KM4
+          1	KM4 Est
+          1	KM4 Ouest
+          1	KOKOLOKOPA
+          1	Kaba
+          1	Kabadissou
+          1	Kabasibinda
+          1	Kabbo
+          1	Kabo
+          1	Kactus
+          2	Kakamoeka
+          1	Kake
+          1	Kakouala
+          1	Kala Airport - CLOSED
+          1	Kala Boubote
+          2	Kala Boumbouti
+          1	Kalakoundou
+          1	Kalamboté
+          1	Kamab Mboukou
+          1	Kamabangala
+          1	Kamba
+          1	Kamba-Mankondo
+          1	Kamkat
+          1	Kandéko
+          1	Kanga
+          1	Kangala
+          1	Kaounga
+          1	Kapitat
+          1	Karakas
+          1	Karikari-Malonga-Ecoute
+          1	Karizoungou
+          1	KasBar
+          2	Kasai
+          1	Kasangulu
+          1	Kaye-Mbakou
+          2	Kayes
+          1	Kele Kibangou Airport
+          1	Kelle Airport
+          2	Kellé
+          1	Kendi
+          2	Kengue
+          3	Kenny's
+          1	Ketta
+          1	Kiale
+          1	Kiani
+          2	Kibaka
+          2	Kibangou
+          2	Kibossi
+          1	Kibouari
+          1	Kibouba
+          1	Kibouende
+          2	Kibouendé
+          1	Kibouenze
+          1	Kiboumbou
+          1	Kibounda
+          1	Kiboutou
+          1	Kifouma
+          1	Kifouma 2
+          1	Kifouta
+          1	Kihinda
+          2	Kika
+          1	Kikanou
+          1	Kikassa
+          1	Kikaya
+          1	Kikembo
+          1	Kikimou
+          1	Kikiouimba
+          1	Kikombolo
+          1	Kikonde
+          1	Kikondi
+          1	Kikongo
+          1	Kikouangou
+          1	Kikouma
+          1	Kilebe Moussia
+          2	Kilemba
+          1	Kilembe
+          1	Kilonga
+          1	Kiloubi
+          2	Kilounga
+          1	Kimandou
+          1	Kimanza
+          1	Kimba
+          1	Kimbaka
+          1	Kimbakou
+          2	Kimbanda
+          2	Kimbaoka
+          1	Kimbaoka II
+          1	Kimbaouka
+          3	Kimbedi
+          1	Kimbenza
+          1	Kimbenza Ndiba
+          1	Kimbenza-Mounière
+          1	Kimbimi
+          1	Kimbonga
+          2	Kimboto
+          1	Kimbounga-Loamba
+          1	Kimboungou
+          1	Kimbéti
+          1	Kimfikou
+          1	Kimoanda
+          1	Kimongo
+          1	Kimongo-street
+          1	Kimouanda
+          1	Kimouele
+          1	Kimpakasa
+          2	Kimpala
+          1	Kimpalanga
+          1	Kimpambou-Loukelo
+          1	Kimpanzou
+          1	Kimpeni
+          1	Kimpessi
+          1	Kimpila
+          1	Kimpombo
+          1	Kimponzi
+          1	Kimpoungui
+          1	Kimvimba
+          2	Kinanga
+          1	Kinbanda
+          1	Kindama-Cekila
+          3	Kindamba
+          1	Kindamba Airport
+          1	Kindiangou
+          1	Kindingandoki
+          1	Kindouta
+          1	Kindzaka
+          1	King's Maya
+          1	Kinga
+          1	Kingaka
+          1	Kingani
+          1	Kingembo
+          1	Kingibi
+          1	Kingola
+          1	Kingoma
+          3	Kingouala
+          1	Kingouari
+          2	Kingoye
+          1	Kingoyi
+          1	Kingoyé
+          1	Kinguebe
+          1	Kinguela
+          1	Kinguelé
+          1	Kinguila
+          1	Kinia-Ngouna
+          1	Kiniadi
+          1	Kinianga
+          3	Kiniangi
+          1	Kiniati
+          1	Kinkala
+          1	Kinkanda
+          1	Kinkassa
+          1	Kinkaya
+          1	Kinkou
+          1	Kinkoula
+          1	Kinndamba
+          1	Kinndounga
+          1	Kinngoudi
+          1	Kinnkambou
+          1	Kinnsatou
+          2	Kinnsoundi
+          1	Kinntamou
+          1	Kinnzoundi
+          1	Kinpandzou
+          1	Kinsaka
+          1	Kinseté
+          1	Kinshasa
+          1	Kinshasa - Bandundu
+          1	Kinshasa - Brazzaville
+          1	Kinsoko
+          1	Kinsoundi
+          1	Kintamba
+          1	Kintoumba
+          1	Kintsimba
+          1	Kintélé
+          1	Kinzaba
+          1	Kinzambi
+          1	Kinzolo
+          1	Kipambou-Kayes
+          1	Kipanda
+          1	Kipanda 2
+          1	Kipoto
+          1	Kisambi
+          1	Kisangani
+          1	Kisenga
+          1	Kisengele
+          1	Kisinga
+          1	Kisisi
+          1	Kisovo
+          1	Kissamba
+          1	Kissende
+          1	Kissengo
+          1	Kissenguelé
+          1	Kissila
+          1	Kissina
+          1	Kitadi
+          1	Kitamba
+          1	Kitamba 1
+          1	Kiteka
+          1	Kitembé
+          1	Kitessi
+          2	Kitina
+          1	Kitina Sud
+          1	Kitsakou
+          1	Kitsaku Ecole
+          1	Kitsindi
+          1	Kitsoumbou
+          1	Kivala
+          1	Kiélé
+          1	Kola
+          2	Koliy'art Kafé
+          1	Kolo
+          3	Komono
+          3	Kondi
+          1	Kondi Mbaka
+          1	Kondi plage
+          1	Kondo Sounga
+          1	Kondo-Sounga
+          1	Kongo-Central
+          1	Koso
+          1	Kotchilem
+          1	Kouakouala
+          1	Kouanga
+          1	Kouani
+          1	Koubotchi
+          2	Koubou
+          1	Kouembe
+          1	Koufoli
+          1	Kouila 1
+          7	Kouilou
+          1	Kouilou-Niari River
+          1	Koukebena
+          1	Koukebeséné
+          1	Koulengene
+          1	Koumbou-Liambou
+          1	Koumina
+          1	Koumoutsonga
+          2	Kounda
+          1	Kounda Nord
+          2	Koungou
+          1	Koungoude
+          1	Kouni
+          1	Kousombi
+          1	Kousou Kanbana
+          1	Koutina-Nzambi
+          1	Koutou Kobambi
+         10	Kouyou
+          1	Kpaya
+          1	Kris Hotel
+          1	Kundji 1
+          1	Kundji 2
+          1	Kungu
+          1	Kunzulu
+          1	Kury's House
+          1	Kwamouth
+          1	Ködörösêse tî Bêafrîka - République Centrafricaine
+          1	L'Abri-Côtier
+          1	L'Archipel
+          1	L'Harmattan
+          1	L'Ile de la Reine Feignod
+          1	L'Orchidée
+          1	L'arbalette
+          1	L'arche de Noé
+          1	L'endroit
+          1	L'océane
+          2	L.A Dambou
+          1	LA BÉNÉDICTION
+          1	LA RÉFÉRENCE DE DIATA
+          1	LA fleur
+          1	LCB
+          1	LE BURGUNDI
+          1	La Baleine
+          1	La Banque Postale
+          1	La Base -Mouwouni
+          1	La Bodega
+          1	La Bodega de Pointe-Noire
+          1	La Cantine
+          1	La Causette
+          1	La Citronelle
+          1	La Cité
+          1	La Colombe
+          1	La Congolaise
+          2	La Congolaise de Banque
+          1	La Coupole
+          1	La Directions des Voiries
+          1	La Détente
+          1	La Ferme
+          1	La Grande Muraille
+          1	La Joie Du Congo
+          1	La Loeme
+          1	La Louila Airport
+          1	La Main Bleue
+          1	La Mandarine
+          1	La Manne
+          1	La Marelle
+          1	La Mie Dorée
+          1	La Mouette
+          1	La Paillote
+          1	La Perla
+          1	La Perle
+          1	La Poudrière
+          1	La Poule Qui Rit
+          1	La Pyramide
+          1	La Pétanque
+          1	La Renaissance
+          1	La Roche
+          1	La Sandrine
+          1	La Semaine Africaine
+          1	La Suite
+          1	La Tabernat de Carine
+          1	La Tanière
+          1	La Tomate
+          1	La brasserie de la mer
+          1	La cours des grands
+          1	La grâce de Dieu
+          2	La joie de vivre
+          1	La joie du Congo
+          1	La main généreuse
+          1	La petite faim
+          1	La poste
+          1	La poudrière
+          1	Laboratoire SNDE
+          1	Lac Bindi
+          2	Lac Bleu
+          1	Lac Bouatanga
+          1	Lac Kayo
+          1	Lac Konzi
+          1	Lac Libala
+          1	Lac Loufoualeba
+          1	Lac Nanga
+          1	Lac Nanga - Ngoyo
+          2	Lac Rouge
+          2	Lac TCHIPOUNGA
+          1	Lac Thomas
+          1	Lac Télé
+          1	Lac bleu
+          1	Lac de Loufoualéba
+          9	Lagoa Massabi
+          1	Lagrange
+          1	Lague Airport
+          1	Lagune
+          1	Lagune Conkouati
+          1	Lake Télé Community Reserve
+          1	Lambi
+          1	Lamina Couture
+          1	Langa-Langa
+          1	Lango
+          1	Lapaix-Loby
+          1	Lari
+          1	Lavage auto moderne
+          1	Le "B" d'or
+          1	Le 7 seven
+          1	Le Beach
+          1	Le Bel Air
+          2	Le Bon Coin
+          1	Le Boulevard
+          1	Le Bungalow
+          1	Le CABAS
+          1	Le Ceragon
+          1	Le Cercle civil
+          1	Le Cèdre
+          1	Le Delice Rouge
+          1	Le George
+          1	Le Gilbert's Hotel
+          1	Le Girma
+          1	Le Gondwana
+          1	Le Gourmand
+          1	Le Grand Cafe 2
+          1	Le Grand Café 1
+          1	Le Grand Café 3
+          1	Le Jardin des Saveurs
+          1	Le Jaïpur
+          1	Le Loft
+          1	Le M3
+          1	Le Moulin de la Jeunesse
+          2	Le Nénuphar
+          2	Le Pacha
+          1	Le Prince
+          1	Le QG
+          1	Le Quartier Général
+          1	Le Renouveau
+          1	Le Repère
+          1	Le Rialto night club
+          1	Le Rocher
+          1	Le Ruisseau
+          1	Le Safari
+          1	Le Safoutier
+          1	Le Salto
+          1	Le Samba Village
+          1	Le Sawa
+          1	Le Secret
+          1	Le Wolf (Mpaka)
+          1	Le Yorobo
+          1	Le Zanzi Night
+          1	Le dépôt de manioc de nelly
+          1	Le griffé
+          1	Le marché de kouikou
+          1	Leboulou Airport
+          1	Ledger Maya-Maya
+          1	Lefourou Street
+          1	Lefoutou
+          1	Legala Airport
+          1	Leganda Airport
+          1	Lekana
+          1	Lele Lande
+          1	Lelu-Lelu
+          1	Lemboumbou
+         17	Lengoue
+          1	Lengoué
+          1	Leon Hotel
+          1	Les Bandas
+          2	Les Petits Pandas
+          1	Les Rosiers
+          3	Les Saras
+          1	Les palmiers alignés
+          1	Les petits Princes de Mavinga
+          1	Les petits princes
+          1	Les pieds dans l'eau
+          1	Les poussins
+          1	Lessanga
+          1	Lheyet Gaboka
+          1	Liambou-Néné
+          1	Liambu
+          1	Libao
+          1	Librairie de la Coupole
+          1	Lidji
+          1	Lieu veillée
+          1	Ligne de Chemin de Fer Congo-Océan
+          1	Ligne de la COMILOG
+         19	Likouala
+          1	Likouala Timber
+         22	Likouala-aus-Herbes
+          1	Likounda
+          2	Liouesso
+          2	Liranga
+          1	Lissanga
+          1	Lissengue
+          1	Lissiemi
+          1	Litchis
+          1	Loaka
+          2	Loandjili
+          1	Loango
+          7	Lobaye
+          1	Lobo
+          2	Loemé
+          1	Loengo
+          1	Logis Manthey
+          1	Lokanda
+          1	Lombi
+          1	Lombo
+          1	Londela
+          1	Londela-Kaye
+          1	Londela-Mpoukou
+          1	Longchamp
+          1	Longo
+          1	Longo Boundi
+          1	Losange
+          1	Louanga
+          1	Louangou
+          1	Loubetsi
+          1	Loubetsi Airport
+          4	Louboulou
+          4	Loudima
+          1	Loudima Gare
+          1	Loueguemo
+          1	Louenga
+          1	Louesse Palace
+          9	Louessé
+          1	Louf lou Boual
+          4	Loufoulakari
+          1	Louigui
+          1	Louingui
+          1	Loukaka
+          2	Loukakou
+          1	Loukala
+          1	Loukanga
+          1	Loukanyi
+          1	Loukanyi Airport
+          1	Loukenini
+          1	Loukesi
+          2	Loukoko
+          3	Loukoléla
+          1	Loukonga
+          1	Loukos
+          1	Loukouala
+          1	Loukouo
+          1	Loulema
+          2	Loulombo
+          3	Louna
+          1	Loundou
+          1	Loungou
+          1	Loupevi ?
+          2	Loussala
+          2	Loutembo
+          1	Loutete
+          1	Loutete Airport
+          2	Loutété
+          1	Louvakou
+          1	Louvenza
+          3	Louvisi
+          1	Louvoulou
+          1	Louvuiti
+          1	Loyo
+          1	Lua
+          1	Ludothèque du Chat perché
+          1	Lufimi
+          1	Lukolela
+          2	Lumumba
+          1	Luna Park
+          1	Luozi
+          1	Lycee Charlemagne
+          1	Lycee Les Trois Glorieuses, LTG
+          1	Lycee Pointe Noire II
+          2	Lycee Technique
+          1	Lycee Victor Augagneur
+          1	Lycée Agostino Neto
+          1	Lycée Chaminade
+          1	Lycée Loandjili
+          1	Lycée Moderne de la Révolution
+          1	Lycée Savorgnan de Brazza
+          1	Lycée Tchenique Commercial de OCH
+          1	Lycée Technique
+          1	Lycée Technique Poaty Bernard
+          1	Lycée Thomas Sankara
+          1	Lycée Victor Augagneur
+          1	Lycée agricole
+          1	Lycée de Tahiti
+          1	Lycée de l'excellence de Mbounda
+          1	Lègwe
+         10	Léfini
+          1	Légumes
+          3	Lékana
+          5	Lékoli
+          2	Lékoumou
+          1	Léké
+         11	Lékéti
+          1	M'Baka
+          1	M'foubou
+          1	M'passa Airport
+          3	M1
+          3	M10
+          3	M11
+          2	M12
+          2	M13
+          2	M14
+          3	M15
+          3	M16
+          2	M17
+          1	M18
+          1	M19
+          3	M2
+          3	M20
+          3	M21
+          3	M22
+          1	M23
+          1	M24
+          2	M25
+          2	M26
+          2	M27
+          1	M28
+          1	M29
+          3	M3
+          1	M30
+          1	M31
+          2	M32
+          2	M33
+          1	M35
+          1	M36
+          2	M37
+          1	M38
+          1	M39
+          2	M4
+          1	M40
+          2	M41
+          2	M42
+          1	M44
+          2	M45
+          2	M46
+          1	M47
+          2	M48
+          2	M49
+          2	M5
+          1	M50
+          2	M51
+          2	M52
+          1	M53
+          1	M54
+          1	M56
+          1	M57
+          1	M59
+          3	M6
+          1	M60
+          1	M61
+          1	M62
+          1	M63
+          1	M64
+          1	M65
+          1	M66
+          1	M67
+          3	M7
+          2	M8
+          2	M9
+          1	MAG minerals - Potasse
+          1	MALONGA HEONS IRISHA
+          1	MANGA-HOUSE POTEAU ROUGE
+          1	MB
+          1	MBem Bonbote
+          1	MBoukou
+          1	MBoundou
+          1	MBouyoo
+          1	MCS POINTE Noire 1
+          1	MIAMBANZILA
+          1	MOVIS
+          1	MPD Congo SA
+          1	MTI
+          3	MTN
+          1	MTongo
+          1	MUCODEC
+          1	MUCODEC - Caisse de la gare
+          1	MUCODEC CCF
+          1	MUCODEC Caisse Brazza Centre
+          1	MUCODEC Caisse de la gare
+          1	MVP
+          1	MVeto
+          1	Ma vèvè
+          2	Mabafi
+          1	Mabassa
+          1	Mabembe
+          1	Mabiti
+          1	Maboke
+          1	Maboko
+          1	Maboko Kengi
+          1	Maboko Sayi
+          1	Mabombo
+          1	Maboukou
+          2	Maboulou
+          1	Mabélou
+          1	Macdo Chatelet
+          1	Macouila
+          1	Madiadia
+          1	Madibou
+          1	Madinga
+          2	Madingo-Kayes
+          3	Madingou
+          4	Madoukou
+          1	Madoungou
+          1	Madzia
+          2	Madzomo
+          2	Mafouta
+          1	Magambomara
+          1	Magasin boulangerie, grossiste
+          1	Magasin d'alimentation générale, épicerie, droguerie
+          3	Magasin d'alimentation, droguerie
+          1	Magasins mécaniques du quartier Roy
+          1	Magne
+          1	Magneli-Dimba
+          1	Mah
+          1	Mahitoula
+          2	Mahouata
+          1	Mahouha
+          1	Mahsoumba
+          1	Mai-Mpili
+          2	Mai-Ndombe
+          1	Mai-Pili
+          1	Main Post Office
+          3	Maire
+          1	Maire Goumbi
+          1	Maire Longo Boundi
+          1	Maire Sialivakou
+          1	Maire Tchibota
+          1	Maire Yanika
+          1	Maire d'Ingolo
+          1	Maire d'Ingolo 2
+          1	Maire de Homa
+          1	Maire de Kanga
+          1	Maire de Kondi
+          1	Maire de Les Saras
+          1	Maire de Loaka
+          1	Maire de Louvoulou
+          1	Maire de Mikamba
+          1	Maire de Missama
+          1	Maire de Mongo
+          1	Maire de Mzimbati
+          1	Maire de Soulou
+          1	Maire de Tandou-Bilomba
+          1	Maire de Tchessa
+          1	Maire de Tchimpassi
+          1	Maire de Tchingoli
+          1	Mairie Tchimba nzassi
+          1	Mairie de Brazzaville (Annexe Léon)
+          1	Mairie de Dolisie
+          1	Mairie de Makoua
+          1	Mairie de Makélékélé
+          1	Mairie de Mboussou
+          1	Mairie de Mfilou
+          1	Mairie de Mvoumvou
+          1	Mairie de Mvouti
+          1	Mairie de Ngoyo
+          1	Mairie de Ouenze (Arrondissement 5)
+          1	Mairie de Pointe-Noire - Direction de l'informatique et de 
+          1	Mairie de Poto-Poto
+          1	Mairie de Tié-Tié
+          1	Mairie du 1er Arrondissement
+          1	Maison
+          1	Maison Angélique
+          1	Maison Gd Parent
+          1	Maison Jefferson
+          1	Maison Ousmane
+          1	Maison Picha
+          1	Maison Sans Frontiere
+          1	Maison Tante jeanne
+          1	Maison Verte
+          1	Maison d'Arret
+          2	Maison d'Arrêt
+          1	Maison de Thé Sélé
+          1	Maison de la Radio et de la Télévision
+          1	Maison de la presse
+          1	Maison parentale Dieudonné Bazolodio
+          1	Maisons FC Yanika
+          1	Makabala
+          2	Makabana
+          1	Makabana Airport
+          1	Makabandilou
+          1	Makabesse
+          1	Makaga
+          2	Makaka
+          1	Makala
+          1	Makanda
+          1	Makangala
+          1	Makansala
+          1	Makaou
+          1	Makelekele
+          1	Makeninga
+          1	Makoka I
+          1	Makoka II
+          2	Makola
+          1	Makosso
+          3	Makoua
+          1	Makoua Airport
+          1	Makoubi
+          1	Maksi
+          1	Makwamekouma
+          1	Makélé
+          2	Malemba
+          1	Malembe
+          1	Malembo
+          2	Malembé
+          1	Malembé I
+          1	Mali
+          1	Mali (Embassy)
+          1	Malima
+          1	Malimba
+          1	Malolo
+          1	Malonda
+          1	Malonda Lodge
+          1	Malongo
+          1	Maluku
+          1	Malélé
+          1	Maman Binta
+          1	Maman Ro
+          1	Mamba
+          9	Mambili
+          1	Mambio
+          1	Mami Wata
+          1	Manbanailou
+          1	Manda
+          1	Mandombé
+          1	Mandoro Airport
+          4	Mandou
+          1	Mandzakala
+          1	Manga
+          1	Mangakala
+          1	Mangala
+          1	Manganzi
+          1	Mangbala
+          1	Mangola
+          1	Mangongo
+          1	Mangoufou
+          1	Mangoun
+          1	Manguembo
+          1	Manguété
+          1	Maniangou
+          1	Mankala
+          1	Mankami
+          1	Mankondi
+          1	Mankoussou
+          1	Mansiédi
+          1	Mantaba
+          1	Mantari
+          1	Manzaou
+          2	Manzi
+          1	Mapati
+          1	Mapila
+          1	Marala
+          1	Marala Airport
+          1	Maramba
+          1	Maranga
+          1	Marche
+          1	Marche Mpita
+          1	Marche Total
+          1	Marche de Tchimbamba
+          1	Marche moderne de Nkombo
+          1	Marché Bourse du Travail
+          1	Marché Ca Mètre
+          1	Marché Faubourg
+          1	Marché Frontière
+          1	Marché Les Bandas
+          1	Marché Mboukou
+          1	Marché Moungali
+          1	Marché MvouMVou
+          1	Marché MvouMvou
+          1	Marché NANGA
+          1	Marché OUI
+          1	Marché Plateau Ville
+          1	Marché Plateau des 15 ans
+          1	Marché Poto-Poto
+          1	Marché Savon
+          1	Marché Tchister Tchicaya
+          1	Marché Tembé Na Ba Mbanda
+          1	Marché Terminus de Mokamba
+          2	Marché Tié Tié
+          1	Marché Total
+          1	Marché d'Owando
+          1	Marché de Bilala
+          1	Marché de Bilinga
+          1	Marché de Diosso
+          1	Marché de Dolisie
+          1	Marché de Hinda
+          1	Marché de Kakamoeka
+          1	Marché de Kilunga
+          1	Marché de Les Saras
+          1	Marché de Loandjili
+          1	Marché de Louvoulou
+          1	Marché de Makabana
+          1	Marché de Mpaka
+          1	Marché de Mpassi-Ngolo
+          1	Marché de Mpita
+          1	Marché de Mvoumvou
+          1	Marché de Nkola
+          1	Marché de Nkombo
+          1	Marché de Ouésso
+          1	Marché de Siafoumou
+          1	Marché de Sibiti
+          1	Marché de Tchimbanmba
+          1	Marché de Tchitondi
+          1	Marché de Voungou
+          1	Marché de la Liberté
+          1	Marché de la Plaine
+          1	Marché de la cité
+          1	Marché de la liberté
+          1	Marché du lundi
+          1	Marché du plateau
+          1	Marché-Ta- Nkeoua
+          1	Maria
+          1	Marie Diallo
+          1	Marine marchande
+          1	Marion site 1
+          1	Mase
+          1	Maseke
+          1	Masissa
+          1	Massabi
+          1	Massala
+          1	Massangui
+          2	Massembo - Loubaki
+          1	Massengo Market
+          2	Master
+          1	Matabi Madiaba
+          2	Matalila
+          1	Matalimbo
+          1	Matangi
+          1	Mateba
+          1	Matembo 1
+          1	Matembo 2
+          2	Matendé
+          2	Matensama
+          1	Maternelle Charlemagne
+          1	Maternité
+          1	Mateve
+          1	Maticlub
+          1	Matombe I
+          1	Matombi
+          2	Matoumbou
+          1	Matouvidi
+          1	Matsanga
+          1	Matsengui
+          1	Matsiene
+          1	Matzili
+          1	Mausolée Marien Ngouabi
+          1	Mauvais etat
+          1	Mavemba
+          1	Mavinza Airport
+          1	Mavouala
+          1	Mavré
+          1	Mawa
+          1	Mawatina
+          1	Mawoko
+          1	Mawuya
+          1	Mayalama
+          1	Mayama
+          1	Mayama-Loudima-ecole Street
+          1	Mayamboula
+          2	Mayanga
+          1	Mayitoula
+          1	Mayogongo
+          1	Mayoko
+          1	Mayoko Gare
+          1	Mayoko Halte
+          1	Mayomé
+          2	Mayounougou
+          1	Mayoutou
+          1	Mayé Lama
+          2	Mayéyé
+          1	Mazala
+          1	Mazi
+          1	Mazinga
+          1	Mazingo
+          1	Mazra club
+          1	Maïpili
+          1	Mbadi
+          2	Mbaka
+          1	Mbakou II
+          1	Mbalam
+          1	Mbali
+          1	Mbamba
+          1	Mbambala
+          1	Mbanba II
+          1	Mbanza
+          1	Mbanza Nzungu
+          1	Mbanza-Bangou
+          1	Mbanza-Kaka
+          1	Mbanza-Loukaya
+          1	Mbanza-Ndounga
+          1	Mbanza-Nganga
+          1	Mbanza-Ngungu
+          1	Mbanza-Sanda
+          1	Mbanza-Tombo
+          1	Mbanzabaka
+          1	Mbanzakolo
+          1	Mbaya
+          2	Mbemba Coûte Cher
+          1	Mbemba Pierre
+          1	Mbena
+          1	Mbenbe
+          1	Mbenga
+          1	Mbengo
+          2	Mbinda
+          1	Mbiongo
+          1	Mbissi Pati
+          1	Mbié
+          1	Mbo Mbote
+          1	Mbola
+          1	Mboma
+          1	Mbombe
+          4	Mbomo
+          1	Mbomo I
+          1	Mbon
+          1	Mbondo
+          2	Mbongui
+          2	Mbota
+          1	Mbota carlos
+          1	Mboté
+          1	Mbouaboua
+          1	Mbouambé
+          1	Mbouamongo
+          1	Mboubissi
+          1	Mbouda
+          1	Mboukou
+          2	Mboulou
+          1	Mboulou Tambi
+          2	Mbounda
+          1	Mboundi
+          1	Mboungou
+          1	Mbounou
+          2	Mboussou
+          1	Mboussé
+          1	Mboutou
+          1	Mbouyoo
+          2	Mbé
+          1	Medical Elisha
+          1	Meko
+          1	Mengo
+          2	Menuiserie
+          1	Mercerie Kizinga ya ba Tailleur
+          1	Mess Gaps
+          1	Mess Mixte de Garnison
+          1	Metropolis
+          1	Metzimévin
+          1	Mfila
+          1	Mfilou-Poste
+          3	Mfoa
+          3	Mfouati
+          1	Mfoura
+          1	Mfuti
+          3	Midimba
+          1	Midoumba
+          1	Midzaka
+          1	Mielekouka
+          1	Migitel
+          1	Mikakaya
+          1	Mikalou
+          1	Mikamba
+          1	Mikendama
+          1	Mikhael's
+          1	Mikolo pneus
+          1	Mikombi
+          1	Mikondo
+          1	Mikourou
+          1	Mila Mila
+          1	Mild-vie
+          1	Miles Travel
+          1	Milolo
+          1	Milondo
+          1	Miléléké
+          1	Mimbelli
+          1	Minda
+          1	Mindou
+          2	Mindouli
+          1	Mindouri
+          1	Mindourou
+          1	Mindu
+          1	Mindzoukou
+          1	Minga
+          1	Mingali
+          1	Mingaya
+          1	Mingenge
+          1	Mingombe
+          2	Mingélé
+          1	Ministère Economie/Finances/Plan/Portefeuille Public/Inté
+          1	Ministère Transports/Aviation Civile/Marine Marchande
+          1	Ministère de l'Agriculture et de l'Elevage
+          1	Ministère de l'Economie Forestière et du Développement D
+          1	Ministère de l'Intérieur et de la Décentralisation
+          1	Ministère de l'Urbanisme, de l'Habitat et de la Constructi
+          1	Ministère de l'aménagement du territoire et de la délég
+          1	Ministère de l'intérieur et de la décentralisation
+          1	Ministère de la Culture et des Arts
+          1	Ministère de la Défense Nationale
+          1	Ministère de la Jeuness et des Sports
+          1	Ministère de la Justice
+          1	Ministère de la communication et des médias
+          1	Ministère des Hydrocarbures
+          1	Ministère des Mines et de la Géologie
+          1	Ministère des Télécommunications
+          1	Ministère des affaires étrangères
+          1	Ministère du Développement Industriel et de la Promotion 
+          1	Ministère du Plan
+          1	Ministére de l'Energie et de l'Hydraulique
+          1	Mintom
+          1	Misasa
+          1	Misonyi
+          2	Missafou
+          1	Missala
+          1	Missama
+          1	Mission St Pierre
+          1	Mission du Cedre
+          1	Mission Évangélique Échelle
+          1	Missongo
+          1	Miyamba
+          1	Miyaya
+          1	Miéni
+          1	Mndouri
+          1	Mobambo
+          1	Mobomba
+          1	Moboza
+          1	Moe Manssiahou
+          1	Mogangouélé
+          1	Mogomba
+          1	Mohamed & Seidou
+          1	Moines bénédictins
+          1	Mokala
+          1	Mokame Centre
+          1	Mokame Kombo
+          1	Mokame Kpetene
+          1	Mokandayeka
+          1	Mokelo
+          1	Mokolo
+          1	Mokungu
+          1	Mokéko
+          1	Molindo
+          1	Mompoto
+          1	Mon ami 100Km
+          2	Mona Steel
+          1	Monastère de Loango
+          1	Mondombe
+          1	Money Gram
+          1	Monga
+          1	Mongangou
+          1	Monganzu
+          1	Mongo
+          1	Mongo Bissafi
+          1	Mongo Kamba
+          1	Mongo Nkamba
+          1	Mongo Tandou
+          1	Mongokélé
+          2	Mongolo
+          1	Monguma
+          1	Mont Bamba
+          2	Mont Belo
+          1	Mont Boungou
+          1	Mont Fleuri
+          1	Mont Kambala
+          1	Mont Kinguele
+          1	Mont Koaunga
+          1	Mont Lithoumbou
+          1	Mont Mavende
+          1	Mont Mayumbe
+          1	Mont Mbengi
+          1	Mont Monguidou
+          1	Mont Nabemba
+          1	Mont Neri
+          1	Mont Ngankolo
+          1	Mont Ngawa
+          1	Mont Okouloumpou
+          1	Mont Paka
+          1	Mont Penzi
+          1	Mont Saki
+          1	Mont-Belo
+          1	Mont-Ngafula
+          1	Montagne Kojack
+          1	Monts Foumbou
+          1	Monts Kihinzi
+          1	Monts Kikengitsi
+          1	Monts Kisounga
+          1	Monts Kousombi
+          1	Monts Malolo
+          1	Monts Mbaou
+          1	Monts Paka
+          1	Monts de Kouboula
+          2	Monts de la Lune
+          1	Monts du Kiangi
+          1	Monument Schoelcher
+          1	Monument UTA
+          1	Monument des AET
+          3	Monzombo
+          1	Monzombo 1
+          1	Monzombo 4
+          1	Mopila
+          1	Morel & Prom
+          1	Morgue de Brazzaville
+          1	Mosqute Tchadien
+          4	Mosquée
+          2	Mossaka
+          1	Mossende
+          2	Mossendjo
+          1	Mossendjo Airport
+          1	Mosunga
+         16	Motaba
+          1	Motaba port
+          1	Motala
+          1	Motenge-Boma
+          1	Motorcycle Dealer
+          1	Mouala
+          1	Moualou
+          1	Mouanda
+          1	Moubangoudougou
+          1	Moubotsi
+          1	Moudamba
+          1	Moudilou
+          1	Moudimba
+          1	Moudouga
+          1	Moudouma
+          1	Moudoumou
+          2	Moudzanga
+          1	Moufilou
+          1	Mouga
+          1	Mougoudi
+          1	Mouila Mbala
+          1	Mouindi
+          1	Moukambou
+          2	Moukanda
+          2	Moukanga
+          1	Moukatsou I
+          2	Moukatsou II
+          1	Moukero
+          1	Moukissou
+          1	Moukombo
+          3	Moukondo
+          1	Moukondo Yama
+          1	Moukondzi
+          1	Moukonzi
+          1	Moukouassi
+          1	Moukouma
+          1	Moukéké
+          2	Moula
+          1	Moulandou
+          1	Moulandou Maambou
+          1	Moulenda
+          3	Mouloundou
+          1	Mouléké
+          1	Moumbotsi
+          1	Moumpoutou
+          1	Moundi
+          1	Moungali
+          1	Moungengé
+          1	Moungoundou
+          1	Mounienge
+          2	Mounkomo II
+          1	Mounkondo-Mazala
+          1	Moupenou
+          1	Moupepe
+          1	Mourima
+          1	Mousanda
+          1	Mousanga-Mayaka
+          1	Mousaou
+          1	Mousenge
+          1	Mousinga
+          1	Moussa
+          1	Moussana
+          1	Moussanga
+          1	Moussiemi
+          1	Moussondi
+          1	Mousélé
+          2	Moutamba
+          1	Moutampa
+          1	Moutebe
+          3	Moutela
+          1	Moutikouboua
+          1	Moutiéné
+          1	Moutomoukadi
+          1	Moutouala
+          1	Mouvendze
+          1	Mouwalala
+          2	Mouyala
+          1	Mouyami
+          1	Mouyantsé
+          1	Mouyombi
+          2	Mouyondzi
+          1	Mouyondzi Airport - CLOSED
+          1	Moyoye
+          1	Mozombo 1
+          2	Mozombo 2
+          2	Mozombo 3
+          1	Mozombo 4
+          4	Mpaka 120
+          1	Mpasi-Pasi
+          1	Mpassa
+          1	Mpassa Ecole
+          1	Mpassi-Ngolo
+          1	Mpayaka
+          1	Mpella
+          1	Mpembe
+          1	Mpete
+          1	Mpetou
+          1	Mpila
+          2	Mpili
+          1	Mpioka
+          3	Mpita
+          1	Mpo
+          1	Mpofo
+          1	Mpoka
+          1	Mporro
+          1	Mpoukou
+          2	Mpounga
+          2	Mpouya
+          2	Mpouya Moké
+          1	Mt Binta
+          1	Mucodec
+          1	Mucodec Fond TieTie
+          1	Mucodec Grand Marché
+          1	Mucodec Loandjili
+          1	Mucodec tchimbamba route aeroport
+          1	Mucodec tié-tié centre
+          1	Mukassie
+          1	Mukiwa beach club
+          1	Mukomitiene
+          1	Mulumbu 1
+          1	Mulumbu 2
+          1	Mur de Pala
+          1	Musée de Diosso
+          1	Musée galerie du bassin du Congo
+          1	Mvagui
+          1	Mvandji
+          2	Mvanza
+          1	Mvilani
+          2	Mvoka
+          1	Mvouara
+          2	Mvoungouti
+          3	Mvouti
+          1	Mwaningala
+          1	Mère Theresa
+          1	Mélibou
+          2	Mélodie Express
+          1	Mémorial Pierre Savorgnan de Brazza
+          1	N'Gouelet
+          1	N'Zabi Airport
+          1	N'Zambi
+          1	N'Ziba Airport
+          1	N'gongo Airport
+          1	N'komo Airport
+          1	N'koua
+          1	NGoma NGoma
+          1	NGouela
+          1	NK
+          1	NKayi
+          1	NKengue 2
+          1	NKotchi
+          1	NKounda
+          1	NS1
+          1	NS2
+          1	NSIA Congo Assirance
+          1	NaNa Benz
+          1	Namibie (Ambassade)
+          2	Nanga
+          1	Nbomo
+          1	Ndaka SouSou
+          1	Ndaka Soussou
+          1	Ndalatando
+          1	Ndende
+          1	Ndiba
+          1	Ndiloumamba
+          2	Ndindi
+          1	Ndingi
+          1	Ndjeba
+          1	Ndjeba 2
+          7	Ndoki
+          1	Ndoki sector
+          1	Ndolo1
+          1	Ndolo2
+          1	Ndongo
+          1	Ndoumou
+          1	Ndzaou
+          1	Nelson Mandela Avenue
+          2	Nemba
+          1	Nenuphar
+          1	Neru
+          1	NetCare
+          2	Netcare
+          1	New port
+          1	Nfignou
+          1	Ngabé
+          2	Ngabé Moké
+          1	Ngakele
+          1	Ngalambi Forever
+          1	Ngaliema
+          1	Ngamba
+          1	Ngambio
+          3	Nganda
+          1	Nganda Chez Andréas
+          1	Nganda La Balance
+          1	Nganda Maboké
+          1	Nganda Titine
+          1	Nganda Ya Bacombo
+          1	Nganda chauffeurs taxis
+          1	Ngandou
+          2	Nganga Edouard
+          2	Nganga Lingolo
+          1	Nganpan
+          1	Ngastsou Base vie logement
+          1	Ngbanza
+          6	Ngiri
+          1	Nglabou
+          1	Ngo
+          1	Ngo II
+          1	Ngobana
+          2	Ngoko
+          1	Ngoma Bitori
+          1	Ngoma-Tse-Tse
+          1	Ngoma-Tsétsé
+          2	Ngombé
+          2	Ngonaka
+          1	Ngondji
+          2	Ngongo
+          1	Ngongo ?
+          1	Ngonzo
+          1	Ngotchimanga
+          1	Ngoua 2
+          1	Ngouanga
+          1	Ngouanzami
+          1	Ngoubou-Ngoubou
+          1	Ngoudou
+          1	Ngouedi
+          1	Ngouelle
+          1	Ngoulonkila
+          1	Ngoumbi
+          1	Ngoungi
+          3	Ngounié
+          1	Ngouéné
+          1	Ngoyla
+          1	Ngoyo
+          2	Ngoyo Home
+          1	Nguetsi
+          1	Ngulu Mango
+          1	Ngunda-Mayitika
+          1	Ngungu
+          1	Nianga
+          1	Nianga- Street
+         13	Niari
+          1	Nice cream
+          1	Nigeria (Embassy)
+          1	Night Club Terminator
+          1	NightClub Le Sublime
+          1	Nino Brawn
+          1	Nioumvou
+          1	Niss et Ruben
+          1	Nitoumbi
+          1	Nkak Tchilounga
+          1	Nkan
+          1	Nkanzi
+          2	Nkata
+          3	Nkayi
+          1	Nkenge-Mandou
+         13	Nkeni
+          1	Nkie E
+          1	Nkieni
+          1	Nko
+          1	Nkola
+          2	Nkolbota
+          1	Nkolo 1
+          1	Nkolo 2
+          1	Nkolo 3
+          1	Nkolo 4
+          1	Nkolo 5
+          1	Nkombo
+          1	Nkondi
+          1	Nkouala
+          1	Nkougni
+          1	Nkouikou
+          1	Nkouka Services
+          1	Nkoum
+          1	Nkoumou
+          1	Nkoungi
+          1	Nkouo
+          1	No Stress
+          1	Noblesse
+          1	Nokobola
+          1	Notre Dame du Rosaire
+          1	Nouabalé Ndoki National Park
+          1	Noumbi
+          1	Noumbi Airport
+          1	Noura
+          3	Nourrissage Chimpanzés
+          1	Nouveau Terminal de Ponte-Noire
+          1	Nouveau village Imvouba
+          1	Nouveau village Nkouo
+          1	Npoumako
+          1	Npoutou
+          1	Nsa
+          1	Nsamouna
+          1	Nsele
+          1	Ntaka
+          1	Ntala
+          1	Ntam
+          2	Ntari
+          1	Ntari-Binzemba
+          1	Ntembo
+          1	Ntenzi
+          1	Nthounzao
+          1	Ntisou
+          1	Ntokou
+          1	Ntolo-Ola
+          1	Ntombo
+          1	Ntombo Manyanga
+          1	Ntoumbi
+          1	Ntsampoko
+          1	Nunciature Apostolique (Vatican)
+          1	Nyanbang
+          4	Nyanga
+          1	Nyanga Airport
+          1	Nzabi
+          1	Nzaki
+          1	Nzangi
+          1	Nzasi
+          1	Nzassi
+          1	Nzebe
+          1	Nzima
+          1	Nzimbati
+          1	Nzingoulou
+          1	Nzombo
+          1	Nzonga
+          1	Nzou-Tari
+          1	Nzoungo Kibangou
+          1	Nzumbili
+          1	O Palais
+          1	O Sympathique
+          1	OCH
+          1	OFIS
+          1	OMS
+          1	OMS Estate
+          1	OMS en République du Congo
+          1	ONANGA
+          1	ONEMO (Office National de l'Emploi)
+          1	Oanzi
+          1	Obala-Loango
+          1	Obia
+          1	Oboli
+          1	Obouya
+          1	Observatoire
+          1	Obélé
+          1	Obéya
+          1	Ocean du Nord
+          1	Ocean du nord
+          1	Ocean rouge
+          1	Och
+          1	Odzia
+          1	Odziba
+          1	Odzio
+          1	Oever
+          1	Oggoué
+          3	Ogooué
+          1	Ogooué-Ivindo
+          1	Ogooué-Lolo
+          3	Oil Congo
+          1	Oil Trading Congo
+          1	Oka
+          1	Okiele
+          1	Okiéné
+          1	Okonmwe
+          2	Okoyo
+          2	Okoyo Airport
+          1	Old Sibiti Airport
+          1	Olenga
+          1	Ollebi
+          1	Ollombo
+          1	Olono
+          1	Olympique Palace
+          1	Ombele
+          1	Ombima
+          1	Omoy Bayombe
+          1	Omoy Gouenge
+          1	Omoy Mokanda
+          1	Omoye
+          1	Ondama
+          1	Ongali
+          1	Ongo
+          1	Ongogni
+          1	Ongonyi
+          1	Ongoyi
+          1	Onguia
+          2	Onianva
+          2	Optic Congo
+          2	Orca
+          1	Orchidée
+          1	Oriental
+          1	Ossa
+          1	Ossake
+          1	Ossiba
+          1	Ossonga
+          1	Ossélé
+          1	Otala
+          1	Otali
+          1	Otsendé
+          1	Otsénié
+          1	Ottendé
+          1	Ouanda
+          3	Oubangui
+          1	Oubouéssé
+          1	Ouenze
+          1	Ouenzé
+          1	Ouenzé- Bouetambongo
+          1	Ouenzé-Konda
+          1	Ouesso
+          1	Outils
+          2	Ouésso
+          2	Owando
+          1	Owando Airport
+          1	Oyananga
+          1	Oyo
+          1	Oyonfoula
+          1	P.K. Rouge
+          1	P01
+          1	P03
+          1	P04
+          1	P05
+          1	P06
+          1	P07
+          1	P08
+          1	P09
+          2	P10
+          1	P100
+          1	P101
+          1	P102
+          1	P103
+          1	P104
+          1	P106
+          1	P107
+          1	P108
+          1	P109
+          2	P11
+          1	P110
+          1	P111
+          1	P112
+          1	P113
+          1	P114
+          1	P115 Angle
+          1	P116
+          1	P117
+          1	P118
+          1	P119
+          2	P12
+          1	P120
+          1	P121
+          1	P122
+          1	P123
+          1	P124
+          1	P125
+          1	P126
+          1	P127
+          1	P128
+          1	P129
+          2	P13
+          1	P130
+          1	P131
+          1	P132
+          1	P133
+          1	P134
+          1	P135
+          1	P136
+          1	P137
+          1	P138
+          1	P139
+          2	P14
+          1	P140
+          1	P141
+          1	P142
+          1	P143
+          1	P144
+          1	P145
+          1	P146
+          1	P147
+          1	P148
+          1	P149
+          2	P15
+          1	P150
+          1	P151
+          1	P153
+          1	P154
+          1	P155
+          1	P156
+          1	P157
+          1	P158
+          1	P159
+          2	P16
+          1	P160
+          1	P161
+          1	P162
+          1	P163
+          1	P164
+          1	P165
+          1	P166
+          1	P167
+          1	P168
+          1	P169
+          2	P17
+          1	P170
+          1	P171
+          1	P172
+          1	P173
+          1	P174
+          1	P175
+          1	P176
+          1	P177
+          1	P178
+          1	P179
+          2	P18
+          1	P180
+          1	P181
+          1	P182
+          1	P183
+          1	P184
+          1	P185
+          1	P186
+          1	P187
+          1	P188
+          1	P189
+          2	P19
+          1	P190
+          1	P191
+          1	P192
+          1	P193
+          1	P194
+          1	P195
+          1	P196
+          1	P197
+          1	P198
+          1	P199
+          1	P2
+          2	P20
+          1	P200
+          1	P201
+          1	P202
+          1	P203
+          1	P204
+          1	P205
+          1	P206
+          1	P207
+          1	P208
+          1	P209
+          2	P21
+          1	P210
+          1	P211
+          1	P212
+          1	P213
+          1	P214
+          1	P215
+          1	P216
+          1	P217
+          1	P218
+          1	P219
+          2	P22
+          1	P220
+          1	P221
+          1	P223
+          1	P224
+          1	P225
+          1	P226
+          1	P227
+          1	P228
+          1	P229
+          2	P23
+          1	P230
+          1	P231
+          1	P232
+          1	P233
+          1	P234
+          1	P235
+          1	P236
+          1	P237
+          1	P238
+          1	P239
+          2	P24
+          1	P240
+          1	P241
+          1	P242
+          1	P243
+          1	P244
+          1	P245
+          1	P246
+          1	P247
+          1	P248
+          1	P249
+          2	P25
+          1	P250
+          1	P251
+          1	P252
+          1	P253
+          1	P254
+          1	P255
+          1	P256
+          1	P257
+          1	P258
+          1	P259
+          2	P26
+          1	P260
+          1	P261
+          1	P262
+          1	P264
+          1	P266
+          1	P267
+          1	P268
+          1	P269
+          1	P27
+          1	P27.
+          1	P270
+          1	P271
+          1	P272
+          1	P273
+          1	P274
+          1	P275
+          1	P277
+          1	P278
+          2	P28
+          1	P280
+          1	P280..
+          1	P281
+          1	P282
+          1	P282.
+          1	P283
+          1	P283.
+          1	P284
+          1	P284.
+          1	P285
+          1	P285.
+          1	P286
+          1	P286.
+          1	P287
+          1	P287.
+          1	P288
+          1	P288.
+          1	P289
+          1	P289.
+          2	P29
+          1	P29 1
+          1	P290
+          1	P290.
+          1	P291
+          1	P291.
+          1	P292
+          1	P292.
+          1	P293
+          1	P293.
+          1	P294
+          1	P294.
+          1	P295
+          1	P295.
+          1	P296
+          1	P296.
+          1	P297
+          1	P297.
+          1	P298
+          1	P298.
+          1	P299
+          1	P299.
+          1	P3
+          2	P30
+          1	P300
+          1	P300.
+          1	P301
+          1	P301.
+          1	P302.
+          1	P303
+          1	P304
+          1	P304.
+          1	P305
+          1	P305.
+          1	P306
+          1	P306.
+          1	P307
+          1	P307.
+          1	P308
+          1	P308.
+          1	P309
+          1	P309..
+          1	P309N
+          1	P31
+          1	P310
+          1	P311
+          1	P312
+          1	P314
+          1	P315
+          1	P316
+          1	P317
+          1	P318
+          1	P319
+          1	P32
+          1	P320
+          1	P321
+          1	P322
+          1	P323
+          1	P324
+          1	P325
+          1	P326
+          1	P327
+          1	P328
+          1	P329
+          1	P33
+          1	P330
+          1	P331
+          1	P332
+          1	P333
+          1	P334
+          1	P335
+          1	P336
+          1	P337
+          1	P338
+          1	P339
+          1	P34
+          1	P340
+          1	P341
+          1	P342
+          1	P343
+          1	P344
+          1	P345
+          1	P346
+          1	P347
+          1	P348
+          1	P349
+          1	P36
+          1	P37
+          1	P38
+          1	P383.
+          1	P39
+          1	P4
+          1	P40
+          1	P41
+          1	P42
+          1	P43
+          1	P44
+          1	P45
+          1	P46
+          1	P47
+          1	P48
+          1	P48.
+          1	P49
+          1	P50.
+          1	P51
+          1	P52
+          1	P54
+          1	P55
+          1	P56
+          1	P6
+          1	P61
+          1	P62
+          1	P63
+          1	P64
+          1	P65
+          1	P68
+          1	P69
+          1	P7
+          1	P70
+          1	P71
+          1	P72
+          1	P73
+          1	P74
+          1	P75
+          1	P76
+          1	P77 Angle
+          1	P78
+          1	P79
+          2	P8
+          1	P80
+          1	P81
+          1	P82
+          1	P83
+          1	P84
+          1	P85
+          1	P86
+          1	P87
+          1	P88
+          1	P89
+          1	P9
+          1	P90 Angle
+          1	P91
+          1	P92
+          1	P93
+          1	P94
+          1	P95
+          1	P96
+          1	P97
+          1	P98
+          1	P99
+          1	PAM
+          1	PANALPINA
+          1	PC EGN(Camp de la gendarmerie de Bifouiti)
+          1	PK117
+          1	PP
+          1	PRESIDENCE
+          1	Padi
+          1	Pagne de Reve
+          1	Paillet
+          1	Pain
+          1	Paka
+          1	Pako
+          1	Palais de Justice
+          1	Palais de Justice de Brazzaville
+          1	Palais de justice
+          1	Palais des Congrès
+          1	Palais des Sports
+          1	Palm Beach
+          1	Palm Beach Hotel
+          1	Palmeraie
+          1	Palmeras
+          1	Palmier
+          1	Pama
+          1	Pamba
+          1	Pamplemousses
+          1	Panda
+          1	Pandi
+          3	Panga
+          1	Pangala
+          1	Pangui
+          1	Panier de la Ménagère
+          1	Papaye
+          2	Paradis des Enfants
+          1	Parc
+          1	Parc National Nouabalé-Ndoki
+          1	Parc National de Lobéké
+          1	Parc des exposition "la foire"
+          1	Parc des expositions
+          2	Parc national d'Odzala-Kokoua
+          1	Parc national de Minkébé
+          1	Parc national de Mwagna
+          1	Parc national des plateaux Batéké
+          1	Parc national du Nki
+          1	Parcelle KOULOMBO
+          1	Paris
+          1	Park & Shop
+          1	Park & shop
+          1	Park n'Shop
+          1	Park'n Shop
+          1	Park'n'Shop
+          1	Parking Gardiennage Taxi et Bus
+          1	Parking Lavage Taxi
+          1	Parking Relais du Kouilou
+          1	Parking Taxi
+          2	Parking auto
+          1	Parking avion
+          1	Paroisse
+          1	Paroisse Sainte Photinie de MPAKA
+          1	Paroisse St Pierre Xavier
+          1	Paroisse Ste Marie
+          2	Parquet
+          1	Parti Congolais du Travail (PCT)
+          1	Pascal
+          6	Passerelle
+          1	Passports Control
+          1	Patisserie Denisia
+          1	Patisserie Vienoiserie
+          1	Pavillon présidentiel
+          1	Pdj1
+          1	Pdj10
+          1	Pdj17
+          1	Pdje11A
+          1	Pdje12
+          1	Pdje13
+          1	Pdje14
+          1	Pdje15
+          1	Pdje16
+          1	Pdje18
+          1	Pdje19
+          1	Pdje2
+          1	Pdje20
+          1	Pdje21
+          1	Pdje22
+          1	Pdje23
+          1	Pdje3
+          1	Pdje4 A
+          1	Pdje5
+          1	Pdje6 A
+          1	Pdje7
+          1	Pdje8
+          1	Pdje9
+          2	Peage
+          1	Peage Brazza
+          1	Peage Lemba
+          1	Pecheurs
+          2	Pedrosa
+          1	Pefaco Hotel Maya Maya
+          1	Pemo Airport
+          1	Pepe Nero / Villa 2
+          1	Perenco
+          1	Petit Bois
+          1	Petit Zanaga
+          1	Pharamacie Hamar
+          3	Pharmacie
+          1	Pharmacie Bikoumou
+          1	Pharmacie Forum Santé
+          1	Pharmacie Mavre
+          1	Pharmacie Mère Thérésa
+          1	Pharmacie Pascal
+          1	Pharmacie TIMO
+          1	Pharmacie Valencia
+          1	Pharmacie de Moungali
+          1	Pharmacie de l hopital
+          1	Pharmacie de l'hôpital
+          1	Pharmacie de nuit
+          1	Pharmacie du Chateau
+          1	Pharmacie du KM4-1
+          1	Pharmacie du Palais
+          2	Phenicia
+          1	PhoneHouse MTN
+          1	PhoneHouse Warid
+          1	Pic Kiama
+          1	Picnic
+          1	Pie x eglise
+          1	Pierre Ntsiete
+          1	Pierre Tchickaya de Boampire
+          1	Pikasongo
+          1	Pilier Pastorale
+          1	Pilier SHOM 101
+          1	Pilier SHOM 102
+          1	Pilier SHOM 104/243.1
+          1	Pilier SHOM 105
+          1	Pilier SHOM 106
+          1	Pilier SHOM 107
+          1	Pilier SHOM 200
+          1	Pilier SHOM 201
+          1	Pilier SHOM 202
+          1	Pilier SHOM 204
+          1	Pilier SHOM 205
+          1	Pilier SHOM 206
+          1	Pilier SHOM 207
+          1	Pilier SHOM 208
+          1	Pilier SHOM 209
+          1	Pilier SHOM 210
+          1	Pilier SHOM 211
+          1	Pilier SHOM 212
+          1	Pilier SHOM 213
+          1	Pilier SHOM 214
+          1	Pilier SHOM 215
+          1	Pilier SHOM 216
+          1	Pilier SHOM 217
+          1	Pilier SHOM 218
+          1	Pilier SHOM 219 T
+          1	Pilier SHOM 221 S
+          1	Pilier SHOM 222
+          1	Pilier SHOM 222 BIS
+          1	Pilier SHOM 222 TER
+          1	Pilier SHOM 223
+          1	Pilier SHOM 224
+          1	Pilier SHOM 225
+          1	Pilier SHOM 239
+          1	Pilier SHOM 243.1
+          1	Pilier SHOM 301
+          1	Pilier SHOM 302
+          1	Pilier SHOM 303
+          1	Pilier Tonelle
+          1	Pilier Toukakata
+          1	Pilikondi
+          1	Pilikondi 2
+          1	Pilonne
+          1	Pinocchio
+          2	Pioka
+          6	Pipeline Kundji-Djeno
+          2	Pipeline Riviere Rouge-Djeno
+          1	Pirogue 2 Nanga Ngoyo
+          1	Pirogues
+          2	Piste Baker
+          1	Pizzeria
+          1	Pizzeria Molotov
+          1	Place Marcel Tchionovo
+          1	Place Rotary
+          2	Place de La Victoire
+          1	Place de la République
+          1	Place de la Révolution
+          1	Place du Marché
+          1	Place du Palais
+          1	Plage
+          1	Plage de Bimba
+          1	Plaine de Yoyo
+          1	Plateau
+          1	Plateau des 15 ans
+          4	Plateaux
+          1	Platinum Palace
+          1	Plus jamais ça
+          1	Poincare
+          1	Point E
+          1	Point Frontirere
+          2	Pointcare
+          1	Pointe Indienne
+          1	Pointe Kounda
+          1	Pointe Mvassa
+          1	Pointe Tiamba
+          5	Pointe-Noire
+          2	Points Frontieres
+          1	Poisson
+          1	Poissonerie du Plateau
+          2	Pokola
+          1	Pokosso
+          1	Police Boko
+          1	Police Control
+          1	Police Souanké
+          1	Police control (Stop sign)
+          1	Pondi
+          1	Pondiala
+          1	Pondica 1
+          1	Pont Grumes Loubama
+          1	Pont Lewanda
+          1	Pont Loambe
+          1	Pont Mikado
+          2	Pont beton
+          5	Pont bois
+          1	Pont de Fouta
+          1	Pont de Lianes
+          1	Pont de Loali
+          1	Pont du Djoué
+          1	Pont du Kouilou
+          3	Pont du Niari
+          1	Pont mauvais etat
+          1	Pont plaques metal
+          1	Pont tubes metal
+          1	Ponte casse
+          1	Ponton Bâtiment et services
+          2	Pool
+          1	Pool Malebo
+          1	Porro
+          1	Port Hydro
+          1	Port beach
+          1	Port d'ATC
+          1	Port de Lekety
+          3	Porte
+          1	Porte du Mayombe
+          1	Posi Port
+          1	Poste
+          1	Poste de Contrôle Unique Frontalier de Ntam
+          1	Poste de Madingou
+          1	Poste de Police
+          1	Poste de Police MOUKOU'DZI NGOUAKA
+          1	Poste de Police de Nkombo
+          1	Poste de Péage
+          1	Poste de Santé de Bihoua
+          1	Poste de Santé de Matombi
+          1	Poste de contrôle de Mayama
+          1	Poste de contrôle de Mindouli
+          1	Poste de contrôle de Ngamanzambala
+          1	Poste de police Lumumba
+          1	Poste de police de Mapati
+          1	Poste de police de Moukéké
+          1	Poterie des Arts
+          1	Poto-Poto
+          1	Poto-Poto 2
+          3	Poudi
+          1	Poulets vivants
+          1	Poumbou
+          1	Poundzou
+          1	Poutres metalliques
+          1	Pouéré
+          1	Practice de Golf - Cercle civil
+          3	Prefecture
+          1	Prefecture Sibiti
+          1	Prefecture du Niari
+          1	Prefet
+          1	Prescolaire Catholique
+          1	President
+          1	Pressing CHUMPANG
+          1	Programme Alimentaire Mondial
+          1	Projet TATS
+          2	Promar
+          2	Préfecture
+          1	Préfecture de Loango
+          1	Puit
+          1	Puit de Vie
+          1	Puma
+          1	Puma - Route de l'Aéroport
+          1	Puma Ngoyo
+          1	Pâtisserie Bourgeois
+          1	Péage de Cote Mateve
+          1	Péage de Malele
+          1	Péage de Mengo
+          1	Péage de Moukondo
+          1	Pécheurs de Tchiboula
+          1	Pépiniériste, cactus
+          1	Quai Agrume
+          1	Quai Pétrolier
+          1	Quartier Dimaud
+          1	Quartier Itoumbi-Boutambongo
+          1	Quartier Mouyondzi
+          1	Quincaillerie OPKELOYEROU
+          1	Quincaillerie Voisin
+          1	Quincaillerie de Nanga
+          1	R PK 110
+          2	R.A3.027
+          1	R.Alain Makosso
+          1	R.André Kiminou
+          1	R.Anne Makaya
+          1	R.Aubeville
+          1	R.B2.584
+          1	R.C1.024
+          1	R.C4.584
+          1	R.Chantal Salamiaté
+          1	R.Clarisse Bouanga
+          1	R.Des Ancetres
+          1	R.Gine Dominique
+          1	R.Jean Louis Makosso
+          1	R.Kayes
+          1	R.Kingoma
+          1	R.Landry Makosso
+          1	R.Libota
+          1	R.Makongo
+          1	R.Mboulou
+          1	R.Mioule
+          1	R.Moudoumbou
+          1	R.Mpita
+          1	R.Mpombo
+          1	R.N'dille
+          1	R.Ndama
+          1	R.Nganga Moutsinga
+          1	R.Ngoulou Massi
+          1	R.Ngouvou
+          1	R.Nimina
+          1	R.Nzila
+          1	R.Pasteur Louis Gaspard Sakala
+          1	R.Pikassongo
+          1	R.Rose Pouabou
+          1	R.Tchiessa
+          1	R.Tchifounzi
+          1	R.Tchimbambi
+          1	R.jean Ndende
+         40	RD Congo - Congo-Brazzaville
+          1	RD Congo - République centrafricaine
+          1	RD Congo - anciennes provinces (avant mi-2015)
+          1	RD Congo - provinces
+          1	RN2
+          1	ROND POINT CCF
+          1	RR 1
+          1	RUE BISSITOULOU
+          2	Radio Brazzaville
+          1	Radio Congo
+          1	Radio RME
+          1	Radio SRTV
+          1	Radisson Blu - Mbamou Palace
+          1	Rafinerie clandestine
+          1	Rafinerie de Djeno
+          1	Ramdam
+          1	Rapides de Nouvélou
+          1	Ravin de la Glacière
+          3	Ravin du Tchad
+          1	Relais du Kouilou
+          1	Renatura
+          1	Reparation et deblocage de telephone chez dutch
+          1	Repas du 09/04/2017
+          1	Residence
+          1	Residence Emeraude
+          1	Residence La Loya
+          1	Residence Nelson
+          1	Residence Saint Jacques
+          1	Restaurant
+          1	Restaurant ANIC
+          1	Restaurant Cathy
+          1	Restaurant Sénégalais chez FANTA
+          1	Restaurant de brousse
+          2	Rex
+          1	Rhaunax
+          1	Riverside Restaurant
+          1	Rivière Bibaka
+          1	Rivière Bleu
+          1	Rivière Loubendé
+          1	Rivière Noire
+          3	Rivière Tchicondo
+          1	Rivière Tchiketa
+          1	Roc de Tchikobo
+          1	Romaine
+          1	Romania (Honorary Consulate)
+          1	Rond Point Ilama
+          1	Rond Point Kassai
+          1	Rond Point Lumumba
+          1	Rond Point Mazala
+          1	Rond Point Sympathique
+          2	Rond Point de la Liberté
+          1	Rond de l'Aeroport
+          1	Rond point Fond Tié-Tié
+          1	Rond-Point Yende
+          1	Rond-point Moungali
+          1	Rond-point le gorille
+          1	Route Mbanza
+          1	Route de Pako
+          3	Route de la Frontière
+          2	Route de la corniche
+          1	Route du Cimetière
+          1	Route nationale 12
+          1	Route nationale 43
+          1	Routes Congolaises Numérotées P
+          1	Routes Nationales Congo Brazzaville
+          1	Routes Nationales Congo Kinshasa
+          1	Routes Nationales Gabonaises
+          1	Roxane Behome
+          2	Roy
+          1	Royal
+          1	Royal Air Maroc
+          1	Ru Gamboma
+          1	Rue 31 Décémbre 1969
+          1	Rue Abala
+          2	Rue Addis Abeba
+          1	Rue Adis Abebas
+          1	Rue Adjudant Balou
+          1	Rue Albert Poatii
+          1	Rue Albert Saboga
+          1	Rue Alfred Bouyou
+          1	Rue Algerie
+          2	Rue Alice Valette
+          1	Rue Allembe
+          1	Rue Alphonse Bayonne
+          1	Rue Alphonse Samba
+          1	Rue Ambroise bouyou
+          1	Rue Ambuila
+          1	Rue Anaclet Taty
+          1	Rue Ancien Combatant
+          1	Rue André Loemba U'sang'M
+          1	Rue Anicet Géorges Koumba
+          1	Rue Antoine Poaty Nzo tatou
+          1	Rue Antonnetti
+          1	Rue Arthure Soumbou
+          1	Rue Atali
+          1	Rue Avoine
+          1	Rue B. Matanda
+          1	Rue BOUALI NKASI
+          1	Rue Babembes
+          1	Rue Bacongo
+          1	Rue Baka
+          1	Rue Bakouele
+          1	Rue Balay
+          1	Rue Bambama
+          1	Rue Banda
+          1	Rue Bandzas
+          1	Rue Banga
+          1	Rue Bangala
+          1	Rue Bangangoulous
+          2	Rue Bangassou
+          1	Rue Bangou
+          1	Rue Bangui
+          1	Rue Bartthelemy Mavoungou
+          2	Rue Bary Minaka
+          1	Rue Bata
+          1	Rue Batamboula
+          1	Rue Batsangui
+          1	Rue Bela
+          1	Rue Belolo
+          1	Rue Benjamin Pambou
+          1	Rue Bernard Fouékélé
+          1	Rue Bernard Makaya
+          1	Rue Bernard Nelhou
+          2	Rue Biessi
+          1	Rue Bilongo
+          2	Rue Bitala
+          1	Rue Bitam
+          1	Rue Bivoumbi
+          1	Rue Blaise F. Tchitembo
+          2	Rue Blanche Gomez
+          1	Rue Blanchez
+          1	Rue Bois des Singes
+          2	Rue Boko
+          2	Rue Boko Songo
+          3	Rue Bouagnela
+          1	Rue Bouar
+          1	Rue Bouba
+          1	Rue Boudianga
+          1	Rue Boueta M'bongo
+          1	Rue Bouili Nkassou
+          1	Rue Boumouelé
+          1	Rue Boumoungou
+          1	Rue Boundji
+          1	Rue Boupanda
+          1	Rue Bulolu Bu Mvu-Mvu
+          1	Rue Bwal Bwam
+          1	Rue Béhangle
+          1	Rue Camille Tsatsa
+          1	Rue Casimir Voulaléa
+          2	Rue Charles Bibeya
+          1	Rue Charles Kambo
+          1	Rue Ciavaldini
+          1	Rue Coomapon
+          2	Rue Corniche
+          1	Rue Dakar
+          2	Rue Daniel Madingou
+          1	Rue Daniel Makosso
+          1	Rue Daniel Nzatsy
+          1	Rue De Bongolo
+          1	Rue De Dzoumouta
+          1	Rue De Loubota
+          1	Rue De Mangakala
+          1	Rue De Mawawa
+          1	Rue De N'zassi
+          1	Rue De Ngouari
+          1	Rue De Nguetani
+          1	Rue Des Mweni
+          1	Rue Dianga
+          2	Rue Diangala
+          2	Rue Diba
+          1	Rue Dibeni
+          1	Rue Diesse
+          1	Rue Divenie
+          1	Rue Divouba
+          2	Rue Djambala
+          1	Rue Djaména
+          1	Rue Djembou
+          1	Rue Djoueke
+          1	Rue Docteur Bernard Ngalibali
+          1	Rue Docteur Busse
+          2	Rue Docteur Fila
+          1	Rue Docteur Rabassa
+          1	Rue Dokessé
+          1	Rue Dongou
+          2	Rue Doumanga
+          1	Rue Doya
+          1	Rue Dr Antoine Mboungou
+          1	Rue Dr Raymond Mahouata
+          2	Rue Du lac Tchimba
+          1	Rue Durban
+          1	Rue Edmond Malalou
+          1	Rue Edouard Makaya
+          1	Rue Edouard Nganga
+          1	Rue Edouard Renard
+          1	Rue Eli Ngassiami
+          2	Rue Emery Patrice Lumumba
+          1	Rue Emile Bioka
+          1	Rue Emmanuel Mbanzalounda
+          1	Rue Enyelle
+          1	Rue Etoro
+          1	Rue Eugène Pambou
+          2	Rue Ewo
+          1	Rue Fabien Mafoumbiri
+          2	Rue Favre
+          1	Rue Felix Ntengo
+          1	Rue Fort Lamy
+          4	Rue France Ville
+          1	Rue François Pongui
+          3	Rue François Tchivanga
+          1	Rue Félix Tchikaya
+          1	Rue Félix Éboué
+          1	Rue Gabriel Bokilo
+          1	Rue Gabriel Loembet
+          1	Rue Gahimba
+          4	Rue Gamboma
+          2	Rue Gaspard Nkoua
+          2	Rue Georges cantey Abdoul
+          1	Rue Germaine Mileké Moukouyou
+          2	Rue Germaine Tchibouya
+          1	Rue Gnionzi
+          1	Rue Gogo d'Outre Mer
+          1	Rue Gouverneur Général Bayardelle
+          1	Rue Gouverneur Gérard Reste
+          1	Rue Gouverneur général Bayardelle
+          1	Rue Guinée
+          1	Rue Géoffroy Paka Ngouma
+          1	Rue Gérard
+          2	Rue Haute Voltage
+          1	Rue Hervé Kombila
+          1	Rue Hervé-Dello
+          1	Rue Hinda
+          1	Rue Hippolyte Mbemba
+          1	Rue Hoji Ya Henda
+          4	Rue Hyancinthe Badinga
+          1	Rue Hypolite Tchiloemba
+          1	Rue Ibouanga
+          1	Rue Idonke
+          1	Rue Idoumi
+          1	Rue Idriss Diallo
+          1	Rue Igname
+          1	Rue Illanga
+          2	Rue Impfondo
+          1	Rue Impé
+          1	Rue Itoumbi
+          1	Rue Jacob Binaki
+          1	Rue Jean Baptiste Makaya
+          1	Rue Jean Boeing
+          1	Rue Jean Boeing Bis
+          1	Rue Jean Gilbert Taty
+          1	Rue Jean Jeaque Loukabou
+          1	Rue Jean Jeaque Nzonzi
+          1	Rue Jean fernandes Lylikou
+          1	Rue Jerôme Moe Balou
+          1	Rue Jolie
+          1	Rue Joseph Iboua
+          1	Rue Joseph Mbakoko
+          1	Rue Joseph Moukakoumou
+          1	Rue Jude-Nwolisa
+          1	Rue Jules Grevy
+          1	Rue Kakongo
+          1	Rue Kambwakouela
+          2	Rue Kanga
+          1	Rue Kanzo
+          3	Rue Kassa Alphonse
+          2	Rue Kelle
+          1	Rue Kibinda Lima
+          1	Rue Kifouma
+          1	Rue Kimbeza
+          1	Rue Kimbimi
+          2	Rue Kimboungou
+          3	Rue Kimongo
+          1	Rue Kimongo Bis
+          1	Rue Kimpambou Kayes
+          1	Rue Kimpoungou
+          2	Rue Kinkala
+          1	Rue Kinsana
+          2	Rue Kinshasa
+          1	Rue Kissousuboma
+          1	Rue Kitengué
+          1	Rue Kiyanda
+          1	Rue Kodia Pierrette
+          1	Rue Koffi Anan
+          1	Rue Kokolo Louboungou
+          1	Rue Kola Pindi
+          1	Rue Kongo Mpangala
+          1	Rue Kopel
+          1	Rue Kouboukouta
+          1	Rue Koufou
+          1	Rue Koumbouliambou
+          1	Rue Kyamvou
+          1	Rue L Gilbert Ngakosso
+          1	Rue LIKOMO
+          1	Rue LOUNIANGA
+          1	Rue Lambert Mboungou
+          1	Rue Lampakou
+          1	Rue Landana
+          1	Rue Lapi
+          1	Rue Largeau
+          1	Rue Laurent Mimiche
+          1	Rue Le Pélican
+          1	Rue Leali
+          1	Rue Lefourou
+          1	Rue Lekounauon
+          2	Rue Lenine
+          1	Rue Letembet Ambili
+          1	Rue Liboka
+          1	Rue Libondo
+          1	Rue Libreville
+          1	Rue Likalala
+          1	Rue Likouba
+          1	Rue Likouiti
+          1	Rue Likoumou
+          1	Rue Limba
+          3	Rue Limbou
+          2	Rue Litongu
+          2	Rue Livata
+          1	Rue Lizandou
+          2	Rue Loandjili
+          2	Rue Loua
+          1	Rue Louara
+          1	Rue Louassi
+          1	Rue Louba
+          2	Rue Loubanvou
+          2	Rue Loubassi Ngang
+          1	Rue Loubetsi
+          1	Rue Loubongou
+          1	Rue Louboungou
+          3	Rue Loudima
+          1	Rue Louetsi
+          1	Rue Loufou
+          2	Rue Loufoua Toulou
+          2	Rue Loufoye
+          1	Rue Lougwenou
+          1	Rue Louingui
+          2	Rue Louis Pasteur
+          1	Rue Louis de Gombet
+          3	Rue Louissi Ndela
+          1	Rue Loukondo
+          1	Rue Loul
+          1	Rue Loumo
+          1	Rue Lounianga
+          1	Rue Louolo
+          1	Rue Loutabou
+          1	Rue Louvakou
+          1	Rue Louvali
+          3	Rue Louémé
+          1	Rue Lubango
+          2	Rue Lutambi
+          1	Rue Lékoumou
+          1	Rue M'Vanza
+          1	Rue M'fouka M'BOUMBA
+          2	Rue M'pika
+          1	Rue MAKOSSO TCHIKOUSSA
+          1	Rue MBINZI
+          2	Rue MOULONGUI
+          1	Rue MOUYALI
+          1	Rue Mabafi
+          1	Rue Mabiala Matsati
+          1	Rue Mabilou
+          1	Rue Madiba
+          3	Rue Madingou
+          1	Rue Madzakala
+          1	Rue Madzia
+          2	Rue Madzoua
+          2	Rue Makabana
+          2	Rue Makinou
+          1	Rue Makola
+          2	Rue Makosso
+          1	Rue Makotipoko
+          1	Rue Makoua
+          1	Rue Makoua-Penda
+          1	Rue Makouendi
+          1	Rue Mali
+          1	Rue Mamboma N'ZENZE
+          1	Rue Mampiri
+          1	Rue Mandombé
+          2	Rue Mandzomo
+          3	Rue Mankondo Yama
+          2	Rue Manzomo
+          1	Rue Mapila
+          1	Rue Marcel N'goukoulou
+          1	Rue Marie Bella
+          1	Rue Marie Louis Poto
+          1	Rue Marie Mabouma
+          1	Rue Maroc
+          1	Rue Marue Mpouta
+          1	Rue Massangui
+          1	Rue Masseké
+          1	Rue Massiala
+          1	Rue Massina
+          2	Rue Massouete
+          2	Rue Massoukou
+          1	Rue Mathias Ngoukoulou
+          1	Rue Matoto
+          1	Rue Matsima Donatien
+          1	Rue Matsimou
+          1	Rue Matsiona Nzoulou
+          1	Rue Maurice Locko
+          1	Rue Maurice Nyama
+          1	Rue Mavoungou-Tchitembo
+          1	Rue Maya Maya
+          1	Rue Mayoko
+          1	Rue Mayombe
+          1	Rue Mbali
+          3	Rue Mbama
+          1	Rue Mbandja
+          1	Rue Mbangassou
+          1	Rue Mbaya-Koubola
+          3	Rue Mbemba landou
+          1	Rue Mbiemo
+          1	Rue Mbila
+          1	Rue Mbinda
+          3	Rue Mbissi
+          7	Rue Mbochi
+          1	Rue Mboko
+          2	Rue Mbondo
+          1	Rue Mbota Laurent
+          1	Rue Mboubissi
+          1	Rue Mbouelili
+          1	Rue Mboukou Auguste
+          1	Rue Mboukou Massi
+          3	Rue Mboulou
+          1	Rue Mbounda
+          3	Rue Mboungou
+          1	Rue Mboungou-Tsatsi
+          1	Rue Mellet
+          1	Rue Mfouati
+          1	Rue Mfouati Bis
+          1	Rue Mfoundou
+          1	Rue Michel Albin Balenda
+          1	Rue Michel Moutsatsi
+          1	Rue Michel Mpindi
+          1	Rue Michel Romano
+          1	Rue Michelle Moutsatsi
+          1	Rue Mikoka
+          1	Rue Mimvoul
+          1	Rue Mindouli
+          1	Rue Moboutouba
+          1	Rue Moe Gali
+          1	Rue Moe Louendo
+          1	Rue Moe Makanga
+          1	Rue Moe Tchikounzi
+          2	Rue Moe-Mayilou
+          1	Rue Mokanda
+          1	Rue Mollembila
+          2	Rue Mongo Semi
+          1	Rue Mont-Fouary
+          1	Rue Mont-Tsieri
+          1	Rue Moralou
+          3	Rue Mossendjo
+          1	Rue Moudoungo
+          1	Rue Mouila
+          1	Rue Moukoubouma
+          1	Rue Moukoukoulou
+          1	Rue Moukounda
+          1	Rue Moukoundo
+          1	Rue Moulolongo
+          1	Rue Moulénda
+          1	Rue Moundzombo
+          1	Rue Moupépé
+          1	Rue Moutamba
+          2	Rue Moutampa
+          2	Rue Mouyondzi
+          1	Rue Moyen Congo
+          1	Rue Moé Djimbi
+          1	Rue Moê BOUKEGNI
+          2	Rue Mpanga
+          1	Rue Mpassi Mpassi
+          1	Rue Mpemba
+          1	Rue Mpembi
+          1	Rue Mpika
+          1	Rue Mponzi
+          1	Rue Mpouassa
+          1	Rue Mpoungou
+          3	Rue Mvagui
+          1	Rue Mvandji
+          3	Rue Mvouti
+          1	Rue N'GANGA M4VOUMBI
+          1	Rue N'Kipessi
+          1	Rue N'Koumbi
+          2	Rue N'Senga
+          1	Rue N'Zimou
+          2	Rue N'goyo U'ntou
+          2	Rue N'limba
+          1	Rue Namoukemba
+          1	Rue Nanga
+          1	Rue Ndangani
+          1	Rue Ndende Niengo
+          1	Rue Ndimba Tchicaya
+          1	Rue Ndola
+          1	Rue Ndolo
+          2	Rue Ndouo
+          1	Rue Ndzabana Jadot
+          1	Rue Nehémie
+          1	Rue Nfiefie
+          1	Rue Ngantsibi
+          1	Rue Ngayi-Ngayi
+          1	Rue Ngokango
+          2	Rue Ngoma Pepe
+          4	Rue Ngongui
+          1	Rue Ngot-Nzoungou
+          1	Rue Ngoto
+          1	Rue Ngoua Ntandou
+          1	Rue Ngouali Mpesso
+          1	Rue Ngouvou
+          2	Rue Ngueli Ngueli
+          2	Rue Nguembo Nicolas
+          1	Rue Nianga
+          1	Rue Niaty Moukongo
+          4	Rue Nicomas Mabiala
+          1	Rue Niendzi
+          1	Rue Nikila
+          1	Rue Nimi Maurice
+          1	Rue Niouvou
+          1	Rue Nkabi
+          1	Rue Nkassi
+          1	Rue Nkassou
+          2	Rue Nkata
+          2	Rue Nkayi
+          1	Rue Nkissi
+          1	Rue Nkonka-Matiabou
+          1	Rue Nkosso
+          1	Rue Nkouka Jean Rigobert
+          1	Rue Nkoula Batéké
+          5	Rue Nkô
+          1	Rue Nombo Sinda
+          2	Rue Nonouka
+          1	Rue Noumbi
+          1	Rue Nouni
+          2	Rue Nsatou Meya
+          1	Rue Nteti
+          1	Rue Ntima
+          1	Rue Nzassil-Koko
+          1	Rue Nzoko
+          1	Rue Nzombo
+          1	Rue Obongui
+          1	Rue Ognia
+          1	Rue Okah
+          1	Rue Okari
+          1	Rue Okiessi
+          1	Rue Olombo
+          1	Rue Omer Tchicaya
+          1	Rue Omoyo
+          1	Rue Onianva
+          1	Rue Ouango
+          1	Rue Owando
+          1	Rue Oyem
+          1	Rue Oyo
+          1	Rue POUTOU
+          1	Rue Pagazo
+          1	Rue Palmeraie
+          2	Rue Pangui
+          3	Rue Paul Kamba
+          1	Rue Paul Pouabou
+          1	Rue Pauline M'bumbe
+          1	Rue Pierre Kando
+          1	Rue Pierre Kouvandila
+          1	Rue Pierre Marie Bimi
+          1	Rue Pierre Masoueba
+          1	Rue Port Gentil
+          1	Rue Poupou
+          1	Rue President Bouganda
+          1	Rue Prosper Tchimbakala
+          1	Rue Prosper Tchissambou
+          1	Rue Père Bressieux
+          3	Rue Père Dréan
+          1	Rue Quatre Maison
+          1	Rue Raoul Kouanga
+          1	Rue Raphael Makaya Mavoungou
+          1	Rue ReineN'galifourou
+          1	Rue Remus Pambou
+          1	Rue Robert Bathem
+          1	Rue Roger Tati Tref
+          2	Rue Roi Makoko
+          1	Rue Sainte Anne
+          2	Rue Sala
+          2	Rue Salou
+          1	Rue Samba Felix
+          1	Rue Sandaka
+          2	Rue Schoelcher
+          1	Rue Scholcher Bis
+          2	Rue Seka
+          1	Rue Selele
+          2	Rue Sengolo
+          1	Rue Si-Yim'Tangn
+          1	Rue Sibiranti Cao
+          2	Rue Sibiti
+          1	Rue Simon Samba
+          1	Rue Sita Jerome
+          1	Rue Solokolo
+          1	Rue Soyo
+          1	Rue Spingler
+          1	Rue St. Exupery
+          3	Rue Stanislas Batchi
+          1	Rue Sénégal
+          1	Rue TCHIANG
+          1	Rue TCHIANG TCHIMPAKA
+          1	Rue TCHIDOUTI
+          1	Rue Taba
+          1	Rue Tailleur
+          1	Rue Taroati
+          1	Rue Tati Koufiya
+          1	Rue Tchiakalou Ti Si
+          1	Rue Tchiakou-Tchiakou
+          1	Rue Tchibang
+          2	Rue Tchibet
+          1	Rue Tchibota
+          1	Rue Tchibounzi
+          1	Rue Tchidouti
+          3	Rue Tchikade
+          2	Rue Tchikata
+          1	Rue Tchikayama
+          1	Rue Tchilong'
+          1	Rue Tchiloumbou-Liambou
+          1	Rue Tchimambili
+          2	Rue Tchimbala
+          1	Rue Tchimbangou
+          1	Rue Tchimpassi
+          1	Rue Tchinkati
+          1	Rue Tchinoa
+          1	Rue Tchiobo
+          1	Rue Tchissiate
+          1	Rue Tchitaka
+          1	Rue Tchitali
+          1	Rue Tchitekolo
+          1	Rue Tchitela
+          2	Rue Tchivala
+          1	Rue Tchiyoyo
+          1	Rue Theophile Loubaki
+          1	Rue Thérèse Koyi
+          1	Rue Tongo
+          1	Rue Toukou
+          2	Rue Tsangou
+          1	Rue Tsiema
+          1	Rue Tsiembo
+          1	Rue Tsifouinzi
+          1	Rue Tsimboungou
+          1	Rue Tsoha
+          1	Rue Typa-Vita
+          1	Rue Vallée Père
+          1	Rue Victor Panghoud
+          1	Rue Vinsa
+          1	Rue Vinza
+          1	Rue Voka
+          2	Rue Voula
+          1	Rue Vouma
+          2	Rue Vouvou
+          1	Rue Yakoma
+          1	Rue Yamba
+          1	Rue Yangui
+          1	Rue Yengo
+          2	Rue Youlou Nguete
+          1	Rue Zingana
+          1	Rue aron Diamonika
+          1	Rue aurelien Gnali
+          1	Rue bamba
+          1	Rue bankoria
+          1	Rue casimir mvoulaléa
+          3	Rue d'Alger
+          1	Rue d'Itomba
+          1	Rue d'Odikango
+          1	Rue d'Okembé
+          1	Rue d'Okoyo
+          1	Rue dMonguili
+          2	Rue de Bas Kouilou
+          1	Rue de Bioko
+          1	Rue de Bondi
+          1	Rue de Bouyala
+          1	Rue de Diosso
+          1	Rue de Franceville
+          1	Rue de Isdore Mountou
+          1	Rue de Kimboto
+          2	Rue de Kindamba ngouédi
+          1	Rue de Kingoue
+          1	Rue de Kissila
+          1	Rue de Komo
+          1	Rue de Kondi
+          1	Rue de L'Essa
+          1	Rue de Leboulou
+          1	Rue de Lefoutou
+          1	Rue de Louvila
+          1	Rue de M'poudila
+          1	Rue de Makola
+          1	Rue de Malangoy
+          1	Rue de Malemba
+          1	Rue de Massangui
+          1	Rue de Mayeye
+          1	Rue de Mbondji
+          2	Rue de Mboubissi
+          1	Rue de Mbé
+          1	Rue de Missassa
+          2	Rue de Mokeko
+          1	Rue de Moungali
+          4	Rue de Ngabe
+          2	Rue de Ngamadzoko
+          1	Rue de Ngondji
+          1	Rue de Ngonzo
+          2	Rue de Ngoundji
+          1	Rue de Nkandzi M'pinda
+          1	Rue de Nkinkéngué
+          2	Rue de Reims
+          1	Rue de Siala
+          1	Rue de Songolo
+          1	Rue de Tchilounga
+          1	Rue de Tchinouka
+          1	Rue de Tchissafou
+          1	Rue de Wete
+          1	Rue de Youlou Guette
+          1	Rue de Zinga
+          1	Rue de l'Abbé François Malouta
+          2	Rue de l'Abbé Jean-Pierre Fouti
+          2	Rue de l'Alima Lefini
+          1	Rue de l'Hotel de Ville
+          1	Rue de l'Hôpital
+          1	Rue de la Bouenza
+          2	Rue de la Concorde
+          3	Rue de la Mfoa
+          1	Rue de la Paix
+          1	Rue de la Palmeraie
+          1	Rue de la piscine
+          1	Rue de londela Kayes
+          1	Rue de loufoulakarie
+          1	Rue de m'fila
+          1	Rue des 3 Francs
+          1	Rue des 3 Glorieuses
+          1	Rue des Bangalas
+          2	Rue des Forages
+          1	Rue des Galois
+          1	Rue des Mangroves
+          2	Rue des Maraiches
+          2	Rue des Marins
+          1	Rue des Martyrs
+          3	Rue des Mères
+          1	Rue des Plateaux
+          1	Rue du 18 Mars 1977
+          1	Rue du Caire
+          1	Rue du Cdt Raymond Koutima 1
+          2	Rue du Colonel Brisset
+          2	Rue du Gabon
+          1	Rue du Gouverneur Général Félix Eboué
+          2	Rue du Kouilou
+          1	Rue du Niari
+          2	Rue du Pool
+          1	Rue du Stade
+          1	Rue du lac yanga
+          1	Rue gatsé Itoua
+          2	Rue itsibou
+          1	Rue jean Baptiste Makanga
+          1	Rue jean Mahoukou
+          1	Rue jean Tchicaillat
+          2	Rue jules Ngoma
+          1	Rue kangala
+          1	Rue kevoungou
+          2	Rue kiassala
+          1	Rue kibinza
+          1	Rue koulombo
+          2	Rue lagué
+          1	Rue lideke
+          1	Rue mabaya
+          1	Rue mafoudou
+          1	Rue mayama
+          2	Rue mayoko
+          1	Rue moe Loembet
+          1	Rue raymon Tchicaya
+          1	Rue tchicali
+          1	Rue tchilenda
+          1	Rue tchissamanou
+          1	Rue thomas Makaya
+          4	Rue tsampoko
+          2	Rue Énergie
+          2	Rue Étienne Marcel
+          1	Rur Loutemba
+          1	Russia (Embassy)
+          1	Rwanda (Embassy)
+          1	Rwandair
+          1	Rwy 04/22
+          1	Réalignement Chemin de Fer Congo-Océan
+          1	Répartition telephone chez Ndé
+          1	République du Congo
+          1	République démocratique du Congo
+          1	Réserve foncière d'état de la Patte d'Oie
+          1	Réserve forestière de Mai-Mpili
+          1	Réserve naturelle du triangle de la Ngiri
+          1	Résidence Bavie
+          1	Résidence Bavie 🌟
+          1	Résidence Ben
+          1	Résidence Elonda
+          1	Résidence Flower House
+          1	Résidence Hotelière le Barreau
+          1	Résidence Laurel
+          1	Résidence Le Rigo
+          1	Résidence Les Ambassadeurs
+          1	Résidence Odzock
+          1	Résidence Sania
+          1	Résidence des Kimbémbé
+          1	S.I.T.R.A.D.
+          1	SA TRANSPORT
+          1	SAB
+          1	SADC 101 (northbound)
+          1	SADC 101 (southbound)
+          1	SAT_1 Sole et Mare
+          1	SAT_2 Kundji
+          1	SAT_3 Makola
+          1	SAT_4 Tchingoli
+          1	SAT_5 Malele
+          1	SAT_6 Tchivoula
+          1	SAT_7 Bindi
+          1	SAT_8 Satet XXIII
+          1	SCAB
+          1	SCLOG
+          1	SDV voyages
+          1	SEAFOOD
+          1	SGS
+          1	SIAT
+          1	SIL-Congo
+          1	SITRAD Congo
+          1	SMT - VOLVO
+          3	SNDE
+          3	SNE
+          2	SNPC
+          1	SOCAF
+          1	SOMAC
+          1	SOVEMAC
+          1	STHIC
+          1	ST_Pierre_Marché BZ-02
+          1	SUECO
+          3	Sable
+          1	Saga Auto
+          2	Saint François
+          1	Saint-Paul
+          1	Sainte Claire
+          1	Sainte Marie de Ouenze
+          1	Sakala
+          1	Sakamesso
+          1	Sala
+          1	Sala Ngolo
+          1	Salebo
+          1	Salina
+          1	Salle de Conférence de Madingo-Kayes
+          1	Salle du Royaume
+          1	Sama
+          1	Samu Social Pointe-Noire
+          1	Sanctuaire de Tchimpounga
+          1	Sanctuary
+          1	Sanga-Street-la Base
+          1	Sangasi
+         12	Sangha
+          1	Sangha-Mbaéré
+          1	Sango
+          1	Sanguma
+          1	Sanza
+          1	Sapeurs Pompiers
+          1	Sapeurs pompiers
+          1	Sarah
+          1	Satf
+          1	Schekina
+          1	Schlumberger
+          1	Scierie
+          1	Sdv Transport
+          1	Sea Club
+          1	Sea club
+          1	Sea side
+          2	Secteur 1
+          1	Secteur 10
+          2	Secteur 2
+          2	Secteur 3
+          1	Secteur 4
+          1	Secteur 5
+          1	Secteur 6
+          1	Secteur 7
+          1	Secteur 8
+          1	Secteur 9
+          1	Seka
+          1	Seke-Banza
+          1	Selfie bar
+          2	Sembé
+          1	Sentier Cascade
+          1	Sentier Liboulou
+          1	Serge
+          1	Sevengui
+          1	Sexcello
+          1	Sexo
+          1	Shangai
+          1	Shop
+          1	Siafoumou
+          1	Siala
+          1	Sialivakou
+          2	Sibiti
+          1	Sidetra Airport
+          1	Silmandé
+          1	Sima
+          1	Simanguié
+          1	Simba
+          2	Sinda
+          1	Sine Bamba
+          1	Singa
+          1	Singa-Betina
+          1	Singa-Piko
+          1	Sintou
+          2	Site 15 Avril
+          1	Site Kodya
+          1	Smith
+          1	Snac nour
+          2	Société Générale
+          1	Société Générale Congo
+          1	Société Générale d'Alimentation
+          1	Socobelam
+          3	Socofran
+          1	Socoprise
+          1	Socotran
+          1	Sodeca
+          1	Sodexho
+          2	Sole Mare
+          1	Sonel-Louamba
+          1	Song House
+          1	Songolo
+          1	Soremi
+          1	Souangui
+          3	Souanké
+          1	Souanké Airport
+          1	Soukou-Bouadi
+          1	Soulou
+          1	Soumba
+          1	Sounda
+          1	Source du Village
+          2	Source water
+          1	Sous Les Manguiers
+          1	Sous Préfecture de Kakamoeka
+          1	Sous Préfecture de Louvakou
+          1	Sous Préfecture de Mbinda
+          2	Sous les bambous
+          1	Sous préfecture Tchimba Nzassi
+          1	Sous-Préfecture de Madingo Kayes
+          2	Soussi
+          1	South Africa (Embassy)
+          1	South African Airways
+          3	Sporafric
+          1	Square de Gaulle
+          1	St Dimitri
+          1	St Jacques
+          1	St Marie Victor
+          1	Stade Alphonse Massamba-Débat
+          1	Stade Denis-Sassou-NGuesso
+          1	Stade Félix Éboué
+          1	Stade Henri Touret
+          1	Stade Manganzi
+          1	Stade Marchand
+          1	Stade Municipal de Pointe-Noire
+          2	Stade MvouMvou
+          1	Stade Ndzombo
+          1	Stade Olympique de Brazzaville
+          1	Stade Papa Loubouko
+          1	Stade d'Ewo
+          1	Stade d'Owando
+          1	Stade de Kinkala
+          1	Station "TOTAL - Kintélé Fleuve"
+          1	Station Puma
+          1	Station Service X-OIL Mawata
+          1	Station TOTAL Nkombo 1
+          1	Station TOTAL Nkombo 2
+          1	Station Total Tchiali
+          1	Station X-OIL Songolo
+          1	Station Yanika
+          3	Station de Pesage
+          1	Station service PUMA
+          1	Station service X-OIL Loandjili
+          1	Statue Pierre Savorgnan de Brazza
+          1	Statues des fameux africains
+          1	Statues des fameux congolais
+          1	Ste Regal
+          1	Ste Regal Office
+          1	Stuck dans la boue
+          2	Stuck dans le sable
+          1	Stuck dans un canyon
+          1	Sud
+          1	Sud-Ubangi
+          1	Suka
+          1	Sundeep
+          1	Sundeep2
+          2	Sunrise
+          1	Super Sonic
+          1	Super marché arrêt colonel
+          1	Supermarché Cité royale
+          1	Supermarché Régal
+          1	Supermarket
+          1	Sweden (Honorary Consulate)
+          1	Sénégal (Ambassade)
+          1	TAC
+          1	TDC Pointe Noire
+          1	TELE-CONGO Pointe-Noire
+          1	TEPC
+          1	TPG
+          1	TRANS AIR CONGO
+          1	TSoumbou
+          1	Taaba
+          1	Tahiti
+          1	Talangai
+          1	Talangaï
+          1	Tamounou
+          1	Tandou Bizenze
+          1	Tandou Mbendé
+          1	Tandou Mboma
+          1	Tandou Ngoma
+          1	Tandou-Bilomba
+          1	Tandou-Congo
+          1	Tandou-Youmbi
+          3	Tanga
+          1	Tangou Fouana
+          1	Tao-Tao
+          1	Tar
+          1	Tari
+          1	Tasty Bar
+          1	Tatoukila
+          1	Taverne des Corses
+          1	Tchessa
+          2	Tchiabi
+          1	Tchiali
+          1	Tchibadika
+          1	Tchibala
+          1	Tchibanda
+          1	Tchibondji
+          1	Tchibota
+          1	Tchiboula
+          1	Tchicanou
+          1	Tchiela
+          1	Tchiendji
+          1	Tchifouilouboukou
+          1	Tchikatanga
+          1	Tchilemba
+          1	Tchilkamba
+          1	Tchilounga
+          2	Tchimagni 1
+          1	Tchimbamba Aviation
+          1	Tchimbanmba
+          1	Tchimbanmbouka
+          1	Tchimkafi
+          1	Tchimpassi
+          1	Tchimpoukou
+          1	Tchimpoukou 2
+          1	Tchimpoukou 3
+          1	Tchingoli
+          1	Tchinguémbéré
+          1	Tchiniambi
+          1	Tchiniambi 1
+          1	Tchiniambi Debarcadaire
+          1	Tchiniambi Debarcadere
+          1	Tchinimina
+          1	Tchinionzi
+          2	Tchiobo
+          1	Tchiongo Robin
+          1	Tchiounga 1
+          1	Tchipangi
+          1	Tchipounga
+          1	Tchisafou
+          1	Tchisekeni
+          1	Tchissakata
+          1	Tchissamanou
+          2	Tchissanga
+          1	Tchissinango
+          1	Tchissindi
+          1	Tchissoko
+          1	Tchisséka
+          1	Tchitanga
+          1	Tchitanzi
+          2	Tchitondi
+          1	Tchivala
+          1	Tchivoula
+          1	Tchizalamou
+          2	Tchizoulou
+          1	Technibois
+          1	Tecico
+          1	Tembele
+          1	Tendou Bengo
+          1	Tennis club
+          1	Tequila Bar
+          1	Terminal Fibre Optique
+          1	Terminal de Rivière Rouge
+          1	Terminalia
+          1	Terminus Bébé Riche
+          1	Terrain d'Assemblée
+          1	Terrain de Foot de Kakamoeka
+          1	Terrain ya Henri
+          1	The Beach
+          1	The Grill House
+          1	The Stars
+          1	Thiamoukouélé
+          1	Tiamba
+          1	Tienza
+          1	Timalouzolo
+          1	Timouinda
+          1	Tinkoussou
+          1	Tionzo
+          1	Tipanza sud
+          1	Tissus Paris
+          2	Titi
+          1	TiéTié
+          1	Tnouanke
+          1	Tombe Alphonse Kouba
+          1	Tombeau du Roi
+          2	Tombo
+          1	Tonton Mac
+          7	Total
+          1	Total (Losange)
+          1	Total - Colisée
+          2	Total Bar
+          1	Total E&P
+          1	Total Itoumbi
+          1	Totosiala
+          1	Touala
+          1	Toungoukouanou
+          1	Tour Mayombe
+          1	Tour Nambemba
+          1	Tours jumelles de Mpila
+          1	Tout pour l'industrie
+          1	Tout pour l'ingenierie
+          1	Tout pour l'interieur
+          1	Trabec Sarl
+          1	Tractafric
+          1	Transfo SNE
+          1	Transit-Hotel Aïwa
+          1	Transroute
+          1	Trattoria
+          1	Travel World
+          2	Triangle
+          1	Tribunal de Grande Instance de Sibiti
+          1	Trois M
+          1	Trois ponts
+          2	Tropicana
+          1	Trou
+          1	Trou de Tchilounga
+          1	Trésor congo
+          1	Trésor public
+          1	Tsanda
+          1	Tsanga
+          1	Tsangui
+          1	Tsatou-Bengo
+          1	Tsembo
+          2	Tsessi
+          1	Tshela
+          1	Tshumbiri
+          1	Tsiako
+          1	Tsiangi
+          1	Tsila
+          2	Tsimba
+          2	Tsinguidi
+          3	Tsiémé
+          1	Tsou Tsou Ngi
+          1	Tsoumbou
+          1	Tsoundi
+          1	Tsuiteke
+          1	Tséké-Mpembé
+          1	Tube SPAFE 347
+          1	Tube SPAFE 348
+          1	Tube SPAFE 349
+          1	Tunnel du Bamba
+          1	Twiga
+          1	Tyre Service
+          1	Tzambisisi
+          2	Télé Congo
+          1	UBA
+          1	UBA agence de Poto-Poto
+          1	UKRAINE TRADING HOUSSE CONCO
+          2	UNHCR
+          1	UPS
+          5	Ubangi
+          1	United Bank for Africa
+          1	United Kingdom (Honorary Consulate)
+          1	United States of America (Embassy)
+          1	Univers
+          1	Université Marien Ngouabi
+          1	Université catholique
+          2	VIP
+          1	VIP Cuba Libre
+          1	VMK - african mobile phone
+          1	Vacherau
+          1	Vegme
+          1	Vemba
+          1	Vendeur d'habits
+          1	Venezuela (Embassy)
+          1	Venus
+          1	Verda Politan
+          1	Veronique
+          1	Vers général Ndengué
+          2	Viaduc Talangaï-Kintélé
+          1	Viande de Brousse
+          1	Victimes UTA
+          1	Victimes du 4 mars 2012
+          1	Victory Palace
+          1	Vieux Pond du Djoué
+          1	Villa Antonetti
+          1	Villa Lys
+          1	Villa Madiba
+          1	Villa Monama
+          1	Villa SANGHA
+          1	Village KIMPOUNGA
+          2	Vindoulou
+          1	Vindza
+          1	Vinza
+          1	Vital
+          1	Voka
+          1	Vondza
+          1	Vouanza
+          2	Vouka
+          2	Vouloumamba
+          1	Vounda
+          1	Voungou
+          1	Voungou Home !
+          1	Voungouta
+          1	Vulcanisation
+          1	Vulcanisation Love
+          2	WCS
+          1	WCS Bungalow
+          1	WHO Regional Office for Africa / Bureau de l'OMS Afrique
+          1	WHO/AFRO Library / Bibliothèque de l'OMS Afrique
+          1	WWW.KA-BIEN.COM
+          1	Walala
+          1	Wali Kitchen
+          1	Wassa Wassa
+          1	Weatherford Congo
+          1	Wellness LANDRY
+          1	Wenger
+          9	Western Union
+          1	Western union
+          1	Wharf
+          1	Wharf Lombi
+          1	Wharf Plage
+          1	Wildlife Conservation Society - Congo Program
+          1	Wladimir
+          1	Woleu-Ntem
+          1	Wolo
+          1	World Resouces Institute
+          1	X-OIL
+          2	X-Oil
+          1	X-Oil Congo
+          1	XOil Congo
+          1	XV
+          1	Ya Yidi
+          1	Yakou
+          1	Yala
+          1	Yamba
+          1	Yambo 2
+          1	Yanba
+          1	Yandinsi
+          1	Yandza
+          3	Yanga
+          1	Yangala
+          1	Yanika
+          1	Yanza-Mbakou
+          1	Yattoo Store
+          1	Yaya
+          1	Ybis
+          1	Yeke-Bosua
+          1	Yekolab
+          1	Yelima
+          2	Yende
+          2	Yende 1
+          2	Yende 2
+          1	Yengue
+          2	Yes Club
+          1	Yes club
+          1	Yie 环岛
+          1	Yokaganzi
+          1	Yokama
+          1	Yokangassi Airport
+          2	Yongo
+          1	Yonon
+          1	Yosilu
+          1	Youbi
+          1	Youlanziami
+          1	Youlou-Biengué
+          2	Yumbi
+          2	Yédiké
+          1	Yédéké
+          1	Zabeta
+          1	Zaboutou
+          1	Zambi
+          1	Zambi-Bakwa
+          3	Zanaga
+          1	Zanaga Airport
+          1	Zanzi
+          1	Zatchi
+          1	Zevenge
+          1	Zilala
+          1	Zingali
+          1	Zone de controles
+          1	Zongo Falls
+          1	Zoulabout
+          1	avenue Edouard Moukéto
+          2	avenue Mâ Loango Moé Poaty
+          1	avenue Pierre Mairie Mackaill
+          1	avenue Samuel Justin Ndogho
+          2	avenue Tchikapika
+          1	avenue de Loutété
+          1	avenue de Pekin
+          1	beddo land
+          1	bihongo
+          1	bissambi
+          1	bissengui
+          1	c
+          1	camp makala
+          1	carrefour
+          1	carrefour de la frontière
+          1	carrière tout-venant
+          1	chez Dina
+          1	chez Sam
+          1	church
+          1	cité OMS
+          1	commissariat de Mvoumvou
+          1	cybercafé Congo Télécom
+          1	diboumba
+          1	difounda
+          1	dissandou
+          1	divevi
+          1	doukanga
+          1	fouari
+          1	gouanga
+          1	grand mère
+          1	hotel
+          1	houtziongo
+          1	hôpital sino-congolaise de Mfilou
+          1	hôtel Tropicana
+          1	idoumi
+          1	ieng
+          1	iphd mouindi
+          1	irogo
+          1	ka-bien
+          1	kambala
+          1	kananianga
+          1	kandi
+          1	kimvembe
+          1	kouango
+          1	kouilou
+          1	koulombo
+          1	la Bona tourist camp
+          1	laiterie Auguste
+          1	le Paradis
+          1	le sapin
+          1	lenzi
+          1	limite enyele betou
+          1	lycee
+          1	madiongo
+          1	mairie de loandjili
+          1	makanga
+          1	makasou kola
+          1	manga kala
+          1	marché de la Gendarmerie
+          1	masende
+          1	matemba
+          1	mayala
+          1	mbengue nyanga
+          1	mbengui mamagui
+          1	migoumbi
+          1	milimba
+          1	minda
+          1	mougnamou
+          1	moukondza
+          1	moungoundi
+          1	mouragni
+          1	moussogo
+          1	ngalambi
+          1	ntombo
+          1	nzienzili
+          1	oudiomakobo
+          1	oueka
+          1	p 279
+          1	p 35
+          1	p152
+          1	park and shop
+          1	pemo
+          1	pharmacie terminus
+          1	pk83 base-vie
+          1	place des Amoureux
+          1	pouka
+          1	pylône 348 A
+          1	pylône 348B
+          1	pylône 44
+          1	pylône 45
+          1	pylône 46
+          1	pylône GSM
+          1	pylône GSM Nanga
+          1	rUE fOURA
+          1	research camp
+          1	rond-point de la Paix
+          1	ru Gamboma
+          1	rue Babembé
+          1	rue Bangangoulou
+          1	rue Bokoulé
+          2	rue Gamboma
+          1	rue Kouvoumba
+          2	rue Makotopoko
+          2	rue Massoukou
+          1	rue Mayama
+          1	rue Mouanga Malie
+          3	rue Moundzombo
+          1	rue Mvouti
+          1	rue Ngabé
+          1	rue Oloua
+          2	rue Osselé
+          2	rue Zananga
+          4	rue d'Impfondo
+          1	rue de Djambala
+          3	rue de Franceville
+          3	rue de Maya-maya
+          2	rue de bouvanzi
+          1	rue des Sénégalais
+          1	rue maloukou
+          1	rue mavono
+          1	rue ngo milembi
+          1	rueDjambala
+          1	résidence HENRIE djombo
+          1	samba la
+          1	sambala
+          1	sambila
+          1	sanza
+          1	sap sap, Emerson Music
+          1	secteur 10
+          1	tandou bivenze
+          1	tenrikyo
+          1	terminus zéphirin
+          1	tiktak
+          1	tokou hola
+          1	tractafric
+          1	tsikanou
+          1	ue Mvilani
+          1	village Yanga
+          1	village akolo
+          1	voundala
+          1	À
+          1	Ça mètre
+          1	École A.G. Matsoua
+          1	École BOBO
+          1	École Ndendé Niengo
+          1	École Primaire
+          1	École collège de Loango
+          1	École pilote
+          1	École primaire
+          1	École primaire Angola Libre
+          1	École primaire Moukoundzi-Ngouaka
+          1	Église Saint Kisito
+          2	Équateur
+          1	Île Bolimba
+          1	Île Kale-Kale
+          1	Île M'bamou
+          1	Île Maita
+          1	Île Sondji
+          1	Île aux Pierres
+          1	Île d'Impfondo
+          1	Île de Buburu
+          1	Île de Bétou
+          1	Île de Niangi
+          1	Île de Yambe
+          1	Île de la Funa
+          1	Île des Éléphants
+          2	Îles de Kabongo
+          1	église Protestante
+          1	île Mapubili
+          1	île Minkole
+          1	île Nkasa
+          1	île Sambala
+          1	五局-金德磊营地
+          1	工艺品市场Marché Touristique du Plateau
+          1	工艺品店
+          1	港口
+          1	湖南路桥黑角大楼
+          1	韦索酒店ESPACE MBALE 
+HOTEL-BAR-RESTAURANT

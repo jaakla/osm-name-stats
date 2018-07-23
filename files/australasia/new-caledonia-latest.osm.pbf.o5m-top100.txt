@@ -1,0 +1,100 @@
+        263	Route Territoriale 1
+        138	Route Provinciale Nord 10
+         76	Route Provinciale Nord 3
+         66	Route Territoriale 3
+         49	Kataviti
+         44	Route Provinciale du Normandie E-1
+         42	Goro Mines
+         36	Avenue des Deux Baies
+         34	GR® NC1
+         31	Route du Sud
+         31	Cocoteraie
+         30	Mines
+         29	Savexpress
+         27	Route Express du Mont-Dore
+         25	Route Provinciale Nord 7
+         24	Rue Jacques Iékawé
+         24	Route de la Baie des Dames
+         24	Eoliennes du Col de Prony
+         23	Transversale Koné Tiwaka
+         23	Rue Roger Gervolino
+         21	Route Provinciale Nord 1
+         21	Aquaculture
+         20	SAVEXPRESS
+         20	Route de Poingam
+         20	Route de Pam
+         18	Sunshine-Dumbéa
+         18	Route de Yaté
+         18	Promenade Roger Laroque
+         18	La Serpentine de Kouaoua
+         18	Araucaria
+         18	Accès du Parking de l'Aérodrome de Tontouta
+         17	Route du Barrage
+         17	Route de Kavatch
+         17	Echangeur Bonaparte
+         17	Chemin de Prony
+         16	Route de la Tchamba Rive Droite
+         16	Route de Koindé
+         16	Avenue Antoine Becquerel
+         16	Aire de repos
+         15	Route de l'Aérodrome
+         14	Voie de Dégagement Est
+         14	Route du Lotissement Naia
+         14	Chemin de Fer des Japonais
+         13	Îlot Lassale
+         13	Rue Armand Ohlen
+         13	Route de Thio
+         13	Route de Ouémou
+         13	La Dumbéa
+         13	Echangeur Ducos-Montravel
+         13	Avenue James Cook
+         12	Îlot Casy
+         12	Rue Raphael Pidjot
+         12	Route des Tours
+         12	Route de Poé
+         12	RPN7
+         12	Piste de la Témala
+         12	Avenue de la Victoire - Henri Lafleur
+         12	Avenue Paul-Emile Victor
+         12	Ancien Chemin de Fer
+         11	Rue Georges Clemenceau
+         11	Rue Fernand Forest
+         11	Route de Nérin
+         11	Route de Goro
+         11	Route Provinciale Nord 8
+         11	Marché de Ducos
+         11	Avenue d'Auteuil
+         11	Accès Casino Mont-Dore
+         10	Échangeur des Érudits
+         10	Sentier sportif confirmé du Ouen Toro
+         10	Rue Georges Lèques
+         10	Rue André De Béchade
+         10	Route du Dôme de Tiébaghi
+         10	Route du Carénage
+         10	Route de l'Anse Vata
+         10	Route de Tendéa
+         10	Route d'Unia
+         10	Promenade de Koutio
+         10	Piste Cyclable de Tina Golf
+         10	Avenue Emile Frouin
+         10	Avenue Bonaparte
+         10	Ancienne Mine de Fer - Socamifer
+         10	Accès IRD
+          9	Trou d'eau
+          9	Rue d'Austerlitz
+          9	Rue Gabriel Laroque
+          9	Route du Lotissement Les Hauts de Karikaté
+          9	Route des Deux Vallées - Rue Jaques Barrau
+          9	Route de la Amoa Rive gauche
+          9	Route de Ouégoua
+          9	Route de Canala
+          9	Piste du Mont Aoupinié
+          9	Parc de la Rivière Bleue
+          9	Koniambo
+          9	Chemin Plaine du Champ de Bataille
+          8	Rue du Commandant Paul Déméné
+          8	Rue Paul Bloc
+          8	Rue Georges Champion
+          8	Rue Edouard Unger
+          8	Rue Berthelot
+          8	Rue Ampère

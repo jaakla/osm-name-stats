@@ -1,0 +1,100 @@
+       1001	Hlavná
+        536	COOP Jednota
+        481	SNP
+        477	Školská
+        378	Družstevná
+        377	Hviezdoslavova
+        375	Štúrova
+        370	Okružná
+        355	Banská halda
+        319	Železničná
+        319	Partizánska
+        314	Cintorínska
+        304	Mlynská
+        288	Športová
+        286	HU,SK
+        284	Nová
+        274	Komenského
+        268	Lazy
+        259	Záhradná
+        256	1. mája
+        245	Háj
+        242	Slovnaft
+        240	Sládkovičova
+        234	Štefánikova
+        232	Potraviny
+        232	Lipová
+        231	Poľná
+        222	Mierová
+        219	Bratislavská
+        217	Krátka
+        217	Coop Jednota
+        215	Dlhá
+        214	Dolina
+        206	Kukučínova
+        203	Staničná
+        201	Záhumnie
+        186	Lesná
+        184	PL,SK
+        180	Roveň
+        179	Slnečná
+        177	Materská škola
+        177	CBA
+        175	Slovenská sporiteľňa
+        173	R7
+        172	Osloboditeľov
+        171	Milana Rastislava Štefánika
+        171	Hôrka
+        168	Lúky
+        167	Bernolákova
+        166	Breziny
+        164	Potočná
+        164	Agátová
+        163	Kúty
+        163	Kopanice
+        163	Dolné lúky
+        162	Československej armády
+        162	Jesenského
+        160	Dlhé
+        158	Ružová
+        156	Horné lúky
+        153	Továrenská
+        150	Lúčna
+        150	Kostolná
+        148	Hlboká
+        148	Dúbrava
+        148	Bukovina
+        144	Lúčky
+        144	Dolinky
+        143	Nitrianska
+        142	Kollárova
+        141	Obrancov mieru
+        141	Budovateľská
+        138	Janka Kráľa
+        137	Základná škola
+        137	Skalka
+        135	Lidl
+        134	Moyzesova
+        133	Námestie SNP
+        133	Krížna
+        132	Košická
+        131	Vajanského
+        131	Obchodná
+        130	Dolná
+        129	Úboč
+        126	Poľana
+        126	Brezová
+        125	Jilemnického
+        125	Hurbanova
+        124	Stráň
+        122	Lány
+        121	Tomášikova
+        121	Košariská
+        121	Horná
+        120	Široké
+        118	Laz
+        116	Kúpeľná
+        116	Kapustnice
+        115	VÚB
+        115	Tehelná
+        113	Letná

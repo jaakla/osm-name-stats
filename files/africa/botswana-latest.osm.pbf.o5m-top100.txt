@@ -1,0 +1,100 @@
+        264	General Building
+        205	hut
+         72	Waterhole
+         55	Building under construction
+         41	Tuck Shop
+         41	Border Botswana - South Africa
+         38	Baobab Safari Lodge 1
+         36	Masedi Farms
+         35	Lobatse Road
+         35	Bulding
+         33	Choppies
+         32	Teacher Housing
+         31	Farm Staff Housing
+         30	Molepolole Road
+         29	Baobab Safari Lodge 2
+         27	Hut
+         26	Shell
+         23	building under construction
+         23	Engen
+         21	General Dealer
+         20	River Fence Road
+         20	Plains Drive
+         20	Lion's Roar Lodge
+         20	Kudu Alley
+         20	Kgale Mall
+         20	Girls Hostel
+         19	waterhole
+         19	North-East Fenceline Road
+         19	Molopo
+         18	Kasane Airport Staff Quarters
+         18	Border Zimbabwe - Botswana
+         17	Not constructed
+         17	Limpopo
+         17	Kgotla
+         16	Vetenary Gate
+         16	Puma
+         16	LL Road 43
+         16	Government/Wild Life Housing
+         16	Gate
+         16	Farm Q109 Staff Houses
+         16	FNB
+         16	Cuando
+         16	Border Namibia - Botswana
+         15	Ondjovu Pan
+         15	Magermans Road
+         14	seasonal
+         14	Spar
+         14	Pandamatenga Primary School
+         14	Okavango
+         13	s
+         13	Tlokweng Road
+         13	Serorome
+         13	Muchenje Safari Lodge
+         13	Kitchen
+         13	Department of Wildlife and National Parks
+         13	Caltex
+         13	Barclays
+         12	general
+         12	Ngotwane River
+         12	Classroom
+         12	Chobe National Park
+         12	Bakwena Lodge
+         11	Xakanaxa - 3rd Bridge
+         11	Wildlife Anti-Poaching Unit
+         11	Water Tank
+         11	Vet Fence
+         11	South Gate - 3rd Bridge
+         11	Old Lobatse Road
+         11	Liquorama
+         11	Chobe Elephant Camp
+         11	Airport Road
+         10	house
+         10	Water crossing
+         10	Selolwane Primary School
+         10	Sekgoma Road
+         10	Police Quarters
+         10	Muchenje Campsite
+         10	Mabina Farm Staff Quarters
+         10	Mabele Primary School
+         10	LL Road 1
+         10	Kwa Nokeng Oil Company Staff Housing
+         10	Kudumatse Road
+         10	Klopper Trail
+         10	Central Transport Organisation
+         10	Buldning
+         10	Boteti
+         10	Blue Jacket Street
+          9	Wildtracks Safaris
+          9	Staff house
+          9	Staff House
+          9	South-West Fenceline Road
+          9	Sefalana
+          9	Riverbed
+          9	Please give feedback about Road Conditions to roadcondition
+          9	Lerala VDC
+          9	Kasane Primary Hospital Staff Quarters
+          9	Department of Water Affairs
+          9	Dead Giraffe Drive
+          9	Bus Stop
+          9	Boys Hostel

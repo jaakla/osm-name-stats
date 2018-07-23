@@ -1,0 +1,2375 @@
+          1	"Mosterei"
+          5	1
+          1	1. Oberriederweg
+          1	10 Rheindammradweg
+          1	113
+          1	136
+          1	143
+          1	144
+          1	2
+          1	303 01
+          1	4
+          1	94
+          1	A - Hochegg
+          1	AMAG (Vaduz) AG
+          1	ARA Bendern
+          1	Abenteuerspielplatz Dräggspatz
+          1	Abfallsammelstelle
+          2	Abtswingertweg
+          2	Abzw. Badäl-Schlatt
+          4	Abzw. Egerta
+          1	Ackerweg
+          1	Adler
+          1	Adlerkreisel
+          1	Adolf's Bike Shop
+          2	Aeule
+          1	Aeulegraben
+          1	Aeulestrasse
+          1	Ager
+          1	Agip
+          1	Akmein
+          1	Alberweg
+          6	Alemannenstrasse
+          1	Allmeinastrasse
+          3	Almeina
+          1	Almeindstrasse
+          1	Alp Valüna
+          1	Alpelti
+          2	Alpeltiweg
+          2	Alpenhotel Malbun
+          1	Alpenmannstreu Gamperdonatal
+          1	Alpila
+          1	Alps
+          1	Alpspitz
+          1	Altabächler Schtoba
+          1	Alte Churerstrasse
+         21	Alte Landstrasse
+          1	Alte Rheinbrücke
+          1	Alte Widengasse
+          5	Alte Zollstrasse
+          2	Altenbach
+          4	Alter Pfarrhof
+          1	Alter Spiersbach
+          1	Alter Zoll
+          1	Altersheim
+          1	Altherr AG Schaan
+          1	Alti Münzhötta
+          1	Altneugut
+          1	Altstätten
+          1	Alu-SPF AG
+          2	Alvierweg
+          5	Am Bach
+          1	Am Berg
+          1	Am Bühel
+          2	Am Exerzierplatz
+          2	Am Gupfenbühel
+          2	Am Irkales
+          2	Am Nendlerweg
+          1	Am Schellenberg
+          1	Am Schrägen Weg
+          1	Am Sunnaberg
+          1	Am Wangerberg
+          1	Am Widagraba
+          1	Am Wäschgraba
+          2	Amann
+          1	Amarone
+          1	American Bagel & Coffee Co.
+          1	Amiseschaweg
+          1	Amt für Gesundheit
+          1	Amt für Kommunikation
+          1	Amt für Statistik
+          1	An der Halde
+          1	Anaresch
+          1	Anatolia
+          1	Andreas Flütsch
+          4	Ans Trail
+          1	Apotheke am Postplatz
+          1	Apotheke am St.-Martins-Ring
+          1	Aptswingert
+          4	Argweg
+          1	Arnikaweg
+          1	Artos
+          6	Aspen
+          1	Atelier Beauté
+          2	Au
+          1	Aubach
+          2	Aubündt
+          6	Auf Berg
+          1	Auf der Egerta
+          1	Auf der Egg (A) - Gantenstein - Mittlerer Schellenberg
+          1	Auf der Egg (A) - Hinterer Schellenberg - Mittlerer Schelle
+          1	Auf der Kaserna
+          1	Augenklinik Reis
+          1	Augstenberg
+          1	Aukreisel
+          2	Auring
+          1	Aussenstelle der Universität Liechtenstein - Wachterhaus
+          1	Aussichtsturm Gaflei
+         12	Austrasse
+          1	Auto Lorenz
+          1	Auweg
+          1	Aviols
+          1	Azzurro Pizza & Kebap
+          1	B - Täli
+          1	BP-Triesen
+          1	Bachtalwingert
+          1	Bachtalwingertweg
+          3	Bachweg
+          1	Backofengasse
+          1	Bad Vogelsang
+          3	Badbächle
+         13	Badener Straße
+          1	Badesee
+          1	Badiera
+          1	Badstoba
+          2	Badwegli
+          4	Badäl
+          1	Bagudaweg
+          1	Bahngasse
+          1	Bahnhof Nendeln
+          1	Bahnhof Schaan-Vaduz
+          5	Bahnhofstrasse
+          1	Bahnstrasse
+          3	Bahnstraße
+          4	Bahnweg
+          1	Baholz
+          4	Balischguadstrasse
+          1	Balu
+          2	Balzers
+          1	Balzers (FL) Oerlikon Balzers AG
+          1	Balzers - And (CH) - St. Luzisteig (CH)
+          1	Balzers - Balzers Post
+          1	Balzers - Bruennili - Triesenberg
+          1	Balzers - Forst - Triesen Post
+          1	Balzers - Guscha (CH)
+          1	Balzers - Maels - Ellhorn - Flaesch (CH)
+          1	Balzers - Maels - Elltal - Flaesch (CH)
+          1	Balzers - Regitzer Spitz (CH) - Flaesch (CH)
+          1	Balzers - Ruettena - Ellhorn - Flaesch (CH)
+          1	Balzers - Ruettena - Triesen Post
+          1	Balzers - Stockwald (CH) - St. Luzisteig (CH)
+          1	Balzers - Truebbach (CH)
+          1	Balzers - Unter Steigwiesen (CH) - St. Luzisteig (CH)
+          1	Balzers - Wilda Bongert - Lindaplatz - Triesen Post
+          1	Balzers Alter Pfarrhof
+          1	Balzers Brückle
+          1	Balzers Egerta
+          1	Balzers Gagoz
+          1	Balzers Höfle
+          1	Balzers Mälsnerdorf
+          1	Balzers Rheinstrasse
+          1	Balzers Rietstrasse
+          5	Balzers Roxy
+          1	Balzers Schlossweg
+          5	Balzers Sportplatz
+         11	Bammiliweg
+          2	Bandweg
+          3	Bangarten
+          1	Bangs (A) - Ruggell
+          1	Bangserfeld - Zoll Bangs (A)
+          3	Bangserstraße
+          4	Bangserwiese
+          1	Bannholzstrasse
+          4	Bannriet
+          1	Banque Havilland
+          2	Bardellaweg
+          1	Bargella Sattel - Silum
+          4	Bargällastrasse
+          2	Bartlegroschstrasse
+          1	Baugeschäft Bühler AG
+          1	Baumgasse
+          1	Bauschutt-Deponie
+          1	Beachvolleyballplatz
+          2	Beck Frommelt
+          2	Beckagässli
+          2	Beckaweg
+          1	Bei der Blockhütte
+          2	Beim Kreuz
+          1	Beim grossen Stein
+         10	Benderer Strasse
+          4	Bendern
+          1	Bendern - Aeule - Ruggell
+          1	Bendern - Gamprin
+          1	Bendern - Haag (CH)
+          1	Bendern - Mauren
+          1	Bendern - Mittlerer Schellenberg
+          1	Bendern - Rofaberg - Eschen
+          1	Bendern - Ruggell
+          1	Bendern - Schaan St. Peter
+          1	Bendern - Schoenabueel - Eschen
+          1	Bendern - St. Corneli (A)
+          3	Bendern Haldenstrasse
+          5	Bendern Pinocchio
+          7	Bendern Post
+          5	Bendern Under Atzig
+          5	Bendern Widagass
+          2	Bergbahnen
+          3	Bergerwald
+          1	Berggarage
+          1	Berggasthaus Masescha
+          1	Berggasthaus Silum
+          1	Berggasthaus Sücka
+          1	Berggasthof Matu
+          1	Bergle
+          1	Bergrestaurant Sareis
+          1	Bergstation Sareis - Malbun
+          1	Bergstation Sareis - Nenzinger Himmel (A)
+          1	Bergstation Sareis - Pfaelzerhuette
+         26	Bergstrasse
+          1	Bergstübli
+          3	Bergwald
+          1	Besuch PAPST JOHANNES PAULUS II
+          2	Beton- ud Kieswerk
+          1	Betonwerk
+          1	Bettenhaus Quader
+          1	Bettlerjoch
+          1	Bettlerjöchle
+          1	Bibliothek Mauren
+          1	Biedermannhaus
+          4	Bierkeller
+          1	Bike Garage Anstalt
+          1	Bildgass
+          1	Bim Flugplatz
+          1	Bim Gamanderhus
+          8	Binnendamm
+          3	Binnenkanal
+          1	Binza
+          3	Binzastrasse
+          1	Birkahof
+          5	Birkenweg
+          4	Bistriška cesta
+          1	Black Pearl
+          1	Black Tip
+          1	Bludenz
+          2	Blumenau
+         25	Blätterstraße
+          1	Blüemler
+          1	Boccia Club
+          5	Bodastrasse
+          3	Bofelweg
+          3	Bogengasse
+          5	Bohova
+          1	Boja
+          3	Bongerten
+          1	Brandiserweg
+          1	Brata
+          1	Brauhaus
+          3	Bregenzer Ach
+          1	Breita
+          1	Breiten
+          1	Briefkasten
+          7	Britschenstrasse
+          5	Broggmeder
+          1	Brogle
+          1	Brunharthaus
+          1	Brunnebrischen
+          1	Brunnenweg
+          7	Brückle
+          2	Brüel
+          1	Brüelweg
+          6	Brühlgasse
+          2	Buchenstein
+          1	Buchenweg
+          1	Buchs (CH) - Schaan St. Peter
+          1	Buchs (SG)
+          1	Bukovec
+          1	Burg (castle)
+          1	Burg Gutenberg
+          1	Burgruinie Unterer Schellenberg
+          5	Burgweg
+          1	Burkatstrasse
+          1	Buro
+          1	Bus 11
+          1	Bus 12
+          1	Bus 12: Buchs Bahnhof => Schaan Bahnhof
+          1	Bus 12: Buchs Bahnhof => Triesen Post
+          1	Bus 12: Schaan Bahnhof => Buchs Bahnhof
+          1	Bus 12: Triesen Post => Buchs Bahnhof
+          1	Bus 12E
+          1	Bus 13
+          1	Bus 13E
+          1	Bus 13E Mauren Post => Balzers Schlossweg (via Balzers Gago
+          1	Bus 13E: Balzers Schlossweg => Mauren Post (via Balzers Gag
+          1	Bus 13E: Balzers Schlossweg => Mauren Post (via Balzers Rie
+          1	Bus 13E: Mauren Post => Balzers Schlossweg (via Balzers Rie
+          1	Bus 14
+          1	Bus 14: Feldkirch Bahnhof => Schaan Bahnhof
+          1	Bus 14: Feldkirch Bahnhof => Vaduz Post
+          1	Bus 14: Schaan Bahnhof => Feldkirch Bahnhof
+          1	Bus 14: Vaduz Post => Feldkirch Bahnhof
+          1	Bus 21
+          1	Bus 21: Malbun Zentrum => Vaduz Post
+          1	Bus 21: Triesenberg Guferwald => Vaduz Post
+          1	Bus 21: Vaduz Post => Malbun Zentrum
+          1	Bus 21: Vaduz Post => Triesenberg Guferwald
+          1	Bus 22
+          1	Bus 22: Gaflei Kurhaus => Triesenberg Guferwald
+          1	Bus 22: Triesenberg Guferwald => Gaflei Kurhaus
+          1	Bus 24
+          1	Bus 24: Sevelen Bahnhof => Vaduz Lettstrasse
+          1	Bus 24: Sevelen Büeli => Vaduz Lettstrasse
+          1	Bus 24: Vaduz Lettstrasse => Sevelen Bahnhof
+          1	Bus 24: Vaduz Lettstrasse => Sevelen Büeli
+          1	Bus 26
+          1	Bus 26: Planken Saroja => Schaan Bahnhof
+          1	Bus 26: Planken Saroja => Schaan Bahnhof (Ruftaxi)
+          1	Bus 26: Schaan Bahnhof => Planken Saroja
+          1	Bus 26: Schaan Bahnhof => Planken Saroja (Ruftaxi)
+          1	Bus 31
+          1	Bus 31: Eschen Post => Ruggell Industriering
+          1	Bus 31: Ruggell Industriering => Eschen Post
+          1	Bus 32
+          1	Bus 32: Eschen Post => Hinterschellenberg
+          1	Bus 32: Hinterschellenberg => Eschen Post
+          1	Bus 33
+          1	Bus 33: Hinterschellenberg => Mauren Post
+          1	Bus 33: Mauren Binza => Schellenberg Sägaplatz
+          1	Bus 33: Mauren Post => Hinterschellenberg
+          1	Bus 33: Mauren Post => Schellenberg Sägaplatz
+          1	Bus 33: Schellenberg Sägaplatz => Mauren Binza
+          1	Bus 33: Schellenberg Sägaplatz => Mauren Post
+          1	Bus 35
+          1	Bus 35: Bendern Post => Hinterschellenberg
+          1	Bus 35: Hinterschellenberg => Bendern Post
+          1	Bus 35: Hinterschellenberg => Nendeln Bahnhof
+          1	Bus 35: Nendeln Bahnhof => Hinterschellenberg
+          1	Bus 36E
+          1	Bus 36E: Gisingen Milchhof => Triesen Post
+          1	Bus 36E: Gisingen Milchhof => Vaduz Post
+          1	Bus 36E: Triesen Post => Gisingen Milchhof
+          1	Bus 36E: Vaduz Post => Gisingen Milchhof
+          1	Bus 40
+          1	Bus 42
+          1	Bus 42: Triesenberg Balischguad => Triesenberg Post
+          1	Bus 42: Triesenberg Post => Triesenberg Balischguad
+          1	Bushof
+          1	Busterminal
+          2	Bächlegatter
+          4	Bächlegatterweg
+          1	Bächliweg
+          1	Bäckerei Gassner
+          1	Bärgällasattel
+          2	Bödastrasse
+          1	Böler
+          1	Bölsbrunna
+          1	Bönerstrasse
+          1	Böngerta
+          1	Börsencafé
+          1	Böschfeldweg
+          1	Büalstrasse
+          2	Büchele
+          1	Bücheleweg
+          1	Büdamistrasse
+          4	Büffelweg
+          2	Bühelstrasse
+          4	Bühl
+          1	Bündaweg
+          2	Bündtle
+          1	Bürolada AG
+          1	C - Sareis
+          1	Cafe Frommelt
+          1	Café Gassner
+          1	Café Guflina
+          1	Café Matt
+          1	Café und Bäckerei Wanger
+          1	California Concept
+          1	Castellstrasse
+          1	Censor Park
+          1	Central Plaza Souvenirs
+          1	Central Tattoo
+          1	Central-Garage
+          1	Centro Italiano
+          1	Cesare
+          3	Chalberrütistrasse
+          1	Champagner-Platz
+          1	Channoine Cosmetics
+          1	Cheers
+          1	Chesi
+          1	Chranchweg
+          1	Chrüppel
+          2	Churer Strasse
+          2	Churerstrasse
+          1	Cigonca
+          1	Citroën
+          1	Claudia Wachter AG
+          1	Clinicum Alpinum
+          1	Clublokal Dux
+          1	Consulat de la République Rwandaise
+          3	Coop
+          1	Coop Pronto
+          1	Coop Schaan
+          1	Cycling in Switzerland
+          2	D - Schneeflucht
+          1	Damage
+          1	Dammweg
+          1	Delehala
+          1	Demmel Kaffee AG
+          1	Demmera
+          1	Denner
+          1	Denner Schaan
+          1	Deponie Säga
+          1	Der Optiker
+          1	Devina
+          1	Diebalöcher
+          1	Diepertweg
+          1	DoMuS
+          1	Dohlenweg
+          4	Doktor Albert Schädler Strasse
+          2	Doktor Grass-Strasse
+          1	Doktor Josef Hoop Strasse
+          1	Dolce Vaduz
+          1	Dolce Vita Eisgenuss
+          1	Dominik Banzer-Strasse
+          1	Donatsweg
+         29	Donau
+          4	Dorf
+          3	Dorfbach
+          9	Dorfstrasse
+          1	Dorfweg
+          1	Dorfzentrum
+          1	Dr Dorflada
+          2	Dr. Josef Hoop-Str.
+          1	Dr. Med. Edward van Frank - Orthopedic Surgeon
+          1	Dr. Med. Martin Schädler - Dentist
+          1	Dr. Med. Michael Köhler - Psychatry
+          1	Dr. Med. Thomas Felkel - Cardiology and Inner Medicine
+          1	Dr. Med. Wolfgang Meyer -Traumatic and Orthopedic Surgery
+          1	Drachenweg
+          1	Drechslergass
+          2	Drei Schwestern
+          1	Dreiangel
+          1	Dreiangelweg
+          1	Dreiländerweg - BeWegung Begegnung
+          2	Drescheweg
+          1	Drogerie imStädtle
+          7	Dröschistrasse
+          1	Dumba-Wehr
+          5	Duxgass
+          4	Duxgass/Kresta
+          1	Duxkapelle
+          2	Duxweg
+          1	Düner
+          1	Ebaholz
+          2	Ebenholz
+          2	Ebenholz/Universität
+          1	Ebniweg
+          1	Edelweiss
+          1	Egelgraba
+          1	Egelgrabaweg
+          1	Egelsee
+         13	Egerta
+          1	Egertastrasse
+          1	Egertaweg
+          1	Egetagass
+          4	Egga
+          1	Eggaltistrasse
+          1	Eggastrasse
+          1	Eggasweg
+          4	Eibenweg
+          1	Eichengasse
+          3	Eichenstrasse
+          1	Eichholz
+          1	Eichholzweg
+          1	Eichilemederweg
+          2	Eintracht
+          1	Elektro Ospelt
+          3	Elgagass
+          1	Elkuch Josef AG
+          1	Ellhorn
+          1	Elma Handels Est
+          2	Energiebrücke
+          2	Engistrasse
+          1	Erbi
+          1	Erbistrasse
+          1	Erichs Bildergalerie
+          1	Erikaweg
+          1	Erlaweg
+          2	Erlenbritschen
+          2	Erlenweg
+          1	Ersatz-Tag (Maps.me), eigentlich wayside cross
+          8	Esche
+          3	Eschen
+          1	Eschen - Brueechliswald - Ruggell
+          1	Eschen - Bueel - Ruggell
+          1	Eschen - Gamprin
+          1	Eschen - Lindholz - Mittlerer Schellenberg
+          1	Eschen - Malanser - Mittlerer Schellenberg
+          1	Eschen - Malanserwald - Ruggell
+          1	Eschen - Mauren
+          1	Eschen - Nendeln
+          1	Eschen - Schaan
+          5	Eschen Brühl
+          3	Eschen Eintracht
+          3	Eschen Haldengass
+          5	Eschen Kohlplatz
+          5	Eschen Post
+          5	Eschen Presta
+          3	Eschen Sportpark
+          1	Eschestrasse
+          2	Escheweg
+          3	Eschner Rütte
+         11	Eschner Strasse
+          2	Eschnerberg
+          1	Esprit
+          9	Essanestrasse
+          1	Ethno Café & Bar
+          1	Etschetlina
+          3	Eugen Schafhauser-Strasse
+          1	EuroVelo 15 - Rheinradweg
+          1	EuroVelo 15 - part Switzerland
+          1	Europaschutzgebiet Bangs-Matschels
+          1	European Union
+          1	Ev. Kirche im Fürstentum Lichtenstein
+          1	Ev.-Luth. Johanneskirche
+          1	Evangelische Kirche
+          1	FFW
+          1	FL1
+          7	Fabrikenweg
+          1	Fabrikstrasse
+          1	Fabrikweg
+          2	Fabrikwegli
+          1	Fago
+          1	Fahrrad-Parkplatz überdacht
+          1	Falgedinweg
+          2	Falknis
+          1	Falknis - Lawena
+          1	Falknis - Steg
+          1	Falknis-Garage AG
+          3	Fallagass
+          2	Falleck
+          2	Fallsbretscha
+          2	Fallsgasse
+          1	Familienteileweg
+          2	Fanalwegle
+          2	Farabodastrasse
+          1	Farbwegli
+          2	Fariweg
+          1	Faro Moda
+          1	Fatale
+          1	Fehr Schuhe & Sport
+          2	Fehragass
+          3	Fehrasteig
+          2	Felbaweg
+          3	Felbenweg
+          2	Feld
+          4	Feldkirch
+          1	Feldkirch -> Buchs Kürzester Weg
+          1	Feldkircher Huette (A) - Schaanwald
+         30	Feldkircher Strasse
+          1	Feldsegenstrasse
+          4	Feldstrasse
+          2	Felixdorfer Straße
+          1	Felsbandweg
+          1	Festspielstrasse
+          1	Feuerwache Eschen
+          1	Feuerwehr Balzers
+          1	Feuerwehr Vaduz
+          1	Figarissimo
+          1	Finanzerweg
+          1	Fingastrasse
+          1	Finish
+          1	Finne
+          4	Finnenbahn
+          9	Fischach
+          3	Fiume Adda
+          2	Fiume Brenta
+          1	Fiume Oglio
+          3	Fiume Tagliamento
+          1	Flaesch (CH) - Mozatobel (CH) - Maels
+          1	Flaesch (CH) - Neuwald (CH) - Maels
+          1	Flaesch (CH) - Regitzer Spitz (CH) - Maels
+          2	Flandera
+          1	FloraSchaan
+          1	Floraweg
+          4	Fluxstrasse
+          1	Fläsch
+          3	Forellenweg
+          1	Forst Hilti
+          1	Forst Hilti Bahnhaltestelle
+          1	Foto Kaufmann
+          1	Fram
+          1	Franz-Josef-Oehri-Str.
+          2	Franz-Sales-Weg
+          1	Frastanz
+          1	Frauenbergweg
+          2	Frauhofer
+          1	Freiaberg
+          2	Freiendorf
+          1	Freiendorfstrasse
+          1	Freihof
+          1	Freiwillige Feuerwehr Triesen
+          1	Freizeit und Kultur
+          1	Freizeit- und Sportanlage Grossabünt
+          1	Freizeitzentrum Resch
+          3	Frickgraben
+          1	Frickgrabenweg
+          1	Friedhof Triesenberg
+          1	Frommahusstrasse
+          2	Frommenhausstrasse
+          4	Fronagass
+          1	Fuhraweg
+          2	Fukseriweg
+          1	Fulafels
+          2	Färchaneggstrasse
+          2	Färchaneggweg
+          2	Föhrenweg
+          1	Försterweg
+          1	Fülliwand
+          8	Fürst-Franz-Josef-Strasse
+          2	Fürst-Johann-Strasse
+          4	Fürst-Johannes-Strasse
+          2	Fürstenfeld
+          4	Fürstensteig
+          6	Fürstenstrasse
+          8	Fürstenweg
+          6	Fürstin-Gina-Weg
+          1	Fürstliche Gruft
+          1	Gaenglesee - Masescha
+          6	Gafadura
+          1	Gafadura - Garsella Alp - Chemi - Bargella - Gaflei
+          1	Gafadurahuette
+          1	Gafadurahuette - Alpzinken - Schaanwald
+          1	Gafadurahuette - Bargaella - Steg
+          1	Gafadurahuette - Drei Schwestern - Kemmi - Silum - Steg
+          1	Gafadurahuette - Gaflei
+          1	Gafadurahuette - Hinteraelpele (A) - Schaanwald
+          1	Gafadurahuette - Planken
+          1	Gafadurahuette - Schaan
+          1	Gafadurahuette - Schaan St. Peter
+          1	Gafadurahuette - Schaanwald Zoll
+          1	Gafadurahuette - Silum - Steg
+          1	Gafadurahuette - fixme
+          1	Gafadurahütte
+          4	Gafadurastrasse
+          2	Gaflei
+          1	Gaflei - Baerg - Steg
+          1	Gaflei - Baholz - Vaduz
+          1	Gaflei - Berggasthof Matu
+          1	Gaflei - Gaenglesee
+          1	Gaflei - Letzi - Vaduz
+          1	Gaflei - Planken
+          1	Gaflei - Rotaboda - Triesenberg
+          1	Gaflei - Schaan
+          1	Gaflei - Schaan St. Peter
+          1	Gaflei - Silum - Triesenberg
+          1	Gaflei - Silumer Kulm - Steg
+          3	Gaflei Kurhaus
+          5	Gaflei Matu
+          1	Gafleichöpfli
+          1	Gafleisattel
+          2	Gafleisattel - Prafazei
+          1	Gafleisattel -fixme
+          1	Gafleispitz
+          3	Gafleistrasse
+         17	Gagoz
+          1	Galenburst
+          1	Galgenweg
+          1	Galinakopf
+          1	Galinakopf - Malbun
+          1	Galinakopf - Malbun Bergbahnen
+          1	Galinakopf - Steg
+          1	Galinaweg
+          1	Gampalpe (A) - Malbun
+          2	Gampeluzstrasse
+          2	Gamprin
+          1	Gamprin - Aeule - Ruggell
+          1	Gamprin - Mittlerer Schellenberg
+          1	Gamprin - Ruggeller Rheindamm - Ruggel
+          1	Gamprin - Taelewald - Ruggell
+          2	Gamprin Abzw. Bädal-Schlatt
+          2	Gamprin Badäl
+          3	Gamprin Bädal
+          3	Gamprin Bühl
+          3	Gamprin Gemeindehaus
+          5	Gamprin Grossabünt
+          2	Gamprin Haldenstrasse
+          3	Gamprin Jedergass
+          5	Gamprin Michel-Oehri
+          3	Gamprin Mühlegass
+          3	Gamprin Simmasguet
+          2	Gamprin Stelzagass
+          2	Gamprin Unterbühl
+          3	Gamprin Waldeck
+          1	Gampriner Seele
+          1	Gampstrasse
+          3	Gampweg
+          2	Gamslafina
+          1	Ganadaweg
+          2	Gangbrunnen
+          9	Gapetschstrasse
+          1	Gapetschweiher
+          1	Gapfahl
+          1	Gapont
+          1	Garage Weilenmann AG
+          1	Gardella Establishment
+          1	Garlanga
+          1	Garnis
+          1	Garnrechte
+          1	Garsellikopf
+          1	Gartnetschof
+          2	Gartnetschweg
+          1	Gaschlieser
+          1	Gasenza
+          1	Gasometer Kulturzentrum Triesen
+          2	Gastelun
+          3	Gastera
+          2	Gasthaus Hirschen
+          1	Gasthof Adler
+          1	Gasthof Oberland
+          2	Gatter
+          1	Gatterbach
+          1	Gebhardstorkel
+          1	Gedenkstätte für Johann Bapt Büchel
+          3	Geisszipfelstrasse
+          1	Gemeinde
+          1	Gemeindegarten
+          2	Gemeindehaus
+          1	Gemeindepolizei Eschen
+          1	Gemeindepolizei Schellenberg
+          1	Gemeindepolizei Vaduz
+          1	Gemeindesaal
+          2	Gemeindeverwaltung
+          1	Gemeindeverwaltung Triesen
+          1	Gemsagrat
+          1	Geografischer Mittelpunkt von Liechtenstein
+          1	Georg
+          1	Gerawald
+          1	Gerberweg
+          1	Gerstgartenweg
+          1	Gewerbestrasse
+          2	Gewerbeweg
+          3	Giessa
+          1	Giessaweg
+          1	Giessen
+          4	Giessenstrasse
+          3	Giessenweg
+          1	Glend
+          1	Gmeiner Multimedia Anstalt
+          2	Gnalpstrasse
+          3	Gnetsch
+          1	Goldene Boos Gasse
+          1	Goldlochspitz
+          1	Goldschnitt
+          1	Golf Driving Range
+          1	Gorfion
+          1	Gorn
+          1	Grafertgasse
+          2	Grasgarten
+          1	Grashalda
+          2	Grasiger Weg
+          1	Graubünden/Grigioni/Grischun
+          1	Grenze Nofels (A) - Bangserfeld - Ruggell
+          1	Grenze Nofels (A) - Limsenegg - Ruggell
+          1	Grenzgarage
+          1	Grenzgrabaweg
+          1	Grenzkontrollstelle
+          1	Grenzsteig
+          1	Gritsch
+          2	Gross Bretscha-Weg
+          1	Grossabünt
+          1	Grosse Teile Straße
+          2	Grosser Bongert
+          2	Grosser Kanal
+          1	Grossfeld
+          8	Grosssteg
+          1	Großabünt.li
+          1	Gruabastrasse
+          1	Grund
+          4	Grüschaweg
+          3	Grütt
+          2	Gschindstrasse
+          5	Gufergasse
+          1	Guferstrasse
+          1	Guferwaldstrasse
+          1	Guflina
+          2	Guflinastrasse
+          2	Guler
+          1	Guscha (CH) - Lawena
+          1	Guscha (CH) - Maels
+          1	Guschg
+          1	Guschg - Steg
+          2	Guschgfiel - Malbun Bergbahnen
+          1	Gutacker
+          1	Gutenhalden
+          1	Gweilbach
+          1	Gymnasium Sportplatz
+          1	Gädamistrasse
+          1	Gälwand
+          3	Gängle
+          1	Gänsenstrasse
+          1	Gärbistrasse
+          2	Gärten
+          1	Gärtnerei Elsensohn
+          6	Gässle
+          1	Gästeparkplatz Restaurant Hotel Linde
+          1	Gästeparkplatz Restaurant Löwen
+          1	Gätterweg
+          5	Güdingenstrasse
+          1	Güfelegg
+          1	HB0FL
+          1	Ha Long
+          1	Haarzentrum
+          2	Haberacherstrasse
+          1	Hagstrasse
+          3	Hainweg
+          3	Hala
+          1	Haldastrasse
+          2	Haldengasse
+          4	Haldenstrasse
+          3	Haldenweg
+          1	Hallenbad Eschen
+          1	Hallenbad Resch
+          1	Hallenbad Triesen
+          2	Hampfländer
+          1	Handarbeitstruhe
+          1	Hannelore
+          2	Hanseliweg
+          1	Hasenweg
+          1	Hauptstrasse 16
+          2	Hauptstraße
+          1	Haus der Wirtschaft
+          1	Hausteileweg
+          2	Hegastrasse
+          2	Heidweg
+          9	Heiligkreuz
+          3	Heiligwies
+          1	Heilweg
+          1	Heimatmuseum
+          2	Heitastrasse
+          1	Helbertweg
+          2	Heliport Balzers
+          1	Hellbock
+          1	Helwangspitz
+          2	Hennafarm
+          1	Henri
+          1	Hensaböchelweg
+          2	Heragass
+          2	Heraweg
+          7	Herawingert
+          1	Hermann Quaderer Autoelektrik
+          4	Herrengasse
+          1	Herrenwingert
+          1	Herzog & Loibner
+          1	Hettabörgleweg
+          1	Heusträffl
+          2	Heuweg
+          1	Heuwies
+          1	Hidroelektrarna Medvode
+          4	Hilcona
+          5	Hilcona AG
+          1	Hilti
+          1	Hilti AG
+          1	Hilti AG Technisches Zentrum
+          2	Hilti Art Foundation
+          1	Hilti Innovation Center
+          1	Hilti Möbel
+          1	Hilti Nendeln
+          1	Hilti North Office Building
+          1	Hilti Training Center
+          1	Hilti Werk 1
+          1	Hiltikreisel
+          1	Hiltimadweg
+          1	Himmelsreichsteig
+          1	Hinder Prufatscheng
+          1	Hinter Grauspitz
+          2	Hinterbuela
+          2	Hinterbühlen
+          1	Hinterdorf
+          1	Hinterdorfweg
+          1	Hinterer Gantenstein
+          1	Hinterer Schellenberg - Gantenstein - Mittlerer Schellenber
+          1	Hinterer Schellenberg - Tostner Wald - Mittlerer Schellenbe
+          5	Hintergass
+          3	Hinterschellenberg
+          5	Hinterschloss
+          1	Hintertuass
+          1	Hirschen
+          2	Hochbruck
+          1	Hochspeler
+          3	Hofgasse
+          2	Hofistrasse
+          3	Hofkellerei
+          2	Hofweg
+          1	Hohe Köpfe
+          1	Hohlagass
+          1	Hoi Liechtenstein - Souvenir Boutique
+          3	Holdergasse
+          1	Holzbrücke
+          1	Holzerhütte
+          2	Holzgatter
+          1	Holzrüstplatz
+          1	Hopmaswingert
+          1	Hotel Dux
+          1	Hotel Garni Engel
+          1	Hotel Garni Säga
+          1	Hotel Gorfion
+          1	Hotel Landhaus
+          1	Hotel Oberland
+          2	Hotel Steg
+          1	Hotel Turna Malbun
+          1	Hotel Weinstube
+          1	Hoval
+          1	Hovalweg
+          1	Hub
+          1	Hubbündt
+          1	Huber
+          1	Huber Uhren
+          1	Hubstraße
+          1	Hubweg
+          1	Hundstalbach
+          1	Hunsrücken
+          1	Höbettwand
+          2	Höf
+          6	Höfle
+          1	Hölzle
+          1	Hörparadies Hörgeräte
+          2	Hüschistrasse
+          1	IPAG
+         16	Ill
+          2	Im Arg
+          1	Im Bartledura
+          8	Im Besch
+          3	Im Bretscha
+          2	Im Burkat
+          1	Im Burkat, Triesenberg
+          1	Im Böschfeld
+          4	Im Bühl
+          1	Im Damm
+          1	Im Duxer
+          3	Im Feld
+          1	Im Fetzer
+          1	Im Frommenhaus
+          3	Im Gafos
+          1	Im Gamander
+          1	Im Gamperdon
+          1	Im Ganser
+          4	Im Gapetsch
+          2	Im Garsill
+          1	Im Glenn
+          1	Im Grabaton
+          2	Im Gässle
+          2	Im Güetli
+          1	Im Haberfeld
+          1	Im Hasenacker
+          2	Im Hof
+          1	Im Häldele
+          1	Im Katzarank
+          1	Im Kehr
+          2	Im Kellersfeld
+          1	Im Kresta
+          1	Im Krüz
+          3	Im Loch
+          1	Im Loma
+          3	Im Lutzfeld
+          2	Im Malarsch
+          5	Im Malbun
+          1	Im Meierhof
+          1	Im Mühleholz
+          1	Im Neugut
+          1	Im Oberfeld
+          2	Im Pardiel
+          1	Im Quäderle
+          2	Im Reberle
+          1	Im Rehwinkel
+          1	Im Ried
+          1	Im Riet
+          2	Im Rietacker
+          3	Im Rietle
+          5	Im Rossfeld
+          2	Im Rösle
+          1	Im Sand
+          7	Im Schwibboga
+          2	Im Steinest
+          4	Im Steinort
+          1	Im Sütigerwis
+          1	Im Teil
+          3	Im Tröxle
+          1	Im Täscherloch
+          1	Im Werler
+          4	Im Wingert
+          3	Im Winkel
+          2	Im Zagalzel
+          5	Im alten Riet
+          1	Im obera Gamander
+          1	Im unteren Rossfeld
+          2	Im Äscherle
+          1	Im össera Loma
+          1	Immagass
+          1	In den Äusseren
+          1	In der Ballota
+          1	In der Blacha
+          2	In der Egerta
+          1	In der Fina
+          4	In der Halde
+          1	In der Specki
+          2	Industrie
+          9	Industriering
+         28	Industriestrasse
+          1	Inficon AG
+          1	Information Board, Geography
+          1	Innere Wiesen
+          1	Insel
+          3	Insili
+          1	Inter Discount
+          2	Iradug
+          1	Irafrieg
+          1	Iragell
+          8	Iraggellstrasse
+          1	Iramali
+          2	Iratell
+          1	Iratetsch
+          4	Ivoclar
+          4	Ivoclar Vivadent AG
+          1	Ivoclarkreisel
+          1	JUFA
+          1	Jausenplatz
+          3	Jedergass
+          2	Johann Georg Helbert-Strasse
+          1	Johannitersteig
+          1	Jojo Reisen
+          2	Jonabodastrasse
+          3	Josef Murr Weg
+          1	Josef Rheinberger Strasse
+          1	Jubiläumskirche
+          1	Jugendcafé Camäleon
+          2	Jugendheim Malbun
+          1	Jugendherberge Schaan-Vaduz
+          1	Junkerriet
+          3	Jägerweg
+          4	Jöraboda
+          1	K-Kiosk
+          2	KAISER AG
+          5	Kanalstrasse
+          3	Kanalweg
+          1	Kapellaweg
+          1	Kapelle
+          1	Kapelle St. Josef
+          1	Kapelle St. Maria
+          1	Kapelle St. Peter
+          1	Kapelle Steg
+          1	Kapfstrasse
+          1	Kaplaneigasse
+          1	Kappele
+          3	Kappelerweg
+          3	Kappelestrasse
+          1	Kappeleweg
+          1	Kappeliweg
+          1	Kappileweg
+          1	Kartennaweg
+          2	Kasernastrasse
+          1	Kasperigass
+          1	Kathedrale St. Florin
+          1	Kaufin
+          1	Kehrplatz Birkenweg
+          1	Kella
+          1	Keltenstrasse
+          1	Kenel Flächentechnik
+          1	Kesse
+          1	KiTa Bahnhofstrasse
+          1	Kieferorthopädie Dr. med. dent. Annegret Gabriel
+          1	Kiesplatz
+          1	Kinderarzt
+          1	Kinderarzt Dr. Walch
+          1	Kindergarten
+          1	Kindergarten "Schule"
+          1	Kindergarten Bartlegrosch
+          1	Kindergarten Kirche
+          1	Kindergarten Maschlina
+          1	Kindergarten Sand
+          2	Kindergarten Schellenberg
+          1	Kindergaten "Schule"
+          4	Kinderheim
+          1	Kinderspielplatz
+          1	Kirchenbot
+          3	Kirchensträssle
+          1	Kirchenweg
+          1	Kirchgässle
+          9	Kirchstrasse
+          1	Kirchturm St. Nikolaus
+          1	Kita
+          5	Kleiner Kanal
+          1	Kleiner Saal
+          1	Kleinschule Planken
+          1	Kleinspielfeld
+         16	Kleinsteg
+          1	Kleintheater Schlösslekeller
+          8	Klenn
+          2	Klettergarten Naffkopf/Pfälzerhütte
+          1	Kloggerweg
+          2	Klopce
+          1	Kloster St. Elisabeth
+          2	Klosterwingert
+          1	Klotzeck
+          1	Knebelbrugg
+          2	Kohlbruck
+          1	Kohlbrunnen
+          1	Kohlmahd
+          2	Kohlplatz
+          1	Kohlplatzli
+          1	Kokon
+          1	Kolm
+          1	Kompostierplatz Ställa
+          1	Konsulat St. Vincent und die Grenadinen
+          1	Kontakt, Feuerwehrdepot
+          1	Koraspitz
+          2	Kornweg
+          1	Kosthaus
+          1	Kratzera
+          1	Krebswasserfall
+          1	Kreisel Landtag
+          1	Kreisel Rheindamm
+          5	Krest
+          2	Krestisweg
+          1	Kreuz
+          1	Kreuzbühel
+          3	Kreuzstrasse
+          2	Kreuzweg
+          1	Kriesebrogg
+          1	Krist
+          1	Križni vrh
+          1	Krone
+          3	Krummenacker
+          3	Krutgärta
+          1	Krüzbünt
+          1	Krüzgass
+          2	Kuegrat
+          1	Kuegrat - Schaan
+          1	Kuegrat - Schaan St. Peter
+          1	Kuegrat - Vaduz
+          1	Kuhgrat
+          1	Kulm
+          3	Kulmstrasse
+          1	Kulturzentrum Gasometer
+          1	Kum Hoch die Hea
+          1	Kunstmuseum Liechtenstein
+          1	Kurhaus Steg - Malbun
+          1	Kurhaus Steg - Rappenstein
+          1	Kurrstrasse
+          1	Käsestube
+          3	Königsseeache
+          1	Küfergässli
+          1	Kümmerleweg
+          1	LGT
+          1	LGT Servicecenter Bendern
+          1	LGU
+          1	LKW Elektrofachhandel
+          1	La Bonboniera Einrichtung
+          1	La Piazza
+          1	Lachenstrasse
+          1	Lagerplatz Dux
+          1	Lagerplatz Forst
+          1	Lagerplatz Oberäckerle Balzers
+          1	Landammannstrasse
+          1	Landesbibliothek
+          1	Landespolizei
+          1	Landgasthof Mühle
+          1	Landgasthof Rössle
+          1	Landgericht
+          1	Landhaus am Giessen
+          5	Landquart
+         60	Landstrasse
+          1	Landstrasse-Saege - Forst - Triesen Post
+          1	Landstrasse-Saege - Forst - Triesenberg
+          2	Landstrasse-Saege - Lawena
+          1	Landstrasse-Saege - Wilda Bongert - Triesen Post
+          1	Landstrasse-Saege - Wilda Bongert - Triesenberg
+          2	Landtag
+          1	Landweibelhäuser
+          1	Langacker
+         10	Langgasse
+          1	Langspitz
+          1	Lattawaldweg
+          4	Laurentiusbad
+          1	Laurentiusturm
+          2	Laurentiusweg
+          4	Lavadinastrasse
+          1	Lawena
+          1	Lawena - Mittlerspitz
+          1	Lawena - Rappenstein
+          1	Lawena - Wangerberg
+          1	Lawena - Wanghoehe
+          1	Lawena Obersäss
+          1	Lawenaröfi
+          4	Lawenastrasse
+          1	Lawinabroeckle
+          1	Lazo Lipovac Gemüsecenter
+          7	Lech
+          2	Lehenwies
+          1	Leitawisstrasse
+          1	Lett
+          1	Lettenstrasse
+          1	Lettgräbli
+         12	Lettstrasse
+          5	Letzanaweg
+          1	Letzi
+          2	Letziweg
+          1	LieVa AG
+          2	Liecht. Post
+          2	Liechtenstein
+          1	Liechtenstein Bus
+          2	Liechtenstein Center
+          1	Liechtensteiner Höhenweg
+          1	Liechtensteiner Panoramaweg
+          4	Liechtensteiner Straße
+          1	Liechtensteinische Landesbank
+          1	Liechtensteinische Musikschule
+          1	Liechtensteinischen Milchhof
+          1	Liechtensteinisches Landeshospital
+          2	Liechtensteinisches Landesmuseum Vaduz
+          1	Liechtensteinisches Landesspital
+          3	Limsenegg
+          2	Lindaplatz
+          1	Lindau Hbf – Bludenz / St. Margrethen / Buchs SG
+          1	Lindengasse
+          2	Lindenplatz
+          1	Linexa
+          1	Little Garden
+          2	Litzistrasse
+          7	Ljubljanska cesta
+          3	Loch
+          9	Lochgass
+          1	Logistikzentrum Liechtensteinische Post
+          3	Loisach
+          1	Long John Apero Bar
+          1	Lourdes Grotte
+          2	Lowal
+          2	Löwen
+          1	MX Arena Hälos
+          1	Made in Italy
+          1	Maels - St. Luzisteig (CH)
+          1	Maels - Triesen Post
+          1	Magrüal
+          2	Magrüalsta
+          1	Maiasäss
+          1	Maienfeld
+          3	Maienfeld-Heididorf/Balzers
+          1	Maienweg
+          4	Malarsch
+          1	Malbi-teppich
+          2	Malbun
+          1	Malbun - Augstenberg - Pfaelzerhuette
+          1	Malbun - Malbun Bergbahnen
+          1	Malbun - Nenzinger Himmel
+          1	Malbun - Schoenberg
+          1	Malbun - Steg
+          1	Malbun - Vaduzer Taeli - Pfaelzerhuette
+          6	Malbun Bach
+          1	Malbun Bergbahnen
+          1	Malbun Bergbahnen - Bergle - Schoenberg
+          1	Malbun Bergbahnen - Sassfoerkle - Schoenberg
+          1	Malbun Bergbahnen - Steg
+          5	Malbun Jugendheim
+          1	Malbun Jöraboda
+          1	Malbun Schneeflucht
+          3	Malbun Zentrum
+          5	Malbunerbach
+         16	Malbunstrasse
+          1	Maltelti Wald
+          1	Mangabündt
+          1	Marc Cain
+          1	Marc O'Polo
+          2	Marchamguadstrasse
+          1	Mareestrasse
+          2	Mariahilf
+          1	Mariahilfkapelle
+          1	Marianumstrasse
+         17	Mariborska cesta
+          4	Mariborska ulica
+          1	Marionnaud
+          2	Markplatz Garage
+          1	Marktgass
+          1	Maschera
+          2	Maschlina
+          4	Maschlinastrasse
+          1	Masescha
+          1	Masescha - Baholz - Vaduz
+          1	Masescha - Letzi - Vaduz
+          1	Masescha - Schaan
+          1	Masescha - Schaan St. Peter
+          1	Masescha - Triesenberg
+          5	Masescha Kapelle
+          5	Masescha Silumstrasse
+          4	Maseschastrasse
+          1	Matneij
+          3	Matschils
+          1	Matschilsstrasse
+          6	Matteltiwaldstrasse
+          1	Mattlaweg
+          1	Mattlerjoch
+          2	Matustrasse
+          2	Matzendorf
+          3	Mauren
+          1	Mauren - Birkahof - Schaanwald
+          1	Mauren - Bueelkappili - Vorderer Schellenberg
+          1	Mauren - Mittlerer Schellenberg
+          1	Mauren - Ruggell
+          1	Mauren - Schaan
+          1	Mauren - Schaanwald
+          1	Mauren - Schaanwald - Nendeln
+          1	Mauren - Sportpark Eschen-Mauren - Nendeln
+          1	Mauren - Sportpark Eschen-Mauren - Schaan
+          1	Mauren - St. Corneli (A)
+          1	Mauren - Tisis (A)
+          1	Mauren - Vorderer Schellenberg
+          5	Mauren Auf Berg
+          4	Mauren Binza
+          5	Mauren Fallsgass
+          2	Mauren Freiendorf
+          9	Mauren Freihof
+          5	Mauren Kirche
+          3	Mauren Krummenacker
+          5	Mauren Post
+          3	Mauren Wegacker
+          5	Mauren Ziel
+          2	Maxi
+          1	Mazorakopf
+          1	Mazorastrasse
+          1	McDonald's
+          1	Medergass
+          2	Mederweg
+          1	Medicap Nutrition
+          1	Megeriweg
+          1	Mehrzweckhalle
+          7	Meierhofstrasse
+          1	Meldina
+          1	Messeplatz
+          2	Messinastrasse
+          1	Metzgerei Hilti
+          1	Metzgerei Schädler
+          1	Metzgerei Wachter
+          2	Michel-Oehri
+          1	Migroil
+          1	Migros
+          1	Mikado
+          2	Milaschiweg
+          1	Milchzentrale
+          1	Minigolfclub
+          2	Mittagspitze
+          2	Mitteldorf
+          1	Mitterbach
+          1	Mittlere Länge
+          1	Mittlerer Schellenberg
+          1	Mittlerer Schellenberg - Brueechliswald - Ruggell
+          1	Mittlerer Schellenberg - Limsenegg - Ruggell
+          1	Mittlerspitz
+          1	Mittlervalorsch
+          1	Mitätsch
+          1	Modellflugplatz
+          1	Morgengab
+          1	Mountainbiking in Switzerland
+          2	Murasträssle
+          1	Musikhaus Gusti Foser AG
+          1	Musikschule
+          1	Musikschulzentren Oberland
+          1	Mälsner Dorf
+          4	Mälsnerdorf
+          1	Möbel Thöny
+          1	Mölibüntaweg
+          1	Mölimadweg
+          1	Möliweg
+          1	Mövenpick
+          1	MüKo Gartengestaltung
+          1	Mühlebach
+          4	Mühlebachweg
+          1	Mühlegarten
+          6	Mühlegass
+          2	Mühlegasse
+          1	Mühleholz
+          1	Mühleholzmarkt
+          2	Mühlesträssle
+          2	Mühleweg
+          1	Mühlibach
+          1	Mündle
+          1	Münz
+          1	Müssnen
+          1	NTi Audio AG
+          1	Naafkopf
+          1	Naafkopf - Pfaelzerhuette
+          1	Nasshaggaweg
+          1	National cycling network of Switzerland
+          3	Nellengasse
+          1	Nendelerröfi
+          7	Nendeln
+          1	Nendeln - Planken
+          1	Nendeln - Schaanwald Zoll
+          6	Nendeln Bahnhof
+          5	Nendeln Kohlmahd
+          5	Nendeln Oberwiesen
+          4	Nendeln Sebastianstrasse
+          1	Nendeln Tonwarenfabrik
+          1	Nenzing
+          1	Nenzinger Himmel (A) - Pfaelzerhuette
+          1	NeuElektrik AG
+          2	Neudorfstrasse
+          1	Neue Bürowelt
+          6	Neue Churerstrasse
+          1	Neue Münzhötta
+          1	Neues Schulhaus Bühl
+          4	Neufeldweg
+          1	Neugasse
+          3	Neugrüt
+          3	Neugrüttweg
+          1	Neugrütweg
+          6	Neugutweg
+          2	Neugüetliweg
+          1	Neuland visuelle Gestaltung GmbH
+          1	Neunkirchen
+          1	Neunkirchen Bahnstraße
+          1	Neurüttiweg
+          1	Neusandweg
+          1	Neutrik AG
+          1	New Castle
+          1	Njord
+          1	Nofels
+          1	Nofler Strasse
+          1	Nofler Straße
+          8	Noflerstrasse
+          1	Nolla
+          1	Nospitz
+          1	Nägele-Capaul
+          4	Ober Betsche
+          1	Ober Ställ
+          2	Obera Bofelweg
+          1	Obera Giessaweg
+          2	Oberau
+          5	Oberbendern
+          7	Oberbühl
+          2	Oberdorf
+          4	Obere Au
+          1	Obere Hub
+          7	Obere Rüttigasse
+          1	Obere Tona
+          1	Obereggastrasse
+          1	Oberer Winkel
+          1	Oberfeld
+          1	Oberfeldweg
+          3	Oberfresch
+          5	Obergass
+          4	Obergufer
+          2	Oberguferstrasse
+          6	Obergut
+          1	Oberplanken
+          5	Oberplanknerstrasse
+          1	Oberplatta
+          4	Oberstädtle
+          1	Obersäss
+          2	Oberweilerstrasse
+          2	Oberwiler
+          1	Ochsenkopf
+          1	Oehri Kristall, Porzellan, Silber
+          1	Oettinger Davidoff
+          1	Olympia
+          1	Orglamadweg
+          1	Orient Café & Restaurant
+          1	Oskar_Werner
+          1	Ospelt
+          1	Ospelt Herbert Anstalt
+          1	Ospelt Metzg
+          1	Ottobeurenweg
+          1	Oxnerweg
+          1	P 1
+          1	P 2
+          1	P3
+          1	P4
+          5	Palduinstrasse
+          1	Palmers
+          1	Papeterie Thöny AG
+          1	Pappelweg
+          1	Parallelgraben
+          1	Parallelgrabenstrasse
+          1	ParcoursVita Schaan
+          1	Parganta
+          1	Park-Hotel Sonnenhof
+          1	Parkplatz 3
+          1	Parkplatz Gaflei
+          1	Paulahuette - Schaanwald
+          4	Paulahuette Lower Part
+          1	Paulahütte Picknick
+          1	Paulahütte Trail Middle Part
+          3	Paulahütte Trail Upper Part
+          2	Peter- und Paul-Strasse
+          2	Peter-Kaiser-Platz
+          2	Peter-Kaiser-Strasse
+          1	Pfadfinderhaus Schellenberg
+          1	Pfadibrunnen
+          1	Pfadiheim Mauren
+          1	Pfaelzerhuette - Gritsch - Suecka
+          1	Pfaelzerhuette - Rappenstein
+          1	Pfaelzerhuette - Schesaplana (CH)
+          1	Pfaelzerhuette - Schesaplana Huette (CH)
+          1	Pfanndbrunnen
+          1	Pfarkirche Triesen
+          1	Pfarreizentrum
+          2	Pfarrer Ludwig Jenal-Weg
+          1	Pfarrhof
+          1	Pfarrkirche
+          1	Pflugstrasse
+          3	Pfrundweg
+          1	Pfälzer Hütte
+          2	Philosophenweg
+          1	Pizzeria Toscana
+          3	Planken
+          1	Planken - Schaanwald
+          1	Planken - Vaduz
+          1	Planken Abzw. Egerta
+          3	Planken Saroja
+          1	Planken Schulhaus
+          5	Planken Vorderplanken
+          1	Plankner Strasse
+         10	Planknerstrasse
+          4	Planknerstrasse/Kresta
+          1	Plasteikopf
+          3	Platta
+          1	Plattagass
+          1	Plattastrasse
+          3	Plattenbach
+          2	Plattenspitze
+          1	Platzbünt
+          1	Pneu Leitner
+          1	Popers
+          4	Poska
+          1	Poskahalda
+          1	Post
+          1	Post Balzers
+          1	Post Eschen
+          1	Post Mauren
+          1	Post Nendeln
+          1	Post Schaan
+          1	Post Schellenberg
+          1	Post Vaduz
+          1	Postbank
+          1	Postgass
+          1	Postkreisel
+          1	Postmuseum
+          1	Postplatz
+         10	Poststrasse
+          2	Pradafant
+          1	Pradamee
+          6	Pradameestrasse
+          2	Prafatell
+          1	Pralawisch
+          1	Prangerstrasse
+          1	Primarschule
+          2	Primarschule Aeule
+          1	Primarschule Gamprin-Bendern
+          1	Primarschule Nendeln
+          2	Primarschule Resch
+          1	Primarschule Schaanwald
+          1	Primarschule Schellenberg
+          2	Primarschule Triesen
+          1	Primarschule Triesenberg
+          1	Prinzessin Maria Elisabeth von Liechtenstein
+          1	Private Universität im Fürstentum Liechtenstein (UFL)
+          1	Privatplatz des Fürstenhauses
+          3	Prufatschengstrasse
+          1	Prär
+          1	Pur
+          1	Purtscher
+          4	Purtschersteig
+          2	Pädergross
+          1	Q2Power AG
+          1	Quadera
+          1	Quaderröfi
+          7	Quaderröfiweg
+          1	Quaderstrasse
+          2	Quadretschaweg
+          2	Quäderle
+          1	R2 Buchs – Feldkirch
+          1	R2 Feldkirch – Buchs
+          1	Radroute Feldkirch Egelsee
+          1	Radroute Illspitz - Landesgrenze (FL)
+          1	Radroute Tosters - Staatsgrenze (FL)
+          1	Railjet
+          2	Raistrasse
+          1	Ramsach
+          2	Ramschwagweg
+          1	Rankhag
+          1	Rappastein
+          1	Rappenstein - Suecka
+          1	Rasenspielfeld
+          3	Rathaus
+          1	Rathaus Vaduz
+          1	Rathausgasse
+          1	Ratskeller
+          2	Rebenweg
+          1	Rebera
+          1	Rebera-Nord
+          1	Rebera-Süd
+          2	Reberastrasse
+          1	Rechsteiner Schuhe, Mode und Sport
+          1	Recyclinghof
+          3	Regelmeder
+          1	Regierung
+          1	Regional cycling network of Switzerland
+          1	Regional mountain bike network of Switzerland
+          2	Renkwiler
+          1	Renkwilerweg
+          3	Rennhofstrasse
+          1	Resagässli
+          1	Resch
+          2	Reschweg
+          1	Residence
+          1	Restaurant Da Dona
+          2	Restaurant Forum
+          1	Restaurant Hotel Linde
+          1	Restaurant Kainer
+          1	Restaurant Landhaus
+          1	Restaurant Rössle
+          1	Restaurant Schneeflucht
+          1	Restaurant Specki
+          1	Restaurant Weinstube
+          1	Revitrust
+          7	Rhein
+          3	Rheinau
+          1	Rheinbergerhaus
+          1	Rheinbrücke
+          1	Rheinbrücke Haag-Bendern
+         21	Rheindamm
+          1	Rheindenkmal
+          2	Rheinparkstadion
+         27	Rheinstrasse
+          3	Rheinwiese
+          1	Rhreindamm
+          1	Ridamm-City
+          2	Riedstrasse
+          3	Rietgärta
+          2	Rietle
+          8	Rietlestrasse
+          1	Rietleweg
+          1	Rietlistrasse
+         26	Rietstrasse
+          3	Rietsträssle
+          1	Rietteileweg
+          2	Rietweg
+          1	Rinkenwingert
+          1	Risch Getränke AG
+          1	Ritsch
+          1	Ritter Weine AG
+          5	Rizlinastrasse
+          3	Rofenbergstrasse
+          1	Rormederweg
+          2	Rosenbühler
+          3	Rosengartenweg
+          1	Rosenstrasse
+          1	Rossbodagasse
+          2	Rossbodastrasse
+          4	Rossfeld/Obergass
+          1	Rotenboden
+          4	Rotenbodenstrasse
+          1	Rotengasse
+          1	Rotes Haus
+          1	Roxy Markt Migros Partner
+          1	Ruggalinaweg
+          3	Ruggell
+          1	Ruggell - Sennwald
+          1	Ruggell - Sennwald (CH)
+          3	Ruggell Flandera
+          1	Ruggell Giessa
+          2	Ruggell Industriering
+          5	Ruggell Kirche
+          5	Ruggell Kreuzstrasse
+          5	Ruggell Limsenegg
+          3	Ruggell Noflerstrasse
+          3	Ruggell Oberwiler
+          5	Ruggell Rathaus
+          3	Ruggell Sennerei
+          5	Ruggell Zollamt
+          1	Ruggeller Riet
+          6	Ruggeller Strasse
+          1	Ruggellerstrasse
+          1	Ruhende Frau
+          1	Ruine Alt-Schellenberg
+          1	Ruine Neu-Schellenberg
+          1	Ruine Schalun
+          1	Ruine Tosters
+          1	Ruine Wildschloss
+          4	Runkels
+          1	Runkelsstrasse
+          1	Russendenkmal
+          1	Rätierstrasse
+          1	Rätikon
+          1	Rätikonstrasse
+          2	Röfiweg
+          3	Römerstrasse
+          2	Römerstraße
+          2	Rötis
+          2	Rüfestrasse
+          4	Rütelti
+          1	Rüteltigasse
+          2	Rüteltistrasse
+          1	Rüti
+          1	Rütistrasse
+          3	Rüttegasse
+          2	Rüttelegraben
+          1	Rütteler
+          1	Rütti
+          1	Rüttigass
+          1	Rüttileweg
+          1	Rüttistrasse
+          1	Rüttiwaldstrasse
+          1	SAL (Saal am Lindaplatz)
+          1	SOCAR
+          1	Sagenstrasse
+          1	Salon Niedhart
+          3	Salums
+          6	Salzach
+          5	Samina
+          1	Sandgrube
+          4	Sandhüslerweg
+          1	Sandweg
+          2	Sankt Annagasse
+          5	Sankt Florinsgasse
+          1	Sankt Gallen
+          1	Sankt Johannerweg
+          1	Sankt Josefsgasse
+          1	Sankt Ludwig
+          3	Sankt Luzi-Strasse
+          1	Sankt Luzistrasse
+          3	Sankt Mamertenweg
+          1	Sankt Markusgasse
+          9	Sankt Martins-Ring
+          1	Sankt Martinsweg
+          1	Sankt Peter
+          4	Sankt Wolfgangstrasse
+          1	Sankt-Josefs-Kirchlein
+          1	Sargans
+          1	Saroja
+          2	Sass
+          1	Sass-Seelein
+          1	Sassfürkle
+          1	Sattelspitz
+          1	Sattelwald
+          1	Sattlerweg
+          3	Sava
+          2	Savinja
+          2	Sax
+          1	Saxgass
+          6	Saxweg
+          1	Scanastrasse
+          2	Schaan
+          1	Schaan - Quaderruefe - Vaduz
+          1	Schaan - Triesenberg
+          1	Schaan - Vaduz
+          8	Schaan Bahnhof
+          1	Schaan Bierkeller
+          1	Schaan Duxgass/Kresta
+          5	Schaan Fürstenweg
+          1	Schaan Hilcona
+          5	Schaan Hilti
+          1	Schaan Im Besch
+          1	Schaan Im Rossfeld
+          1	Schaan Industriestrasse
+          1	Schaan Ivoclar
+          1	Schaan Kinderheim
+          1	Schaan Laurentiusbad
+          1	Schaan Malarsch
+          5	Schaan Quader
+          5	Schaan Rheindenkmal
+          5	Schaan Rosengarten
+          1	Schaan Rossfeld/Obergass
+          1	Schaan St. Peter - Quaderroefi - Vaduz
+          1	Schaan St. Peter - Triesen Post
+          1	Schaan St. Peter - Triesenberg
+          1	Schaan Supercharger
+          1	Schaan Theater
+          5	Schaan Zentrum
+          1	Schaan Zollstrasse
+          1	Schaan, Realschule
+          1	Schaan, St. Elisabeth
+          1	Schaan-Vaduz
+          1	Schaaner Radwegnetz
+         12	Schaaner Strasse
+          1	Schaanerhof
+          1	Schaaneriweg
+          1	Schaanerstrasse
+          7	Schaanwald
+          1	Schaanwald - Schaanwald Zoll
+          3	Schaanwald Industrie
+          5	Schaanwald Waldstrasse
+          1	Schaanwald Zoll - Tisis (A)
+          7	Schaanwald Zollamt
+          5	Schaanwald Zuschg
+          1	Schabbrünnen/Äscher
+          1	Schalunstrasse
+          1	Schatzkammer Liechtenstein
+          1	Scheienkopf
+          2	Schellenberg
+          5	Schellenberg Egerta
+          5	Schellenberg Eschner Rütte
+          3	Schellenberg Hinterschellenberg
+          3	Schellenberg Hinterschloss
+          3	Schellenberg Klenn
+          5	Schellenberg Loch
+          3	Schellenberg Obergut
+          5	Schellenberg Post
+          3	Schellenberg Stotz
+          2	Schellenberg Sägaplatz
+          4	Schellenberg Tannwald
+          3	Schellenberg Widum
+          1	Schellenberg climbing cliff
+          9	Schellenbergstrasse
+          1	Schifflände
+          1	Schimmelgasse
+          2	Schinderböchel
+          3	Schlappinbach
+          1	Schlappiner Joch
+          1	Schlattfeldweg
+          1	Schlattstrasse
+          3	Schliassaweg
+          2	Schliessa
+          1	Schloss Apotheke
+          1	Schloss Gutenberg
+          2	Schloss Vaduz
+          1	Schloss-Stieg
+          7	Schlossstrasse
+          1	Schlosswald
+         24	Schlossweg
+          1	Schlucherbar
+          1	Schlössle Mahal
+          2	Schmedgass
+          1	Schmedgässle
+          1	Schmiedegasse
+          5	Schmiedeweg
+          1	Schmiedgasse
+          4	Schneeflucht
+          1	Schoenberg - Steg
+          1	Schrybi Schreibwaren
+          1	Schuh Risch
+          1	Schul- und Gemeindebibliothek Eschen
+          2	Schule
+          1	Schulgass
+          4	Schulhaus
+         10	Schulstrasse
+          5	Schulweg
+          1	Schulzentrum Mühleholz
+          2	Schulzentrum Unterland
+          1	Schwabbrünnen/Äscher
+          3	Schwarz Strässle
+          4	Schwarze Strasse
+          2	Schwechat
+          2	Schwefel
+          3	Schwefelstrasse
+          1	Schweiz/Suisse/Svizzera/Svizra
+          1	Schweizer Hauptstrassen
+          1	Schwemmegass
+          1	Schwimmbad Mühleholz
+          1	Schwimmbadweg
+          1	Schwiwäldetobel
+          1	Schächle AG Weinhaus & Getränkefachhandel
+          1	Schäfe
+          1	Schönberg
+          3	Schönbühl
+          1	Schützengasse
+          2	Schützenplatz
+          1	Sebastian-Kneipp-Straße
+          2	Sebastianstrasse
+          1	Seeblick
+          1	Seilpark Forst
+          1	Seniorenbund / Informations- und Beratungsstelle Alter
+          2	Sennerei
+          1	Sennereigässli
+          1	Sennwald
+          3	Sennwisstrasse
+          1	Sentinator
+          1	Sevelen
+          1	Sevelen (CH) - Vaduz
+          1	Sieba Brünna
+          1	Sigis Velo-Shop Anstalt
+          1	Silberhorn
+          1	Silligatter
+          2	Silum
+          4	Silumstrasse
+          2	Simmasguet
+          1	Simonis Sehzentrum
+          1	Simsgasse
+          1	Skaterpark
+          1	Skaterpark Vaduz
+          1	Skigebiet Malbun
+          1	Skimuseum
+          1	Sohlstufe Lehen
+          1	Solarisweg
+          1	Sonnblickstrasse
+          3	Sonnenkreisel
+          1	Sora
+          1	Souvenirs
+          1	Soča
+          1	Spangelswesweg
+          2	Spaniagasse
+          1	Spar
+          1	SparGourmet
+          1	Speckemahd
+          1	Speckibünt
+          1	Spennistrasse
+          1	Spidach
+          1	Spiegelstrasse
+          3	Spielplatz
+          4	Spiersbach
+          1	Spiersbachbrücke
+          2	Spirkenwälder Saminatal
+          2	Spital
+          1	Spodnja Brežnica
+          6	Spodnje Hoče
+          1	Spoerryweg
+          1	Sporry Gasometer
+          1	Sport- und Freizeitanlage Weiherring
+          4	Sportanlage Rheinau
+          3	Sportfeldstrasse
+          1	Sporthaus
+          1	Sportplatz Rheinwiese
+          3	Sportplatzstrasse
+          1	Sportplatzweg
+          1	Sportspielplatz
+         10	Spörry
+          1	Spörry Kemmi
+          1	Spörry Weiher
+          1	St. Laurentiuskirche
+          1	St. Peter
+          1	St. Theodul, Gemeindeverwaltung
+          1	Staatsgrenze nächst Nendeln
+          1	Staatsgrenze nächst Tosters
+          2	Stabroch
+          1	Stabsstelle Chancengleichheit
+          1	Stadel
+          2	Stadtgraba
+          1	Stadttgraba
+          5	Staffelweg
+          1	Start
+          1	Station No1
+          1	Station No10
+          1	Station No11
+          1	Station No12
+          1	Station No13
+          1	Station No13b
+          1	Station No14
+          1	Station No2
+          1	Station No3
+          1	Station No4
+          1	Station No5
+          1	Station No7
+          1	Station No8
+          1	Station No9
+          1	Staudengasse
+          1	Staudenweg
+          4	Steckergass
+          5	Steg
+          5	Steg Hotel
+          5	Steg Tunnel
+          1	Stegertunnel
+          1	Steinbruch
+          2	Steinbösstrasse
+          1	Steinegerta
+          3	Steinestgasse
+          4	Steineststrasse
+          5	Steinort
+          1	Steinortgasse
+          4	Steinortstrasse
+          3	Stelzagass
+          3	Stepišnikova ulica
+          1	Stigbretscha
+          1	Storchenbühel
+          4	Stotz
+          1	Streue
+          1	Stromschnell/Wasserfall
+          2	Stubistrasse
+          1	Studa
+          2	Studahof
+          1	Studastrasse
+          9	Städtle
+          3	Stöcklerweg
+          2	Stötz
+          1	Subway
+          3	Suggadinbach
+          1	Sulzer AG
+          1	Sunnahalda
+          1	Superdry
+          1	Superfund Asset Management GmbH
+          4	Swarovski AG
+          1	Swissvax Care Center Liechtenstein & Rheintal
+          1	Switcher Shop
+          1	SwitzerlandMobility
+          1	Säga-Parkplatz
+          3	Sägagass
+          2	Sägagasse
+          2	Sägaplatz
+          7	Sägastrasse
+          1	Sägaweier
+          1	Sägaweiherweg
+          2	Säss
+          2	Sömele
+          1	Sücka
+          7	Sückastrasse
+          1	Sütigerwisstrasse
+          1	TAKino
+          1	TANG
+          1	TaK
+          1	TaK (Theater am Kirchplatz)
+          1	Taleze
+          3	Talweg
+          1	TankRastShop
+          1	Tannenweg
+          5	Tannwald
+          1	Tanzplatz
+          1	Technopark Liechtenstein
+          1	Teixlburg
+          1	Tennisclub Balzers
+          1	Tennisclub Dux
+          1	Tennishalle Schaan
+          1	Tenscha
+          1	Teufiweg
+          1	Teufiwäg
+          1	Thai
+          4	Theater
+          1	ThyssenKrupp Presta AG
+          1	Thyssenkrupp Presta Teccenter AG
+          1	Thöny
+          1	Thöny Bürobedarf
+          1	Thönysbünt
+          1	Tiefgarage Bushof
+          1	Tiefgarage SAL / Lindaplatz
+          1	Tils
+          1	Tisis
+          4	Titova cesta
+         11	Tobelbach
+          2	Toiletten
+          2	Tonagass
+          2	Toniäulestrasse
+          5	Tonwarenfabrik
+          1	TopPharm Apotheke
+          1	TopPharm Engel Apotheke & Drogerie - Balzers
+          2	Torbariet
+          1	Torbaweg
+          2	Torkel
+          1	Torkelgass
+          1	Torkelgasse
+          1	Torrente Sonna
+          1	Torso
+          1	Tosters
+          1	Tostner Straße
+          1	Toyota Lampert
+          1	Trachter
+          1	Trafostation
+          1	Training1
+          1	Training2
+          1	Trampino Reseladen Anstalt
+          1	Travis American Classics
+          1	Tre Cavalli
+          1	Treppe_Klenn_Rütte
+          2	Trg Alfonza Šarha
+          3	Trg svobode
+          3	Triesen
+          1	Triesen Argweg
+          3	Triesen Bächlegatter
+          3	Triesen Feldstrasse
+          4	Triesen Gartnetschhof
+          3	Triesen Langgasse
+          3	Triesen Maschlina
+          3	Triesen Matschils
+          3	Triesen Meierhof
+          5	Triesen Messina
+          3	Triesen Poska
+          5	Triesen Post
+          1	Triesen Post - Alte Rheinbruecke - Vaduz
+          1	Triesen Post - Hennawiblisboda - Triesenberg
+          5	Triesen Schule
+          3	Triesen Sonnenkreisel
+          5	Triesen Säga
+          1	Triesen VP Bank
+          3	Triesen Vanetscha
+          3	Triesen Vaschiel
+          2	Triesen, Meierhof
+          2	Triesen, Vaschiel
+          2	Triesenberg
+          1	Triesenberg - Baholz - Vaduz
+          1	Triesenberg - Litzi - Vaduz
+          1	Triesenberg - Rotaboda-Samia - Schloss Vaduz - Vaduz
+          1	Triesenberg - Wangerberg
+          7	Triesenberg Abzw. Masescha
+          1	Triesenberg Almeina
+          4	Triesenberg Balischguad
+          1	Triesenberg Egga
+          5	Triesenberg Guferwald
+          1	Triesenberg Obergufer
+          3	Triesenberg Post
+          5	Triesenberg Rizlina
+          1	Triesenberg Rütelti
+          1	Triesenberg Samina
+          1	Triesenberg Steg
+          1	Triesenberg Steinort
+          1	Triesenberg Tristel
+          5	Triesenberg Täscherloch
+          3	Triesting
+          1	Trinkwasser
+          4	Tristel
+          1	Tristelstrasse
+          1	Tritt ein, entdecke, verweile
+          4	Tröxlegass
+          2	Trübbach
+         12	Tržaška cesta
+          2	Tschagäl
+          1	Tschingel
+          1	Tschuggastrasse
+          1	Tschurndorf Ortsmitte
+          1	Tuass
+          2	Tuasswand
+          1	Turmhaus
+          1	Turna
+          2	Turnastrasse
+          1	Turnhalle
+          1	Täscherlochstrasse
+          2	Töbeleweg
+          2	Tüfenacker
+          1	UNIKUM
+          1	Uli Mariss Hütte
+          1	Umspannwerk Schaan
+          8	Under Rüttigass
+          1	Under Ställ
+          1	Undera Bofelweg
+          1	Undera Büelweg
+          3	Undera Forst
+          1	Underaweg
+          1	Underem Damm
+          2	Undersilumstrasse
+          3	Undersäss
+          1	Universität Liechtenstein
+          1	Universität Liechtenstein - Wachterhaus
+          1	Uniwash Balzers
+          1	Unter Betsche
+          2	Unterberg
+          2	Unterbühl
+          2	Unterdorfstrasse
+          2	Untere Gschindstrasse
+          2	Untere Pradafant
+          2	Unterfeld
+          1	Unterfeldweg
+          1	Unterm Rain
+          3	Unterm Schloss
+          1	Unterm Stein
+          1	VIA ALPINA Green C1
+          1	VIA ALPINA Green C2
+          3	VP Bank AG
+          1	VVV Linie 70
+          1	VVV Linie 70 - Klaus - Rankweil - Feldkrich - Eschen - Scha
+          1	VVV Linie 70 - Schaan - Eschen - Feldkirch - Rankweil - Kla
+          2	Vaduz
+          3	Vaduz Alte Rheinbrücke
+          3	Vaduz Au
+          3	Vaduz Ebenholz/Universität
+          3	Vaduz Hofkellerei
+          4	Vaduz Lettstrasse
+          5	Vaduz Mühleholz
+          1	Vaduz Parkhaus Marktplatz
+          7	Vaduz Post
+          3	Vaduz Quäderle
+          4	Vaduz Rheinparkstadion
+          5	Vaduz Rütti
+          3	Vaduz Schwefel
+          3	Vaduz Spital
+          3	Vaduz Städtle
+          1	Vaduz VP Bank
+          2	Vaduz, Alte Rheinbrücke
+          1	Vaduz, Gastankstelle
+          1	Vaduz, Lettstrasse
+          1	Vaduz, Rheinparkstadion
+          1	Vaduz, SZ Mühleholz
+          1	Vaistligasse
+          1	Valorschbach
+          6	Valorschstrasse
+          1	Valzifenzbach
+          1	Valüna
+          9	Valünastrasse
+          2	Valünerbach
+          3	Vanetscha
+          1	Vanini
+          1	Vanolaweg
+          1	Velo Parkplatz
+          1	Veranstaltungsplatz
+          1	Verbindungsstrecke
+          1	Vereinshaus
+          1	Vetterangasse
+          1	Via Alpina
+          1	Via Alpina Green
+          1	Via Alpina Red
+          1	Via Alpina Red R56
+          1	Via Alpina Red R57
+          1	Via Alpina Red R58
+          1	Vibes
+          2	Videž
+          1	Vogelparadies Birka
+          3	Vogelsang
+          3	Voglajna
+          1	Volg Dorfladen
+          1	Volksbank
+          1	Volksbank AG
+          1	Vorarlberg
+         11	Vorarlberger Strasse
+          1	Vorder Grauspitz
+          1	Vorder Prufatscheng
+          1	Vorderplanken
+          2	Vorderprufatschengstrasse
+          1	Vordersilumstrasse
+         11	Vöckla
+          1	Wagnerweg
+          1	Wahlkreis Oberland
+          1	Wahlkreis Rheintal
+          1	Wahlkreis Sarganserland
+          1	Wahlkreis Unterland
+          1	Wahlkreis Werdenberg
+          1	Walchabündt
+          1	Waldboda
+          2	Waldeck
+          1	Waldhotel
+          1	Waldistrasse
+          1	Walsermuseum
+          1	Walter Kaufmann AG Sanitäre Anlagen & Heizungen
+          2	Wang
+          2	Wangerberg
+          4	Wangerbergstrasse
+          1	Wangweg
+          1	Wartau
+          1	Waslerheuberg
+          1	Wassermederweg
+          9	Wasserpark Walserbünt
+          1	Wasserversorgung Schaan
+          1	Wasserwerk / Forstwerkhof
+          3	Wegacker
+          1	Weienau
+          8	Weiherring
+          4	Weiherstrasse
+          1	Weiherweg
+          1	Weiterführende Schule Triesen
+          1	Weiterführende Schulen Triesen
+          2	Weißach
+          1	Wenaweser Zweiradcenter
+          1	Werdenbergerweg
+          1	Werkhof
+          1	Werkhof Guferwald
+          3	Werkhofstrasse
+          1	Werlaweg
+          1	Werthsteig
+          1	Wertstoffsammelstelle Vaduz-Triesen
+          2	Weshang
+          1	Wesle
+          1	Weslewolfweg
+          1	Western Union
+          2	Widagass
+          1	Widengasse
+          4	Widum
+          1	Wiener Neustadt
+          1	Wiener Neustädter Straße
+         10	Wiener Straße
+          1	Wienerstraße
+          1	Wieselegasse
+         12	Wiesengass
+          1	Wiesenstrasse
+          1	Wildmännlesloch
+          1	Wildschloss
+          1	Wildschlossweg
+          1	Wildumweg
+          1	Winchelweg
+          1	Wingarten
+          1	Wingerta
+          1	Wingertgass
+          1	Wingertgasse
+          4	Winkel
+          1	Winkelgarage
+          1	Winkelgass
+          1	Winkelstrasse
+          1	Winterwanderweg Valüna
+          1	Winzergasse
+          1	Wirtschaftspark
+          1	Wislistrasse
+          1	Wissa Schrofa
+          1	Wissfläckaweg
+          1	Wissscheld
+          1	Wohlwend
+          1	Wolf Design und Print
+          1	Wolf Druck
+          1	Wr. Neustädterstraße
+          1	Wuhrstrasse
+          1	Wächterhüsleweg
+          3	Wäldliweg
+          3	Wäschgraba
+          1	Wäschgräble
+          2	Wäschgräbli
+          2	Wäschgräbliweg
+          1	Wörznerhorn
+          1	Wüerleweg
+          1	Wüster
+          8	Ybbs
+          1	Youth Hostel
+          1	Zentralalpenweg 02
+          1	Zepfelwald
+          1	Zeus
+          1	Zgornja Brežnica
+          1	Ziegeleistrasse
+          2	Ziel
+          1	Zielgasse
+          1	Zobelfitz
+          2	Zoll
+         35	Zollstrasse
+          1	Zum Bameder
+          1	Zum Erlabach
+          1	Zum Escheweg
+          1	Zum Jörlismad
+          1	Zum Löwen
+          1	Zum Rösbach
+          2	Zum Sankt Johanner
+          1	Zur Schule
+          1	Zwei
+          1	Zweistäpfle
+          2	Zwischenbäch
+          2	Zöllnersteig
+          4	Züghüsle
+          1	adidas
+          1	alte Trafostation
+          1	arcade
+          1	b'eat
+          1	b-smarts Bendern
+          1	destroyed!!
+          1	die getränkeoase
+          1	dp druckpartner
+          1	formatio Privatschule
+          1	greschner
+          1	jones
+          1	jungenweg
+          1	k-mobil AG
+          1	lcn
+          1	liemobil Kundencenter
+          1	maps
+          1	national 1 (Inine Skating) - Etappe 1 (Landquart-Buchs)
+          1	national 1 (Inine Skating) - Etappe 2 (Buchs - St.Margrethe
+          1	national 1 (Inine Skating) - Rhein Skate Landquart-Kreuzlin
+          1	ncn 2 - Etappe 3 (Chur-Buchs (SG))
+          1	ncn 2 - Rhein-Route (Andermatt–Basel)
+          1	ncn 9 - Etappe 9 (Niederurnen-Buchs (SG))
+          1	ncn 9 - Seen-Route (Montreux-Rorschach)
+          1	new castle
+          1	railjet Budapest – München
+          2	railjet München – Budapest
+          2	railjet Wien – Zürich
+          1	railjet Zürich – Wien
+          1	rcn 35 - Liechtensteiner Rheintalroute (Sargans - Altstätt
+          1	rcn 48MTB Rheintal Bike ( Etappe 1 Sennwald - Triesenberg (
+          1	rcn 48MTB Rheintal Bike ( Etappe 2 Triesenberg (FL) - Bad R
+          1	rcn 48MTB Rheintal Bike (Sennwald - Bad Ragaz)
+          1	rebien Augenoptik
+          1	regional 25 Werdenberg Skate (Inline Skating)
+          1	schmarztobel
+          1	uniwash Schaan-Nord
+          1	valartis
+          1	vip5
+          1	Älpele
+          2	Älpele Güterweg
+          1	Äule
+          9	Äulestrasse
+          1	Äuleweg
+          2	Äussere Wiesen
+          1	ÖAMTC
+          1	ÖBB Eisenbahnstrecken
+          1	ÖBB Fahrplanbilder
+         30	ÖBB Feldkirch – Buchs
+          1	Österreich
+          1	Österreich - Schweiz
+          1	Österreich — Liechtenstein
+          1	Österreich — Schweiz / Suisse / Svizzera
+          1	überdachte Fahrradabstellanlage

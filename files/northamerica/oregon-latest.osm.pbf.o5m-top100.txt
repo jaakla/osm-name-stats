@@ -1,0 +1,100 @@
+        717	Union Pacific Railroad
+        420	Oregon Coast Highway
+        321	Robert Hugh Baldock Freeway
+        305	Rock Creek
+        299	Southeast Powell Boulevard
+        276	Columbia River Freeway
+        268	Starbucks
+        265	Pacific Highway
+        247	Oregon Trail Freeway
+        233	Southeast Division Street
+        232	The Dalles-California Highway
+        220	Main Street
+        215	Tualatin River
+        208	Mill Creek
+        206	Subway
+        199	Central Oregon and Pacific Railroad
+        193	Southeast McLoughlin Boulevard
+        192	Southwest Pacific Highway
+        186	Deep Creek
+        182	Northwest Cornell Road
+        181	Thompson Creek
+        181	Northeast Sandy Boulevard
+        181	3rd Street
+        180	Coos Bay Rail Link
+        180	Beaver Creek
+        179	Dry Creek
+        178	Southwest Scholls Ferry Road
+        174	Southwest Hall Boulevard
+        169	Southeast Stark Street
+        168	Shell
+        163	2nd Street
+        162	East Burnside Street
+        161	Portland & Western Railroad
+        157	4th Street
+        155	6th Street
+        154	McKay Creek
+        153	National Forest Development Road 100
+        153	Bear Creek
+        151	Southwest Barbur Boulevard
+        151	East Main Street
+        150	Cottonwood Creek
+        150	Cedar Creek
+        147	5th Street
+        146	Southeast Sunnyside Road
+        145	National Forest Development Road 030
+        144	Northeast Cornell Road
+        144	1st Street
+        143	Mount Hood Highway
+        142	Chevron
+        140	7th Street
+        139	Southwest Beaverton Hillsdale Highway
+        137	National Forest Development Road 050
+        136	McDonald's
+        135	East Fork Dairy Creek
+        134	Northeast Halsey Street
+        134	Fall Creek
+        134	Camp Creek
+        133	Southeast 82nd Avenue
+        133	North Interstate Avenue
+        132	Safeway
+        128	Willamette and Pacific Railroad
+        128	Deer Creek
+        128	Burlington Northern Santa Fe Railroad
+        127	Fish Creek
+        126	Southeast Holgate Boulevard
+        126	Silver Creek
+        125	Northeast Martin Luther King Junior Boulevard
+        123	Public Garbage Receptacle
+        123	Jenny Creek
+        123	Brooklyn Subdivision
+        122	Stands
+        121	Port of Tillamook Bay Railroad
+        121	Northeast Airport Way
+        121	National Forest Development Road 020
+        121	Jackson Creek
+        119	Springwater Corridor
+        117	North Fork Silver Creek
+        117	76
+        115	Southwest Boones Ferry Road
+        115	Columbia River Highway
+        114	National Forest Development Road 040
+        112	North Main Street
+        112	Cascade Subdivision
+        111	Oak Street
+        110	Slate Creek
+        108	Miller Creek
+        107	National Forest Development Road 060
+        106	Buck Creek
+        106	B Street
+        105	Portland and Western Railroad
+        104	Walgreens
+        104	Northwest Sunset Highway
+        103	Thomas Creek
+        103	Scoggins Creek
+        103	East Branch Lost River
+        102	I 205 Corridor
+        101	Willow Creek
+        101	Twelvemile Creek
+        101	East Fork McKay Creek
+        100	Washington Street

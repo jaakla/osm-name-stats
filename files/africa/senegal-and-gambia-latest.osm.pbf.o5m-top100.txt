@@ -1,0 +1,100 @@
+       2390	arbre
+        678	arbres
+        330	Arbre
+        307	stree
+        301	batiment
+        234	.
+        183	Batiment
+        179	bati
+        101	bâtiment
+         89	Boutique
+         58	CBAO
+         55	Route de la Corniche Ouest
+         55	Alimentation Générale
+         54	case
+         51	Poteau
+         46	North Bank Road
+         41	Mosquée
+         38	maison
+         37	Diallo
+         34	SGBS
+         32	Salles de Classe
+         31	Voie de Dégagement Nord
+         29	South Bank Road
+         25	source
+         25	Sénégal - Gambia
+         25	Boutique Diallo
+         24	Sénégal السنغال
+         24	Mosque
+         24	D 520
+         23	Guinée - Sénégal
+         23	Ecobank
+         23	,
+         22	Saloum
+         22	Boutique Alimentation
+         21	Hut
+         21	Gambie
+         20	BICIS
+         20	Avenue Cheikh Anta Diop
+         19	nimm
+         19	arbe
+         19	Multi-Services
+         18	Total
+         18	Shell
+         18	Piste
+         18	Darou Salam
+         17	Lonase
+         16	boutique
+         16	Zone de cultures pluviales et jachère
+         16	Ferlo
+         16	CMS
+         15	Western Union
+         15	Poteau solaire EPS
+         15	Boulevard Dial Diop
+         15	Banque Atlantique
+         15	Arrêt de bus
+         15	Alimentation
+         14	Route des Niayes
+         14	Route de Saint-Louis
+         14	Quincaillerie
+         14	Marigot de Bignona
+         14	Koulountou
+         14	Jardin Commercial
+         14	Boulangerie
+         13	Terrain nu
+         13	Route Lompoul - Touba
+         13	Rocade Fann-Bel Air
+         13	PAMECAS
+         13	Ngoumou
+         13	D 221
+         12	Sanyang Kunda
+         12	Piste de Djoudj
+         12	Niokolo Koba
+         12	Mali - Sénégal
+         12	Lower Basic School
+         12	Crédit Mutuel du Sénégal
+         12	Boulevard du Général de Gaulle
+         12	Boulevard Gueule Tapée
+         11	مسجد
+         11	champ
+         11	Wari
+         11	Voie de contournement Nord
+         11	Sénégal - Guiné-Bissau
+         11	Route vers Corniche
+         11	P 205
+         11	Kayanga
+         11	Gendarmerie
+         11	Falémé
+         11	Ecole primaire
+         11	Chemin de fer de Dakar au Niger
+         11	Casamance
+         11	ACEP
+         10	Water Pump
+         10	Vélingara
+         10	Samsung
+         10	Ndiobène
+         10	Market
+         10	Mairie
+         10	Magasin
+         10	Kairaba Avenue
+         10	Grande Mosquée

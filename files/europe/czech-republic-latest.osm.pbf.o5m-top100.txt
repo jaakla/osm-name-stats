@@ -1,0 +1,100 @@
+       2184	Nádražní
+       1166	Zahradní
+       1013	Školní
+       1004	Pražská
+        976	Komenského
+        943	Husova
+        861	Hlavní
+        851	Tyršova
+        801	Luční
+        790	Palackého
+        785	Okružní
+        770	Polní
+        737	Havlíčkova
+        728	Jiráskova
+        717	Krátká
+        700	Lesní
+        696	Družstevní
+        625	Žižkova
+        601	Nová
+        583	Sadová
+        565	Smetanova
+        558	Mlýnská
+        552	Dlouhá
+        544	5. května
+        531	Sokolská
+        523	Nerudova
+        521	Sportovní
+        509	Lidická
+        489	Zámecká
+        474	Masarykova
+        470	Spojovací
+        466	Lipová
+        463	Plzeňská
+        453	Průmyslová
+        450	Tovární
+        447	Bezručova
+        422	Masarykovo náměstí
+        420	Na Vyhlídce
+        419	Náměstí
+        413	Příčná
+        409	Kostelní
+        408	Dukelská
+        403	Hřbitovní
+        401	Na Výsluní
+        397	Revoluční
+        387	Brněnská
+        368	Boženy Němcové
+        366	Sokolovská
+        363	Dvořákova
+        359	Česká spořitelna
+        349	Úzká
+        327	Mírová
+        325	Vrchlického
+        321	9. května
+        320	Horní
+        318	1. máje
+        311	28. října
+        310	Pražský okruh
+        307	Pivovarská
+        306	Ostravská
+        305	Mánesova
+        301	Potoční
+        295	Větrná
+        292	náměstí Míru
+        292	Obecní úřad
+        287	Slunečná
+        286	17. listopadu
+        281	Dolní
+        273	U Hřiště
+        273	Tylova
+        273	Sídliště
+        272	Opavská
+        266	Potraviny
+        265	Albert
+        263	Dělnická
+        258	ČSOB
+        256	Růžová
+        251	Lidl
+        250	náměstí Svobody
+        247	Komerční banka
+        246	Na Návsi
+        245	Máchova
+        244	Jungmannova
+        240	Wolkerova
+        233	Lomená
+        232	Mateřská škola
+        229	Jižní
+        226	COOP
+        222	Vodní
+        220	Vídeňská
+        219	Zelená
+        215	Základní škola
+        214	Karlovarská
+        211	Riegrova
+        209	Česká
+        208	Za Humny
+        207	Příční
+        206	Čechova
+        205	Československé armády
+        204	Průběžná

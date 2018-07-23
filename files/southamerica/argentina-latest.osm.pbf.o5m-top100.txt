@@ -1,0 +1,100 @@
+       8847	AIB
+       2701	FFCC Belgrano
+       1889	Sarmiento
+       1727	FFCC Roca
+       1579	25 de Mayo
+       1543	Belgrano
+       1465	San Martín
+       1445	Rivadavia
+       1416	Avenida San Martín
+       1395	9 de Julio
+       1166	Mitre
+        971	Urquiza
+        956	FC Mitre
+        908	Santa Fe
+        891	Buenos Aires
+        866	Corrientes
+        856	San Juan
+        851	Moreno
+        851	Córdoba
+        850	Salta
+        840	Ruta Nacional 12
+        838	Mendoza
+        821	Tucumán
+        803	Mariano Moreno
+        798	España
+        788	Catamarca
+        774	San Lorenzo
+        740	FC Roca
+        734	San Luis
+        703	Lavalle
+        692	Libertad
+        681	Italia
+        661	Jujuy
+        658	Independencia
+        650	Saavedra
+        645	Entre Ríos
+        644	Chacabuco
+        636	Maipú
+        623	Almirante Brown
+        619	FFCC San Martín
+        614	Ruta Nacional 14
+        608	Ruta Nacional 9
+        605	Santiago del Estero
+        601	Sargento Cabral
+        596	Ruta Nacional 40
+        596	La Rioja
+        595	Ruta Provincial 11
+        594	Ruta Nacional 3
+        582	FFCC Mitre
+        573	Avenida Hipólito Yrigoyen
+        561	Ruta Provincial 6
+        559	Hipólito Yrigoyen
+        551	Uruguay
+        543	Paraguay
+        538	Las Heras
+        533	Güemes
+        526	Misiones
+        526	General Paz
+        526	FC Belgrano
+        515	Laprida
+        513	Chile
+        511	FFCC Urquiza
+        494	Avenida General Paz
+        494	12 de Octubre
+        488	Río Salado
+        488	Bartolomé Mitre
+        487	Colón
+        476	Avellaneda
+        473	Islas Malvinas
+        472	San Martin
+        471	Alberdi
+        469	Avenida Belgrano
+        464	Banco Nación
+        458	Correo Argentino
+        458	Ayacucho
+        458	Avenida Eva Perón
+        457	Leandro N. Alem
+        457	Brasil
+        452	Dorrego
+        447	Avenida Rivadavia
+        441	Formosa
+        440	Chaco
+        439	Chubut
+        438	Santa Cruz
+        437	Río Negro
+        434	Perú
+        426	Bolivia
+        424	Ruta Nacional 7
+        418	Avenida 9 de Julio
+        417	Ruta Nacional 11
+        412	Carlos Pellegrini
+        411	Malvinas Argentinas
+        406	Balcarce
+        405	Ruta Nacional 34
+        398	La Pampa
+        391	Alvear
+        388	Manuel Belgrano
+        386	José Hernández
+        385	Colectora
+        382	Lotería de la Provincia

@@ -1,0 +1,100 @@
+        501	Ruta Interbalnearia General Líber Seregni
+        439	Ruta 8 Brigadier General Juan Antonio Lavalleja
+        431	Vehicular/ Peatonal
+        384	Ruta 5 Brigadier General Fructuoso Rivera
+        294	Ruta 1 Brigadier General Manuel Oribe
+        286	Ruta 9 Coronel Leonardo Olivera
+        248	18 de Julio
+        233	Calle 2
+        226	Ruta 3 General José Gervasio Artigas
+        219	Calle 1
+        218	Calle 3
+        180	Avenida Italia
+        180	25 de Agosto
+        172	Calle 4
+        166	José Pedro Varela
+        163	Calle 5
+        160	Sarandí
+        159	Abitab
+        143	Bulevar General Artigas
+        142	Treinta y Tres
+        141	Ruta 7 General Aparicio Saravia
+        140	Ruta 6 Joaquín Suárez
+        139	Ruta 11 José Batlle y Ordóñez
+        135	José Enrique Rodó
+        132	Calle 7
+        131	Ruta 102 Perimetral Wilson Ferreira Aldunate
+        126	Calle 6
+        125	19 de Abril
+        122	General Artigas
+        118	Ituzaingó
+        117	25 de Mayo
+        115	Avenida Ingeniero Luis Giannattasio
+        114	Ruta 26 Brigadier General Leandro Gómez
+        109	Calle 8
+        107	Uruguay
+        107	Ruta 14 Brigadier General Venancio Flores
+        103	Montevideo
+        101	Ruta 12 Doctor Luis Alberto de Herrera
+        100	Rincón
+        100	Bulevar José Batlle y Ordóñez
+         94	Avenida General Flores
+         92	Ruta 21
+         92	Lavalleja
+         88	Wilson Ferreira Aldunate
+         88	Ruta 30
+         87	Camino Vecinal
+         84	Avenida Luis Alberto de Herrera
+         83	Florida
+         83	Calle 9
+         80	San José
+         80	Calle 10
+         78	Río Negro
+         77	Pasaje B
+         77	Calle 11
+         76	Ruta 2 Grito de Asencio
+         76	Florencio Sánchez
+         75	Rivera
+         74	Ansina
+         71	Ruta 101 Capitán Juán Antonio Artigas
+         69	Ruta 15
+         69	General Fructuoso Rivera
+         69	Colón
+         68	Paysandú
+         68	Calle 12
+         67	Juan Antonio Lavalleja
+         65	José Batlle y Ordóñez
+         64	Ruta 10 Juan Diaz de Solís
+         64	Canelones
+         64	Avenida General Rivera
+         63	Pasaje C
+         63	Grito de Asencio
+         62	Independencia
+         61	Ruta 39
+         61	Avenida Franklin Delano Roosevelt
+         61	Avenida 8 de Octubre
+         60	Ruta 4 Andrés Artigas
+         60	Pasaje A
+         59	Colonia
+         59	Calle 15
+         58	República Argentina
+         58	Cementerio
+         58	Avenida Brasil
+         58	Avenida Agraciada
+         57	Zorrilla de San Martín
+         57	Calle A
+         56	Libertad
+         56	Cañada Grande
+         56	Calle 13
+         55	Tacuarembó
+         55	Joaquín Suárez
+         55	Avenida Wilson Ferreira Aldunate
+         53	Rambla Tomás Berreta
+         53	Pasaje D
+         53	Calle 16
+         53	Calle 14
+         52	La Paz
+         51	Soriano
+         51	Luis Alberto de Herrera
+         51	Durazno
+         51	Calle B

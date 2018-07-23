@@ -1,0 +1,100 @@
+        227	kaya
+        110	Kaya
+         80	Lomé - Cinkassé
+         70	General Building
+         63	Mosquée
+         60	Ghana - Togo
+         49	Voie ferrée Lomé-Blitta
+         46	Neem
+         40	Nimes
+         36	manguier
+         35	Bénin - Togo
+         33	Voie ferrée Lomé-Aného
+         32	Boutique
+         31	Point de vente EDM
+         31	Mono
+         31	Kpalimé - Atakpamé
+         31	Compound
+         29	Lomé - Ouagadougou
+         27	Route Atakpamé - Nangbéto
+         25	Bonita Haus
+         24	2
+         23	3
+         23	1
+         22	10
+         21	4
+         20	cocotier
+         20	9
+         20	7
+         20	6
+         20	5
+         20	16
+         20	15
+         20	12
+         20	11
+         19	Avenue Maman N'Danida
+         19	8
+         19	18
+         19	17
+         19	14
+         18	13
+         17	Zio
+         17	Tchamba - Prékété
+         17	Route Lomé - Vogan
+         17	Manguier
+         17	MDM Trail
+         16	T-Oil
+         16	Obama Beach
+         16	20
+         16	19
+         15	bâtiment en construction
+         15	Boulevard de la CEDEAO
+         15	23
+         15	22
+         14	Voie Ferrée Lomé-Kpalimé
+         14	Route Atakpamé - Tohoun
+         14	Akpaka
+         14	26
+         14	25
+         14	24
+         14	21
+         13	Oti
+         13	La Poste
+         13	LONATO
+         12	Voie ferrée Agbonou-Atakpamé
+         12	Bâtiment en construction
+         12	38
+         12	37
+         12	36
+         12	34
+         12	29
+         12	28
+         11	Moulin
+         11	MRS
+         11	Kara
+         11	Cocotier
+         11	Boulevard de la Kara
+         11	Boulevard Jean-Paul II
+         11	Atelier de Couture
+         11	35
+         11	30
+         11	27
+         10	chemin
+         10	ZIo
+         10	Sotouboua
+         10	Route de Léo 2000
+         10	Route Lomé - Kpalimé
+         10	Oando
+         10	Kpandi
+         10	Gendarmerie
+         10	Ecobank
+         10	Bar
+         10	39
+         10	33
+         10	32
+          9	Route Mission Tové
+          9	COUTURE
+          9	Avenue de la Cedeao
+          9	Anie
+          9	44
+          9	43

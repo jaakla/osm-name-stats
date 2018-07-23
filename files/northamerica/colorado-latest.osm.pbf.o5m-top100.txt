@@ -1,0 +1,100 @@
+        801	Willow Creek
+        703	Cottonwood Creek
+        683	Rio Grande
+        563	Spring Creek
+        514	Main Street
+        507	Beaver Creek
+        495	East Colfax Avenue
+        387	Bear Creek
+        376	United States Highway 85
+        374	Washington Street
+        356	RTD Light Rail
+        333	Rock Creek
+        327	Deep Creek
+        317	Brush Creek
+        313	South Parker Road
+        311	Dry Creek
+        288	Sheep Creek
+        275	South Yosemite Street
+        269	State Highway 82
+        260	Sheridan Boulevard
+        255	Elk Creek
+        244	South Quebec Street
+        242	Badger Creek
+        240	Grape Creek
+        238	Conejos River
+        236	7-Eleven
+        235	Alamosa River
+        229	Broadway
+        228	East Woodmen Road
+        228	East Quincy Avenue
+        225	Starbucks
+        223	Trout Creek
+        221	Pine Creek
+        218	Clear Creek
+        215	North Avenue
+        210	Miners Creek
+        210	Conoco
+        208	San Miguel River
+        207	Muddy Creek
+        206	Cherry Creek
+        204	Federal Boulevard
+        203	South Wadsworth Boulevard
+        201	Colorado Boulevard
+        196	South Broadway
+        196	Coal Creek
+        195	2nd Street
+        194	Cow Creek
+        193	Lake Fork
+        191	Ute Creek
+        191	Silver Creek
+        191	Alkali Creek
+        190	6th Street
+        189	Fourmile Creek
+        186	Pass Creek
+        185	Subway
+        185	Currant Creek
+        184	4th Street
+        183	South Main Street
+        180	Wadsworth Boulevard
+        179	United States Highway 34
+        179	1st Street
+        175	Squaw Creek
+        175	5th Street
+        173	McDonald's
+        171	Frontage Road
+        171	County Road 10
+        170	County Road 21
+        169	East 120th Avenue
+        168	Park Creek
+        167	East Arapahoe Road
+        167	East 104th Avenue
+        167	Disappointment Creek
+        167	Canyon Creek
+        166	South Fork Rio Grande
+        166	Raton Subdivision
+        166	La Garita Creek
+        166	3rd Street
+        165	Oak Creek
+        163	Uncompahgre River
+        163	East Iliff Avenue
+        163	County Road 23
+        161	San Luis Creek
+        161	County Road 24
+        160	South University Boulevard
+        160	East Mississippi Avenue
+        158	Roubideau Creek
+        158	East Yale Avenue
+        158	County Road 27
+        155	Deer Creek
+        155	County Road 17
+        154	County Road 22
+        153	Lime Creek
+        151	Saquache Creek
+        150	Tomichi Creek
+        149	West 104th Avenue
+        149	Trail Creek
+        148	West Colfax Avenue
+        148	North Valley Highway
+        147	South Santa Fe Drive
+        147	Shell

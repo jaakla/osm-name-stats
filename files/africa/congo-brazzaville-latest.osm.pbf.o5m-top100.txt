@@ -1,0 +1,99 @@
+        129	Congo - Océan
+         40	RD Congo - Congo-Brazzaville
+         38	Border Congo - Gabon
+         35	Comilog
+         22	Likouala-aus-Herbes
+         19	Likouala
+         17	Lengoue
+         16	Motaba
+         14	Ivindo
+         13	Nkeni
+         13	Niari
+         12	Sangha
+         12	Corniche
+         12	Congo
+         12	Avenue des trois Martyrs
+         12	Alima
+         11	Lékéti
+         11	Boulevard Denis Sassou-Nguesso
+         11	Border Gabon - Congo
+         11	Avenue des Trois Martyrs
+         11	Avenue de l'indépendance
+         11	Avenue Marien Ngouabi
+         10	Léfini
+         10	Kouyou
+         10	Avenue de l'O.U.A.
+         10	Avenue Raymond Paillet
+          9	Western Union
+          9	Mambili
+          9	Louessé
+          9	Lagoa Massabi
+          9	Djoué
+          9	Boulevard du Général Charles de Gaulle
+          8	Djoua
+          8	Avenue de l'Auberge Gascogne
+          8	Avenue Fayette Tchitembo
+          8	Avenue Bitelika Ndombi
+          7	Total
+          7	Rue Mbochi
+          7	Ndoki
+          7	Lobaye
+          7	Kouilou
+          7	Gorges de Diosso
+          7	Dja
+          6	Pipeline Kundji-Djeno
+          6	Passerelle
+          6	Ngiri
+          6	Boulevard de Sounda
+          6	Avenue de la République
+          6	Avenue de la Liberté
+          6	Avenue Loutassi
+          5	Ubangi
+          5	Rue Nkô
+          5	Pont bois
+          5	Pointe-Noire
+          5	Lékoli
+          5	Ibenga
+          5	Ecole privee
+          5	Ecobank
+          5	Conkouati
+          5	Campement forestier
+          5	Boulangerie
+          5	Avenue de la Base
+          5	Avenue Schoelcher
+          5	Avenue Matsoua
+          5	Avenue Jean Pierre Thystère Tchikaya
+          5	Avenue Félix Eboué
+          4	rue d'Impfondo
+          4	Rue tsampoko
+          4	Rue de Ngabe
+          4	Rue Nicomas Mabiala
+          4	Rue Ngongui
+          4	Rue Hyancinthe Badinga
+          4	Rue Gamboma
+          4	Rue France Ville
+          4	Plateaux
+          4	Nyanga
+          4	Mpaka 120
+          4	Mosquée
+          4	Mbomo
+          4	Mandou
+          4	Madoukou
+          4	Loufoulakari
+          4	Loudima
+          4	Louboulou
+          4	Gorges
+          4	Dziélé
+          4	Djiri
+          4	Crédit du Congo
+          4	Credit du Congo
+          4	Château d'eau
+          4	Bouenza
+          4	BGFI
+          4	Avenue du Général Alfred Raoul
+          4	Avenue des Pilotes
+          4	Avenue de Matendé
+          4	Avenue Tchingobo
+          4	Avenue Simon Kimbangou
+          4	Avenue N'Teta
+          4	Avenue Koua

@@ -1,0 +1,2744 @@
+          1	"AWAY" Spa
+          1	"DOWN UNDER" Dive Shop, "CLICK" Photo Shop, and "OUCH" Clin
+          1	"FIRE" Restaurant
+          1	"FISH" Restaurant
+          1	"KITCHEN" Restaurant
+          1	"LIVING ROOM" Hotel Reception Area
+          1	"SIP" Bar
+          1	"Talent escape" Employee Residance
+          1	"WAVE" Watersports
+          1	"WET" Bar, "FIT" Gym, and "WIRED" Internet room
+          1	100
+          1	1000BC Cafe
+          5	101
+          1	101/102
+          3	102
+          3	103
+          1	103/104
+          4	104
+          3	105
+          1	105/106
+          2	106
+          3	107
+          1	107/108
+          3	108
+          4	109
+          1	109/110
+          4	110
+          3	111
+          1	111/112
+          3	112
+          2	113
+          1	113/114
+          3	114
+          3	115
+          1	115/116
+          3	116
+          2	117
+          1	117/118
+          2	118
+          2	119
+          1	119/120
+          1	12 Blues
+          3	120
+          2	121
+          1	121/122
+          2	122
+          2	123
+          1	123/124
+          2	124
+          2	125
+          1	125/126
+          2	126
+          2	127
+          1	127/128
+          2	128
+          3	129
+          1	129/130
+          2	130
+          2	131
+          1	131/132
+          2	132
+          1	133
+          1	133/134
+          1	134
+          2	135
+          1	135/136
+          2	136
+          1	137
+          1	137/138
+          1	138
+          2	139
+          1	139/140
+          3	140
+          2	141
+          1	141/142
+          2	142
+          2	143
+          1	143/144
+          3	144
+          2	145
+          1	145/146
+          2	146
+          2	147
+          1	147/148
+          1	148
+          1	149
+          1	149/150
+          2	150
+          1	151
+          1	151/152
+          1	152
+          1	153
+          1	153/154
+          1	154
+          1	155/156
+          1	157/158
+          1	159/160
+          1	160
+          1	161/162
+          1	163/164
+          1	165
+          1	165/166
+          1	167/168
+          1	169
+          1	169/170
+          2	170
+          1	171/172
+          1	173/174
+          1	175/176
+          1	177/178
+          1	179/180
+          1	180
+          1	181/182
+          1	183/184
+          1	185/186
+          1	187/188
+          1	189/190
+          1	191/192
+          1	193/194
+          1	195/196
+          1	197/198
+          1	199/200
+          1	200
+          2	201
+          1	201/202
+          2	202
+          2	203
+          1	203/204
+          2	204
+          2	205
+          1	205/206
+          2	206
+          2	207
+          1	207/208
+          2	208
+          2	209
+          1	209/210
+          2	210
+          2	211
+          1	211/212
+          3	212
+          1	213
+          1	213/214
+          3	214
+          2	215
+          1	215/216
+          4	216
+          2	217
+          1	217/218
+          3	218
+          2	219
+          1	219/220
+          3	220
+          2	221
+          1	221/222
+          3	222
+          2	223
+          1	223/224
+          3	224
+          2	225
+          1	225/226
+          3	226
+          2	227
+          1	227/228
+          3	228
+          2	229
+          1	229/230
+          3	230
+          2	231
+          1	231/232
+          3	232
+          2	233
+          1	233/234
+          2	234
+          2	235
+          1	235/236
+          3	236
+          2	237
+          1	237/238
+          3	238
+          2	239
+          1	239/240
+          3	240
+          2	241
+          1	241/242
+          4	242
+          2	243
+          1	243/244
+          3	244
+          2	245
+          1	245/246
+          3	246
+          1	247
+          1	247/248
+          1	248
+          1	249/250
+          1	250
+          1	251
+          1	251/252
+          1	252
+          1	253/254
+          1	254
+          1	255/256
+          1	256
+          1	257/258
+          1	258
+          1	259
+          1	259/260
+          1	260
+          1	261/262
+          1	262
+          1	263/264
+          1	264
+          1	265/266
+          1	266
+          1	267/268
+          1	269/270
+          1	271/272
+          1	273/274
+          1	275/276
+          1	277/278
+          1	279/280
+          1	281/282
+          1	283/284
+          1	285/286
+          1	287/288
+          1	289/290
+          1	291/292
+          1	293/294
+          1	295/296
+          1	297/298
+          1	299/300
+          2	301
+          1	301/302
+          2	302
+          2	303
+          1	303/304
+          2	304
+          2	305
+          1	305/306
+          2	306
+          2	307
+          1	307/308
+          1	308
+          1	309
+          1	309/310
+          1	310
+          1	311
+          1	311/312
+          1	312
+          1	313
+          1	313/314
+          1	314
+          1	315
+          1	315/316
+          1	316
+         39	317/318
+          1	318
+          1	320
+          1	33 Supermart
+          1	391/392
+          1	393/394
+          1	395/396
+          1	397/398
+          1	399/400
+          1	401/402
+          1	403/404
+          1	405/406
+          1	407/408
+          1	409/410
+          1	411/412
+          1	413/414
+          1	415/416
+          1	417/418
+          1	419/420
+          1	421/422
+          1	423/424
+          1	425/426
+          1	427/428
+          1	429/430
+          1	431/432
+          1	433/434
+          1	435/436
+          1	437/438
+          1	439/440
+          1	441/442
+          1	443/444
+          1	445/446
+          1	447/448
+          1	449/450
+          1	451-454
+          1	529-532
+          1	54
+          1	553-556
+          1	577-580
+          1	5° North Bar
+          1	83
+          1	88
+          1	90
+          1	91
+          1	92
+          1	93
+          2	94
+          1	95
+          1	96
+          1	97
+          1	98
+          1	99
+          1	A.A.Bodufolhudhoo
+          1	ADK Hospital
+          1	AGORA
+          1	ARAFA Preschool
+          1	ARAFA Preschool Ground
+          1	Aa Sahara
+          1	Aa Sahara Mosque
+          1	Aabaadhee Hingun
+          1	Aabaadhy Hingun
+          3	Aaburuzu Magu
+          1	Aaf Goalhi
+          1	Aage Magu
+          1	Aaily Hin'gun
+          1	Aarah
+          1	Aasaaree Miskiy
+          1	Aazaadhee Hingun
+          1	Abadhah Fehi Magu
+          1	Abadhah Ufaa Hingun
+          1	Abadhah Ufaa Magu
+          1	Abadhahhiyaa Magu
+          1	Abdulla Ismail Library
+          1	Aboohuraa
+          1	Access Arrival Room
+          1	Access Goods Jetty
+          1	Access Laundry Storage
+          1	Access Restaurant & Bar
+          1	Access Seaplane Pier
+          1	Access Spa Area
+          1	Access Villa 1
+          1	Access Villa 10
+          1	Access Villa 11
+          1	Access Villa 12
+          1	Access Villa 14
+          1	Access Villa 15
+          1	Access Villa 16
+          1	Access Villa 17
+          1	Access Villa 18
+          1	Access Villa 19
+          1	Access Villa 2
+          1	Access Villa 3
+          1	Access Villa 30
+          1	Access Villa 31
+          1	Access Villa 32
+          1	Access Villa 33
+          1	Access Villa 34
+          1	Access Villa 35
+          1	Access Villa 36
+          1	Access Villa 37
+          1	Access Villa 38
+          1	Access Villa 39
+          1	Access Villa 4
+          1	Access Villa 40
+          1	Access Villa 41
+          1	Access Villa 42
+          1	Access Villa 43
+          1	Access Villa 44
+          1	Access Villa 45
+          1	Access Villa 46
+          1	Access Villa 47
+          1	Access Villa 48
+          1	Access Villa 49
+          1	Access Villa 5
+          1	Access Villa 50
+          1	Access Villa 6
+          1	Access Villa 8
+          1	Access Villa 9
+          1	Access Zitahli Reception
+          1	Acess Sport Centre
+          1	Acess Villa 13
+          1	Acess Villa 20
+          1	Acess Villa 21
+          1	Acess Villa 22
+          1	Acess Villa 23
+          1	Acess Villa 24
+          1	Acess Villa 25
+          1	Acess Villa 26
+          1	Acess Villa 27
+          1	Acess Villa 28
+          1	Acess Villa 29
+          1	Acess Villa 7
+          1	Adaaran "Ocean" Hotel Reception
+          1	Adaaran "Select" Hotel Reception
+          1	Adam Faru
+          1	Addu
+          1	Adventure Watersports Dhigurah
+          1	Ahigas Magu
+          1	Ahivaffushi
+          1	Ahmed Ali Didi Cricket Ground
+          1	Aidhoo
+          5	Airport Main Road
+          1	Airport Office
+          2	Airport Shuttle
+          1	Airport Toilet
+          1	Akiri Fushi
+          1	Akirifushi
+          1	Al Tramonto
+          1	Ali Tila
+          1	Alidhoo
+          1	Alif ALif Atoll School
+          1	Alif Alif
+          1	Alif Dhaalu
+          1	Alifu Dhaalu Atoll
+          1	Alifushi
+          1	Aliha Cafe
+          1	Alimas Faru
+          1	Alimas Goalhi
+          1	Alimatha
+          1	Alivaa Magu
+          1	Alivilaa Magu
+          2	Alivilunu Goalhi
+          1	Alizee Restaurant
+          1	Allegria
+          1	Allix Studio
+          1	Almaas Villa
+          1	Amazing View Guest House
+          5	Ameenee Magu
+          1	Ameenee magu
+          1	Ameeru Ahmed Magu
+          1	Amilla Fushi Resort
+          1	Amin Tower 1
+          1	Amin Tower 2
+          1	Amin tower 3
+          1	An'golhitheemu
+          1	Andhaaza
+          1	Andhaleeb Magu
+          1	Angaga
+          1	Anggerik Spa
+          1	Angsana Velavaru Resort
+          1	Anhenunfushi
+          2	Aqua Villa Pier East
+          2	Aqua Villa Pier West
+          1	Arena
+          1	Arena Lodge
+          1	Arilundhoo
+          3	Arrival Jetty
+          1	Arrival Pier
+          1	Arrival Platform
+          1	Arrival Room
+          1	Artificial beach
+          2	Asaree Goalhi
+          1	Asaree Hin'gun
+          1	Asaree Hingun
+          2	Asian Wok
+          1	Asnaa Hingun
+          1	Asrafee Bookshop
+          1	Asrafee Goalhi
+          1	Asrafee Magu
+          1	Asrafee Villa
+          1	Asseyri Hingun
+          1	Association For Mathiveri Sports And Awareness
+          2	Asurumaa Goalhi
+          1	Asurumaa Hingun
+          1	Athireege
+          3	Atholhu Ferry
+          1	Atholhuge
+          1	Athurugau
+          1	Atmosphere Kanafushi
+          1	Aurora Inn
+          2	Aviary
+          1	Awesome Deal
+          1	BML Bank of Maldives
+          1	BML Fonadhoo
+          1	Baa
+          1	Baa Atoll
+          1	Baamiyaa Goalhi
+          1	Badifasgandu Magu
+          1	Badifasganu Hingun
+          3	Badminton
+          1	Bageechaa Hingun
+          1	Bahaaree Goalhi
+          1	Bahaaree HIngun
+          1	Bahaaree Hingun
+          1	Bahaaru (Children's Park)
+          1	Bahaaru Magu
+          1	Balsam
+          1	Ban'dharu Magu
+          1	Ban'didhoo
+          1	Ban'didhoo Island Council Office
+          1	Ban'didhoo School
+          1	Banafsaa Goalhi
+          2	Banafusaage
+          1	Banana Reef
+          1	Bandaara Kilhi
+          1	Bandharumathee Hingun
+          1	Bandos
+          1	Bandos Medical Center
+          1	Bank Of Maldives
+          1	Bank of Ceylon
+          1	Bank of Maldives
+          1	Bank of Maldives Naifaru Branch
+          1	Banner Reef
+          1	Banyan Restaurant
+          1	Banyan Tree
+          1	Banyan Tree Trail
+          3	Bar
+          1	Barabara
+          1	Bararea
+          1	Barasil Dhan'du
+          1	Barasil Rahvehige
+          1	Barcelos Maldives
+          1	Baros
+          1	Baros Botique
+          1	Baros Gymn and Table Tennis
+          1	Baros Maldives
+          1	Baros Pool Villa 209
+          1	Baros Pool Villa 210
+          2	Baros Pool Villa 211
+          1	Baros Pool Villa 212
+          1	Baros Pool Villa 215
+          1	Baros Pool Villa 216
+          1	Baros Pool Villa 217
+          1	Baros Pool Villa 218
+          1	Baros Premium Pool Villa 213
+          1	Baros Premium Pool Villa 214
+          1	Baros Residence 401
+          1	Baros Villa 201
+          1	Baros Villa 202
+          1	Baros Villa 203
+          1	Baros Villa 204
+          1	Baros Villa 205
+          1	Baros Villa 206
+          1	Baros Villa 207
+          1	Baros Villa 208
+          1	Baros Villa 219
+          1	Baros Villa 220
+          1	Barru Preschool
+          2	Basketball
+          1	Bat Fish
+          1	Bathala
+          3	Beach Bar
+          1	Beach Bar / Reagge Bar
+          1	Beach Point
+          1	Beach Restaurant
+          1	Beach Road
+          1	Beach Spot
+          1	Beach Tailors
+          1	Beach Villa
+          1	Beach Villa 101
+          1	Beach Villa 102
+          1	Beach Villa 103
+          1	Beach Villa 104
+          1	Beach Villa 105
+          1	Beach Villa 106
+          1	Beach Villa 107
+          1	Beach Villa 108
+          1	Beach Villa 109
+          1	Beach Villa 110
+          1	Beach Villa 201
+          1	Beach Villa 202
+          1	Beach Villa 203
+          1	Beach Villa 204
+          1	Beach Villa 205
+          1	Beach Villa 206
+          1	Beach Villa 207
+          1	Beach Villa 208
+          1	Beach Villa 209
+          1	Beach Villa 210
+          1	Beach Villa 211
+          1	Beach Villa 212
+          1	Beach Villa 213
+          1	Beach Villa 214
+          1	Beach Villa 215
+          1	Beach Villa 216
+          1	Beach Villa 217
+          1	Beach Villa 218
+          1	Beach Villa 219
+          1	Beach Villa 220
+          1	Beach Villa 221
+          1	Beach Villa 222
+          1	Beach Villa 223
+          1	Beach Villa 224
+          1	Beach Villa 225
+          1	Beach Villa 226
+          1	Beach Villa 227
+          1	Beach Villa 228
+          1	Beach Villa 229
+          1	Beach Villa 230
+          1	Beach Villa 231
+          1	Beach Villa 232
+          1	Beach Villa 233
+          1	Beach Villa 234
+          1	Beach Villa 235
+          1	Beach Villa 236
+          1	Beach Villa 237
+          1	Beach Villa 238
+          1	Beach Villa 239
+          1	Beach Villa 240
+          1	Beach Villa 241
+          1	Beach Villa 242
+          1	Beach Villa 243
+          1	Beach Villa 244
+          1	Beach Villa 245
+          1	Beach Villa 246
+          1	Beach Villa 247
+          1	Beach Villa 248
+          1	Beach Villa 249
+          1	Beach Villa 250
+          1	Beach Villa 251
+          1	Beach Villa 252
+          1	Beach Villa 253
+          1	Beach Villa 254
+          1	Beach Villa 255
+          1	Beach Villa 256
+          1	Beach Villa 257
+          1	Beach Villa 258
+          1	Beach Villa 259
+          1	Beach Villa 260
+          2	Beach Volleyball
+          1	Beachvilla
+          1	Beachvolley
+          1	Beauty Salon
+          1	Bedhey aurah
+          1	Benjarong
+          1	Bepi Bar
+          1	Berabedhi Magu
+          1	Bibee Maldives
+          1	Big Fish
+          1	Bikini Beach
+          2	Bikini beach
+          1	Bilhifeyshe Magu
+          1	Billgraphy
+          1	Binhima Goalhi
+          1	Biyadhoo
+          1	Biyadoo Kuda Giri
+          1	Black Coral Faru
+          1	Black Salt
+          1	Bliss
+          1	Bliss Bar
+          1	Blue Water Thoddoo Inn
+          1	Bluetribe dive center
+          1	BoaganVilla Magu
+          1	BoaganVilla Magu - Goalhi 1
+          1	BoaganVilla Magu - Goalhi 2
+          1	Boalha Dhandu Bihdhoshu Valu
+          1	Boalha Dhandu Valu
+          1	Boamas Kandu
+          1	Boashi Bar
+          1	Boashimaa Hingun
+          1	Boat Jetty
+          1	Boat Yard
+          1	Boathouse
+          1	Boatyard
+          1	Boavelly goalhi
+          2	Bodu Buru
+          3	Bodu Fannu Magu
+          2	Bodu Magu
+          1	Bodu Nika Gas
+          1	Bodufen maaen'budhoo
+          1	Bodufinolhu
+          1	Bodufolhudhoo
+          2	Bodufulhah Goalhi
+          1	Boduhajaraa
+          2	Boduhuraa
+          1	Boduhuthi
+          5	Boduthakurufaanu Magu
+          2	Boduthakurufaanu Magu (Causeway)
+          1	Boduthakurufaanu magu
+          1	Boifushi
+          1	Bokaru Maa Higun
+          1	Bolah;Boli Mulah;Mulah
+          2	Bolifushi
+          1	Bolifushi Wreck (Wrack)
+          1	Bonthi Bar
+          1	Bootsanleger für Gäste
+          1	Boutique
+          1	Bowls
+          1	Breeze Restaurant
+          1	Bright Store
+          1	Bubbles Dive Center
+          2	Buggy Stop
+          1	Bulbul Goalhi
+          1	Bulekiya Magu
+          1	Bungalow 78 exit
+          1	Burevi Gas Magu
+          1	Buruni Buruni
+          2	Buruzu Magu
+          1	Bushi
+          1	By The Beach
+          1	C1
+          1	C2
+          1	C3
+          1	C4
+          1	C5
+          1	C6
+          1	C7
+          1	C8
+          1	C9
+          1	CELEC SHOP
+          1	CENTRO MALL
+          1	CITRON
+          1	Cafe Asiana
+          1	Cafe Maas
+          1	Cafe Ok
+          1	Cafe Waataruparee
+          1	Cafe World
+          1	Cafeina
+          1	Cafe’ Leeks
+          1	Canoe
+          2	Carnation Magu
+          1	Casa Magu
+          1	Casa Mia
+          2	Causeway
+          1	Causeway (Sinaaee Magu)
+          1	Cayenne Grill
+          1	Cemetry
+          1	Centara Grand Island Resort & Spa
+          1	Central Park
+          1	Chaandhanee Magu
+          1	Chaandhinee Magu
+          1	Champa Magu
+          1	Champagne Loft
+          1	Chanbeylee Goalhi
+          1	Chanbeylee Hingun
+          4	Chanbeylee Magu
+          1	Chanbeylee Magu - Goalhi 1
+          1	Chanbeylee Magu - Goalhi 2
+          1	Chanbeylee Magu - Goalhi 3
+          1	Chanbeylee Magu - Goalhi 4
+          1	Chanbeylee Magu - Goalhi 5
+          1	Chanbeylee Magu - Goalhi 6
+          1	Chanbeylee Magu - Goalhi 7
+          1	Chanbeylee Magu - Goalhi 8
+          1	Chanbeylee Magu - Goalhi 9
+          2	Chandhanee Magu
+          1	Chavana Spa
+          1	Check Point
+          2	Cheval Blanc Randheli
+          1	Cheval Blanc Spa
+          1	Children Park 01
+          1	Children Park 02
+          1	Chilli Pot
+          1	Cilantro
+          1	Cinema Paradiso
+          1	Cinnamon Island
+          1	City Bakery
+          1	City Bend
+          1	Civil Service Commission
+          2	Clinic
+          2	Club House
+          1	Club Med Kani
+          1	Cocktail Bar (AI)
+          1	Coco Bodu Hithi
+          1	Coco Mero
+          1	Cocoa
+          1	Cocoa Corner
+          1	Cocoa Tila
+          1	Coconut Grove
+          2	Coconut Spa
+          1	Coffee
+          3	Coffee Shop
+          1	Coffeeshop
+          1	Colosseo
+          1	Commercial E
+          1	Conrad Maldives Rangali Island
+          1	Constance Moofushi Resort
+          1	Coral Corner
+          1	Coral Faru
+          1	Coral Giri
+          1	Coral garden
+          1	Corel Ville
+          1	Council Guest House
+          1	Crusoe Residence 01
+          1	Crusoe Residence 02
+          1	Crusoe Residence 03
+          1	Crusoe Residence 04
+          1	Crusoe Residence 05
+          1	Crusoe Residence 06
+          1	Crusoe Residence 07
+          1	Crystal View
+          1	Cupid
+          1	Custom Office
+          1	Cyber Café
+          1	DVD Rental
+          1	Daisy Magu
+          2	Damas
+          1	De Signature
+          1	Deep Blue Water Sports Centre
+          1	Deluxe Villa 101
+          1	Deluxe Villa 102
+          1	Deluxe Villa 103
+          1	Deluxe Villa 104
+          1	Deluxe Villa 105
+          1	Deluxe Villa 106
+          1	Deluxe Villa 107
+          1	Deluxe Villa 108
+          1	Deluxe Villa 109
+          1	Deluxe Villa 110
+          1	Deluxe Villa 111
+          1	Deluxe Villa 112
+          1	Deluxe Villa 113
+          1	Deluxe Villa 114
+          1	Deluxe Villa 115
+          1	Deluxe Villa 116
+          1	Deluxe Villa 117
+          1	Deluxe Villa 118
+          1	Deluxe Villa 119
+          1	Deluxe Villa 120
+          1	Deluxe Villa 121
+          1	Deluxe Villa 122
+          1	Deluxe Villa 123
+          1	Deluxe Villa 124
+          1	Design 2000 Pvt Ltd
+          1	Destiny
+          1	Detention Centre
+          1	Devarana Spa
+          1	Dhaalu
+          1	Dhaalu Airport
+          1	Dhaandhoo Health Centre
+          1	Dhaandhoo Megistrate Court
+          1	Dhaandhoo Rakkannaa Stadium
+          1	Dhaandhoo School
+          1	Dhadimagu Children's Park
+          1	Dhadimagu Playground
+          1	Dhakandhaa Magu
+          1	Dhakandhaa hingun
+          1	Dhakandhoo
+          1	Dhambu Goalhi
+          1	Dhanaal
+          1	Dhanaal (Hamadh School)
+          1	Dhanaal Park
+          1	Dhanaalu Magu
+          1	Dhanbidhoo
+          1	Dhanbugas Magu
+          1	Dhanburuh Magu
+          1	Dhanburun Magu
+          1	Dhandehelu Hingun
+          1	Dhandhoo
+          1	Dhangethi
+          1	Dhangethi medical post
+          1	Dharavandhoo
+          1	Dharavandhoo Airport
+          1	Dharumavantha Magu
+          1	Dheburidheythereyvaadhoo
+          1	Dheefram Goalhi
+          1	Dheeron'di
+          3	Dhevina Magu
+          1	Dheyliyaa Hingun
+          1	Dhidhdhoo
+          1	Dhidhi Goalhi
+          1	Dhiffushi
+          2	Dhiffushi (Holiday Island)
+          1	Dhigeheroo
+          1	Dhigga Magu
+          2	Dhiggiri
+          1	Dhigudhefaru
+          1	Dhigufaruvinagan'du
+          2	Dhigurah
+          1	Dhigurah Medical Post
+          1	Dhigurah School
+          1	Dhiguveli
+          1	Dhilbahaaru Goalhi
+          1	Dhilbahaaru Magu
+          1	Dhilkushaa Goalhi
+          1	Dhilshaadhu Hingun
+          4	Dhiraagu
+          1	Dhiraagu Mobile
+          2	Dhiraagu Tower
+          1	Dhirimaa Goalhi
+          1	Dhiyamigili Dhiyamigili
+          1	Dhiyavaru Bar & Restaurant
+          1	Dhonfanu
+          2	Dhoni Bar
+          1	Dhoni Ferry
+          1	Dhonruh Magu
+          1	Dhonveli Guesthouse
+          1	Dhoogan'dufinolhu
+          1	Dhoonidhoo
+          1	Dhoonihuraa
+          1	Dhoshimeynaa Higun
+          2	Dhunburi Magu
+          1	Dhunnika Goalhi
+          1	Dhunnika Magu
+          1	Dhuvaafaru
+          1	Dhuvahfaandu Magu
+          1	Diamond Root
+          1	Didhoofinolhu
+          1	Dighu
+          1	Digu Kuda Giri Wreck (Wrack)
+          1	Digufinolhu
+          1	Dinemore Central
+          1	Disco
+          1	Dive Bandos
+          4	Dive Center
+          1	Dive staff accommodation
+          1	Dive-Center
+          1	Divebase
+          1	Diverland Embudu
+          1	Diving Base
+          4	Diving Center
+          1	Diving Centre
+          1	Diving School
+          1	Diving School - Euro Divers Vilamendhoo
+          1	Diving and Surfing
+          1	Doctor
+          1	Dohni Bootsanleger (Service)
+          1	Dolphin Beach
+          1	Dong Giri
+          1	Dongmaas Giri
+          1	Dream Corner
+          1	Dream Hut
+          1	Duniye Spa
+          1	Dusit International Stadium
+          1	Dusit Thani Maldives
+          1	EXTREME WOW OCEAN HAVEN 801
+          1	East Bar
+          1	East Restaurant
+          1	East Wing
+          1	East-West Road
+          1	Eco Center
+          1	Ecocentro
+          1	Eedhigamoolu
+          1	Ehere Etha
+          4	Elhe Didi Magu
+          1	Ellaidhoo
+          1	Ellaidhoo Chaaya Reef
+          1	Emboo Goalhi
+          1	Embudhu Finolhu
+          1	Embudu
+          1	Embudu Channel / Embudu Express
+          1	Embudu Finolhu Outside
+          1	Embudu Kandu
+          1	Embudu Village
+          1	Embudu main jetty
+          1	Emergency First Response
+          1	Emmadi Giri (Manta Point)
+          1	Empirial Bunker
+          1	Enderi Giri
+          1	Endheri 8
+          1	Engine-gey Magu
+          1	Ensis
+          1	Entrence 110
+          1	Entrence 128
+          1	Entrence 155
+          1	Entrence base
+          1	Equator Village
+          1	Equatorial Convention Centre
+          1	Equity Beach Inn
+          3	Eriyadu
+          1	Ethigan'du jehihuraa
+          1	Eththigili
+          2	Euro Divers Jetty
+          1	Ever  Soneva So Down To Earth
+          1	Everyone's Learning Centre
+          1	Evilla Store
+          1	Executive Staff
+          1	Exit
+          1	Exit 1 and 2
+          1	Exit 10
+          1	Exit 4
+          1	Exit 5 + 6
+          1	Exit 7
+          1	Exit 8
+          1	Exit 9
+          1	Expatriate Monitoring & Repatriation Division
+          2	Eydhafushi
+          1	Eydhigali Kilhi and Koattey Natural Protected Area
+          1	FLAT 1
+          1	FLAT 2
+          1	FSM  Easy Fill
+          1	FSM Fuel Shed
+          1	Faafu
+          1	Faafu Atoll Hospital
+          1	Faalandhoshu Hingun
+          1	Faamdheyri Magu
+          1	Faarufushi
+          1	Faarukendi Hingun
+          1	Fahala
+          1	Fahiveni Community Centre
+          2	Fahudheli
+          1	Fairy Rest
+          1	Fakkaage Magu
+          1	Falana Magu
+          1	Falhumathee Magu
+          1	Family Court
+          1	Fanaaru Magu
+          1	Fandiyaaru Mosque
+          1	Fandiyaaru magu
+          1	Faransaa Magu
+          1	Fareast Restaurant
+          1	Fareedhee Goalhi
+          3	Fareedhee Magu
+          1	Fares
+          1	Farivalhu
+          1	Farumathi
+          1	Fasgan'dufaru
+          1	Fashion World
+          1	Fashui Maa Higun
+          1	Fathikedehera gan’du
+          1	Fazalun
+          1	Faés
+          2	Feendhifanne Mago
+          1	Fehendhoo Fehendhoo
+          2	Felidhoo
+          1	Fenaka Dhaandhoo Branch
+          1	Fenaka Fonadhoo
+          1	Fenfiyaazu Goalhi
+          1	Fenfushi
+          1	Feni Mart
+          1	Feridhoo
+          1	Feridhoo Health Center
+          1	Ferry Terminal
+          1	Fesdu
+          1	Fesdu Wreck (Wrack)
+          1	Feydhoo
+          1	Feydhoo Ferry Terminal
+          1	Feydoofinolu
+          1	Fihalhohi
+          1	Fihalhohi Hausriff
+          1	Fihalhohi Hausriff Nord
+          1	Fihalhohi Paradies
+          1	Filigas Hingun
+          2	Filigas Magu
+          1	Filigas Magu - Goalhi 1
+          2	Filitheyo Island Resort
+          1	Fine Dining Restaurant
+          1	Finifenmaage
+          1	Finihiyaa Goalhi
+          1	Finiroalhi
+          2	Finivaa Goalhi
+          1	Finolhas
+          1	Finolhu Baa Atoll
+          1	Finolhu Faru
+          1	Fire
+          1	Fish Head
+          1	Fish Market
+          1	Fish Pond
+          1	Fisherman Association
+          2	Fisherman's Park
+          1	Fithuroanu Magu
+          3	Fitness Center
+          2	Fiyaathoshi Magu
+          1	Fiyavathi
+          1	Flat 10
+          1	Flat 100
+          1	Flat 101
+          1	Flat 102
+          1	Flat 103
+          1	Flat 104
+          1	Flat 105
+          1	Flat 106
+          1	Flat 107
+          1	Flat 108
+          1	Flat 109
+          1	Flat 11
+          1	Flat 110
+          1	Flat 111
+          1	Flat 113
+          1	Flat 114
+          1	Flat 115
+          1	Flat 116
+          1	Flat 117
+          1	Flat 118
+          1	Flat 119
+          1	Flat 12
+          1	Flat 120
+          1	Flat 121
+          1	Flat 122
+          1	Flat 123
+          1	Flat 124
+          1	Flat 125
+          1	Flat 126
+          1	Flat 127
+          1	Flat 128
+          1	Flat 129
+          1	Flat 13
+          1	Flat 130
+          1	Flat 131
+          1	Flat 132
+          1	Flat 133
+          1	Flat 134
+          1	Flat 135
+          1	Flat 136
+          1	Flat 137
+          1	Flat 138
+          1	Flat 14
+          1	Flat 15
+          1	Flat 155
+          1	Flat 156
+          1	Flat 157
+          1	Flat 158
+          1	Flat 159
+          1	Flat 16
+          1	Flat 160
+          1	Flat 161
+          1	Flat 162
+          1	Flat 163
+          1	Flat 164
+          1	Flat 165
+          1	Flat 166
+          1	Flat 167
+          1	Flat 168
+          1	Flat 169
+          1	Flat 17
+          1	Flat 170
+          1	Flat 171
+          1	Flat 172
+          1	Flat 173
+          1	Flat 174
+          1	Flat 175
+          1	Flat 18
+          1	Flat 19
+          1	Flat 20
+          1	Flat 21
+          1	Flat 22
+          1	Flat 23
+          1	Flat 24
+          1	Flat 25
+          1	Flat 26
+          1	Flat 27
+          1	Flat 28
+          1	Flat 29
+          1	Flat 3
+          1	Flat 30
+          1	Flat 31
+          1	Flat 32
+          1	Flat 33
+          1	Flat 34
+          1	Flat 35
+          1	Flat 36
+          1	Flat 37
+          1	Flat 38
+          1	Flat 39
+          1	Flat 4
+          1	Flat 40
+          1	Flat 41
+          1	Flat 42
+          1	Flat 43
+          1	Flat 44
+          1	Flat 45
+          1	Flat 46
+          1	Flat 47
+          1	Flat 48
+          1	Flat 49
+          1	Flat 5
+          1	Flat 50
+          1	Flat 51
+          1	Flat 52
+          1	Flat 53
+          1	Flat 54
+          1	Flat 55
+          1	Flat 56
+          1	Flat 57
+          1	Flat 58
+          1	Flat 59
+          1	Flat 6
+          1	Flat 60
+          1	Flat 61
+          1	Flat 62
+          1	Flat 63
+          1	Flat 64
+          1	Flat 65
+          1	Flat 66
+          1	Flat 67
+          1	Flat 68
+          1	Flat 69
+          1	Flat 7
+          1	Flat 70
+          1	Flat 71
+          1	Flat 72
+          1	Flat 73
+          1	Flat 76
+          1	Flat 78
+          1	Flat 8
+          1	Flat 80
+          1	Flat 82
+          1	Flat 83
+          1	Flat 84
+          1	Flat 85
+          1	Flat 86
+          1	Flat 87
+          1	Flat 88
+          1	Flat 89
+          1	Flat 9
+          1	Flat 90
+          1	Flat 91
+          1	Flat 92
+          1	Flat 93
+          1	Flat 94
+          1	Flat 95
+          1	Flat 96
+          1	Flat 97
+          1	Flat 98
+          1	Flat 99
+          1	Flat112
+          1	Flat74
+          1	Flavours
+          1	Foiygasge
+          2	Fonadhoo
+          1	Fonadhoo Cemetery
+          1	Fonadhoo Jetty
+          1	Fonimagoodhoo
+          2	Football Ground
+          1	Football Pitch
+          1	Football Satdium
+          1	Football Stadium
+          1	Football field
+          1	Forme Goalhi
+          1	Four Seasons Resort
+          1	Fresh In The Garden
+          1	Fuana Inn
+          6	Fuel
+          1	Fuel Tank
+          1	Fuggiri
+          1	Fulhadhoo Fullhadhoo
+          1	Fulhidoo Caves
+          1	Fulidhoo
+          1	Fulidhoo La perla
+          1	Fulidhoo La perla Guesthouse
+          1	Fulooniyaa Magu
+          1	Fun Island Resort
+          1	Funa Goalhi
+          3	Funadhoo
+          1	Funagas Magu
+          1	Funama Resturant
+          1	Funamaa Magu
+          1	Funamadua
+          1	Fung Bar
+          1	Furanafushi (Fullmoon Resort)
+          1	Futsal Pitch
+          1	Fuvahmulah
+          1	Fuvahmulah Magistrate Court
+          1	Fuvahmulak Island
+          1	Fuvahmulaku Fire Station
+          1	G.Gofi
+          1	GN Atoll Hospital
+          1	Gaa Fushi
+          1	Gaadhiffushi Gaadhiffushi
+          1	Gaadhoo
+          1	Gaafu Alif
+          1	Gaafu Dhaalu
+          1	Gaaun'dhoodhoo
+          1	Gaazee Magu
+          1	Galadhun Goalhi
+          2	Gan
+          1	Gan International Airport
+          1	Gan Magistrate Court
+          1	Gandhakoalhi Hingun
+          1	Gandhakoalhi Magu
+          1	Gangehi
+          1	Garden
+          1	Gaskara Higun
+          1	Gauken'di
+          1	Gemendhoo
+          2	Ghaazee Magu
+          1	Ghaazee School
+          1	Ghazee Magu
+          1	Ghiyaasudin International School
+          1	Gili Lankanfushi
+          1	Ginamaa Goalhi
+          1	Gira Fushi
+          1	Giraamiskiyy Magu
+          1	Giravaru
+          1	Glowfit
+          1	Gnaviyani
+          1	Go Green Park
+          1	Goidhoo
+          1	Goiymaru
+          1	Golf Driving Range
+          1	Goods Jetty
+          2	Graveyard
+          1	Gravity Maldives
+          1	Green Mart
+          1	Guest Jetty
+          1	Gulabee Magu
+          1	Gulalaa Goalhi
+          1	Gulfaam Hingun
+          1	Gulhazaaru Goalhi
+          1	Gulhi
+          1	Gulhi Tila
+          1	Gulhi Youth Centre
+          1	Gulhi-Maafushi no311
+          1	Gulisthaanu Goalhi
+          1	Gulzaaru Higun
+          1	Guraa Muli - Grill Terrace
+          1	Guraabuthundi Hingun
+          1	Guraafehi Goalhi
+          1	Guradoo Kuda Kandu
+          1	Guradoo North
+          1	Guradoo South
+          1	Guradoo South Outside
+          1	Guraha
+          1	Guraidhoo
+          1	Guraidhoo Channel
+          1	Guraidhoo Guraidhoo
+          8	Gym
+          1	Gym and Yoga Studio at Maalifushi by COMO
+          1	Gym, shops
+          1	HALAVELI
+          1	HDC
+          2	HDC Building
+          1	HDC Park
+          1	HIthigas Magu - Goalhi 3
+          1	HMD Tuckshop
+          1	Haa Alif
+          1	Haa Dhaalu
+          1	Haanjielhe Magu
+          1	Hadahaa Island
+          1	Hadhdhunmathi Magistrate Court
+          3	Hadheebee Magu
+          1	Hafiz Ahmed Magu
+          1	Hafiz Ahmed School
+          1	Haivakaru Magu
+          1	Hakuraa Goalhi
+          2	Halaveli
+          1	Halaveli Magu
+          1	Halaveli Wreck (Wrack)
+          1	Hamad Bin Khaleefa Al-Thani School
+          1	Hamadh School Ground
+          1	Hameedhee Magu
+          1	Hamshi Rentals
+          1	Hanaari magu
+          1	Handhaanee Goalhi
+          1	Handhuvaree Goalhi
+          1	Handhuvaree Higun
+          1	Handhuvaree Higun - Goalhi 1
+          1	Handhuvaree Higun - Goalhi 2
+          1	Handhuvaree Higun - Goalhi 3
+          2	Handhuvaree Hingun
+          1	Hani Goalhi
+          1	Hanifaru
+          1	Hanifaru Bay
+          1	Hanifaruhuraa
+          1	Hanimaadhoo Airport
+          1	Hankede
+          1	Hankede Hajara
+          1	Happy Life Maldives
+          1	Happycorner
+          1	Harbor
+          1	Haru Haru
+          1	Haruge
+          1	Hathihaa Goalhi
+          1	Havana Club Wine & Cigar Bar
+          1	Haveeree Goalhi
+          1	Haveeree Hin'gun
+          3	Haveeree Hingun
+          1	Haveeri Hi,ngun
+          1	Haveeru Ufaa Goalhi
+          1	Havitha
+          2	Haze Line
+          1	Hazeleen
+          4	Health Centre
+          1	Heavenly Retreat
+          1	Heemandhoo
+          1	Heenaa Goalhi
+          1	Heenaamaa Goalhi
+          3	Henveiru Park
+          1	Henveiru Stadium
+          1	Hermit Crab Island
+          1	Hermit's
+          1	Hibalhidoo
+          1	Hiboodhoo
+          1	High Court
+          1	Hihfaseyha Magu
+          2	Hilaalee Hingun
+          1	HimendhooThila West
+          1	Himeyn Spa
+          1	Himmafushi
+          1	Hiri 2
+          1	Hirilandhoo Hirilandhoo
+          1	Hirundhoo
+          2	Hirundhu Magu
+          1	Hithaadhoo
+          1	Hithadhoo
+          1	Hithadhoo Port
+          1	Hithaffinivaa Magu
+          3	Hithigas Magu
+          1	Hithigas Magu - Goalhi 1
+          1	Hithigas Magu - Goalhi 2
+          1	Hithigas Magu - Goalhi 4
+          1	Hithigas Magu - Goalhi 5
+          1	Hithigas Magu - Goalhi 6
+          1	Hithigas Magu - Goalhi 7
+          1	Hiy Faseyha Goalhi
+          1	Hiyalee Goalhi
+          1	Holiday Cottage
+          1	Holiday Grand
+          1	Holiday Island - Sun Island
+          1	Holiday Island Jetty
+          1	Holiday Island Resort & Spa
+          1	Holiday Lodge
+          1	Honeymoon Jetty
+          2	Honeymoon Suite
+          1	Horizon Fisheries Maandhoo
+          1	Horubadhoo
+          1	Hospital Buru
+          1	Hotel Club Adaraan Rannalhi Island Resort
+          1	Hotel Rocket Café
+          1	Hotel Shuttle
+          3	House Reef
+          1	Hudha Hingun
+          1	Hudhanbaru Goalhi
+          1	Hudhufalhu Goalhi
+          1	Hudhufalhu Hingun
+          1	Hukuru Miskih
+          1	Hulhangu Bar
+          1	Hulhidhoo
+          1	Hulhimendhoo
+          1	Hulhudheli
+          3	Hulhudhoo
+          1	Hulhudhuffaaru
+          2	Hulhule Island Hotel
+          1	Hulhumale
+          1	Hulhumale Ferry Terminal
+          1	Hulhumale Waste Yard
+          1	Hulhumale' Hospital
+          1	Hulhumale' Police Station
+          1	Hulhumale-Hulhule Link Road
+          1	Hulhumalé Bus Stop
+          1	Hulu Male' Ferry Terminal
+          1	Hulumale Beach
+          1	Huraa
+          1	Huras Magu
+          1	Huravee Building
+          1	Huravee Magu
+          1	Huruelhi
+          1	Huruvalhi
+          1	Husna Pre School
+          3	Husnuheenaa Magu
+          1	Husnuheenaa magu
+          1	Huvan
+          1	Huvan'dhumaa Goalhi
+          1	Huvandhu Garden
+          2	Huvandhumaa Higun
+          3	Hydration Station
+          1	Ibraheemee Magu
+          1	Ibrahim Hassan Didi Magu
+          1	Ibrahimee Magu
+          1	Ice Delight
+          1	Ice Tea
+          1	Ice Traders
+          2	Ifthithaahee Magu
+          2	Ifuru
+          1	Ihadhdhoo School
+          1	Ihi Reef
+          1	Ijuthimaae Hin'gun
+          1	Indigo Bar
+          1	Indira Gandhi Memorial Hospital
+          2	Infinity Pool
+          2	Infinity Swimming Pool
+          1	Inguru
+          1	Injeenuge Bihdhoshu Valu
+          1	Internet-Room
+          1	Internet; Library
+          1	Iraaqu Magu
+          1	Iramaa Magu
+          2	Irouhsenee
+          1	Iru fushi beach & spa resort
+          1	IrudheyMaa Higun
+          1	IrudheyMaa Higun - Goalhi 1
+          1	IrudheyMaa Higun - Goalhi 2
+          1	IrudheyMaa Higun - Goalhi 3
+          1	Irudheymaa Hingun
+          1	Iruveli Cafe
+          1	Isdhoo
+          1	Iskandhar School
+          1	Iskandharu Magu
+          1	Island Aviation KDO
+          1	Island Barbeque
+          1	Island Clinic
+          1	Island Coffee Shop
+          1	Island Cottage
+          1	Island Divers Dive Center
+          1	Island Pharmacy
+          1	Isle Beach Inn
+          1	Italien Restaurant
+          1	Itech pro
+          1	Ithaa Undersea
+          1	Ithaaf Goalhi
+          1	Izadhdheen Hin'gun
+          2	Izzuddeen Magu
+          1	JICA Maldives Office
+          1	Jaariyaa Hin'gun
+          1	Jack Faru
+          1	Jahaamuguri Goalhi
+          1	Jalaaluddin Magu
+          1	Jamaaludheen Hingun
+          1	Jambu Magu
+          2	Janavaree Hingun
+          1	Janavaree Magu
+          1	Janbu Magu
+          1	Japnese Restaurant
+          1	Jausa
+          1	Javaahiru Hingun
+          1	Javaahiru Maa Higun
+          1	Javaahiru Magu
+          1	Jeeza Goalhi
+          1	Jetty 1
+          1	Jetty 2
+          1	Jetty 3
+          1	Jetty Platform
+          1	Jewell craft
+          1	Jingles Saloon
+          1	Joashee Hingun
+          1	Jumhooree Hingun
+          1	Jumhooree Maidan
+          1	K-Spa
+          1	K.K Water Sports
+          1	KDO Mosque
+          1	KDO North Check Post
+          1	KDO Terminal
+          1	Kaadedhdhoo Domestic Airport
+          1	Kaafu
+          1	Kaafu Atoll
+          1	Kaafu Atoll School
+          1	Kaafu Maafushi Health Centre
+          1	Kaaminee Magu
+          1	Kaani Beach
+          2	Kaani Goalhi
+          1	Kaani Lodge
+          1	Kaani Magu
+          1	Kaashidhoo View Hotel
+          1	Kaashikothan Magu
+          1	Kaasingee Goalhi
+          1	Kadhdhoo
+          1	Kadhdhoo Airport
+          1	Kadhdhoo Airport Runway
+          1	Kadhdhoo Jetty
+          1	Kadhdhoo Tower
+          1	Kafagas Magu
+          1	Kafathalhaa Hera
+          1	Kahambu Giri
+          1	Kahanbu Fushi
+          1	Kalhaidhoo
+          1	Kalhuhuraa Magu
+          1	Kalhuvakaru Miskiy
+          1	Kamadhoo
+          1	Kambulo SPA
+          1	Kan'doogan'du
+          1	Kandeege
+          2	Kandholhudhoo
+          1	Kandhoomeehunge Ihaan'bugali
+          1	Kandhovali Magu
+          2	Kandi Dhon Maniku Goalhi
+          1	Kandoma Beru
+          1	Kandoma Corner
+          1	Kandoodhoo Kandoodhoo
+          1	Kandooma Fushi
+          1	Kandovali Play Ground
+          1	Kandovali Playground
+          1	Kandu Oiy Giri
+          1	Kaneeru Goalhi
+          1	Kaneeru Magu
+          1	Kanifinolhu
+          1	Kanufusheegaathufinolhu
+          1	Kanufushi
+          1	Kanuhura Maldives
+          1	Kanuhuraa
+          1	Kan’dihera gan’du
+          1	Kaohera
+          1	Karankaa Goalhi
+          3	Karankaa Magu
+          1	Kareemee Pharmacy
+          1	Kashidhoo
+          1	Kashidhuffarufinolhu
+          1	Kashimaa Higun
+          1	Kashinara Hingun
+          1	Kasthoori Magu
+          1	Kathi Magu
+          1	Kavaab Restaurant
+          1	Keerahmma Goalhi
+          1	Kelaa Football Stadium
+          1	Kelaa Health Centre
+          1	Kelaa Magu
+          1	Kenaree Goalhi
+          1	Kendhigas Hingun
+          1	Kendhoo
+          1	Kenery Magu
+          2	Keyodhoo
+          2	Kids Club
+          1	Kids World
+          1	Kihaad Resort
+          1	Kihaadhoo
+          1	Kihaadhoo Power House
+          1	Kihaadhoo School
+          1	Kihaadhuffaru
+          1	Kihavah huravalhi
+          1	Kilam Traders
+          2	Kilhi
+          1	Kin'bi gas Magu
+          1	Kinaaraa Goalhi
+          1	Kinaaraa Hin'gun
+          1	Kinbi Gas Magu
+          1	Kinbi Gas magu - Goalhi 1
+          1	Kinbidhoo Kinbidhoo
+          1	Kinbimaage
+          1	Kinolas
+          3	Kitchen
+          1	Koaruken'di Magu
+          1	Koarukendi Hingun
+          1	Kobe
+          1	Kodadhihera gan’du
+          1	Kogannu Cemetery
+          1	Kolige Umaru Maniku Goalhi
+          1	Komandoo Island
+          1	Komandoo Island Resort
+          2	Kooddoo
+          1	Kooddoo Airport
+          1	Koon Thai
+          1	Koshimagu
+          1	Kottefaru
+          1	Kuda Bandos
+          1	Kuda Gulhi
+          1	Kuda Gulhi;Gulhi
+          1	Kuda Kandihereganda
+          1	Kuda Miskiy
+          1	Kuda-funafaru
+          1	Kudadhoo
+          1	Kudafares
+          1	Kudafen maaen'boodhoo
+          1	Kudafushi
+          1	Kudahuvadhoo
+          1	Kudakudhinge Bageecha
+          1	Kudamaahera
+          2	Kudarah
+          1	Kudarikilu
+          1	Kudasai
+          1	Kudheenaa Goalhi
+          1	Kudhehi Magu
+          1	Kudhifeyru Magu
+          1	Kudhimaa Higun
+          1	Kudhimaa Hingun
+          1	Kudhu Kandihera
+          1	Kuhlhavah Goalhi
+          1	Kulheybin
+          1	Kulheyfe Goalhi
+          1	Kulhidhoshu Magu
+          1	Kulhudhuffushi
+          1	Kunaavashi Kandu
+          1	Kunahandhoo
+          1	Kunfunadhoo
+          1	Kuni Koshi
+          1	Kuramathi Island Resort
+          1	Kuramathi SPA
+          1	Kurangi Goalhi
+          1	Kuredhdhoo
+          2	Kuredhimaa Hingun
+          1	Kuredhimaa Hingun - Goalhi 1
+          1	Kuredhimaa Hingun - Goalhi 2
+          1	Kuredu Golf Club
+          1	Kuredu Island
+          1	Kuredu Island Resort
+          1	Kurigamu Dhan'du
+          1	Kurigamu Ijuthimaaee Marukazu
+          1	Kurikeela Magu
+          2	Kurumba
+          1	Kurumba Maldives
+          1	L. Gan Police Station
+          1	L. Gan Regional Hospital
+          1	LUCKY STAR
+          1	LUX Resort
+          1	Laamu
+          1	Laamu Atoll Education Centre
+          1	Laguna Bar & Pool
+          2	Laguna Blue
+          1	Lainoofaru Hingun
+          1	Lainoofaru Magu
+          1	Lale International School
+          1	Lan'daagiraavaru
+          1	Landaa Giraavaru
+          1	Landing Dhiggiri
+          1	Landing Maayafushi
+          1	Landing Stage
+          1	Lang Giri
+          3	Lankanfinolhu
+          1	Lansimoo Magu
+          1	Laundry
+          1	Laundry Storage
+          1	Leal Travels & Tours
+          1	Leisure Boutique
+          2	Lexon
+          1	Lhaviyani
+          1	Lhaviyani Atoll Hospital
+          1	Lhohi Bodu Kandu
+          1	Lhohi Faru Tila
+          1	Lhohi Giri
+          1	Lhohi Kandu Tila
+          1	Liberty Guest House
+          6	Library
+          3	Lily Magu
+          1	Lime Restaurant
+          1	Little Hura
+          1	Lonubo
+          1	Lonuziyaaraiy Magu
+          1	Lotus Goalhi
+          1	Lounge
+          1	Lounge Bar
+          1	Lun'boakandhoo
+          1	Lun'dhufushi
+          1	Lux Cafe
+          1	Luxury Mart
+          1	Lvis Boutique
+          1	M. Gedha
+          1	MAEC
+          1	MARC Cable TV
+          1	MARRY BROWN
+          1	MNDF
+          1	MR Store
+          1	MREIC
+          1	MSO
+          4	MTCC Saw Mill
+          1	MTCC Vilingilli Ferry Terminal
+          1	MTCC ferry jetty
+          2	MWSC
+          1	MWSC Bottling Plant
+          1	MWSC Maafushi Front Office
+          1	MWSC Staff Quarters
+          1	MWSC Staff quarters and store room
+          1	Maabageechaage
+          1	Maabaidhoo
+          1	Maaddoo
+          1	Maaenboodhoo Football Ground
+          1	Maafaithakurufaanu Magu
+          2	Maafushi
+          1	Maafushi City Council
+          1	Maafushi Inn
+          1	Maafushi Power House
+          1	Maafushi Prison
+          1	Maafushi School
+          1	Maafushi Tila
+          1	Maafushivaru
+          1	Maagali Magu
+          1	Maagiri
+          1	Maahera
+          1	Maahinna Preschool
+          1	Maajehi Store
+          1	Maakanaa Lodge
+          1	Maakaulhuveli
+          1	Maakoshaaru Magu
+          1	Maalhos
+          1	Maalifushi by COMO
+          1	Maamaduvvari
+          7	Maamigili
+          1	Maamigili - Holiday Island
+          1	Maamigili Jetty
+          1	Maamin'gili
+          1	Maamiskih Magu
+          1	Maamunagau
+          1	Maamunagaufinolhu
+          1	Maanenfushi
+          1	Maarikilu
+          1	Maavah
+          1	Maavaharu 4
+          1	Maavaru
+          1	Maaveyo Magu
+          1	Maaweydhe Magu
+          1	Maaya Thila
+          3	Maayafushi
+          1	Machangolhi Cemetry
+          1	Machchafushi
+          1	Madharasathul Sheikh Ibrahim
+          1	Madheeha Store
+          1	Madhirivaadhoo
+          1	Madhrasathul Ifthithaah
+          1	Madi
+          1	Madifushi Madifushi
+          1	Mahibadhoo
+          2	Main Bar
+          3	Main Jetty
+          1	Main Mosque
+          2	Main Pool
+          3	Main Restaurant
+          1	Main Restaurant and Bar
+          2	Main Road
+          1	Main Street
+          1	Main bar
+          1	Main beach
+          1	Main jetty exit
+          2	Main restaurant
+          1	Main road
+          2	Majeedhee Magu
+          1	Makunudu Island Resort
+          1	Malaafaiy
+          1	Malage
+          1	Malahini Kuda Bandos
+          1	Malaveli
+          1	Maldicore Group Pvt Ltd
+          1	Maldives National University Campus
+          1	Maldives National University Gan Campus
+          1	Maldives Philatelic Museum
+          1	Maldives Police Service
+          1	Maldives Ports Authority
+          1	Maldives Ports Limited
+          1	Maldives Post
+          1	Maldives Sports Corporation
+          1	Maldivian Air Taxi Terminal
+          1	Maldivian Lounge
+          1	Maldivian National Museum
+          1	Maldivian Police Museum
+          1	Maldivoj
+          1	Male Atoll
+          1	Male' Altholu Maafushi Magistrale Court
+          1	Malè Prison
+          1	Malé - Hulumale Ferry Terminal
+          1	Malé-Gulhi no311
+          1	Mamendhoo
+          1	Manadhoo
+          1	Mandhoo
+          1	Mandhu College
+          1	Mandoo
+          1	Manhattan Fish Market
+          1	Manhole
+          1	Maniya Fushi
+          1	Manta Bar
+          1	Manta Restaurant
+          1	Maradhoo
+          1	Maradhoo Port
+          1	Maradhoo School
+          1	Maradhoofeydhoo
+          1	Marine Research Centre
+          1	Mashi 5
+          1	Masijidhul Bahaauhdheen
+          1	Masjdul Taqwa
+          1	Masjid A'Rahumath
+          1	Masjid-Al-Aaisha
+          2	Masjid-al-Sultan Muhammad Thakurufaanu Al Auzam
+          1	Masjidh al Sultan Mohamed Bin Abdullah
+          1	Masjidhl Ihlas
+          1	Masjidhul Zikra
+          1	Masjidhul-Abraari
+          1	Masjidul Falaah
+          1	Masjidul Furuqan
+          1	Masjidul Ihsaan
+          1	Masjidul Nasri
+          1	Masjidul Niuma
+          1	Masjidul Shaheed Ali
+          1	Masjidul Ulaa
+          1	Massage
+          1	Massage-Center
+          1	Masthakaa Goalhi
+          1	Mathangee Magu
+          1	Matharesmaa Store
+          1	Mathimaradhoo Dhan'du
+          1	Mathimaradhoo Gaburusthaan
+          1	Mathimaradhoo Miskih
+          1	Mathimaradhoo Power House
+          1	Mathimaradhoo Preschool
+          1	Mathimaradhoo Youth Centre
+          1	Mathiveri
+          1	Mathiveri Dhekunu
+          2	Mathiveri Finolhu
+          1	Mathiveri Health Centre
+          1	Mathiveri Inn
+          2	Mathiveri Magistrate Court
+          1	Mathiveri Police Station
+          2	Mathiveri Reef
+          1	Mathiveri School
+          3	Mathiveri To Male Route
+          1	Mathiveri Uthuru Kandu
+          1	Medhoo
+          1	Medhu Avashu Dhan'du
+          1	Medhu Avashu Ijthimaaee Marukazu
+          1	Medhu Ziyaaraii
+          1	Medhudeli Jetty
+          2	Medhudheli
+          1	Medhufaru
+          2	Medhufinolhu
+          1	Medhufushi
+          1	Medhufushi Island Ressort
+          1	Medhuziyaarai Magu
+          2	Medical Center
+          1	Meedhoo
+          1	Meedhoo Ferry Terminal
+          1	Meedhoo Town Office
+          2	Meedhupparu
+          1	Meemu
+          1	Meeru Island Resort
+          1	Meerubahuru Hingun
+          2	Meheli Goalhi
+          1	Mekunu Bar
+          1	Mendhoo
+          1	Meteorological Office
+          1	Meynaa Magu
+          1	Mialani Goalhi
+          1	Middle Check Post
+          2	Midhili Magu
+          1	Milaidhoo
+          1	Milandhoo
+          2	Milandhoo School
+          1	Milo Stadium
+          1	Ministry of foreign affairs
+          1	Miriandhoo
+          1	Mirihi
+          1	Mirihi Island Resort
+          3	Mirihi Magu
+          1	Miriyas Magu
+          1	Miskih Magu
+          4	Miskiy
+          1	Miskiy Goalhi
+          1	Miskiy Magu
+          1	Miskiyy Magu
+          1	Miskki Magu
+          1	Moana Trips
+          1	Moash
+          1	Mohamed Ismail Didi Goalhi
+          1	Mohamed Jamaluddin Naibu Thuthu Magu
+          1	Mohamed Kulhi
+          1	Moofushi
+          1	Moonima Magu
+          1	Moonimaa Goalhi
+          1	Moorithi
+          1	Moosa Ibrahim Didi Goalhi
+          1	Mosaic Restaurant
+          7	Mosque
+          2	Mudhdhoo
+          1	Mudhdhoo - Dharandvandhoo
+          2	Muhvaru Valu
+          1	Muiveyo Goalhi
+          1	Muiveyo Magu
+          1	Muiy 7
+          1	Mukurimagu Dhan'du
+          1	Mukurimagu Jetty
+          1	Mukurimagu Mosque
+          1	Mulahmaa Goalhi
+          2	Mulahmma Goalhi
+          1	Muli
+          1	Muliaage
+          1	Mulikado
+          1	Multi-Purpose Building
+          1	Muniyaa Magu
+          1	Muraka 1
+          1	Muran'ga Magu
+          1	Muranga Magu
+          1	Muravandhoo
+          1	Mushimas Migili Reef
+          1	Mushimasgali
+          1	Mustharee Goalhi
+          1	Muththoshi Goalhi
+          1	N1- Bus stop 4
+          1	N1-Bus stop 3
+          1	NIrolhu Magu - Goalhi 1
+          1	NIrolhu Magu - Goalhi 2
+          1	NIrolhu Magu - Goalhi 3
+          1	NIrolhu Magu - Goalhi 4
+          1	NIrolhu Magu - Goalhi 5
+          1	NIrolhu Magu - Goalhi 6
+          1	NIrolhu Magu - Goalhi 7
+          1	NIrolhu Magu - Goalhi 8
+          1	NIrolhu Magu - Goalhi 9
+          1	Naadhee Goalhi
+          1	Naasaree Goalhi
+          1	Nafaa Goalhi
+          2	Naifaru
+          1	Naifaru Fish Market
+          1	Naifaru Football Stadium
+          1	Naifaru Futsal grounds
+          1	Naifaru Graveyard
+          1	Naifaru Police Station
+          1	Naifaru Post Office
+          1	Naifaru Power House
+          1	Naifaru Public Library
+          1	Naifaru Volleyball Court
+          1	Naifaru Water Plant
+          1	Naladhu
+          1	Naladhu Pier
+          1	Nalaguraidhoo (Sun Island)
+          1	Naraka
+          1	Narudhamaa Office
+          1	Narudhamaa Site
+          1	Narudhoo
+          1	Narugis Maa Higun
+          1	Narugis Magu
+          1	Naseemee Goalhi
+          1	Naseemee Hingun
+          1	Nashee Goalhi
+          1	Nasreen Goalhi
+          1	Nasreenu Goalhi
+          1	Nasru Magu
+          1	National Art Gallery
+          1	National Centre for the Arts
+          1	Neeloafaru Hingun
+          2	Neeloafaru Magu
+          1	Nelifunadhoo
+          1	Nellaidhoo
+          1	Nerumathee Hingun
+          1	Netball,Hand Ball, Bashi Pitch
+          1	New Breeze
+          1	New Breeze Thoddoo Inn
+          1	Nibiligaa
+          1	Nika Hingun
+          1	Nika Island
+          1	Nikagas Hingun
+          3	Nikagas Magu
+          1	Nilandhoo
+          1	Nine in One
+          3	Nirolhu Magu
+          1	Nirolhu Magu - Goalhi 10
+          1	Nirolhu Magu - Goalhi 11
+          1	Nirolhu Magu - Goalhi 12
+          1	Nirolhu Magu - Goalhi 13
+          1	Nirolhu Magu - Goalhi 14
+          1	Nirolhu Magu - Goalhi 15
+          1	Nirolhu Magu - Goalhi 16
+          1	Nirolhu Magu - Goalhi 17
+          1	Nirolhu Magu - Goalhi 18
+          1	Nirolhu Magu - Goalhi 19
+          1	Nirolhu Magu - Goalhi 20
+          1	Nirolhu Magu - Goalhi 21
+          1	No 4
+          1	No. 2 Jetty
+          1	No.1 Jetty
+          1	Noomas Giri
+          1	Noonu
+          1	Nooraanee Magu
+          1	Noorani School
+          1	Nooree Goalhi
+          1	North Central Health Services Corporation Ltd.
+          1	Nouvelle & Grill
+          1	ODES Preschool
+          1	Observatory
+          1	Ocean Pro
+          1	Ocean Suite 1
+          1	Ocean Suite 2
+          1	Ocean Villa
+          2	Old Mosque
+          1	Olhugan'du Magu
+          1	Olhutholhu
+          1	Olhuveli
+          1	Olhuveli Kuda Giri
+          1	Omadhoo Omadhoo
+          1	Omelet
+          3	Onugas Magu
+          3	Ooredoo Tower
+          1	Orchid
+          1	Orchid Maa Higun
+          3	Orchid Magu
+          1	Orchid Travel Lodge
+          1	Organic Garden
+          1	Organic Vegetable Garden
+          1	Origandu Finolhu
+          1	Orimasvaru
+          1	Owner's Villa
+          1	PADI Serene Ocean Scuba Diving and Watersports
+          1	PEOPLES MALL
+          1	PLATINUM RESIDENCE
+          1	PSM 5094
+          1	PSM 5095
+          1	PSM 5184
+          1	PSM 5186
+          1	Pallazo Laamu
+          1	Palm
+          1	Palm Garden Thoddoo Inn
+          1	Palm Shade
+          1	Palm Shadow
+          1	Palm Tree
+          1	Palm View
+          1	Palm Village
+          1	Paradise Club
+          1	Paradise Island Resort & SPA
+          1	Paree Fengan'du
+          1	Parisge Magu
+          1	Parrot on a 30cm chain
+          1	Passage 1
+          1	Passage 3
+          1	Passage 6
+          1	Passage 7
+          1	Pebbles Inn
+          1	Picnic Inn
+          1	Pineapple Island Hausriff
+          1	Ping Pong
+          1	Pizza Palace
+          1	Planktons Beach
+          2	Plates
+          1	Platinum Residences
+          1	Playground
+          1	Poli Clinic & Medicals
+          1	Police Sport Pitch
+          2	Police Station
+          1	Police Station Fuvahmulah
+          3	Pool
+          1	Pool Area
+          2	Pool Bar
+          1	Pool Platform
+          1	Poolbar
+          1	Post Ltd
+          2	Post Office
+          2	Power House
+          1	Pre School
+          2	Pre-School
+          1	Preschool
+          1	President-Suite
+          1	Private Reserve 45
+          1	Public Works Services
+          1	Public toilet
+          1	Pump House
+          1	Pump station
+          1	Q Adventure Water Sports
+          1	Quantum Merut
+          1	R10
+          1	R11
+          1	R12
+          1	R13
+          1	R14
+          1	R15
+          1	R16
+          1	R17
+          1	R18
+          1	R9
+          1	RAF
+          1	REDWAVE
+          1	RFR Garden
+          5	ROOMS
+          1	Raa
+          1	Raadhafathi Hingun
+          1	Raalhu Café
+          1	Raalhugandu - Surfing Beach
+          1	Raaveriya bar
+          2	Rabarugas Magu
+          1	Rabarugas Magu - Goalhi 1
+          1	Rabarugas Magu - Goalhi 2
+          1	Rabarugas Magu - Goalhi 3
+          1	Rabarugas Magu - Goalhi 4
+          1	Rabarugas Magu - Goalhi 5
+          1	Rabarugas Magu - Goalhi 6
+          1	Rabarugas Magu - Goalhi 7
+          1	Rabarugas Magu - Goalhi 8
+          1	Rabarugas Magu - Goalhi 9
+          1	Rah Dhebai Hingun
+          1	Rah Dhebai Magu
+          3	Rainbow
+          1	Raiveri Hingun
+          1	Rakari
+          1	Rakeedhoo
+          1	Ram Faru
+          1	Ramfaru Tulu
+          1	Ran Parmacy
+          1	Ranauraa Goalhi
+          1	Ranauraa Magu
+          1	Rangali
+          1	Rani Kilege Magu
+          2	Rannalhi
+          1	Rannalhi Bodu Giri
+          1	Rannalhi Faru
+          1	Rannalhi Kuda Giri
+          1	Ransfannu Beach
+          1	Rasdhoo
+          1	Rasgetheemu
+          1	Rashdhoo
+          2	Rashukolhu Valu
+          1	Rasmee Dhandu Stadium
+          1	Ravvehi Magu
+          1	Recepcion
+         10	Reception
+          1	Reception / Lobby
+          1	Reception and Cashier
+          1	Reception/Lobby
+          1	Red Wave
+          1	Reethi Beach Resort
+          1	Reethi Faru Resort
+          1	Reethi Grill
+          1	Reethi Rah
+          1	Reethigas Higun
+          2	Reethigas Magu
+          1	Reflexology Center
+          1	Rehendhi School
+          1	Rehendi
+          1	Relax Residence
+          1	Republic Square
+          1	Residence 15
+          1	Residence 16
+          1	Residence 17
+          1	Residence 32
+          1	Residence 33
+          1	Residence 34
+          1	Residence 38
+          1	Residence 39
+          6	Restaurant
+          1	Restaurant & Bar
+          1	Restaurant Angaga
+          1	Restaurant Dhiggiri
+          1	Restaurant Nika Island
+          1	Restaurant at Maalifushi by COMO
+          1	Reveries
+          1	Rihiveli
+          1	Rihiveli Faru
+          1	Rihiveli Wrack
+          1	Rin'dheli Goalhi
+          1	Riveli
+          1	Riyaasee Hingun
+          1	RoaD
+         19	Road
+          1	Roasanee Magu
+          3	Roashanee Magu
+          1	Roazaree Hingun
+          1	Robinson Club Maldives
+          1	Roma Goalhi
+          1	Rosemeed
+          1	Route Rasdhoo To Male
+          2	Route To Bodufolhudhoo
+          1	Route To Rasdhoo
+          1	Route To Ukulhas
+          1	Royal Island Resort and Spa
+          1	Royal Park
+          1	Ruhdhandu
+          1	Rujjehere Waste
+          1	Ruvaa Magu
+          1	Ruvaajehy Magu
+          1	S. Hulhumedhoo Police Station
+          1	STD
+          1	STELCO Mathiveri
+          1	STELCO Office
+          2	STELCO Power House
+          1	STO
+          3	STO Pharmacy
+          1	STO Shop No. 136
+          2	Sabudheli Magu
+          1	Safaa
+          1	Safari Island
+          1	Saharaa
+          1	Saharaa Magu
+          1	Saharaa Miskiy
+          1	Saharaa Miskiy Mortuary
+          1	Sails Bar
+          1	Saimaa Goalhi
+          1	Saimaa Higun
+          1	Sala Boutique Hotel
+          2	Salt
+          1	Samaasaa Goalhi
+          2	Sand Bar
+          1	Sandbank
+          1	Sandhubaraka Goalhi
+          1	Sandhura 6
+          1	Sandwich Baa
+          1	Sangu 3
+          1	Sangu Water Villa 501
+          1	Sangu Water Villa 502
+          1	Sangu Water Villa 503
+          1	Sangu Water Villa 504
+          1	Sangu Water Villa 505
+          1	Sangu Water Villa 506
+          1	Sangu Water Villa 507
+          1	Sangu Water Villa 508
+          1	Sangu Water Villa 509
+          1	Sangu Water Villa 510
+          1	Sangu Water Villa 511
+          1	Sangu Water Villa 512
+          1	Sangu Water Villa 513
+          1	Sangu Water Villa 514
+          1	Sangu Water Villa 515
+          1	Sangu Water Villa 516
+          1	Sangu Water Villa 517
+          1	Sangu Water Villa 518
+          1	Sangu Water Villa 519
+          1	Sangu Water Villa 520
+          1	Sangu Water Villa 521
+          1	Sangu Water Villa 522
+          1	Sangu Water Villa 523
+          1	Sangu Water Villa 524
+          1	Sangu Water Villa 525
+          1	Sangu Water Villa 526
+          1	Sangu Water Villa 527
+          1	Sangu Water Villa 528
+          1	Sangu Water Villa 529
+          1	Sangu Water Villa 530
+          1	Sangu Water Villa 531
+          1	Sangu Water Villa 532
+          1	Sangu Water Villa 533
+          1	Sangu Water Villa 534
+          1	Sangu Water Villa 535
+          1	Sangu Water Villa 536
+          1	Sangu Water Villa 537
+          1	Sangu Water Villa 538
+          1	Sangu Water Villa 539
+          1	Sangu Water Villa 540
+          1	Sangu Water Villa 541
+          1	Sangu Water Villa 542
+          1	Sangu Water Villa 543
+          1	Sangu Water Villa 544
+          1	Sangu Water Villa 545
+          1	Sangu Water Villa 546
+          1	Sangu Water Villa 547
+          1	Sangu Water Villa 548
+          1	Sangu Water Villa 549
+          1	Sangu Water Villa 550
+          2	Sarahadhdhee Magu
+          1	Satay Bar
+          1	Savaaheli
+          1	Save & Have
+          1	Sayyid Kiligefaanu Magu
+          1	Schwack Cinema
+          1	Sea Breeze
+          1	Sea Grill
+          1	Sea House Brasserie
+          1	Sea Vista Inn
+          1	Seagull Cafe House
+          1	Seaplane Jetty
+          1	Season Magu
+          1	Seawater Desalination Plant
+          1	Second Home Restaurent
+          1	Secretariat of Hadhdhunmathi Atoll Council
+          1	Secretariat of Kelaa Council
+          1	Secretariat of Laamu Fonadhoo Council
+          1	Secretariat of Laamu Gan Council
+          1	Secretariat of the Dhaandhoo Council
+          1	Secretariate Of The Mathiveri Council
+          1	Secretariate of th Mathiveri Council
+          1	Security Hut
+          1	Seeniyaage
+          1	Seenu Atoll School
+          1	Seesun Magu
+          1	Serena Spa
+          1	Serene Blue Bowls Inn
+          1	Serene Sky Guest House
+          3	Service Jetty
+          1	Service Way
+          2	Shaariu Varudhee
+          1	Shabnamee Connect
+          1	Shabnamee Shop
+          1	Shabnamee Store
+          1	Shadow Palm
+          2	Shaeed Abdulla Zuhair Hingun
+          1	Shaeed Ali Goalhi
+          2	Shaheed Ali Hingun
+          1	Shaheed Ali Magu
+          1	Shaheed Mohamed Hussain Hingun
+          1	Shaheed Mohamed Ibrahim Hingun
+         15	Shamsudheen Bodu Fandiyaaru Thakurufaanu Magu
+          1	Sharafuddin School
+          1	Shark Point
+          1	Shaviyani
+          1	Sheeshaa Goalhi
+          1	Shell Beans
+          1	Shipyard
+          1	Shop
+          1	Shop 350
+          1	Sikka Goalhi
+          1	Sikun'di Kulhi
+          2	Siraajudhdheen Magu
+          1	Sirina
+          1	Siththi Maavaa Hingun
+          1	Six Senses Laamu
+          1	Sky
+          1	Smart Mobiles
+          8	Snorkel way
+          3	Soccer
+          1	Social Centre
+          1	Soneva Fushi
+          1	Soneva Jani
+          1	Soneva Jani villas
+          1	Sonevafushi seaplane terminal
+          1	Sosun Cafe
+          1	Sosun Hin'gun
+          4	Sosun Magu
+          1	South Ari District Medical Center
+          1	South Beach
+          1	Southern Port
+          1	Southern Star
+          1	Souvenir Boutique
+          6	Souvenir Shop
+          1	Souvenir UFAA
+         12	Spa
+          1	Spa Area
+          1	Spa Relaxation Area
+          1	Spa and Yoga Pavillion
+          1	Spa reception
+          1	Speranza
+          1	Sports Arena
+          2	Sports Centre
+          1	SriLankan Airlines
+          1	Stadium
+          2	Staff
+          4	Staff Area
+          1	Staff Bar
+          1	Staff Blocks
+          1	Staff Jetty
+          1	Staff Quarters
+          1	Staff Village Access East
+          1	Staff Village Access South
+          1	Staff canteen
+          1	Staff only Area
+          2	Staffarea
+          1	Stelco Powerhouse
+          1	Store Building
+          1	Stores
+          1	Street1
+          1	Suhaanaa
+          1	Summer Villa
+          1	Sun Island Jetty
+          1	Sun Star
+          1	Sundowner Bar
+          1	Sunrise Bar
+          5	Sunset Bar
+          1	Sunset Beach Bar
+          1	Sunset Beach Park
+          1	Sunset Corner
+          1	Sunset Grill
+          1	Sunset Royal
+          1	Sunset bar
+          1	Super Value
+          1	Supreme Court
+          1	Surfista Cafe
+          1	Surfview Raalhugandu
+          1	Suvadive
+          2	Swimming Pool
+          1	Symphony
+          1	TMA Platform
+          1	Table Football
+          1	Tabletennis
+          1	Tandoor Mahal
+          2	Tank
+          1	Tauchcenter
+          1	Tea House
+          3	Tennis
+          4	Tennis Court
+          1	Tennis Courts
+          8	Tennisplace
+          1	Thaa
+          1	Thaa Atoll
+          1	Thabureyzee Higun
+          1	Thamburudhoo
+          1	Than'buru Magu
+          1	Thandiraiymaa Goalhi
+          1	Tharividhaa Goalhi
+          1	The Deck Bar
+          1	The Haruge
+          1	The Island Kitchen
+          1	The Kitchen
+          1	The Lagoon
+          1	The Leaf Cafe
+          1	The Lighthouse
+          2	The Market
+          1	The Oliver Garden
+          1	The Over Water Spa
+          1	The President's Office
+          1	The Reef
+          1	The trio
+          1	Theemuge
+          1	Thiladhoo
+          1	Thilafushi
+          1	Thimarafushi
+          1	Thimarafushi Thimarafushi
+          2	Thinadhoo
+          1	Thinmahaana Magu
+          1	Thoddoo Harbour
+          1	Thoddoo Hospital
+          1	Thoddoo Inn
+          1	Thoddoo Ocean Front
+          1	Thoddoo Retread
+          1	Three Hearts Guesthouse
+          3	Thudufushi
+          1	Thulhaadhoo
+          1	Thulhaagiri
+          2	Thulusdhoo
+          1	Thun'di Dhan'du
+          1	Thun'di Jetty
+          1	Tiny Field Park
+          1	To Fahudheli
+          1	Totem Bar
+          1	Tourist Submarine Maldives Private Limited.
+          1	Tourist beach
+          1	Tourist street 1
+          1	Tourist street 2
+          1	Tow Yard
+          1	Traditinal Chinese Massage
+          1	Trans Maldivian Airways Terminal
+          1	Treasure
+          1	Tree Top Hospital
+          1	Tree Tower Park
+          1	Tropic Tree Maldives
+          1	Tsunami Binaa
+          1	Tsunami Monument
+          1	Tulip Hin'gun
+          1	Turravaas Goalhi
+          2	Turtle Beach
+          1	U & V Mart
+          1	UI Hotel
+          1	UN Building
+          1	Ufuligiri
+          1	Ujaalaa Hingun
+          1	Umami
+          1	Un'doodhoo
+          1	Un'goofaaru
+          1	Un'gulu
+          1	Unic Zone
+          2	Unigas Magu
+          1	Unimaa Hingun
+          1	Union Sports Club
+          1	Unison
+          1	Uthurumaafaru
+          1	VOI Maayafushi Resort
+          1	Vaadho Caves
+          1	Vaadhoo
+          1	Vaagali
+          1	Vaageli Bodu Faru
+          1	Vaageli Caves
+          1	Vaageli Corner
+          1	Vaageli Faru
+          1	Vaageli Faru Nord
+          1	Vaageli Faru Süd
+          1	Vaageli Faru Tila
+          1	Vaageli Outside
+          1	Vaageli Tila
+          1	Vaavu
+          1	Vaavu Atoll School
+          1	Vacation Home
+          2	Vadoo
+          1	Vaidheri Hingun
+          1	Vaijehey Magu
+          1	Vakaru (main restaurant)
+          1	Vakarufalhi
+          1	Valu Magu
+          1	Vandhoo Vandhoo
+          1	Vani, Coffeebar
+          1	Vanilla House
+          1	Vashahéra
+          1	Vasugiri
+          1	Veem
+          3	Vegetable garden
+          1	Vela Fushi
+          1	Velaanaa Magu
+          1	Velaanaage
+          1	Velassaru
+          1	Velassaru Caves
+          1	Velavaru
+          1	Veli Pool Bar
+          1	Velidhu
+          1	Velidhu Hausriff
+          1	Veligandhu
+          1	Veligandu Island Resort & Spa
+          1	Venturo
+          1	Veymandoo
+          1	Veyo Bar
+          1	Veyodhoshu Goalhi
+          1	Veyofushi
+          1	Veyvah
+          1	Vilamendhoo Housereef
+         27	Vilamendhoo Inner Pathways
+          1	Vilamendhoo Island Resort & Spa
+          2	Vilamendhoo Main Jetty
+          1	Vilamendhoo outer path
+          1	Vilin'gili
+          1	Villa 1
+          1	Villa 10
+          1	Villa 11
+          1	Villa 12
+          1	Villa 13
+          1	Villa 14
+          1	Villa 15
+          1	Villa 16
+          1	Villa 17
+          1	Villa 18
+          1	Villa 19
+          1	Villa 2
+          2	Villa 21
+          1	Villa 22
+          1	Villa 23
+          1	Villa 24
+          1	Villa 25
+          1	Villa 26
+          1	Villa 27
+          1	Villa 28
+          1	Villa 29
+          1	Villa 3
+          1	Villa 30
+          1	Villa 31
+          1	Villa 32
+          1	Villa 33
+          1	Villa 34
+          1	Villa 35
+          1	Villa 36
+          1	Villa 37
+          1	Villa 38
+          1	Villa 39
+          1	Villa 4
+          1	Villa 40
+          1	Villa 41
+          1	Villa 42
+          1	Villa 43
+          1	Villa 44
+          1	Villa 45
+          1	Villa 46
+          1	Villa 47
+          1	Villa 48
+          1	Villa 49
+          1	Villa 5
+          1	Villa 50
+          1	Villa 6
+          1	Villa 7
+          1	Villa 8
+          1	Villa 9
+          1	Villa College
+          1	Villa International Airport Maamigili
+          1	Villa Suite 08
+          1	Villa Suite 09
+          1	Villa Suite 10
+          1	Villa Suite 11
+          1	Villa Suite 12
+          1	Villa Suite 13
+          1	Villa Suite 14
+          1	Villa Suite 18
+          1	Villa Suite 19
+          1	Villa Suite 20
+          1	Villa Suite 21
+          1	Villa Suite 22
+          1	Villa Suite 23
+          1	Villa Suite 24
+          1	Villa Suite 25
+          1	Villa Suite 26
+          1	Villa Suite 27
+          1	Villa Suite 28
+          1	Villa Suite 29
+          1	Villa Suite 30
+          1	Villa Suite 31
+          1	Villa Suite 35
+          1	Villa Suite 36
+          1	Villa Suite 37
+          1	Villa Suite 40
+          1	Villa Suite 41
+          1	Villa Suite 42
+          1	Villa Suite 43
+          1	Villa Suite 44
+          1	Village 2
+          1	Village Restaurant
+          1	Villingili
+          1	Villivaru
+          1	Vilu Restaurant and Bar
+          1	Vilufushi
+          1	Violet Hingun
+          1	Violet Magu
+          1	Vision Goalhi
+          1	Voice of Maledives
+          2	Volleyball
+          1	Volleyball Court
+          1	W Hotel Maldives
+          1	WOW OCEAN ESCAPE 301
+          1	WOW OCEAN ESCAPE 302
+          1	WOW OCEAN ESCAPE 303
+          1	Waste Management Center
+          1	Wataniya Head Office
+          1	Water Bungalows
+          1	Water Pool Villa 311
+          1	Water Pool Villa 312
+          1	Water Pool Villa 313
+          1	Water Pool Villa 314
+          1	Water Pool Villa 315
+          1	Water Pool Villa 316
+          1	Water Pool Villa 317
+          1	Water Pool Villa 318
+          1	Water Pool Villa 319
+          1	Water Pool Villa 320
+          1	Water Pool Villa 321
+          1	Water Pool Villa 322
+          1	Water Pool Villa 323
+          1	Water Pool Villa 324
+          1	Water Pool Villa 325
+          1	Water Sport
+          1	Water Sports
+          1	Water Sports Centre
+          2	Water Tank
+          1	Water Villa 301
+          1	Water Villa 302
+          1	Water Villa 303
+          1	Water Villa 304
+          1	Water Villa 305
+          1	Water Villa 306
+          1	Water Villa 307
+          1	Water Villa 308
+          1	Water Villa 309
+          1	Water Villa 310
+          1	Water Villa 326
+          1	Water Villa 327
+          1	Water Villa 328
+          1	Water Villa 329
+          1	Water Villa 330
+          1	Water Villas
+          1	Water bungalows
+          1	Waterplane arrival
+          1	Watersport Center
+          1	Watersport Rental
+          1	Watersports Center
+          1	Watersports Jetty
+          1	Watewater Plant
+          1	Wave Restaurant
+          1	Wedding Pavillion
+          1	Wedivan Mago
+          1	Wedivan Magu
+          1	Welcome Jetty
+          1	Welcome Pavillion
+          1	Weligandu
+          1	West Beach Hingun
+          1	West Park Restaurant and Sri Lankan Foods
+          1	West Wing
+          1	Wharf
+          1	White House
+          1	White Rose Hingun
+          1	White Sand Dhigurah
+          1	Wish Point
+          1	Wood Apple
+          1	Yagoothu Goalhi
+          1	Yard Magu
+          1	Yonder Retreat
+          1	Youth Center
+          3	Youth Centre
+          1	Zaas Pharmacy
+          1	Zenbasee Magu
+          1	Zikuraa Goalhi
+          1	Zitahli Resorts & Spa Reception
+          1	Zitahli Spa Reception
+          1	Ziyaarai Magu
+          1	bitch
+          1	cementary
+          6	channel for boats
+          1	coconut spa
+          1	dump
+          2	falhu
+          1	football field
+          1	future hotel
+          1	handcrafted...
+          1	house reef
+          1	iQuest
+          1	kuda dhui falhu
+          1	nuke bomb site
+          1	private beach for tourists
+          2	rOAD
+          1	sandbank
+          1	seaplane platform
+          1	shipyard
+          1	swimming area
+          1	swimming pool
+          1	tennis court
+          1	trendy
+          1	unkown
+          1	ހިތަދޫ
+          1	ހުޅުމާލެ
+          1	ހުޅުމީދޫ Hulhumeedhoo
+          1	ހުޅުލެ
+          2	ކާށިދޫ Kaashidhoo
+          1	އަލިކިލެގެފާނު މަގު
+          1	އެތެރެމަޑިވަރު
+          1	ވިލިންގިލި
+          1	ވެލާނާ ބައިނަލްއަޤުވާމީ ވައިގެ 
+          3	މާލެ
+          1	ފުވައްމުލައް
+          1	ދިވެހިރާއްޖެ
+          1	ގާފަރު Gaafaru
+          1	ގުޅި ފަޅު
+          3	ސީނާ ދިވެހި އެކުވެރިކަމުގެ ފާލަ

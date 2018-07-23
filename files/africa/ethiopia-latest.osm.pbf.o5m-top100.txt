@@ -1,0 +1,100 @@
+        186	Addis Ababa – Djibouti Railway
+        158	House
+        158	High elevated
+        155	Mek'ele-Weldiya Road
+        112	Awash - Asseb highway
+         97	Bahir Dar - Gonder Road
+         91	Ring Road
+         73	Awash - Assab highway
+         63	hut
+         57	rode
+         57	Jimma Road
+         55	Addis Ababa - Bahir Dar Road
+         52	Total
+         51	Unknown Mosque
+         51	Hut
+         46	High Elevated
+         45	Addis Ababa to Nairobi road
+         41	Awash
+         40	road
+         37	Sodo to Arba Minch
+         37	Addis-Adama Expressway
+         36	Unknown Hamlet
+         34	Oilibya
+         29	النيل الأزرق
+         29	Nekemte - Ambo Road
+         29	Arba Minch to Konso
+         28	Africa Avenue / Bole Road
+         27	New Ambo Road
+         27	Nekemte - Asosa Road
+         27	Konso to Yabello
+         26	fafen
+         26	Ethiopia - إريتريا
+         25	Southern Nations - Oromia
+         25	Gandua ጋነዱኣ
+         25	Ethiopia - الصومال
+         24	residential road
+         24	NOC
+         24	Gonder - Metema Road
+         24	Commercial Bank of Ethiopia
+         23	Gubba Enjibera Road
+         22	Shashamane/Robe Road
+         22	No Name
+         22	Dawa
+         22	Asosa - Guba Road
+         22	Abandonned village?
+         21	Djibouti Road
+         20	Nekemte - Gambella/Asosa Road
+         20	Church Forest
+         20	Blue Nile
+         20	Abaya Secondary School
+         19	South Sudan - Ethiopia
+         19	Oromia - Benishangul-Gumuz
+         19	Addis Ababa Light Rail (Ayat to Tor Hailoch)
+         18	Robe/Imi Road
+         17	3
+         16	አዋሽ - አሳብ አውራጐዳና
+         16	Tesema Aba Kemaw Street
+         15	X
+         15	Stream to Bota
+         15	NL_12_4710 St
+         15	Menelik II Avenue
+         15	Lalibela-Geshena-Road
+         15	Haro
+         15	Dashen Bank
+         14	Yirgalem/Negele Road
+         14	Sembo to Mojo
+         14	Old Ambo Road -የድሮው የአምቦ መንገድ
+         14	Jacros
+         14	High Elevated houses
+         14	Fikre Mariam Aba Techan Street
+         14	Dima
+         14	Belay Zeleke
+         13	የኢትዮጵያ ኦርቶዶክስ ተዋህዶ ቤተ�
+         13	Welkite Gurage
+         13	SubStream to Bota
+         13	School
+         13	Robe/Negele Road
+         13	KK_07_2302 St.
+         13	Ethio-Djibouti Railways
+         13	Amhara - Oromia
+         12	hut house
+         12	Sire
+         12	Shewareged Gedle Street
+         12	Russia Av
+         12	NABU site
+         12	Kobil
+         12	KK_07_2353 St.
+         12	KK_07_2227 St.
+         12	Jinka to Keyafer
+         12	Guliso-Genji Road
+         12	Guba Enjibera Road
+         12	Goro
+         12	GL_09_2020 St.
+         12	Dire
+         12	Cote d'Ivoire Street
+         12	Ararat to Kara
+         11	የኢትዮጵያ ንግድ ባንክ
+         11	forest
+         11	Yeka 9_2624 St
+         11	Unkown Village

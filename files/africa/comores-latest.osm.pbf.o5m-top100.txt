@@ -1,0 +1,100 @@
+         29	bati
+         22	Mosquée
+         13	Boulevard Karthala
+          8	Rue de la Corniche
+          7	Mvouvou-djou
+          7	Ecole Primaire
+          7	EPP
+          6	Ecole primaire
+          5	Telma
+          5	Rue de la COI
+          5	Mosqué
+          5	EPMT
+          4	شارع رقم ٣٢
+          4	دوموني Domoni
+          4	zainaba said
+          4	boutique
+          4	Zone de Mouillage
+          4	Rue Itsambuni
+          4	Mosquée de vendredi
+          4	Mosque
+          4	Les 4 Frères
+          4	Hopital
+          4	Habomo
+          4	Garage
+          4	EPPM
+          4	Comores Telecom
+          4	Boutique
+          4	Boulevard de la République Poulaire de China
+          4	Avenue du Président Ali Soilihi
+          3	مسجد
+          3	école primaire
+          3	vers OUZIO
+          3	route de village
+          3	classe d'ecole
+          3	Sawaprix
+          3	Rue de l'Union Africaine
+          3	Rue Ahmed Djoumoi
+          3	Route de l'Alliance Française
+          3	Nassib
+          3	Mosquée des femmes
+          3	Mosqué des Femmes
+          3	Maison
+          3	Mairie
+          3	LCM
+          3	Grande Mosquée
+          3	Bangwe
+          2	موهيلي Mwali
+          2	مرمني
+          2	لينكني
+          2	كوي
+          2	كوامباني
+          2	شارع الجامعة العربية
+          2	ديجني
+          2	Îlot Hajangoua Pengoua
+          2	Îlot Choazil Malandzamiayatsini
+          2	prefecture
+          2	mosquee
+          2	maisson
+          2	garage
+          2	ecole primaire
+          2	collège rural de ntsoudjini
+          2	chateau
+          2	carrefour
+          2	Zivandani
+          2	Zainaba
+          2	Vers Mkazi
+          2	Vanadjou
+          2	VERS BANGWENI
+          2	Université des Comores, Faculté des Sciences et Technolog
+          2	Université des Comores, Faculté Imam Chafiou
+          2	Telma Shop
+          2	Stade Saïd-Mohamed Cheikh
+          2	Serehini
+          2	Sara Market سوق سارة
+          2	Sara Market
+          2	Sandjema
+          2	Rue wanamdji
+          2	Rue Trambwe
+          2	Rue Mwangaza
+          2	Rue Bordo
+          2	Route Chandzahari
+          2	Route ACKE
+          2	Rond-point Salimamoud
+          2	RYD INVESTMENT
+          2	RN2
+          2	RN1
+          2	Precision Air
+          2	Place de l'Europe
+          2	Pharmacie
+          2	PVANABOIN_D2_2
+          2	Oussivo
+          2	Ouhozi
+          2	ORTC
+          2	Nzwani أنجوان
+          2	Nioumadzaha
+          2	New Bazar
+          2	Ndroini
+          2	Mouandzaza Djoumbe
+          2	Mouandzaza Ambouani
+          2	Mosquée du Vendredi

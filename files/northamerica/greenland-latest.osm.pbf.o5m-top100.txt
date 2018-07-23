@@ -1,0 +1,100 @@
+         34	Eqalugalinnguit
+         20	Aqqusinersuaq
+         17	Pilersuisoq
+         16	Qarsoq
+         16	Lodge
+         14	Qernertunnguanut
+         12	Unaaq
+         10	NU
+          9	Tasersuaq
+          8	Nuussuaq
+          8	Lille Tugtutôq
+          8	Kommune Kujalleq
+          8	King's Road
+          8	Kangerlussuaq-Sisimiut winter trail
+          8	H.J. Rinksvej
+          8	400-rtalik
+          7	Sarfaannguit
+          7	Sangoriaq
+          7	Pujooriarfik
+          7	Peter Thårup Høeghip Aqq.
+          7	Kussangasoq
+          7	Brugseni
+          7	Aappilattoq
+          6	Uummannaq
+          6	Tasiusaq
+          6	Qaqeqqaarfik
+          6	Pisiffik
+          6	Nunniaffik
+          6	Kuussuaq
+          6	Jagtvej
+          6	Imaneq
+          6	Erdhaus
+          6	Borgm. Anniita
+          5	Örkendalen
+          5	Ukkusissat
+          5	Tikiusaaq
+          5	Qisisseq
+          5	Qajaasat
+          5	Qaava
+          5	Oil tank
+          5	Napparsimviup Aqq
+          5	Nalunnguarfik
+          5	Mittarfimmut Aqqut
+          5	Manngua
+          5	Lyngby-Tårbæksvej
+          5	Jens Kreutzmannip Aqqutaa
+          5	Gertrud Raskvej
+          5	Border Bouy
+          5	Aqqulluk
+          5	Ammassalik
+          5	Akunnerit
+          4	Upernavik
+          4	Tele-Post
+          4	Suloraq
+          4	Sports Centre
+          4	Spar
+          4	Sorlaat
+          4	Skolevej
+          4	Sipisaq Kujalleq
+          4	Siaqqinneq
+          4	Sandflugtdalen
+          4	Sanamut Aqqutaa
+          4	Samuel Kleinschmidt Aqqutaa
+          4	Regner Bentsensvej
+          4	Qoornoq X-press
+          4	Qiviarfik
+          4	Qeqertarsuaq
+          4	Qeqertaq
+          4	Qarsaalik
+          4	Pukuffik
+          4	Point on Björlings Ø
+          4	Paarnaqutit
+          4	Nuukullak
+          4	Nuuk - Kapisillit.
+          4	Noorlernut
+          4	Nerngallaa
+          4	Narsarviaq
+          4	Musaq
+          4	Maniitsoq
+          4	Manguaraq
+          4	Kullorsuaq
+          4	Kujallerpaat
+          4	Kimmernat
+          4	Kigutaarnat
+          4	Karl Sivertsenip Aqquserna
+          4	Issortarfimmut
+          4	Island by Ydre Kitsissut
+          4	Ilulissat
+          4	Ikermiut
+          4	Ikerasannguaq
+          4	Igimaq
+          4	Iggiaanut
+          4	INI A/S
+          4	Hans Egedesvej
+          4	Brugseneeraq
+          4	Borgmester Aniita Aqqusernga
+          4	Atertaq
+          4	Asummiunut
+          4	Arctic Umiaq Line
+          4	Anders Olsensvej

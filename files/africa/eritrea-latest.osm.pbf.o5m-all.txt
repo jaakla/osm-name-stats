@@ -1,0 +1,1377 @@
+          1	/ / Hagaz Agricultural and Technical School
+          1	/ / Mahaz Enginaq)
+          2	/ اتسيوني / Aziona
+          1	/ اشديرا / Ashidara
+          2	/ جادق / Jadq
+          1	/ حبعتيا / Habotaia
+          1	/ خور كعليتاي / Khor Kaaletay
+          1	/ سوف الخضار / Will vegetables
+          1	/ عدردي / Adrda
+          1	/ فارالبا / Varalba
+          1	/ فردقي / Frdhegi
+          1	/ قلاس / Glass
+          1	/ كبير جسر جادق / Big Jadq Bridge
+          1	/ كورخ / Korg
+          1	/ لآنشيه / Anchet
+          1	/ محاظ قدانا / Mahaz Kdana
+          1	/ مسجد البركة / Baraka Mosque
+          1	/ نفق ( قلوريا / Gulwraa Tunnel
+          1	/ نفق السكة حديد قلوريا اشديرا / As
+          1	/ نفق جادق / Jadq Tunnel
+          1	111-3 Street / شارع 111-3
+          1	111-4 Street / شارع 111-4
+          1	112-12 Street / شارع 112-12
+          1	117-12 Street / شارع 117-12
+          1	117-14 Street / شارع 117-14
+          1	117-3 Street / شارع 117-3
+          1	117-7 Street / شارع 117-7
+          1	118-14 Street / شارع 118-14
+          1	118-15 Street / شارع 118-15
+          1	118-17 Street / شارع 118-17
+          1	118-2 Street / شارع 117-2
+          1	119-1 Street / شارع 119-1
+          1	119-2 Street / شارع 119-2
+          1	119-9 Street / شارع 119-9
+          1	129-10 Street / شارع 129-10
+          1	138-1 Street / شارع 138-1
+          1	172-2 Street / شارع 172-2
+          1	173-3 Street / شارع 173-3
+          2	173-5 Street / شارع 173-5
+          1	175-10 Street / شارع 175-10
+          1	175-13 Street / شارع 175-13
+          2	175-15 Street / شارع 175-15
+          1	175-4 Street / شارع 175-4
+          1	175-9 Street / شارع 175-9
+          1	176-10 Street
+          1	176-12 Street / شارع 176-12
+          1	176-13 Street / شارع 176-13
+          1	176-15 Street / شارع 176-15
+          1	176-19 Street / شارع 176-19
+          1	176-2 Street / شارع 176-2
+          1	176-21 Street / شارع 176-21
+          1	176-25 Street / شارع 176-25
+          1	176-3 Street / شارع 176-3
+          1	176-4 Street / شارع 176-4
+          1	176-7 Street / شارع 176-7
+          1	176-8 Street / شارع 176-8
+          1	176-9 Street / شارع 176-9
+          1	178-2 Street / شارع 178-2
+          2	185-15 Street / شارع 185-15
+          1	191-1 Street / شارع 191-1
+          1	191-3 Street / شارع 191-3
+          1	192-1 Street / شارع 192-1
+          1	192-3 Street / شارع 192-3
+          1	193-7 Street / شارع 193-7
+          1	194-2 Street / شارع 194-2
+          1	194-3 Street / شارع 194-3
+          1	194-4 Street / شارع 194-4
+          1	198-2 Street / شارع 198-2
+          1	198-7 Street / شارع 198-7
+          1	198-9 Street / شارع 198-9
+          1	667 m
+          1	713-16 Street / شارع 713-16
+          1	713-22 Street / شارع 713-22
+          1	743-4 Street / شارع 743-4
+          1	755-1 Street / شارع 755-1
+          1	????-????
+          1	?????
+          1	??????-??????
+          1	?????????
+          2	Abahani Street شارع ابهانى
+          1	Abbashaui أبشوي
+          2	Abdrbabu Street شارع عبد ربابو
+          1	Abdul Qadir عبد القادر
+          1	Abeba Restaurant مطعم أبيبا
+          2	Abrascico
+          1	Ad Arisc
+          1	Ad Hashhel حي عد حشل
+          1	Adal Street شارع أدال
+          1	Adasi Seif أداسي سيف
+          1	Adbara Kebir
+          1	Adbara Seghir
+          1	Addi Ats-Nna-Ani
+          1	Addis Alem
+          1	Addisc Addi
+          1	Adena
+          1	Adennà
+          1	Aderde
+          1	Adgueno
+          1	Adi Abeto أدي أبيتو
+          1	Adi Akalo
+          1	Adi Baro
+          1	Adi Behiro
+          1	Adi Ch'Igono Terara
+          1	Adi Gramaten Street شارع عدي قراماتن
+          1	Adi Guadat عدي قادات
+          1	Adi Guari
+          1	Adi Harae عدي هاري
+          1	Adi Hawesha Street شارع عدي هاوشا
+          1	Adi Keyh College of Arts and Social Sciences campus
+          1	Adi Kotyo
+          1	Adi Mongonti Elementary School
+          1	Adi Mongonti Mariam Orthodox Church
+          1	Adi Naamen
+          1	Adi Q عدي قادات
+          1	Adi Quala Street شارع عدي كوالا
+          1	Adi Quala bus station محطة الباص عدي كوالا
+          1	Adi Ruso
+          1	Adi Samar
+          1	Adi Shmagle Street شارع ادى - شامجلى
+          1	Adi Ugri عدي أوقري
+          1	Adikeyh Pension بنسيون عدي قيح
+          1	Adla
+          1	Ado Yaqob Street شارع ايدى ياقوب
+          1	Adrbabo Street شارع أدربابو
+          2	Adulis
+          1	Adulis Archeological Park
+          2	Adulis Street شارع اديولس
+          2	Af'Abet Secondary School مدرسة ثانوية أفعبت
+          1	Afabet Grande Mosque المسجد الكبير أفعبت
+          1	Afar
+          1	Afar - Tigray
+          1	Afelba
+          1	Africa Pension بنسيون أفريقيا
+          1	Aftal
+          1	Agais
+          1	Agamet Street شارع أغاميت
+          1	Agdo أغدو
+          1	Aireba
+          1	Ajuman
+          3	Ak'ordat - Keren road
+          1	Ak'ordat - Keren road / طريق أغوردات - كرن
+          1	Ak'ordat - Keren road طريق أغوردات - كرن
+          1	Akeleguzay Street شارع أكيليغوزاي
+          1	Al Khulafah Al Rashidin جامع الخلفاء الراش�
+          4	Al Lafa Road
+          1	Ala Street شارع علاء
+          1	Alaili Dadda علايلي دادا
+          1	Alba Bistro
+          1	Albergo Italia نزل إيطاليا
+          2	Alfa Romeo الفا روميو
+          5	Aligedhe River
+          1	Alighedhe River
+          1	Alitena Maryam Bete Kristiyan
+          1	Alitiena
+          1	Alkhaima Arabic Restaurant مطعم الخيمة العرب
+          1	Alla Scala Hotel فندق ألا سكالا
+          1	Alt-Sembel ألت سمبل
+          1	Amba Derhò
+          1	Ambassador Hotel فندق السفير
+          1	American bar بار أمريكي
+          1	Amogale
+          1	Anaale
+          1	Andele Street
+          1	Andle Street شارع انديلى
+          1	Anemaen Pension بنسيون أنامين
+          7	Annesley Bay
+          1	Anseba Region Administration الإدارة إقليم أن
+          1	Ansi Street شارع أنسي
+          1	Apron
+          1	Arabi Seif
+          1	Arakebu
+          1	Aratu Street شارع أراتو
+          1	Arauoma
+          1	Araya Grande Restuarant مطعم آريا غراند
+          2	Arbaroba أربروب
+          1	Archeological Park حديقة الآثار
+          1	Arerib Street شارع أرريب
+          1	Areza Street شارع عرزا
+          1	Armaso Street شارع ارماسو
+          1	Arnis Street شارع اميص
+          3	Arr Street شارع آر
+          1	Aruku
+          1	Asdaga
+          2	Aseba
+          1	Asgera Street شارع أسجيرا
+          1	Ashgan أشقان
+          1	Ashurum Street شارع أشوروم
+          1	Asley Yech'Ew Gudgwad
+          1	Asmara - Massawa Old Road طريق قديم أسمرة - م
+         41	Asmara - Massawa Road
+          4	Asmara - Massawa Road / طريق أسمرة - مصوع
+         15	Asmara - Massawa Road طريق أسمرة - مصوع
+         12	Asmara - Massawa Road طريق أسمرة-مصوع
+          4	Asmara -Dekemhare road
+          1	Asmara Bus Company
+          2	Asmara Bus Station محطة حافلات أسمرة
+          1	Asmara Central Hotel فندق أسمرة المركزي
+          1	Asmara English School مدرسة أسمرة الإنجلي�
+          1	Asmara Grande أسمرة كبير
+          1	Asmara International Airport مطار أسمرة الدول
+          1	Asmara Muncipality بلدية أسمرة
+          1	Asmara Palace Hotel فندق أسمرة بالاس
+          1	Asmara Public Library مكتبة أسمرة العامة
+          1	Asmara Stadium استاد أسمرة
+          1	Asmara Swimming Pool حوض سباحة أسمرة
+          1	Asmara Textile Factory مصنع أسمرة للنسيج
+          1	Asmara أسمرة
+          7	Asmara-Massawa Road طريق أسمرة-مصوع
+          1	Asmat
+          3	Assab - Djibouti Border Highway / طريق سريع الح�
+          1	Assab Bypass طريق عصب الاجتنابي
+          1	Assab refinery مصفاة عصب
+          1	Assab عصب
+          1	Assafoka
+          2	Assale Salt Lake
+          3	Asseb - Ethiopian Border Highway
+          1	Asseb - P7 Road / طريق عصب - م ٧
+          1	Asseb International Airport مطار عصب الدولي
+          1	Asseb Street شارع عصب
+          1	Atlanta Street شارع أتلانتا
+          1	Auatib Kebir أواتيب الكبير
+          1	Auatib Seghir أواتيب الصغير
+          1	Auo
+          1	Awali Hut
+          1	Awali-Shaura
+          2	Awash - Assab highway
+          1	Awet Hotel فندق أوت
+          1	Awo Mika'El Bete Kristiyan
+          1	Ayga
+          1	Azmaro Pension أزمارو بنسيون
+          1	Bademit Reservoir خزان بادميت
+          1	Badma Shet'
+          1	Badme بادمة
+          1	Baha'i Center
+          1	Bahti Meskerem Stadium and Mall ملعب بهتي مسكي�
+          2	Baka Street شارع باقة
+          1	Bana Middle School مدرسة بانا المتوسطة
+          1	Banifer بانيفر
+          1	Bank of Eritrea بنك إريتريا
+          1	Banona Street شارع بانونا
+          1	Baptisms التعميد
+          1	Baqla Street شارع باكلا
+          1	Bar & Restaurant Coral بار ومطعم كورال
+          1	Bar & Restaurant Yohana
+          1	Bar Adila
+          1	Bar Alfa Romeo بار ألفا روميو
+          1	Bar Centro
+          1	Bar Durfo
+          1	Bar Ghilay
+          1	Bar Impero
+          1	Bar Isola Verde بار إسولا فيردي
+          1	Bar Jima بار جيما
+          1	Bar Keren بار كرن
+          1	Bar Mereb بار ميريب
+          1	Bar Moka بار موكا
+          1	Bar Posta
+          1	Bar Romano بار رومانو
+          1	Bar Zilli
+          1	Bar Zilli Building (Radio of the 30's) / مبنى بار ز
+          1	Bar and Restaurant "Cinema Dante"
+          1	Bar and Restaurant Pushkin
+          1	Bar and Restaurant Rino بار ومطعم رينو
+          1	Bar and Restaurant Rora حانة ومطعم رورا
+          1	Bar and Restaurant Semhar بار ومطعم سمهار
+          3	Bar and Restaurant حانة ومطعم
+          1	Bar tre Stelle بار تري ستيل
+          1	Baradu بر عدي
+          1	Barakantiyan
+          1	Barattolo cotton plantation
+          1	Baraulo
+          1	Barbershop Happy Family
+         13	Barentu - Ak'ordat road
+          5	Barentu - Ak'ordat road / طريق بارنتو - أغور�
+          1	Barentu Street شارع بارنتو
+          1	Bari Bara Street شارع بيرى بارا
+          1	Bariressu
+          1	Barka
+          1	Barka River
+          1	Barka Street شارع بركاء
+          1	Basha kikia school مدرسة الباشا كيكيا
+          1	Bathi Meskerem Square ساحة بهتي مسكيرم
+          1	Bdho Ave شارع التحدي
+          1	Beilul Street شارع بيلول
+          1	Beirut Street شارع بيروت
+          1	Belesa
+          1	Beleza Street شارع بيليزا
+          1	Beleza lake بحيرة بيليزا
+          1	Beleza بيليزا
+          1	Bella Asmara Café and Snack Bar
+          1	Bera'isolê
+          1	Beraqit Street شارع براقيت
+          1	Berasole Street شارع برعاسول
+          1	Berdeg
+          1	Bereka Café and Fastfood مقهى وفاستفود بير�
+          1	Beret
+          1	Berhe Aiba Hotel and Night Club فندق ونادي ليل�
+          1	Bet Gheorghis Zoo حديقة الحيوانات بيت غي
+          1	Betta Seif بتا سيف
+          1	Bi'Era Shet'
+          1	Bihat St شارع بهت
+          1	Bilha
+          1	Binbina Street شارع بينبينا
+          1	Bini Shoe Shop متجر الأحذية بيني
+          2	Bisha
+          1	Bishnaq Snack Bar مطعم بشناق
+          1	Blieqat Street شارع بليقات
+          1	Blue Bird طائر أزرق
+          1	BlueGold Travel Agency
+          1	Blueberry Gamestore
+          1	Boleli
+          1	Bologna Hotel فندق بولونيا
+          1	Bologna Street شارع بولونيا
+          3	Border Djibouti - Eritrea حدود جيبوتي - إريت�
+         11	Border Sudan - Eritrea
+          1	Bridge
+          2	Bristol Pension
+          1	British War Cemetery
+          1	British War Cemetery مقبرة الحرب البريطان
+          1	Bus Station محطة الباص
+          1	Cabuia
+          1	Cafe
+          2	Cafeteria
+          1	Cafeteria Aughet
+          1	Cafeteria Mantay  مقهن منتي
+          1	Cafeteria Red Sea مقهى البحر الأحمر
+          2	Cafeteria مقهى
+          1	Café
+          1	Café Moderna
+          1	Campo di Marte حقل المريخ
+          1	Capri Hotel and Juice Bar كابري هوتل و جوس ب�
+          1	Casa degli Italiani
+          1	Casa degli Italiani (Gallery)
+          1	Cassali
+          1	Cathedral Shoe Shop
+          1	Cement Factory
+          1	Central Tigray
+          2	Chibu
+          1	Chiesa di San Francesco كنيسة فرنسيس الأسي�
+          1	China Star Restaurant مطعم الصين ستار
+          1	Church of St Michael
+          1	Cimitero Italiano مقبرة الإيطالية
+          1	Cinema Africa سينما إفريقيا
+          1	Cinema Asmara سينما أسمرة
+          1	Cinema Capitol
+          1	Cinema Croce Rosso
+          1	Cinema Impero سينما إمبيرو
+          1	Cinema Roma سينما روما
+          1	City Cake كعكة المدينة
+          1	City Center Sport Club
+          2	City Park حديقة المدينة
+         12	Comaile River
+          1	Comalie River
+          1	Comité International Génève اللجنة الدولية 
+          3	Commercial Bank of Eritrea
+          1	Commercial Bank of Eritrea البنك التجاري الإ
+          4	Commercial Bank of Eritrea البنك التجاري لإر
+          1	Commercial Bank بنك تجاري
+          1	Cona
+          1	Concord Pension
+          1	Consulate of Austria قنصلية النمسا
+          1	Consulate of Sweden قنصلية السويد
+          1	Consulate of Switzerland قنصلية سويسرا
+          1	Container Terminal محطة الحاويات
+          1	Coptic orthodox church of Buc Savino
+          1	Costina Hotel Teseney Eritrea
+          3	Covered Market السوق المغطى
+          1	Crystal Hotel فندق كريستال
+          1	Cududli
+          1	Curoh
+          1	D.A.N Pension بنسيون دان
+          1	Da Fortuna دا فورتشنا
+          1	Da Mariam
+          1	Da'Asa Shet'
+          1	Dabra Snack Bar مطعم الوجبات الخفيفة دا
+          1	Daggaddo
+          1	Dahalak Island Airfield مطار جزيرة دهلك
+          1	Dahlak Archipelago أرخبيل دهلك
+          1	Dahlak Island Resort
+          5	Dahlak Kebir
+          2	Dahlak Kebir دهلك الكبرى
+          1	Dahret داهرت
+          1	Dahrut دلهرت
+          1	Dahul Bahut ذو البوت
+          1	Daiburu
+          1	Dalcus
+          1	Dam
+          1	Damera Pension
+          1	Dandiero Street شارع دانديرو
+          1	Dangish Restaurant
+          1	Daniel Fast Food
+          1	Dankur Fast Food
+          1	Dar Solum دار السلوم
+          1	Dara
+          1	Darrab
+          1	Dase
+          1	Data `Ale
+          1	Dave Café
+          1	Debar دبار
+          2	Debre Bizen
+          1	Debre Mear Street شارع دبر مير
+          1	Debre-Mercurios / Debra Menkôriyos
+          1	Debsh Music Shop متجر موسيقى ديبش
+          1	Debub Regional Administration الإدارة الإقليم
+          1	Degra Mereto
+          1	Dehil دهل
+          1	Dekemhare Street شارع ديكمهار
+          1	Dem Sebai
+          1	Denden Club
+          1	Denden Sport Club
+          3	Denden Street شارع ديندين
+          1	Dengolo Street شارع دينجولو
+          2	Denkel Street شارع دينكل
+          1	Dentai
+          1	Department of Urban Police and Fire Brigade إدارة ال
+          1	Dergoman Kebir درقومان الكبير
+          1	Dergoman Seghir درقومان الصغير
+          1	Derom درم
+          1	Dess
+          1	Dessie (Eritrea) / دسي (إريتريا)
+          1	Dha-n-nafarik ذو النفاريق
+          1	Dhhu-i-ankibat ذو العنكوت
+          1	Dhil Street شارع دحل
+          1	Dhu Ladhiya ذي لاذية
+          1	Dhu-Nishab
+          1	Dhu-i-fidol ذو الفيدول
+          1	Dhu-i-kuff ذو الكوف
+          1	Dhu-rijrij ذو اريجريج
+          1	Dhulalam ذو العالم
+          1	Difnein
+          1	Dighe Hotel قندق دقي
+          1	Dildil Shet'
+          1	Discovery Internet
+          1	Djibouti جيبوتي
+          2	Dogali Bridge
+          1	Doguakum
+          1	Dola Ashwama Bota
+          1	Dongollo دونقولو
+          1	Dorra درة
+          1	Doumeira دميرة
+          1	Dream Park دريم بارك
+          1	Dulakal ذو العقل
+          1	Dulbia ذو البيا
+          1	Duliacus
+          1	Duma Shet'
+          1	Dur Gaam
+          1	Dur Ghelia
+          1	Durrum Seghir درم الصغير
+          1	Durufle
+          1	Eagle Travel النسر السفر
+          1	Eastern Tigray
+          1	Edaga Hamus إيداغا هاموس
+          1	EgyptAir مصر للطيران
+          1	Egyptian Embassy السفارة المصرية
+         35	Eiraeiro
+          1	Elabered Street شارع ايلابريد
+          1	Elementary School مدرسة ابتدائية
+          1	Elsa Bar and Restaurant بار ومطعم إلسا
+          1	Emba Soira
+          2	Embahara Street شارع ايمباهاع
+          1	Embasoira Hotel فندق ايمباسويرا
+          1	Embasoyra Street شارع ايمباسويرا
+          1	Embassy of Djibouti سفارة جيبوتي
+          1	Embassy of Libya سفارة ليبيا
+          1	Embassy of the Federal Republic of Germany سفارة جم�
+          1	Embassy of the Kingdom of Saudi Arabia سفارة المم�
+          1	Embassy of the Republic of South Sudan سفارة جمهو�
+          1	Embassy of the Republic of Turkey سفارة جمهورية
+          1	Embassy of the Republic of Yemen
+          1	Embassy of the Russian Federation سفارة الاتحاد
+          1	Embassy of the United Kingdom of Great Britain and Northern
+          1	Embassy of the United States of America
+          2	Embatkalla إمباتكالا
+          1	Enda Villa أندا فلا
+          1	Engebeto
+          1	Entaentor
+          1	Entaphodof
+          1	Entesila
+          1	Entufash
+          1	Erab Street شارع العرب
+          1	EriNine إريناين
+          1	EriTel Corporation Office
+          1	EriTel Cyber Cafe
+          1	EriTel Service Office
+          1	EriTel إريتل
+          3	Eritel إريتل
+          1	Eritrawit Ade Street شارع إريتراويت آيد
+          1	Eritrea Hotel قندق إرتريا
+          1	Eritrea Institute of Technology
+          1	Eritrea Textiles Factory مصنع إريتريا للمنس
+          1	Eritrean Airlines
+          1	Eritrean Airlines الخطوط الجوية الإريتر�
+          1	Eritrean American Center المركز الأمريكي ال
+          1	Eritrean Demining Authority السلطة الإريترية
+          1	Eritrean Development and Investment Bank البنك الإ�
+          1	Eritrean Institute of Standards معهد المعايير �
+          1	Eritrean Post البريد الإريتري
+          1	Eritrean Postal Service الخدمة البريدية ال�
+          1	Eritro-German Center المركز الإريتري الأل
+          1	Eruya
+          1	Eruya إروتا
+          1	Ethiopia - Djibouti
+          4	Ethiopia - إرتريا
+         32	Ethiopia - إريتريا
+          6	Ethiopia - جيبوتي
+          1	Eucus
+          1	Evobiel-2000 Building
+          1	Ex Mai Adarte
+          1	Expo Hotel فندق إكسبو
+          1	Expo إكسبو
+          1	FLAG Europe-Asia
+          2	Fafah Le
+          1	Family Unite
+          1	Fangaga Street شارع فانقاقا
+          1	Fast Food
+          1	Feledarib
+          2	Felket Avenue شارع فيلكت
+          1	Fenkil Street شارع فنكيل
+          2	Fenkil Street شارع فينيكى
+          1	Fereso Shet'
+          1	Fiat Tagliero فيات تاغليرو
+          1	Fil Fil
+          1	First Police Station أول مركز للشرطة
+          1	Flydubai فلاي دبي
+          1	Footpath Nefasit – Debre Bizen
+          1	Former Banco d'Italia بنك إيطاليا السابق
+          1	Former Imperial Palace القصر الإمبراطوري ا
+          1	Fort حصن
+          1	Forto Street شارع فورتو
+          1	Forto فورتو
+          1	Freedom Pharmacy
+          1	French Embassy السفارة الفرنسية
+          1	French Embassy سفارة فرنسا
+          1	French Memorial النصب التذكاري الفرنسي
+          1	Gabaile
+          1	Gadien
+          1	Gagou غاغو
+          1	Gahtelay قهتيلي
+          1	Garbat
+         17	Gash
+          1	Gash Setit Wildlife Reserve احتياطي الحياة ا�
+          2	Gash نهر القاش
+          1	Gazabanda قذاباندا
+          1	Gejeret جييرت
+          1	General Store مخزن عام
+          1	Genfelom Street شارع جنفلم
+          1	Geregr Sudan Street شارع غريكار السودان
+          1	German Café
+          1	German Kindergarten
+          1	Gharib غاريب
+          1	Ghebro
+          1	Ghedem Bar
+          1	Ghela'elo
+          1	Ghelam Nefhi
+          1	Gherar غرار
+          1	Gheza Banda غيز باند
+          1	Ghinda جندع
+          4	Ghoubet Kharab
+          1	Ghoubet Kharab غربة الخراب
+          1	Giro Fiori جيرو فيوري
+          1	God's Bless Church كنيسة الله المباركة
+          1	Golden Fork Fast Food
+          1	Golfe d'Aden خليج عدن
+          1	Golij غلج
+          1	Gongona
+          1	Government Palace قصر الحكومة
+          1	Green Belt Bar & Restaurant
+          1	Green Island
+          2	Guddalo
+          1	Gufa
+          1	Gulf of Aden خليج عدن
+          9	Gulf of Tadjoura
+          2	Gulf of Tadjoura خليج تاجورة
+          1	Gulf of Zula
+          1	Gura Air 1937-44
+          1	Gurgusum Beach
+          1	Gurgusum Beach Resort
+          1	Haben Bar بار هابن
+          1	Haben Music Shop متجر موسيقى هابن
+          1	Habero Street شارع هيبرو
+          1	Haddas River
+          1	Hadish
+          1	Hager Street شارع هاجر
+          1	Halhal Street شارع حلحل
+          1	Ham Street شارع حام
+          1	Hamasien Pharmacy صيدلية الحماسين
+          1	Hamassien Restaurant مطعم الحماسين
+          1	Hamassien Street شارع الحماسين
+          3	Hamlet
+          1	Haraka Street شارع الحرقة
+          1	Harat هارات
+          1	Harbegnatat Street no 183-7 / شارع هاربفناتات
+          1	Harmil هارميل
+          4	Harnet Avenue شارع الحرية
+          1	Hashange Shet'
+          1	Hayelo
+          2	Hazemo Street شارع حزيمو
+          1	Hdaq Street شارع حداق
+          3	Hday Street شارع هدي
+          1	Heliport
+          1	Hidmona هيدمنا
+          1	High Court of Eritrea المحكمة العليا لإري�
+          1	High school Adi Kwala مدرسة ثانوية عدي كوا
+          1	Himbirti water reservoir
+          2	Himbol Exchange
+          1	Himbol Street شارع هيمبول
+          1	Hishmele Street شارع اشمولى
+          1	Hotel
+          1	Hotel Central فندق الوسطى
+          1	Hotel Denden
+          1	Hotel Enbaba فندق إنبابا
+          1	Hotel Momona فندق مومونا
+          1	Hotel Savoia فندق سافويا
+          1	Hotel Semhar
+          1	Hotel Sicilia فندق سيسيليا
+          1	Hotel Torino فندق تورينو
+          1	Hotumlo General Trading هتوملو للتجارة الع�
+          1	Housing Bank بنك الإسكان
+          1	Housing Complex مجمع سكني
+          1	Housing and Commerce Bank of Eritrea البنك العقا�
+          1	H̱amra
+          1	H̱orod le ‘Ale
+          1	Idit Street شارع إديت
+          1	Igersahto Street شارع اغرساهتو
+          3	Imbaderoh Street شارع امباديرو
+          1	Imbeyto Street شارع أمبيتو
+          1	Indalilo Shet'
+          1	Industrial Area منطقة صناعية
+          2	Insurance تأمين
+          1	Internet Café New Horizon مقهى إنترنت نيو ه�
+          1	Iremle
+          1	Irga
+          1	Isola Verde Hotel
+          2	Isra-tu إسرا تو
+          1	Italian Embassy السفارة الإيطالية
+          1	Italian war cementery مقبرة الحرب الإيطال�
+          1	Jerom جيروم
+          1	Jesus Christ Church كنيسة يسوع المسيح
+          1	Jimhil جيمهيل
+          1	Jolly Juwelery and Souvenirs
+          1	Joy Center Internet Café
+          1	Jufa جوفا
+          1	K'Ech'Aro
+          1	K'Ezk'Eziya
+          1	Kad Jerom كاد جيروم
+          1	Kad Norah
+          1	Kad-Hu
+          1	Kafta-Shiraro National Park
+          1	Kahawta كاهوت
+          1	Kalay Temen
+          1	Kallîda كاليدا
+          1	Karibosa Street شارع كاريبوسا
+          1	Kaḏḏa Dâbali
+          8	Keren - Asmara Road / طريق كرن - أسمرة
+          1	Keren Hotel فندق كرن
+          1	Keren Street شارع كرن
+          1	Keren Villaggio كرن قرية
+          1	Keskese Street شارع كسكس
+          1	Keskese Street شارع كسكيس
+          1	Keyh Bahri Street شارع كيه بحري
+          1	Khager Khise
+          1	Khalay
+          1	Khartoum Hotel فندق الخرطوم
+          1	Kidane Meheret Catholic Church كيدين مهريت الك
+          1	Kidane Meheret Church كنيسة كيدين مهريت
+          1	Kieru Street شارع كيرو
+          1	Kitkat Bar, Restaurant and Pastry
+          1	Kokab Tesbah elementary school
+          1	Koken Street شار ككن
+          1	Kokho Shet
+          1	Kooama حي كونامـا
+          1	Koomaylee
+          1	Kostina فندق كوستينا
+          1	Kudo Korebta
+          1	Laaliao Street شارع لاليو
+          1	Laba Street شارع لابا
+          1	Lacado
+          1	Lasguddi
+          1	Lemi Shet'
+          1	Lets'At Shet'
+          1	Ligat
+          1	Liggiamet Fast Food
+          1	Lion Hotel فندق الأسد
+          1	Lolyana Restaurant مطعم لوليانا
+          1	Luna Hotel فندق لونا
+          1	Ma'ereba
+          1	Maamide Street شارع محمد
+          1	Magaheuma
+          1	Magdille
+          1	Maglaba
+          2	Mahun ماهون
+          2	Mai Atal
+          1	Mai Bela
+          1	Mai Bela Avenue شارع ماي بيلا
+          1	Mai Bela Avenue شارع ماي بيلا بيلا
+          2	Mai Bela Avenue شارع ميا بيلا
+          3	Mai Bela ماي بيلا
+          1	Mai Jah Jah Water Fountain نافورة المياه مي �
+          1	Mai Lam Street شارع ماي لام
+          1	Mai Uoddac
+          1	Maiam, Eritrea
+          1	Malak ملاك
+          1	Mallahle
+          1	Manna Restaurant مطعم منى
+          1	Mariam Dearit Shrine
+          1	Mariam Debre sina
+          1	Mariam church كنيسة مريم
+          1	Market
+          1	Marsa Fatuma Street
+          2	Marsa Fatuma Street شارع مرسى فاطمة
+          1	Marsa Teklay Avenue شارع مرسى تيكلى
+          1	Martaban مارتامام
+          1	Massawa - Asseb Highway / طريق سريع مصوع - عص
+          8	Massawa - Asseb highway
+          1	Massawa Bus Station محطة حافلات مصوع
+          1	Massawa Channel
+          1	Massawa College of Marine Science and Technology كلية �
+          1	Massawa Guest House مصوع دار الضيافة
+          1	Massawa Hospital مستشفى مصوع
+          1	Massawa International Airport مطار مصوع الدول�
+          1	Massawa Port Authority هيئة ميناء مصوع
+          1	Massawa Street شارع مصوع
+          1	Massawa مصوع
+          1	Massawa-Port / مصوع-ميناء
+          1	Massawa-Taulud / مصوع-تولود
+          4	Masswaw - Asseb highway
+          1	Mata Street
+          3	Mata Street شارع ماتئا
+          1	Maurri
+          1	May Degwale
+          1	May Dima
+          1	May Gebeta
+          1	May Meshchereb
+          1	May Mne Bus Station
+          1	May Tola
+          1	May mne Junior School
+          1	Meda Eritrea ميدا إريتريا
+          1	Meda Kanza
+          1	Medeber Market سوق مدبر
+          1	Medeber secondhand market سوق المستعملة مدب�
+          1	Medhin Alem Church كنيسة مدهين أليم
+          1	Mekane Hiwot Hospital مستشفى ميكان هيوت
+          1	Melebso
+          1	Melotti Brewery ميلوتي بيرة
+          1	Memorial Plaza for Victims of Massawa Battle النصب ا�
+          1	Memoriale النصب التذكاري
+          1	Mendefera Street شارع مندفيرا
+          1	Mequam
+          1	Merafit Street شارع ميرافيت
+          1	Mereb Hotel فندق مرب
+          1	Mereb Street شارع ميريب
+          1	Merhaba
+          1	Messekha
+          1	Metera Street شارع ميترا
+          1	Mezba
+          1	Mgarh middle school مدرسة مقارح الإعدادي�
+          1	Michael Church كنيسة القديس ميخائيل
+          1	Midian Hotel فندق ميديان
+          1	Mihram Chira ميهرم كير
+          1	Minasie Internet Cafe
+          1	Ministery of Finance - Zoba Debub / وزارة المالي
+          2	Ministery of Information
+          1	Ministery of Land, Water and Environment;Water Ressource De
+          1	Ministery of Local Government وزارة الحكمات ا�
+          1	Ministery of Tourism – Tourism Office
+          1	Ministry of Agriculture وزارة الزراعة
+          1	Ministry of Education وزارة التربية والتع�
+          1	Ministry of Education, Maekel Branch وزارة الترب�
+          1	Ministry of Finance - Customs Department / وزارة ال�
+          1	Ministry of Finance وزارة المالية
+          1	Ministry of Information وزارة الإعلام
+          1	Ministry of Land, Water and enviroment وزارة الأر�
+          1	Ministry of Tourism وزارة السياحة
+          1	Ministry of Trade and Industry وزارة التجارة و
+          1	Mirsa'I Shet'
+          1	Misgwag
+          1	Modern Snack Bar
+          1	Mogdali
+          1	Mogolo Street شارع موقولو
+          1	Momona Fast Food, Restaurant and Bar
+          2	Moncullo منكولو
+          1	Monte Garoiti
+          1	Monte Hal-Hal
+          1	Monte Roda
+          1	Monumento ai caduti نصب تذكاري للحرب
+          1	Monumento alla Battaglia di Dogali
+          1	Mora مورا
+          1	Mt Galala (117m)
+          1	Multi Sports Club (Bowling Center) / نادي رياضي م
+          1	Mumat Aite Ghebresghi
+          3	Muna
+          1	Municipality of Asmara, Department of Water Supply
+          1	Nabro
+          1	Naheleg ناهلج
+          1	Naib Photocopy
+          1	Nakfa Airport مطار ناكفا
+          7	Nakfa Avenue شارع نقفة
+          1	Nakfa House بيت نقفة
+          1	Nakfa ناكفا
+          1	Nation Museum of Eritrea متحف إريتريا الوطن
+          1	National Bank of Eritrea البنك الوطني لإرتر
+          1	National Union of Eritrean Youth and Students (NUEYS)
+          1	Nauret نورت
+          1	Nda Mariam Garden حديقة اندا مريم
+          1	Nefasit نفاسيت ነፋሲት
+          1	New Fork Restaurant
+          1	Nora Street شارع نورا
+          1	Norah Adasi نورة أداسي
+          1	Norah Seif
+          2	Norah نورة
+          1	Northern Red Sea Region Museum متحف منطقة شمال
+          1	Northern Red Sea Region Office مكتب منطقة شمال
+          1	Northern Red Sea Regional Administration الإدارة م�
+          1	Nyala Hotel فندق نيالا
+          1	Oasis Travel واحة السفر
+          1	Obock أوبوك
+          1	Odar
+          1	Odeon أوديون
+          1	Ogud
+          1	Old Airport المطار القديم
+          1	Old Apron المريلة القديم
+          1	Old Market السوق القديم
+          1	Old Nat. Road
+          2	Old National Road
+          1	Old Road Asmara-Massawa
+          1	Old Runway
+          1	Old Town المدينة القديمة
+          4	Old railway Asmara-Keren
+          3	Old railway Asmara-Keren سكة حديدية قديمة أ�
+          1	Olympia Cyber Cafe
+          1	Olympic Sport Shop
+          4	Om Hajer - Teseney road
+          1	Omartu Barculli
+          1	Open Market سوق مفتوح
+          1	Orthodox Church الكنيسة الأرثوذكسية
+          2	Otumlo أوتوملو
+          1	Ounḏa Dâbali
+          1	P.M. Durfo ب م دورف
+          1	Palm Bar and Restaurant
+          1	Pasta factory
+          2	Patriots Cemetery مقبرة الوطنيين
+          1	Peacock Bar
+          1	Pension Luna
+          1	People's Front for Democracy and Justice جبهة الشع�
+          1	People's Front for Democracy and Justice, Red Sea Zone جب
+          1	Petrol Station محطة بنزين
+          1	Petrol بنزين
+          1	Pharmacy No. 1 / صيدلية رقم 1
+          1	Pharmacy No. 1 / صيدلية رقم ١
+          1	Pharmacy No. 5 / صيدلية رقم 5
+          1	Piste Assa-Gaila - Daddato
+          1	Piste Daddato - Alaïli Dadda
+          1	Piste Daddato - Madgoul
+          4	Piste d'Adgueno
+          1	Piste d'Agueno
+          1	Piste du Moussa Ali مسار موسى علي
+          1	Post Office مكتب البريد
+          1	Power Plant محطة توليد الكهرباء
+          1	Pozzo Sireru
+          1	Principe Italian School
+          1	Principe Italian School المدرسة برينسيب ال�
+          1	Public Library مكتبة عامة
+          1	Radio Marina راديو مارينا
+          4	Rahayta Street شارع راهيتا
+          1	Rahayta راهيتا
+          1	Rahwa primary school مدرسة راهوا الابتدائ
+          1	Rail Halt توقف السكك الحديدية
+          1	Railway Station محطة قطار
+          1	Raka راكا
+          1	Rapto
+          1	Ras Doumeira رأس دميرة
+          1	Rauiyan-Shet
+          1	Reboa Street شارع ريبو
+          1	Red Sea Building مبنى البحر الأحمر
+          1	Red Sea Hotel فندق البحر الأحمر
+          1	Referendum Street شارع الاٍستقتاء
+          1	Rendezvous Restaurant مطعم راندفو
+          1	Resort
+          1	Restaurant & Pizzeria Ararat مطعم وبيتزا أرار
+          1	Restaurant Wedi Akbe مطعم ودي أكبه
+          1	Restaurant and Butcher
+          1	Rimon Fast food ريمن وجبات سريعة
+          1	Riyuma ريوما
+          1	Romle Street شارع رملة
+          1	Roof Garden حديقة السطح
+          1	Rora Habab Street شارع رورا حباب
+          1	Rora Mensaa Street شارع رورا مينسا
+          1	Ruba Anseba Street شارع روبا أنسيبا
+          1	Ruba Gereba
+          1	Rubayta
+          1	Russian Air Cafe مقهى الجوية الروسية
+          1	SS. Peter and Paul Church
+          1	Saba Development Building بناء التنمية سابا
+          1	Sagar
+          1	Sahaba Shrine ضريح الصحابة
+          5	Sahil Avenue شارع ساحل
+          1	Saint Joseph's Cathedral كاتدرائية القديس ي
+          1	Saint Michael
+          1	Saint Michael's Church
+          1	Sakakto Yedur Bota
+          1	Salam Supermarket سوبرماركت السلام
+          1	Salt Ponds برك الملح
+          1	Samotat Street شارع ساموتات
+          2	San Francisco سان فرانسيسكو
+          1	Sangoyta
+          1	Santa Yedur Bota
+          1	Sarad ساراد
+          1	Sarkali
+          1	Savanna International Hotel فندق سافانا الدو�
+          3	Sawa Street شارع ساوا
+          1	Sayin ساين
+          1	Scie
+          1	Sebakha Shet
+          1	Sebe'a
+          1	Seghen International Hotel فندق دولي سيغن
+          1	Seghen Restaurant مطعم سيغن
+          1	Seglet Shet'
+          1	Selam Street شارع سلام
+          1	Seloda Street شارع سلد
+          1	Sematat Avenue
+          6	Sematat Avenue شارع الشهداء
+          1	Sembel Hospital مستشفى سمبل
+          1	Senafe Street شارع صنعفي
+          1	Senay Supermarket سوبر ماركت سني
+          1	Senech
+          2	Senhit Street شارع سينهيت
+          1	Seraye Street شارع سراي
+          1	Series of Towers
+          1	Sesen Pasticceria
+          2	Setit نهر سيتيت
+          1	Shaafi Mosque مسجد الشافعي
+          1	Sheba Street شارع شيبة
+          1	Shegali Street شارع شيغالي
+          1	Sheghey Hotel فندق شغي
+          1	Sheikh Hanafi Mosque مسجد الشيخ حنفي
+          1	Sheikh al Abu الشيخ الأب
+          1	Shida Monument نصب شيدا
+          1	Ship wreck
+          1	Shmangus Street شارع شامنجوس
+          1	Shrimp Ponds
+          1	Sidiha Menguêla
+          1	Sidona Pastry حلويات سيدونا
+          1	Siem Stationery قرطاسية سيم
+          1	Sigalet Center, Bar and Cinema مركز وبار وسينم
+          1	Sikan Seif
+          1	Silver Star Restaurant مطعم سيلفر ستار
+          1	Simbel Housing Estate سمبل الإسكان العقار�
+          1	Simon Snack Bar سيمون سناك بار
+          1	Sinfa
+          1	Site of Villa Melotti موقع فيلا ميلوتي
+          1	Siye Recreation Center
+          1	Smoking Club
+          1	Snack Bar "Aswfaw Ghirme" / بار الوجبات الخف�
+          1	Snack Bar Eritrea مطعم للوجبات الخفيفة إ
+          1	Snack Bar Nakfa سناك بار ناكفا
+          1	Sona Fast Food سونا وجبات سريعة
+          1	Sorcale
+          1	Sorgaale
+          1	Sork Ale
+          1	Spaghetti & Pizza House بيت سباغيتي وبيتزا
+          1	St Mary's Psychiatric Hospital Sembel مستشفى سانت
+          1	St Marys/Mariam سانت مريم
+          1	St Michael رئيس الملائكة ميخائيل
+          1	St. Anna القديسة حنة
+          1	St. Ghiogis
+          1	St. Joseph Secondary School مدرسة القديس يوس�
+          1	St. Mariam Dearit
+          1	St. Maryam Cathedral كاتدرائية القديس مري
+          1	St.Micheal Church
+          2	Stadium
+          1	Stadium ملعب
+          1	Subucle
+          1	Sudan Club النادي السوداني
+          1	Sun Light Café and Pastry
+          1	Sun Shine Hotel فندق سنشاين
+          1	Sunshine Hotel فندق سنشاين
+          1	Swedish Consulate القنصلية السويدية
+          1	Sweet Asmara Cafe سويت أسمرة كافيه
+          1	Takazze
+          1	Takhe
+          1	Taladidafarda
+          1	Tamoil Office
+         12	Tamoil تام أويل
+          1	Tamsa
+          1	Tamucle
+          1	Tanam
+          2	Tanks Cemetery مقبرة الدبابات
+          1	Tarua
+          1	Taulud تولود
+          1	Teachers' Club Head Office المكتب الرئيسي لن
+          1	Tegadelti Street شارع المناضلين
+          1	Tekezé River نهر سيتيت
+          1	Tellina
+          1	Teramni
+          1	Terminal طرفية
+          1	Terminal محطة المطار
+          2	Teseney - Ak'ordat
+         23	Teseney - Barentu road
+         21	Teseney - Sebderat road
+          1	Teseney Street شارع تيسيني
+          1	The Blue Building
+          1	The Red Oven Pastry
+          1	The Sun Pizza and Fastfood
+          1	Tigray
+          1	Tiravolo تيرافل
+          1	Tiyo طيعوا
+          1	Toboho
+          1	Tolka
+          1	Top Five Hotel فندق توب فايف
+          1	Torrente Gorba
+          1	Torrente Haiba
+          1	Torrente Savanahati
+          1	Torrente Scaroda
+          2	Total
+          1	Total Gas Station محطة غاز توتال
+          8	Total توتال
+          1	Total توتال مانتاي تواليت
+          1	Tourist Hotel فندق السياحية
+          1	Traffic Police, Central Zone / شرطة المرور، ال
+          1	Triple "H" Cyber Café
+          1	Ts'Ahwa
+          1	Tsabray Hotel
+          1	Tsolot تسولت
+          1	Tug Uad Amburai
+          1	Tukuliti
+          1	Turkey السفارة التركية
+          1	Turkish Airlines الخطوط الجوية التركية
+          1	Turkish house البيت التركي
+          1	Tzada Christian تزادا المسيحي
+          1	Tzerena
+          1	UN Builing مبنى الأمم المتحدة
+          1	Uerta
+          1	Umm Ali
+          1	Umm Hajar - Teseney road طريق أم هاجر - تسني
+          1	Umm Hajar Street شارع أم هاجر
+          1	Umm es Sahring
+          1	Unguia
+          1	United Nations Office مكتب الأمم المتحدة
+          1	United States Embassy سفارة الولايات المت�
+          1	University of Asmara جامعة أسمرة
+          1	Unknown Town / مدينة غير معروف
+          1	Verta
+          1	Veyma
+          1	Villa Roma (Italian embassy Residence) / فيلا روما 
+          6	Village
+          2	Village قرية
+          1	Volcano بركان
+          1	Vulcano Vertaddaba
+          1	Waka Fast Food واكا للوجبات السريعة
+          1	Warsay Street شارع وراسى
+          1	Wedeb Hotel فندق ودب
+          1	Wedjeba Street شارع وجبا
+          1	Wekerti
+          2	Wekiro وكئرو
+          1	Western Tigray
+          1	Wheat Flour Factory مصنع دقيق القمح
+          1	Wide Hiyab Snack Bar ويده هياب سناك بار
+          1	Wikianos Supermarket سوبرماركت ويكيانس
+          1	Wintana Fast Food
+          1	Wintana Fast Food وينتانا للوجبات السري�
+          1	Wusta Seif ووستا سيف
+          1	Wusta ووستا
+          1	Yasmin Cafeteria مقهن ياسمين
+          1	Yemenia – Yemen Airways
+          1	Yohannes / يوهنس
+          1	Yoli Fast Food
+          1	Zalambessa ዛላአንበሳ
+          1	Zara Bar بار زارا
+          1	Zara Guest House منزل الضيف زارا
+          1	Zara زارا
+          1	Zemen Elecronics  إلكترونيات زيمن
+          2	Zoba Maekel Court House
+          1	Zonal Referral Hospital Ghinda مستشفى الإحالة 
+          1	Zone 1
+          1	Zone 2
+          1	bus station
+          1	home sweet home البيت السعيد
+          1	old road
+          1	old road طريق قديم
+          1	sagem high school
+          1	Āk'ordat Hospital مستشفى أغوردات
+          1	آل موسى عثمان شابري / Al Musa Usman Hibra
+          1	أد رفي Ad Refai
+          1	أردا Aredda
+          1	أسمرة አስመራ Asmara
+          1	أغوردات
+          1	أغوردات Agordat
+          1	أفت Afta
+          1	أفعبت
+          1	أم هاجر
+          1	أم هاجر Umm Hajar
+          1	أملي‎‎
+          1	أندا فلا
+          1	أوكارو Augaro
+          1	إد Edd
+          1	إد Iddi
+          1	إقليم عنسبا Zoba Ānseba
+          1	إليت
+          1	إليوشن إي أل-٧٦
+          1	إمبا درهو Emba Derho
+          1	استاد سيسرو Cicero Stadium
+          1	استكشاف إريتريا Explore Eritrea
+          1	الجين Algena
+          1	السابقة عسكري الإيطالية Ancien poste m
+          1	السودان
+          1	السودان - Ethiopia
+          1	السودان - إريتريا
+          1	السوق المغطى للالفواكة والخضروا
+          1	السوق المغطى للملابس
+          1	الطريق السريع مصوع - عصب Masswaw - Asseb
+          1	الغدن Algheden
+          1	القاش
+          1	القاش Gash
+          1	القاش وبركا ጋሽ-ባርካ
+          1	القطار The Train
+          1	الكنيسة الأرثوذكسية القديس مايك
+          1	الكنيسة الأرثوذكسية سانت مريم
+          1	المدرسة الثانوية صنعفي
+          1	المسجد المركزي صنعفي
+          1	المسجد المركزي عدي قيح
+          1	المسجد المركزي غلج
+          1	المسجد المركزي مصوع
+          1	المقبرة الإيطالية Italian Cemetery
+          1	المنطقة الجنوبية Debub
+          1	المنطقة المركزية Zoba Ma’ākel
+          1	المنطقة المركزية ዞባ ማእከል
+          1	اليمن
+          1	انجيناق / Enginaq
+          1	ب م دورف
+          1	بارنتو ባረንቱ Barentu
+          1	بتسئعي دسيت
+          1	برسا Baresa
+          1	بريخ
+          1	بيبن Bibinna
+          1	بيت انسيان Bet Ansian
+          4	بيشا Bisha
+          1	بيلول Beilul
+          1	بيليزا
+          1	تاجورة Tadjourah
+          1	تزادا المسيحي
+          1	تسازيغا
+          1	تسازيغا Tsazega
+          5	تسني - أغوردات / Teseney - Ak'ordat
+          1	تسني Teseney
+          1	تسيرونا
+          1	تسيرونا Tserona
+          1	تعز
+          1	تغيير Exchange
+          1	توتال براكي غلج
+          1	توكمبي Tocombia
+          1	تولود
+          1	جامع  أبي
+          1	جزيرة موشا
+          1	جندع Ghinda
+          1	جورنا Jurna
+          1	جوندت
+          2	جوندت Dogali
+          1	جوني
+          1	جيبوتي (مخطط)
+          1	جيبوتي - إريتريا
+          2	جيبوتي - الصومال
+          1	حرقيقو
+          1	حرقيقو Hirghigo
+          1	حقاز Hagaz
+          1	حلحل Halhal
+          1	حي عد حشل
+          1	حي كونامـا
+          1	خلب Gheleb
+          4	خليج تاجورة Gulf of Tadjoura
+          1	دادتو Daddato
+          2	دامس Damas
+          1	دايرو باولس
+          1	دباروا Debarwa
+          1	ددا Dedda
+          1	دقمحري Dekemhare
+          1	دكسا Digsa
+          3	دهلك كبير Dahlak Kebir
+          1	دوار شارع ساحل
+          1	دوار شارع موقولو
+          1	دورة مياه عامة ماي بلا
+          1	ديقا أفوما
+          1	رأس مدور
+          1	راهيتا
+          1	ركن الحلو
+          1	زولا Zula
+          1	سالينا / Salina
+          1	سبديرات Sebderat
+          1	سخناتي Segeneiti
+          1	سفارة جمهورية السودان
+          1	سنكات
+          1	سوا مركز تدريب الدفاع SAWA Defence Traini
+          1	سوبرماركت عدي قيح
+          1	سوپر مارکت غيروي
+          1	سيريجاكا
+          1	سينما
+          1	شارع 112-12
+          1	شارع 117-2
+          1	شارع 172-4
+          1	شارع ادى - شامجلى
+          1	شارع الشهداء
+          1	شارع العرب
+          2	شارع ايمباهاع
+          1	شارع بادا 746-6
+          3	شارع بولونيا Bologna Street
+          1	شارع رئيسي
+          1	شارع رئيسي Main Street
+          1	شارع رورا مينسا
+          5	شارع ساحل
+          2	شارع كاريبوسا
+          1	شارع كسكيس
+          1	شارع كوكن
+          3	شارع ماي بيلا
+          1	شارع ماي لام
+          2	شارع مريم غمب Maryam Gmbi Street
+          1	شارع موقولو
+          4	شارع ميا بيلا
+          1	شارع ميريب
+          2	شارع نفاقا
+          1	شارع هارنت
+          1	شارع هازيغا Hazega Street
+          1	شارع ١٧٦-٥ / شارع 176-5
+          1	شارغ إرا
+          1	شامبيكو Shambiko
+          1	شرطة
+          1	شرهي Sherhi
+          1	صندوق بريد فرع مدينة كرن
+          1	صنعفي
+          1	صنعفي ሰንዓፈ Senafe
+          6	طريق أسمرة - مصوع
+          7	طريق أغوردات - كرن
+          2	طريق أم هاجر - الحمرا
+          3	طريق أم هاجر - تسني
+          1	طريق طيعوا
+          2	طريق قديم أسمرة - مصوع
+          5	طريق كرن - أسمرة
+          1	طريق كرن الزهرة
+          3	طريق مصوع - عصب
+          1	طريق نورت
+          1	طوكر
+          1	طيعوا
+          1	عبد القادر يميدير لانكأ
+          1	عدي تيكلزان
+          1	عدي تيكلزان Adi Tekelezan
+          1	عدي علي باكيت
+          1	عدي قيح
+          1	عدي قيح ዓዲ ቀይሕ Adi Keyh
+          1	عدي كوالا
+          1	عدي كوالا Adi Kwala
+          1	عرزا Areza
+          1	علابرعد‎‎
+          1	علابرعد‎‎ Elabered
+          1	علابرعد‎‎ Elaberet
+          1	علي غدير Aligider
+          1	عنسبا Anseba
+          1	عنسبا ዞባ ዓንሰባ
+          1	غدن
+          1	غرار
+          1	غربة الخراب Ghoubet Kharab
+          1	غلا نفي
+          1	غلج
+          1	فندق الحماسين ‎‎ Hamasien Hotel
+          1	فندق الزيمناوي الحديث
+          1	فندق الساحل
+          1	فندق دهلك Dahlak Hotel
+          1	فندق سلام
+          1	فندق صنعفي
+          1	فندق مركزي
+          1	فندق هيلين
+          2	فورو Foro
+          1	قرية
+          8	قرية Village
+          1	قرية مجهول Unknown Village
+          1	قصر الحكومة Government Palace
+          1	قـذابانـدا
+          1	قوأتيت Qua'atit
+          1	قورع‎‎
+          3	كارورا
+          1	كرن
+          1	كسلا
+          1	ككدا Chechedda
+          1	كنتو Kinto
+          6	كنيسة
+          1	كنيسة كاثوليكية سانت ميخائيل
+          1	متارا Matera
+          1	متجر أجهزة إلكترونية تقنية أي إم
+          1	متنزه الساحل
+          1	مجمع السلام الطبي Salam Polyclinic
+          1	محطة أسمرة الوسطى
+          1	محطة بنزين توتال
+          1	محطة وقود توتال
+          1	محطة وقود توتال سابا إداغا
+          1	مدرسة
+          1	مدرسة أربروب
+          1	مدرسة أسمرة الشاملة Asmara Comprehensive S
+          1	مرسا فاطمة Mersa Fatma
+          1	مستشفى صنعفي
+         13	مسجد
+          1	مسجد أم هاجر
+          1	مسجد أوليي حاحيلو
+          1	مسجد حاحيلو
+          1	مسجد حرقيقو
+          1	مسجد راهيتا
+          1	مسجد زولا Zula Mosque
+          1	مسجد صنعفي
+          1	مسجد طيعوا
+          1	مسجد عد سيد
+          1	مسجد عدي قيح
+          1	مسجد مصوع
+          1	مسجد مندفرا
+          1	مصوع-تولود - أرخبيل دهلك
+          1	مصوع-تولود - جزيرة الجنوب - أرخبي�
+          2	مطار Airport
+          1	مطار بارنتو Barentu Airport
+          1	مطار تسني Tessenei Airport
+          1	مطعم غرمي لونا
+          1	مطعم ماروسو Maroso Restaurant
+          1	مقبرة
+          1	مقهى إشبيليا
+          1	مقهى تكنولوجيا عالية الإنترنت
+          1	مقهى هاليبو
+          2	مك إركا
+          1	ملعب رياضي
+          1	ملعب كرة القدم
+          1	ملعب مندفرا
+          2	منتجع الجزيرة دهلك Dahlak Island Resort
+          1	مندفرا
+          1	مندفرا መንደፈራ Mendefera
+          1	منزل حامد / Hamid's house
+          1	منطقة البحر الأحمر الجنوب Zoba Debuba
+          1	منطقة البحر الأحمر الجنوب ዞባ ደ�
+          1	منطقة البحر الأحمر الشمال Zoba Semēn
+          1	منطقة البحر الأحمر الشمال ዞባ ሰ�
+          1	منطقة القاش وبركا Zoba Gash-Barka
+          1	منكولو
+          1	موسى علي
+          1	ميركاتو Mercato
+          1	ميناء عصب
+          1	ناكفا
+          1	ناكفا ናቕፋ Nakfa
+          1	نصب بوشكين Pushkin Monument
+          1	نفاسيت Nefasit
+          2	نهر أليجيده Aligedhe River
+          1	نهر بركة‎ / Barka
+          1	نورت
+          1	هابرنتا
+          1	هازيغا‎‎
+          1	هاكوتا Haykota
+          1	هاليب مينتل
+          2	هاليب مينتل Halib Mentel
+          1	همبيرتي
+          1	همبيرتي Himberti
+          1	همشكوريب
+          1	هورين Horena
+          1	هينزي
+          1	واد أم هاجر
+          1	واد غلج
+          3	واد وكئرو
+          1	ولاية البحر الأحمر
+          1	ولاية كسلا
+          4	ويما Ouéima
+          1	ምጽዋ مصوع Massawa
+          1	ቃሮራ Karora
+          1	ንመሸጣ ኣቕረበ / السوق / Market
+          1	ኢትዮጵያ
+          1	ኣቆርዳት أغوردات Agordat
+          1	ኣቆርዳት أغوردات الجامع الكبير
+          1	ኣቆርዳት مقابر مدينة اغردات اوتي
+          1	ኣፍዓበት أفعبت Af'Abet
+          2	ኤርትራ إرتريا
+          1	ከረን / Keren Bus Station / محطة الباص كرن
+          1	ከረን كرن
+          1	ከረን كرن Keren
+          1	ካልኣይ ደረጃ / مدرسة ثانوية / Secondar
+          1	ዕርዲ / حصن / Fort
+          1	ዞባ ደቡብ المنطقة الجنوبية Southern Z
+          1	ፈልፋሊ ማይ / مصدر الدافئ / Warm spring
+          1	‎‎ Hamasien Hotelفندق الحماسين
+          1	‘Ounḏa Kômaytou

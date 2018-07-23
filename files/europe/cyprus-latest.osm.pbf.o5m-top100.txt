@@ -1,0 +1,99 @@
+        597	E4
+        123	Spyrou Kyprianou Avenue
+         79	Makariou III
+         66	Grigori Afxentiou
+         63	Griva Digeni Avenue
+         60	Bank of Cyprus
+         56	Petrolina
+         56	Makariou III Avenue
+         51	Franklin Roosevelt Avenue
+         49	Artemidos Avenue
+         45	Athinon
+         44	b
+         44	Omirou
+         43	Lefkoşa - Güzelyurt Anayolu
+         41	EKO
+         40	Evagora Pallikaridi
+         40	Esso
+         40	Agiou Georgiou
+         39	28 Oktovriou
+         38	Kyriakou Matsi Avenue
+         38	Arch. Makariou III
+         37	Griva Digeni
+         37	Cart Path
+         36	Inomenon Ethnon
+         35	Makedonias
+         34	Vasileos Georgiou I
+         34	Leof. Tafon ton Vasileon
+         34	Dimokratias Avenue
+         34	Atatürk Caddesi
+         33	Doktor Fazıl Küçük Boulevard
+         33	Anexartisias
+         32	Kyriakou Matsi
+         32	Faneromenis Avenue
+         32	Agios Georgios Avenue
+         30	Strovolou Avenue
+         30	Salaminos
+         30	Poseidonos Avenue
+         30	Larnakos
+         30	Kantaras
+         29	Markou Drakou
+         29	Kaledonia trail
+         29	Eleftherias
+         29	Ektoros
+         28	Stadiou
+         28	Omonoias Avenue
+         28	Leoforos Amathountos
+         28	Bedreddin Demirel Caddesi
+         28	Agios Georgios
+         27	Karpaz Anayolu
+         27	Apostolou Varnava
+         26	Şehit Mustafa Ruso Caddesi
+         26	Spyrou Kyprianou
+         26	Pizza Hut
+         26	Pafou
+         26	Megalou Alexandrou
+         26	Kolokotroni
+         26	Apostolou Pavlou
+         25	Smyrnis
+         25	Nicosia-Limassol Highway
+         25	Eleftherias Avenue
+         25	Artemidos
+         24	Kimonos
+         24	Kerkyras
+         24	Ithakis
+         24	Hellenic Bank
+         24	Giannou Kranidioti Avenue
+         24	Ermou
+         24	Christaki Kranou
+         24	Athanasiou Diakou
+         24	Agias Marinas
+         23	Şehit Ecvet Yusuf Caddesi
+         23	Stylianou Lena
+         23	Limassol-Nicosia Highway
+         23	Karava
+         23	Iroon Avenue
+         23	Eko
+         23	Dimou Irodotou Street
+         22	Sotiraki Makridi
+         22	New Port Road
+         22	Kosti Palama
+         22	F. Papakyranaiou
+         22	Axiou
+         21	Iroon
+         21	Hellados Avenue
+         21	Georgiou Griva Digeni
+         21	Evagorou
+         21	1c
+         20	Platonos
+         20	Navarinou
+         20	Mehmet Akif Caddesi
+         20	Marathonos
+         20	Lidl
+         20	Lapithou
+         20	Athinas
+         20	Apostolou Andrea
+         20	Apollonos
+         19	Stavrou
+         19	Solonos
+         19	Piyiale Pasa

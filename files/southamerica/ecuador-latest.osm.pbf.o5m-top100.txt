@@ -1,0 +1,100 @@
+        344	casa
+        330	Calle A
+        300	Calle C
+        298	Calle B
+        285	Calle D
+        279	Eloy Alfaro
+        274	Sucre
+        260	Avenida Simón Bolívar
+        254	Avenida de las Américas
+        250	Avenida 10 de Agosto
+        247	Juan Montalvo
+        241	Troncal de la Costa
+        215	Cementerio
+        207	Calle E
+        203	Avenida Mariscal Sucre
+        202	Quito
+        194	Panamericana
+        194	Calle 3
+        194	Calle 2
+        184	Avenida 6 de Diciembre
+        183	Calle 1
+        181	Guayaquil
+        180	Bolivar
+        177	Avenida General Eloy Alfaro
+        171	Calle F
+        170	Avenida Oswaldo Guayasamín
+        169	Eugenio Espejo
+        169	Avenida Pedro Vicente Maldonado
+        168	Garcia Moreno
+        168	10 de Agosto
+        165	Calle 4
+        159	Casa
+        158	Calle S/N
+        155	Calle 5
+        151	Farmacias Cruz Azul
+        151	Calle 6
+        151	Atahualpa
+        142	Pichincha
+        142	Calle H
+        142	Calle G
+        142	Calle 7
+        140	centro naturista
+        140	Panamericana Norte
+        136	Mariscal Sucre
+        132	Ferrocarriles del Ecuador E.P.
+        132	Amazonas
+        131	Calle 9
+        131	24 de Mayo
+        130	Panamericana Sur
+        130	Abdon Calderon
+        129	Calle J
+        125	Vicente Rocafuerte
+        125	Calle Sin Nombre
+        123	Cruz Azul
+        123	Banco Pichincha
+        122	UPC
+        121	San Francisco
+        121	Avenida Río Amazonas
+        119	Panamerica Sur
+        118	Troncal del Pacífico
+        118	Tienda
+        118	Farmacias Sana Sana
+        117	Calle I
+        115	Vía Perimetral
+        115	Avenida Camilo Ponce Enríquez
+        114	Esmeraldas
+        113	Vía a la Costa
+        113	Troncal Amazónica
+        112	Iglesia
+        112	Avenida Quito
+        111	Simon Bolivar
+        111	Santa Rosa
+        111	Chimborazo
+        111	Avenida 24 de Mayo
+        110	Avenida 12 de Octubre
+        109	Calle 10
+        107	Loja
+        106	Calle 8
+        105	Sana Sana
+        105	Rocafuerte
+        104	Imbabura
+        104	Calle 11
+        103	Velasco Ibarra
+        103	Avenida Atahualpa
+        102	Ruta Viva
+        102	Olmedo
+        102	Francisco De Orellana
+        101	Farmacia
+         98	San Antonio
+         98	9 de Octubre
+         97	Avenida González Suárez
+         97	Avenida América
+         96	Chile
+         93	Venezuela
+         93	Primax
+         93	Galo Plaza Lasso
+         93	Cuenca
+         89	Carchi
+         89	Bellavista
+         89	Avenida Abraham Calazacón

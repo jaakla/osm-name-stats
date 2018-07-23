@@ -1,0 +1,100 @@
+       2397	Union Pacific Railroad
+        919	Seligman Subdivision
+        756	West Bell Road
+        713	North Scottsdale Road
+        533	East Baseline Road
+        491	East Shea Boulevard
+        483	North Tatum Boulevard
+        474	Grand Avenue
+        465	East Bell Road
+        462	West McDowell Road
+        445	North Hayden Road
+        422	Pearl Harbor Memorial Highway
+        419	West Indian School Road
+        418	East McDowell Road
+        414	North 67th Avenue
+        411	Circle K
+        391	North Cave Creek Road
+        382	North 59th Avenue
+        376	South Gilbert Road
+        371	East Ray Road
+        369	West Thunderbird Road
+        367	Phoenix Subdivision
+        354	West Thomas Road
+        353	North Pima Road
+        351	East Main Street
+        351	Cadiz Subdivision
+        349	North 83rd Avenue
+        345	West Van Buren Street
+        342	West Glendale Avenue
+        342	North 75th Avenue
+        338	South Higley Road
+        335	West Peoria Avenue
+        328	East Broadway Road
+        327	West Camelback Road
+        325	West Baseline Road
+        324	North Black Canyon Highway
+        321	South Val Vista Drive
+        320	North 7th Street
+        319	North 91st Avenue
+        309	Trail
+        304	North Litchfield Road
+        304	North 35th Avenue
+        301	West Lower Buckeye Road
+        301	South Power Road
+        298	North 19th Avenue
+        294	North 99th Avenue
+        294	East Pecos Road
+        292	West Chandler Boulevard
+        291	East Southern Avenue
+        290	East University Drive
+        288	South Estrella Parkway
+        288	North 51st Avenue
+        287	East Elliot Road
+        280	South Dobson Road
+        278	North Dysart Road
+        270	West Happy Valley Road
+        270	West Cactus Road
+        268	East Camelback Road
+        263	West Southern Avenue
+        258	South Ellsworth Road
+        258	East Cactus Road
+        254	West Union Hills Drive
+        254	East Germann Road
+        252	East Queen Creek Road
+        248	West Ray Road
+        247	South Price Road
+        246	South Alma School Road
+        246	East Riggs Road
+        243	East Ocotillo Road
+        240	West Northern Avenue
+        239	East Indian School Road
+        238	East Guadalupe Road
+        236	North 56th Street
+        236	Bob Stump Memorial Parkway
+        235	West Greenway Road
+        233	East Warner Road
+        230	Black Canyon Freeway
+        227	West Deer Valley Road
+        227	South Arizona Avenue
+        227	Gallup Subdivision
+        226	East Chandler Boulevard
+        226	Arizona Trail
+        222	Pima Freeway
+        221	West Broadway Road
+        220	East McKellips Road
+        218	South Central Avenue
+        215	Frontage Road
+        214	Red Mountain Freeway
+        214	North 32nd Street
+        213	East Thomas Road
+        212	West Bethany Home Road
+        212	East Williams Field Road
+        211	South Cooper Road
+        211	Papago Freeway
+        210	East Greenway Road
+        208	North 27th Avenue
+        206	North 44th Street
+        205	North Alma School Road
+        202	West Carefree Highway
+        199	North Central Avenue

@@ -1,0 +1,100 @@
+        688	Union Pacific Railroad
+        292	Eastern Idaho Railroad
+        204	Main Street
+        158	Snake River
+        117	Idaho Northern and Pacific Railroad
+        110	1st Street
+        104	Boise River Greenbelt
+        103	Teton River
+         89	The Church of Jesus Christ of Latter-day Saints
+         82	2nd Street
+         81	Camas Prairie Railnet
+         80	3rd Street
+         79	South Main Street
+         78	Saint Maries River Railroad
+         70	North Main Street
+         70	4th Street
+         68	Pine Street
+         67	Trail of the Coeur d'Alenes
+         66	Cemetery Road
+         63	5th Street
+         62	Ten Mile Creek
+         61	Broadway Avenue
+         56	North 4th Street
+         55	Kootenai River Subdivision
+         50	7th Street
+         48	Perrine Coulee
+         48	Airport Road
+         46	Old Highway 30
+         45	Cedar Street
+         44	River Road
+         44	Medal of Honor Highway
+         44	McDonald's
+         44	Frontage Road
+         43	Railroad Avenue
+         43	East Fork Road
+         43	8th Street
+         42	Vista Avenue
+         42	Subway
+         41	Eightmile Lateral
+         41	6th Street
+         40	Yellowstone Highway
+         40	South Eagle Road
+         39	Overland Road
+         37	Route of the Hiawatha Trail
+         37	North Ramsey Road
+         37	Meadow Creek Road
+         37	Boise River
+         36	the Idaho State Line
+         36	Payette River
+         35	Rock Creek Road
+         35	Elm Street
+         35	Center Street
+         34	South Cole Road
+         34	Notus Canal
+         34	North 3rd Street
+         34	Idaho Street
+         34	Golden Gate Canal
+         34	East Main Street
+         34	B Street
+         34	12th Street
+         33	West 6th Street
+         33	US Government Railroad
+         33	D Street
+         32	Yellowstone Avenue
+         32	Mountain View Drive
+         32	C Street
+         32	10th Street
+         31	Washington Street
+         31	Oak Street
+         31	North Government Way
+         31	East 600 North
+         31	Cow Creek Road
+         31	Boise Connector
+         31	9th Street
+         30	Smith Creek Road
+         30	Maple Street
+         29	Sand Creek
+         29	River Street
+         29	North 6th Street
+         29	East Sunnyside Road
+         29	East Street
+         29	A Street
+         29	11th Street
+         28	West Main Street
+         28	Weiser River Trail
+         28	Walgreens
+         28	Spruce Street
+         28	Skyline Drive
+         28	Mill Road
+         28	Lincoln Street
+         27	Warm Springs Avenue
+         27	Valley Road
+         27	Rigby Highway
+         27	North 2400 East
+         27	Johns Creek
+         27	4th Avenue
+         26	Wells Fargo
+         26	Squaw Creek Road
+         26	Ridenbaugh Canal
+         26	Pullman Road

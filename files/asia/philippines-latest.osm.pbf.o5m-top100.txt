@@ -1,0 +1,100 @@
+       3270	Landslide
+       1404	7-Eleven
+       1350	Petron
+       1231	Maharlika Highway
+        871	Jollibee
+        833	Shell
+        671	Mercury Drug
+        651	Caltex
+        607	BDO
+        489	BPI
+        479	McDonald's
+        429	Iglesia ni Cristo
+        408	Metrobank
+        375	Emilio Aguinaldo Highway
+        360	PNB
+        357	Iglesia Ni Cristo
+        357	Governor's Drive
+        343	Chowking
+        309	Surigao - Davao Coastal Road
+        308	house
+        302	Ministop
+        288	Mang Inasal
+        286	TPLEX
+        276	2
+        272	1
+        264	5
+        263	Cemetery
+        263	4
+        262	Basketball Court
+        262	3
+        254	8
+        253	6
+        249	Bridge
+        248	Sampaguita
+        248	7
+        243	MacArthur Highway
+        242	The Generics Pharmacy
+        242	Kingdom Hall of Jehovah's Witnesses
+        238	9
+        234	10
+        226	Phoenix
+        226	11
+        221	South Luzon Expressway
+        220	12
+        218	Manila North Road
+        211	National Highway
+        210	Fishpond
+        209	LBC
+        208	14
+        207	13
+        203	15
+        199	Waiting Shed
+        196	SCTEX
+        196	EDSA
+        195	Jose Abad Santos Avenue
+        195	16
+        192	Variety Store
+        192	KFC
+        189	Total
+        187	Flying V
+        184	Narra
+        184	House
+        184	18
+        184	17
+        183	Barangay Hall
+        181	Rice Field
+        179	China Bank
+        177	Security Bank
+        176	RCBC
+        174	Goldilocks
+        173	19
+        171	Chocolate Hill
+        170	Palawan Pawnshop
+        168	20
+        165	San Jose
+        165	San Isidro
+        161	Rizal
+        159	22
+        158	Starbucks
+        156	Rizal Avenue
+        153	21
+        143	Unpaved Road
+        139	Untitled Path
+        139	Poblacion
+        138	Luzon
+        138	23
+        137	UCPB
+        137	The Church of Jesus Christ of Latter-day Saints
+        137	Cebuana Lhuillier
+        137	24
+        133	hut
+        133	Davao-Agusan National Highway
+        132	Rice Mill
+        132	Mindoro West Coastal Road
+        131	San Roque
+        130	Vulcanizing Shop
+        130	Rizal Street
+        129	Acacia
+        126	-
+        124	Rosal

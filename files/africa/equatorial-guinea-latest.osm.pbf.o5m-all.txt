@@ -1,0 +1,532 @@
+          1	3 de agosto
+          1	A
+          1	AMPCO Methanol Plant
+          1	Abayak
+          1	Abuiñ Asi
+          1	Acacio Mane Ela
+          1	Acalayong
+          1	Aconibe
+          1	Acurenam
+          1	Aeropuerto de Malabo
+          1	Air France
+          1	Alba Gas Plant
+          1	Ali Babas
+          1	Ambassade de la République fédérale d'Allemagne;Embajada
+          2	Anganchi
+          1	Annobon Island
+          3	Annobón
+          1	Annobón Airport
+          1	Apartamentos - Candy Vista Mar
+          1	Apsara
+          1	Aqua Bar and Grill
+          1	Artificial island construction zone
+          1	Assembly of God
+          1	Asuiabee
+          1	Aual
+          1	Autos Litoral S.A.
+         11	Av de Hasan II
+          6	Av de S.S. Juan Pablo II
+          5	Av de la Independencia
+          3	Av de la Libertad
+          3	Av de las Naciones Unidas
+          3	Av de los Parques de África
+          2	Av del 3 de Agosto
+          1	Ayuntamiento Central de Bata
+          1	Añisoc
+          1	B
+          1	BGFI
+          1	Bacake Grande
+          1	Bacake Pequeño
+          1	Bahia Sound Lounge
+          1	Bahia de Venus
+          1	Bahia del Puerto
+          1	Balacha de Riaba
+          1	Balorei
+          1	Banco de los Estados del Africa Central
+          1	Baney
+          4	Baney - Riaba
+          1	Baney Ii
+          1	Bange
+          1	Bange - Sucursal - Los Cocos
+          1	Bantu
+          1	Bantu Village
+          1	Baptist Church
+          2	Bar
+          1	Bar Central
+          1	Baresó
+          1	Bariobe
+          1	Barque
+          1	Basacato del Este
+          1	Basacato del Oeste
+          1	Basapú
+          1	Basilé
+          1	Basketball
+          1	Basuala
+          1	Basupú
+          1	Basílica de la Inmaculada Concepción
+          1	Bata
+          1	Bata Airport
+          1	Batete
+          1	Batoicopo
+          1	Baó Basuala
+          1	Baó Pequeño
+          1	Benin Honorary Consulate
+          1	Biblioteca
+          1	Biblioteca Nacional
+          1	Bidji Biñia
+          1	Bight of Biafra
+          1	Bilen
+         11	Bioko
+          2	Bioko Norte
+          2	Bioko Sur
+          1	Bisobinam
+          1	Bisóbinam
+          1	Bitica
+          1	Boabele
+          1	Boats Cogo-Acalayong
+          1	Boats Cogo-Cocobeach
+          1	Boats to Cocobeach & Acalayong
+          2	Boats to Cogo
+          1	Bolondo
+          2	Bongola
+          1	Bono Bono
+          1	Border Gabon - Cameroon
+         15	Border Gabon - Guinea Ecuatorial
+          7	Border Guinea Ecuatorial - Cameroon
+          1	Bososo
+          1	Buabe
+          2	Buena Esperanza
+          1	C
+          1	CEMAC
+          1	CFAO Motors
+          1	Cachirulo
+          1	Café Kristiana
+          1	Café Malabo
+          1	Caldera de San Carlos
+          1	Calle Hipolito Micha
+          4	Calle Mauritania
+          2	Calle Mongomo
+          5	Calle de Acacio Mañé
+          2	Calle de Annobón
+          2	Calle de Argelia
+          1	Calle de Bata
+          1	Calle de Camerún
+          2	Calle de Enrique Nvó
+          1	Calle de Kenia
+          1	Calle de Mongomo de Guadalupe
+          4	Calle de Nigeria
+          1	Calle de Patricio Lumumba
+          1	Calle de la Juventud Guineana
+          1	Calle de África
+          1	Calle del 12 de Octubre
+          1	Calle del Alcalde Abilio Balboa
+          2	Calle del Botuku Lubá
+          2	Calle del Presidente Nasser
+          2	Calle del Rey Boncoro
+          2	Calle del Rey Malabo
+          1	Calle del Triunfo
+          1	Cameroon Embassy
+          1	Cameroun
+          1	Campement éco-touristique de Campo-Beach
+          1	Campo
+          1	Canal Sol
+          1	Candy / Pizza Place
+          1	Candy 2
+          1	Capilla
+          1	Caracolas
+          1	Carmen
+          1	Carrefour
+          2	Carretera Ppal. de Paraiso
+         13	Carretera del Aeropuerto
+          2	Carretera del Puerto Nuevo
+          1	Carretera del Puerto Viejo
+          1	Catedral de Ebebiyin
+          1	Catedral de Santa Isabel
+          1	Catedral de Santiago Apóstol y Ntra. Sra. del Pilar
+          1	Ccbankge
+          1	Ceiba Office
+          1	Cementerio
+          1	Centro Comercial EGTC
+          3	Centro Cultural Español
+          1	Centro Cultural Español de Bata - Paseo Marítimo
+          1	Centro Medical La Paz
+          2	Centro Sur
+          1	Centro de Conferencias Sipopo
+          1	Chronos Air Miles Travel
+          1	Clinic Virgen De Guadalupe
+          1	Club Náutico
+          1	Cogo
+          1	Colegio Español - Salesianos
+          1	Comedor
+          1	Comercial - ElectroBata
+          2	Complejo El Caribe
+          1	Complejo Turístico
+          1	Conductores
+          1	Congo Consulate
+          1	Consty Bon Appetit
+          1	Consulado de España en Bata
+          1	Consulate General of Nigeria and Chancery
+          1	Control Tower
+          1	Corisco
+          1	Corisco International Airport
+          1	Crystal Mountains National Park
+          1	Cupapa
+          1	D
+          1	Da Vinci
+          1	Delice de France
+          1	Democratic Republic of the Congo Embassy
+          1	Descubre Mbini
+          1	Diamond Club
+          1	Djibloho Auditorium
+          1	Djibloho Conference Centre
+          1	Djoba na Bangui
+          1	Don Faustino's
+          5	Drill River
+          1	Driving Range
+          1	E
+          1	EG LNG Terminal
+          1	EG LNG Train 1
+          1	EG LNG Train 1 Suspension Bridge
+          1	EG LNG Train 2 (planned)
+          1	Ebebiyín
+          1	Ebolowa-Campo
+          2	Ecobank
+          1	Edificio Candy Vista Mar
+          1	Edificio Santy
+          1	El Barco Casino & Bar
+          1	El Refugio
+          2	Ela Nguema
+         10	Ela Nguema Highway
+          1	Electrodomesticos Martinez
+          1	Elik Melen
+          1	Elisabeth - Sampaka
+          1	Elobey Chico
+          2	Elobey Grande
+          1	Elósoc
+          1	Embaja de Angola
+          1	Embaja de Chad
+          1	Embaja de China
+          1	Embaja de Egipto
+          1	Embajada de Cuba
+          1	Embajada de España
+          1	Embajada de Francia
+          1	Embajada de Nigeria
+          1	Embajada de Sud Africa
+          1	Engong
+          1	Eoco
+          1	Equatore Restaurant
+          1	Escuela
+          1	Escuela Nigeriana
+          1	Estación de Bikuy
+          1	Estadio de Bata
+          1	Estadio de Malabo
+          1	Estadio de Mongomo
+          1	Estuaire
+          1	Europcar
+          1	Evinayong
+          1	Express Zona
+          1	Facultad de Administracion
+          1	Facultad de Agricultura y Veterinaria
+          1	Facultad de Medicina
+          1	Facultad de Negocios
+          1	Fako
+          1	Fishtown
+          1	Flarex Hotel
+          1	Flarex Hotel Restaurant
+          1	Flarex Spa
+          1	Formerly Hotel Ureca (closed)
+          2	French Cultural Center / Le Club des Partenaires - Institut
+          1	Fultron Group
+          1	Fábrica de mármol
+          1	GEPETROL
+          1	GETESA
+          1	Gabon
+          1	Gabon Consulate
+          1	Gabon Embassy
+          1	Galeria 12 de octubre
+          1	Game Joker, Casino - Paseo Marítimo
+          1	Garbage
+          7	Gas Turbine
+          1	Gepetrol
+          1	Gepetrol Luba
+          1	Gobe
+          1	Golf 18 holes Sofitel Sipopo
+          1	Gouverneur Office
+          1	Gran Mercado Central
+          1	Gran Reserva
+          1	Grand Hotel Djibloho
+          2	Guinea Ecuatorial
+          1	Gusto
+          6	Hangar
+          1	Haut-Komo
+          1	Heart of Moaba
+          1	Helipuerto
+          1	Hilton Malabo
+          1	Horizont Construcción
+          1	Hormigas Waterfall
+          1	Hospital
+          1	Hospital General de Bata
+          1	Hospital Provincial de Ebebiyín
+          1	Hospital Regional de Malabo
+          1	Hostal Residencia Chana
+          1	Hotel 3 de Agosto
+          1	Hotel 3 de Agosto Restaurant
+          1	Hotel Bahia
+          1	Hotel Bahia 2
+          1	Hotel El Castillo
+          1	Hotel Ibis
+          1	Hotel Ilachi
+          1	Hotel Impala
+          1	Hotel La Paz
+          1	Hotel Mongomo
+          1	Hotel Panafrica
+          1	Hotel Paraiso
+          1	Hotel Plaza ****
+          1	Hotel Residencial Morenita
+          1	Hotel Tropicana
+          1	Hotel Villa Brenda
+          1	Hotel Yessica
+          1	Hotspot Hotel Milenium
+          1	Hunter River
+          1	Ibis Hotel
+          1	Iglesia de Rebola
+          1	Iglesia de San Fernando
+          1	Iglesia de Santa María Reina
+          1	Iglesia de Santiago de Baney
+          1	Imagine Restaurant
+          1	Indefor
+          1	Institut Culturel d'Expression Française
+          1	Instituto Nacional de Estadística
+          1	Instituto Nacional de Estadística de Guinea Ecuatorial
+          2	Instituto de Educación Física
+          1	Internet
+          1	Isla Tortuga
+          1	Islotes Horacio
+          1	Jojó
+          1	KM-5
+          2	Kié-Ntem
+          1	Kye Ossi
+          1	Kyé-Ossi
+          1	L'Atelier
+          1	LA PAZ HOSPITAL
+          2	LNG Storage Tank
+          1	La Casa Tomada (librería-café)
+          2	La Estrella Electric - Iluminación
+          2	La Luna
+          1	La Paz Malabo Medical Center
+          1	La Trisa
+          1	Lago Loreto
+          1	Lago Mazafim
+          1	Lago Moca
+          1	Layalia
+          1	Le Cacaoyer
+          1	Libreville
+          2	Litoral
+          2	Los Ángeles
+          1	Luango
+          1	Lubá
+          1	Ma'an
+          1	Mabiogo
+          1	Malabo
+          1	Malabo - Bata ferry
+          9	Malabo - Luba
+          1	Malabo - Rebola
+          4	Malabo - Sipopo
+          2	Malabo II
+          1	Malabo VOR/DME
+          1	Mali Consulate
+          1	Mango Suites
+          1	Mangolia
+          1	Manguma
+          1	Martinez Hermanos
+         12	Mbini
+          1	Mboete
+          1	Medouneu
+          1	Mercado
+          1	Mercado Central
+          1	Mercado Centro
+          1	Mercado Público
+          1	Mercado de Mondoassi
+          1	Micomeseng
+          1	Ministerio de Turismo
+          1	Moaba Beach
+          1	Moca
+          1	Moka Lake Hike
+          1	Money Exchange
+          1	Mongomeyen
+          1	Mongomo
+          1	Monte Alén National Park
+          1	Mábana
+          1	Ncolanvam
+          1	Ndian
+          1	Net
+          1	Niefang
+          1	Noble Energy Equatorial Guinea
+          1	Nom-Nam
+          1	Noya
+          1	Nsoc
+          6	Ntem
+          1	Nzang Nam
+          1	Océan
+          1	Oficinas DHL - Paseo Marítimo
+          1	Oficinas EGTC - Paseo Marítimo
+          1	Okano
+          1	Olamzé
+          1	Omvang
+          1	Oveng
+          1	Oyala
+          1	Pala Licu
+          2	Palacio Presidencial
+          1	Palacio de Justicia
+          1	Palacio del Pueblo
+          1	Paraiso
+          1	Parc national de Campo-Ma’an
+          2	Parque nacional de malabo
+          1	Parque nacional del Pico Basilé
+          1	Parrot River
+         17	Paseo Marítimo de Bata
+          1	Paseo de los Cocoteros
+          1	Pasteleira Alice Burger
+          1	Pastelería
+          1	Pastelería Central
+          1	Pension Ebudu
+          1	Piano Bar
+          2	Pico Basilé
+          1	Pico Biaó
+          1	Pico Gran Caldera
+          2	Pizza Place
+          1	Plaza Ewaiso
+          1	Plaza Mongomo
+          1	Plaza de San Fernando
+          5	Plaza de la Independencia
+          1	Plaza de la Libertad
+          1	Pointe de l'Unité Africaine
+          1	Police & Immigration
+          1	Port of Malabo
+          1	Power / Logistica
+          1	Pozo Negro
+          1	Presidencial Palace
+          1	President Obiang Nguema International Airport
+          1	Prisión de Playa Negra
+          1	Proser Net
+          1	Puente
+          1	Puente sobre el río Wele
+          1	Puerto Nuevo
+          1	Puerto Viejo
+          2	Punta Europa
+          1	Punta Santiago
+          1	Quioveo
+          1	RN5
+          1	RTVGE Radio
+          1	RTVGE SW
+          1	RTVGE Television
+          1	Radio Televisión de Asonga
+          1	Radio Televisión de Bata
+          1	Ramp
+          2	Rebola
+          4	Rebola - Baney
+          1	Rectorado
+          1	Región Continental
+          1	Región Insular
+          1	Republic of the Congo Embassy
+          1	Reserva Científica de la Caldera de San Carlos
+          1	Reserva Natural de Río Campo
+          1	Restaurant L' Oriental
+          1	Restaurant Senegalaise
+          1	Restaurante MiraMar - Paseo marítimo
+          1	Restaurante Piscina - Ramón Nsué - Paseo Marítimo
+          1	Restaurante Senegalés
+          1	Riaba
+          1	Riaba Beach
+          1	Rio Olé
+          1	Rock Wash
+          2	Runway 1
+          1	Ryesa
+          3	Río Campo
+          2	Río Cónsul
+          1	Río Kié
+          6	Río San Nicolás
+          1	SEGESA
+          1	SEGESA Comercial - Sucursal Los Cocos
+          1	SEMU
+          2	SGBGE
+          1	Salam
+          1	Salesianas
+          1	Sampaca
+          1	San Antonio de Palé
+          1	San Antonio de Ureca
+          1	San Carlos de Lubá
+          1	Santa Isabel
+          1	Santuario Claret
+          1	Sao Tome Consulate
+          1	Satguru
+          1	Sipopo
+         10	Sipopo - Baney
+          1	Snack Bar Makassy
+          7	Soccer
+          1	Sofitel Golf Club
+          1	Sofitel Malabo President Palace
+          1	Sofitel Malabo Sipopo Le Golf
+          1	Sofitel Restaurant
+          1	Sofitel Spa
+          1	Sud
+          1	Sud-Ouest
+          1	Super Pharm
+          1	Supermercado - Martines Hermanos
+          1	Supermercado EGTC
+          1	Supermercado Muankaban
+          1	Taller
+          1	Tam Tam Fried Chicken
+          1	TamTam - Paseo Marítimo
+          1	Tamara Patisserie
+          1	Tamtam - Paseo Marítimo
+          1	Taxis to Mbini
+          1	Taxis to the South
+          1	Teatro Restaurant
+          1	Technobat
+          2	Tenis
+          4	Tennis
+          1	Terraza Betty
+          1	The aviator
+          1	Tivoli
+          1	Toilet River
+          1	Tope Lounge and Bar
+          1	Topé
+          1	Torre La Libertad
+          1	Torre de Reloj
+          1	Torre del Reloj
+          1	Torres Gemelas
+          1	Total - La Libertad
+          1	Total - Mbogosogo
+          1	Total - Ngoló
+          1	Total - Paseo Marítimo - Mondoassi
+          1	Total Luba
+          1	Treasure Island
+          1	UNED - Bata
+          1	UNED - Malabo
+          1	US Embassy
+          1	United Nations
+          1	Universidad Afroamericana de África Central
+          1	Universidad Nacional de Guinea Ecuatorial
+          1	Vallée-du-Ntem
+          1	Venezia
+          1	Ventage Hogar
+          1	Viajes
+          1	Vicatana
+          1	Villas Présidentielle
+          1	Viviendas Sociales Malabo II
+          1	Wastewater Treatment Plant
+          4	Wele
+          2	Wele-Nzas
+          2	Woleu
+          1	Woleu-Ntem
+          1	Ye Cuin
+          1	Yogui
+          1	Yutaka
+          1	cine real
+          1	cruce fiston
+          1	cuartel marina
+          1	national hotel
+          3	waterfall
+          1	Área Presidencial
+          1	马拉博机场

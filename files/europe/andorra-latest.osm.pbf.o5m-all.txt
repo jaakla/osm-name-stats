@@ -1,0 +1,2220 @@
+          1	001 Parada de l'eglésia
+          1	101 Meritxell
+          1	111 Palau de Gel
+          1	112 Palau de Gel
+          1	114 Pl. de l'Areny
+          1	115 El Molí
+          1	117 Aina
+          1	118 Aina
+          1	119 St. Joan de Caselles
+          1	13,5° Winebar Andorra
+          1	131 La Creu de l'Aldosa
+          1	143 La Costa
+          1	146 Cruïlla de Ransol
+          1	151 El Tarter
+          1	152 El Tarter
+          1	162 Moles
+          1	164 Val d'Incles
+          1	166 Roc de Sant Miquel
+          1	171 Soldeu
+          1	172 Soldeu
+          1	175 Peretol
+          1	181 Bordes d'Envalira
+          1	182 Bordes d'Envalira
+          1	1951
+          1	1954
+          1	202 Pl. del Consell
+          1	203 Prat de Genil
+          1	205 La Molina
+          1	206 La Molina
+          1	207 Riu Blanc
+          1	208 Riu Blanc
+          1	208 riu blang
+          1	209 Els Pastoressos
+          1	210 Els Pastoressos
+          1	211 Comú d'Encamp
+          1	214
+          1	5001 princep benloch
+          1	5002 placa guillemo
+          1	5004 la greu grossa
+          1	5005 la creu grossa
+          1	5008 ratonda
+          1	5009 la sardana
+          1	5010
+          1	701 Pl. Sta. Anna
+          1	702 Pl. Sta. Anna
+          1	703 la drecera
+          1	706
+          1	707 Arnaldeta de Caboet
+          1	709 Dama de gel
+          1	734
+          1	740 La Tosca
+          1	741 La Tosca
+          1	742
+          1	746
+          1	AFM - Andorra Free Market
+          1	AFP Automòbils
+          1	ANDBANK 24H
+          1	Académie de Montpellier
+          1	Académie de Toulouse
+          1	Accés Canal del Grau
+          1	Accés via ferrada Tossal Gran d'Aixovall
+          1	Accés via ferrada de Sant Vicenç d'Enclar
+          2	Aduana
+          1	Aduana Andorra
+          1	Aerialway Station
+          1	Agulla de Baiau
+          2	Agulles d'Engolasters
+          1	Aigues Tortes
+          1	Aixirivall
+          1	Aixovall
+          1	Aixàs
+          1	Aixás
+          1	Alaska Apartments
+          1	Alberg Borda Jovell
+          1	Alberg La Comella
+          1	Albert
+          1	Albert Jove
+          1	Alins
+          1	Alpesport
+          1	Alt Pirineu i Aran
+          1	Alt Pirineu i Aran (Lleida)
+          1	Alt Urgell
+          1	Alt de Comapedrosa
+          1	Alt del Covil
+          1	Alt del Griu
+          1	Ambassade de France
+          1	And Burger Zero
+          1	Andbank
+          1	Andora
+          2	Andorra
+          1	Andorra 2000
+          1	Andorra Campers
+          1	Andorra Campers - Taller
+          1	Andorra Main Bus Station
+          2	Andorra Park
+          3	Andorra la Vella
+          1	Andorra la Vella Heliport
+          1	Andorra telecom
+          1	Andorre-la-Vieille
+          1	Andorrra 2000
+          1	Ansalonga
+          1	Antenes
+          1	Antiga presó de la Casa del Quart (segle 18)
+          2	Anyos Park
+          1	Anyos Park Apartahotel
+          1	Anyós
+          1	Aparcament
+          1	Aparcament Aina
+          1	Aparcament Comunal Parc Central
+          1	Aparcament Comunal Prada Casadet
+          1	Aparcament Comunal Tobira
+          1	Aparcament Vinyes
+          3	Aparcament clients
+          1	Aparcament comunal Anti Cami Ral
+          1	Aparcament comunal Bonavista
+          1	Aparcament comunal Dr. Mitjavila
+          1	Aparcament comunal El Trillà
+          1	Aparcament comunal Fener 1
+          1	Aparcament comunal Fener2
+          1	Aparcament comunal Prat de la Creu
+          1	Apartahotel els Meners
+          1	Apartaments Frontera Blanca
+          1	Apartaments Paradis Blanc
+          1	Aparthotel Rialb
+          1	Apartments Crest
+          1	Apartments St. Moritz
+          1	Arans
+          1	Area Autocaravanas River Centre Comercial
+          2	Arinsal
+          1	Arinsal - Percanela - les Fonts - Pla de l'Estany - Arinsal
+          1	Arinsal-Pal
+          1	Ariège
+          1	Ariège - cantons (mars 2015)
+          1	Art i Pa
+          1	Ascensor
+          1	Aserradero y muela de Cal Pal
+          1	Aspen
+          1	Aston
+          1	Aston I
+          1	Aston VII
+          1	Astoret
+          1	Aubinyà
+          1	Auditori Nacional d'Andorra
+          1	Auto Muntatges KM0
+          1	Auto sistema
+          1	Auzat
+          1	Auzat IV
+          1	Auzat VIII
+          1	Avenida Doctor Mitjavila, 3-
+          1	Avet
+          6	Avinguda Carlemany
+          7	Avinguda Consell d'Europa
+          2	Avinguda Consell de la Terra
+          3	Avinguda Coprincep de Gaulle
+          3	Avinguda Coprincep Épiscopal
+          2	Avinguda Doctor Mitjavila
+          5	Avinguda Fiter i Rossell
+          9	Avinguda Meritxell
+          6	Avinguda Prat de la Creu
+          1	Avinguda Princep Benlloch
+          8	Avinguda Sant Antoni
+          1	Avinguda Sant Jaume
+          2	Avinguda d'Encamp
+          1	Avinguda d'Enclar
+          4	Avinguda de François Mitterrand
+          5	Avinguda de Joan Martí
+          4	Avinguda de Salou
+          3	Avinguda de Santa Coloma
+         10	Avinguda de Tarragona
+          5	Avinguda de les Escoles
+          2	Avinguda de les Nacions Unides
+         14	Avinguda del Consell General
+          4	Avinguda del Fener
+          1	Avinguda del Jovell
+          2	Avinguda del Pessebre
+          3	Avinguda del Pont de la Tosca
+          3	Avinguda del Princep Benlloch
+         12	Avinguda del Ravell
+          3	Avinguda el Travès
+          1	Ax-les-Thermes
+          1	Ayelen
+          4	BP
+          9	Baixada del Molí
+          3	Banc Sabadell
+          1	Banc Sabadell d'Andorra
+          1	Bar 4 Tres
+          1	Bar Broques
+          1	Bar Cadi
+          1	Bar Canolich
+          1	Bar El Bosc
+          1	Bar El Cyrano
+          1	Bar Orelles
+          1	Bar Quo Vadis
+          1	Bar Restaurant Nou
+          1	Bar Restaurant Valira
+          1	Bar Restaurant Xenius
+          1	Bar Valireta
+          1	Bar del Centre
+          1	Bar/Restaurant 360
+          1	Barcelona
+          1	Barcode
+          1	Barraca de l'Orri de Rusca
+          1	Barranc d'Arduix
+          1	Barranc de l'Andorrana
+          1	Barranc del Port Negre
+          1	Barranc dels Llacs
+          1	Barrera
+          1	Barreta
+          1	Barric Antic Hostel & Pub
+          3	Basar d'Orient
+          1	Basktball ourdoor
+          1	Bass del Racó
+          1	Bassa de les Granotes
+          1	Basses Roges
+          2	Basses de la Cebollera
+          2	Basses de les Salamandres
+          1	Basses del Pic
+          1	Bassot dels Clots de Massat
+          1	Beach Volleyball, public
+          1	Berdental
+          1	Berenador de La Comella
+          1	Biblioteca La Massana
+          1	Biblioteca Publica del Govern
+          1	Biblioteca comunal
+          1	Bio-Centre
+          1	Bixessarri
+          1	Black Bull Bar
+          2	Bombers
+          1	Bombers d'Andorra
+          1	Bon dia Cafe
+          2	BonArea
+          1	Bona Estada
+          1	Bony
+          1	Bony Vaques
+          1	Bony de Santa Bàrbara
+          1	Bony de la Caubera
+          1	Bony de la Pala de Jan
+          2	Bony de la Pica
+          1	Bony de les Neres
+          1	Bony del Covil d'Erts
+          1	Bony dels Llorers
+          1	Borda De L'Hortó
+          1	Borda Estall
+          1	Borda Raubert
+          1	Borda de Sedornet
+          1	Borda de l' Arena
+          1	Borda de les Pubilles
+          1	Borda del Boigot
+          1	Borda del Tremat
+          1	Bordes de Rigoder
+          2	Bordes de la Mollera
+          1	Bordes dels Prats Nous
+          1	Bosc
+          1	Bosc Fosc
+          1	Bosc del Peu dels Pessons
+          1	Bosc dels Collels
+          1	Broceliand
+          1	Bruxelles Restaurant
+          1	Buda Andorra
+          1	Buick
+          3	Burger King
+          1	Burger Roc
+          1	Burguer Eurocenter
+          1	Bus Stop 451 El Ravell
+          1	Bus Stop 452 El Ravell
+          2	Busstop, Freebus
+          1	C
+          1	C. de les Solanelles
+          1	CENTRAL III
+          1	COMMENCAL Bicycles
+          1	Ca la Padrina
+          2	Cabana
+          1	Cabana Estall Serrer
+          1	Cabana Estanya
+          1	Cabana Pleta Serrera
+          1	Cabana de Besalí
+          1	Cabana de Setut
+          1	Cabana de l'Estany Forcat
+          1	Cabana de la Comapedrosa
+          1	Cabana de la Farga
+          1	Cabana de la PLeta del Castellar
+          1	Cabana del Riu dels Orris
+          1	Cabana del Serrat de la Barracota
+          1	Cabana dels Planells de Rialb
+          1	Cabanes Pla de la Vaca Morta
+          1	Cabanya
+          1	Cabirol
+          1	Cadernera
+          1	Cafe BonDia
+          1	Cafe Principal
+          1	Café Els Barrers
+          1	Cal Ampandre
+          1	Cal Pinxo
+          1	Caldea-Inuu
+          1	Calm Borrut
+          1	Calzedonia
+          1	Calçats Jamaica
+          1	Calçats PAVI
+          1	Cami Bordes de Ramonet
+          1	Cami Inferior
+          1	Cami Peu de la Grau
+         11	Cami Ral
+          4	Cami Superior
+          1	Cami Terre Primeres Baix
+          1	Cami Terre Primeres Dalt
+          1	Cami de Coll de les Cases
+          1	Cami de Corubell
+          1	Cami de Padern
+          1	Cami de Pessons
+          3	Cami de Rebolians
+          2	Cami de Redort
+          4	Cami de Santa Bàrbara
+          2	Cami de Santa Caterina
+          3	Cami de Sedornet
+          1	Cami de Segudet
+          1	Cami de l'Arena
+          3	Cami de la Costa de les Gerederes
+          3	Cami de la Gonarda
+          1	Cami de les Barreres
+          1	Cami de les Bordes de Mereig
+          2	Cami de les Gravades
+          4	Cami de les Molleres
+          5	Cami del Barranc de la font del Mosquit
+          1	Cami del Ferrer de l'Olla
+          1	Cami del Grau
+          1	Cami del Llacs d'Angonella
+          1	Cami del Mig
+          1	Cami del Pou
+          1	Cami del Pui
+          1	Cami del Roc de Castell
+          3	Cami del Solanell
+          1	Cami dels Vilars
+          2	Cami riu Valira
+          1	Camp Borrut
+          2	Camp de futbol
+          1	Camp del Serrat
+          1	Camping Borda D'Ansalonga
+          1	Camping International
+          1	Camping Xixerella
+          1	Camì de les Barreres
+          3	Camí Ral d'Ordino
+          1	Camí Vell
+          2	Camí d'Auvinyà
+          1	Camí de Lloset
+          2	Camí de Padern
+          1	Camí de Sant Cerni
+          2	Camí de l'Obac
+          3	Camí de l'Obac d'Incles
+          2	Camí de l'Ossa
+          1	Camí de la Muntanya
+          1	Camí de la Senyoreta
+          1	Camí de la Vinya
+          1	Camí de les Agulles d'Engolasters
+          1	Camí de les Pardines (peatonal)
+          3	Camí del Canal
+          2	Camí del Coll dels Isards
+          3	Camí del Gall
+          1	Camí del Grau de la Molina
+          3	Camí del Pont Pla
+          1	Camí del Port Dret
+          1	Camí del Port d'Incles
+          1	Camí del Solà
+          1	Camí del Toll Bullidor
+          1	Camí dels Bons Homes
+          1	Can Jovi
+          1	Can Manel
+          5	Canal de Ransol a Engolasters
+          2	Canal de la Bova
+          2	Canal del Pletiu
+          3	Canaro
+          2	Canaro 2
+          4	Canillo
+          1	Cap de Campmaior
+          1	Cap de l'Ovella
+          1	Cap de la Coste Grande
+          1	Cap de la Tosa d'Entor
+          1	Cap de les Canales de Ribanelles
+          3	Cap del Carrer
+          1	Cap del Muntanyó d'Àrreu
+          1	Cap dels Agols
+          1	Capella de Sant Jaume dels Cortals
+          3	Caprabo
+          1	Carena de Pessons
+          1	Carlin
+          1	Carmen
+          1	Carnisseria Simonet
+          2	Carrer Antoni Fiter i Rossell
+          1	Carrer Babot Camp
+          1	Carrer Bearn
+          1	Carrer Bernat III
+          1	Carrer Bisbe Príncep Iglésias
+          3	Carrer Bonaventura Armengol
+          2	Carrer Bonaventura Riberaygua
+          1	Carrer Cal Giberga
+          1	Carrer Callaueta
+          1	Carrer Camp Bastida
+          1	Carrer Camp Pauet
+          1	Carrer Carvajal de Hué
+          1	Carrer Ciutat de Consuegra
+          2	Carrer Ciutat de Sabadell
+          2	Carrer Ciutat de Valls
+          1	Carrer Closes de Guillemó
+          3	Carrer Colomer
+          1	Carrer Coma Del Colat
+          1	Carrer Comtes de Foix
+          1	Carrer Doctor Nequí
+          3	Carrer Doctor Vilanova
+          1	Carrer Dr Vilanova
+          1	Carrer Dr. Molines
+          2	Carrer Dr. Vilanova
+          2	Carrer Esteve Albert
+          2	Carrer Esteve Dolsa Pujol
+          2	Carrer Fiter i Rossell
+          1	Carrer Font del Pujal
+          4	Carrer Francesc Carat
+          1	Carrer Francesc Escudé
+          1	Carrer François Mitterrand
+          2	Carrer Gil Torres
+          1	Carrer Guillem Areny
+          1	Carrer Hort de Godi
+          1	Carrer Isabelle Sandy
+          1	Carrer Josep Areny
+          1	Carrer Josep Rossell i Calva
+          2	Carrer Josep Viladomat
+          3	Carrer La Llacuna
+          7	Carrer Major
+          1	Carrer Manual Digest
+          2	Carrer Maria Plà
+          1	Carrer Mestre Xavier Plana
+          1	Carrer Mirador d'Encamp
+          1	Carrer Mossèn Cinto Verdaguer
+          1	Carrer Mossèn Enric Marfany
+          1	Carrer Mossèn Lluis Pujol
+          1	Carrer Mossén Guillem Adellach
+          1	Carrer Para Urgell
+          3	Carrer Paraires
+          1	Carrer Parc Guillemó
+          1	Carrer Pare Enric Graner
+          1	Carrer Pareatges
+          2	Carrer Pau Casals
+          1	Carrer Perdut
+          2	Carrer Pere d'Urg
+          1	Carrer Pompeu Fabra
+          1	Carrer Prada Casadet
+          1	Carrer Prada Motxilla
+          1	Carrer Prat Gran
+          3	Carrer Prat Salit
+          1	Carrer Prat de Rogetó
+          1	Carrer Prat de la Creu
+          1	Carrer Prat del Riu
+          2	Carrer Roc de l'Aldias
+          1	Carrer Roger Bernat III
+          1	Carrer Roureda Tapada
+          1	Carrer Roureda de Sansa
+          1	Carrer Sant Andreu
+          1	Carrer Sant Antoni
+          1	Carrer Sant Romà
+          2	Carrer Sant Salvador
+          1	Carrer Santa Anna
+          2	Carrer Solana
+          1	Carrer Tossalet i Vinyols
+          1	Carrer Verge del Pilar
+          1	Carrer d'Englolaster
+          4	Carrer d'Engordany
+          1	Carrer de Can Diumenge
+          4	Carrer de Can Diunange
+          2	Carrer de Catalunya
+          2	Carrer de Cedre
+          3	Carrer de Coll de Jou
+          1	Carrer de Joan Maragall
+          2	Carrer de Josep Rossel
+          2	Carrer de Loira
+          2	Carrer de Parnal
+          3	Carrer de Roca Corba
+          1	Carrer de Sant Joan Vell
+          1	Carrer de Sant Jordi
+          1	Carrer de Sornás
+          1	Carrer de i'Aern
+          2	Carrer de l'Aigüeta
+          2	Carrer de l'Alzinaret
+          1	Carrer de l'Anglada
+          1	Carrer de l'Anglata
+          1	Carrer de l'obac
+          1	Carrer de l'Étang Salé
+          1	Carrer de la Borda
+          1	Carrer de la Ciutat Pubilla
+          1	Carrer de la Closa
+          7	Carrer de la Constituciò
+          1	Carrer de la Creu Grossa
+          1	Carrer de la Grau
+          1	Carrer de la Grella
+          1	Carrer de la Llacuna
+          1	Carrer de la Parroquia
+          1	Carrer de la Plana
+          1	Carrer de la Pleta de l'Aldosa
+          1	Carrer de la Roda
+          2	Carrer de la Sardana
+          1	Carrer de la Tartera
+          1	Carrer de la Tobira
+          1	Carrer de la Unió
+          3	Carrer de la Vall
+          2	Carrer de la Vena
+          1	Carrer de la Vinyeta
+          2	Carrer de les Abelletes
+          1	Carrer de les Costes
+          1	Carrer de les Entrades
+          1	Carrer de les Escoles
+          3	Carrer de les Palanques
+          1	Carrer de les Teulades
+          1	Carrer del Barrers
+          1	Carrer del Carubell
+          3	Carrer del Catorze de Març
+          1	Carrer del Doro
+          1	Carrer del Picó
+          1	Carrer del Prat Gran
+          2	Carrer del Predal
+          2	Carrer del Pui
+          1	Carrer del Puial
+          1	Carrer del Puiet
+          1	Carrer del Tossal
+          1	Carrer del Turer
+          1	Carrer del Valira
+          1	Carrer dels Ajustants
+          1	Carrer dels Avellaners
+          4	Carrer dels Canals
+          2	Carrer dels Castanyers
+          1	Carrer dels Escalls
+          1	Carrer dels Hortals
+          1	Carrer dels Ocells
+          2	Carrer dels Plans
+          1	Carrer el Travès
+          2	Carrere Balcó del Solà
+          2	Carrere de la Molina
+          1	Carretera Coll d'Ordino
+          1	Carretera Comes de Banyàs
+          3	Carretera General
+         54	Carretera General 3
+          2	Carretera Mas Ribafeta
+          4	Carretera Sant Cristofol
+          8	Carretera Secundaria de la Rabassa
+          4	Carretera d'Arinsal
+          6	Carretera d'Engolasters
+          3	Carretera d'Entor
+          3	Carretera d'Erts
+          1	Carretera d'Os de Civís
+          7	Carretera de Beixalis
+          1	Carretera de Canòlich
+          3	Carretera de Collada de la Gallina
+         11	Carretera de Fontaneda
+          3	Carretera de Mas d'Alins
+          5	Carretera de Montaup
+          2	Carretera de Prats
+          1	Carretera de Segudet
+          2	Carretera de Sispony
+          3	Carretera de Sorteny
+          1	Carretera de Vila-Beixalis
+          4	Carretera de l'Aldosa
+          8	Carretera de la Comella
+          4	Carretera de la Creu Blanca
+          1	Carretera de la Gonarda
+          1	Carretera de la Margineda
+          4	Carretera de la Rabassa
+          3	Carretera de la Vall d'Incles
+          1	Carretera de les Agudes
+          1	Carretera de les Boigues
+          1	Carretera de les Moles
+          4	Carretera de les Riberaigües
+          1	Carretera del Forn
+          2	Carretera del Plans de Ransol
+          2	Carretera dels Cortals
+          7	Carretera dels Cortals d'Encamp
+          2	Carretera dels Plans
+          6	Carretera dels Vilars
+          1	Carretera l'Escaladella
+          1	Carretera les Feixes
+          2	Carwash
+          1	Casa
+          1	Casa d'Areny-Plandolit
+          1	Casa de colònies Aina
+          1	Casa de la Vall
+          1	Casamanya Mig
+          1	Casamanya Nord
+          1	Casanova Immobiliaria
+          1	Cascada de les Moles
+          1	Cascada del Riu d'Urina
+          1	Catalunya
+          1	Cau Bar
+          1	Caves Manacor
+          1	Celler d’en Toni
+          3	Cementiri
+          1	Cementiri La Plana
+          1	Cementiri de Sispony
+          1	Cementiri tanatori de Mereig
+          1	Cent per Hora
+          1	Central Bus Stop
+          1	Centre Comercial Sant Eloi
+          1	Centre Cultural Andorra la Vella
+          1	Centre Esportiu i Sociocultural
+          1	Centre Veterinari
+          1	Centre d'Art (CAEE)
+          1	Centre d'Art Escaldes-Engordany
+          1	Centre d'Interpretació Andorra Romàntica
+          1	Centre d'Interpretació Farga Rossell
+          1	Centre d'Interpretació de l'Agua i del Madriu (CIAM)
+          1	Centre d'autoaprenentatge de llengua Catalá
+          1	Centre de Autoaprenentatge
+          1	Centre de Congressos d’Andorra la Vella
+          1	Centre de Formació d'adults
+          1	Centre de rehabilitació funcional Lourdes Guardia
+          1	Centre esportiu dels Serradells
+          1	Centre històric
+          1	Centre mèdic laurèdia
+          1	Centre penitenciari
+          1	Centro de Natura de La Cortinada
+          5	Cepsa
+          1	Cerdanya
+          1	Cerdanya (Lleida)
+          1	Cerretera del Collet dels Colls
+          1	Certascan Nord
+          1	Certers
+          1	Chalet Casale
+          1	Charity Shop
+          1	Cheese's Art
+          1	Chester
+          1	Children's play ground
+          1	Chulengo
+          1	Cibercafé
+          1	Cim del Vaquer
+          1	Cinemes illa Carlemany
+          1	Circ de Pessons
+          4	Circ de Tristaina
+          1	Circonscription Sud-Ouest
+          1	Circuit de Grandvalira
+          1	Circuito B.T.T.
+          1	Circulaçió
+          1	Clement
+          1	Clot
+          1	Clot Sord
+          1	Clothing Shop
+          1	Col d'Arenys
+          1	Col de Coume d'Ose
+          1	Col de l'Albe
+          1	Col du Mail
+          1	Colibri
+          1	Coll Blanc
+          1	Coll Carnisser
+          1	Coll Jovell
+          1	Coll d'Alba
+          2	Coll d'Ordino
+          1	Coll de Colts
+          1	Coll de Finestres
+          1	Coll de Jovell
+          1	Coll de Laquell
+          1	Coll de Montaner
+          1	Coll de Munturull
+          1	Coll de Prat Porceller
+          1	Coll de Turer
+          1	Coll de Vista
+          1	Coll de l'Aubaga
+          2	Coll de la Botella
+          1	Coll de les Cases
+          1	Coll dels Estanys Forcats
+          1	Coll dels Isards
+          1	Coll. d'Anrodat
+          1	Collada D'Enradort
+          1	Collada d'Enradort
+          1	Collada de Beixalís
+          1	Collada de Canòlic
+          1	Collada de Ferreroles
+          2	Collada de Juclar
+          1	Collada de Meners
+          1	Collada de Mitjana
+          1	Collada de Montmalús
+          1	Collada de Pessons
+          1	Collada de Pimes
+          1	Collada de Prat Primer
+          1	Collada de la Caülla
+          1	Collada de la Coma
+          1	Collada de la Gallina
+          1	Collada de la Maiana
+          1	Collada de les Solanelles
+          1	Collada del Clot Sord
+          1	Collada dels Pessons
+          1	Collades de Gargantillar
+          1	Collet d'Ortafà
+          1	Collet de Comapedrosa
+          1	Collet de Costasseda
+          1	Collet de Montaup
+          1	Collet de Palomera
+          1	Collet de Sant Vicenç
+          1	Collet de la Coma
+          1	Collet de la Costa del Bony Roig
+          1	Collet de la Rapella
+          2	Com Nou
+          1	Coma Estremera
+          1	Coma Extremera
+          1	Coma d'Arc
+          1	Comallemple
+          1	Comella datacenter Andorra Telecom
+          1	Comer la Clementina
+          1	Comerç Joan
+          1	Comics Museum
+          1	Communauté de communes Pyrénées Cerdagne
+          1	Communauté de communes d'Auzat et du Vicdessos
+          1	Communauté de communes de la Haute Ariège
+          1	Coms
+          1	Comtes de Foix
+          1	Comunitat Cristiana d’Andorra
+          1	Comú D'Andorra la Vella
+          1	Comú D'Encamp
+          1	Comú d'Escaldes-Engordany
+          1	Comú de Canillo
+          2	Comú de La Massana
+          1	Comú de Sant Julià de Loira
+          1	Confort
+          1	Consell de la vall
+          1	Consol Honorari de la República Federal d’Alemamya
+          1	Corb
+          1	Corbater
+          1	Corpalanca
+          1	Corral de Sansa
+          1	Correos
+          1	Correos Españoles
+          1	Correos espanyols i francesos
+          1	Correos español
+          1	Cortalets
+          2	Cortals
+          1	Cortsl de la Plana
+          1	Cosmos
+          1	Cova Balma de la Margineda
+          1	Cretes de Gargantillar
+          1	Creussans
+          1	Croissant Express
+          3	Crèdit Andorrà
+          1	Crédit Andorra
+          1	Crédit Andorrà 24h
+          1	Crête d'Arial
+          1	Crête de Fontargente
+          1	Ctra. de la plana
+          1	Cubil
+          1	Cucut
+          1	Càmping Casal
+          1	Càmping Janramon
+          1	Càmping Pla
+          1	Càmping Santa Creu
+          1	Càmping Valira
+          1	Càmping públic Font de Ferrosins
+          1	Cèntric Hotel
+          1	Cóm de l'Obac d'Incles
+          1	Daytona 2000
+          1	De Sant Serni De Canillo
+          1	Deixalleria
+          1	Delgado
+          1	Delicies Turques
+          1	Depuradora d'aigües residuals Sud
+          1	Desfibrilador
+          2	Dia
+          1	Diagonal
+          1	Diagonal d'Enllac
+          1	Directa I
+          1	Directa II
+          1	Directbus Andorra
+          1	Disand. S.A.
+          1	Dolç i Salat
+          1	Domenech
+          1	Don Denis
+          1	Don Pernil
+          1	Don Sofa
+          1	Dos Caçadors
+          1	Dr josé Rizal
+          1	Duc
+          1	Dylan's
+          1	Départ
+          1	E. Leclerc
+          1	E. Leclerc - Punt de Trobada
+          1	ECOA
+          1	EL CUBIL
+          1	EL ROSAT
+          2	ELF
+          1	Eco Supermacats
+          1	Edifici del Consell General
+          1	El Bon Café
+          1	El Cachirulo
+          1	El Croco Grill
+          1	El Cubil
+          1	El Forn
+          1	El Gargantua
+          1	El Japo
+          1	El Mamo
+          1	El Mercal Del Pi
+          1	El Pasture
+          1	El Piolet
+          1	El Planell
+          1	El Pollastre Volador
+          1	El Refugi Alpí
+          1	El Saler
+          1	El Trèvol Verd
+          1	El Vilar
+          1	El meu univers. Gaset Flinch
+          1	El taller The Tapeo
+          1	El teu Espai
+          1	Elan
+          1	Electrodomèstics Andorra 2000
+          1	Elf
+          1	Els Collels
+          1	Els Formantals Parc
+          1	Embaixada d'Espanya
+          3	Encamp
+          1	Engolasters
+          1	Engordany
+          1	Enradort
+          1	Ensagents
+          1	Ermita Mare de Deu
+          1	Ermita de Sant Jaume
+          1	Erts
+          1	Escaldes-Engordany
+          3	Escola Andorrana de Canillo
+          1	Escola bresol Prada Casadet
+          1	Escornacrabes
+          1	Escàs
+          1	Esglesia Sant Esteve de Andorra la Vella
+          1	Esglèsia de Sant Romà dels Vilars
+          1	Església Sant Joan de Sispony
+          1	Església Sant Pere del Pas de la Casa
+          1	Església de Sant Jaume dels Cortals
+          1	Església de Santa Coloma
+          1	Eslalom
+          1	Esparver
+          1	España
+          9	España - Andorra
+          1	Espel
+          1	Espiolets
+          1	Espirit
+          1	Esports Rossell
+          1	Esports Sant Moritz STM1
+          1	Esports altitud
+          1	Esquirol
+          3	Esso
+          1	Estacio Nacional d'Autobuses
+          1	Estació Juli
+          1	Estació esquí Parador Canaro
+          1	Estadi
+          1	Estadi Comunal d'Andorra la Vella
+          1	Estadi Eslalom
+          1	Estadi Nacional
+          1	Estant d'Anrodat
+          1	Estany Blau
+          1	Estany Esbalçat
+          3	Estany Forcat
+          2	Estany Gran de la Vall del Riu
+          1	Estany Moreno
+          2	Estany Mort
+          1	Estany Negre
+          2	Estany Primer
+          2	Estany Primer de Juclar
+          2	Estany Rodó
+          1	Estany Sec
+          1	Estany Segon de Juclar
+          1	Estany d'Encamp
+          1	Estany d'Engaït
+          1	Estany de Baix de Siscaro
+          1	Estany de Coma Estremera
+          1	Estany de Creussans
+          1	Estany de Montmalús
+          1	Estany de Més Amunt
+          1	Estany de Querol
+          1	Estany de Serramitjana
+          1	Estany de l'Estanyó
+          1	Estany de l'Illa
+          1	Estany de l'Isla
+          1	Estany de la Bova
+          1	Estany de la Cabana Sorda
+          1	Estany de la Nou
+          1	Estany de les Abelletes
+          1	Estany de les Canal Roges de Siscaro
+          1	Estany de les Fonts
+          1	Estany de les Truites
+          1	Estany del Cap dels Pessons
+          1	Estany del Gargantillar
+          2	Estany del Meligar
+          1	Estany del Mig
+          1	Estany del Port Dret
+          1	Estany dels Meners de la Coma
+          1	Estanyardo
+          3	Estanys d'Ensagents
+          1	Estanys de Comapedrosa
+          3	Estanys de Montmantell
+          2	Estanys de Perafita
+          1	Estanys de l'Angonella
+          1	Estanys de l'Angonella (Llac de Mes Amunt)
+          1	Estanys de l'Angonella (Llac de Mes Avall)
+          1	Estanys de l'Angonella (Llac del Mig)
+          2	Estripagecs
+          1	Estructures Autogeneradores
+          1	Europe/Madrid Timezone
+          1	European Union
+          1	Express
+          1	F060 CG2- Andorra Dir Francia Tunel D-Envalira-
+          1	F060 HAPP Andorra CG-4 Km 0.7 La Massana DIR Arinsal CL
+          1	F060 JULI Andorra CG-1 Km 9.7 Frontera DIR Andorra CL
+          1	F060 JULI Andorra CS-100 Km 3.7 Comisar$a DIR Envalira CL
+          1	F060 PLAY Andorra CG-2 Km 2.8 Encamp DIR Andorra CL;Radar
+          1	Fagina
+          1	Falco
+          1	Fals coll dels Isards
+          1	Farmacia
+          1	Farmacia Carlemany
+          1	Farmacia Garalla
+          1	Farmacia Gerrero
+          1	Farmacia Guerrero
+          1	Farmacia Júlia Centre
+          2	Farmacia Pasteur
+          1	Farmacia Pirineus
+          1	Farmacia del Pont
+          1	Farmacua Europa
+          1	Farmacua Galeno 3
+          1	Farmàcia Edelweiss
+          1	Farmàcia Galeano 2
+          1	Farmàcia Galeno
+          1	Farmàcia Manresa
+          1	Farmàcia de les Escoles
+          1	Farmàcia de les Pistes
+          1	Farmàcia del Pas
+          1	Fenix
+          1	Ferrata Roc d'Esquers
+          1	Ferreteria Principat
+          1	Festa Brava
+          1	Fijat
+          1	Fis
+          2	Fleca Font
+          1	Fletxa
+          1	Fnac
+          1	Foix
+          7	Font
+          1	Font Bullidora
+          2	Font Roja
+          1	Font d'Argent
+          1	Font de Besurt
+          1	Font de Ferrossins
+          1	Font de Govern
+          1	Font de l'Esquerola
+          1	Font de l'Àrtic
+          1	Font de la Gabatxa
+          1	Font de les Ordigues
+          1	Font del Marge Comerç
+          1	Font dels Clots de la Llosa
+          1	Font dels Comellassos
+          1	Font dels Traginers
+          1	Fontanals
+          1	Fontanals de les Roques
+          1	Fontaneda
+          1	Foot on Mars
+          1	Fort Blanca
+          1	France
+          1	France (terres)
+         17	France - Andorra
+          9	France - España
+          1	France - cantons (mars 2015)
+          1	France métropolitaine
+          1	France métropolitaine (terres)
+          1	France, Code de la Route
+          1	France, jours fériés
+          1	France, vacances scolaires, zone C
+          1	Frankfurt Cerni
+          1	Freeride
+          1	Fundacio Actua Tech
+          1	Funicamp
+          1	Fura
+          1	G-STAR RAW
+          1	GPR La volta a Andorra
+          2	GR 11
+          1	GR 11 Senda Pirenaica
+          1	GR 11.10
+          1	GR 7 - Andorra
+          1	GR 7 - Catalunya (Província de Lleida)
+          1	GR 7: Andorra - Estrecho de Gibraltar
+          5	GR-11
+          1	GR11 - Senda Pirenaica
+          1	GR11 E13 - Engorgs - Encamp
+          1	GR11 E14 - Encamp - Arinsal
+          1	GR11 E15 - Arinsal - Refugi de Vallferrera
+          1	GR11 Traçat principal - Sender del Pirineu
+          1	GR7
+          5	GRP1
+          1	Gabatxa
+          8	Gala
+          3	Gala Perfumeries
+          1	Gall De Bosc
+          1	Gall de Bosc
+          1	Ganja Bar Valira
+          1	Garatge Auto David
+          1	Garden, Hotel Rutllan
+          1	Garralla
+          1	Gasstation
+          1	Geox
+          1	Gestiès
+          1	Giberga Apartments
+          1	Gimnàs Fit
+          1	González-Adrio
+          1	Govern D'Andorra
+          1	Gran Duc
+          1	Gran Farmàcia
+          1	GrandValira
+          1	Grandalla
+          1	Grandalles
+          1	Grandvalira (Sector d'Encamp)
+          1	Grandvalira (Sector de Canillo)
+          1	Grandvalira (Sector de Grau Roig)
+          1	Grandvalira (Sector de Pas de la Casa)
+          1	Grandvalira (Sector de Soldeu)
+          1	Grandvalira (Sector del Tarter)
+          1	Granja
+          1	Granja La Cantonada
+          1	Granja Pastissería Xocolatí
+          1	Granota
+          1	Grau Roig
+          1	Grill
+          1	Grio
+          1	Guineu
+          1	Guitart
+          1	HRP Variante
+          1	HRP Variante 29.1
+          1	HRP Variante 29.4
+          1	HRP Variante 30-31.1
+          1	HRP Variante 30.1
+          1	HRP Variante 31.1
+          1	HRP Variante 32.1
+          1	HRP Étape 30
+          1	HRP Étape 31
+          1	HRP Étape 32
+          2	Haute Randonnée Pyrénéenne
+          1	Haute-Ariège
+          1	Havana Club
+          1	Helipad La Massana
+          1	Hertz
+          1	Hertz Car Rental
+          1	Hesperia Andorra la Vella
+          1	Himalaia Soldeu
+          1	Hiper Pas IV
+          1	HiperPas I
+          1	HiperPas II
+          1	Història de la Marratxa
+          1	Hola Andorra self catering ski chalet
+          1	Homenatge a k'emugrant
+          1	Honorary Consulate of the Czech Republic
+          1	Hospital de Nostra Senyora de Meritxell
+          1	Hostal Cisco De Sans
+          2	Hostal Palanques
+          1	Hotel Alfa Andorra
+          1	Hotel Arinsal
+          1	Hotel Ayma
+          1	Hotel Babot
+          1	Hotel Bellpí
+          1	Hotel Bringué
+          1	Hotel Bruxelles
+          1	Hotel Building
+          1	Hotel Burna
+          1	Hotel Cal Daina
+          1	Hotel Carlton Plaza
+          1	Hotel Catalunya
+          1	Hotel Cims
+          1	Hotel Coma Bella
+          1	Hotel Comapedrosa
+          1	Hotel Cristina
+          1	Hotel Del Clos
+          1	Hotel Del Tarter
+          1	Hotel Euro Esqui
+          1	Hotel Font
+          1	Hotel Himalaia Soldeu
+          1	Hotel Himalaya
+          1	Hotel Ibis
+          1	Hotel Imperial
+          1	Hotel Les Fonts
+          1	Hotel Llac Negre
+          1	Hotel Magic
+          1	Hotel Magic Ski
+          1	Hotel Marco Polo
+          1	Hotel Meta
+          1	Hotel Màgic
+          1	Hotel Naudi
+          1	Hotel Nordic
+          1	Hotel Novotel Andorra
+          1	Hotel Ordino
+          1	Hotel Oriol
+          1	Hotel Palomé
+          1	Hotel Parador Canaro
+          1	Hotel Patagonia
+          1	Hotel Piolets
+          1	Hotel Piolets et Spa
+          1	Hotel Plaza
+          1	Hotel President
+          1	Hotel Princep
+          1	Hotel Princesa Parc
+          1	Hotel Roc de Caldes
+          1	Hotel Roc de Sant Miquel
+          1	Hotel Rutllan
+          1	Hotel Sant Eloi
+          1	Hotel Sant Jordi
+          1	Hotel Sol-Park
+          1	Hotel Solana
+          1	Hotel Sport
+          1	Hotel Sport Hermitage
+          1	Hotel Tudel
+          1	Hotel Valmar
+          1	Hotel Xalet Besoli
+          1	Hotel Xalet Verdu
+          1	Hotel del Pui
+          1	Hotel del Serrat
+          1	Hotel la Coma
+          1	Hugo Boss
+          1	Husa Cèntric Hotel
+          1	Husa Imperial Hotel
+          1	Hyundai
+          1	Hôtel Himalaia Pas
+          1	Hôtel Le Sporting
+          1	IDEAL
+          1	Iberia
+          1	Iglesia de Sant Bartomeu
+          1	Iglesia de Sant Cornell y Sant Cebrià de Ordino
+          1	Iglesia de Sant Cristòfol de Anyós
+          1	Iglesia de Sant Ermengol
+          1	Iglesia de Sant Iscle y Santa Victòria
+          1	Iglesia de Sant Julià i Sant Germà
+          1	Iglesia de Sant Martí de La Cortinada
+          2	Iglesia de Sant Miquel d'Engolasters
+          1	Iglesia de Sant Romà de Vila
+          1	Illa Carlemany
+          1	Intersport Outdoor
+          1	Iron Museum
+          1	Isard
+          1	Isards
+          1	Istambul Döner kebab
+          1	Istanbul Kebab Pizzeria Andorra
+          1	Jamaica
+          2	Jardí botànic
+          1	Jardí de Riba
+          1	Jaume plensa
+          1	Jeans Culte
+          1	Jordi Angles
+          1	Jorma
+          1	Jorma Trail & Bike
+          1	Jormabike
+          1	Juberri
+          5	Júlia
+          1	K-tuin
+          1	Kebab
+          1	Kyu
+          1	L'Alternativa
+          4	L'Ariège
+          1	L'Ermita
+          1	L'Escala electronic store
+          1	L'Escenari de pizzes
+          1	L'Hospitalet-près-l'Andorre
+          1	L'Hospitalet-près-l'Andorre I
+          1	L'Hospitalet-près-l'Andorre II
+          1	L'Hospitalet-près-l'Andorre T
+          1	L'Obac de Santa Coloma
+          1	L'Orri
+          1	L'arroseria
+          1	L'enoteca
+          1	L'era del Rossell
+          3	LA SERRA
+          1	LA SERRA 2
+          1	LA SIERRA 2
+          1	La Birreria
+          1	La Cantina dels Racons
+          1	La Capricciosa
+          1	La Carbonera
+          1	La Caseta de Xocolata
+          1	La Caubella
+          1	La Cirera
+          1	La Dorada El Tarter
+          1	La Flambada del raco
+          1	La Font d'Arans
+          1	La Font de Sansa
+          1	La Garonne
+          2	La Massana
+          1	La Massana Park
+          1	La Massana outdoor swimming pool
+          1	La Mossegada
+          1	La Perla Negra
+          1	La Piazza
+          2	La Placeta
+          1	La Planada
+          1	La Plazzeta
+          1	La Portella de la Cebollera
+          1	La Quadra
+          1	La Ruta del Ferro
+          1	La Sierra
+          1	La Sirena
+          1	La Solana Apartaments
+          1	La Taberna Italiana
+          1	La Tagliatella
+          1	La Tossa I
+          1	La Tossa II
+          1	La Vaca Morta
+          1	La Vianda Buffet de Muntanya
+          1	La noblesse du temps. Salvador Dalí
+          1	La rosa
+          1	Lake Placid
+          1	Languedoc-Roussillon
+          1	Lercoul
+          2	Les Abelletes
+          1	Les Cabannes
+          1	Les Canadilles
+          1	Les Closes
+          1	Les Escaldes
+          3	Les Fontetes
+          1	Les Mines a Llorts
+          2	Les Moles
+          1	Les Pardines
+          1	Les Portelles
+          1	Les Pyrénées catalanes
+          1	Les Salines
+          1	Les Subiranes
+          1	Les caldes
+          1	Levi's
+          1	Lift Pass Office
+          1	Line L5
+          3	Line L6
+          1	Lines L1-L2-L3-L4-L5-L6
+         13	Lines L6-L5
+          1	Lizarrán
+          1	Lizzaran
+          1	Llac
+          1	Llac d'Engolasters
+          1	Llac del Cubil
+          1	Llac i Cel
+          1	Llacuna Superior
+          1	Llebre
+          1	Lleida
+          1	Llenceria Fanny
+          1	Lles de Cerdanya
+          1	Llibreria la Puça
+          1	Lloc de Repos de Redort
+          1	Llop
+          3	Llorts
+          1	Llum d'Oli
+          1	Llumeneres
+          1	Luar perruquers
+          1	Lugguage
+          1	MAXIAVALANCHE ENDURO
+          1	MAXIAVALANCHE INFERIOR
+          1	MAXIAVALANCHE SUPERIOR
+          1	MW Museu de l'Electricitat
+          1	Mare de Déu de les Neus
+          1	Margarida
+          1	Marge i Terres No.2
+          1	Marge i Terres No.3
+          2	Margineda
+          1	Market Hall
+          1	Marmota
+          1	Marroquineria Sussi
+          2	Mas d'en Soler
+          1	Mas de Ribafeta
+          1	Mas d’Alins
+          1	Massana Parc
+          1	Mauco
+          1	Maxi Mercat
+          1	Maximercat
+          3	McDonald's
+          2	McDonalds
+          1	Menera
+          1	Mercure Andorra
+          1	Meritxell
+          1	Metropolis
+          1	Midi-Pyrénées
+          1	Miquel
+          1	Mirador
+          1	Mirador Riu Runer (1.500m)
+          1	Mirador Roc de Quer
+          1	Mirador del Bosc de les Allaus
+          1	Mirador del Toll Bullidor
+          1	Mitjavila
+          1	Moli de Mas d'en Soler
+          1	Molí d'en Guillem
+          1	Molí de Canillo
+          1	Molí dels fanals
+          1	Monoprix
+          1	Mont-roig
+          1	Montalto
+          2	Montmalús
+          2	MoraBanc
+          1	Morabank
+          1	Moreto
+          1	Motocard
+          1	Mountain Tarter Hostel
+          1	Muflo
+          1	Mulligan's
+          1	Multimoto
+          1	Museo Nacional de la Automòbil
+          1	Museu Casa Rull
+          1	Museu Casa de Areny-Plandolit
+          1	Museu Etnogràfic Casa Cristo
+          1	Museu Iconogràfic Sant Jordi i del Cristianisme
+          1	Museu Obert de Geologia. Roques al Carrer
+          1	Museu Postal
+          1	Museu d'Art Sacre
+          1	Museu de la Miniatura
+          1	Museu de la Moto
+          1	Museu de roques al carrer
+          1	Museu del Perfum
+          1	Museu del Tabac
+          1	Mussol
+          1	Màgic Pas
+          1	Mérens-les-Vals
+          1	NEXUS ANDORRA TELECOM
+          1	NGV849
+          1	NGV850 (f®1567)
+          1	Nagol
+          3	Naturlandia
+          1	Next Health Club
+          1	Nord Andorra
+          1	Nordic Esports
+          1	Novavista
+          1	Ntrepans Freds i calents
+          1	Nursery Slopes
+          1	Obac Solana
+          1	Obac d'Envalira
+          1	Obac d'Incles
+          1	Obac de Canillo
+          1	Obac de Soldeu
+          1	Obac del Tarter
+          1	Obaga
+          1	Obaga de Juclar
+          1	Obagot
+          1	Obelix
+          1	Occitanie
+          1	Ofcina de Tourism
+          1	Oficina Nacional de Turisme
+          1	Oficina Turisme
+          2	Oficina de Turisme
+          1	Oficina de Turisme d'Encamp - Pas de la Casa
+          1	Oficina del Comú d'Encamp
+          1	Ofijet
+          1	Olympia Centre
+          1	Onix
+          1	Opportunities
+          1	Options
+          1	Options+
+          2	Ordino
+          1	Ordino-Arcalis
+          1	Oreneta
+          1	Orlando's Bar
+          1	Oros
+          1	Os
+          1	Outdoor pool, Hotel Rutllan
+          1	Outlet Mango
+          1	PETIT PREU
+          1	Paint Shop
+          1	Pal
+          1	Pal Pobla
+          1	Pal-Arinsal
+          1	Pala Nova
+          1	Palau de Gel
+          1	Pallars Sobirà
+          1	Pallerols - Andorra
+          1	Pampa
+          1	Paniquera
+          1	Panorama
+          1	Papanico
+          1	Parada 5200. Ambaixada d'Espanya
+          1	Parada 5201. Ambaixada d'Espanya
+          1	Parc Central
+          1	Parc Central 2
+          1	Parc Natural Comunal de les Valls del Comapedrosa
+          1	Parc Natural de l'Alt Pirineu
+          1	Parc Natural de la Vall de Sorteny
+          1	Parc Prat Gran
+          1	Parc de la Mola
+          1	Parc naturel régional des Pyrénées Ariégeoises
+          1	Parc naturel régional des Pyrénées catalanes
+          1	Pardal
+          1	Parking
+          1	Parking Comunal de l'Aldosa
+          1	Parking comunal
+          1	Parking l'Aigüeta
+          1	Parking, Hotel Rutllan
+          1	Pas de Ríbuls
+          1	Pas de la Casa
+          1	Pas de la Portaneille
+          1	Pas de les Vaques
+          1	Passage de l'Algüeta
+          1	Passatge Arnaldeta de Caboet
+          1	Passatge de Cedre
+          1	Passatge del Tossal
+          1	Passeig Bordes de Ramonet
+          1	Passeig de Mojocar
+          2	Passeig del Rec del Solà
+          1	Pasta Rapid
+          1	Pastora
+          1	Pavelló Joan Alay
+          1	Pavelló Lycée Comte de Foix
+          1	Pedres Blanques I
+          1	Pedres Blanques II
+          1	Penyes Negres
+          1	Peralba
+          1	Perdiu Blanca
+          1	Perfumeria Andorra
+          1	Perruqueria Nova Style
+          1	Pessons
+          1	Peu del Carrer
+          1	Pic Alt de la Capa
+          1	Pic Alt del Cubil
+          1	Pic Baix del Cubil
+          1	Pic Carroi
+          1	Pic L'Alig
+          1	Pic Maia
+          2	Pic Mari
+          2	Pic Negre
+          1	Pic Negre 2
+          1	Pic Negre 3
+          1	Pic Negre Sports
+          1	Pic Negre d'Envalira
+          1	Pic Negre de Claror
+          1	Pic Oest de Casamanya
+          1	Pic Oriental de Canalbona
+          1	Pic Rodó de Canalbona
+          1	Pic Roi
+          1	Pic Verdaguer
+          1	Pic d'Arcalís
+          1	Pic d'Arial
+          1	Pic d'Encampadana
+          1	Pic d'Enclar
+          1	Pic d'Engaït
+          1	Pic d'Envalira
+          1	Pic d'Escobes
+          1	Pic d'Ortafà I
+          1	Pic d'Ortafà II
+          1	Pic d'Ortafà III
+          1	Pic de Baiau
+          1	Pic de Bassiero
+          1	Pic de Besalí
+          1	Pic de Broate
+          1	Pic de Cabanyó
+          1	Pic de Canalbona
+          1	Pic de Cataperdis
+          1	Pic de Cernalles
+          1	Pic de Clavera
+          1	Pic de Coll Pa
+          1	Pic de Coma Extrema
+          1	Pic de Couillac
+          1	Pic de Creussans
+          1	Pic de Fontargente
+          1	Pic de Maià
+          1	Pic de Medecourbe
+          1	Pic de Meners
+          1	Pic de Mil-Menut
+          1	Pic de Montarenyo
+          1	Pic de Montaud
+          1	Pic de Montestaure
+          1	Pic de Monturull
+          1	Pic de Màniga
+          1	Pic de Noè
+          1	Pic de Padern
+          1	Pic de Palomer
+          1	Pic de Perafita
+          1	Pic de Percanela
+          1	Pic de Pilàs
+          1	Pic de Port de Siguer
+          1	Pic de Ransol
+          1	Pic de Ruf
+          1	Pic de Rulhe
+          1	Pic de Sanfonts
+          1	Pic de Serra Plana
+          1	Pic de Serra-seca
+          1	Pic de Serramitjana
+          1	Pic de Setut
+          1	Pic de Siscaro
+          1	Pic de Sotllo
+          1	Pic de Soulanet
+          1	Pic de Soune
+          1	Pic de Torradella
+          1	Pic de Tristaina
+          1	Pic de Turquilla
+          1	Pic de l Solà d'Erts
+          1	Pic de l'Albeille
+          1	Pic de l'Angonella
+          1	Pic de l'Estany Mort
+          1	Pic de l'Estanyet
+          1	Pic de l'Estanyó
+          1	Pic de l'Hortell
+          1	Pic de la Bassera
+          2	Pic de la Cabaneta
+          1	Pic de la Colilla
+          1	Pic de la Coma de Varilles
+          1	Pic de la Coume d'Enfer
+          1	Pic de la Coume de Seignac
+          1	Pic de la Font Blanca
+          1	Pic de la Maiana
+          1	Pic de la Pala Alta
+          1	Pic de la Pala de Coll Carnisser
+          1	Pic de la Portella dels Colells
+          1	Pic de la Raconada de la Maiana
+          1	Pic de la Rouge
+          1	Pic de la Serrera
+          1	Pic de la Tartera
+          1	Pic de la Tossa de Juclar
+          2	Pic de les Fonts
+          1	Pic del Feixar
+          1	Pic del Muntanyol
+          1	Pic del Port Vell
+          1	Pic del Sirvent
+          1	Pic dels Aspres
+          1	Pic dels Colells
+          1	Pic dels Lavans
+          1	Pic dels Llops
+          1	Pic dels Maians
+          1	Pic des Fangasses
+          1	Pic des Rouges
+          1	Pic des Trois Comtes
+          1	Pic du Portanech
+          1	Pic du Sal
+          1	Pica d'Estats
+          1	Picnic del Travenc
+          1	Picolo, Karaoke Bar
+          1	Pics de Claror
+          1	Piolets
+          1	Pique d'Endron
+          1	Piques de la Pourtaneille
+          1	Pista Llarga
+          1	Pista d'Arduix al Mas d'Alins
+          4	Pista de Sorteny
+          1	Pitiusa
+          3	Pizzeria Angelo
+          1	Pizzeria La Mosquera
+          1	Pizzeria Primavera
+          1	Pizzeria Uruguaia
+          1	Pizzeria Venezia
+          1	Pla de Montcamp
+          1	Pla de l'Estany
+          1	Pla de la Clot
+          2	Pla de les Pedres
+          2	Pla de les Pedres - Andorre
+          2	Placa del Poble
+          1	Placeta Na Maria Pla
+          1	Placeta del Solat
+          1	Planell del Quer
+          1	Planell dels Beços
+          1	Planelles
+          1	Planells de Caraup
+          1	Planells de Rialb
+          1	Plat’in
+          1	Plaus Sport Motor
+          1	Plaza del Contrapas
+          1	Plaza del monumento al inmigrante
+          1	Plaça Coprínceps
+          1	Plaça Fancesc Cairat
+          2	Plaça Guillemó
+          1	Plaça Lidia Armengol
+          1	Plaça Major
+          1	Plaça Príncep Benlloch
+          2	Plaça Rebés
+          1	Plaça de la Germandat
+          1	Plaça de la Sardana
+          1	Plaça de les Fontetes
+          1	Plaça del Poble
+          1	Plaça dels Coprinceps
+          1	Plaça dels Coprínceps
+          1	Plaça la Rotonda
+          1	Pleta d'Aixirivall
+          1	Pleta de la Cabana Sorda
+          1	Pleta de les Bacives
+          1	Pleta de les Planes
+          1	Pleta dels Borrencs
+          1	Pneumatics F1
+          1	Pneumàtics Pirineu
+          1	Policia
+          1	Policia D'Andorra
+          1	Policia d'Andorra
+          1	Poliesportiu d'Andorra
+          1	Pont Pla
+          1	Pont d'Ansalonga
+          2	Pont d'Anyos
+          1	Pont d'Engordony
+          1	Pont d'Entremesaigües
+          1	Pont de Casadet
+          1	Pont de Faucellers
+          2	Pont de Lisboa
+          2	Pont de Madrid
+          1	Pont de Molleres
+          5	Pont de Paris
+          1	Pont de Sant Antoni
+          1	Pont de Sant Antoni de la Grella
+          1	Pont de Santa Caterina
+          1	Pont de Sassanat
+          1	Pont de la Baladosa
+          1	Pont de la Margineda
+          1	Pont de les Palanques
+          2	Port Dret
+          3	Port Negre
+          2	Port Vell
+          1	Port Vieux de Coume d'Ose
+          1	Port d'Arinsal
+         34	Port d'Envalira
+          1	Port d'Incles
+          1	Port de Bagnels ou de Soulanet
+          1	Port de Cabús
+          1	Port de Creussans
+          1	Port de Guiló
+          1	Port de Ransol
+          1	Port de Rat
+          1	Port de Setut
+          1	Port de Siguer
+          1	Port de Vallcibera
+          1	Port de Vallcivera
+          1	Port de l'Albeille
+          1	Port de l'Estany Esbalçat
+          1	Porta
+          1	Portell de Sorteny. 1.88o m
+          2	Portella
+          1	Portella Blanca
+          1	Portella Blanca d'Andorra
+          1	Portella Joan Antoni
+          1	Portella d'Envalira
+          1	Portella de Baiau
+          1	Portella de Comallempla
+          1	Portella de Joan Antoni
+          1	Portella de Rialb
+          1	Portella de Ríbuls
+          1	Portella del Forn
+          1	Porté-Puymorens
+          1	Poselletes
+          1	Prades
+          1	Prat Gran
+          2	Prat Sobirans
+          2	Prat del Ruiders
+          1	Prat dels Orris
+          1	Prats
+          1	Principat Parc - Bloc Central
+          1	Principat Parc - Bloc Espanya
+          1	Principat Parc - Bloc França
+          1	Pub Corinthia
+          1	Pui Agut
+          1	Pui d'Urdosa
+          1	Pui de Tabaca
+          1	Pui de la Missa
+          1	Puiol del Piu
+          1	Pull&Bear
+          1	Punta de Gabarró
+          1	Punta de Peiraguils
+          1	Punta de Romaset
+          1	Punta del Port
+          1	Pyrénées
+          1	Pyrénées Hyper-Centre
+          1	Pyrénées-Orientales
+          3	Quars
+          1	R. Palacios
+          1	RECORD III
+          1	ROUTE 66
+          6	Radar
+          1	Radar Aixovall Dir. Andorra
+          1	Radar Aixovall Dir. Espanya
+          3	Rambla Molines
+          1	Ramón Borra
+          1	Ransol
+          1	Rapsodia Marrugat
+          1	Ray-Ban
+          2	Rec de l'Eixerca
+          2	Rec del Baladrar
+          1	Red X
+          1	Refuge de Coma Obaga - andorre
+          1	Refugi Borda de Sorteny
+          1	Refugi Fra Miguel
+          1	Refugi Montmalús
+          1	Refugi d'Ensagents
+          1	Refugi de Cabana Sorda
+          1	Refugi de Claror
+          1	Refugi de Comapedrosa
+          1	Refugi de Coms de Jan
+          1	Refugi de Fontverd
+          1	Refugi de Francolí
+          1	Refugi de Juclar
+          1	Refugi de Llosada
+          1	Refugi de Perafita
+          1	Refugi de Prat Primer
+          1	Refugi de Rialb
+          1	Refugi de Riba Escorxada
+          1	Refugi de Roca de Pimes
+          1	Refugi de Sorteny
+          1	Refugi de l'Angonella
+          2	Refugi de l'Illa
+          1	Refugi de la Portella
+          1	Refugi de la Vall del Riu
+          1	Refugi de les Agols
+          1	Refugi de les Fonts
+          2	Refugi del Pla de l'Estany
+          1	Refugi del Siscaró
+          3	Repsol
+          1	Resedencia Daina
+          1	Residential de l'Aldosa
+          1	Restaurant Benito
+          1	Restaurant El Bon Racó
+          1	Restaurant Font de Ferrosins
+          1	Restaurant Hotel Parador Canaro
+          1	Restaurant La Pantera
+          1	Restaurant Panoramix
+          1	Restaurant Pizzeria Venecia
+          1	Restaurant Refugi del Llac de Pessons
+          1	Restaurant San Telmo
+          1	Restaurant del Prat Gran
+          1	Restaurant/Bar Ciscos
+          1	Restaurant/Bar Mollies
+          1	Restaurante L'Aigüeta
+          1	Riba Escorxada
+          1	Riberal
+          1	Ribuls
+          1	Ribuls Occ.
+          1	Ribuls Or.
+          1	Riu Aixec
+          1	Riu Comis Vella
+          1	Riu Del Cubill
+         15	Riu Gran Valira
+          1	Riu Gros
+          1	Riu Llosà
+          1	Riu Madriu
+          1	Riu Montaner
+          1	Riu Siscaró
+          1	Riu Tristaina/Valira del Nord
+          1	Riu d'Aiguarebe
+          1	Riu d'Aixirivall
+          7	Riu d'Arinsal
+          1	Riu d'Aubinyà
+          3	Riu d'Enclar
+          1	Riu d'Engaït
+          3	Riu d'Ensagents
+          5	Riu d'Incles
+          1	Riu d'Os de Civís
+          1	Riu d'Urina
+          2	Riu de Cabana Sorda
+          1	Riu de Casamanya
+          1	Riu de Claror i Perafita
+          5	Riu de Comallempla
+          1	Riu de Comapedrosa
+          1	Riu de Ferreroles
+          1	Riu de Juclar
+          1	Riu de Llumeneres
+          1	Riu de Massat
+          1	Riu de Montmalús
+          1	Riu de Pal
+          1	Riu de Perafita
+          2	Riu de Rialb
+          5	Riu de Segudet
+          1	Riu de Setúria
+          1	Riu de Sorteny
+          1	Riu de l'Angonella
+          1	Riu de l'Enfreu
+          2	Riu de l'Ensegur
+          1	Riu de l'Espluga
+          1	Riu de l'Estany de l'Isla
+          1	Riu de l'Estanyó
+          2	Riu de l'Estorredor
+          1	Riu de l'Ovella
+          1	Riu de la Cebollera
+          3	Riu de la Coma
+          2	Riu de la Comella
+          1	Riu de la Moixella
+          1	Riu de la Peguera
+          1	Riu de la Serrera
+          1	Riu de la Sonala del Forn
+          1	Riu de la Vall del Riu
+          1	Riu de les Aubes
+          1	Riu de les Pardines
+          3	Riu de les Portelles
+          6	Riu de les Solanelles
+         11	Riu del Cubil
+          1	Riu del Forn
+          1	Riu del Manegor
+          1	Riu del Querol
+          1	Riu dels Colells
+          1	Riu dels Meners
+          1	Riu dels Orris
+          1	Riu dels Pessons
+          1	Riu dels Planells de Caraup
+          1	River
+          1	Roc Mele
+          1	Roc d'Aïll
+          1	Roc de Castell
+          1	Roc de la Cauba
+          1	Roc de les Bruixes
+          1	Roc del Castell
+          1	Roca Entravessada
+          1	Roca Entrevesada
+          1	Rocòdrom d'Ordino
+          1	Rocòdrom de Canillo
+          1	Roser Miró
+          1	Rossinyol
+          1	Royal Cigar
+          1	Ràmio
+          1	Ríbuls
+          1	S. Coloma
+          1	SARquavitae Salita
+          1	Sabarthès
+          1	Sabor Kebab i Pizzas
+          1	Safari
+          1	Saillagouse
+          1	Salador
+          1	Salvador Dali sculpture
+          1	Salvans
+          1	Sant Andreu
+          1	Sant Andreu d’Arinsal
+          1	Sant Antoni de la Grella
+          1	Sant Bartomeu
+          1	Sant Cerni de Nagol
+          1	Sant Climent
+          1	Sant Cristofol d'Anyos
+          1	Sant Esteve de Bissisarri
+          1	Sant Esteve de Juberri
+          1	Sant Esteve de Mas d'Alins
+          1	Sant Jaume
+          2	Sant Joan de Caselles
+          2	Sant Julià de Lòria
+          1	Sant Marc i Santa Maria
+          1	Sant Martí
+          1	Sant Miquel de Prats
+          1	Sant Miquel i Sant Joan de la Mosquera
+          2	Sant Pere
+          1	Sant Pere Màrtir
+          1	Sant Pere d'Aixirivall
+          1	Sant Pere del Tarter
+          1	Sant Romà d'Auvinyà
+          2	Sant Serni
+          1	Sant Vicenç d'Enclar
+          1	Santa Bàrbara
+          1	Santa Caterina
+          3	Santa Coloma
+          1	Santa Creu
+          1	Santa Eulàlia
+          1	Santa Romà de les Bons
+          1	Santuari de Nostra Senyora de Maritxell
+          2	Santuari de la Mare de Déu de Canòlic
+          1	Santuari vell de Meritxell
+          1	Sector d'escalada de les Cascades del Torrent d'Urina
+          1	Segle XX
+          1	Segudet
+          1	Serra de les Solanelles
+          1	Serra do Gerês
+          1	Serralleria Puy
+          1	Serrat Pinos
+          1	Serrat de la Posa
+          1	Servei de Circulació Comunal
+          1	Server
+          1	Set Poetes
+          1	Setúria
+          1	Shibori
+          1	Shusski Bar
+          1	Siguer
+          1	Siguer I
+          1	Sispony
+          1	Sisè Estany
+          1	Ski School
+          1	Snackbar El Clos
+          1	Soho
+          1	Sol y Montanya
+          1	Sol y Muntanya
+          1	Solana
+          1	Solana de Juclar
+          1	Solanella
+          1	Solanelles
+          1	Solarchek
+          1	Soldeu
+          1	Somriu Hotel Vall Ski
+          1	Sornás
+          1	Souvenir Shop at the Top of Gondola
+          1	Spar
+          1	Sport Shop
+          1	Sporthotel Village
+          1	Sports Calbo
+          1	Sports shop
+          1	St. Gothard
+          1	Starbucks
+          1	Steak House
+          1	Storage service
+          1	Subway
+          1	Sucarà
+          1	Sunset Park Peretol
+          1	Super Basar Bon Perú
+          2	Super Pal
+          1	Super U
+          1	SuperdryStore
+          1	Supermercado Saint Moritz
+          1	Surf
+          1	Surf Evasio Skiset
+          1	Sushi and Gong
+          1	Swarovski
+          1	Sàlvia d’or
+          1	TC Funicamp
+          1	TC10 Tarter
+          1	TC8 Canillo
+          1	TC8 Soldeu
+          2	TCB Tristania
+          1	TECOB - Internet, Programació, Sistemes
+          1	TK Bassots
+          1	TK Bosc
+          1	TK Clot
+          1	TK Coma Blanca III
+          1	TK Cortals
+          1	TK Cortals II
+          1	TK El Peretol
+          1	TK Encampadana
+          1	TK Escola
+          1	TK Espiolets
+          1	TK Fonts roges
+          1	TK Llac del Cubil
+          1	TK Llosada
+          1	TK Montmalús
+          1	TK Pessons
+          1	TK Pic Blanc
+          1	TK Riba
+          1	TK el Forn
+          1	TLC Les Abelletes IV
+          1	TSD Coma Blanca
+          1	TSD4 Cubil
+          1	TSD4 Les Antenes
+          1	TSD4 Pas de la Casa
+          1	TSD4 Portella
+          1	TSD4 Tarter
+          1	TSD6 Font Negre
+          1	TSD6 Llosada
+          1	TSD6 Pic Blanc
+          1	TSD6 Pla de les Pedres Grau Roig
+          1	TSD6 Pla de les Pedres Soldeu
+          1	TSD6 Solana
+          1	TSD6 Soldeu
+          1	TSD6 Tosa Espiolets
+          1	TSF2 Coll Blanc
+          1	TSF2 Coll dels Isards
+          1	TSF2 Riba
+          1	TSF2 Riberal (decomissioned)
+          1	TSF4 Assaladors
+          1	TSF4 Colibrí
+          1	TSF4 Costa Rodona
+          1	TSF4 Enradort
+          1	TSF4 Júnior
+          1	TSF4 La Solana
+          1	TSF4 Llac del Cubil
+          1	TSF4 Pi de Migdia
+          1	TSF4 Solanelles
+          1	TSF4 Xavi
+          1	TSF4 els Clots
+          1	Taberna Angel Belmonte
+          1	Taberna Excalibur
+          1	Taller Call
+          1	Taller de Govern
+          1	Tallers Benjami
+          2	Tamarro
+          1	Tapís Escola Riba
+          1	Tapís Jardí Forn
+          1	Tapís Jardí Riba
+          1	Tapís Les Abelletes IV
+          1	Tapís Tubbing
+          1	Tarteres del Mig Carretera 2
+          1	Tatú
+          1	Taupes
+          1	Taverna Andorra
+          1	Taverna Comapedrosa
+          1	Teixidó
+          1	Teixo
+          3	Telecabina La Massana
+          1	Teleférico
+          1	Temple Bar
+          1	Tercer Estany
+          1	Terme Camp dels Mare de Deu
+          5	Termes de Tarteres
+          1	Terra Hortells tambe Caubella
+          1	Terres de Miró
+          1	Tertulia
+          1	The Body Shop
+          1	The Camden - English Pub
+          1	Til ler
+          4	Tobotronc
+          1	Toll Bullidor
+          1	Torrallardona
+          1	Torre dels Moros (Castell de les Bons)
+          1	Torrent de la Font del' Altar
+          1	Torrent de les Corxessanes
+          1	Torrent del Forn
+          1	Tortuga
+          1	Tosa d'Incles
+          1	Tosa de Espiolets
+          1	Tosa de Juclar
+          1	Tosa de Llosada
+          1	Tosa de Siscaro
+          1	Tosa de la Llosada
+          1	Tossa
+          1	Tossa Dels Espiolets
+          1	Tossa Plana de Lles
+          1	Tossa del Braibal
+          1	Tossal Bovinar
+          1	Tossal d'Incles
+          1	Tossal del Puial
+          1	Tosse de Pédourrés
+          1	Tosseta de Vallcivera
+          3	Total
+          1	Totaneta
+          1	Totel Plaza
+          1	Tourist Information
+          1	Tous
+          1	Traldis Porta
+          1	Transversal
+          1	Travessia d'Ordino
+          1	Trencalès
+          1	Triatló
+          1	Tub Estadi
+          1	Tub del Coll
+          1	Tubs
+          1	Tuc Blanc
+          1	Tuc de Barbeguer
+          1	Tuc de Geu
+          1	Tuc de Montabòna
+          1	Tuc de Portavera
+          1	Tuc de Vinhau
+          1	Tuc de la Llança
+          1	Tuc dera Peguilha
+          1	Tunèl del Pont Pla
+          1	Turó Punçó
+          1	Turó de Fleco
+          1	Two Brothers
+          1	Túnel d'Envalira
+          1	Túnel de les Dos Valires
+          1	Túnel de les dos Valires
+          1	Universitat d'Andorra
+          1	Urb Sorribes
+          1	Urb. Besillosa i Costes Teixidor
+          2	Urb. Borda Rutllan
+          1	Urb. El Salze
+          1	Urb. Girault
+          1	Urb. Sant Romá dels Vilars
+          1	Urb. l'Oriosos
+          1	Urban
+          1	Urban Gym
+          1	Urbanització Comes de Guem
+          1	Urbanització Ermengol Sera
+          2	Urbanització Giberga
+          1	Urgències del Pas
+          1	V Enradort
+          6	Valira
+         10	Valira d'Orient
+          6	Valira del Nord
+          1	Vall d'Ordino Golf Club
+          1	Vall de Sorteny
+          1	Vall del Madriu-Perafita-Claror
+          1	Vallnord BikePark
+          1	Vallnord: Sector Arcalís
+          1	Vallnord: Sector Arinsal
+          1	Vallnord: Sector Pal
+          1	Vallées d'Ax
+          1	Versió Original
+          1	Via ferrada Canal del Grau
+          1	Via ferrada Tossal Gran d'Aixovall
+          1	Via ferrada de Sant Vicenç d'Enclar
+          1	Via ferrafa Canal de la Mora
+          5	Vial de la Uniò
+          1	Vial dels Pujols
+          1	Vicdessos
+          2	Viena
+          1	Vila
+          1	Viladomat
+          2	Viladomat Sport
+          1	Vintage
+          1	Voltor
+          1	Woodpark
+          1	Xalet el cresp
+          1	Xalet l'Estall
+          1	Xalet l'Heura
+          1	Xalets la Closa
+          1	Xixerella
+          1	Yamaha
+          1	Z ANDCO
+          5	avinguda Rocafort
+          1	base: Yeti Esports
+          1	bp
+          1	camping/estadio communal
+          1	camí al Roc del Castell
+          2	camí de la marta
+          1	carrer Casa Comuna
+          2	carrer de les Escoles
+         19	carretera General 1
+          1	carwash
+          1	casa
+          1	celio*
+          2	centmobel
+          1	centre esportiu de Sant Julia de Loria
+          2	cirerer
+          1	club gents gran
+          1	cortals
+          1	el Bec
+          1	el Besurt
+          1	el Besurt II
+          1	el Bosc
+          1	el Bosquet
+          1	el Buners d'Ordino
+          1	el Coll
+          1	el Contrapàs
+          1	el Cortal
+          2	el Cortalet
+          1	el Cubil
+          1	el Faro
+          2	el Forn
+          1	el Gall
+          1	el Mur
+          1	el Planell
+          1	el Pont
+          1	el Pui
+          1	el Rebollar
+          1	el Riu
+          3	el Runer
+          1	el Serrat
+          1	el Tarter
+          1	el Tunel
+          1	el Vilar
+          2	elf
+          1	els Avets
+          1	els Colells
+          1	els Coms
+          1	els Espiolets
+          2	els Estanyons
+          1	els Feixans
+          1	els Orriols
+          1	els Orris
+          1	els Planels
+          1	els Plans
+          1	els Terragals
+          2	els Vailets
+          1	els Vilars
+          1	estret de l'Estanyò
+          1	fixme
+          1	font Boigot
+          1	forn incinerador
+          1	free parking
+          1	hamburger zéro
+          1	if
+          1	if Perfumeries
+          1	it
+          1	l'Abarset
+          2	l'Abarsetar
+          1	l'Aldosa de la Massana
+          1	l'Anella d'Ordino
+          1	l'Avetar
+          1	l'Avi
+          1	l'Escola I
+          1	l'Escola II
+          1	l'Estadi
+          1	l'Estany
+          2	l'Hortell
+          1	l'Obaga
+          1	la Balma
+          2	la Basera
+          1	la Bassa
+          1	la Borda Pairal
+          1	la Borda d l’avi
+          1	la Botella
+          6	la Callisa
+          1	la Canal Gran
+          1	la Canaleta
+          2	la Capa
+          1	la Carbonera
+          5	la Carrera Nova
+          1	la Caubella
+          3	la Coma
+          1	la Cortinada
+          2	la Cot
+          1	la Dama del Llac
+          1	la Font
+          1	la Margineda
+          1	la Menera
+          1	la Pala
+          1	la Portella d'Arcalis
+          1	la Portella del Mig
+          1	la Rabassa
+          1	la Sangria
+          4	la Serra
+          1	la Serra 2
+          1	la Solana
+          1	la Soldanella
+          1	la Tosa de les Mussoles
+          2	la Tossa
+          7	la Valira
+          1	la birreria Andorra
+          1	la llar de l’artesà - Borda Popaire
+          1	les Bons
+          1	les Bordes d'Envalira
+          1	les Canals
+          1	les Congestes
+          2	les Fonts
+          1	les Marrades
+          2	les Pardines
+          1	les Salines
+          1	les Tarteres
+          1	les Valls de Valira
+          2	linea e1
+          1	l’Aldosa de Canillo
+          1	mola park atiram hotel
+          1	old Credit Andorra Building
+          1	parking Heliport
+          1	parking entry by foot
+          1	parking garalla
+          1	parquing Comú de La Massana
+          1	pas del Monjo
+          1	petromerralles
+          1	pleta de Duedra
+          1	pleta de la Rabassa
+          1	pont de Puntal
+          1	pont dels Barrons
+          1	prat de solana
+          1	public parking
+          1	roc del Rellotge
+          1	saleres de l'Estanyò
+          5	sender de l'Esquirol
+          1	sender del Grau de la Llosa
+          1	thecigarshop
+          1	tires
+          1	tobotronc
+          1	tourist information
+          1	www.fotocinecolor.com
+          1	Àliga
+          1	Àrea de descans
+          1	Étang de Soulanet
+          1	Òptica Sorteny
+          1	利奥尔茨小镇停车场

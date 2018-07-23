@@ -1,0 +1,2703 @@
+          1	(Store Malene) 761 m
+          1	07 / 25
+          1	08T/26T
+          1	1
+          1	100 m
+          2	1000 m
+          1	1004 m
+          1	1030 m
+          1	1058 m
+          1	1061 m
+          1	1064 m
+          1	1101 m
+          1	1110 m
+          1	1156 m
+          1	1190 m
+          1	1200 m
+          1	1210 m
+          1	1223 m
+          1	1264 m
+          1	1287 m
+          1	1310 m
+          1	1314 m
+          1	1330 m
+          1	1347 m
+          1	1350 m
+          1	1450 m
+          1	1478 m
+          1	1490 m
+          1	1493 m
+          1	1530 m
+          1	18-36
+          1	2
+          2	200 m
+          1	3
+          1	300 m
+          1	329 m
+          1	350 m
+          1	4
+          3	400 m
+          8	400-rtalik
+          2	400-rtalik Majuartarfiit
+          1	450 m
+          1	5
+          3	500 m
+          1	550 m
+          1	559 m
+          1	6
+          1	60 North Greenland
+          1	60' North Greenland
+          2	600 m
+          1	690 m
+          1	697 m
+          1	700 m
+          1	701 m
+          1	766 m
+          1	772 m
+          2	800 m
+          1	816 m
+          2	825 m
+          1	83-42
+          1	870 m
+          1	900 m
+          1	930 m
+          1	955 m
+          1	A Hereford Beefstouw
+          1	A,B,C,D,E
+          1	A,B,C,D,E,F
+          1	A-34
+          1	A. W. Nielsenip Aqq.
+          1	ADT 14000
+          1	ATOW1996
+          2	Aadarujuup Aqquserna
+          1	Aadarujuup Aqquserna 111-149
+          1	Aadarujuup Aqquserna 151-185
+          1	Aadarujuup Aqquserna 187-221
+          1	Aadarujuup Aqquserna 225-237
+          1	Aadarujuup Aqquserna 239-253
+          1	Aadarujuup Aqquserna 258-272
+          1	Aadarujuup Aqquserna 274-288
+          1	Aadarujuup Aqquserna 85-91
+          1	Aadarujuup Aqquserna 95-109
+          1	Aajuitsoq
+          1	Aajuitsup Tasia
+          2	Aalisartut Aqq.
+          1	Aalisartut Aqqutaa
+          1	Aalisartut Aqqutaat
+          1	Aalunnguup atuarfia
+          1	Aalup Aqquserna
+          1	Aanaa's hut
+          2	Aaninngivit
+          1	Aantuukuluup Aqq.
+          7	Aappilattoq
+          1	Aaron Mathiesenip Aqq.
+          2	Aaron Mathiesenip Aqquserna
+          1	Aasiaat
+          1	Aasiaat Grill
+          1	Aasiaat Isarussat
+          1	Aasiaat Museum
+          1	Aasiaat Olie
+          1	Aasiaat Timersortarfiat
+          1	Aasiaat transport
+          1	Aasivissuit – Nipisat
+          2	Abandoned Caterpillar Tractor
+          2	Abel Egedip Aqqutaa
+          1	Adam Mølgaard-ip
+          3	Adammip Aqquserna
+          1	Ado Lyngep Atuarfia
+          3	Adolf Jensensvej
+          1	Affarleq
+          1	Agpalik
+          1	Agssaussat
+          1	Air Greenland A/S
+          1	AirZafari
+          1	Airgreenland Fragt Terminal
+          1	Airgreenland Reception
+          1	Airport Parking Lot
+          1	Ajarsivasik
+          1	Ajaterfik
+          1	Ajoqinnguup Aqq.
+          3	Akeq
+          1	Akerbut
+          2	Akia
+          1	Akia - Emilia Aqq
+          1	Akia - Sarsuatsivinnguup Qulaa
+          1	Akileraartarnermut Aqutsisoqarfik
+          1	Akilia
+          1	Akiliaitseq
+          1	Akillermiut
+          1	Akugdlît nunât
+          1	Akuilisaasaq
+          3	Akuliaruseq
+          1	Akuliarutsip nunâ
+          1	Akunnaap Nunaa
+          2	Akunnaaq
+          5	Akunnerit
+          2	Akunnerit Rundkørsel
+          2	Akunnikasik
+          1	Akunnikasik 33-47
+          1	Akunnikasik 49-83
+          1	Akunnikasik 5-31
+          1	Akureyip Aqq.
+          1	Akutaq
+          1	Alabama Nunatak
+          1	Alanngorlia
+          1	Alanngorsuaq
+          1	Alanngukasik
+          2	Alanngukasiup Qaava
+          1	Alanngunnguit
+          2	Alannguup Saqqaa
+          1	Alderdomshjem
+          2	Alleriisanngivit
+          1	Allerulik
+          1	Alleruusakasit
+          1	Alliit Aqqutaat
+          2	Alluitsoq
+          1	Alluitsup Paa
+          1	Alluitsup Paa - Nanortalik
+          1	Alluitsup Paa - Uunartoq
+          1	Alluttoq
+          1	Alugmio
+          1	Amanga
+          1	Amature (HAM) Radio Station
+          1	Amauligak
+          1	Ameralik (Lysefjord)
+          4	Ameralik Span
+          1	America/Danmarkshavn area
+          1	America/Iqaluit Timezone
+          1	America/Scoresbysund area
+          1	Ammasalik
+          5	Ammassalik
+          1	Ammassalik Fjord
+          1	Ammassivik
+          1	Ammukajaaq
+          1	Ammukajaaq Park
+          1	Amutsivik
+          1	Amutsivimmut Aqqut
+          1	Anaana mad
+          1	Anartussoq
+          1	Anchorman Peak
+          1	Andaliarsip Aqq.
+          4	Anders Olsensvej
+          1	Ane Sofiap Aqquserna
+          1	Angaju
+          1	Angelin Bjerg
+          1	Angisoq Loranstation
+          1	Angissat
+          1	Angmagssalik
+          1	Ankers hytte
+          1	Annaassisitta Oqaluffia
+          1	Annekssø
+          2	Annersuaq
+          2	Annersuaq Børnehave
+          1	Annertusoq
+          1	Annoatok
+          1	Anoraliuirsoq
+          2	Anori Art
+          1	Anoritooq
+          2	Anstalten for Domfældte
+          1	Anstalten for Domfældte i Nuuk
+          1	Anstalten for Domsfælde
+          2	Anuni
+          1	Aonach Mor
+          3	Apisseq
+          2	Appaalissiorfik
+          1	Appaalissiorfiup Ikerasaa
+          1	Appalersalik
+          1	Apparsuit
+          3	Appat
+          1	Apron East
+          1	Apron North
+          1	Apron West
+          2	Apusiaajik
+          1	Apussigaajivitseq
+          1	Aputaiuitsoq
+          1	Aputitoq 1137 m
+          1	Aqajamerngit gulat 1260 m
+          1	Aqajarua
+          3	Aqisseqarajooq
+          1	Aqissilik
+          1	Aqqalu
+          1	Aqqaluartaap Aqquserna
+          2	Aqqaluk
+          1	Aqqaluk Plads
+          1	Aqqaluks plads
+          2	Aqqartarfik
+          1	Aqqitsoq 943 m
+          5	Aqqulluk
+          1	Aqqup Aqquserna
+          1	Aqqusineq Dronning Margrethe II
+         20	Aqqusinersuaq
+          1	Aqqusinersuaq / Kommuneqarfik
+          2	Aqqusinersuaq Arsiffik
+          1	Aqqusinersuaq Katersortafik
+          1	Aqqusinersuaq Katersortafik;Tele Post
+          1	Aqqusinersuaq Kommuneqarfik
+          2	Aqqusinersuaq N.I.
+          2	Aqqusinersuaq Rundkørsel
+          2	Aqqusinersuaq Røde etagehuse
+          2	Aqqusinersuaq Tuujuk
+          2	Aqqusinertaaq
+          1	Aqqutarfik
+          1	Aqqutikitsoq
+          1	Aqssakataup nunâ
+          1	Aquttup Aqq
+          2	Araatip Aqq.
+          1	Arboretum Groenlandicum
+          1	Arctic Cafe
+          1	Arctic Cat
+          1	Arctic Import
+          1	Arctic Keramik
+          1	Arctic Living
+          1	Arctic Prime Fisheries
+          4	Arctic Umiaq Line
+          1	Arctic VVS
+          1	Arfvik
+          1	Arktisk Kommando
+          1	Arktisk Station (Arctic Station)
+          1	Arpatsiviip Qaqqaat
+          2	Arpatsivik
+          1	Arpiup nûa
+          1	Arsaattarfik
+          1	Arssanerit A/S
+          1	Arssarnerit
+          1	Arsuk
+          1	Arsuk Heliport
+          1	Arsuk Umannak
+          1	Arsuutaa
+          1	Asfalt fabrik
+          1	Asiaq Grønlands Forundersøgelser
+          2	Asiarpak
+          1	Assistentboligen
+          1	Assorput
+          4	Asummiunut
+          1	Ataa
+          1	Atammik
+          1	Ataninnguup Tasia
+          1	Ataqqap Aqqutaa
+          1	Atdliva
+          1	Atdlivap tunulia
+          1	Ateqanngitsorsuaq
+          3	Atersuit
+          4	Atertaq
+          1	Atlantic Music ApS
+          2	Attartu
+          2	Attu
+          1	Attu Heliport
+          1	Atuagkat
+          1	Atuarfik Illorsuit
+          2	Atuarfik Jørgen Brønlund
+          1	Atuarfik Mathias Storch
+          1	Atuarfik Pilerfik
+          2	Atuarfik Samuel Kleinschmidt
+          1	Atuarfittaamut
+          2	Augo Lyngesvej
+          2	Augo Lyngip Aqqutaa
+          1	Augpalugtuarssuk
+          1	Aukarnersuaq
+          2	Autdlainiarfik
+          1	Auto Nord
+          1	Autonord
+          3	Avaalaaqiaq
+          3	Avalequt
+          1	Avalia
+          1	Avallia
+          2	Avannamukaanut
+          1	Avannarlermut
+          2	Avannarliit
+          1	Avqusinertaq
+          1	Avqutdluk
+          1	B&A skolen / Piareersarfik
+          1	B-1139 Guesthouse - Lars Bianco Mikaelsen
+          1	B-1502 - Guesthouse - Geo Utuaq
+          1	B-2652
+          1	B-4029
+          1	B-939 Guesthouse - IMG
+          1	BabySam
+          1	Badehaus
+          1	Badestelle
+          2	Baffin Bay
+          1	Balkonen
+          1	Ballesvej
+          1	Bank Nordik
+          1	Bed & Breakfast
+          1	Bernstorff Glacier
+          2	Berthelsenip Aqquserna
+          1	Berzelius Bjerg
+          1	Bethel Kirke
+          1	Bibliotek
+          1	Biludlejning Nuuk
+          1	Bings Cave
+          1	Biologstationen
+          1	Bispegården
+          1	Bjergsti
+          1	Bjornesk Island
+          1	Blaksbjerg
+          2	Blok 1
+          2	Blok 10
+          3	Blok 11
+          3	Blok 12
+          2	Blok 13
+          2	Blok 14
+          1	Blok 16
+          1	Blok 17
+          2	Blok 2
+          1	Blok 2 Festisal
+          2	Blok 3
+          2	Blok 4
+          2	Blok 5
+          2	Blok 6
+          1	Blok 7
+          2	Blok 8
+          2	Blok 9
+          1	Blok 9 og 10 første
+          2	Blok A
+          3	Blok B
+          3	Blok C
+          3	Blok D
+          3	Blok E
+          1	Blok F
+          2	Blok G
+          2	Blok H
+          1	Blok I
+          1	Blok J
+          2	Blok K
+          1	Blok M
+          1	Blok N
+          1	Blok O
+          1	Blue House
+          1	Blue Ice
+          1	Blue Trail
+          1	Blue Water Shipping
+          1	Boatbuilder
+          1	Bobo's optik
+          1	Bolethe Josefsenip Aqq.
+          2	Bolethep Aqquserna
+          5	Border Bouy
+          6	Borgm. Anniita
+          4	Borgmester Aniita Aqqusernga
+          1	Boundary Peak
+          1	Brandstationen i Sisimiut
+          1	Brattahlíð
+          1	Bredebugt
+          1	Bridge
+          1	Bro 1
+          1	Bro 2
+          1	Bro 3
+          1	Bro 4
+          1	Brog og Søster
+          1	Brugsen
+          1	Brugsen, TelePost
+          4	Brugseneeraq
+          1	Brugseneeraq Centrum
+          2	Brugseneeraq Kussangasoq
+          1	Brugseneeraq Nuussuaq
+          7	Brugseni
+          1	Brugsenneeraq Kussangasoq
+          1	Bryn Poeth
+          3	Brættet
+          1	Buksefjorden Vandkraftværk
+          1	Bussemanadgletscher
+          1	Bust of Ejnar Mikkelsen
+          1	Butik
+          1	Butik 3
+          1	Butik 56
+          1	Butik Kræmmerhuset
+          1	Butik Sara
+          1	Buuap nunaataa
+          1	By Heart
+          1	Bygdekontor
+          1	Bygge og Anlægsskolen
+          1	Bygn. 13
+          1	Bygn.1
+          1	Bygn.10
+          1	Bygn.11
+          1	Bygn.12
+          1	Bygn.14
+          1	Bygn.15
+          1	Bygn.16
+          1	Bygn.17
+          1	Bygn.2
+          1	Bygn.3
+          1	Bygn.4
+          1	Bygn.5
+          1	Bygn.6
+          1	Bygn.7
+          1	Bygn.8
+          1	Bygn.9
+          1	Børnehave Sisi
+          2	Børnehaven Esther
+          2	Børnehjemsvej
+          3	C. E Janssensvej
+          1	C. P. Holbøllsvej
+          1	C.E. Janssensvej
+          1	C.P. Holbøllsvej
+          1	Cafe 3
+          1	Cafe Chili
+          1	Cafe Iggu
+          1	Cafe Mik
+          1	Cafe Paamiut
+          1	Cafe Puisi
+          1	Cafe Victor
+          1	Café 44
+          1	Café Heidi
+          1	Café Iluliaq
+          1	Café Inugssuk
+          1	Café Inuk
+          1	Café Mamaq
+          1	Café Puisi
+          1	Café Toqqorfik
+          1	Café pølsemik
+          1	Cafémma Hotel
+          1	Cairn
+          1	Cairn Pynt
+          1	Camp Century
+          1	Camp Eqi
+          1	Camp Fistclench
+          1	Camp Raven
+          1	Campsite
+          1	Campus Kujalleq
+          1	Canada
+          1	Canada - Timezone America/Pangnirtung
+          1	Canada Goose
+          1	Cape Shackleton
+          1	Carl Egede Aqq.
+          1	Carnedd môr Ladron
+          1	Carnedd y Genod
+          1	Cement Fabrik Nuuk
+          1	Center for Arktisk Teknologi
+          1	Centrepiece
+          1	Centrepoint Peak
+          1	Centrum
+          1	Centrum Grill
+          1	Centrum Park
+          1	Centrumkiosken
+          1	Ceresvej
+          1	Changing room for hot springs
+          2	Chemnitzip Aqq.
+          1	Chokoladefabrikken
+          1	Chr. 28-ip Aqq. Museum
+          2	Christian 28-ip Aqq
+          1	Christian IV Island
+          2	Church
+          1	Church of Maniitsoq
+          1	Church of Paamiut
+          1	Clavering Ø
+          1	Comby
+          1	Comer's Midden
+          1	Community House
+          1	Community office
+          1	Constable Bay
+          1	Consulaat Des Nederlanden
+          1	Consulaat Van Belgie
+          1	Consulat Honoraire du Grand-Duché de Luxembourg
+          1	Consulate general of Iceland
+          1	Coparohsyn
+          1	Cornocopia
+          1	Crossfit Inua
+          1	Crozier Ø
+          1	DB Peak
+          1	DBPeak ridge
+          1	Daarngup Aqquserna
+          1	Daddy's
+          1	Daneborg Airstrip
+          1	Danmark Island
+          1	Danmarkshavn Landing Strip
+          1	Dark Head on Tukingasoq
+          2	Davis Strait
+          1	Deichmannip Aqquserna
+          1	Den gamle butik
+          1	Den gamle smedje
+          1	Denmark Strait
+          2	Deres Auto
+          1	Deres Bilvask
+          1	Deres Tank
+          1	Deres Tankbutik
+          1	Deserted Graphite Mine
+          1	Destination Arctic Circle
+          1	Det gamle Sprængstofdepot
+          1	Dickens Bjerg
+          1	Dinky Do
+          1	Discoline
+          1	Discotheque Murphey's
+          1	Diskoline
+          1	Diskoline A/S
+          1	Dolphin
+          1	Dora Marie
+          1	Dorthe Lennertip Aqquserna
+          1	Dortheeqqap Aqquserna
+          1	Dragon
+          1	Dreadlocks
+          2	Dronning Ingrids Hospital
+          1	Dronning Ingrids Sundhedscenter
+          3	Dronning Ingridsvej
+          1	Dsikoline
+          1	Dumpen
+          1	Dundas
+          1	Duplexvej
+          1	Duuk
+          1	Dye-2
+          1	Dæk & Auto Værksted
+          1	E.E
+          1	ELplus
+          1	Easternmost island in the archipelago Kitsissit Oqqorsiit
+          1	Easternmost point of Arundel Ø
+          1	Easternmost point of Bontekoe Ø
+          1	Easternmost point of Clark Bjerg
+          1	Easternmost point of Franklin Ø
+          1	Easternmost point of Franske Øer
+          1	Easternmost point of Henrik Kröyer Holme
+          1	Easternmost point of Kap York
+          1	Easternmost point of Lille Tindholm of Nytaarsøerne
+          1	Easternmost point of Maroussia Ø
+          1	Easternmost point of Murray Ø
+          1	Easternmost point of Turner Ø
+          1	Easternmost point of peninsula north of Wahl Fjord
+          1	Easternmost point of peninsula south of Wahl Fjord
+          1	Easternmost point of southern island east of Kap Hoppe
+          1	Easternmost point of the island Nanertalik north of Kap Gus
+          1	Easternmost point of the island Qulleq
+          1	Easternmost point of the island Rock by Kap Young
+          1	Easternmost point of the island Uigertertivit
+          1	Easternmost point of the island Umiiviitaa by Gerners Ø
+          1	Easternmost point of the island Uummannaarsuk
+          1	Eastgrip Camp
+          1	Eastgrip Warehouse
+          1	Easy2go
+          1	Ebenezer
+          2	Edv. Johansenip Aqquserna
+          2	Edvard Kruse-p Atuarfia
+          1	Edvard Sivertsenip Aqq.
+          1	Ejnar Mikkelsen Fjeld
+          2	Elgiganten
+          1	Eliap Oqaluffiani
+          1	Eliarsip Aqquserna
+          1	Elias Jørgensenip Aqq.
+          2	ElisabethThomsenip Aqq.
+          1	Elværk, Bro
+          1	Enok Kristiansenip Aqq.
+          1	Eqalorutsit Kangigdlit Sermiat
+          1	Eqalorutsit Kitdlit Sermiat
+          1	Eqalugaarsuit
+         34	Eqalugalinnguit
+          2	Eqalugalinnguit / Lige tal
+          1	Eqalugalinnguit / Ulige tal
+          2	Eqalugalinnguit Rundkørsel
+          2	Eqalugalinnguit Tasiat Rundkørsel
+          1	Eqalugssuit Taserssuat
+          1	Eqaluit Kûat
+          1	Eqalunnguit
+          1	Eqalunnguit Nunaat
+          1	Eqip Kuussua
+          2	Eqip Sermia
+          1	Eqortorfik
+          2	Eqqaavik
+          1	Eqqaavimmut Aqqut
+          1	Eqqartuussisoqarfik Qaasuitsoq
+          1	Eqqartuussivik
+          1	Equalugaarniarfik
+          6	Erdhaus
+          2	Ernutaq
+          1	Esbjergip Aqq.
+          1	Eskimonæs
+          1	Esmeralda
+          1	Etah
+          1	Evakueringsvej
+          1	Fahlip Aqquserna
+          1	Falkoner Klippen
+          2	Familie Center
+          1	Familie center
+          1	Farawa peak
+          2	Farip Aqq.
+          2	Farip Aqqutaa
+          1	Farmers
+          1	Farvecenter Nuuk ApS
+          1	Favres Bjerg
+          1	First Peak
+          2	Fish factory
+          1	Fitness GL
+          3	Fjeldvej
+          3	Flygården
+          1	Foel Fras
+          3	Forbrænding
+          1	Forbrændringsanlæg
+          1	Forsamlingshus
+          1	Foster Bay
+          1	Franklin Ø
+          1	Fredericiap Aqqutaa
+          3	Frederik Lyngesvej
+          1	Frederik den IX's Plads
+          1	Frelsens Hæri
+          1	Frelserens Kirke
+          1	Frilandsmuseet
+          1	Frilandsmuseet Park
+          1	Fugleoerne
+          1	Fynske Alper
+          1	GUX Nuuk
+          1	Gael Hamkes Bay
+          1	Gamle elværk
+          1	Gammeqarfik
+          1	Gas Station
+          1	Gauss Peninsula
+          1	Geografisk Samfund Ø
+          1	Geophysical Observatory
+          1	Gerda
+          1	Gerdap Aqquserna
+          1	Gertip Palasip Aqq.
+          1	Gertrud Rask
+          5	Gertrud Raskvej
+          1	Gina's Guesthouse
+          1	Gina's Hostel
+          1	Gisp Ice Landing Strip
+          1	Glacier Books
+          1	Glacier Lodge Eqi
+          1	Glacier Shop
+          1	Gladsaxip Aqq.
+          2	Glahnip Aqquserna
+          1	Glied
+          1	Godthaab Bryghus
+          1	Godthåbhallen
+          1	Golden Dome
+          1	Government of Greenland
+          1	Gravel Quarry
+          2	Great Greenland A/S
+          1	Greenland - timezone America/Danmarkshavn area
+          1	Greenland - timezone America/GodThab area
+          1	Greenland - timezone America/Scoresbysund area
+          1	Greenland - timezone America/Thule area
+          2	Greenland Facility Services
+          1	Greenland Institute of Natural Resources Kobbefjord Cabin
+          1	Greenland Sagalands
+          1	Greenland Sea
+          2	Greenland/Canada Disputed Zone
+          1	Grill & Pizza Bar
+          1	Grill Bar
+          1	Grønlands Banken
+          1	Grønlands Erhverv
+          1	Grønlands Handelsskole
+          1	Grønlands Kontorfosyning A/S
+          1	Grønlands Naturinstitut
+          1	Grønlands Naturinstitut Bådehus
+          2	Grønlands Rejsebureau
+          1	Grønlands Revisionskontor A/S
+          1	GrønlandsBANKEN
+          1	GrønlandsBanken
+          2	Grønlandsbanken
+          1	Gu skolen
+          1	Gunnar Andersson's Land
+          1	Gunnbjørn Fjeld
+          1	Gustav Holmip Aqq.
+          3	Guutaap Aqquserna
+          8	H.J. Rinksvej
+          2	H.J. Rinksvej Narsarsuaq
+          2	H.J. Rinksvej Rasmuuseeqqap Aqqutaa
+          1	HEL Apron
+          1	HK Transport
+          1	Haffner Bjerg
+          1	Hafnarfjodurip Aqq.
+          2	Hal
+          1	Halibut Greenland
+          1	Hallænderø
+          1	Hangar 2 & 1
+          1	Hangar 2 +
+          1	Hangar 3
+          1	Hannibals Hus
+          1	Hans Egede Kirke
+          1	Hans Egedes Hus
+          1	Hans Egedes Kirke
+          1	Hans Egedes Statue
+          4	Hans Egedesvej
+          1	Hans Island
+          2	Hans Lyngep Aqqusernga
+          2	Hans Lyngep Atuarfia
+          1	Hans Lyngep aqquserna
+          2	Hans Lyngip aqqusernga (Atuarfik)
+          1	Hardersbjerg
+          1	Hareoen Island
+          1	Hartstene Bay
+          1	Hastrupvej
+          1	Havn
+          2	Havnevej
+          1	Helene og Hanna
+          1	Helges Halvo Island
+          1	Helheim Glacier
+          1	Helheimfjord
+          1	Heliportitoqaq
+          2	Hellmannit Aqqutaat
+          1	Hinnarissuasik
+          1	Hjelmen
+          1	Hochstetterbugten
+          2	Holmit Aqqutat
+          1	Holms dyreartikler
+          1	Holten Møller-ip
+          1	Hong Kong
+          1	Honorary Consulate of the Czech Republic
+          1	Horse
+          1	Hospital
+          1	Hot Spring (37°C all year round)
+          2	Hotel Arctic
+          1	Hotel Avannaa
+          1	Hotel Centerbo
+          1	Hotel Diskobay
+          1	Hotel Hans Egede
+          1	Hotel Heilmann Lyberth
+          1	Hotel Icefjord
+          1	Hotel Ivaana
+          1	Hotel Kangerlussuaq
+          1	Hotel Kulusuk
+          1	Hotel Maniitsoq
+          1	Hotel Maniitsoq Restaurant
+          1	Hotel Narsaq
+          1	Hotel Nattoralik
+          1	Hotel Nuuk
+          1	Hotel Qaanaaq
+          1	Hotel Qaqortoq
+          2	Hotel Sisimiut
+          1	Hotel Sømandshjemmet
+          1	Hotel Uummannaq
+          1	Hullet Lake
+          1	Hundso Hut
+          1	Hvalros Ø
+          1	Hvalsø Kirkeruin
+          1	Hvide Falk
+          4	INI A/S
+          1	INUILI
+          1	IQ Naasut
+          1	ITTU.NET
+          1	ITTUMan
+          1	IceCap Gift Shop
+          1	IceCap Tours
+          1	Iffit Qaqqaat
+          1	Igaffik (Cafeteria)
+          2	Igaliku
+          1	Igaliku Bygdehotel
+          1	Igaliku Heliport
+          1	Igannaq
+          1	Igdlorpait
+          1	Igdlorssuatsiart
+          1	Igdlorssuit tasiat
+          1	Igdlukasik
+          1	Igdlumiut
+          1	Igdlup. qingua
+          1	Igdlut
+          1	Igdlutalik
+          1	Igdlutsiait
+          4	Iggiaanut
+          1	Iggiaanut - Bro 1
+          1	Iggianut bro N & M
+          4	Igimaq
+          2	Iginniarfik
+          1	Iginniarfik Heliport
+          1	Iglaua
+          1	Igpik
+          1	Igssalik
+          2	Iiminaq
+          1	Iisaajap Aqq.
+          1	Iisaajap Aqqutaa
+          2	Ikamiut
+          1	Ikaneq
+          1	Ikeq
+          1	Ikerasaap qeqertaa
+          2	Ikerasaarsuk
+          1	Ikerasaassuup Akia
+          1	Ikerasagssuaq
+          2	Ikerasak
+          4	Ikerasannguaq
+          1	Ikerasannguaq 34-56
+          1	Ikerasannguaq 82-104
+          2	Ikerasannguup Qaava
+          1	Ikerasarssik Channel
+          1	Ikerasassuaq Heliport
+          1	Ikerasatsiaq
+          4	Ikermiut
+          1	Ikertooq
+          1	Ikigait
+          1	Ikkatteq
+          1	Ikkattooq Hut
+          1	Ikuallaavik
+          1	Ikâsagtivaq
+          1	Ilavait
+          2	Ilimanaq
+          1	Ilimannaq helistop
+          1	Ilimmaasaq
+          1	Ilimmarfik
+          1	Ilimmarfimmi Atuagaateqarfik
+          3	Ilinniarfissuaq
+          1	Ilisimatusarfik
+          1	Iliveqarfik
+          1	Ilivileq
+          1	Ilivilermiunut
+          2	Ilivinnguaq
+          1	Ilivtiartik
+          1	Illerfissalik
+          1	Illorput
+          1	Illorsuip Oqaluffik
+          1	Illorsuip qeqertaat
+          3	Illorsuit
+          1	Illorsuit Helistop
+          2	Illu Sullivik
+          1	Illu Ungdomsklub
+          2	Illukasik
+          1	Illukut Tasiat
+          1	Illulik
+          1	Illulissuaq
+          1	Illumiut
+          1	Illunguit Qulaat
+          1	Illunnguit
+          1	Iluliagdlup Tasia
+          1	Iluliartôq
+          1	Ilulissani Baptistit Oqaluffiat
+          4	Ilulissat
+          1	Ilulissat Center Marked
+          1	Ilulissat Icefjord
+          1	Ilulissat Kangerlua
+          1	Ilulissat Tourist Nature
+          1	Ilulissat hallen
+          2	Iluliumaneq
+          6	Imaneq
+          2	Imartuneq
+          2	Imeqarfik
+          2	Imersuarmut
+          1	Imertivap Qaqqartivaa
+          2	Imiilersuup Aqqutaa
+          1	Imilik
+          1	In Fashion
+          1	In Pin
+          1	Indaleeqqap Aqq.
+          1	Indbox
+          2	Industrivej
+          1	Info Design aps
+          1	Ingmikerteq
+          3	Innaarsuit
+          1	Innajuattoq
+          1	Innajuattup Tesia
+          3	Innannguaq
+          1	Innarsuit Heliport
+          1	Innartalik
+          1	Inneriilat
+          1	Inngiup Nuua
+          3	Inspektørbakken
+          1	Inspiration
+          2	Intaleeqqap Aqqutaa
+          1	InuIT
+          1	Inugsugtût
+          2	Inugsuk
+          1	Inuit
+          1	Inuit Ataqatigiit party
+          1	Inuit Café
+          1	Inuit Qeqertaat
+          1	Inuit peat hut
+          1	Inuk Hostel
+          1	Inuk Hostels
+          1	Inuplan A/S
+          1	Inussivik
+          2	Inussuk
+          1	Inussukasik
+          1	Inussukassat
+          1	Inussunnguaq
+          3	Inussussuaq
+          1	Inuunerup Nutaap Oqaluffia
+          1	Inuunerup Nutaap Oqaluffia Aasiaat
+          1	Inuunerup Nutaap Oqaluffia Ilulissat
+          1	Inuunerup Nutaap Oqaluffia Kullorsuaq
+          1	Inuunerup Nutaap Oqaluffia Maniitsoq
+          1	Inuunerup Nutaap Oqaluffia Nanortalik
+          1	Inuunerup Nutaap Oqaluffia Sisimiut
+          2	Inuusuttut Aqq.
+          1	Iparannguaq
+          1	Ipararsuaq
+          1	Iperaataq's (Julien Caquineau) sled-dogs place.
+          1	Iperaataq's sled-dogs place.
+          1	Iperaq
+          2	Ipiutaq
+          2	Ippiissarsivasik
+          1	Ippissuasiip Qaqqaa
+          1	Iqateq
+          1	Iron Rock Ridge
+          1	Isaap Aqq.
+          2	Isafjordurip Aqq.
+          2	Isertoq
+          1	Isertup Atuarfia
+          1	Isertup Oqaluffia
+          1	Isi
+          1	Isip Ilua
+          1	Isit Optik
+          2	Isit optik
+          2	Island by Nordostrundingen
+          4	Island by Ydre Kitsissut
+          1	Island east of Aluk Avalleq
+          1	Island east of Kap Discord
+          1	Island east of Kap Nansen
+          1	Island east of Kap S. M. Jørgensen
+          1	Island east of Qassit Avalequtaa
+          3	Island north of Nordvestø
+          1	Island northeast of Nordvestø
+          1	Island off Nordvestø
+          1	Island south of Qeqertat
+          1	Island south of Saneraa
+          1	Island west of Nordvestø
+          2	Island west of the archipelago Satsissut
+          1	Isortoq
+          1	Isortuarsuup Tasia
+          1	Isortup Qeqertaa
+          1	Issortarfik
+          4	Issortarfimmut
+          1	Issuttussoq
+          2	Isua
+          1	Isuliffik
+          1	Isunngua
+          2	Itilleq
+          2	Itillinnguaq
+          1	Itillip Qaqqaa
+          2	Itissaalik
+          1	Itivdleq
+          1	Itivdlerssuaq
+          1	Itivdlingûjuk
+          1	Itivdliup ilua
+          1	Itivnera
+          1	Itivsâlik
+          1	Itterajivit
+          1	Ittikasaat Qaqqaat
+          2	Ittoqqortoormiit
+          1	Ittoqqortoormiit Guesthouse
+          1	Ittoqqortoormiit Museum
+          1	Ittoqqortoormiit oqaluffiat
+          1	Ittoqqortoormiut
+          1	Ittu.net Outlet
+          1	Ittukasiup Aqquserna
+          1	Itussaannguaq
+          2	Ivaaraq
+          1	Iviangiusarssuit Akilâ
+          1	Iviit
+          1	Ivissuaateralaa
+          1	Ivittuut
+          1	Ivnarssip Kangerdlua
+          1	Ivnarssuaq
+          1	Ivnarssûp nûa
+          1	Ivnartalik
+          1	Iværksætterhuset
+          1	J H Lytzensvej
+          1	J.A.D. Jensen Nunatakker
+          2	JM Jensenip Aqquserna
+          2	JYSK
+          2	Jaakunnguup Aqquserna
+          1	Jaaraartooq
+          1	Jack T. Perry Memorial
+          1	Jack tar Peak
+          1	Jackson Ø
+          6	Jagtvej
+          1	Jakobshavn Dam
+          2	Jameson Land
+          2	Jansenip Aqquserna
+          5	Jens Kreutzmannip Aqqutaa
+          2	Jens Kreutzmannip aqq.
+          1	Jens Olsenip Aqq.
+          1	Jenseralaap Aqqutaa
+          2	Johan Dahlsvej
+          1	John Murray Ø
+          3	John Møllerip Aqqutaa
+          1	Johnstrup Bjerge
+          1	Johs. Dorfsvej
+          1	Jonathan Petersen-ip Aqq.
+          3	Jonathan Petersen-ip Aqqutaa
+          3	Jooruaqqap Aqquserna
+          1	Jope Illumiut
+          1	Josefip Aqq.
+          1	Joserfip Aqq.
+          1	Jukkorsuup Aqquserna
+          1	Juuliaannap aqquserna
+          3	Jysk
+          1	Jøkelbugten
+          1	Jørgen Brønlund
+          1	Jørgen Brønlundip Aqq.
+          1	Jørgen Guldagerip Aqqutaa
+          1	Jørgen Petersenip Aqq.
+          2	Jørgen Sverdrupip Aqq.
+          1	K A Auto
+          1	K. R. Højskolia
+          1	KIK-IND
+          1	KISS (Kangerlussuaq Intn'l Science Support)
+          1	KK Engros
+          1	KTI - Kollegiet
+          1	KTI Nuummi - Jern- og Metalskolen
+          1	Kaaleeqqap Aqquserna
+          1	Kaaleeraq Poulsenip Aqq.
+          1	Kaaliikassaap Aqquserna
+          1	Kaassasuup Aqquserna
+          1	Kaataq El aps
+          1	Kaj's Auto
+          1	Kajoq
+          2	Kakillarnat
+          1	Kalaaliaraq
+          1	Kalaaliaraq Market
+          3	Kalaalimineerniarfik
+          1	Kalaallit Nunaanni Teknikimik Ilinniarfik
+          1	Kalaallit Nunaanni Timersoqatigiit Kattuffiat
+          1	Kalaallit Nunaanni nuna eqqissisimatitaq
+          3	Kalaallit Nunaat
+          1	Kalaallit Nunaata Radioa
+          2	Kalaallit Røde Korsiat
+          1	Kalissip Aqquserna
+          1	Kalistap Aqq.
+          1	Kalistorfip Aqqutaa
+          3	Kamik
+          1	Kamik nukøb
+          1	Kanaerdluarssuk
+          1	Kane Basin
+          1	Kang mini marked
+          2	Kangaamiut
+          1	Kangaasarsuup Sermia
+          1	Kangaatsiak
+          2	Kangaatsiaq
+          1	Kangeq
+          1	Kangerdlua
+          2	Kangerdluarssuk
+          2	Kangerdluatsiaq
+          1	Kangerdluatsruup tasia
+          2	Kangerdluk
+          1	Kangerdlukasik
+          1	Kangerluarsoruseq
+          2	Kangerluarsuk
+          1	Kangerluarsuk Tulleq
+          1	Kangerluarsunnguaq (Kobberfjord)
+          1	Kangerluarsunnguup Tasersua
+          1	Kangerluarsunnguup Tasia
+          1	Kangerluarsuup Qinngua
+          2	Kangerluk
+          1	Kangerluluk
+          1	Kangerluluup Qaqqaa
+          1	Kangerlunnguamut
+          1	Kangerlussuaq
+          1	Kangerlussuaq Vandrehjem
+          1	Kangerlussuaq museum
+          8	Kangerlussuaq-Sisimiut winter trail
+          2	Kangersuatsiaq
+          1	Kangertittivaq
+          1	Kangertivartikajik
+          1	Kangia café
+          1	Kangileneq
+          1	Kangilequtaat 787 m
+          2	Kangilinnguit
+          1	Kangilliit Ataat
+          2	Kangillinnguit
+          2	Kangillinnguit Atuarfia
+          1	Kangimut Sammissoq
+          1	Kanjeq
+          1	Kanngillinnguanut
+          1	Kanocenteret
+          1	Kanásut qeqertât
+          1	Kap Alexander
+          1	Kap Anna Bistrup
+          1	Kap Beaupré
+          1	Kap Benét
+          1	Kap Borlase Warren
+          1	Kap Brevoort
+          1	Kap Bryan
+          1	Kap Bryant
+          1	Kap Christian
+          1	Kap Christian IV
+          1	Kap Constitution
+          1	Kap Dalton
+          1	Kap Daugaard-Jensen
+          1	Kap Desolation
+          1	Kap Ebbe Munck
+          1	Kap Eiler Rasmussen
+          1	Kap Erik Bunch
+          1	Kap Farvel
+          1	Kap Hamilton
+          1	Kap Horring
+          1	Kap I. C. Jacobsen
+          1	Kap Independence
+          1	Kap Ingersoll
+          1	Kap Inglefield
+          1	Kap J. P. Koch
+          1	Kap Jackson
+          1	Kap Jefferson
+          1	Kap John Flagler
+          1	Kap Kane
+          1	Kap Leipner
+          1	Kap Lister
+          1	Kap Madison
+          1	Kap Montpensier
+          2	Kap Morris Jesup
+          1	Kap Møsting
+          1	Kap Nansen
+          1	Kap Ole Chievitz
+          1	Kap Parry
+          1	Kap Payer
+          1	Kap Philippe
+          1	Kap Porter
+          1	Kap Prins Knud
+          1	Kap Ramsay
+          1	Kap Resser
+          1	Kap Skjold
+          1	Kap Sumner
+          1	Kap Taney
+          1	Kap Topham
+          1	Kap Tupinier
+          1	Kap Tycho Brahe
+          1	Kap Udkiggen
+          1	Kap Ulrich
+          1	Kap Vedel
+          1	Kap Washington
+          1	Kap Wijkander
+          1	Kaparfik
+          1	Kapisigdlit River
+          1	Kapisillit
+          1	Kapornip Aqquserna
+          1	Karale Glacier
+          1	Karip Aqq.
+          2	Karl Lundip Aqqutaa
+          4	Karl Sivertsenip Aqquserna
+          1	Karrat
+          1	Karret
+          1	Kassoq
+          1	Katersortarfik
+          1	Katifik
+          1	Katsiaap Aqquserna
+          3	Katuaq
+          1	Katuaq Parkeringsplads
+          1	Kayak North
+          1	Kekertasugssuk
+          1	Kennedy Channel
+          1	Ketil
+          1	Kiagtut Sermiat
+          2	Kiassaateqarfik
+          1	Kiatak
+          1	Kiffat Aqq.
+          4	Kigutaarnat
+          1	Kilaalaap Aqq.
+          1	Kilaalaap Aqqutaa
+          1	Kilagtoq
+          1	Kilisaatinut
+          2	Killavaat
+          3	Killerpaat
+          4	Kimmernat
+          1	Kinaussak
+          1	Kindergarten
+          8	King's Road
+          2	Kingigtoq
+          1	Kingigtuarssuk
+          1	Kingittoq
+          1	Kingittorsuaq
+          1	Kingittup Nunaa
+          1	Kingmissulik Pynt
+          1	Kingutileriffik
+          1	Kiosk
+          1	Kirkegårdsvej
+          1	Kirkespirdalen
+          2	Kirkevej
+          1	Kisaq
+          1	Kissaviannguit
+          1	Kissaviannguit Tasiat
+          1	Kissaviarsuk
+          3	Kisserneqqortuunnguaq
+          1	Kitaa Seafood ApS
+          1	Kitaa Seafood fabrik
+          1	Kitak
+          1	Kitermît
+          2	Kitsissuarsuit
+          1	Kitsissunnguit
+          1	Kittat
+          2	Kivioq
+          1	Klapmydsvej
+          1	Kloftbjerge
+          1	Klosterbjerge
+          1	Klub
+          1	Knud Ballesvej
+          1	Knud Rasmusen Glacier
+          1	Knud Rasmussen
+          1	Knud Rasmussen Højskolia
+          1	Kolligie 1
+          1	Kolligie 10
+          1	Kolligie 11
+          1	Kolligie 12
+          1	Kolligie 13
+          1	Kolligie 14
+          1	Kolligie 18
+          1	Kolligie 19
+          1	Kolligie 2
+          1	Kolligie 20
+          1	Kolligie 3
+          1	Kolligie 4
+          1	Kolligie 5
+          1	Kolligie 6
+          1	Kolligie 7
+          1	Kolligie 8
+          1	Kolonibestyrerboligen
+          1	Kom.kontor, Kom. Allaff.
+          1	Kommandørboligen
+          8	Kommune Kujalleq
+          1	Kommuneqarfik Qaasuitsup Kommunea
+          2	Kommuneqarfik Sermersooq
+          1	Kong Frederik IX Aqq.
+          1	Kong Oscar Havn
+          1	Konge Bro
+          1	KongeBro
+          1	Kongevej
+          1	Konrad Chemnitzip Aqq.
+          1	Kontor
+          1	Koorunnguaq
+          1	Kredsretten
+          1	Kristi Konge
+          1	Krudthusvej
+          1	Kuanit
+          1	Kuanit Qaqat1200 m
+          2	Kuanneq
+          2	Kuannersuit
+          1	Kuannersuit mining exploration camp
+          1	Kuanninnguit
+          1	Kuhn Ø
+          4	Kujallerpaat
+          2	Kujammukaanut
+          1	Kukkukooq
+          1	Kulloq
+          4	Kullorsuaq
+          1	Kullorsuup Kangerlua
+          3	Kulusuk
+          1	Kulusuk Airport
+          1	Kulusuk School
+          1	Kulusup qeqertaa
+          1	Kunuuteeqqap Aqqutaa
+          2	Kunuuteralaap Aqquserna
+          3	Kunuutip Aqqutaa
+          7	Kussangasoq
+          1	Kussangiannguaq
+          2	Kutaa
+          1	Kuuk
+          2	Kuummiut
+          1	Kuunnaat
+          1	Kuunnguarsuk
+          1	Kuunnguarsuup Qaava
+          6	Kuussuaq
+          1	Kuuttartoq
+          1	Kyle-ipp Aqq.
+          1	Kûgssûp Alángua
+          1	Kûlínguaq
+          1	LCP Island
+          1	LZ 1998 Rigny Bjerg Expedition
+          1	Lac Moyen
+          1	Lac Superieur
+          1	Lac des Canards
+          1	Lac inferieur
+          1	Lachalns Peak
+          1	Lafayette Bugt
+          1	Lanap Aqqutaa
+          1	Langeskovip Aqq.
+          1	Large area of static crevasses
+          1	Larseeraq
+          3	Larsikkut Aqquserna
+          1	Lavenergihus
+          1	Leclair-ip Aqq.
+          1	Legekæden
+          1	Lille Koldewey
+          1	Lille Pedulum Ø
+          8	Lille Tugtutôq
+          1	Lisbeth Hindgaulip Aqq.
+          1	Liverpool Land
+          1	Lliwedd
+         16	Lodge
+          1	Louis Andreassenip Aqq.
+          1	Louisep Aqq.
+          1	Low tide easy parth
+          1	Low tide, easy parth.
+          1	Low tide. Easy passage.
+          1	Lulu's
+          1	Lyell Land
+          5	Lyngby-Tårbæksvej
+          1	Lyngmarksbræen
+          1	Lýðveldið ísland
+          2	M.P. Porsild-ip
+          1	MDC Data
+          1	MISI
+          1	MIT HANGAR
+          1	Maaliakasiup Aqq.
+          1	Maamorilik
+          1	Maik's Corner
+          1	Majavej
+          1	Majordomo Peak
+          3	Majoriaq
+          1	Majorqaq
+          1	Makkorsip Aqq.
+          1	Makkorsip Aqquserna
+          1	Malene Sø
+          1	Maligissat Qaqqaa
+          2	Malik
+          1	Mallory Fjeld
+          1	Manassa Mathæussenip Aqq.
+          1	Manertût
+          1	Manginersiorfik
+          4	Manguaraq
+          1	Manhattan
+          4	Maniitsoq
+          1	Maniitsoq Museum
+          1	Maniitsoq bibliotek
+          1	Maniitsup Timersortarfia
+          1	Maniittoq
+          1	Mannarsip Aqquserna
+          5	Manngua
+          2	Mannguaraq
+          2	Mannguaraq Qattaaq
+          2	Manutooq
+          2	Manutooq Illimarfik
+          1	Manîtsoq
+          1	Mara Mountain
+          1	Margaret Lambert Sø
+          1	Margaretatopp
+          1	Margrethesuiten
+          2	Marinevej
+          1	Marius Sivertsenip Aqq.
+          1	Maroussia Ø
+          3	Marralinnquaq
+          1	Marraq
+          1	Marrat Qaqqaat
+          1	Masanti
+          1	Maskin Station
+          1	Matas
+          1	Mathias Steenholdtip Aqq.
+          1	Mathias Storch Memorial
+          1	Mathias Storchip Aqq.
+          1	Mathias Storchs Grav
+          1	Mathiessenip Aqq.
+          1	Mathæus Havn
+          1	Matiitap akia
+          1	Matillittaaqqap Aqq.
+          1	Matiusi
+          1	Mato
+          1	Matorsuaq
+          1	Mattaangassut
+          1	Matâta nunâ
+          1	Maximut
+          1	Meeqqat
+          1	Meeqqat Angerlarsimaffiat Uummannaq
+          1	Meeqqat Illuat
+          1	Meeqqat Illuat Børnehjem
+          1	Meeqqerivik Meeqqat
+          1	Meeqqerivik Pakunnga
+          1	Meeqqerivik Puisi
+          1	Meeqqerivik Ukaleq
+          1	Meqqutoqqat Qaqqaa
+          1	Mernoq
+          1	Mernup Erqua
+          1	Mestersvig Airport
+          1	Mid-island of Edderfugleøerne
+          1	Midgårdsgletscher
+          1	Milne Land
+          1	Mini Grill
+          1	Minihallen
+          1	Minikka
+          2	Minneralak
+          1	Minnerup Aqqutaa
+          1	Minngortuunnguup atuarfia
+          1	Missionærbygningen
+          1	Mitsimavik
+          1	Mittarfik
+          1	Mittarfik / Nuuk Lufthavn
+          1	Mittarfik Aasiaat
+          1	Mittarfik Ilulissat
+          1	Mittarfik Kangerlussuaq
+          1	Mittarfik Kulusuk
+          1	Mittarfik Maniitsoq
+          1	Mittarfik Narsarsuaq
+          1	Mittarfik Nerlerit Inaat
+          1	Mittarfik Nuuk
+          1	Mittarfik Paamiut
+          1	Mittarfik Qaanaaq
+          1	Mittarfik Qaarsut
+          1	Mittarfik Sisimiut
+          1	Mittarfik Upernavik
+          2	Mittarfimmut
+          5	Mittarfimmut Aqqut
+          1	Mitten
+          2	Mittivakkat
+          1	Modulo APS
+          1	Mont Forel
+          1	Moriusaq
+          1	Motzfeldt Lake
+          1	Motzfeldt-Skovgaard
+          1	Mount Julia
+          1	Mr Big
+          1	Mt Nalunaq
+          1	Mukkup Aqquserna
+          2	Muku
+          1	Municipality office
+          4	Musaq
+          1	Museum
+          2	Muunup Aqq
+          2	Myers Avenue
+          1	Mynedd Glaslyn
+          1	Mâluto
+          1	NEQI A/S
+          1	NSP Klubhus
+         10	NU
+          1	NUP Klubhus
+          2	Naajaat
+          1	Naajamiut Nuuat
+          1	Naajannguit
+          1	Naajarsuit
+          1	Naajatsiaat Qaqqaat
+          1	Naakaleqaoq
+          1	Naalagaasat
+          1	Naalakkatta Illua
+          1	Naanup Aqqutaa
+          1	Naja / Aleqa
+          1	Naja/Aleqa
+          1	Nakkaalaaq
+          1	Nakkartarfik
+          1	Nako
+          1	Nalagaa
+          1	Naleraq
+          1	Nalunaq Gold Mine
+          1	Nalunaq Gold mine habour
+          1	Nalunaq Heliport
+          5	Nalunnguarfik
+          1	Nalunnguarfiup atuarfia
+          2	Naluttarfik Malik Rundkørsel
+          1	Nammaarfik
+          1	Nanco
+          1	Nanco Oil
+          1	Nannuffik
+          1	Nanoq
+          1	Nanoq Apartments
+          2	Nanortalik
+          3	Nanortalik Heliport
+          1	Nanortalik Kirke
+          1	Nanortalik Open-Air Museum
+          1	Nanortalik Tourist Service
+          1	Nanortalik Youth Hostel
+          1	Nanortalik havn
+          1	Nanortallip Atuarfia
+          1	Nanu Travel
+          1	Nanuaraq
+          1	Naparutaq
+          1	Napasoq
+          1	Napasoq Kirke
+          1	Napasoq Nye Kirke
+          1	Napasorsuaq
+          2	Napparsimavik
+          1	Napparsimavimmut
+          1	Napparsimaviup Aqqutaa
+          5	Napparsimviup Aqq
+          1	Nares Land
+          1	Narsaararmiit
+          1	Narsannguaq
+          1	Narsap Atuarfia
+          3	Narsaq
+          1	Narsaq - Narsarsuaq
+          1	Narsarmijit
+          1	Narsarmijit kirke
+          2	Narsarmiutaq
+          1	Narsarsuaq
+          1	Narsarsuaq Youth Hostel
+          4	Narsarviaq
+          1	Narsaviaq
+          1	Narssarssuaq
+          1	Narwhal Tooth peak
+          1	Nasaasaaq
+          1	Nasannguaq
+          3	Nasiffik
+          2	Nasiffimmut
+          1	Nasiffinnguaq
+          1	Nassiussaleriffik
+          1	Natalies
+          1	Natalies Letkøb
+          1	Naternaq
+          1	Natinnguaq
+          1	National Park
+          2	Natsiaq
+          1	Natsilik Paarlersuaq
+          1	Natsillip Tasia
+          2	Nattivit
+          1	Naujaangivit
+          2	Naujatalik
+          1	Navdluarssuk
+          1	Navdluarssup saraa
+          2	Neriusaaq
+          4	Nerngallaa
+          1	Nerumag
+          1	Next generation
+          3	Niaqornaarsuk
+          2	Niaqornaarsuk Heliport
+          1	Niaqornaarsummut
+          1	Niaqornao kimut nûgssuq
+          1	Niaqornap nuna
+          1	Niaqornaq
+          3	Niaqornarssuaq
+          2	Niaqornat
+          1	Niels Dorphip Aqq.
+          2	Niels Egedes Vej
+          2	Niels Hammekenip Aqq.
+          1	Niels Lyngep Aqq.
+          1	Niels Nygaard
+          1	Nigerdlîp Qôrorssua
+          2	Nigerleq
+          1	Nigersek
+          1	Nigsik
+          1	Niisat Kangerluat
+          1	Niisi
+          2	Nikkorsuit
+          2	Nikkorsuit V. Kirke
+          2	Nikolaj Rosingip Aqqutaa
+          1	Nikorsuit
+          1	Ningitsivik
+          1	Ningittakkersortoq
+          1	Nipinngaaq
+          1	Nipisat
+          1	Niuernermik Ilinniarfik
+          1	Niuernermik Ilinniarfik Nuuk
+          1	Niuertup Ottup Aqq
+          1	Nivi
+          2	Niviarsiaq
+          1	Niviiganngivit
+          1	Nivko 924 m
+          1	Nivâq
+          1	Noah Mølgaardip Aqq.
+          1	Noorajik
+          4	Noorlernut
+          1	Nordbo
+          1	Nordbogletscher
+          1	Nordbosø
+          1	Nordgletscher
+          1	Nordostrundingen
+          1	Nordre Ikerasak
+          1	Nordre Næs
+          1	Nordre Qipisarqo Bræ
+          1	Nordre Qoornoq Bræ
+          1	Norsaq
+          1	Norse Men Ruins
+          1	Norsssana 1340 m
+          1	North Grip Ice Landingstrip
+          1	North Star Bugt
+          1	Northeasternmost point of Björlings Ø
+          1	Northeasternmost point of Kilen
+          1	Northeasternmost point of Norske Øer
+          1	Northeasternmost point of Qeertartivaq
+          1	Northeasternmost point of Rathbone Ø
+          1	Northernmost point of Beamount Ø
+          1	Northernmost point of Bordø
+          1	Northernmost point of John Murray Ø
+          1	Northernmost point of Littleton Ø
+          1	Northernmost point of Prinsesse Margrethe Ø
+          1	Northernmost point of island off Qassit
+          1	Northwesternmost point of Hakluyt Ø
+          1	Northwesternmost point of Nordvestø
+          1	Northwesternmost point of Svartenhuk
+          1	Northwesternmost point of the island Killiit
+          1	Northwesternmost point of the island Kitsissut
+          1	Notabene
+          1	Nualik
+          2	Nuiariaq
+          2	Nuisarianguaq
+          3	Nuka
+          1	Nuka's Hostel
+          3	Nukalloq
+          3	Nukappiakkuluk
+          1	Nukariit
+          3	Nukissiorfiit
+          1	Nukissiorfik
+          1	Nuluk
+          1	Nunap Isua
+          1	Nunataaq
+          1	Nunatakassak
+          2	Nunatarsuaq
+          1	Nunatta Atuagaateqarfia
+          1	Nunatta Isiginnartitsisarfia
+          1	Nunatta Katersugaasivia Allagaateqarfialu
+          1	Nunavut
+          1	Nuniaffik
+          3	Nunngarut
+          6	Nunniaffik
+          1	Nursing Station
+          2	Nutaarmiut
+          1	Nutaraq
+          1	Nuugaarmiunut
+          2	Nuugaarsuk
+          1	Nuugaarsummut
+          2	Nuugaatsiaq
+          2	Nuuk
+          1	Nuuk - Kapisiilit.
+          1	Nuuk - Kapisiliit.
+          4	Nuuk - Kapisillit.
+          1	Nuuk - Kapisillit. 
+          2	Nuuk Airport
+          1	Nuuk Airport Terminal
+          1	Nuuk Apotek
+          1	Nuuk Biludlejning
+          3	Nuuk Center
+          1	Nuuk Center - Ittu indgang
+          1	Nuuk Fitness
+          1	Nuuk Golf Club
+          1	Nuuk Golfklub
+          1	Nuuk Imeq A/S
+          2	Nuuk Internationale Friskole
+          1	Nuuk Kunstmuseum
+          1	Nuuk Lokalmuseum
+          1	Nuuk Politi
+          1	Nuuk Shokokan Karate
+          1	Nuuk Shotokan Karate
+          1	Nuuk Skaterpark
+          1	Nuuk Stadium
+          1	Nuuk Sømandshjem
+          1	Nuuk TV
+          1	Nuuk Taxi
+          1	Nuuk Water Taxi
+          1	Nuuk biludlejning
+          1	Nuuk forbrænding
+          1	Nuuk powerstation
+          1	Nuuk'als auto A/S
+          1	Nuuk's Auto A/S
+          4	Nuukullak
+          1	Nuuluk
+          1	Nuummi Qatserisartut
+          1	Nuummiut
+          2	Nuup Bussii A/S
+          1	Nuup Bussii rute 1
+          1	Nuup Bussii rute 2
+          1	Nuup Bussii rute 3
+          1	Nuup Bussii rute 4: Bybus
+          1	Nuup Kangerlua
+          1	Nuup Qeqqa - Bymidten
+          1	Nuup Qeqqa Bymidten
+          2	Nuup Qeqqa Kujalleq
+          8	Nuussuaq
+          1	Nuussuaq Hallen
+          2	Nuussuaq Nigerleq
+          2	Nuussuaq Nuniaffik
+          1	Nuussuaq Skolen
+          1	Nuussuataap Aqqutaa
+          1	Nuussuatsiaq
+          1	Nuussuup Atuarfia (NUUS)
+          1	Nuussuup Qaqqaa
+          2	Nuusuaq Sangoriaq
+          1	Nuutoqaq
+          1	Nuviarissamut
+          1	Ny Vestervej
+          1	Nørskov Gruppen
+          1	Nûata nuna
+          1	Nûkajik
+          1	Nûkasaup kangerdlua
+          1	Nûkasik
+          1	Nûlugssuaq
+          1	Oasen
+          1	Octopus
+          1	Odin Sø
+          5	Oil tank
+          1	Old Camp
+          1	Ole Brandtip Aqq.
+          1	Ole Brandtip Aqqutaa
+          1	Ole Petersenip Aqq.
+          1	Ole Vetterleinip Aqq.
+          1	Olesvej
+          1	Oliekompagniet
+          1	Olip Aqquserna
+          1	Olsenip Aqquserna
+          1	Ombudsmanden Inatsisartut
+          1	Only accessible during flood
+          1	Oodaaq
+          1	Oodaaq Ø
+          1	Oqaatsut
+          2	Oqaitsortalik
+          2	Oqaluffik
+          3	Oqaluffiup Aqq
+          1	Oqaluffiup Aqqutaa
+          2	Organip Aqqutaa
+          1	Oriartorfik 1012 m
+          2	Orkendalen
+          1	Orlaap Aqquserna
+          1	Orsiivik
+          1	Orssuiagssuaq
+          1	Orsugissap Qaqqarsua
+          2	Ortooqqap Aqq.
+          1	Ortunuviaq
+          1	Otto Rosingsvej
+          2	P.H. Lundsteenvej
+          1	PGI Greenland
+          1	Paagussat
+          2	Paamaap Kuua
+          1	Paamiut
+          1	Paamiut Airport
+          1	Paamiut Museum
+          1	Paarna
+          1	Paarnaliarsuup Qaqqaa
+          4	Paarnaqutit
+          1	Paarnarissoq
+          2	Paarnarluit
+          2	Paarnarluk
+          3	Paarnat
+          1	Paarnat Rundkørsel
+          1	Paarsisoq
+          3	Paassaasivik
+          1	Paju.gl
+          1	Palasip Qaqqaa
+          1	Palup Qaqqaa
+          1	Pamiallua
+          1	Panasonic
+          1	Panasonic Center
+          1	Panduro
+          1	Panernamut
+          1	Pania
+          1	Panigit
+          1	Paomaliorfik
+          1	Paornivik
+          1	Parabolen
+          1	Paradisdalen
+          1	Pardlît
+          1	Parkeringsplad bag forsamlingshuset
+          1	Parkeringspladsen v. Brugseni
+          1	Parking Lot
+          1	Parpup aqqutaa
+          1	Pascucci
+          1	Patdlisa
+          1	Patdlit
+          1	Pattaaffik
+          1	Patuersuoq
+          1	Paulsen Keldsen
+          1	Pautuut
+          1	Pavia Petersen-ip Aqqutaa
+          1	Payers Tinde
+          1	Pele Seblonip Aqq.
+          1	Pelikaat
+          1	Penderyn
+          1	Penderyn Ridge
+          1	Pendulum Øer
+          2	Peqqissaanermik Ilinniarfik
+          2	Perngarfik
+          1	Perserajoq
+          1	Peter Broberg-ip
+          1	Peter Freuchen
+          1	Peter Høghsvej
+          1	Peter Olsensvej
+          1	Peter Rosinngip Aqq.
+          1	Peter Siegstadsvej
+          7	Peter Thårup Høeghip Aqq.
+          1	Petermann Bjerg
+          1	Petersen Bugt
+          2	Piareersarfik
+          1	Piita Lundip Aqq
+          1	Piitap Tasia
+          1	Piitarsuup Aqquserna
+          1	Pikitse
+         17	Pilersuisoq
+          2	Pilersuisoq A/S
+          1	Pilersuisoq Isenkram
+          1	Pilersuisoq Kangerluk
+          1	Pilersuisuaraq
+          2	Piloq
+          1	Pilu Sport
+          1	Pilutaq
+          1	Pingo 470 m
+          1	Pingo 810 m
+          1	Pinguaraq
+          2	Piniartut Aqq.
+          1	Pinnacle View
+          1	Pinngorsuaq
+          2	Pinngortitaleriffik
+          1	Pinngortitaleriffik Annex
+          1	Pisattat
+          6	Pisiffik
+          1	Pisiffik Ilulissat
+          1	Pisiffik Kujalleq
+          1	Pisiffik Nuussuaq
+          1	Pisiffik Pilivik
+          1	Pisiffik Qeqqa
+          1	Pisissarfik
+          1	Pisisseq
+          1	Pisissia
+          1	Pisuffissaq Park
+          1	Pitoqqiup Aqquserna
+          1	Pituffik
+          1	Pizza Huset
+          1	Pizza Shop
+          1	Pizzeria
+          1	Plejeboliger
+          1	Pod
+          1	Point 1 nautical mile north of Kap Madison
+          1	Point 1 nautical mile north of Kap Russel
+          1	Point 1 nautical mile south of Kap Brewster
+          1	Point 1 nautical mile south of Kap Broer Ruys
+          1	Point 1 nautical mile south of Kap Hodgson
+          1	Point 1.5 nautical miles north of Kap Philip Broke
+          1	Point 2 nautical miles south of Kap Børgen
+          1	Point 2 nautical miles southeast of Kap Pansch
+          1	Point 2 nautical miles west of Kap Stanton
+          1	Point 2 nautical miles west of Kap Washington
+          1	Point 2 nautical miles west of the northernmost point of Da
+          1	Point 3 nautical miles north of Kap Alf Trolle
+          1	Point 3 nautical miles northeast of Kap Russell
+          1	Point 3 nautical miles northeast of Kap Taney
+          1	Point 3 nautical miles south of Kap H.N. Andersen
+          1	Point 3 nautical miles southwest of Kap Broer Ruys
+          1	Point 3 nautical miles west of Kap Bryant
+          1	Point 6 nautical miles east of Kap Cannon
+          1	Point by Aflandshage on the island Qeertartiip Saaliaqitaa
+          1	Point by Nordre Laksebugt of Disko
+          1	Point north of Mellemfjord by Jernpynten
+          1	Point north of Nordre Laksebugt of Disko
+          1	Point of Nordostrundingen
+          4	Point on Björlings Ø
+          1	Point on Fireø
+          1	Point on Store Koldewey east of Berg Fjord
+          1	Point on the western part of Franfield Bugt
+          1	Point south of Nordre Laksebugt of Disko
+          1	Polar Bear
+          1	Polar Lodge
+          1	Polar Magasin
+          1	Polar OIL
+          2	Polar Oil
+          2	Polar Raajat
+          1	Police
+          1	Politi
+          1	Politi / Pisiffik
+          2	Politiskolen Nuuk
+          2	Port Victor
+          1	Port of Nuuk
+          1	Portusumut
+          1	Pottersvej
+          1	Poul Bjergsvej
+          2	Poul Ibsensvej
+          1	Prinsesse Benediktip Aqq.
+          1	Prinsesse Dagmar Ø
+          1	Prinsesse Margrethes Børnehjem Lillegruppen
+          1	Prinsesse Margrethes Børnehjem Minihal
+          1	Prinsesse Margrethes Børnehjem. Administration
+          1	Prinsesse Margrethes Børnehjem. Pedel/Værksted.
+          1	Prinsesse Margrethes Børnehjem. Storegruppe.
+          1	Prinsesse Thyra Ø
+          3	Prinsessevej
+          1	Proposed road from Sisimiut to Kangerlussuaq
+          1	Provestenen
+          1	Prs. Benediktesvej
+          1	Præstebakken
+          1	Præstefjord cabin area
+          1	Præstefjorden Lejrskole
+          1	Pub Raaja
+          1	Pubik
+          2	Puiaq
+          1	Puilasoq
+          1	Puilasorsuit Qaqqaat
+          1	Puilasunnguup Aqq.
+          7	Pujooriarfik
+          2	Pujooriarfiup saqqaa
+          4	Pukuffik
+          2	Punkthus
+          2	Pupik
+          1	Putdlatit
+          1	Putooruttoq
+          3	Puulukilvik
+          1	Pyramid
+          1	QEF
+          2	Qaanaaq
+          1	Qaanaaq Hospital
+          1	Qaanaaq Museum
+          1	Qaanaaq Police Station
+          1	Qaanaaq airstrip
+          1	Qaanaaq church
+          1	Qaaraju
+          1	Qaarsoq
+          1	Qaarsorsuatsiaq
+          3	Qaarsunnguaq
+          1	Qaarsut
+          1	Qaarsutsiaq
+          1	Qaarusuarsuk
+          1	Qaassuup Aqquserna
+          1	Qaasuitsup Kommunia
+          5	Qaava
+          1	Qaava Festisal
+          1	Qaersoq
+          1	Qaersuarssuk
+          1	Qagssimiut
+          1	Qagssitilua
+          1	Qajaasaarfik
+          1	Qajaasaq
+          5	Qajaasat
+          2	Qajaasat (Atuarfik)
+          1	Qajarsuup Qaqqaa
+          1	Qajartalik
+          1	Qajartariorssuaq
+          1	Qajartoriaq
+          1	Qajuuttaa 1254 m
+          1	Qajâ
+          1	Qaleragdlit imâ
+          1	Qalilimmiut Saqqaata Tasia
+          1	Qallunaaq Arnaq
+          1	Qallunaat
+          1	Qalorujoorneq
+          1	Qalut Vónin
+          1	Qalut Vónin A/S
+          1	Qalutaassuaq
+          1	Qanile
+          1	Qanilik
+          3	Qanniviit
+          1	Qapiarfiup Sermia
+          3	Qapiarfiusaaq
+          1	Qaqarssuaq1360 m
+          6	Qaqeqqaarfik
+          1	Qaqisarfik
+          1	Qaqortoq
+          1	Qaqortoq - Alluitsup Paa
+          1	Qaqortoq - Narsaq
+          1	Qaqortoq Biludlejning
+          1	Qaqortuatsiaq
+          1	Qaqortukuluup Qaqqaa
+          1	Qaqortup Qaqqaaraa
+          1	Qaqqakasik
+          1	Qaqqaliartarfik
+          2	Qaqqamut
+          1	Qaqqannguamut
+          1	Qaqqap Tunua
+          1	Qaqqaq Johnson
+          1	Qaqqaq Kershaw
+          1	Qaqqaq Paul Emile Victor
+          2	Qaqqarsuaq
+          1	Qaqqarsuaq 1154 m
+          1	Qaqqarsuasik
+          1	Qarmat
+          4	Qarsaalik
+          1	Qarsiarsuk - Narsarsuaq
+         16	Qarsoq
+          2	Qarsoq Tikiusaaq
+          2	Qarsoq/Asiarpak
+          1	Qasapi
+          1	Qasigeerneq
+          3	Qasigiannguit
+          2	Qasigissat
+          1	Qasigissat nunâ
+          1	Qassi 1382 m
+          1	Qassi kantiina
+          2	Qassiarsuk
+          1	Qassiarsuk Heliport
+          1	Qassimiut
+          1	Qassinnguaq
+          1	Qassinnguit 895
+          2	Qassuserfik
+          1	Qatitit
+          3	Qatserisut
+          1	Qatserutaasivik
+          2	Qattaaq
+          2	Qattaaq Rundkørsel
+          1	Qattarmiut
+          1	Qaurunnguaq
+          3	Qeeqi
+          1	Qeertartivatsiaq
+          2	Qeqertanut
+          1	Qeqertap Timaa
+          4	Qeqertaq
+          1	Qeqertaq Atertâq
+          3	Qeqertarssuaq
+          1	Qeqertarssuâraq
+          4	Qeqertarsuaq
+          1	Qeqertarsuatsiaat
+          1	Qeqertarsuatsiaat Atuarfiat
+          1	Qeqertarsuatsiaat Cemetary
+          1	Qeqertarsuatsiaq
+          1	Qeqertarsuup tunua
+          3	Qeqertat
+          1	Qeqertaussaq
+          1	Qeqqani Ilinniarnertuunngorniarfik (GUX)
+          2	Qeqqata Kommunia
+          2	Qernertivartivit
+          1	Qernertuarssuit
+         14	Qernertunnguanut
+          1	Qernertunnguaq
+          1	Qernertunnguit
+          1	Qernertunnguit Kangerluat
+          1	Qerrulik
+          1	Qianarteq
+          1	Qiassoq
+          1	Qigdluakitsoq
+          1	Qilakirsup Alanngua
+          3	Qilakitsoq
+          1	Qilakitsoq-Mumiernes Gravsted
+          1	Qillorfik
+          1	Qimatulivissuit
+          3	Qimerlua
+          1	Qimmeertaajaliip Qaqqartivaa
+          1	Qimmeqarfik
+          1	Qimmersalik
+          1	Qimusseriarsuaq
+          1	Qingaarsuaq
+          1	Qingagssat qaqit
+          1	Qingartaq
+          1	Qingassat Qaqqaat
+          1	Qinngorput
+          2	Qinngua Valley
+          1	Qinnguata Tasia
+          5	Qisisseq
+          2	Qiterlia
+          1	Qiusarfik
+          4	Qiviarfik
+          2	Qivittoqarfik
+          1	Qiviut
+          1	Qoooqqut
+          1	Qooqqut Nuan
+          1	Qooquttuup Tasia
+          1	Qoornip Qaqqartivaa
+          1	Qoornoq
+          4	Qoornoq X-press
+          1	Qoornoq historical church
+          1	Qoornuup Qeqertarsua
+          1	Qoororalak
+          1	Qoororsueq
+          3	Qoororsuup Aqq.
+          2	Qoorunnguaq
+          1	Qorlortoq So
+          2	Qorlortorsuaq
+          1	Qorlortorsuaq Dam
+          1	Qorlortup Qoorua
+          1	Qorqut
+          1	Quagssugarssuaq 970 m
+          1	Quajaut
+          1	Quasar Peak
+          1	Quassik
+          2	Quassunnguaq
+          1	Quassussuaq
+          1	Quassuup Tasersua
+          1	Qugdlugianguit
+          1	Quikasik
+          2	Qujanarteq
+          1	Qullikorsuit
+          2	Qullilerfik
+          2	Qullissat
+          1	Qullissat Aqq.
+          1	Qullugiusaq
+          1	Qummut
+          1	Qunguleq
+          2	Qupaloraarsuk
+          1	Qupik 1069 m
+          1	Qussartoq
+          1	Quujuutilik
+          1	Quvnermiut
+          1	Quvssagssat
+          2	Qángue
+          1	Qârqát
+          1	Qîanarteq
+          1	Qôrorssûp Kûgssua
+          1	Qúmut sangmissup nunâ
+          1	REMEC GREENLAND 2016 Expedition Basecamp
+          1	RTOW2001
+          3	Rasmus Berthelsenip Aqqutaa
+          2	Rasmuuseeqqap Aqqutaa
+          1	Raven Ice Landingstrip
+          1	Ravneklippen
+          1	Red Trail
+          4	Regner Bentsensvej
+          1	Restaurant
+          1	Restaurant Bones
+          1	Restaurant Charoen Porn
+          1	Restaurant Isikkivik
+          1	Restaurant Mamartut
+          1	Restaurant Ruupa
+          1	Restaurant Tulugaq
+          1	Reval Toppen
+          1	Rharpeak
+          1	Rigny Bjerg
+          1	Riina
+          2	Ringvej
+          1	Rita Sport Maniitsoq
+          1	Rock House
+          1	Rodebay
+          1	Roklubben
+          1	Rosendami-ip
+          1	Roskildip Aqq.
+          3	Royal Arctic Line
+          2	Royal Arctic Line A/S
+          1	Royal Arctic Line Booking kontor
+          1	Royal Arctic Line Hovedkontor
+          2	Royal Greenland
+          1	Royal Greenland A/S
+          1	Ruins of ancient Nanortalik
+          1	RØDEKORS
+          3	SB Tank
+          1	SKAT
+          1	SMS Kiosk
+          1	STARK
+          1	STARK Sisimiut
+          1	Saalimiip Aqquserna
+          1	Saamuap Aqquserna
+          1	Saarfaarsuit
+          2	Saarloq
+          1	Saarlup Tasersua
+          1	Saarlussuaq
+          1	Saattoq
+          1	Saattorsuaq
+          3	Saattut
+          1	Sabine Ø
+          1	Saffioorsuaq
+          1	Sagdliata 1400 m
+          1	Salleq
+          1	Salliaq
+          3	Salliarnaq
+          1	Salliarnartaq
+          1	Salliaruseq
+          1	Sallinnguit
+          1	Salon Elisa
+          1	Salon Mariia
+          1	Salon Nauja
+          1	Salon Puk
+          1	Salthuset
+          1	Sammiarneq
+          4	Samuel Kleinschmidt Aqqutaa
+          1	Sanaartornermik Ilinniarfik
+          1	Sanaluttarfimmut
+          2	Sanamut Aqqut Lægeklinikken
+          4	Sanamut Aqqutaa
+          1	Sanasup Aqquserna
+          1	Sanatorievej
+          3	Sanatårn
+          1	Sandflugdalen
+          4	Sandflugtdalen
+          7	Sangoriaq
+          1	Sangujât kûat
+          1	Sangujât tasiat
+          1	Sangusariaq
+          2	Sanilia
+          1	Sanipik
+          1	Sannerut
+          1	Sanningasoq
+          1	Santa Claus' house
+          1	Saputit
+          2	Saqqaa
+          1	Saqqaarsuk
+          2	Saqqannguaq
+          2	Saqqaq
+          2	Saqqarlernut
+          2	Saqqarliit
+          7	Sarfaannguit
+          2	Sarfaarsuit
+          1	Sarfalik
+          1	Sarfannguit
+          1	Sarfaq
+          1	Sarpaq
+          1	Sarqap Sermerssua
+          1	Sarqarput
+          1	Sarsuatsiivinnguup Qulaa
+          2	Savaasat Qaqqaat
+          1	Savinnut
+          3	Savissivik
+          1	Schnauders Island
+          2	Seernaq
+          1	Seersuit Aqq.
+          2	Seqinniarfik
+          1	Serfartûtsiaq
+          2	Sermeq
+          1	Sermeq (2012)
+          3	Sermermiut
+          1	Sermermiut Aqq.
+          1	Sermersooq Kredsret
+          1	Sermerssuaq
+          1	Sermersuaq
+          1	Sermiligaami Katersortarfik
+          1	Sermiligaami Kommune Addappia
+          1	Sermiligaaq
+          1	Sermiligaaq Convenience Store
+          1	Sermiligaaq Helistop
+          1	Sermiligaaq Nursing Station
+          1	Sermiligaaq Quay
+          2	Sermiligaaq Servicehouse
+          1	Sermilik
+          1	Sermilik Bræ
+          1	Sermilik Station
+          1	Sermilingaaq Alivarpia
+          2	Serminguaq
+          1	Sermitsiap Qaqqaat
+          1	Sermitsiaq
+          1	Sermitsiaq / AG
+          1	Serratit
+          2	Service House
+          1	Servicehus
+          2	Severin Kristoffersenip Aqq.
+          1	Shannon
+          1	Shop
+          2	Siaqqineq Atertaq
+          4	Siaqqinneq
+          2	Siaqqinneq Nukappiakkuluk
+          2	Siaqqinneq Nuussuup Iliveqarfia
+          1	Siaqqinneq Qarsaalik
+          1	Siatsivik
+          1	Sigguup Nunaa
+          1	Signal Hill
+          3	Siimuup Aqquserna
+          1	Sikkersoq
+          1	Sikuitsoq
+          1	Sillisit
+          1	Sillisit - Nunataaq 2013 8 h
+          1	Sillisit - Tasiusaq
+          1	Sillisit Huts
+          2	Simiutaq
+          1	Simiutarssuánguaq
+          2	Sinarsua
+          1	Siniffik Inn
+          1	Sioragdlip Sermia
+          1	Sioraleeraq
+          2	Siorapaluk
+          1	Siorarsiorfik
+          1	Siorqap Sâ
+          3	Sipisaq Avannarleq
+          1	Sipisaq Kangilleq
+          3	Sipisaq Kanilleq
+          4	Sipisaq Kujalleq
+          1	Siportôq
+          1	Sisimiuni Katersortarfik
+          1	Sisimiuni eqqartuussivissamik (Sisimiut Kredsret)
+          3	Sisimiut
+          1	Sisimiut Katersugaasiviat
+          1	Sisimiut Snescooter Forening
+          1	Sisimiut Sport
+          1	Sisimiut Sundhedscenter
+          2	Sisimiut Vandrehjem
+          1	Sisimiut gl. dieselelværk
+          1	Sisimiut hal
+          1	Sisit
+          1	Sisoorartut Kuua
+          1	Sisorarfiit Skiliften
+          1	Sisorarfik
+          1	Sissakkooriaq
+          1	Sissami
+          1	Sissarissunnguaq
+          1	Sisters
+          1	Sivinganikasia
+          1	Sixt
+          1	Skilift
+          1	Skole
+          4	Skolevej
+          1	Skovfjorden
+          1	Skydebane
+          1	Skøjtebanen
+          1	Small island northeast of Bordø
+          1	Small island southeast of Kap Dan
+          1	Small island west of Tulugartalik
+          1	Smith Sound
+          1	Snebordet
+          1	Snehaetten
+          1	Snow Falcon
+          1	Softice
+          3	Solbakken
+          1	Solos Pynt
+          1	Sondemut
+          1	Sondrestrom Incoherent Scatter Radar
+          1	Sondrestrom Upper Atmospheric Research Facility
+          2	Soralu
+          4	Sorlaat
+          2	Sorlaat Illorput
+          2	Sorlaat Narsarviaq
+          2	Sorlaat Nunngarut
+          1	South Greenland Whale Hotel
+          1	Southeasternmost point of Griffenfeld Ø
+          1	Southeasternmost point of Lille Pendulum
+          1	Southeasternmost point of Norske Øer
+          1	Southeasternmost point of Qeertartivaq
+          1	Southeasternmost point of Rathbone Ø
+          1	Southeasternmost point of Shannon Ø
+          1	Southeasternmost point of island east of Kap Farvel
+          1	Southeasternmost point of the island Pattuulaajivit
+          1	Southernmost island in the archipelago Kook Øer
+          1	Southernmost island in the archipelago Sydlige Kitsissut
+          1	Southernmost island of Edderfugleøerne
+          1	Southernmost point of Björlings Ø
+          1	Southernmost point of Bushnan Ø
+          1	Southernmost point of Fireø
+          1	Southernmost point of Hollænderhatten
+          1	Southernmost point of Littleton Ø
+          1	Southernmost point of Mallemukfjeld
+          1	Southernmost point of Turner Ø
+          1	Southernmost point of island off Qassit
+          1	Southernmost point of island south of Avallersuaq
+          1	Southernmost point of the east island of Henrik Kröyer Hol
+          1	Southwesternmost point by Qinnivik
+          1	Southwesternmost point of Conical Rock
+          1	Southwesternmost point of Disko by Blåfjeld
+          1	Southwesternmost point of Fireø
+          1	Southwesternmost point of Hakluyt Ø
+          1	Southwesternmost point of Ikermiut west of Frederikshåb Is
+          1	Southwesternmost point of Kilen
+          1	Southwesternmost point of Qiioqi west of Anarsivik
+          1	Southwesternmost point of Sermersuut Uummannaarsuat
+          1	Southwesternmost point of Wolstenholme Ø
+          1	Southwesternmost point of the archipelago Qassit
+          1	Southwesternmost point of the island Killiit
+          1	Southwesternmost point of the south island in Killiit west 
+          1	Southwesternmost point of the southernmost island of Hellef
+          4	Spar
+          1	Spar Anja
+          1	Spar Nipinngaaq
+          1	Spar Qinngorput
+          2	Spar Qiviarfik
+          1	Spar ikerasannguaq
+          2	Spar kangia
+          4	Sports Centre
+          1	SportsCaféen
+          1	Spraglenæs
+          1	Sprængstof depot
+          2	Stadionvej
+          1	Stainslaw-ip isikkivia
+          2	Stanislawip Issikivia
+          2	Stark
+          1	Stark Nuuk
+          1	Station Nord
+          1	Stauning Alper
+          3	Stauningip Aqq
+          3	Steffen Møllerip Aqqutaa
+          1	Stephensens Havn
+          1	Stoklunds Fjord
+          1	Stone bank
+          1	Stone graves
+          1	Stordalens Havn
+          1	Store Koldewey
+          1	Store Saltsö
+          2	Storesøvej
+          1	Storo
+          1	Styggehorn
+          1	Suersamut
+          1	Sugar Loaf
+          1	Suikkassuaq
+          1	Sukkertoppen
+          1	Sulisartut Højskoliat
+          1	Sullivninnik Nakkutilliisoqarfik
+          2	Sullorsuaq
+          4	Suloraq
+          1	Sulussugutaasaa
+          1	Sulussugutaasaasaq 814 m
+          1	Summit 01
+          1	Summit 02
+          1	Summit 03
+          1	Summit 10
+          1	Summit 11
+          1	Summit 13
+          1	Summit 14
+          1	Summit 4
+          1	Summit 5
+          1	Summit 6
+          1	Summit 7
+          1	Summit 8
+          1	Summit 9
+          1	Summit Ice Landingstrip
+          1	Super1
+          1	Suulunnguup Aqquserna
+          1	Suulut Villa
+          1	Suusaap Aqq.
+          1	Svedenborg Bjerg
+          1	Svend Jungep Aqq.
+          3	Svend Jungep Aqqutaa
+          1	Svend Jungep aqq.
+          1	Svendborgip Aqquserna
+          1	Sverdrup Ø
+          1	Sydgletscher
+          1	Sydgrønlands El ApS
+          1	Sygehuset, Napparsi.
+          1	Synoptik
+          1	Syttenkilometernæsset
+          1	Sârdlup qáqâ
+          1	Sãtuarssuit
+          1	Sælen
+          2	Sêrartussoq
+          1	Sødalen Landingstrip
+          1	Sømandsfjeldet
+          2	Sømandshjemmet
+          1	Søndre Qipisarqo Bræ
+          1	Søndre Qoornoq Bræ
+          1	T E Service
+          1	TALORSSUIT
+          1	TP0039
+          1	TP0235
+          1	TP0317
+          1	TP3474
+          1	TP7938
+          1	TP8595
+          1	TP8621
+          1	TZ border
+          1	Takissoq
+          1	Takuss
+          1	Talerua
+          1	Talittarfittaaq
+          2	Tallorutit
+          1	Talut
+          1	Tamat
+          2	Tamat Sport
+          1	Taparfik
+          1	Taqissorfik
+          1	Tarssukatak
+          1	Taseq
+          1	Taseralik Kulturikkut
+          1	Taseralik, Skole 2
+          2	Tasermiut
+          1	Tasermiut Fjord
+          1	Taserssuaq qagateq
+          9	Tasersuaq
+          1	Tasersuatsiaq
+          1	Tasersuup Atuarfia
+          1	Tasiilami Alivarpi
+          2	Tasiilaq
+          1	Tasilap Nua
+          1	Tasiluk
+          1	Tasinnngartaaq
+          1	Tasitalik
+          1	Tasiusap Qaqqaa
+          6	Tasiusaq
+          1	Tassuunaaqqunnerit tamaasa
+          2	Tassuunaqqunnerit tamaasa
+          1	Tatsip Aqq
+          1	Tatsip Ataa
+          3	Tattoqeqarfik
+          1	Tattoqeqarfik / Brandstation
+          1	Taxangut
+          1	Teknik Miljø
+          1	Teknikimik Ilinniarfik
+          3	Tele Greenland
+          1	Tele Greenland Modtagestation til søkabel
+          1	Tele Post
+          1	Tele Post Center
+          1	Tele Radio
+          4	Tele-Post
+          1	Tele-Post Centre
+          1	Tele-Post Greenland A/S
+          1	Televej
+          1	Teqqiingalik
+          1	Thai Massage
+          1	Thai Take Away
+          1	The Mother of the Sea
+          1	The Nob
+          1	The Red House
+          1	The Serpent
+          1	The Twins
+          1	The island Ikerasattuut west of Kangerluarsussuaq
+          1	The island Naujat in the archipelago Nordlige Kitsissut
+          1	The island Uummannaq south of Kap Farvel
+          1	The old heliport
+          1	Thjodhildes kirke
+          1	Thomas Thomsen Næs
+          1	Thor Sø
+          1	Three Bears
+          2	Thule Air Base
+          1	Thulé
+          1	Tiinasip Aqquserna
+          1	Tikaasaq
+          5	Tikiusaaq
+          3	Timerlia
+          1	Timerput
+          1	Timersortarfiat
+          1	Timimut
+          1	Timmiannguit
+          1	Timmiannguit Eqingat
+          1	Timmiannguit Kuuat
+          1	Timmiannguit Tasiat
+          1	Tingmiarmit
+          1	Tininnertuup Qaqqaat
+          3	Tiniteqilaaq
+          2	Tinupattak
+          1	Tipitooq
+          1	Tipitooq kangilleq
+          1	Tipituup Tasia
+          1	Tipituup qaava
+          1	Tipituup saqqaa
+          1	Tittup Aqquserna
+          2	Tobiap Aqq.
+          1	Tobias Gabrielsenip aqq.
+          1	Tobias Ø
+          1	Toornaarsuk
+          2	Torden Sø
+          1	Torrak Fashion
+          1	Torrak fashion
+          1	Torssukatak
+          1	Torsukattak
+          3	Torvet
+          1	Torvevej
+          1	Tour de Galeria ou de Calcinaggia ou Calcinaghja
+          1	Tourist-Information
+          1	Traill Ø
+          1	TriNgle
+          1	TriNgle Point
+          1	Trollep Aqqutaa
+          1	Trolles Olieservice
+          1	Tuapammiut
+          3	Tuapannguanut
+          2	Tuapannguit
+          1	Tuapassuit
+          1	Tugtutôq
+          1	Tuia
+          1	Tukingasoq
+          1	Tullemut
+          1	Tunguusaq
+          1	Tungôrtoq
+          1	Tunoqqusaaq
+          1	Tunuliaritseq
+          1	Tunulliarfik
+          3	Tupaarnat
+          3	Tupilak
+          1	Tupilak Travel
+          1	Tussaaq
+          1	Tuttulikassak
+          2	Tuujuk
+          1	Tuullik
+          1	Tuumarsi
+          1	Tuunerit
+          1	Tuvilissuaq
+          1	Tørvehuset
+          2	Tørvehytte
+          2	Tøsebakken
+          1	Tûgdlik
+          1	Udkikken
+          1	Udsigten
+          1	Ugssugiussoq
+          2	Uiaq
+          1	Uiarsaariaq
+          2	Uiffak
+          1	Uiffak / Paarnarissoq
+          1	Uiffaq
+          1	Uigordleq
+          2	Uigulukutsut
+          1	Uiloq
+          1	Uilorsuaq
+          1	Uitlut
+          1	Ujaqqerivimmut
+          3	Ujaragtarfik
+          1	Ujarassuaq
+          1	Ujarassuit
+          1	Ujarasugssûp Qíngua
+          1	Ujarasussuttaliit Qaqqaa
+          1	Ujuaannaap Aqq.
+          3	Ukaliusaq (USK)
+          5	Ukkusissat
+          1	Ukuarluup Aqq
+          1	Ulissannguit
+          1	Ulla Ø
+          1	Ullersuaq
+          1	Ultima Thule 2008
+          1	Ulunnguarsuaq
+          1	Umiaq
+          1	Umiarsualivimmut
+          2	Umiartortut Aqqutaat
+          1	Umiatsialerivik
+          1	Umiivitsiaq
+         12	Unaaq
+          1	Unertâq
+          2	Ungaaq
+          1	Ungaavaraq Vuggestue
+          1	Ungdomsklub Klub 3900
+          2	Ungusivik
+          1	Ungvaaraq
+          1	Unik
+          1	University Cafeteria
+          1	Unmaned
+          1	Unnuartooq
+          1	Upernaviarsuk
+          4	Upernavik
+          1	Upernavik Hospital
+          1	Upernavik Kirke
+          2	Upernavik Kujalleq
+          1	Upernavik Kujalleq kirke
+          1	Upernavik Old church
+          1	Upernaviup Aqquserna
+          3	Upernivik
+          1	Uppittalik
+          1	Usumeersip Qaqqaa
+          1	Utsussuatsiaat
+          2	Uulineq
+          1	Uumannanngua
+          1	Uumannaq
+          1	Uummannap Oqaluffia
+          1	Uummannap Sullua
+          1	Uummannap qeqertaa
+          6	Uummannaq
+          1	Uummannaq Museum
+          1	Uummannarsuaq
+          1	Uunarteq
+          1	Uunartoq
+          1	Uunartoq Qeqertaq
+          1	Uunartoq hot spring
+          1	Uunnguttoq
+          1	VVS Service
+          1	Vaava
+          1	Valhaltinde
+          1	Vandsøen
+          1	Vandværket
+          1	Vatikanbakken
+          1	Vegas Fjeld
+          1	Vejle Rejser
+          1	Very difficult
+          2	Vestervej
+          1	Video Centret
+          1	Vinboden
+          1	Visit Greenland
+          1	Vivis Shop
+          1	Walrus Bay
+          3	Walsøvej
+          1	Wandel Land
+          1	Water supply
+          1	Water tank
+          1	Westernmost island in the archipelago Kook Øer
+          1	Westernmost island of Kingittortallit
+          1	Westernmost island of Smaalandene
+          1	Westernmost pnt. of Qajaarserfik west of Frederikshåbs Uma
+          1	Westernmost point of Avallerpaarsuaq in Siorarliit
+          1	Westernmost point of Crozier Ø
+          1	Westernmost point of Disko
+          1	Westernmost point of Franklin Ø
+          1	Westernmost point of Hareøen
+          1	Westernmost point of Joe Ø
+          1	Westernmost point of Kap York
+          1	Westernmost point of Qerrulik west of Simiutaq
+          1	Westernmost point of Qulleq of Ryders Øer
+          1	Westernmost point of Sabine Øer
+          1	Westernmost point of Svartenhuk north of Svartenhavn
+          1	Westernmost point of Varde Ø west of Frederikshåb
+          1	Westernmost point of Wolstenholme Ø
+          1	Westernmost point of island west of Inussulinnguaq
+          1	Westernmost point of the archipelago Qassit
+          1	Westernmost point of the island Ikarlussuaq
+          1	Westernmost point of the island Kitdliat
+          1	Westernmost point of the island Kitsissut
+          1	Whale Fish islands
+          1	Whiteliner Peak
+          1	Wille Brandtsvej
+          1	Wollaston Foreland
+          1	World of Greenland
+          1	Yellow Trail
+          1	Ymer Nunatak
+          1	Ymer Ø
+          1	Youth Center
+          1	Youth Club
+          2	Youth Hostel
+          1	Yr Esgair
+          2	Zackenberg
+          1	Zackenberg Ecological Research Operations
+          1	Zionip Aqquserna
+          1	Zionip oqaluffia
+          1	Zions Kirke
+          1	Zionsborg
+          1	bro A
+          1	bro B
+          1	bro C
+          1	bro D
+          1	bro E
+          1	bro F
+          1	bro G
+          1	bro H
+          1	bro I
+          1	bro J
+          1	bro K
+          1	bro L
+          1	bro M
+          1	bro N
+          1	bro O
+          1	bro P
+          1	en:Arctic Circle Trail
+          1	grønlandsbanken
+          1	hut #68
+          1	juniorklub
+          2	kamikoorfik
+          1	kûgssuaq
+          1	lille lift
+          1	napparsimaviup illuutaa
+          1	orange route
+          1	pinguin site, a lot of pinguins
+          1	store lift
+          1	swamp
+          1	tourist information
+          1	utoqqaat illuat
+          1	x
+          1	Århusvej
+          1	Île-de-France
+          5	Örkendalen
+          1	Østgletscher
+          1	Ûgarmiut
+          1	外星人基地

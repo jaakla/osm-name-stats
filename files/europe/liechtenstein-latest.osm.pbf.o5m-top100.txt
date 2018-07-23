@@ -1,0 +1,100 @@
+         60	Landstrasse
+         35	Zollstrasse
+         30	ÖBB Feldkirch – Buchs
+         30	Feldkircher Strasse
+         29	Donau
+         28	Industriestrasse
+         27	Rheinstrasse
+         26	Rietstrasse
+         26	Bergstrasse
+         25	Blätterstraße
+         24	Schlossweg
+         21	Rheindamm
+         21	Alte Landstrasse
+         17	Mariborska cesta
+         17	Gagoz
+         16	Malbunstrasse
+         16	Kleinsteg
+         16	Ill
+         13	Egerta
+         13	Badener Straße
+         12	Wiesengass
+         12	Tržaška cesta
+         12	Schaaner Strasse
+         12	Lettstrasse
+         12	Austrasse
+         11	Vöckla
+         11	Vorarlberger Strasse
+         11	Tobelbach
+         11	Eschner Strasse
+         11	Bammiliweg
+         10	Wiener Straße
+         10	Spörry
+         10	Schulstrasse
+         10	Poststrasse
+         10	Planknerstrasse
+         10	Langgasse
+         10	Benderer Strasse
+          9	Äulestrasse
+          9	Wasserpark Walserbünt
+          9	Valünastrasse
+          9	Städtle
+          9	Schellenbergstrasse
+          9	Sankt Martins-Ring
+          9	Mauren Freihof
+          9	Lochgass
+          9	Kirchstrasse
+          9	Industriering
+          9	Heiligkreuz
+          9	Gapetschstrasse
+          9	Fischach
+          9	Essanestrasse
+          9	Dorfstrasse
+          8	Ybbs
+          8	Weiherring
+          8	Under Rüttigass
+          8	Schaan Bahnhof
+          8	Rietlestrasse
+          8	Noflerstrasse
+          8	Klenn
+          8	Iraggellstrasse
+          8	Im Besch
+          8	Grosssteg
+          8	Fürstenweg
+          8	Fürst-Franz-Josef-Strasse
+          8	Esche
+          8	Binnendamm
+          7	Vaduz Post
+          7	Triesenberg Abzw. Masescha
+          7	Sückastrasse
+          7	Sägastrasse
+          7	Schlossstrasse
+          7	Schaanwald Zollamt
+          7	Schaanwald
+          7	Rhein
+          7	Quaderröfiweg
+          7	Obere Rüttigasse
+          7	Oberbühl
+          7	Nendeln
+          7	Meierhofstrasse
+          7	Ljubljanska cesta
+          7	Lech
+          7	Im Schwibboga
+          7	Herawingert
+          7	Fabrikenweg
+          7	Dröschistrasse
+          7	Brückle
+          7	Britschenstrasse
+          7	Bendern Post
+          6	Valorschstrasse
+          6	Spodnje Hoče
+          6	Saxweg
+          6	Salzach
+          6	Ruggeller Strasse
+          6	Pradameestrasse
+          6	Obergut
+          6	Neugutweg
+          6	Neue Churerstrasse
+          6	Nendeln Bahnhof
+          6	Mühlegass
+          6	Matteltiwaldstrasse

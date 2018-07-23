@@ -1,0 +1,100 @@
+         82	Highlands Highway
+         53	Ramu Highway
+         49	Hiritano Highway
+         46	Charles Abel Highway
+         45	building
+         41	Tari Highway
+         39	Sepik River
+         36	Hubert Murray Highway
+         34	Boluminski Highway
+         32	North Coast Highway
+         26	Magi Highway
+         24	Wau-Bulolo Highway
+         20	Champion Parade
+         18	Tee Primary School
+         18	Poreporena Freeway
+         18	Mendi Highway
+         17	settlements
+         17	Busu Road
+         16	Kiunga-Tabubil Highway
+         15	Waigani Drive
+         14	Komo Road
+         13	Ialibu - Kagua Road
+         13	Fly River
+         12	Ramu River
+         12	Hoskins-Kimbe Highway
+         11	Taurama Road
+         11	Sogeri Road
+         11	Butibum Road
+         10	Strickland River
+          9	Wards Strip
+          9	Rigo Road
+          9	Poroma road
+          9	Boram Road
+          8	Wards Road
+          8	Morea-Tobo Road
+          8	Koroba Road
+          8	Kokoda Track
+          8	Geauta Drive
+          7	Papindo
+          7	Laloki River
+          7	Border Papua New Guinea - Indonesia
+          7	(dead end)
+          6	Milfordhaven Road
+          6	Kumul Flyover
+          6	Kokopo-Rabaul Road
+          6	Gordon Circuit
+          6	Cameron Road
+          6	Asaro River
+          5	Vanimo - Indonesia border road
+          5	Toilets and showers
+          5	Talasea road
+          5	Tagari River
+          5	Sali River
+          5	Pigs
+          5	Lai River
+          5	Kuminga Road
+          5	Kimbe-Talasea
+          5	Ialibu Highway
+          5	Henga Road
+          5	Halongani Road
+          5	Hagen Drive
+          5	City Pharmacy
+          5	Bumbu Road
+          5	Boroko Drive
+          5	Berna Bena road
+          5	Banz (North) Road
+          4	house
+          4	Wewak Airport
+          4	Urawa River
+          4	Turama River
+          4	Tedi River
+          4	Tebi river
+          4	Tagali river
+          4	Sogeri-Sirinumi Dam Road
+          4	Sand Island
+          4	Romba Street
+          4	Napa Napa Road
+          4	Menyamya Highway
+          4	Maramuni River
+          4	Manipur Health Centre
+          4	Mangola Street
+          4	Mambare River
+          4	Kum Road
+          4	Independence Drive
+          4	Hulia Marketplace
+          4	Goroka Airport
+          4	ECPNG Church
+          4	Cocoa Fermentary
+          4	Buimo Road
+          4	Boroko Motors
+          4	Bava Street
+          4	Bauhinia Avenue
+          3	Yamauan Street
+          3	Westpac
+          3	Viewpoint
+          3	Varahe Road
+          3	Umbukul
+          3	Tunnel Hill Road
+          3	Teredau
+          3	Teacher

@@ -1,0 +1,100 @@
+        190	16th Street Northwest
+        112	Mailbox
+        101	K Street Northwest
+        100	Pennsylvania Avenue Northwest
+         94	Metro - Red Line
+         94	Massachusetts Avenue Northwest
+         86	Connecticut Avenue Northwest
+         80	Anacostia Freeway
+         76	RF&P Subdivision
+         69	Pennsylvania Avenue Southeast
+         69	East Capitol Street Northeast
+         64	14th Street Northwest
+         61	Starbucks
+         60	New York Avenue Northeast
+         60	15th Street Northwest
+         59	Benning Road Northeast
+         57	Rock Creek and Potomac Parkway Northwest
+         53	South Capitol Street Southeast
+         53	Rhode Island Avenue Northwest
+         52	Alabama Avenue Southeast
+         51	MacArthur Boulevard Northwest
+         49	New Hampshire Avenue Northwest
+         49	Fort Circle Park
+         49	13th Street Northwest
+         48	North Capitol Street Northwest
+         48	M Street Northwest
+         47	Wisconsin Avenue Northwest
+         46	Southeast Freeway
+         46	Beach Drive Northwest
+         45	Independence Avenue Southwest
+         44	Southern Avenue Southeast
+         44	Rhode Island Avenue Northeast
+         44	George Washington Memorial Parkway
+         43	Constitution Avenue Northwest
+         42	Subway
+         42	North Capitol Street Northeast
+         41	CVS
+         41	Bladensburg Road Northeast
+         41	18th Street Northwest
+         40	South Dakota Avenue Northeast
+         40	New York Avenue Northwest
+         40	H Street Northwest
+         40	C Street Northeast
+         39	Western Avenue Northwest
+         39	Ohio Drive Southwest
+         39	E Street Northwest
+         38	Hiker Biker Trail
+         37	Wells Fargo
+         37	Metropolitan Subdivision
+         37	Florida Avenue Northwest
+         37	Eastern Avenue Northeast
+         37	11th Street Northwest
+         36	I Street Northwest
+         36	9th Street Northwest
+         36	6th Street Northwest
+         35	Maine Avenue Southwest
+         35	M Street Southeast
+         34	Martin Luther King Junior Avenue Southeast
+         34	L Street Northwest
+         34	Bank of America
+         34	17th Street Northwest
+         33	Sherman Avenue Northwest
+         33	1st Street Northwest
+         31	Virginia Avenue Northwest
+         31	PNC Bank
+         31	Northeast Corridor
+         31	Columbia Road Northwest
+         31	4th Street Northwest
+         31	3rd Street Northwest
+         29	Vermont Avenue Northwest
+         29	McDonald's
+         29	Independence Avenue Southeast
+         28	Georgia Avenue Northwest
+         28	11th Street Southeast
+         27	P Street Northwest
+         27	Branch Avenue Southeast
+         26	SunTrust Bank
+         26	Minnesota Avenue Northeast
+         26	Center Leg Freeway
+         25	Reno Road Northwest
+         25	New Jersey Avenue Northwest
+         25	Military Road Northwest
+         25	Michigan Avenue Northeast
+         25	Massachusetts Avenue Southeast
+         25	Massachusetts Avenue Northeast
+         25	K Street Northwest (access road)
+         25	Foxhall Road Northwest
+         25	Florida Avenue Northeast
+         25	7th Street Southwest
+         25	7-Eleven
+         25	5th Street Northwest
+         25	23rd Street Northwest
+         25	10th Street Northwest
+         24	Reservoir Road Northwest
+         24	Mac Dill Boulevard Southwest
+         24	Alexandria Extension
+         24	7th Street Northwest
+         23	Q Street Northwest
+         23	Mount Olivet Road Northeast
+         23	M Street Southwest

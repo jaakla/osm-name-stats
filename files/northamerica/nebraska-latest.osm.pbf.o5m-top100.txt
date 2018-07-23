@@ -1,0 +1,100 @@
+        636	Union Pacific Railroad
+        501	Burlington Northern Railroad
+        304	Main Street
+        275	2nd Street
+        260	4th Street
+        256	3rd Street
+        255	1st Street
+        251	Burlington Northern Santa Fe R
+        237	UP Main Line
+        218	Cowboy Trail
+        210	5th Street
+        182	A Street
+        181	Maple Street
+        178	Elm Street
+        176	6th Street
+        167	L Street
+        162	United Methodist Church
+        156	Oak Street
+        153	Republican River
+        153	Park
+        144	School
+        140	7th Street
+        135	West Dodge Road
+        134	Q Street
+        133	F Street
+        132	Pine Street
+        132	O Street
+        127	8th Street
+        125	Washington Street
+        120	South 13th Street
+        118	Walnut Street
+        116	South 84th Street
+        115	East 3rd Street
+        114	Pacific Street
+        112	D Street
+        112	County Road 21
+        111	North 27th Street
+        109	West 3rd Street
+        107	Dry Creek
+        106	East 4th Street
+        104	Tennis
+        104	Basketball
+        103	West Center Road
+        103	C Street
+        102	East 5th Street
+        102	Cedar Street
+        101	Front Street
+        101	East 2nd Street
+         99	West 2nd Street
+         99	South 27th Street
+         97	Adams Street
+         97	9th Street
+         96	South Street
+         96	Clear Creek
+         95	West 4th Street
+         95	West 1st Street
+         94	River Road
+         94	Falls City Subdivision
+         94	2nd Avenue
+         93	10th Street
+         92	South 72nd Street
+         92	B Street
+         91	South 14th Street
+         91	East 1st Street
+         90	West 6th Street
+         89	South 144th Street
+         89	G Street
+         89	Dodge Street
+         88	South 36th Street
+         88	Harrison Street
+         86	BNSF
+         85	J Street
+         85	Ash Street
+         83	North 14th Street
+         83	M Street
+         82	West 5th Street
+         81	South 25th Street
+         81	South 10th Street
+         81	Homestead Expressway
+         81	County Road
+         79	Vine Street
+         79	State Highway 15
+         78	North Main Street
+         78	N Street
+         78	East 9th Street
+         78	East 8th Street
+         78	East 6th Street
+         78	E Street
+         77	3rd Avenue
+         76	West Papio Trail
+         76	Old Cheney Road
+         76	North 1st Street
+         75	South 48th Street
+         75	County Road J
+         74	Lincoln Street
+         74	1st Avenue
+         73	South Fork Elkhorn River
+         73	Grant Street
+         73	Cornhusker Road
+         72	P Street

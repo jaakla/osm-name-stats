@@ -1,0 +1,100 @@
+        477	House
+        379	Baltimore Beltway
+        333	Northeast Corridor
+        233	Ritchie Highway
+        230	McDonald's
+        223	7-Eleven
+        222	York Road
+        217	Chesapeake and Ohio Canal
+        214	Little Falls
+        202	National Freeway
+        199	Washington Boulevard
+        190	Solomons Island Road
+        176	Ridge Road
+        176	Main Street
+        175	Baltimore Avenue
+        174	River Road
+        167	Reisterstown Road
+        165	Eastern Avenue
+        163	Subway
+        161	Capital Beltway
+        159	Pulaski Highway
+        157	Belair Road
+        156	Harbor Tunnel Thruway
+        155	Harford Road
+        151	Shell
+        149	Annapolis Road
+        148	Exxon
+        147	Royal Farms
+        147	Dwight D Eisenhower Highway
+        142	Baltimore-Washington Parkway
+        142	Baltimore Annapolis Boulevard
+        141	East-West Highway
+        135	Ocean Gateway
+        132	Maryland Avenue
+        131	Columbia Pike
+        131	Baltimore National Pike
+        130	Loch Raven Boulevard
+        129	Liberty Road
+        127	Falls Road
+        123	Edmondson Avenue
+        113	Catoctin Mountain Highway
+        113	Blue Star Memorial Highway
+        112	Charles Street
+        111	John Hanson Highway
+        111	John F. Kennedy Memorial Highway
+        109	White Marsh Run
+        109	Bank of America
+        108	Light Rail
+        108	Boston Street
+        107	Starbucks
+        107	Patuxent Freeway
+        105	Georgia Avenue
+        104	Pennsylvania Avenue
+        103	Old Court Road
+        101	North Point Boulevard
+        101	Frederick Road
+         99	White Marsh Boulevard
+         99	East Joppa Road
+         99	Chesapeake and Ohio Canal Trail
+         99	BP
+         98	Dunkin' Donuts
+         97	Maryland Midland Railway
+         97	Jones Falls Expressway
+         97	Greenspring Avenue
+         95	First Mine Branch
+         95	Burger King
+         93	Third Mine Branch
+         93	Second Mine Branch
+         93	Fire Road
+         93	Connecticut Avenue
+         91	Park Avenue
+         91	Old National Pike
+         90	Kenilworth Avenue
+         90	East Northern Parkway
+         90	Central Avenue
+         90	Baltimore Terminal Subdivision
+         88	Virginia Avenue
+         88	Philadelphia Road
+         88	New Design Road
+         88	CVS
+         87	Crain Highway
+         86	Windlass Run
+         86	Wilkens Avenue
+         86	Metropolitan Subdivision
+         83	Baltimore Waterfront Promenade
+         82	West North Avenue
+         82	M&T Bank
+         81	Campus Drive
+         79	National Pike
+         78	Opossumtown Pike
+         78	North Charles Street
+         78	Maple Avenue
+         78	Intercounty Connector
+         78	Honeygo Run
+         77	Paul T. Pitcher Memorial Highway
+         77	Park Heights Avenue
+         77	Mountain Road
+         77	Church Street
+         77	Branch Avenue
+         75	Shore Highway

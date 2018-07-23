@@ -1,0 +1,100 @@
+        367	평양-개성고속도로
+        289	평양희천고속도로
+        199	평양원산관광도로
+         79	원산금강산고속도로
+         56	만포선
+         53	청년영웅도로
+         49	鸭绿江 / 압록강
+         45	대동강
+         45	MiG-21
+         28	MiG-19
+         24	Nucleartest Road
+         23	북한강
+         20	청천강
+         20	두만강 - 图们江
+         20	개선거리
+         19	승리거리
+         18	임진강
+         18	Military Demarcation Line North Korea - South Korea
+         18	Ilyushin Il-28
+         17	칠성문거리
+         17	图和线
+         16	보통강
+         16	남강
+         15	영광거리
+         15	珲乌高速
+         15	滨海公路
+         14	삼교천
+         13	려명거리
+         13	동금강천
+         13	금강천
+         12	희망로
+         12	Border Ryanggang - South Hamgyong
+         11	통일거리
+         11	천리마거리
+         11	Sŏdu-su
+         11	Border South Pyongan - South Hamgyon
+         11	Border South Pyongan - North Pyongan
+         11	Border North Korea - China
+         10	남대천
+         10	광복거리
+         10	Tu He Xian 图和线
+          9	한탄천
+          9	통일로
+          9	북방한계선
+          9	림진강
+          9	국도 제7호선
+          9	江城大街
+          9	Orang-ch'on
+          8	해방산거리
+          8	한강
+          8	창광거리
+          8	주체탑거리
+          8	순화강
+          8	서문거리
+          8	새살림거리 (Saesallim-geori)
+          8	비류강
+          8	곤양강
+          8	Sinmido
+          8	Myonggan-ch'on
+          7	전장천
+          7	승리역
+          7	무진천
+          7	Border Chagang - North Pyongan
+          6	장진강
+          6	비파거리
+          6	봉화거리
+          6	만수대거리
+          6	福春街
+          6	Taehak Street
+          6	SAM Battery
+          6	Build2
+          6	Border South Pyongan - South Hwanghae
+          5	혜산만포청년선
+          5	학포천
+          5	창전거리
+          5	역전가
+          5	양각다리
+          5	안주시
+          5	안산거리
+          5	붉은거리
+          5	매상천
+          5	沈丹线
+          5	丹集线
+          5	Unju-ch'on
+          5	Flugabwehrstellung
+          5	Border South Hwanghae - North Hwanghae
+          5	Border Kangwon - South Hamgyong
+          5	Border Chagang - Ryanggang
+          5	AAA Battery
+          4	혁신선
+          4	혁신거리
+          4	통동천
+          4	탑제거리
+          4	충성다리
+          4	청춘거리
+          4	청류벽
+          4	천리마선
+          4	예성강
+          4	영웅거리
+          4	송림시

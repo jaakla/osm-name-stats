@@ -1,0 +1,100 @@
+        652	Main Street
+        550	220th Street
+        543	Des Moines River
+        511	160th Street
+        489	2nd Street
+        487	190th Street
+        482	1st Street
+        475	210th Street
+        469	170th Street
+        462	240th Street
+        455	3rd Street
+        453	250th Street
+        449	270th Street
+        446	260th Street
+        444	150th Street
+        437	110th Street
+        429	280th Street
+        427	180th Street
+        422	230th Street
+        409	130th Street
+        408	200th Street
+        408	120th Street
+        404	4th Street
+        381	140th Street
+        377	300th Street
+        372	310th Street
+        371	290th Street
+        357	White Breast Creek
+        339	5th Street
+        324	Avenue of the Saints
+        302	320th Street
+        297	330th Street
+        281	North Raccoon River
+        266	6th Street
+        264	Prairie Creek
+        260	Sugar Creek
+        256	Beaver Creek
+        252	Cedar Creek
+        251	Squaw Creek
+        251	Middle River
+        243	Washington Street
+        238	Elm Street
+        227	United Methodist Church
+        217	7th Street
+        213	Walnut Street
+        213	Maple Street
+        200	Ottumwa Subdivision
+        198	Oak Street
+        189	100th Street
+        188	South Main Street
+        187	8th Street
+        186	East Fork Des Moines River
+        183	North Main Street
+        183	Casey's General Store
+        179	Bear Creek
+        178	Iowa Interstate Railroad
+        176	340th Street
+        175	155th Street
+        167	Otter Creek
+        164	South River
+        164	175th Street
+        162	North Street
+        162	2nd Avenue
+        161	Walnut Creek
+        161	South Raccoon River
+        160	265th Street
+        160	235th Street
+        159	Middle Raccoon River
+        158	Rock Creek
+        158	East Street
+        154	Center Street
+        154	165th Street
+        153	1st Avenue
+        153	195th Street
+        152	255th Street
+        151	North River
+        150	3rd Avenue
+        148	East Main Street
+        146	Brushy Creek
+        145	State Highway 2
+        145	245th Street
+        144	West Main Street
+        144	225th Street
+        144	215th Street
+        141	185th Street
+        139	305th Street
+        138	275th Street
+        137	Soap Creek
+        136	West Street
+        136	Railroad Street
+        135	4th Avenue
+        135	325th Street
+        135	125th Street
+        134	145th Street
+        133	South Street
+        133	Park Street
+        132	Mud Creek
+        131	Indian Creek
+        131	Creston Subdivision
+        131	120th Avenue

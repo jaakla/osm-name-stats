@@ -1,0 +1,100 @@
+        357	Forages
+        141	Mosquée
+         43	*
+         36	Guelta
+         30	guelta
+         26	Kelo-Bere-Lai
+         22	Neem
+         20	villa فيلا
+         20	Dattier
+         19	Ndjamena - Sarh/Bongor National Road
+         19	Bahr Salamat
+         18	مسجد
+         18	Kelo - Djuman - Bongor
+         17	Puits
+         15	الحزام الأخضر ceinture verte
+         15	Sarh - Kyabe - Am Timan
+         14	طريق أبشي-أتي-انجمينا
+         14	Ngara
+         14	Madana
+         14	Bahr Azoum
+         13	الطريق السريع عبر أفريقيا انجمي�
+         13	Sako
+         13	House - We Are Cisco
+         13	Bahr Aouk
+         12	Route
+         12	Ouadi Hawach
+         11	Ndjamena - Bokoro - Mongo National Road
+         11	Am Timan - Abu Deia - Mongo National Road
+         10	طريق ساره-وسط سيدو
+         10	Kaga
+          9	شارع موبوتو
+          9	rock
+          9	Mongo - Melfi - Sarh National Road
+          9	Arbre
+          9	Aoukalé
+          9	Abeche - Sudan border - El Geneina
+          9	ACRA
+          8	نيم Neem
+          8	ceinture verte الحزام الأخضر
+          8	amènagement agricole
+          8	Manga
+          8	Kousseri
+          8	Kagroye
+          8	Kafia
+          8	Kaba
+          8	Compound
+          8	Chari
+          8	CST
+          8	CARE
+          8	Abeche - Sudan border - El Geneina أبشي - الحدود 
+          7	papeteries
+          7	neem نيم
+          7	house
+          7	Sandanan
+          7	PAM برنامج الأغذية العالمي
+          7	Nderguigui
+          7	Maïta
+          7	Maïbogo
+          7	Maïbo
+          7	Ligne Haute Tension
+          7	Kemkaga
+          7	Kaya
+          7	Cultures irriguées المحاصيل المروية
+          7	Chari شاري
+          7	Bedara
+          7	Avenue Négor شارع نيغر
+          6	طريق وطني مونقو-أبو ضياء-أم تيما�
+          6	طريق وطني انجمينا-أتي-أبشي
+          6	طريق إقليمي مونقو-مانكالمي
+          6	سوق
+          6	أواديس نيو Ouadis Nio
+          6	أواديس ميبا Ouadis Mayba
+          6	parcelaire
+          6	Tele Place de Nation
+          6	Slot-Canyon
+          6	Sarh - Melfi Mongo National Road
+          6	Sananga
+          6	Samadja
+          6	Rocks
+          6	Pendé
+          6	Ngonbé
+          6	Nana Barya
+          6	Moundou - Doba - Sarh
+          6	Mouarom
+          6	Maïrom
+          6	Mandoul
+          6	Lara
+          6	Koutoutou
+          6	Kouh
+          6	Guéra
+          6	Gumor
+          6	Grande-Sido
+          6	El Binder
+          6	Ecole
+          6	Djarabé
+          6	Danmadji
+          6	Danmadja
+          6	Boutique
+          6	Bara
+          6	Avenue Nimery شارع نيميري

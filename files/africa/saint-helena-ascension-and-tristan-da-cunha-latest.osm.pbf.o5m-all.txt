@@ -1,0 +1,290 @@
+          1	Administrator House
+          3	Airport Access Road
+          1	Alarm Forest
+          1	Alarm House
+          1	Albatros Bar
+          2	Alex or Middle Island
+          1	Anchorstock Point
+          1	Ann's Place
+          1	Arch
+          1	Argus I
+          1	Ariane Earth Station
+          1	Arts and Crafts Shop
+          2	Ascension
+          2	Ascension Island
+          1	Autopista Santa Fe-Rosario
+          1	Avenida Circunvalación Oeste
+          1	Bank of St Helena
+          1	Banks Valley Bay
+          1	Barren Ground
+          1	Battle Bay
+          1	Big Green Hill
+          1	Big Gulch
+          1	Big Point
+          1	Big Sandy Gulch
+          1	Blenden Hall
+          1	Blineye
+          1	Bluff Gulch
+          1	Boatharbour Bay
+          1	Boatswain Bird Island
+          1	Boatswain Bird Rock
+          1	Bottom Woods
+          1	Bottom pond
+          1	Boulder Hill
+          1	Boulder Hill 510 m
+          1	British Overseas Territories
+          1	Burnthill
+          1	Burntwood
+          1	Cable & Wireless South Atlantic Ltd Technical Centre
+          1	Café da Cunha
+          1	Cairn Peak
+          1	Calshot Harbour
+          1	Camogli Hospital
+          1	Carliste Bay
+          2	Casons
+          1	Castle Gardens
+          1	Castle Terrace
+          1	Cat Hill
+          1	Cave Cove
+          2	Cave Gulch
+          1	Cave Point
+          1	Cave Rock
+          1	Children's pool
+          1	China Lane
+          1	Church Lane
+          1	Colt Sheds
+          3	Constitution Hill
+          1	Consulate Hotel
+          1	Crater lake
+          1	Crayfish factory
+          1	Cross Hill
+          1	Customs Building
+          1	Deadman's Bay
+          1	Deadwood
+          1	Deadwood Plain
+          1	Deep Gulch
+          1	Deep Valley Bay
+          1	Denstone Hill
+          1	Diana's Peak
+          1	Dirleton Point
+          1	Dive and Yacht Club
+          1	Domaine de Longwood House
+          1	Domaine du Pavillon des Briars
+          1	Domaines français de Sainte-Hélène
+          1	Down where the minister landed his things
+          1	Dry Gut Bay
+          1	Duke of Edinburgh Playground
+          1	Dune Hills
+          1	Dungeon Cemetery
+          1	East Beach
+          1	East Crater
+          1	East End
+          1	East End of Sandy Point Gulch
+          1	East Jews Point
+          1	East Point
+          1	East Road
+          1	East Stony Gulch
+          1	East end of Sandy point gulch
+          1	Edinburgh Peak
+          1	Edinburgh of the Seven Seas
+          1	Egg Island
+          1	Electrical Workshop
+          1	Expedition Peak
+          1	Field Road
+          1	First Gulch
+          1	First Lagoon Gulch
+          1	Flagstaff Bay
+          1	Flat Gulch
+          1	Frank's Hill
+          1	General Hospital
+          1	George Island
+          1	Georgetown
+          1	Get Carters
+          1	Gipsy's Gulch
+          1	Gony Ridge
+          1	Gordons Post
+          2	Gough Island
+          2	Government Garage
+          1	Grand Parade
+          1	Green Hill
+          1	Grotto of Our Lady of Ascension
+          1	Half Tree Hollow
+          1	Harold's Plain
+          1	Hawkins Bay
+          1	High Knoll Fort
+          1	Hospital de Niños Dr. Orlando Alassia
+          1	Hotel St Helena
+          2	Hottentot Gulch
+          1	Huts
+          1	Hutts Gate
+          2	Inaccessible Island
+          2	Isolda Rock
+          1	Jacob's Ladder
+          1	James Bay
+          1	Jamestown
+          1	Jamestown market
+          1	Joe's Hill
+          1	Joey's Garden
+          1	Kipuka Hill
+          1	Ladder Hill Road
+          1	Lady Hill
+          1	Landing Place
+          1	Lemon Valley Bay
+          1	Little Hill
+          2	Little Sandy Gulch
+          1	Long Ridge
+          1	Longwood
+          1	Longwood Avenue
+          1	Longwood House
+          1	Lyon Point
+          3	Main Street
+          1	Main pool
+          1	Manati Bay
+          1	Market Street
+          1	Michael's Massif
+          1	Middle pond
+          1	Molly Bog
+          1	Molly Gulch
+          1	Morgie's Gulch
+          1	Mount Olav
+          1	Mule Yard
+          1	Mule Yard bar
+          1	Museum of St Helena
+          2	Napoleon Street
+          1	Ned's cave
+          1	New Horizons
+          2	Nightingale Island
+          1	Noisy Beach
+          1	North East Point
+          1	North Point
+          1	Parque Juan de Garay
+          1	Pavillon des Briars
+          1	Peak region
+          1	Penguin Island
+          1	Pequena Poit
+          1	Pig Beach
+          1	Pig Beach's Hill
+          1	Pigbite
+          1	Pigbite Gulch
+          1	Pilling Primary School
+          1	Plantation Gulch
+          1	Plantation House
+          1	Plumbers Workshop
+          1	Port david
+          1	Post Office and Tourism Centre
+          1	Potato Patches
+          1	Powell Bay
+          1	Première tombe de Napoléon
+          1	Prince Andrew Secondary School
+          1	Prince Philip Hall
+          1	Prospect House
+          1	Prosperous Bay
+          1	Pyramid Rocks
+          1	Queen Mary's Peak
+          1	Quest Bay
+          1	RAF Ascension Island
+          2	Red Hill
+          1	Rifle Club
+          1	Ringeye Valley
+          1	Rockery Point
+          1	Rosie's
+          1	Round Hill
+          1	Round Hill (388 m)
+          2	Round Hill Gulch
+          2	Royal Mail Ship St Helena
+          1	Runaway Beach
+          1	Rupert's Bay
+          1	Rupert's Bay Permanent Wharf
+          1	Ruta 11
+          1	Sacred Heart Roman Catholic Church
+          1	Saddle Island
+          4	Saint Helena
+          1	Saint Helena, Ascension and Tristan da Cunha
+          1	Saint James' Church
+          1	Salt Beach
+          1	Sandy Bay
+          2	Sandy Bay Ridge
+          2	Sandy Bay Road
+          1	Sandy Point
+          1	Sea Elephant Bay
+          2	Seafront
+          1	Seal Bay
+          1	Seales Corner
+          1	Second Gulch
+          1	Second Lagoon Gulch
+          1	Sehan rocks
+          1	Serengheti
+          1	Shield
+          1	Shy Road
+          1	Sisters Peak
+          1	Skua Pond
+          1	South Atlantic Media Services
+          1	South East Crater
+          1	South Gannet Hill
+          1	South Hill
+          1	South Point
+          1	Speary Island
+          1	Spinners Point
+          1	Spring Gulch
+          1	St Helena Airport
+          1	St Helena Airport terminal
+          1	St. Joseph
+          1	St. Mary
+          1	St. Mary's School
+          1	St. Paul’s Cathedral
+          2	Stoltenhoff Island
+          1	Stone Top Bay
+          1	Stony Beach Gulch
+          1	Stonybeach Bay
+          1	Stonyhill Point
+          1	Supermarket
+          1	Swales Fell 580 m
+          1	Tasty Bites
+          1	Tern Rock
+          1	The Base
+          2	The Buoys
+          1	The Castle
+          1	The Coffee Shop
+          1	The Heart Shaped Waterfall
+          1	The Hillpiece
+          1	The Moat
+          1	The Patches
+          1	The Peak
+          1	The Ponds
+          1	The Ponds up the Eastard
+          1	The Prison
+          1	The Ridge where the Goat jumped off
+          1	The Run
+          1	The Slump
+          1	The Star
+          1	The Trail
+          1	The Waterfall
+          1	The Wharf
+          1	Third Gulch
+          1	Thompson's Bay
+          1	Tom's Beach
+          1	Top pond
+          1	Transvaal Bay
+          2	Traveller's Hill
+          1	Tripe Bay
+          1	Tripot bay
+          4	Tristan da Cunha
+          1	Turks Cap Bay
+          1	Twin Falls
+          1	Two Boats Village
+          1	Unity Cottage Road
+          1	Vallée du Tombeau
+          1	Warren's Cliff
+          1	Wash Gulch
+          1	Washout Gulch
+          1	West Jews Point
+          1	West Landing
+          2	West Point
+          1	West Road
+          1	West Stony Gulch
+          1	Where Times fall off Gulch
+          1	White Hill
+          1	White Rocks
+          1	aviation fuel facility
+          1	combined building
+          1	future fisheries building

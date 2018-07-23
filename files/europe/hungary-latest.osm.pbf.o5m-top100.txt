@@ -1,0 +1,100 @@
+       3225	Kossuth Lajos utca
+       2487	Petőfi Sándor utca
+       1976	Dózsa György utca
+       1965	Ady Endre utca
+       1924	Fő utca
+       1609	Arany János utca
+       1535	József Attila utca
+       1413	Rákóczi utca
+       1330	Béke utca
+       1284	Petőfi utca
+       1242	Kossuth utca
+       1228	Rákóczi Ferenc utca
+       1114	Szabadság utca
+       1094	Árpád utca
+       1011	Táncsics Mihály utca
+        949	Nemzeti Dohánybolt
+        830	Deák Ferenc utca
+        805	Széchenyi utca
+        740	Jókai Mór utca
+        720	Fő út
+        716	Rózsa utca
+        715	Vasút utca
+        693	Dózsa György út
+        646	Hunyadi utca
+        637	Jókai utca
+        581	Alkotmány utca
+        580	Szabadság tér
+        576	csápos kút
+        542	Vörösmarty utca
+        530	Hunyadi János utca
+        509	Rákóczi út
+        505	Coop
+        500	Bajcsy-Zsilinszky utca
+        496	Iskola utca
+        494	Sport utca
+        490	Bartók Béla utca
+        485	Zrínyi Miklós utca
+        476	Damjanich utca
+        474	Zrínyi utca
+        457	Széchenyi István utca
+        451	Akácfa utca
+        449	Református templom
+        441	Móricz Zsigmond utca
+        437	Temető utca
+        431	Hársfa utca
+        417	Szent István utca
+        410	Vegyesbolt
+        399	ABC
+        390	Hősök tere
+        390	Bem József utca
+        388	Szabadság út
+        388	Honvéd utca
+        384	Kossuth Lajos út
+        381	Mátyás király utca
+        356	Bocskai utca
+        353	Tavasz utca
+        349	Bem utca
+        348	Nefelejcs utca
+        337	Táncsics utca
+        330	Kölcsey Ferenc utca
+        330	CBA
+        329	Polgármesteri hivatal
+        327	Vörösmarty Mihály utca
+        320	MOL
+        318	Balatoni út
+        317	Szegfű utca
+        308	Malom utca
+        307	Virág utca
+        304	OTP Bank
+        291	Munkácsy Mihály utca
+        291	Ifjúság utca
+        290	Ady Endre út
+        286	HU,SK
+        284	Kodály Zoltán utca
+        282	SPAR
+        280	Attila utca
+        279	Orgona utca
+        279	Csokonai utca
+        278	Gárdonyi Géza utca
+        276	Erkel Ferenc utca
+        271	Május 1. utca
+        271	Diófa utca
+        270	Bercsényi utca
+        269	Pacsirta utca
+        263	Templom utca
+        262	Kisfaludy utca
+        261	COOP
+        257	Liszt Ferenc utca
+        256	Kinizsi utca
+        253	Radnóti Miklós utca
+        253	Mikszáth Kálmán utca
+        249	Nyár utca
+        246	Tulipán utca
+        245	Mező utca
+        243	Lehel utca
+        243	Baross utca
+        242	Kölcsey utca
+        242	Ibolya utca
+        242	Dobó István utca
+        241	Szőlő utca

@@ -1,0 +1,100 @@
+        492	courtyard
+        296	building
+        229	Temporary Dwelling Unit
+        199	Permanent Dwelling Unit
+        148	Building
+        111	Iringa Road
+        103	Road
+         96	Morogoro Road
+         94	house
+         88	Mosque
+         76	hut
+         69	Semi-Permanent Dwelling Unit
+         67	Home Utensils
+         59	Nelson Mandela Road
+         56	#YouthMappers #CalUGIS#building
+         53	Nyerere Road
+         52	Daladala Bus Stop
+         51	M-Pesa
+         51	Church
+         50	s
+         50	House
+         46	road
+         46	Bagamoyo Road
+         45	CRDB Bank
+         44	Open space
+         43	Daladala Stop
+         41	Shop
+         41	Primary School
+         41	Milling Machine
+         38	buillding
+         38	Vein
+         38	Kawawa Road
+         38	Akagera
+         37	Saloon
+         36	Kilwa Road
+         35	Staff quarter
+         33	Uyole
+         33	#YouthMappers #CalUGIS#buildings
+         32	shop
+         32	Songea - Tunduru Road
+         32	Great Ruaha
+         32	Gapco
+         32	Azania food oil
+         31	TANZANIA BREWERIES LTD MBEYA PLANT
+         30	highway
+         30	Uhuru Primary School
+         30	St. Antony High School
+         30	NHC
+         30	Ford
+         30	Farm
+         29	Wakala
+         28	footpath
+         28	clothes Shop
+         28	Sokoine Regional Hospital
+         28	Njombe - Songea Road
+         28	Muungano Primary School
+         27	Tanzania - Rwanda
+         27	Metl Group
+         27	CRDB
+         26	Path
+         26	Amsons Industries (T) LMT
+         25	Unkown
+         25	Ruaha River
+         25	Pharmacy
+         25	Petrol station
+         25	Kagera
+         24	camino
+         24	NMB
+         24	Mwenge Primary School
+         24	Marangu Route
+         24	Malapa Drain
+         24	Majengo Primary School
+         24	Duka
+         24	China
+         23	general building
+         23	Soko Kuu
+         23	Puma
+         23	Market
+         23	Institute Of Social Works
+         23	Gebouw
+         22	Uhuru Street
+         22	Toilet
+         22	Teachers house
+         22	NHC Building
+         22	Mgahawa
+         22	Karibu Textile Limited
+         22	KL LTD
+         22	Central Line
+         22	Anglican Church
+         21	Tunduru - Masasi Road
+         21	Traffic Lights
+         21	Tarangire - FEP Road
+         21	Tanzania - Kenya
+         21	Restaurant
+         21	Malagarasi
+         21	Makongoro Road
+         20	residential
+         20	Vodacom
+         20	Karibu Textile Milles Limited
+         19	Sam Nujoma Road

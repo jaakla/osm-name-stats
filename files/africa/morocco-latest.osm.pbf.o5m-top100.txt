@@ -1,0 +1,100 @@
+        567	sdau
+        336	Autoroute Casablanca-Agadir
+        294	Banque Populaire
+        257	Rue 1
+        245	Attijariwafa Bank
+        229	BMCE Bank
+        228	Autoroute Port Tanger Med - Rabat
+        220	Rue 2
+        215	Epicier
+        205	Epicerie
+        203	Rue 3
+        202	Avenue Mohamed V
+        199	Rue 5
+        194	Rue 4
+        186	Rue 6
+        181	Afriquia
+        177	Rue 7
+        176	Avenue Hassan II
+        172	La Rocade Méditerranéenne
+        164	Rue 10
+        163	Rue 8
+        146	Rue 9
+        141	Shell
+        138	Rue 11
+        136	Moroccan Wall
+        132	Masjid
+        127	Autoroute Rabat - Safi
+        123	Rue 14
+        122	BMCI
+        122	Agadir
+        116	Rue 13
+        115	Épicerie
+        112	Total
+        112	Rue 15
+        112	Avenue des Forces Armées Royales
+        102	Boulevard Mohammed V
+        101	Droguerie
+         98	Rue 16
+         97	Rue 19
+         96	Boulevard Hassan II
+         95	Rue 12
+         94	Rue 18
+         89	Rue 20
+         87	Boulevard Mohammed VI
+         80	Avenue Mohammed VI
+         79	Rue 17
+         78	Rue 22
+         78	Route de Rabat
+         77	Societe Generale
+         76	Rue 24
+         75	Rue 23
+         75	Moroccan Security Wall
+         75	CIH Bank
+         75	Boulevard Mohamed V
+         70	Rue 26
+         69	الجدار الأمني المغربي
+         69	Chemin de fer Méditerranée-Niger
+         68	Rocade d'Oujda
+         68	Boulevard Moulay Youssef
+         68	Boucherie
+         67	Petrom
+         67	BMCE
+         66	Avenue Mohammed V
+         63	Café
+         62	Rue 25
+         61	Rue 21
+         60	Rue 36
+         60	Rue 29
+         60	Rue 28
+         60	Mécanique
+         60	Cremerie
+         59	Autoroute Casablanca – Rabat
+         57	Avenue 2 Mars
+         56	Rue 27
+         56	Oued Sebou ⴰⵙⵉⴼ ⵏ ⵙⴱⵓ واد سبو
+         55	Société Générale
+         55	Rue 41
+         54	Avenue Moulay Rachid
+         53	Rue 31
+         53	Rue 30
+         52	Boulevard du Golan شارع الجولان
+         52	Avocat
+         51	Épicerie tabac
+         51	Rue 40
+         51	BMCI Bank
+         51	Avenue Essaouira
+         50	Rocade Saidia
+         50	Périphérique de Rabat
+         50	Oued Akka ⴰⵙⵉⴼ ⵏ ⴰⵇⵇⴰ وادي أقا
+         49	Rue 32
+         47	Rue 37
+         47	Rocade de Rabat الطريق السيار المداري ا
+         47	Asif Oussaka
+         46	Wafacash
+         46	Tapisserie
+         46	Rue 38
+         46	Rue 34
+         45	Pharmacie
+         45	Oued Drâa ⴰⵙⵉⴼ ⵏ ⴷⵔⵄⴰ واد درعة
+         44	Laiterie

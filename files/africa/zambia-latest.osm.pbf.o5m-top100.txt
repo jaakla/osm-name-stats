@@ -1,0 +1,100 @@
+        138	Zambezi
+         90	hut
+         82	Great East Road
+         69	Kafue
+         48	Great North Road
+         44	Village
+         41	Shop
+         38	Hut
+         36	Luangwa
+         35	Mutinondo River
+         35	Independence Avenue
+         31	RD Congo - Zambia
+         28	a hat
+         27	05 Route
+         25	ruine
+         25	gebouw
+         24	Kafue Road
+         24	Grocery
+         24	General Building
+         22	Mumbwa Road
+         20	highway
+         19	sweet tomorrow community school
+         19	path
+         18	Puma
+         18	Luapula
+         18	Cuando
+         18	Building 2
+         18	Building 1
+         17	Shoprite
+         17	Lunga
+         17	Lumumba Road
+         16	School
+         16	Borehole
+         15	Barclays
+         14	hat
+         14	Total
+         14	Samfya Road
+         14	Freedom Way
+         14	Dongwe
+         14	Chilimbulu Road
+         14	Burma Road
+         14	Barber Shop
+         13	Ngaye
+         13	Mutanda Bantu
+         13	Mongu Road
+         13	Hardware
+         13	Cairo Road
+         12	bulding
+         12	Olympia Park Primary School
+         12	Luena
+         12	Lubu
+         12	Kembe
+         12	Kabompo
+         12	Hungry Lion
+         12	Batoka Gorge
+         12	Bakwena Lodge
+         11	tap
+         11	Thabo Mbeki Road
+         11	Luanginga
+         11	Chambeshi
+         10	Salon
+         10	North Luangwa Transit Road
+         10	Maria Christian academy
+         10	Makeni Road
+         10	Lufuba
+         10	Leopards Hill Road
+         10	House
+         10	Church Road
+         10	Chalimbana River
+         10	Border Zambia - Malawi
+         10	Barbershop
+         10	#building
+          9	shop
+          9	Track
+          9	Tanzania - Zambia
+          9	Siavonga Road
+          9	Seventh Day Adventist
+          9	Path
+          9	Muyooma School
+          9	Mungule Road
+          9	Munali Road
+          9	Muchinga-chinga
+          9	Lungwebungu
+          9	Kingdom Hall of Jehovah's Witnesses
+          9	Kazungula Road
+          9	Kanyama Water Trust
+          9	Kalambo Road
+          9	Highway
+          9	Building 3
+          8	mon, Ami academy
+          8	house
+          8	casa
+          8	Tuck Shop
+          8	Sioma Ngwezi National Park
+          8	Pick n Pay
+          8	New Apostolic Church
+          8	Mutanda Loop
+          8	Mupamedzi
+          8	Mukwas Education Center
+          8	Mosi-o-tunya Road

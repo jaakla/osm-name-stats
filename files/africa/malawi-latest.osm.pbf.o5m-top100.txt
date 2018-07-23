@@ -1,0 +1,100 @@
+        761	Temporary
+        406	Permanent
+        350	Metal
+        293	Roof, permanent
+        291	Kitchen
+        249	kitchen
+        246	temporary
+        246	Temporary Dwelling Unit
+        232	metal
+        212	Permanent Dwelling Unit
+        170	roof=permanent
+        113	semi permanent
+         99	thatched
+         85	Semi-Permanent Dwelling Unit
+         78	path
+         71	Residential
+         70	Thatched
+         65	permanent
+         65	Path
+         63	House
+         57	Temporally dwelling unit
+         53	track
+         46	Borehole
+         43	Semi permanent
+         37	Permanent Building
+         37	Chicken Kraal
+         37	Border Malawi - Mozambique
+         32	South Rukuru
+         32	Shire
+         32	Road
+         30	Total
+         30	Roof, Permanent
+         29	Kiosk
+         28	Sem_ Permanent
+         24	gebouw
+         24	Kraal
+         24	DMI
+         23	Church
+         22	Puma
+         22	Dwangwa
+         21	kraal
+         21	Unknown building
+         21	Peoples
+         21	Mosque
+         21	Hut
+         21	Gebouw
+         21	Buildings
+         20	hut
+         20	Presidential Way
+         20	National Bank
+         19	Standard Bank
+         19	Shop
+         19	School
+         18	toilet
+         18	arbre
+         18	Thatch
+         18	Classroom block
+         18	?
+         17	ginnery cornerindustrial site
+         16	s
+         16	hidden?
+         16	Semipermanent
+         16	Kasitu
+         15	Tanzania - Malawi
+         14	roof = permanent
+         14	Zomba Road
+         14	Pump
+         14	Mwanza
+         14	Muro
+         14	Linthipe
+         13	goat kraal
+         13	Petroda
+         13	Mzimba
+         13	Mudi
+         12	home
+         12	North Rukuru
+         12	NBS Bank
+         12	Mazongoza Footpath
+         12	Lingadzi
+         12	Lilongwe River
+         12	Lilongwe Bypass
+         12	Likangala
+         11	Wayi
+         11	T415
+         11	Pad
+         11	Kenyatta Road
+         11	Granary
+         11	Chitete
+         11	Chimwankhunda
+         11	Bua
+         10	school block
+         10	pathway
+         10	buildings
+         10	building
+         10	KOCHE RIVER
+         10	Border Zambia - Malawi
+         10	#ammg #amm #singapore added building
+          9	road
+          9	permanent dwelling unit
+          9	kiosk

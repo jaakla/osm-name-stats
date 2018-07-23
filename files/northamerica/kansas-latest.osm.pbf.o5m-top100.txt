@@ -1,0 +1,100 @@
+        553	Dwight D. Eisenhower Highway
+        539	Main Street
+        477	Kansas Turnpike
+        435	Emporia Subdivision
+        305	2nd Street
+        291	3rd Street
+        266	1st Street
+        259	4th Street
+        215	Elm Street
+        213	Vietnam Veterans Memorial Highway
+        206	North Main Street
+        202	Walnut Street
+        201	5th Street
+        193	6th Street
+        187	South Main Street
+        164	Maple Street
+        153	Kansas Avenue
+        152	Oak Street
+        150	West 4th Street
+        147	West 95th Street
+        144	West 6th Street
+        144	West 2nd Street
+        144	7th Street
+        143	East 4th Street
+        133	Washington Street
+        129	West 3rd Street
+        128	Cedar Street
+        124	West 7th Street
+        124	West 5th Street
+        123	La Junta Subdivision
+        123	East 3rd Street
+        122	East 6th Street
+        121	North 4th Street
+        120	West 1st Street
+        118	East 5th Street
+        117	North 3rd Street
+        117	East 2nd Street
+        116	East 1st Street
+        114	Pine Street
+        113	East 7th Street
+        113	8th Street
+        112	McDonald's
+        111	Antioch Road
+        110	State Line Road
+        110	North 2nd Street
+        106	West 9th Street
+        106	River Road
+        106	Access Road
+        105	State Avenue
+        105	South 4th Street
+        104	North 6th Street
+        102	Shawnee Mission Parkway
+        101	West Main Street
+        101	North 9th Street
+         98	Subway
+         96	East 8th Street
+         96	Ash Street
+         95	South 3rd Street
+         95	North 5th Street
+         94	West 8th Street
+         91	South Walnut Street
+         91	North 8th Street
+         89	Iowa Street
+         89	Grant Street
+         86	Kimball Avenue
+         86	Harry Darby Memorial Highway
+         86	East Main Street
+         85	Quivira Road
+         85	Gary L. Haller Trail;Mill Creek Trail
+         83	Sunflower Road
+         83	Metcalf Avenue
+         82	East 9th Street
+         82	Courtland Canal
+         81	Eisenhower Memorial Highway
+         80	West 10th Street
+         80	South 5th Street
+         80	Casey's General Store
+         79	South 6th Street
+         79	Lincoln Street
+         79	22nd Road
+         78	Topeka Subdivision
+         78	North Street
+         78	Anderson Avenue
+         77	South 2nd Street
+         76	South Kansas Avenue
+         76	BNSF Strong City Subdivision
+         75	East 10th Street
+         74	Quail Road
+         74	Burlington Northern Railroad
+         74	9th Street
+         73	North 7th Street
+         73	North 1st Street
+         73	Locust Street
+         72	10th Street
+         71	Spruce Street
+         71	Pizza Hut
+         69	County Road 6
+         69	County Road 10
+         68	County Road 16
+         68	Chestnut Street

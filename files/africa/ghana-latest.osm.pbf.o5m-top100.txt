@@ -1,0 +1,100 @@
+        140	Total
+        123	Goil
+        118	Shell
+        114	Nsawam Road
+         67	George Bush Motorway
+         66	Ring Road Central
+         60	Ghana - Togo
+         60	GCB Bank
+         55	Lecturer's Bungalow
+         45	Ecobank
+         44	Dr. Busia Highway
+         41	La Road
+         40	Winneba Road
+         39	Guggisberg Avenue
+         38	Family Compound
+         35	J.J. Rawlings Avenue
+         33	Kwame Nkrumah Avenue
+         33	Castle Road
+         31	building
+         30	Star Oil
+         29	Liberation Road
+         29	Kwame Nkrumah Motorway
+         29	Independence Avenue
+         28	Olusegun Obasanjo High Street
+         28	Melcom
+         28	Graphic Road
+         28	Giffard Road
+         28	Eduardo Mohdlana Road
+         27	Achimota Forest Road
+         26	Côte d'Ivoire - Ghana
+         26	Compound
+         26	Al Waleed Bin Talal Highway
+         25	Mine Access
+         24	New Town Road
+         24	Fidelity Bank
+         23	Junction
+         23	Barnes Avenue
+         23	Barclays
+         22	The Church of Pentecost
+         22	Kwashieman Ofankor Road
+         22	Abeka Road
+         21	Harbour Road
+         20	Spintex Road
+         20	Glory Oil
+         20	Ghana - Burkina Faso
+         20	GN Bank
+         19	Puma
+         19	La Bawaleshi Road
+         18	Stanbic Bank
+         18	Republic Bank
+         18	N1, George Bush Motorway
+         18	Access Bank
+         17	Starlets 91 Road
+         17	Otumfo Osei Tutu II Boulevard
+         17	Mosque
+         17	MDM Trail
+         17	Liberia Avenue
+         17	Curve
+         17	CAL Bank
+         16	Zenith Bank
+         16	Patrice Lumumba Road
+         16	Market
+         16	Kanda Highway
+         16	GT Bank
+         15	Tetteh Quarshie Interchange
+         15	Ring Road East
+         15	Pra
+         15	Olympics Street
+         15	National Investment Bank
+         15	Hansen Road
+         15	Ejura - Yeji
+         15	Cleland Road
+         15	Agbogbloshie
+         14	School Junction
+         14	Ring Road West
+         14	Bridge
+         13	Volta
+         13	Stadium Road
+         13	Petrosol
+         13	Pacific
+         13	Oxford Street
+         13	Otublohum Street
+         13	Lagos Avenue
+         13	Konongo - Ejisu Road
+         13	Hospital Road
+         13	Eastern Railway Line
+         13	Densu River
+         13	Container
+         13	Allied Oil
+         13	Agapet
+         13	Administration Block
+         12	Top Oil
+         12	Tepa - Goaso Road
+         12	Sofoline Interchange
+         12	Presby
+         12	Ofin
+         12	Engen
+         12	Dr. J.B. Danquah Avenue
+         12	Derby Avernue
+         12	Aggrey Street

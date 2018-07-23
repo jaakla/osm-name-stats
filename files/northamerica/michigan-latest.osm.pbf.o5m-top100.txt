@@ -1,0 +1,100 @@
+        900	Telegraph Road
+        798	Michigan Avenue
+        673	Grand River Avenue
+        466	Ford Road
+        465	West 12 Mile Road
+        464	Main Street
+        424	Woodward Avenue
+        424	Hall Road
+        399	2nd Street
+        386	8 Mile Road
+        379	Chesapeake and Ohio Railway
+        377	Maple Street
+        369	3rd Street
+        363	1st Street
+        341	Plymouth Road
+        338	Copper Country State Forest
+        336	Lake Superior State Forest
+        330	McDonald's
+        321	Mound Road
+        320	Oak Street
+        317	Pine Street
+        315	Escanaba River State Forest
+        306	Fort Street
+        302	4th Street
+        301	Southfield Road
+        294	Van Dyke Avenue
+        292	South Main Street
+        291	Greenfield Road
+        290	Elm Street
+        276	West Outer Drive
+        275	Gratiot Avenue
+        274	West 10 Mile Road
+        273	Orchard Lake Road
+        273	East 8 Mile Road
+        271	Coolidge Highway
+        269	North Main Street
+        260	Middlebelt Road
+        255	Lake Street
+        253	West 9 Mile Road
+        247	Livernois Avenue
+        244	Sturgeon River
+        239	Harper Avenue
+        238	Dequindre Road
+        235	Marathon
+        232	Subway
+        225	Highland Road
+        224	Northwestern Highway
+        224	East 11 Mile Road
+        221	Church Street
+        220	5th Street
+        219	Evergreen Road
+        217	BP
+        212	Washington Street
+        207	West Main Street
+        206	South Lapeer Road
+        206	Lakeview Drive
+        202	Dixie Highway
+        201	Schoenherr Road
+        201	Park Street
+        199	Mill Street
+        199	Haggerty Road
+        199	Ecorse Road
+        196	John R Road
+        196	Detroit Industrial Expressway
+        195	Center Street
+        193	State Street
+        193	East 12 Mile Road
+        191	East Main Street
+        190	West Michigan Avenue
+        189	Inkster Road
+        187	East Jefferson Avenue
+        187	Black Creek
+        186	Allen Road
+        185	West Warren Avenue
+        183	7 Mile Road
+        182	Crooks Road
+        181	Gerald R Ford Freeway
+        181	Cedar Street
+        180	East Michigan Avenue
+        179	North Woodward Avenue
+        179	Lakeshore Drive
+        179	GM Technical Center
+        179	Eureka Road
+        178	Joy Road
+        174	West 11 Mile Road
+        173	West Maple Road
+        172	6th Street
+        171	South Woodward Avenue
+        171	Middle Branch Ontonagon River
+        171	East 9 Mile Road
+        168	Burger King
+        167	Metropolitan Parkway
+        163	Walter P Reuther Freeway
+        163	North Street
+        163	Lincoln Street
+        161	Cherry Street
+        159	Soo Line Railroad
+        159	Ryan Road
+        158	Stephenson Highway
+        158	Speedway

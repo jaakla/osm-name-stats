@@ -1,0 +1,6106 @@
+          1	#Cisco
+         10	#ammg #amm #singapore added building
+          1	#hotosm-project-2297 #MissingMaps #Malawi #rodekruis #redcr
+          2	#intel #inteljonesfarm3 #inteljonesfarm #intelJF #measles #
+          1	#msimapping2016
+          1	'
+          1	(CARLA Project area)_Waiting verification2
+          1	-
+          1	039
+          1	044
+          1	1
+          1	12/6
+          1	12/7
+          1	123
+          3	138
+          1	15/0
+          1	16/0
+          1	16/4
+          1	17/0
+          1	17/5
+          1	17/8
+          1	18/1
+          1	18/7
+          1	19/0
+          1	1st Kaporo earthbag house (by Support Malawi Heidelberg e.V
+          1	1st Kindergarten: Carmel Nursery School Bembeke
+          1	1st kindergarten: Carmel Nursery School Bembeke
+          1	20 VICTORIA AVENUE NORTH
+          1	21 Grill
+          1	21/5
+          1	22/1
+          1	22/4 loc
+          1	223
+          1	23/0
+          1	23/1
+          1	25/1
+          1	26/0
+          1	27/0
+          1	28/0
+          2	29/0
+          1	29/5
+          1	2ND KNIGHT FRANK CAR PARK
+          1	2fit Gym
+          1	3
+          1	30/0
+          1	31/0
+          1	31/1
+          1	31/2
+          1	31/2A
+          1	31/3
+          1	32/0
+          1	33/0
+          1	33/7
+          1	381
+          2	3rd Avenue
+          1	4 Boys Shop (Tyre Repair)
+          1	5 star Hotel
+          1	5Miles Lodge
+          1	7th Day Adventist Church
+          1	99 Shop
+         18	?
+          1	A&A Food Products
+          1	A.E.Oberem
+          1	A1 Indian Restaurant
+          1	A1 Tyre Centre
+          1	ABBAS Rest Orphan Care Centre
+          1	ABC Christian Academy
+          1	ABC Clinic
+          1	ADMARC GRANARY
+          1	ADMARC Muona
+          1	ADMARC Warehouse
+          1	ADMARC Welfare
+          1	ADMET
+          1	ADRA Office
+          1	ADventist Pastor´s House
+          1	AEI ADMIN WIFI
+          1	AIR WING
+          1	AIRTEL
+          1	ANDIAMO EDUCATION INSTITUTE (Secondary School)
+          1	ANDIAMO EDUCATION INSTITUTE (Technical College)
+          1	ANDIAMO GET UP STAND UP FARM
+          1	ANDIAMO GROUND
+          1	ANDIAMO SOCIAL COOPERATIVE
+          1	ANNIE'S LODGE
+          1	ANNIE'S LODGE [Zomba]
+          4	AOG School
+          1	APC-International Power Control Systems
+          1	AQF Guest House
+          1	ASC ADMIN WIFI POINT
+          1	AT Carter
+          1	ATM
+          1	AXA coach
+          1	Abandoned Teacher's House #1
+          1	Abandoned Teacher's House #2
+          1	Abdul Majid Motor City
+          1	Abele
+          2	Abiti Nyamula
+          1	Abrahamu
+          1	Acacia Drive
+          1	Acacia international
+          1	Acces road
+          1	Access Your World
+          1	Access road
+          1	Access route
+          1	Ad Lib
+          2	Adam
+          1	Adam Path
+          1	Adela Motel
+          1	Adios Lodge and Camping
+          1	Admarc Warehouse
+          1	Administration
+          1	Administration Entrance
+          3	Administration block
+          1	Adventist Health Centre
+          1	Adventist Health Service Offices
+          1	Adventist Hospital Dental Service
+          2	Adventist health center path
+          1	Africa Evangelical Church- Chikwawa
+          1	Africa House
+          2	African Bible College
+          3	African Church
+          1	African Church ( Mzokoto )
+          1	African Continent Mission Church
+          1	African Evangelical Church
+          1	African Heritage
+          1	African Heritage Cafe & Art Shop
+          1	African International Church
+          1	African Parks Administration office
+          1	African Parks Staff Camp
+          1	African Pentecost Church
+          1	African Pentecostal Church ( Nkombezi )
+          1	African Unity Road
+          1	Africycle (Five Miles)
+          1	Africycle (Zomba Town)
+          1	Afro Barber
+          1	Afrox
+          1	Afrox Gases
+          2	Agape Church
+          1	Agape Gospel Church
+          1	Agape House
+          1	Agape Life Church
+          1	Agape Life Church International (IWC)
+          1	Agricultural
+          1	Agriculture Commons
+          1	Agrippa Jere
+          1	Agriquip
+          1	Ahad
+          2	Air Malawi
+          1	Air Malawi Hangar
+          1	Airport Car Park
+          1	Airports Developments Ltd.
+          2	Airtel
+          1	Airtel Express Shop
+          1	Akoma ndi alendo
+          1	Al Jilani Electronics
+          1	Al-Madina Masjid
+          1	Alcoma Aerodrome
+          1	Ali Baba
+          1	Ali Hassan Mwini Road
+          1	Alibaba restaurant
+          1	Alimenda Estate
+          1	Alimwene Guest House
+          1	All Creatures
+          1	All In One
+          1	All Saints Anglican Church
+          1	All Vet Care
+          1	All in One Shop
+          1	Allah Akbar
+          1	Alloy Engineering
+          1	Alpha Printers
+          1	Alufilini Church
+          1	Ama Kofi
+          1	Amaan Dealers
+          1	Amazing Day Care Centre
+          1	Ambewe
+          1	Amina House
+          1	Amosi Grocery
+          1	Ampex
+          1	Ana Hardware
+          1	Andiamo Alleluya Band Stage Playground
+          1	Andiamo Andrea Village (Agogo Project)
+          1	Andiamo Comfort Community Hospital
+          1	Andiamo Road
+          1	Andiamo TIGAWANE House
+          1	Andiamo Tiyende Residential Area
+          1	Andiaomo Music School
+          1	Anga ndi Maso Lodge
+          1	Angayanjane
+          2	Angeke
+          1	Angels Hair
+          1	Anglican CM Theological College
+          2	Anglican Church
+          1	Anglican Church of Ascension Parish Church
+          1	Anglican Hospital
+          5	Angoni
+          1	Angoni Road
+          1	Angoni Stopover
+          1	Angonia
+          1	Animal Administration and Offices
+          1	Animal Science Lab
+          2	Annie's Lodge
+          1	Annie's Lodge Annex
+          1	Annie´s Lodge
+          1	Annie’s Flats
+          1	Antenna
+          1	Apatsa Nursery School
+          1	Apatsa Privat Primary School
+          1	Apostolic Church
+          1	Apostolic Faith
+          2	Apostolic Faith Mission
+          2	Aqua Africa
+          1	Aqua Nut Divers
+          1	Aquaculture and Fisheries Sciences Administration
+          1	Aquaculture and Fisheries Sciences Lecture Rooms/Theaters
+          1	Aquaculture and Fisheries Sciences Pond
+          1	Aquaculture and Fisheries Sciences Staff Offices
+          1	Aquaculture and Fisheries Sciences Wet and Dry Labs
+          1	Archade
+          1	Area 10 Dam
+          1	Area 11
+          2	Area 12 Police Station
+          1	Area 14
+          1	Area 18 Cemetery
+          1	Area 18 Filling Station
+          1	Area 18 Health Centre
+          1	Area 18 MTL Exchange
+          1	Area 18 Taxi rank
+          1	Area 24
+          1	Area 24 Market
+          1	Area 25 Health Center
+          1	Area 25 Health Centre
+          1	Area 25 nsungwi market
+          1	Area 3 Lodge
+          1	Area 36
+          2	Area 36 SDA Church
+          1	Area 43
+          2	Area 44
+          1	Area 47
+          1	Area 49 Gulliver Market
+          1	Area 5
+          1	Area 56
+          1	Area1
+          1	Area10
+          1	Area15
+          1	Area18
+          1	Area18A
+          1	Area18B
+          1	Area30
+          1	Area4
+          2	Area6
+          1	Area7
+          1	Area8
+          1	Arigundiya
+          2	Arnold Road
+          1	Arrows Lodge
+          1	Arrows Restaurant
+          1	Arthur Road
+          1	Artibridge House - Zodiak Broadcasting Station
+          1	Assemblies Of God
+          2	Assemblies of God
+          2	Assemblies of God Church
+          1	Assembly of God
+          1	Athens Private School
+          1	Atmosphere
+          1	Atosowa
+          1	Aubrey
+          1	Auction Holdings Commodity Exchange (AHCX)
+          1	Audio visual centre
+          1	Aunt Beat Mini Shop
+          1	Aunt Effie's
+          1	Aunt Jane Restaurant
+          1	Aunt Mable
+          1	Aunt Patel restaurant
+          1	Auto Mac
+          1	Autoweg
+          1	Avron Complex
+          1	Axa Bus Office
+          1	Axa Coach House
+          1	Ayub
+          1	A・B・M donation shallow well
+          1	BAJ HOD office
+          1	BALAKO DHO Health Centre
+          1	BAOBAB
+          1	BATA
+          1	BATA Shoe Company
+          1	BATA Shop
+          1	BE Forward Tanzania
+          1	BEDIR international school
+          1	BEM-BAKERY
+          1	BFC Church
+          1	BM Trading
+          1	BMJ Building
+          1	BONONGWE
+          1	BOOOOOM
+          1	BP
+          1	BP FILLING STATION
+          1	BQ
+          1	BYC
+          1	Bahnhofsgebäude
+          1	Bakili
+          3	Bakili Muluzi Highway
+          3	Balaka
+          1	Balaka Bus Depot
+          1	Balaka Courthouse
+          1	Balaka District Assembly
+          1	Balaka District Hospital
+          1	Balaka Market
+          1	Balaka Police Headquarters
+          1	Balaka Primary School
+          1	Balaka Stadium
+          1	Balaka Town Assembly
+          1	Balaka's Best
+          1	Balakas
+          1	Balangombe
+          1	Bamantha
+          1	Banana Plantation
+          1	Banapaya
+          1	Banda Hill
+          2	Bandawe
+          1	Bandawe House
+          1	Bande
+          1	Bande Goat Holding Pen
+          1	Bande Guest House
+          1	Banga
+          1	Bangala
+          3	Bangula
+          1	Bangula Full Gospel Church
+          1	Bangula High School
+          1	Bangula Lagoon
+          2	Bangula Secondary School
+          1	Bangula primary school
+          1	Bangwe Forest Reserve
+          1	Banja La Mtsogolo
+          1	Banja la mtsogolo Clinic
+          1	Bank Street
+          1	Baobab
+          1	Baobab Books
+          7	Baptist Church
+          1	Baptist International Church
+          1	Baptist Medical Clinic
+          2	Bare Foot Camp
+          3	Barn
+          1	Barn/Silo
+          1	Barron Avenue
+          1	Basiyao's
+          2	Bata
+          1	Bata Bata
+          1	Batiment
+          1	Bauleni
+          1	Baylor College of Medicine Children's Foundation Malawi
+          1	Baylor Tingathe Programme
+          1	Bayview Motel
+          1	Beach Boys Bar
+          1	Beach Chamber
+          2	Beaton Road
+          1	Beautiful Savior Lutherian Church
+          1	Bedir Pvt School
+          1	Beijing Trading Centre
+          1	Beirut Market
+          3	Beit Street
+          1	Beit Trust Hall
+          1	Bejing Trading Centre
+          1	Beka
+          1	Bello
+          1	Bembe
+          2	Bembeke
+          1	Bembeke Bakery
+          1	Bembeke Cathedral
+          1	Bembeke Village
+          1	Bemelani Village
+          1	Benalita
+          1	Benga
+          1	Benula
+          1	Benz Lodge
+          1	Bereu
+          1	Betch Goto & Graphics
+          1	BethSaida Pool Church
+          1	Better Lake
+          1	Beverly Hills Taxis Office
+          1	Biaffrice Road
+          3	Bible Society of Malawi
+          1	Big Blue Backpackers
+          1	Big Bullets Sport Bar
+          1	Big Lujri
+          1	Big Powerline Hill
+          1	Biliati
+          1	Biliati-Chipwepwete
+          2	BillBoard
+          1	Billboard
+          1	Bimbili
+          1	Bimbos
+          1	Binali
+          1	Bingu International Conference Centre
+          1	Bingu National Stadium
+          1	Bingu Stadium
+          1	Binje Community Based Organization
+          1	Bio Camp
+          1	Bio Camp lodge
+          1	Biri Biri
+          1	Biri-Biri Border Post
+          1	Biriwiri border post
+          1	Bishop Jobidon Rd
+          1	Bishop Jobidon Road
+          2	Bishop Mackenzie International School
+          1	Bishop Makenzie Hall
+          1	Bishop Makenzie Hall Pastorś House
+          1	Biwi
+          1	Black Rock
+          1	Black Rock Hill
+          2	Blackwood Road
+          3	Blantyre
+          1	Blantyre City Assembly
+          1	Blantyre City Christian Centre
+          1	Blantyre Girls
+          1	Blantyre Lodge
+          1	Blantyre Market
+          1	Blantyre Old Town Hall
+          1	Blantyre Police
+          1	Blantyre Post Office
+          1	Blantyre Road Traffic Authority
+          1	Blantyre Sec Sch
+          2	Blantyre Secondary School
+          6	Blantyre Sports Club
+          1	Blantyre Sports Club Building
+          1	Blantyre Street
+          1	Blantyre Water Board
+          1	Blesbok Road
+          1	Blessed Bible
+          2	Block A Road
+          1	Block B Road
+          2	Block C Road
+          3	Block D Road
+          3	Block E Road
+          3	Block F Road
+          3	Block G Road
+          3	Block H Road
+          3	Block I Road
+          3	Block J Road
+          3	Block K Road
+          3	Block L Road
+          3	Block M Road
+          3	Block N Road
+          3	Block O Road
+          1	Bloem Water Street
+          1	Bloomfield Estate
+          1	Bloomfield Factory
+          1	Blue (North)
+          1	Blue (South)
+          1	Blue Bird Learning Centre
+          1	Blue Canoe Safari Camp
+          2	Blue Ginger
+          2	Blue Lagoon
+          1	Blue Ribbon Bakery
+          2	Blue Tomato
+          1	Blue Waters
+          1	Blue zebra island lodge
+          6	Boarder Road
+          1	Boardman Road
+          1	Boat House
+          1	Bodza
+          1	Bodza Catholic School
+          1	Boerderij der Vastbijtende
+          1	Bogolo
+          1	Bokosi Dindi
+          1	Bole flats
+          1	Bolero
+          2	Boma Path
+          1	Bombay Bazaar Ltd
+          1	Bombay Palace
+          1	Bombay Road
+          1	Bondo
+          1	Bondo Health Center
+          1	Bondo school
+          1	Book Shop
+          1	Book store
+          1	Booma
+         37	Border Malawi - Mozambique
+          1	Border Post
+          1	Border Post Nayuchi
+          4	Border Road
+         10	Border Zambia - Malawi
+          1	Border Zambia - Mozambique
+          1	Bore hole
+         46	Borehole
+          2	Borehole #1
+          1	Borehole #2
+          1	Borehole #2/Woodlot
+          1	Borehole #3
+          1	Borehole well
+          1	Bota
+          1	Botanical Garden
+          1	Bowater Avenue
+          1	Bowe
+          1	Bowers Supermarket
+          1	Boxers
+          1	Boys Hostel
+          5	Boys Toilets
+          1	Brasil embassy
+          2	Bread talk
+          1	BreadTalk
+          2	Breakfast Rock
+          1	Brereton Drive
+          2	Brick Moulding Area
+          2	Bridge
+          1	Brilliant Solutions
+          1	British High Commision
+          1	British High Commission Pool
+          1	British High Commission Residence
+          1	British High Commission residence
+          1	Broomstick
+          1	Brown Motors
+          1	Browns Road
+         11	Bua
+          2	Bua Camp
+          1	Buchanans
+          1	Buidling
+          3	Building
+          2	Building 1
+          2	Building 2
+          1	Building 3
+          1	Building 4
+          1	Building 5
+          1	Building Features
+         21	Buildings
+          1	Buildmat & Office Supplies
+          1	Buildng
+          1	Buildngs
+          2	Bujonde
+          1	Bula
+          1	Bunda College Car Park
+          5	Bunda Farms
+          1	Bunda Forest
+          1	Bunda Health Centre
+          1	Bunda Hill
+          1	Bunda Nursery School
+          1	Bunda Soccer Ground
+          1	Bunda Technology Centre
+          1	Bunda Turnoff Roundabout
+          1	Bunda hill
+          1	Bunda south peak
+          1	Bunga
+          1	Bunganiro
+          2	Bunganya Forest Reserve
+          1	Bupigu
+          1	Bupigu Primary School
+          1	Bus Depot
+          1	Bus Terminal Lilongwe
+          1	Bus Terminus
+          1	Bus for Zalewa
+          1	Bus station
+          1	Bus to Likuni, Chinsapo
+          1	Bus to Zambia
+          1	Buses to Balaka
+          1	Buses to Lilongwe
+          1	Bushman's Baobabs
+          1	Busstation
+          1	Butao
+          1	Butterfly Bar
+          1	Butterfly Space
+          1	Butterfly Space Camping
+          1	Bvumbwe
+          1	Bwaila Hospital
+          1	Bwaila Secondary School
+          1	Bwaira Street
+          1	Bwalo La Nyakwawa
+          1	Bwanaisa
+          1	Bwandilo
+          1	Bwandiro Bottle Store
+          1	Bwanje
+          1	Bwatalika
+          1	Bwembe Road
+          1	Bwengu
+          1	Bwengu MRA Roadblock
+          1	Bwengu Substation
+          1	Bwiba
+          1	Bwigaland
+          1	C.C.A.P
+          1	CC 01
+          1	CC 02
+          1	CC 03
+          1	CC 04
+          1	CC 05
+          1	CC 06
+          1	CC 07
+          1	CC 08
+          1	CC 09
+          1	CC 10
+          1	CC 11
+          1	CC 12
+          1	CC 13
+          1	CC 14
+          1	CC 15
+          1	CC 16
+          1	CC 17
+          1	CC 18
+          1	CC 19
+          1	CC 20
+          1	CC 22
+          1	CC Llt 02
+          1	CC Lt 01
+          3	CCAP
+          1	CCAP Blantyre Synod
+          1	CCAP Borehole
+          2	CCAP Church
+          1	CCAP Hut
+          1	CCAP Likhubula Mission
+          1	CCH ADMIN / ADULT WARD
+          1	CDC Estate
+          1	CDH BANK
+          1	CDH Car Park
+          1	CDH Forex Bureau
+          1	CFAO
+          1	CFAO Malawi
+          1	CFC Church
+          2	CHEMBE
+          1	CHEZ MTEMBA
+          1	CHIKUNI
+          1	CHIPATALA AVENUE
+          1	CHiPiKU Plus store
+          1	CI St. Montfort
+          1	CI St. Montfort New Church
+          1	CIVO Stadium
+          1	COM Sports Complex
+          1	COM Sports Complex Car Park
+          1	COOPI Malawi
+          1	CSC House
+          1	CTL
+          1	CULTIVATION
+          1	CURE International Orthopedic Private Hospital
+          2	Cable Way Station
+          1	Caddies Shark
+          1	Cafe Delight
+          1	Cafetaria
+          1	Cafeteria
+          1	Café Gartzia
+          1	Café Rouge
+          1	Caledonia Restaurant
+          1	Calipa
+          1	Caltex
+          1	Caltex Fuelstaion 01
+          1	Camp Kazuni
+          1	Camp of Fence Scouts
+          1	Campsite
+          1	Campsite Dezda Pottery
+          1	Canon
+          1	Cape MacLodge
+          1	Cape Maclear
+          1	Cape Maclear Scuba
+          1	Capentry and joinery shop
+          1	Capital City Baptist Church
+          1	Capital Driving School
+          1	Capital Hill
+          1	Capital Kids Play Centre
+          1	Cappuccino's Café
+          1	Car Breakers
+          1	Caracal Link
+          1	Cargo Terminal
+          1	Carlsberg Malawi Brewery
+          1	Cartographic Lecture Room
+          1	Casa
+          1	Casa Mia
+          1	Casa Rossa
+          1	Cash Point Forex Bureau
+          1	Cash n Carry
+          1	Cashbuild
+          1	Cashbuild Limbe
+          1	Cassa Rossa Camoing Ground
+          1	Castle Rock
+          1	Cathedral of St Peter
+          1	Catholic
+          3	Catholic Church
+          1	Catholic Secondary School
+          2	Cattle
+          3	Cattle Kraal
+          1	Cavary
+          1	Cave behind the Kazichi water fall
+          1	Celinda Camp
+          1	Cell Tower
+          1	Cell phone
+          1	Cellular Tower
+          1	Central Avenue
+          1	Central Bookshop
+          1	Central Health
+          1	Central Hospital Round About
+          1	Central Office of Information
+          1	Central Post Office
+          1	Central Region
+          1	Central Registry
+          1	Central Zone, Northern Region Water Board
+          1	Central african wilderness safari
+          1	Centre Point
+          1	Centre Road
+          1	Centre for Social Research (UNIMA)
+          1	Centre for Social Research, Chancellor College
+          1	Ch Awais Waris
+          1	Chabe
+          2	Chabe Path
+          1	Chabu
+          1	Chabu Primary School
+          1	Chacogo Medical Clinic
+          3	Chagambatuka
+          1	Chagwa Dam
+          1	Chagwambala
+          1	Chaisi Ndhlovu
+          1	Chakaka
+          2	Chakhumbira
+          1	Chakhumbira 1
+          1	Chakolombe
+          1	Chakulembera
+          1	Chaluza Theu
+          1	Chamama
+          1	Chamawoya
+          2	Chamba
+          3	Chambe
+          1	Chambe - Chisepo
+          2	Chambe Hut
+          1	Chambe Hut camping
+          1	Chambiluka Borehole
+          1	Chambiluka Borehole (no. 2)
+          1	Chambiluka mini trading centre
+          1	Chambo
+          2	Chambo Road
+          1	Chambuluka
+          1	Chamburasisi
+          1	Chambwe
+          1	Chameleons Bar
+          1	Chaminade Secondary School
+          1	Champhantha
+          1	Champhantha Dam
+          1	Chana
+          2	Chancellor College Clinic
+          1	Chancellor College Library
+          1	Chancellor College Stadium
+          4	Chancellor College Staff House
+          1	Chancellor College Water Tank
+          1	Chancellor's College Language Centre
+          1	Chanco Childhhood Nursery School
+          1	Chanco Staff Farm Area
+          1	Chandiwira Moyo
+          1	Changalumi
+          1	Changalumi Cement Factory
+          1	Changamile 1 Vge
+          1	Changamile Primary School
+          1	Changamile mosque
+          3	Changamile primary school
+          1	Changing Rooms
+          1	Changwa
+          1	Chanika
+          1	Chanjale Primary School
+          1	Chankhadwe Primary School
+          1	Chankhadwe Primary School Hall
+          5	Chankhanga
+          1	Chankhanga Primary School
+          1	Chankhumba
+          1	Chansangu
+          1	Chantulo
+          1	Chanya Falls
+          1	Chanzenza Baptist Church
+          1	Chaonda
+          1	Chapaluka Falls
+          1	Chapananga
+          1	Chapasuka
+          1	Chapel
+          1	Chapinga Borehole
+          2	Chapita
+          4	Chapola
+          1	Chapomoka
+          1	Charter Pub
+          1	Charterland Road
+          1	Chasauka
+          1	Chaser Construction Engineering Limited
+          1	Chasesa
+          1	Chasowa
+          1	Chatalala
+          1	Chatulukira
+          1	Chatuwa Primary School
+          1	Chauwa
+          2	Chavara
+          1	Chawani Bungalow
+          1	Chawesa
+          1	Chayamba Building
+          2	Chayamba Road
+          1	Chayamba Secondary school
+          1	Chazingwa
+          2	Checkpoint
+          1	Cheers
+          1	Chefs Pride
+          1	Chejika Private Schools
+          2	Chejusu Road
+          1	Chekucheku
+          1	Chelinda
+          1	Chelinda Airfield
+          1	Chelinda Bridge
+          1	Chelinda Campsite
+          1	Chelinda Dam 1
+          1	Chelinda Dam 2
+          1	Chelinda Dam 3
+          1	Chelinda Forestry Station
+          1	Chelinda Lodge
+          1	Chelinda reception
+          1	Chembe
+          1	Chembe Water Project - Eileen & Keen
+          1	Chembe Water Project - The Martins
+          1	Chembe Water Project - The Wylies
+          1	Chemistry & Biology Department
+          1	Chendo
+          1	Chengosi Hill
+          1	Chentcherere Rock Shelter
+          1	Cherub Private Schools
+          3	Chesamu
+          4	Chetsa
+          1	Chewonga Road
+          2	Chez Macky
+          1	Chez Ntemba
+          1	Chia
+          1	Chia Lagoon
+          1	Chibaka
+          1	Chibaka House
+          1	Chibinga
+          1	Chibinya
+          1	Chibisa
+          1	Chibowa whole sale, Southern Bottlers LTD
+          2	Chichiri Mall
+          1	Chichiri Police
+          1	Chichiri Prison
+          2	Chichiri Secondary
+          1	Chicken Bone Stream
+         37	Chicken Kraal
+          2	Chicken/Duck Kraal
+          1	Chidakwani
+          4	Chidothi
+          1	Chidothi Village Graveyard
+          1	Chidyamunga
+          4	Chidzanja Road
+          1	Chief Khavala Residence
+          1	Chifenthe
+          1	Chifunga Health Center
+          1	Chigangawa Filling Station
+          1	Chigaru Massiv
+          1	Chigaru Peak
+          1	Chigoneka full primary school
+          1	Chigukumile Trading Center
+          1	Chiguluwindi
+          1	Chiguluwindi Road
+          2	Chigumula Forest Reserve
+          3	Chigwaya Road T409
+          2	Chigwenembe Hill
+          1	Chikala Hills
+          1	Chikala Pillars
+          2	Chikalema
+          1	Chikanda village cemetery
+          1	Chikangawa
+          1	Chikapa
+          1	Chikho
+          1	Chikho Hotel
+          1	Chikhosi Primary School
+          1	Chikhosi Secondary School
+          1	Chikolongo Farm
+          1	Chikombe
+          1	Chikombe Estate
+          1	Chikonde SDA Church
+          1	Chikondi Stopover
+          1	Chikonje Full Primary School
+          1	Chikonje School Water Storage
+          1	Chikowi
+          1	Chikuli school
+          1	Chikumbu
+          1	Chikungulu
+          1	Chikuse
+          1	Chikwangule
+          1	Chikwatu
+          3	Chikwawa
+          1	Chikwawa CDSS
+          1	Chikwawa District Council
+          1	Chikwawa District Education Office
+          2	Chikwawa Secondary School
+          1	Chikwekwe
+          1	Chikwina
+          2	Chikwina River
+          1	Chilaladzi
+          2	Chilambiro
+          1	Chilambula
+          1	Chilanga
+          1	Chilanga Drive
+          1	Chilangoma
+          1	Chilawera
+          1	Child Weighing Center
+          1	Childrens village Mdeka
+          1	Chileka
+          1	Chileka Airport Terminal
+          1	Chileka International Airport
+          3	Chileka Road
+          1	Chilekwe Borehole
+          1	Chilema Administration Building
+          1	Chilemba
+          1	Chilemba 2
+          1	Chilembe Road
+          1	Chilembwe Hall
+          1	Chilembwe Lodge
+          1	Chilembwe Road
+          1	Chilembwe Street
+          1	Chiliko
+          1	Chilima
+          1	Chilima Station
+          1	Chilinda Game Scout Camp
+          1	Chilobwe
+          1	Chilobwe Police Station
+          1	Chilokoti
+          1	Chilombo
+          1	Chilon Security
+          1	Chilongwelo
+          1	Chilore
+          1	Chilowa Cafeteria
+          1	Chilumba
+          1	Chilumba Immigration Checkpoint
+          1	Chilumba Prv Airport
+          1	Chilumpha
+          1	Chilunga CCAP
+          1	Chilunga Primary School
+          1	Chiluzi
+          1	Chilwa
+          2	Chimaliro Forest Reserve
+          1	Chimaliro Health Centre
+          1	Chimaliro Road
+          1	Chimamba
+          1	Chimango Lodge
+          1	Chimatiro
+          1	Chimbalanga
+          1	Chimbalanga 2
+          2	Chimbilili
+          2	Chimbiya Road
+          1	Chimbweya
+          1	Chimchembere
+          1	Chimenya
+          1	Chimex venture
+          1	Chimombo
+          1	Chimpazi
+          1	Chimphamba
+          1	Chimphando
+          1	Chimphonda
+          1	Chimtedza
+          1	Chimutu L.E.A Primary school
+          1	Chimutu Warehouse
+          1	Chimwala Road
+          3	Chimwalira
+         11	Chimwankhunda
+          1	Chimwankhunda Dam
+          2	Chimwankhunda Road
+          1	Chimwasongwe River
+          1	Chimzinga
+          1	Chinamwali
+          1	Chinamwali girls secondary school
+          1	Chindema River
+          1	Chinduzi Hill
+          1	Chinekwe
+          1	Chinekwe Creek
+          1	Chinekwe Irrigation Project Road
+          1	Chinekwe Livestock Selling Point
+          2	Chingale EPA
+          1	Chingali
+          1	Chingalire
+          1	Chingalire Rural Homestay
+          2	Chingamuka
+          1	Chingeni
+          1	Chingodi
+          1	Chinguma Hill
+          1	Chinguni Hill
+          1	Chingwe Hole
+          1	Chingwe hall
+          1	Chingwe's Hole
+          1	Chinkhali
+          1	Chinkhandwe
+          1	Chinkhoma
+          1	Chinkwita
+          1	Chinolo Bridge
+          1	Chinolo Stream
+          1	Chinongo
+          1	Chinongo Primary School
+          1	Chinses Pavillion
+          1	Chinteche Aerodrome
+          1	Chinteche Post Office
+          1	Chintheche
+          1	Chintheche Inn
+          1	Chintheche Inn Campsite
+          1	Chintheche Substation
+          1	Chinthembwe
+          1	Chinula Dispensary
+          1	Chinunkha CDSS
+          1	Chinunkha Primary School
+          1	Chinyanga
+          1	Chinyani
+          1	Chinyanje Borehole
+          1	Chinyanje River
+          1	Chinyanje School
+          1	Chinyanje Seventh Day Adventist Church
+          1	Chinyanje Trading Centre
+          1	Chinzama
+          1	Chinzama Hut
+          1	Chinzama Massiv
+          1	Chinzama Peak
+          4	Chinzemebe River
+          1	Chinzeti Borehole
+          1	Chiole
+          1	Chiomba
+          1	Chiomba 2
+          1	Chiombedza
+          1	Chiowa
+          1	Chipala
+          1	Chipalanje
+          1	Chipalapata village
+          1	Chipame
+          1	Chipangula Graveyard
+          1	Chipapa
+          1	Chipapa C.C.A.P Church building project
+          1	Chipapa primary school
+          1	Chipapa school footbal pitch
+          1	Chipasi
+          1	Chipata Camp
+          1	Chipata Hill
+          2	Chipembere
+          4	Chipiku
+          3	Chipiku Plus
+          3	Chipiku Store
+          1	Chipiku Stores
+          1	Chipiku Superstore
+          1	Chipiku Wholesale
+          1	Chipiku area25 nsungwi
+          1	Chipira
+          1	Chipita Drive
+          2	Chipoka
+          1	Chipoka Convention Centre
+          2	Chipoka Health Centre
+          1	Chipoka II Primary School
+          1	Chipoka Port
+          1	Chipoka Terminal
+          1	Chipolopolo
+          1	Chipolopolo Borehole
+          1	Chipome
+          3	Chiponde
+          1	Chiponde Border Post
+          1	Chiponde Police Unit
+          4	Chiponde Road
+          1	Chiponde ground
+          1	Chipondeni
+          1	Chipondi Irrigation Canal
+          1	Chipondi Irrigation Scheme
+          1	Chipoza
+          1	Chipumi TC
+          1	Chipumulo Estate
+          2	Chiputula River
+          1	Chipwanje
+          1	Chipwepwete
+          1	Chipyela
+          1	Chiradzulo Secondary school
+          3	Chiradzulu
+          1	Chiradzulu Forest Reserve
+          1	Chirimba Garage
+          3	Chirimba Primary School
+          1	Chirimba Primary School ground
+          2	Chirinza
+          1	Chirobwe Forest Reserve
+          1	Chirobwe Hill
+          1	Chirobwe Primary School
+          1	Chirombo
+          1	Chirombo Motors
+          1	Chiromo
+          1	Chiromo Bridge
+          1	Chiromo Hydrological Station
+          4	Chirua
+          1	Chirunga Hall
+          1	Chirunga Road
+          1	Chirunga Stadium
+          1	Chirwa
+          1	Chirwa Road
+          1	Chisaka Falls
+          1	Chisakasa
+          1	Chisalankhanga
+          1	Chisale
+          1	Chisamba 1
+          1	Chisamba Primary School
+          1	Chisambu Estate
+          1	Chisangalaro Butchery
+          1	Chisemphere
+          1	Chisenga
+          1	Chisenjere
+          1	Chisepo Hut
+          1	Chisepo Peak
+          1	Chisi Island
+          1	Chisi Point
+          1	Chisiza
+          1	Chisoka Health Center
+          1	Chisokowo
+          1	Chisomba
+          1	Chisombezi-Malowa Estate
+          1	Chisomo Corner shop
+          1	Chisomo Nursery School
+          1	Chisongele Peak
+          1	Chisoti
+          1	Chisumbi Graveyard
+          1	Chisumbi Vge.
+          1	Chitakale
+          1	Chitakale Estate
+          1	Chitala Agricultural Research Station
+          1	Chitale
+          1	Chitango
+          1	Chitata
+          2	Chitawira Road
+          1	Chitedzi Agricultural Research Station
+          1	Chitekwele
+          1	Chitenjere
+         11	Chitete
+          1	Chitete/Kabvunguti Dam
+          1	Chitika
+          3	Chitimba
+          1	Chitimba Beach Lodge
+          1	Chitimba Police Road block
+          1	Chitimbe
+          2	Chitipa
+          1	Chitipa Airport
+          1	Chitipa Bus Depot
+          1	Chitipa CPSS
+          1	Chitipa District Hospital
+          1	Chitipa Police Station
+          1	Chitipa Post Office
+          1	Chitontho
+          1	Chitsa
+          1	Chitseko
+          1	Chitseko Borehole
+          1	Chitseko Carpentry Shop
+          1	Chitseko Grazing Area
+          1	Chitukuko
+          1	Chitukuko Bus Stage
+          1	Chitumbwe
+          1	Chitundu
+          1	Chiulu Dispensary
+          1	Chiuse Mountain
+          1	Chiuzimbi
+          1	Chivu Health Centre
+          1	Chivuta
+          1	Chiwale
+          1	Chiwale Day Secondary School
+          1	Chiwamba Road
+          1	Chiwamba Satellite police unit
+          1	Chiwamba hill
+          1	Chiwamba post office
+          1	Chiwambara
+          1	Chiwandauka
+          1	Chiwato Jere
+          2	Chiwaula
+          1	Chiwawo Hill
+          1	Chiwembe Dam
+          1	Chiwembe SDA Church
+          1	Chiwembe Stadium FAM
+          1	Chiwembe Stage
+          1	Chiwembe Superatte
+          1	Chiwengo
+          2	Chiwerewere
+          2	Chiweta
+          1	Chiyembekeza
+          1	Chizola
+          1	Chizumbudzi
+          1	Chizumulu
+          1	Chlimadzi
+          1	Chloride Batteries
+          1	Chokwe
+          1	Cholomali
+          1	Cholomali Path
+          1	Cholomali Village Graveyard
+          1	Choma Road
+          2	Chombe
+          1	Chombe Proposed Forest Reserve
+          1	Chombe Tea
+          2	Chombe Tea Estate
+          1	Chombe peak view point
+          1	Chombe's
+          1	Chombo
+          1	Chomboto
+          1	Chomboto Irrigation Scheme
+          1	Chongole
+          1	Chongoni
+          1	Chongoni Mountain
+          1	Chongoni Rock Art
+          1	Chosi Viewpoint
+          1	Chowe
+          1	Chowo Forest
+          1	Christ Living Church
+          1	Christ the King Formation Center
+          1	Christian Apostalic Church
+          1	Christian Church
+          1	Christian Love Church
+          1	Chrisvan Liquor Shop
+          1	Chtitete
+          1	Chuba Clinic
+          1	Chule
+          1	Chulu
+         23	Church
+          2	Church of Christ
+          1	Church of Christ at Red Cross
+          1	Church of God
+          1	Church of Jesus Christ
+          1	Churchi Road
+          6	Churchill Road
+          1	Churrch of Christ
+          1	Chuuta Mosque
+          1	Chuuta mosque
+          2	Chypiela Road
+          1	Cigwe
+          1	Cine City Cinema
+          1	Circle and Square
+          1	Cirtona Avenue
+          1	Cisitu
+          1	Citipharm
+          1	Citsulu
+          1	City Boutique
+          1	City Centre
+          1	City Centre Fountaion
+          1	City Distoributers and General Agents
+          1	City Mall
+          1	City Mall Lilongwe
+          1	City Motors Landrover
+          1	City Parts Supplies
+          1	City Pentecostal Church
+          1	City Plastics
+          1	City Point
+          1	City Supermarket
+          1	City elder
+          1	Claim
+          1	Classroom #4
+         18	Classroom block
+          1	Classroom block #1
+          1	Classroom block #2
+          1	Classroomblock #3
+          1	Classroomblock #5
+          1	Clean Foods
+          1	Clearing/Open Space
+          1	Clerical and Technical Staff Housing
+          1	Clock Tower Round About
+          1	Clothing market
+          1	Club 2010
+          1	Club G
+          1	Club Makakana
+          1	Club Makokola
+          1	Club Makokola International
+          1	Club Marina
+          1	Cluny Lodge
+          1	Cobbe Barracks
+          1	Cobbe Barracks Health Center
+          1	Cobbe Barraks
+          1	Cock pit
+          2	Coffee Co-op Guesthouse
+          1	Coffee Hill
+          1	Coffee Hill and Spa
+          1	Coffee Pulpery (Chanya Zone)
+          1	Coffee Pulpery (Chibanda Zone)
+          1	Coffee Pulpery (Chinongo Zone)
+          1	Coffee Pulpery (Chisi Zone)
+          1	Coffee Pulpery (Chuba Zone)
+          1	Coffee Pulpery (Katobo Zone)
+          1	Coffee Pulpery (Malongoti Zone)
+          1	Coffee Pulpery (Mondo Zone)
+          1	Coffee Pulpery (Ndolopa Zone)
+          1	Colby Road
+          1	Cold Storage
+          1	Colden Forex Bureau
+          4	College
+          1	College of Health Sciences office
+          1	Columbia Commonwealth University/Malawi
+          1	Comfort Community Hospital
+          1	Comfort Community Hospital - OPD
+          1	Comfort Community Hospital Kapandatsitsi
+          1	Commissioner for Physical Planning (N)
+          1	Common Building MSFTGive
+          1	Communication Towe
+          1	Community Ground
+          1	Community Library
+          1	Community Quarry
+          1	Community Secondary School
+          1	Computer Science Lab
+          1	Concern Universal
+          1	Concern Universal office building
+          1	Condedezi River
+          1	Conference
+          1	Conforzi Aerodrome
+          1	Conforzi Dam
+          1	Conforzi Estate
+          1	Conforzi Road
+          1	Conforzi Tea Estate
+          1	Consumer Electronics
+          1	Convenant Life Church
+          1	Convent of the Divine Providence
+          1	Convention Centre restaurant and bar
+          2	Convention Drive
+          2	Cool Runnings
+          1	Copper Pot
+          1	Copy shop
+          1	Cost Cutter
+          1	Costantini
+          1	Costantini Total Filling Station
+          1	Council Rest House
+          1	Country Annex Lodge
+          1	Country lodge
+          1	Court of Traditional Authority Njombwa
+          1	Craft Coffe Shop
+          3	Crater Path
+          1	Crayons Nursery and Pre-School
+          1	Creamy Inn
+          1	Crest View
+          1	Crocodile Farm
+          1	Crop and Soil Science Department Tobacco Barns
+          2	Cross Life Church
+          1	Cross roads shopping mall
+          1	Crossroads
+          1	Crossroads (Area 9)
+          1	Crown
+          1	Crown Feeds
+          1	Crown Hotel
+          1	Crown Lodge
+          1	Crown of Life Lutheran Church
+          2	Cultural and Museum Centre Karonga
+          1	Culture Club
+          2	Culvert
+          1	Cuneco - a fusion cafe -
+          1	Customs
+          1	Customs Boom
+          1	Customs Control Point
+          1	Customs Entre Lagos
+          1	Customs and Police Department
+          1	Customs/Immigration
+          3	D
+          1	D155
+          1	D184
+          1	D2
+          2	D295
+          1	D345
+          1	D353
+          3	D354
+          3	D38
+          1	D388 26-010-E
+          3	D50
+          1	D55
+          2	D81
+          1	D9
+          3	DAPP
+          1	DBR International WAP ltd
+          1	DENTAL
+          1	DEVELOPMENT HOUSE
+          4	DHL
+         24	DMI
+          2	DMI Forest
+          6	DMI PRIMARY
+          1	DNPW Offices
+          1	DPNW Office
+          1	DPNW Workshop
+          1	DZenza SDA
+          1	Daawat Indian Cuisine
+          1	Daelo 1
+          1	Daelo 2
+          1	Daeyang ICT College
+          2	Daeyang Luke Hospital
+          1	Daeyang Luke Hospital Car Park
+          1	Daeyang Nursing College
+          4	Daeyang University Hostel
+          1	Dairy Board
+          1	Dalani School
+          1	Dalitso Water Tank
+          1	Dalitso water pump
+          2	Dalton Road
+          1	Dambe
+          1	Dambe Health Post
+          1	Danforth Yachting
+          1	Danga Hardware
+          1	Daniel Jere
+          1	Daniel Village
+          1	Daraja la Mungu - Natural bridge
+          1	Daudi 1
+          1	Daudi 2
+          1	Dausi
+          1	Davidovo
+          1	Davie SDA
+          1	Day care Centre
+          1	De hoge reus
+          1	Dean of Built Environment office
+          1	Debonair's Pizza
+          1	Debonairs
+          1	Debonairs Pizza
+          1	Debonnairs
+          1	Debs
+          1	Decorworld
+          3	Dedza
+          1	Dedza Catholic Church
+          1	Dedza Golf Club
+          1	Dedza Hospital
+          1	Dedza Mountain
+          1	Dedza Mountain Forest Reserve
+          2	Dedza Pottery
+          1	Dedza Pottery Lodge
+          1	Dedza Pottery Restaurant
+          1	Dedza Salima Escarpment
+          1	Dedza Salima Forest Reserve
+          1	Dedza Stadium
+          1	Deep Bay
+          1	Delamere Car Park
+          1	Delamere House
+          1	Demonstration School
+          1	Deni
+          1	Dentist
+          1	Department of Climate Change and Meteorological Services
+          1	Department of Engineering
+          1	Department of Forestry
+          1	Department of Population Studies
+          1	Department of Surveys (Map sales)
+          1	Department of Tourism
+          1	Dept. Headteacher House
+          1	Deputy Headteacher's house
+          1	Desha
+          1	Development House
+          1	Devlin Road
+          1	Dharap Road
+          1	Diamond Lodge
+          1	Diamphe Bridge
+          8	Diamphwe
+          1	Didi
+          1	Digester#1_Kalawa
+          1	Digester#2_Kalawa
+          1	Digester#3_Kamwendo village
+          1	Digester#4_Kamwendo
+          1	Digester#5_Kapanira village
+          1	Digester#6_Kapanira village
+          1	Digester#7_Chafera village
+          1	Dignitas International
+          9	Dirt Road
+          1	Dirt road
+          1	Disciples Church
+          1	Discorium
+          1	District Assembly
+          2	District Council
+          1	District Education Office
+          2	District Forestry Office
+          1	District Hosptial Mangochi
+          1	District Road
+          1	District Water Office
+          1	Diva's Hardware
+          1	Diversity Academy
+          1	Django's
+          1	Domasi
+          2	Domasi Mission CCAP
+          3	Domasi River
+          1	Domasi Teachers Training College
+          1	Domaso Police Post
+          1	Domino's Pizza
+          1	Domwe
+          1	Domwe Island
+          1	Domwe Viewpoint
+          1	Domwe island camp
+          1	Don Bosco Technical College
+          1	Don Bosco advocational school centre and school
+          1	Donald Arden Chapel, Chilema
+          1	Donda
+          1	Donda II
+          1	Donjia Nkhoma
+          2	Donna's Eggs
+          1	Doogles Backpackers
+          2	Dowa
+          1	Dowa District Hospital
+          1	Dowa Hills Forest Reserve
+          1	Dowerampuno Hill
+          1	Dowh
+          1	Dowh Port
+          1	Dowh Terminal
+          1	Downs Street
+          1	Dr. Thejopal's Surgery
+          1	Drain
+          1	Dream Land　park and restaurant
+          2	Drug store
+          1	Dugo Water Point
+          1	Dulux paint
+          1	Dunaj
+          1	Dunduzu Crescent
+          1	Dunduzu Hall
+          2	Dunduzu Road
+          1	Dunduzu Road Block
+          3	Dunduzu Street
+          1	Dwakome
+          3	Dwambazi
+          1	Dwambazi Forest Reserve
+          1	Dwambazi Rural Hospital
+         22	Dwangwa
+          1	Dwangwa Airport
+          1	Dwangwa Estate
+          1	Dyanyama
+          1	Dyce Nkhoma's new residence
+          1	Dyeratu
+          1	Dyeratu Trading Centre
+          1	Dzalanyama Forest Lodge
+          1	Dzalanyama Forest Reserve
+          2	Dzaleka
+          1	Dzaleka Refugee Camp
+          1	Dzedza Swamp
+          1	Dzenza CCAP Mission
+          1	Dzenza Forest Reserve
+          1	Dzenza Hill
+          1	Dzenza Secondary School
+          1	Dzikolatha
+          1	Dzimbiri Improved Health Post
+          1	Dzimbiri Market
+          1	Dzimphutsi
+          1	Dziwe wa Nkalamba Waterfall
+          2	Dzole
+          1	Dzomodya 1
+          1	Dzomodya 2
+          1	Dzonze Forest Reserve
+          1	Dzonze Hill
+          1	Dzoole
+          1	Dzukani Girls
+          1	Dómué
+          1	ELV
+          1	EPM Workshop
+          2	ESCOM
+          1	ESCOM Office - Fatima
+          1	ESCOM Terminal
+          1	ETG
+          2	EYE CARE CENTRE
+          1	Eagle Car Hire
+          1	Eagle King
+          2	Eagles Nest
+          1	Earth Science & Demography Labs
+          1	East-West
+          1	Eastern Region Police Headquarters
+          1	Easypack
+          1	Ecco Bank
+          1	EcoBank
+          1	Ecobank
+          3	Econo Lodge
+          1	Edelpha Boutique
+          1	Edingeni
+          1	Edisani
+          1	Education Office
+          1	Ehehleni Health Center
+          1	Eheleni
+          1	Ehlehleni
+          1	Ekwendeni
+          1	Eldorado Estate
+          1	Electoronic shop
+          1	Electra Sales
+          1	Electrical Solutions
+          1	Electronics 4U
+          5	Elefant's Head
+          1	Elektra World
+          1	Elephant Marsh
+          1	Elephant Rock
+          1	Elim
+          1	Ellis lodge
+          1	Embangweni
+          1	Embassy of Brazil - Residence
+          1	Embassy of the Federal Republic of Germany
+          1	Embassy of the Republic of China
+          1	Emcisweni
+          1	Emfeni
+          1	Emmanuel Church
+          1	Emmanuel International
+          1	Emporer's View
+          1	Enclosed Farmland
+          1	End on Riverbed
+          1	Endindeni Health Center
+          1	Endindeni Maternity ward
+          5	Energem
+          1	Energen
+          1	Energm
+          1	Engalaweni
+          6	Engen
+          1	Engucwini
+          1	Entrance Road
+          1	Enukweni
+          1	Enyazini CDSS
+          1	Ero Lodge
+          1	Escom Car Park
+          1	Escom House
+          1	Escom Power House
+          1	Esperanza Estate
+          1	Esperanza Factory
+          1	Estate Road
+          1	Eswanzini
+          1	Ethiopian airline
+          1	Euro African Baptist Church
+          1	Euthini
+          1	Evalngelical Church of Malawi
+          1	Evangelical Church
+          1	Evangerical Rutheren Church
+          1	Everest Restaurant
+          1	Everest Restaurant & Bar
+          1	Excavation Dam
+          1	Executive Lodge
+          1	Exodus Variety Shop
+          1	Exploits University
+          1	Eygptian Embassy Residence
+          1	FAMA
+          7	FDH Bank
+          1	FDH Bank Rumphi
+          1	FDH Limbe Branch
+          1	FDH bank
+          1	FH Barber Shop
+          2	FINCA
+          1	FINE ART
+          5	FMB
+          1	FMB ATM
+          3	FMB Bank
+          1	FMB Bank (Visa)
+          1	FMB Bank and ATM
+          1	FMB Rumphi Agency
+          1	FNB ATM
+          1	FNB Bank
+          1	FOMO (Friends of Mulanje Orphans)
+          1	Factory Clinic (Illovo)
+          1	Faculty block
+          1	Faculty of Economics
+          1	Fairview Congregation
+          1	Faith Apostolic Church
+          1	Faith in Action Church
+          1	Faith in Action Pentecostal Church
+          1	Falcon court
+          1	Falls Estate
+          2	Faniza
+          2	Farm
+          1	Farm Building
+          1	Farm Land
+          1	Farm house
+          1	Farm shed
+          2	Farmer's World
+          1	Farmers World
+          1	Farmers World Shop
+          1	Farmers complex accomodation
+          1	Farmers world
+          1	Farringdon
+          1	Fashion B
+          3	Fat Monkeys
+          1	Fatima Boys School
+          1	Fatima Community Day Secondary School
+          1	Fatima Girls Boarding School
+          1	Fatima Main Marketplace
+          1	Fatima Mosque
+          1	Fatima Police
+          1	Fatima Roman Catholic Church
+          1	Fatima Teachers Development Centre
+          2	Fattie Gausi
+          1	Fax House to God
+          1	Feg's Hardware Store
+          1	Fegs Distributors
+          1	Felemu
+          2	Fence
+          1	Field
+          1	Fifteen Sports Bar and Lounge
+          1	Finance Office
+          1	Fine arts class
+          1	Fingira Rock
+          1	Finish line
+          1	Finishing Line Church
+          9	Fire Break
+          1	Fire Lookout
+          4	Firebreak
+          1	First Class Salon
+          1	First Earthbag House
+          1	First Merchant Bank
+          1	First Merchant Bank (FMB Bank)
+          1	First Merchants Bank
+          1	First Sandbag House Lodge in Rumphi
+          1	First steps play school
+          1	First tank Mbiriwizi water system
+          1	First water seperator
+          3	Fish Eagle Bay Lodge
+          1	Fish Inn
+          2	Fisheries
+          1	Fisherman's Rest
+          1	Fishermans Market
+          1	Fishermen's Storage Facility
+          1	Fitness7
+          1	Flat rock viewpoint E. 1365 m.
+          1	Flo's
+          1	FloJa Foundation
+          1	FloJa Foundation Camping
+          1	FloJa Foundation Cottages
+          1	Floja Foundation
+          1	Flooding
+          1	Fombe
+          1	Food Zone
+          1	Foodlovers Market
+          1	Foodstuffs Warehouse
+          1	Foodworths
+          1	Foot Path
+          1	Football Association Of Malawi (FAM) Offices
+          6	Football Pitch
+          1	Football pitch
+          1	Footbridge to Mughese Parish
+          1	For Area18, 25, 49
+          1	Forbes Road
+          1	Ford
+          1	Forest
+          3	Forest Entrance
+          1	Forest Village
+          1	Forestry College
+          2	Forestry Guest House
+          1	Forestry Housing
+          2	Forestry Village
+          1	Forex Bureau
+          1	Form 1
+          1	Form 2
+          1	Form 3
+          1	Form 4
+          1	Forrest
+          1	Fort Lister
+          1	Fort Mangochi ruins
+          1	Fort Mlangeni
+          1	Four Seasons Complex
+          1	Four Seasons Shop
+          1	Fourway
+          1	Fowo GVH Residence
+          1	France's Cottage
+          1	Freedom Park
+          1	French Cultural Centre
+          1	FreshMart
+          1	Friendly Gecko
+          1	Froggies
+          1	Fulagombe Road
+          1	Fullstation
+          1	Fulutana
+          1	Functional borehole
+          1	Functioning Bore Hole
+          1	Funky Cichlid Backpackers
+          1	Funsani
+          1	Funsani 2
+          1	Fusion Cuisine
+          1	Fwifu School
+          1	G V H Mphamba cementery
+          1	G4S Securicor
+          1	GIZ Malawi German Health Programme
+          1	GRAVEYARD
+          1	GRAZIA RESTAURANT
+          1	GRAZIA TAILOR
+          1	GVH Fombe Residents
+          1	GVH Gandhi Borehole
+          1	GVH KHOMBEDZA
+          1	GVH Kandulu
+          1	GVH Khungubwe
+          1	GVH Kuntiya
+          1	GVH Mitawi
+          1	GVH Mphunga
+          1	GVH Mwantende
+          1	GVH Ndiuzayani
+          1	GVH Ntika
+          1	GVH Thembedza
+          1	Galaxy Travel
+          1	Galaxy travel
+          1	Galeta
+          1	Galito's
+          2	Game
+          1	Game Haven Lodge
+          1	Game Scout - Liwonde National park gate
+          2	Game Scout Camp
+          1	Game Store
+          1	Game Trail
+          1	Gandali
+          1	Garbo De Gardo Bar
+          1	Garden Cottage
+          1	Gate
+          1	Gate (exit National Park only)
+          1	Gate (unmaned)
+          1	Gate Way
+          1	Gateway Shopping Mall
+          1	Gebou
+         21	Gebouw
+          1	Gecko Lounge
+          1	Gelato Carnival
+          1	General
+          2	General Alliance Insurance Co. ltd
+          1	General Building
+          8	Generic Building
+          1	Genti
+          1	Geography department
+          2	George
+          1	Geotab TF & KM
+          1	Gerald
+          1	German Development Cooperation
+          1	Giraffe Road
+          1	Girls Hostel
+          5	Girls Toilets
+          1	Girls' Hostel
+          1	Glasten
+          1	Glenochry Estate
+          1	Globe Electronics Ltd
+          1	Globe Star Eletronics
+          5	Glyn Jones Road
+          2	Goats
+          1	Gobede
+          1	God Grace family
+          1	God Is Good Shop
+          1	Gogode
+          1	Golden
+          1	Golden Peacock
+          1	Golden Peacock Hotel
+          1	Goliati Community Day Secondary School
+          1	Goliati Primary School
+          7	Golodi Road
+          2	Golomoti
+          1	Golomoti Pass
+          1	Gomani 2 Street
+          1	Gomani Road
+          1	Gombwa
+          1	Gondoli
+          1	Gonthi
+          1	Good Vision Camp
+          1	Good hope pvt clinic
+          1	Good-Morning Lodge
+          1	Gooke Village Carpentry
+          1	Govala
+          1	Government Print
+          1	Government Printers
+          1	Grace Bandawe
+          1	Grace Hair Salon
+          1	Grace Motel
+          1	Graham
+         11	Granary
+          1	Grand Palace Hotel
+          1	Grave
+          7	Graveyard
+          1	Great Computer Cafe
+          1	Great East Road
+          2	Great Shoppers
+          1	Great Wall
+          1	Great hall
+          1	Green Bird
+          1	Green Bird Lodge
+          1	Green Horror
+          1	Green house
+          2	Grevillia Avenue
+          6	Grocery
+          1	Grocery Outlet
+          1	Grocery Wholesales
+          1	Group Village Headman Chapinga
+          1	Group Village Headman Dovu
+          1	Group Village Headman Kalonga
+          1	Group Village Headman Mwanavumbe
+          1	Group Village Headman Ngena
+          1	Group Village Headman Osiyana
+          2	Group of Buildings
+          1	Guard Shelter Marshes
+          1	Gucci Gang
+          1	Guest House
+          5	Guest room
+          1	Guidance Councelling and Youth Development Centre for Afric
+          1	Gully
+          1	Gumbu
+          2	Gundani
+          2	Gundani - Sankhulani Village
+          1	Guta
+          1	Guta CCAP Church
+          1	Guta Primary School
+          1	Gwenembe
+          1	Gweru Hall
+          1	Gymnasium
+          1	H Parker Sharp Health Centre
+          1	H.B. Stationers;Ideal Stationers
+          1	H.D.I Restaurant
+          1	HANNOVER CAR PARK
+          1	HB Stationers
+          1	HHI Cemetary
+          1	HHI Hall
+          1	HHI Multipurpose Hall
+          1	HHI Primary School
+          1	HHI Secondary School
+          1	HHI Secondary School Hostels
+          1	HIFA Business College
+          1	HILL OF GRACE TOURIST LODGE
+          1	HOTEL MASANGOLA
+          1	HOUSE 1
+          1	HOUSE 2
+          1	HOUSE3
+          1	HTC Electrical
+          1	HTC Supplies
+          1	HTD
+          1	HYRID Hostel
+          1	Hadadeza Shop
+          1	Haile Selassie Avenue
+          2	Haindi
+          2	Hakuna Matata
+          1	Hale
+          1	Halima Medicine Store
+          1	Hama's
+          1	Hamza
+          1	Handyman's Paradise
+          1	Hangeni
+          1	Hanifa
+          1	Hannover Avenue
+          1	Hannover House
+          1	Hannover House Cra Park
+          1	Hapuwani Hotel
+          1	Hara
+          1	Hara Irrigation Scheme
+          1	Hara Primary School
+          1	Hard Rock Lodge & Bar
+          1	Hardware Market
+          1	Hardware and Steel Merchants
+          1	Harry's Bar
+          1	Hatchery
+          2	Hauya
+          1	Hawilani
+          1	Hayter Road
+          1	Head Office
+          1	Headquarters
+          5	Headteacher House
+          1	Headteacher House (Primary)
+          1	Headteacher House (Secondary)
+          7	Headteacher Office
+          1	Headteacher's house
+          2	Health Clinic
+          1	Heartbreak Hill
+          1	Heavenly Close
+          1	Heko Technologies
+          1	Henderson Street
+          1	Henliz Insurance Agency
+          1	Het Vastbijtmeer
+          1	Hetherwick Road
+          2	Hewe
+          2	Hide
+          1	Hide Road
+          1	High Commission of the Republic of Mozambique
+          1	High Commission of the Republic of Zambia
+          1	High Commission of the United Kingdom of Great Britain and 
+          1	High Court Of Malawi
+          1	Highest Point
+          1	Hill Springs Lodge
+          1	Hillview International Primary School
+          1	Hippo Lodge
+          1	Hippo Lodge Pool
+          1	Hippo Spot
+          1	His Call Ministry Church
+          1	Hiwa
+          1	Hiwa 2
+          1	Hockey Field
+          1	Hockey Ground
+          1	Holiday Inn Rest House
+          1	Holy Spirit Devirance Ministry
+          1	Home For The Elderly
+          1	Home_Nyambadwe
+          1	Homestyles
+          1	Hong Kong Restaurant
+          1	Hope Church
+          1	Horse Stables
+          1	Horseshoe Peak
+          1	Hortculture
+          2	Hospital
+          1	Hostel
+          1	Hostel Clara Pfänder Home
+          1	Hot Springs
+          1	Hotel
+          2	Hotel Victoria
+         63	House
+          1	House no 30
+          2	House of Hope
+          1	House under construction
+          1	House?
+          1	Housing
+          1	Human Nutrition Administration
+          1	Husband's Hill
+         21	Hut
+          1	Huts
+          1	Huzain Electronics
+          1	Hynde Dam
+          1	ICTC
+          1	IQS
+          1	Ibungu
+          1	Ibungu Primary School
+          1	Ice Cream Den Salima
+          1	Idulusi
+          2	Ikimba
+          2	Ikolo
+          1	Ikombe
+          1	Ikombe Primary School
+          1	Ilala  Bay Lodge
+          1	Ilala Crest Lodge
+          1	Ilala Ferry
+          1	Ilala Ferry Terminal
+          1	Ileje
+          1	Illovo
+          1	Imbwa
+          2	Immigration
+          1	Immigration & Customs
+          1	Immigration Department
+          2	Immigration Office
+          2	Immigration office
+          1	Immigration office (visa extension)
+          1	Impact
+          1	Impact Auto Services
+          1	Impala Road
+          1	Imperial Park
+          1	In The Name Of Allah
+          1	In-Patient Care
+          1	Indaba Lodge
+          1	Inde Bank Headquarters
+          1	Indebank
+          1	Independence Arc
+          4	Independence Drive
+          2	Infungo
+          1	Inglis Estate
+          2	Injati Road
+          1	Intake Mbiriwizi water system
+          1	Intercape
+          1	International Christian Assembly
+          1	International College of Business & Management
+          2	Internet cafe
+          1	Invest in Knowledge Initative
+          1	Iponjola Primary School
+          1	Ipyana
+          8	Irrigation Farming
+          1	Isamba Road
+          1	Isap Enterprise
+          1	Islamic School
+          1	Itope
+          1	Itungi Port
+          1	Izuba Primary School
+          1	Izwe Laws
+          1	J.J.F. Tasty Foods & Take Away
+          1	JALO ROAD
+          1	JAYJAY
+          1	JDM Consultance
+          1	JICA
+          1	JIVAN JYOT
+          1	Jackson Road
+          1	Jakunja
+          2	Jalawe
+          1	Jalawe Primary School
+          1	Jali Trading Center
+          1	James Junction, road to Lambulira
+          2	James Medi
+          1	James Street
+          1	Jamo Coffin Work Shop
+          1	Jamrock
+          1	Jana
+          1	Jana graveyard
+          1	Janet Store
+          1	Janken
+          1	Japan House
+          1	Japanese Embassy
+          1	Japanese Embassy Residence
+          1	Jarawe
+          1	Jarvis
+          1	Jasi
+          1	Jasi Hide
+          1	Jayden Picasso Photography
+          1	Jazaka Lodge
+          1	Jefferson Paper Factory
+          8	Jehovah's Witnesses
+          1	Jehovas Witness
+          1	Jehovas witness
+          1	Jeke
+          1	Jenda
+          2	Jere
+          1	Jeremiah Stationery
+          1	Jesus is in the world
+          1	Jian Fen Supermarket
+          1	Jiejie Company
+          1	Jimu
+          1	Jimu Ng'anga
+          1	Jinga
+          1	Jiso
+          1	Joaquim Chissano Road
+          1	John Deer
+          1	John Dow
+          1	John Leake Play Center
+          1	Johnson & Wilson
+          1	Johnston Guest House
+          3	Johnstone Road
+          1	Johonere Irrigation Scheme
+          1	Jokoniya
+          1	Jombo
+          1	Jonasi
+          1	Jonathan
+          1	Jonex
+          1	Jose K Investments Stationery
+          1	Josephy
+          1	Josophat
+          1	Jowe
+          1	Joy's Place
+          1	Joyce Banda Foundation
+          1	Jubilee Park
+          1	July
+          1	Jungle Pepper Pizza
+          2	Jungle Route
+          2	Junior Common Room
+          1	Junior Shopping Centre
+          1	Junju
+          1	Justine house
+          1	K Kies
+          1	KAK Arcade
+          2	KAMOWATIMWA
+          1	KAPWITO
+          1	KASISI RIVER
+          1	KASUNGU ROAD
+          1	KEZA Building
+          3	KFC
+          1	KIA Solar Plant
+          1	KIDU CINEMA
+          1	KIPS
+          9	KITCHEN
+          1	KK Restaurant
+          1	KK security
+          1	KOBS office
+         10	KOCHE RIVER
+          1	Kabichi Community School
+          1	Kabichi Primary School
+          1	Kabindiza
+          1	Kabudira
+          1	Kabula
+          2	Kabula Hill
+          1	Kabula House
+          1	Kabula Lodge
+          1	Kabula SDA Church
+          1	Kabulika
+          1	Kabumbu
+          1	Kabunduli Viphya Drive
+          3	Kabvunguti
+          1	Kabwabwa
+          1	Kabwabwa Cemetery
+          1	Kachawa Estate
+          1	Kachebere
+          1	Kachenzi
+          2	Kachere
+          1	Kacheta
+          1	Kachingwe
+          1	Kachipwa
+          2	Kachulu
+          2	Kachuma
+          1	Kadakola
+          1	Kadamera
+          1	Kadifula
+          1	Kadothi Full Primary School Holy Angels
+          1	Kaduka
+          1	Kaduya Road
+          1	Kadzuwa Shop
+          1	Kafukule
+          1	Kafulama
+          1	Kafumbu Building
+          1	Kagona
+          1	Kagona village
+          1	Kaguza
+          1	Kahewe
+          1	Kahululu River
+          1	Kaiawo
+          1	Kaingilila
+          1	Kajosi
+          3	Kajunjumele
+          1	Kaka Motel
+          4	Kakolya Full Primary School
+          1	Kakoma
+          1	Kakoma Coffee Business Centre
+          1	Kakoma Community Day Secondary School
+          1	Kakoma Estate
+          1	Kakoma Health Centre
+          1	Kakoma Primary School
+          1	Kakoma Trading centre
+          1	Kakungunda River
+          1	Kakuyu
+          1	Kakware
+          1	Kalambo Primary School
+          1	Kalambo ground
+          1	Kalamwa
+          1	Kalenge CDSS
+          1	Kalibe
+          1	Kaligwenjere
+          1	Kalikuti
+          2	Kalilombe
+          1	Kalimanjira 2 Village
+          1	Kalimbuka Road
+          2	Kalimezako
+          1	Kalimezako 2
+          2	Kalinde
+          1	Kalioka
+          1	Kaliyeka School
+          2	Kalonga
+          1	Kalonga primary
+          1	Kalulu Clinic
+          1	Kalulu Creek
+          1	Kalulu Forest Reserve
+          1	Kalulu Full Primary School
+          1	Kaluluma
+          1	Kalumbu
+          2	Kalumbu Road
+          1	Kalupsa
+          1	Kalupsa village cemetery
+          1	Kalupsya
+          1	Kalupsya 2
+          1	Kalwe
+          1	Kalwe Forest Reserve
+          1	Kama
+          1	Kamando
+          1	Kambalame
+          1	Kambale
+          1	Kambuzi
+          1	Kambwiri
+          1	Kamchira
+          1	Kamchocho
+          1	Kamchocho Full Primary School
+          1	Kamdidi
+          1	Kameme
+          1	Kameza Filling Station
+          1	Kamira
+          1	Kammwamba
+          1	Kamoga
+          1	Kamonga
+          1	Kamoto
+          1	Kamoto II
+          1	Kampala
+          1	Kampambe Hill
+          1	Kampini Trading Center
+          4	Kamponji Estate
+          1	Kamtembanga Mbeya
+          1	Kamtuwale
+          1	Kamu Lodge and Bar
+          1	Kamuzu Academy
+          1	Kamuzu Banda Statue
+          1	Kamuzu Bridge
+          3	Kamuzu Central Hospital
+          1	Kamuzu College of Nursing, University of Malawi
+          1	Kamuzu Dam
+          1	Kamuzu Dam 2
+          1	Kamuzu Hall
+          7	Kamuzu Highway
+          1	Kamuzu Institute for Sports
+          1	Kamuzu International Airport
+          1	Kamuzu LEA
+          6	Kamuzu Procession Road
+          1	Kamuzu Reservoir
+          1	Kamuzu Stadium
+          1	Kamuzu Stadium Rd
+          1	Kamuzu stadium
+          1	Kamwala
+          1	Kamwe
+          1	Kamwe Hill
+          1	Kamwembo Police Station
+          2	Kamwendo
+          1	Kamwenya Gwaza
+          1	Kanangwanji
+          1	Kanchitu
+          3	Kandalandala
+          2	Kande
+          1	Kande Beach
+          1	Kande Horse
+          1	Kande Island
+          1	Kandewe traditional bamboo suspension bridge
+          1	Kandielo
+          1	Kandodo Chisi
+          1	Kandoje
+          1	Kanengo Industrial Park
+          1	Kang'ombe
+          1	Kangaroo
+          1	Kaning'ina Forest Reserve
+          1	Kanjamwano
+          1	Kanjedza Maize Mill
+          1	Kanjedza MediClinic (MASM)
+          1	Kanjedza Primary School
+          1	Kanjedza SDA
+          1	Kanjeza Drive
+          1	Kanjoli Hill
+          1	Kankao
+          1	Kankhumba
+          1	Kanselu
+          2	Kantchito
+          1	Kantuwale
+          1	Kanyama
+          1	Kanyenda
+          1	Kanyenze
+          1	Kanyerere Primary School
+          1	Kanyerere Primary School and Hostel ground
+          2	Kanyimbiri
+          1	Kanyimbo
+          1	Kanzandi
+          1	Kaombe
+          1	Kaoshiung Road
+          2	Kapalaliza
+          1	Kapalamula
+          1	Kapanda
+          2	Kapani
+          1	Kapata lodge
+          1	Kapatamoyo Road
+          1	Kapazila
+          1	Kapeni Hostel
+          2	Kapeni Road
+          1	Kaperekezi Camp
+          1	Kaperekezi Gate
+          3	Kapesi
+          1	Kapeska
+          1	Kapeska River
+          1	Kaphaizi
+          2	Kaphuka
+          2	Kapichira
+          1	Kapichira Dam
+          1	Kapichira Falls
+          1	Kapichira Falls Road
+          1	Kapichira Hydroelectric Power Station
+          1	Kapika
+          1	Kapilinjuchi
+          1	Kapindula
+          1	Kapiri
+          1	Kapita C.C.A.P Church
+          1	Kapita CCAP Church
+          1	Kapita CCAP Hall & Confrence Room
+          1	Kapita Nursery And Primary School
+          1	Kapoka
+          1	Kaporo
+          1	Kara O'Mula Country Lodge
+          1	Kariba Road
+          1	Karibu Acadamy
+          3	Karim Road
+          4	Karonga
+          1	Karonga Airport
+          1	Karonga Airtel Express Shop
+          1	Karonga Demo
+          2	Karonga District Hospital
+          1	Karonga School for the Deaf
+          1	Karonga Veterinary Office
+          1	Karongolera Assemblies Church
+          1	Karopa
+          1	Kas
+          1	Kasache GVH
+          1	Kasakula
+          1	Kasamba 1
+          1	Kasamba 2
+          1	Kasankha
+          1	Kasasanya
+          1	Kasekese
+          1	Kasembereka
+          1	Kasichi
+          1	Kasimba
+          1	Kasimu
+          1	Kasina
+          1	Kasina Mission
+          1	Kasinje
+          1	Kasinthula
+          1	Kasito Lodge I
+         16	Kasitu
+          1	Kasiya
+          1	Kasonga
+          1	Kasukusuku
+          1	Kasumbu
+          1	Kasumulu
+          1	Kasungu
+          1	Kasungu ADD
+          1	Kasungu Airport
+          1	Kasungu CCAP
+          1	Kasungu Community ground
+          1	Kasungu Culture Club
+          1	Kasungu DAPP Shop
+          1	Kasungu Demo
+          2	Kasungu Inn
+          1	Kasungu Lodge
+          1	Kasungu Mountain
+          1	Kasungu National Bank
+          1	Kasungu National Park
+          3	Kasungu Road
+          1	Kasungu TTC
+          1	Kasungu TTC Demonstration School
+          1	Kasungu Teacher Training College
+          6	Kaswalipande
+          1	Kat-Man-Doo
+          1	Katema
+          2	Katete
+          1	Katete Church
+          2	Katete Girls Primary School
+          1	Katete OPD
+          1	Katimba
+          2	Katobo CCAP
+          1	Katoleza
+          1	Katoto Filling Station
+          1	Katoto Puma Service Station
+          1	Katsekaminga Community Day Secondary School
+          1	Katumba
+          1	Katumba Songwe Secondary School
+          7	Katumbasongwe
+          1	Katumbi
+          1	Katumbi Airport
+          1	Katunda
+          2	Kauma
+          1	Kaunda Puma
+          8	Kaunda Road
+          1	Kausi Catholic Church
+          2	Kavale Road
+          2	Kavalo village
+          1	Kavunguti
+          3	Kavuzi
+          1	Kavuzi Trading Center
+          1	Kawalazi
+          1	Kawale
+          2	Kawale Road
+          6	Kawale also known as Liberty
+          1	Kawamba
+          3	Kawamba Health Center
+          1	Kaweche Dam 1
+          1	Kaweche Dam 2
+          2	Kaweche Estate Road
+          1	Kawerama
+          1	Kawere
+          1	Kawiliwili House
+          1	Kawinga
+          1	Kawozya Peak
+          1	Kaya Mawa
+          1	Kaya Papaya
+          1	Kayak Africa
+          1	Kayelekera Uranium Mining Area
+          1	Kaza Kitchen
+          2	Kazembe
+          1	Kazembe Primary School
+          2	Kaziwiziwi
+          1	Kaziwiziwi Coal Mine
+          1	Kazomba CCAP
+          2	Kazomba CDSS
+          1	Kazomba Catholic Church
+          1	Kazomba Hall
+          2	Kazomba Primary School
+          1	Kazunga
+          1	Kazuni
+          1	Kazuni lake cabins
+          1	Keith Highway
+          1	Kela
+          1	Kelula
+          1	Ken Nkhambule
+          1	Kenan Ngomba
+          1	Kentam Mall
+          1	Kentucky Fried Chicken (KFC)
+          1	Kenyata Hall
+          3	Kenyatta Drive
+         11	Kenyatta Road
+          1	Khama Bar
+          1	Khamurowe Guest House
+          2	Khasu
+          1	Khasu Path
+          1	Khavala
+          1	Khavala - Cholomali path
+          1	Khavala Beer Hall
+          1	Kholobitzo Falls
+          1	Khombe
+          2	Khombedza Health Center
+          1	Khomera
+          1	Khondowe Hall
+          2	Khongoni Health Center
+          1	Khongoni Road
+          2	Khonjeni
+          1	Khonjeni Dam
+          1	Khonjeni Health Centre
+          1	Khonjeni River
+          1	Khukhala Motel
+          1	Khukhumba
+          1	Khungubwe
+          1	Khungubwe Evacuation Center
+          1	Khungubwe Play Ground
+          2	Khungwa
+          1	Khuto Massive
+          1	Khuto Peak
+          1	Khwaja Dariyaee
+          1	Kia Motors
+          1	Kiboko Restaurant
+          1	Kiboko Town Hotel
+          6	Kicthen
+          1	Kidney Crescent
+          1	Kids Play Ground
+          1	Kili
+          1	Kilondo
+          1	Kilondo Primary School
+          1	Kimmy Baker Cafe
+          1	Kimmy Baker Cafe - Vietnamese Cuisine
+          1	Kinchi
+          1	King Fisher
+          1	King Take Away
+          1	King's Foundation
+          1	King's Guest House
+          1	Kingdom Heritage Model School
+          1	Kings Church
+          1	Kings Electronics
+          1	Kings Foundation Secondary School
+          1	Kings Highway Florence Bay
+          1	Kings Revival Church
+         29	Kiosk
+          1	Kip's
+          2	Kips
+          1	Kips Express
+          1	Kips'
+          1	Kirambu Point
+          1	Kirk Road
+          1	Kitano
+        291	Kitchen
+          3	Kittermaster Avenue
+          1	Kittermaster Road
+          3	Kiwira
+          1	Kliwawa
+          1	Koche CDSS (Community Day Secondary School)
+          1	Koche Catholic Church
+          1	Koche Hospital
+          1	Kolimbo
+          1	Kongwe Forest Reserve
+          1	Kongwe Hill
+          1	Konka
+          1	Kopakopa
+          2	Koppel Road
+          1	Korea Garden Lodge
+          1	Kortasia
+          1	Kortasia Lodge
+          1	Kptl stor
+         24	Kraal
+          1	Kryštov
+          1	Kuchilipa
+          1	Kuchiponde Rest house
+          1	Kuchombe village
+          1	Kudya
+          2	Kudya Bus Stage
+          1	Kudya Filling Station
+          1	Kufa Road
+          1	Kufa Street
+          1	Kukoma
+          1	Kulizamimba
+          1	Kumadzi Estate
+          1	Kumbali
+          1	Kumbali Country Lodge
+          1	Kumbali Cultural Village
+          1	Kumbali Kindergarten
+          1	Kumbali Village
+          1	Kumbali Village toilets
+          1	Kumbwani
+          1	Kumpakiza
+          1	Kumpika
+          1	Kundembo
+          1	Kunthembwe
+          2	Kusamala Institute of Agriculture and Ecology
+          1	Kuti Office
+          1	Kuti Wildlife Park
+          1	Kuziona
+          1	Kwacha Road; Moi Road
+          1	Kwadyamba
+          2	Kwakwadzi
+          1	Kwasakwasa Lodge
+          1	Kwawa
+          1	Kweneza
+          2	Kwickfit
+          1	Kwik fit
+          1	Kwitambo
+          1	Kyela
+          1	L'Hostaria
+          1	L.C. Pharmacy
+          1	L.S.Q.
+          1	LEAD Office
+          1	LIKANGALA Health Center
+          1	LINGA CDSS FOOT BALL GROUND
+          1	LINGA CDSS SCHOOL
+          1	LMD Trading
+          1	LSPCA
+          1	LWC Radio
+          1	La Caverna & Cafe Mandala
+          1	La Dolce Vita
+          1	Lab Enterprises Limited
+          1	Labo Electronic Shop
+          1	Lache
+          1	Lago Niassa
+          1	Lake
+          1	Lake Chilingali
+          1	Lake Chilwa
+          1	Lake Chiuta
+          1	Lake Chiwondo
+          1	Lake Kaulime
+          1	Lake Malawi
+          1	Lake Malawi Museum
+          1	Lake Malawi National Park
+          1	Lake Malawi National Park Loop Trail
+          2	Lake Malombe
+          1	Lake Road Filling Station
+          1	Lake Services
+          1	Lake View Ridge Resort
+          2	Lalanje
+          1	Lambat's
+          1	Lambulira Health Center
+          1	Lamya Primary School
+          1	Land Mark Baptist Church
+          1	Land Resources Conservation Department
+          1	Land and Lake Safaris
+          2	Land and Lake safaris
+          1	Land depertment
+          1	Landrover Malawi
+          1	Lands View
+          1	Langeni
+          2	Lark
+          1	Latha Restaurant
+          1	Latitude 13゜
+          1	Latitude Restaurant
+          2	Latrine
+          1	Lauderdale Aerodrome
+          1	Lauderdale Estate
+          1	Lauderdale Factory
+          1	Lavish Electronics
+          1	Law
+          1	Laws Road
+          1	Layisoni
+          1	Learners Toilets
+          1	Lecture Room A
+          1	Lecture Room R1
+          1	Lecture Theater
+          1	Lecture Theatre 1 & 2
+          1	Lecture offices
+          1	Lee Photo Studio
+          1	Leketa
+          2	Lembani
+          1	Lengwe National Park
+          2	Leo Pharmacy
+          1	Leslie Lodge
+          1	Leslie Road
+          6	Library
+          4	Lichenya
+          1	Lichenya Forest
+          1	Lichenya Hut
+          1	Lichenya Plateau
+          1	Lichenya Pools
+          2	Lidzuzi
+          1	Life Harvest
+          1	Life Pharmacies
+          1	Lifeline
+          4	Lifisi
+          3	Lifuliza
+          1	Lifuma Primary School
+          1	Lifupa
+          1	Lifupa Airport
+          1	Lifupa Campsite
+          1	Lifupa Dam
+          1	Lifupa Lodge
+          1	Lifuwo Primary School
+          1	Lifuwu
+          1	Lifuwu Community Library
+          2	Lifuwu Health Center
+          1	Lifuwu Rice Scheme
+          1	Ligowe
+          1	Ligowe Rural Health Center
+          1	Likabula Campsite
+          1	Likabula Pools
+          1	Likanga Estate
+         12	Likangala
+          1	Likangala Irrigation Scheme
+          1	Likangala Irrigation Scheme Main Canal
+          1	Likangala Residential Houses
+          1	Likangala resedential house
+          1	Likhubala Forest Lodge
+          6	Likhubula
+          1	Likhubula Estate
+          1	Likhubula Forestry Office
+          1	Likhubula Hikers Nest
+          1	Likoa
+          1	Likoma
+          1	Likoma Aerodrome
+          1	Likoma District
+          1	Likoma Restaurant
+          1	Likoswe
+          1	Likubula Secondary School
+          1	Likulezi
+          2	Likuni
+          1	Likuni Drug Store
+          1	Likuni Girls Primary
+          1	Likuni Girls Primary School
+          1	Likuni Girls Secondary school
+          1	Likuni Hospital
+          1	Likuni Hospital Private Ward
+          1	Likweli
+          2	Likwenu
+          1	Lili's Montessori
+          1	Lilo Gelato
+          4	Lilongwe
+          1	Lilongwe Academy Private School
+          1	Lilongwe Botanic Gardens
+          1	Lilongwe Brewery
+         12	Lilongwe Bypass
+          1	Lilongwe Cathedral
+          1	Lilongwe Central Mosque
+          1	Lilongwe Demo
+          1	Lilongwe Freight Terminal
+          1	Lilongwe Golf Club
+          1	Lilongwe Golf Course
+          2	Lilongwe Hotel
+          3	Lilongwe Nature Reserve
+          1	Lilongwe Pentecostal Church
+          1	Lilongwe Private Clinic
+          1	Lilongwe Private School
+         12	Lilongwe River
+          1	Lilongwe River Bridge
+          1	Lilongwe Teachers Training College Hall
+          1	Lilongwe Technical College
+          2	Lilongwe University of Agriculture and Natural Resources
+          1	Lilongwe Urban Poor People's Network
+          1	Lilongwe Wildlife Center
+          1	Lilongwe water board
+          1	Lilongwe water board Kanengo
+          1	Lilongwe water board payment office
+          1	Lilongwe_Private_School
+          1	Lilwonge District Council
+          1	Limani
+          5	Limbe
+          1	Limbe (Henga Used Land)
+          1	Limbe Guest House
+          1	Limbe Marker
+          3	Limbe Market
+          1	Limbe Police
+          1	Limbe/Katimba CCAP
+          1	Limbikani lodge and restaurant
+          1	Limbuli Estate
+          1	Limpimbi
+          1	Linga Wine
+         12	Lingadzi
+          1	Lingadzi CCAP
+          1	Lingadzi CCAP Area 12
+          1	Lingadzi Inn
+          1	Lingadzi Police Station
+          1	Lingona
+          2	Linje
+          1	Linje Pools
+          1	Link Road
+         14	Linthipe
+          1	Linthipe Post Office
+          1	Linyama
+          1	Linyangwa
+          1	Liqour Store
+          1	Liquor Shop
+          1	Liquor Store
+          4	Lirangwe
+          4	Lisangadzi
+          1	Lisitu
+          1	Lister Avenue
+          1	Lisumbwi Secondary School
+          5	Lisungwe
+          1	Lisungwe Forest
+          1	Lisungwi
+          2	Lisungwi Community Hospital
+          1	Litakale Massiv
+          1	Litakale Peak
+          1	Little Havana
+          1	Little Kiddies Nursery
+          1	Little Lujeri
+          1	Little Manene
+          1	Little Theatre
+          2	Liuli
+          1	Liuli Airport
+          1	Liuli Ferry Stop
+          1	Liuli Hospital
+          3	Living Waters Church
+          5	Livingstone Avenue
+          3	Livingstone Road
+          1	Livingstone Tree
+          1	Livingstonia
+          2	Livingstonia Beach
+          1	Livingstonia CCAP Church
+          1	Livingstonia Lodges
+          1	Livingstonia Technical College
+          1	Livingstonia mission
+          1	Livingstonia university
+          3	Livulezi
+          1	Livunku Market
+          4	Livunku River
+          4	Livuwadzi
+          1	Liwala
+          4	Liwaladzi
+          2	Liwawadzi
+          1	Liwawadzi River
+          1	Liwenga
+          2	Liwonde
+          1	Liwonde Barrage
+          1	Liwonde Bus Station
+          1	Liwonde Forest Reserve
+          1	Liwonde Forest Reserve - Chinduzi Hill
+          1	Liwonde Forest Reserve - Mongolwe Hills;Liwonde Forest rese
+          1	Liwonde National Park
+          1	Liwonde Road Block
+          2	Liwonde Safari Camp
+          1	Liwonde Safari Camp Viewpoint
+          1	Liwonde safari Camp
+          1	Liwowo
+          1	Liyenda
+          1	Lizard Island
+          1	Lizile
+          1	Liziwazi
+          1	Lizulu
+          1	Lobi
+          8	Local Market
+          2	Local Restaurant
+          3	Local Road
+          1	Local hospital
+          1	Lomba Road Block
+          2	Lombadzi
+          1	Lombwa
+          1	Long Building
+          1	Long Drive Way
+          1	Long-distance minibuses
+          1	Longonot Lodge
+          1	Look Smart Barber Shop
+          1	Loudon Hospital
+          1	Loudon Mission
+          1	Lounge Mungo
+          1	Lovely Road
+          3	Lowe
+          1	Lower Bondo Canal
+          1	Lower Bondo Hydro
+          4	Lower Lingdadzi Drive
+          1	Lozi
+          1	Luangwa
+          1	Lubani Hall
+          1	Lubani Road
+          2	Luchenza
+          1	Ludewa
+          1	Lufilya CDSS
+          8	Lufira
+          1	Lufita
+          1	Lufita Drug Store
+          2	Lufulizi
+          2	Lughesyo Primary School
+          1	Luia River
+          1	Lujenda Estate
+          2	Lujeri
+          3	Lujeri Canal
+          1	Lujeri Cottage
+          1	Lujeri Estate
+          1	Lujeri Factory
+          1	Lujeri Hydro Power
+          1	Lujeri Lodge
+          1	Lujeri Peak
+          1	Lujeri Primary School
+          1	Lujeri Road
+          4	Lukhubula
+          1	Lukwa
+          2	Lukwe Camp
+          1	Lukwe Lodge
+          1	Lularwe
+          1	Lulindo Primary School
+          1	Luludzi
+          3	Lumbadzi
+          1	Lumbe
+          1	Lumbila
+          1	Lumbila Primary School
+          1	Lundu
+          1	Lundu Ferry Stop
+          1	Luntha CDSS
+          3	Lunyangwa
+          1	Lunyangwa Dam
+          1	Lunyangwa Forest Reserve
+          1	Lunyina River
+          2	Lunzu
+          2	Lupingu
+          1	Lupiya
+          2	Lura
+          1	Luranga River
+          1	Lusalumwe School
+          1	Lusangazi Road Block
+          1	Luso
+          2	Lusungo
+          1	Lusuntha
+          1	Luther Hall
+          1	Lutheran Bible Institute
+          1	Lutheran Church
+          1	Lutherian Church of Central Africa
+          1	Luvona
+          1	Luwagha
+          1	Luwani Health Center
+          1	Luwani Prison
+          4	Luwawa
+          1	Luwawa Campsite
+          1	Luwawa Dam
+          1	Luwawa Falls
+          1	Luwawa Forest Lodge
+          1	Luwelezi
+          1	Luwenga
+          4	Luwewe
+          1	Luwewya ?
+          1	Luweya
+          3	Luwinga Road
+          1	Lwasyo
+          1	Lweni
+          1	M'chaha James
+          1	M'mbelwa District Assembly
+          1	M'mbelwa House
+          1	M'modzi
+          1	M.A.C.O.H.A-Lilongwe vocational Training Centre
+          1	M.H.D. Tailoring
+          1	M1 old
+          1	M10
+          1	M5
+          2	M9
+          2	MACRO
+          1	MAKONDE SECONDARY SCHOOL
+          1	MALAWI SAVINGS BANK, NKHOTAKOTA DEPOT
+          1	MALO A MCHEREZO
+          1	MALOSA EPA
+          2	MANEB
+          1	MANNUHH
+          1	MASM House
+          1	MASM Medi Clinic
+          1	MASM area43
+          1	MATUWI
+          1	MBC
+          1	MBC Radio
+          1	MBC Telecom Antenna
+          1	MBC Tv
+          1	MBame
+          1	MCHIZANJALA CCAP
+          1	MCP Office
+          1	MEKA
+          1	MERIDLEN HOUSE
+          1	MERu
+          1	MET Pizza
+          1	METRO shop
+          1	MICHESI
+          1	MILANZI RESTHOUSE
+          1	MISESA CEMETERY
+          1	MISESA PRIMARY SCHOOL
+          1	MLANGO National Headoffice in Malawi
+          2	MOSQUE
+          1	MPICO HOUSE
+          1	MPONDA - BALAKA
+          1	MRA, Blantyre Port
+          1	MSB
+          1	MSB Bank
+          1	MTIMBUKA
+          2	MTL
+          1	MTL Blantyre Exchange
+          1	MTL Building
+          1	MTONDO
+          1	MTONYA VILLAGE
+          1	MTYALA
+          1	MUST AUDITORIUM
+          1	MUST Administration block
+          1	MUST CAFETERIA
+          1	MUST HALLS OF RESIDENCE
+          1	MZ Industry
+          1	MZINGA PRIMARY SCHOOL
+          2	M`banga
+          1	Mabuka
+          1	Mabulabo
+          2	Mabuya Camp
+          1	Mabuya Camp (former Kiboko)
+          1	Mabuya Camp (formerly Kiboko)
+          1	Mabwera
+          1	Mabwera Madrassa
+          1	MacAlester Maternity Wing
+          1	Machalikakutchemba
+          1	Machemba Hill
+          1	Machilika
+          3	Machinga
+          1	Machinga District Hospital
+          1	Machinga Police Station
+          1	Machinjiri
+          1	Mackie Street
+          1	Macleod Road
+          1	Macondo
+          1	Macondo camp
+          1	Madalo Guest House
+          1	Madidi Lodge
+          1	Madimba Bar
+          2	Madisi
+          1	Madisi Mission Hospital
+          1	Madisi Secondary School
+          3	Madrasah Raonaqul Islam
+          1	Madrash Noor-Ul-Islam
+          1	Madzeka Hut
+          5	Madzeka Path
+          1	Mafinga Central
+          1	Mafisi Estate
+          1	Mafumu Deluxe Suites
+          1	Mafuta Achi Malawi Shop
+          6	Mafuwa Primary School
+          1	Magaleta
+          1	Magaleta Health Center
+          2	Maganga
+          3	Maghemo Secondary School
+          1	Magodi Nyirenda
+          1	Magomero
+          1	Magonyo
+          1	Magubidi
+          1	Magunditsa
+          1	Magunje
+          1	Magwelo schools
+          1	Magwero Mission
+          1	Magwero farm
+          3	Mahatma Gandhi Avenue
+          1	Maheya Village Path
+          1	Mahowe
+          2	Mailosi
+          1	Main Entrance to Mushroom Farm
+          1	Main Gate Nyala Park
+          1	Main Road
+          1	Main hide
+          1	Main lecture hall
+          1	Main pipe Mbiriwizi water system
+          2	Main road
+          1	Mainsa
+          1	Maintainance
+          1	Maize Garden
+          1	Maize Mill
+          7	Maize Silo
+          1	Majaua
+          1	Majaua Health Center
+          1	Majestic cottage
+          1	Majete Game Reserve, Camp Site
+          1	Majete Gate
+          1	Majete Wildlife Reserve
+          1	Makako Nkhambule
+          1	Makanani
+          1	Makanda
+          2	Makande
+          1	Makandi Tea Estate Health Centre
+          1	Makanga Aerodrome
+          2	Makanga Drive
+          1	Makanjila
+          1	Makata
+          1	Makata Hall
+          5	Makata Road
+          1	Makhanga
+          1	Makhanga EPA
+          1	Makhanga Market
+          1	Makhapa
+          1	Makhapa Football Ground
+          1	Makhapa Irrigation Scheme
+          1	Makhapna
+          1	Makho GVH
+          2	Makho Village
+          1	Makhuwila Nkhoma
+          1	Makhwira Health Center
+          1	Makina
+          1	Makumba
+          1	Makungwa Health Centre
+          1	Makuzi Beach Lodge
+          1	Makwasa
+          1	Makwasa Estate
+          1	Malabvi Forest Reserve
+          1	Malabvi Mountain
+          2	Malagwinjo JP School
+          7	Malambalala
+          1	Malambe
+          1	Malambo
+          1	Malambo OPD
+          1	Malamulo Rural Hospital
+          1	Malanga Road
+          1	Malangalanga
+          1	Malawakando
+          2	Malawi
+          2	Malawi Blood Transfusion Service
+          1	Malawi Catering Services
+          1	Malawi College Of Accountancy
+          1	Malawi College of Accountancy (M.C.A)
+          2	Malawi College of Accountancy (MCA)
+          1	Malawi College of Health sciences
+          1	Malawi Council for The Handicapped (MACOHA)
+          1	Malawi Customs
+          1	Malawi Defense Force, Kamuzu barracks.
+          1	Malawi Electoral Commission
+          1	Malawi Fertilizer Co
+          1	Malawi Fertilizer Company
+          1	Malawi Gaming Board
+          1	Malawi Goverment Office
+          1	Malawi Housing (MHC) houses
+          1	Malawi Institute of Management
+          2	Malawi Institute of Tourism
+          3	Malawi Museum
+          1	Malawi Police Lilongwe
+          1	Malawi Police Training College
+          2	Malawi RE Insurance Co. Ltd
+          2	Malawi Red Cross Society
+          3	Malawi Revenue Authority
+          1	Malawi Revenue Authority, Msonkho House
+          2	Malawi Rural Finance Compony (MRFC)
+          3	Malawi Savings Bank
+          1	Malawi Stock Exchange
+          1	Malawi Sun Conference Center
+          1	Malawi Sun Conference Centre
+          1	Malawi Sun Food Court
+          2	Malawi Sun Hotel
+          8	Malawi Sun Rooms
+          1	Malawi Telecom Limited
+          2	Malawi Telecommunication Ltd
+          1	Malawi Telecommunications Limited
+          1	Malawi Telecommunications Ltd.
+          1	Malawi college of forestry and wildlife
+          1	Malawian airline
+          1	Malema Camp
+          1	Malembo
+          1	Malemi
+          1	Maleri Islands
+          1	Maleule Siding
+          2	Mali Lagoon
+          1	Malichi Village
+          1	Malikopo
+          1	Malili
+          1	Malimba Lodge
+          1	Malindi
+          1	Malisawa Ngwira
+          6	Malo Primary School
+          1	Malomo
+          1	Malosa
+          1	Malosa Complex
+          1	Malosa Peak
+          1	Malothi
+          1	Malowa Estate
+          1	Maloya
+          1	Malunga Shop
+          2	Maluwa
+          1	Mama Chizumira's
+          1	Mama Efelo Lodge
+          1	Mama Kadija Islamic Girls Acadamy
+          1	Mamas Kitchen
+          1	Mambala
+          1	Mambala Stream
+          1	Mamera
+          1	Mamma Mia
+          2	Manchewe
+          1	Manchewe Falls
+          3	Manda
+          1	Mandala
+          1	Mandala Falls
+          1	Mandala Guesthause
+          1	Mandala House
+          1	Mandala Road
+          1	Mandimba Border
+          1	Manene
+          1	Mango Drift
+          1	Mango Grocery
+          1	Mango Point
+          2	Mangochi
+          1	Mangochi Aerodrome
+          2	Mangochi Forest Reserve
+          1	Mangochi Magistrate
+          1	Mangochi Martenity Wing
+          1	Mangochi SDA
+          1	Mangochi Secondary School
+          1	Mangoma
+          1	Mangombo River
+          1	Mangumbi
+          1	Mangunda
+          1	Mangunda Health Centre
+          1	Mangwalala
+          1	Mangweru Furnishers
+          1	Mangwina
+          1	Manja FP School
+          1	Manjanja Village
+          1	Manjawira
+          1	Manjolo
+          1	Manthulo
+          1	Mantino Complex
+          1	Manyamula
+          1	Manyani CDSS
+          2	Manyani Primary School
+          1	Manyenje
+          1	Manyowa
+          1	Manyowe
+          1	Manyumba
+          1	Map Library
+          1	Mapale Crescent
+          1	Mapale Health Centre
+          1	Mapalera
+          1	Mapalera Full Primary School
+          4	Mapalera River
+          1	Mapando
+          1	Mapanga Furniture
+          1	Mapemba
+          1	Mapiri Country Golf Lodge
+          3	Mapped Building
+          1	Mapundi
+          1	Mapuyu Road
+          1	Maranatha Pentecostal Church
+          2	Marek
+          1	Margareta
+          1	Maripela
+          1	Mark Restaurant
+          1	Marka
+          1	Marka General Dealers
+          2	Market Road
+          1	Market Street
+          1	Marketplace
+          1	Marmite Street
+          1	Marshall Road
+          1	Martha's Vineyard
+          1	Martin's Tasty Foods
+          1	Maryland Chicken
+          2	Masamba
+          2	Masanduko
+          1	Masanduko Primary School
+          1	Masangi
+          1	Masasa
+          1	Masasa Peak
+          6	Masauko Chipembere Highway
+          1	Masaula
+          1	Masaula EPA
+          1	Masawu Road
+          1	Masenjere
+          1	Masenjere Forest Reserve
+          2	Maseya
+          1	Masintha C. C. A. P.
+          1	Masita
+          4	Masjid
+          1	Masoo house
+          1	Master Products
+          1	Masuku Cottage
+          1	Masula
+          1	Matambale Peak
+          1	Matamia
+          1	Matandani Health Center
+          1	Matawa
+          1	Matawale
+          1	Matawale Health Center
+          1	Matechanga Guest House
+          3	Matema
+          2	Matema Beach Resort
+          1	Matema Beach View Lutheran Centre
+          1	Matema Ferry Stop
+          1	Matema Lutheran Hospital
+          1	Matema Primary School
+          1	Matema Waterfall
+          1	Matemba
+          1	Matengo
+          1	Maternity Ward
+          1	Mathiya Borehole
+          1	Mathiya Maize Mill
+          1	Mathiya Village Borehole
+          1	Mathoto
+          1	Matiki Health Center
+          1	Matinkhula
+          1	Matipa Forest Reserve
+          1	Matipula
+          1	Matipula River
+          1	Matiputa tributory
+          3	Matope
+          1	Matope Aerodrome
+          1	Matope Bridge
+          1	Matope Health Center
+          1	Matope Road Block
+          1	Matthijs Mansveld
+          1	Matu Hill
+          1	Matukuta
+          3	Matumba
+          1	Matumba Kadothi Full Primary School Holy Angels
+          1	Matumba Parish Priest House
+          1	Matunkha Lodge
+          1	Matunkha Safari Lodge and Campsite
+          1	Matunkha tank Mbiriwizi water system
+          1	Matutu Trading Center
+          1	Maugham Road
+          1	Maula Filling Station
+          1	Maula Pharmacies
+          1	Maula prison
+          1	Maunde Road
+          1	Maunde compund
+          1	Mauni CCAP church
+          1	Mauni CCAP churh
+          1	Mauni Community Day Secondary School
+          1	Mauni Primary School
+          1	Maveya Pitch
+          1	Maveya Secondary
+          1	Mawelewele
+          1	Mawerera Road
+          1	Mawira
+          1	Mayani
+          1	Mayere
+          1	Mayeya Primary
+          1	Mayilosi
+          1	Mayoka Village Lodge
+          1	Mazamba
+          1	Mazambuka Lodge
+          1	Mazongoza
+         12	Mazongoza Footpath
+          1	Mazweni
+          1	Mbabvi Road
+          2	Mbalame
+          1	Mbale
+          3	Mbalu 1
+          1	Mbalu 2
+          3	Mbamba Bay
+          1	Mbamba Beach
+          1	Mbamba Beach Lodge
+          1	Mbamba Beach Pool
+          1	Mbamba Pier
+          1	Mbambo
+          1	Mbame Estate
+          1	Mbapi
+          1	Mbawa
+          1	Mbayani Market
+          3	Mbayani road
+          1	Mbc
+          1	Mbelwa Hall
+          1	Mbelwa Street
+          1	Mbemba
+          1	Mbenje
+          1	Mbenjere Secondary School
+          1	Mbeya
+          1	Mbilizi
+          1	Mbinga
+          1	Mbingwa
+          1	Mbiriwizi main pipe
+          1	Mbizi
+          1	Mbobo
+          1	Mbobo Camp
+          1	Mbondo
+          2	Mbowe
+          1	Mbozongwa
+          1	Mbuka C.C.A.P Church
+          1	Mbuka C.C.A.P Primary School
+          1	Mbulumbuzi
+          1	Mbwetwe
+          1	Mbyia
+          1	Mbyia Pools
+          1	McKenzie Private School
+          3	Mchacha
+          1	Mchacha Road
+          1	Mchacha School
+          1	Mchema school
+          1	Mchenga
+          1	Mchenga Coal Mine
+          1	Mchenga Coal Mine LTD
+          1	Mchengautuba CCAP
+          1	Mcherenje Junior Primary School
+          1	Mchese Forest Reserve
+          1	Mchese Mountain
+          1	Mchezi CBO
+          3	Mchinji
+          1	Mchinji Airport
+          1	Mchinji Forest Reserve
+          5	Mchinji Mission CDSS (Secondary School)
+          1	Mchinji Mission Orphanage
+          1	Mchirazaguru
+          1	Mchochoma
+          1	Mchoka
+          1	Mchokela
+          1	Mdoka
+          1	Mdzeka Waterfall
+          1	Meat Connection
+          1	Medical
+          1	Medical Clinic
+          1	Mediterannio
+          3	Melemba Road
+          1	Memorial of "African Rifles"
+          1	Mercury Shop
+          1	Messa's Lodge
+        350	Metal
+          2	Metal sheet roof.
+          2	Metals
+          1	Metla
+          6	Metro
+          1	Metro Building
+          1	Metro Cash and Carry
+          1	Metro Peoples
+          1	Mfera
+          1	Mfera Health Center
+          1	Mfera School
+          1	Mgele 1
+          1	Mgoza Lodge
+          1	Mibanga
+          1	Mibawa
+          1	Mibawa Avenue
+          1	Mibawa Bus Stand
+          1	Mibawa Cafe
+          1	Mibwazi
+          1	Mibwazi Primary School
+          1	Mibwazi River
+          8	Michesi Primary School
+          2	Michiru Flats
+          1	Michiru Forest Reserve
+          1	Michiru Hotel
+          1	Michiru House
+          1	Michiru Mountain
+          1	Michiru Mountain Peak Trail
+          1	Michiru Office
+          4	Michiru Road
+          1	Michongwe Primary School
+          2	Midima Court
+          1	Midima Hill
+          6	Midima Road
+          1	Midima Roundabout
+          1	Midland Fast Food and Take Away
+          1	Midzemba Health Center
+          2	Migowi
+          1	Migowi Hospital Center
+          1	Migudu
+          1	Mijn Kitchen
+          1	Mikolongwe Health Centre
+          1	Mikolongwe Road
+          2	Mikongwe
+          1	Mikundi
+          1	Mile Stone Lodge
+          1	Milepa Health Centre
+          1	Milk Run
+          1	Millward Road
+          1	Milonde
+          1	Milonde I
+          1	Mimbelwa Road
+          1	Mimi's Restaurant
+          1	Mimosa
+          1	Mingambo Hill
+          1	Mini Market
+          1	Mini Mini
+          1	Mini Mini Estate
+          1	Mini Mini Factory
+          1	Minibus
+          1	Minibus Station
+          1	Minibus bound for Mzuzu, Mzimba, Kasungu
+          1	Minibus to northern suburbs
+          1	Ministry of Education, Science, and Technology - Nandanga O
+          1	Ministry of Finance
+          1	Ministry of Health
+          1	Ministry of Industry and Trade/Ministry of Gender
+          1	Ministry of Industry and Trade/Zimbabwe High Commission
+          2	Ministry of Info & Civic Education
+          1	Ministry of Labour and Social Development
+          2	Ministry of Lands and Housing - Department of Surveys
+          1	Ministry of Water Development and Irrigation
+          1	Minisupermarkt
+          1	Minoo's Dental Clinic
+          1	Minunu Hut
+          1	Minunu Path
+          2	Miondwe Drive
+          1	Miracle Church
+          1	Miracle Superrete
+          1	Mirale Forest Reserve
+          1	Miseo
+          1	Miseu Folo
+          1	Misuku
+          1	Misuku CCAP
+          2	Misuku CDSS
+          2	Misuku Coffee Cooperative
+          1	Misuku Courthouse
+          2	Misuku Health Centre
+          1	Misuku Lookout
+          1	Misuku Police Station
+          1	Misuku Post
+          1	Misuku Womens' Forum
+          1	Mitawi
+          1	Mitawi School
+          1	Mitch Pharmacy
+          2	Mitole CCAP Church
+          1	Mitole Full Primary
+          1	Mitole Primary School
+          1	Mitsubishi Motors
+          1	Mitundu
+          1	Mitundu Chipitala
+          1	Mitundu Estate
+          2	Mitundu Market
+          1	Mitundu Secondary School
+          1	Mizingo
+          1	Mjamba Park
+          1	Mjambe
+          1	Mjambe Ferry Stop
+          1	Mkanda
+          1	Mkango Lodge
+          1	Mkhalala
+          1	Mkili
+          1	Mkili Ferry Stop
+          1	Mkukula
+          1	Mkulamwendo
+          1	Mkule
+          2	Mkulumadzi (part)
+          1	Mkulumadzi Lodge
+          1	Mkungu Tree, under this tree Jumbe Salim Bin Abudala, the s
+          5	Mkurumadzi
+          2	Mkurumadzi Road
+          1	Mkutumula
+          1	Mkwanda
+          1	Mkwinda
+          1	Mlali
+          1	Mlambe Hospital
+          1	Mlambula Trading Centre
+          1	Mlanda
+          1	Mlanda Hill
+          1	Mlandang'ombe Chavula
+          1	Mlauli
+          2	Mlelemba Road
+          1	Mlembwe 2
+          1	Mlenga
+          1	Mleza
+          1	Mlinga
+          1	Mliwo
+          1	Mlodza L.E.A. School
+          1	Mlolo
+          1	Mlolo Borehole
+          1	Mlomba
+          1	Mlomba CCAP
+          1	Mlomba CDSS
+          1	Mlomba Market
+          1	Mlomba School Grounds
+          1	Mlondoma
+          1	Mlonyeni
+          1	Mlonza
+          2	Mlowe
+          7	Mlungusi
+          4	Mlunguzi
+          1	Mmanga
+          1	Mmanga 2
+          1	Mmanga Mosque
+          1	Mmanga Village
+          1	Mmola
+          1	Mnasi Executive Hotel
+          1	Mnyanga
+          3	Mocambique Ambassodorś Residence
+          2	Mocondo Camp
+          1	Modern Tiles
+          1	Moffat
+          1	Moffati
+          2	Moi Road
+          1	Moir Road
+          1	Mojowa
+          1	Molete
+          1	Moloseni
+          1	Moloseni Path
+          2	Moloseni Road
+          1	Mondwe
+          1	Money Men Sports Club
+          1	Monje
+          1	Monjo
+          1	Monkeda Shop
+          3	Monkey Bay
+          1	Monkey Bay Community Hospital
+          1	Monkey Bay Port
+          1	Monkey Bay Pre-High School
+          1	Monkey Bay Shipyard
+          2	Montessori Nursery School
+          1	Montessori Nursury School
+          1	Montfort Hospital
+          1	Monument
+          1	Moonekera
+          1	Moonkera
+          1	Moosas Mart
+         21	Mosque
+          1	Mothela Hill
+          1	Mothela peak
+          1	Mother Bunda
+          1	Motorbikes
+          1	Mount 90 years
+          1	Mount A Place Church
+          1	Mount Meru
+          1	Mount Mulanje
+          1	Mount Mvai
+          1	Mount Pleasant Road
+          1	Mount Pleasent Inn
+          1	Mount Soche
+          1	Mount Soche Hotel
+          1	Mozaland Market
+          1	Moçambique
+          1	Mpachawaine
+          1	Mpalapala Mountain
+          1	Mpalawe
+          2	Mpale River
+          1	Mpalo
+          1	Mpama Cemetry
+          1	Mpama Drive
+          1	Mpama Full Primary School
+          1	Mpamadzi
+          1	Mpamba
+          8	Mpambachulu F.P.school
+          2	Mpanda Peak
+          1	Mpanda Stage
+          2	Mpandeni
+          1	Mpando
+          1	Mpasa House
+          3	Mpata
+          1	Mpatamanga Gorge
+          1	Mpatsa House
+          1	Mpelekwa
+          1	Mpeya
+          1	Mphande
+          1	Mpharai Hills
+          1	Mphaseo Private School
+          1	Mphatiku
+          1	Mphatso Club
+          1	Mphatso Motel
+          1	Mphekesa
+          1	Mphepo house
+          1	Mpherapi
+          1	Mphetomwanyama
+          1	Mphetomwanyama street
+          1	Mphinzi
+          1	Mphomwa
+          1	Mphonde
+          1	Mphone Road
+          1	Mphonongo
+          1	Mphunga
+          1	Mphungu Primary and Secondary School
+          1	Mphungu Road
+          1	Mphunzi Hill
+          1	Mphunzi rock art area (unesco world heritage site)
+          1	Mphupyu Market
+          1	Mphwanya
+          1	Mpico car park
+          1	Mpilingidzo GVH
+          1	Mpinganjira
+          1	Mpingo
+          1	Mpingwe
+          2	Mpira
+          1	Mpira Dam
+          1	Mpiri Catholic Church
+          1	Mpiri Day Secondary School
+          1	Mpiri Health Centre
+          1	Mpiri Health Centre (Old)
+          1	Mpiri Primary School
+          1	Mpokosa
+          1	Mpomba
+          1	Mponda
+          1	Mpondasi
+          1	Mponela
+          1	Mponela Rural Hospital
+          1	Mponongo Airstrip
+          1	Mponya
+          1	Mporo
+          1	Mposa
+          1	Mposadala
+          1	Mpoto Lagoon
+          1	Mpunzi
+          1	Mputa
+          1	Mpyupyu Prison Farm
+          1	Mr Mpesa Residence
+          1	Mr. Chikafumbwa
+          1	Mr. Fraley
+          1	Mr. Mkandawire
+          1	Mr. Yanda's House
+          1	Msampatongwe
+          2	Msanjere Full Primary School
+          2	Msanjere Post Office
+          1	Msanjere River
+          1	Msenjere
+          1	Msia Primary School
+          1	Msitolengwe Forest Reserve
+          1	Msochi
+          1	Msokela Road
+          1	Msosa
+          1	Msowoya
+          1	Msunduluzi
+          1	Msunga CCAP
+          1	Msungama Building
+          1	Msungwi Farmers World
+          1	Msusa
+          1	Mt. Nkhunguni Peak Trail
+          1	Mt. Soche Hotel
+          1	Mtaja
+          2	Mtakataka
+          1	Mtakataka turn-off
+          1	Mtakatata Airport
+          3	Mtalika
+          2	Mtalika Village Dam
+          2	Mtambo
+          1	Mtandizi
+          2	Mtanga
+          1	Mtangatanga Forest
+          3	Mtangatanga Forest Reserve
+          1	Mtanila Primary School
+          1	Mtayambizi
+          1	Mtayamoyo Bridge
+          1	Mtema Garage
+          1	Mtemankhawa
+          1	Mtemwende
+          1	Mtendere
+          2	Mtendre Drive
+          1	Mtenthera primary school
+          1	Mthandile
+          1	Mthatha
+          1	Mthonda Catholic School
+          1	Mtima Primary School
+          1	Mtimbe Primary School
+          1	Mtl 1
+          1	Mtondo Primary School
+          2	Mtonga B shopping center
+          1	Mtonga Village
+          1	Mtonya
+          1	Mtosa
+          1	Mtsiriza 7th day Adventist Church
+          1	Mtsiriza Assembless of God
+          1	Mtsiriza CCAP Church
+          2	Mtsiriza Primary School
+          1	Mtumtama Drive
+          1	Mtusi Hill
+          1	Mua
+          1	Mua Livulezi Forest Reserve
+          1	Mua Mission
+          1	Mua Mission Church
+          1	Mua Mission Guesthouses
+          1	Mua Mission Hospital
+          1	Mua Mission Restaurant
+          1	Mubanga
+          1	Mubanga Forest Reserve
+          1	Muchinga Province
+         13	Mudi
+          1	Mudi Dam
+          1	Mufasa Backpacker Lodge
+          1	Mufasa Rustic Backpackers Camp
+          1	Mufatse Lodge & Camp Site
+          1	Mufwa Lodge
+          1	Mugg & Bean
+          1	Mughese Forest Junction
+          1	Mughese Forest Reserve
+          1	Mughese Primary School
+          1	Muhiyeni Club
+          1	Mujuma Nyasulu
+          1	Mulanbe lodge
+          4	Mulanje
+          1	Mulanje District Hospital
+          1	Mulanje Golf Club
+          1	Mulanje Golf Course
+          2	Mulanje House
+          1	Mulanje Market
+          1	Mulanje Mission Hospital
+          1	Mulanje Mission Road
+          1	Mulanje Motel
+          1	Mulanje Mountain Forest Reserve
+          1	Mulanje Pepper
+          1	Mulanje Police
+          1	Mulanje Post Office
+          1	Mulanje Prison
+          1	Mulanje Renewable Energy Agency
+          1	Mulanje Stadium
+          2	Mulanje View Motel
+          1	Mulima
+          1	Mulira
+          1	Mulomba River
+          3	Mulosa
+          1	Muloza
+          1	MultiChoice Blantyre - DSTV
+          1	Multichoice Digital Satellite TV
+          1	Mulungazi
+          1	Mulungu Alemekezeke
+          4	Mulunguzi
+          1	Mulunguzi Cottage
+          1	Mulunguzi Road
+          1	Mulunguzi Secondary School
+          1	Mulunguzi Sportsground
+          1	Mulunguzi river
+          1	Mulunguzu Dam
+          1	Mum's table
+          2	Mumbo Island
+          1	Mumbwe
+          1	Mumbwe Private Hospital
+          1	Munthama Road
+          1	Muona
+          1	Muona C.C.A.P Church
+          1	Muona Health Centre
+          1	Muona Lodge
+          1	Muona Magistrate Court
+          1	Muona Post Office
+          1	Muona Primary School
+          1	Muona Resource Centre
+          1	Muona Village Health Point
+          1	Muona Wholesale Traders
+          1	Muona irrigation Scheme Office
+          1	Mupelachisa Guest House
+         14	Muro
+          1	Murray Road
+          3	Mushroom Farm
+          1	Music Crossroads Centre
+          1	Musisi Forest Reserve
+          1	Musoda
+          2	Mustang Sally
+          1	Musunga Station
+          1	Muta Falls
+          1	Mutchaya
+          1	Muzu
+          2	Mvabvi Wilderness Area
+          1	Mvai Forest Reserve
+          1	Mvala
+          1	Mvera
+          1	Mvera Mission
+          1	Mvera Mission Hospital
+          1	Mvunguti
+          1	Mvunguti Primary Scool
+          1	Mvuu Campsite
+          1	Mvuu Lodge
+          1	Mvuu Loop
+          1	Mwacha
+          1	Mwachanda
+          1	Mwachedwa
+          1	Mwaiwathu Private Hospital
+          1	Mwakabighiri Village
+          1	Mwakasangira
+          1	Mwala wa Nkhondo
+          1	Mwalaphanda
+          1	Mwalasi River
+          1	Mwalingo
+          1	Mwalingo CCAP
+          3	Mwalingo Private Hospital
+          7	Mwambande Trading Center
+          1	Mwambezi
+          1	Mwambo Road
+          1	Mwamkiri
+          1	Mwamkumbwa Road Block
+          9	Mwamphanzi
+          1	Mwamupatwa Health Centre
+          1	Mwanakakula
+          1	Mwanakakula Assemblies of God Church
+          1	Mwanakakula Baptist Church
+          1	Mwananjobvu
+          1	Mwananjovu 2
+          1	Mwananjovu Evangelical Church
+          1	Mwananjovu Primary School
+          1	Mwananjovu SDA Church
+          1	Mwanda Peak
+          1	Mwandaza 1
+          1	Mwandaza 2
+          1	Mwanena
+          1	Mwanga
+          1	Mwangothaya Junior Primary School
+          1	Mwanjage
+          1	Mwanje River
+          1	Mwanjowa Village
+          1	Mwankundi
+          1	Mwansambo
+         14	Mwanza
+          1	Mwanza Secondary School
+          1	Mwanza Street
+          1	Mwanza police station
+          1	Mwase
+          3	Mwase Road
+          1	Mwasizi
+          3	Mwaya
+          4	Mwaya Primary School
+          1	Mwazaungu
+          1	Mwenda
+          1	Mwendanamphingo School
+          1	Mwenefumbo Village
+          1	Mwenera Transport
+          1	Mwenewawo Village
+          1	Mwenewenya
+          2	Mwenilondo
+          1	Mwenitete CCAP Church
+          1	Mwenitete Village
+          1	Mwetang'ombe
+          1	Mwimbi
+          1	Mwingitsa
+          1	My Take Away Palace - Indian food
+          2	Myanmar House
+          1	Myenyekondo market
+          1	Mzambwe Village
+          4	Mzilawaingwe
+         13	Mzimba
+          1	Mzimba Aerodrome
+          1	Mzimba Agricultural Development Division
+          1	Mzimba Police Station
+          1	Mzimba Prison
+          1	Mzimba River
+          3	Mzimba Road
+          1	Mzimba South District Hospital
+          8	Mzimba Street
+          1	Mzimu Woyera ndi Moto Church
+          1	Mzoozoozoo Backpacker's
+          2	Mzoozoozoo Backpacker's Lodge
+          1	Mzoozoozoo Backpackers Lodge
+          1	Mzuzu
+          1	Mzuzu Airport
+          1	Mzuzu Airport Terminal
+          1	Mzuzu Bus Station
+          1	Mzuzu Central Hospital
+          1	Mzuzu Coffee Den
+          1	Mzuzu Dry Cleaners
+          1	Mzuzu Golf Club
+          1	Mzuzu Hotel
+          1	Mzuzu Market
+          1	Mzuzu Police Station
+          1	Mzuzu Repowering Center
+          1	Mzuzu Sports Club
+          1	Mzuzu University
+          1	Mzuzu University Library
+          1	Mzuzu Wood Market
+          1	Médecins Sans Frontières
+          1	N'gonga
+          1	NASAHA
+          1	NB Bank
+          2	NBS
+         12	NBS Bank
+          1	NBS HOUSE
+          1	NBS Service Centre
+          1	NBS bank of malawi
+          1	NE Boundary
+          1	NEWLANDS HOME
+          1	NICO Life & Nico General
+          1	NKHOTAKOTA BOMA MARKET
+          1	NKHOTAKOTA DISTRICT HOSPITAL
+          1	NORAD
+          1	NRWB Office
+          1	NW Boundary
+          1	NYASA
+          1	NYASA   LAKE
+          1	Nachidambo
+          1	Nachilambo
+          1	Nachilambo Primary School
+          1	Nachinganda Primary School
+          3	Nachiwali
+          1	Nachuma
+          1	Nadulu
+          1	Nafafa Creek
+          1	Nafafa trading Centre
+          1	Naifulug Game Scout Camp
+          1	Naikoto Peak
+          1	Naisi
+          1	Naisi Health Center
+          1	Naisi Road
+          2	Nakalanzi Health Centre
+          1	Nakamba
+          1	Nakamba Hide
+          1	Nakasangere
+          1	Nakhwala
+          1	Nakodzwe Peak
+          1	Nakondwa Estate
+          1	Nakutepa
+          1	Nalikule teacher training college
+          1	Naliwomba
+          1	Namadidi Health Center
+          1	Namadidi Trading Center
+          2	Namadzi
+          1	Namadzunda"s Farmland
+          1	Namalaka
+          3	Namalani
+          1	Namame
+          1	Namame Primary School
+          1	Namanja
+          4	Namanthanga
+          2	Namanungu
+          1	Namasile
+          1	Namasile Massiv
+          1	Namatandala
+          2	Namatapa
+          2	Namatunu
+          1	Nambazi River
+          1	Nambiti
+          1	Nambuma
+          1	Namichimba River
+          1	Namikalango River
+          2	Namingala
+          1	Namingomba Tea Estate
+          1	Naminjale
+          4	Namitembo
+          1	Namitembo River
+          1	Namitende Estate
+          7	Namitete
+          1	Namitete Fuelstation
+          1	Namitete Street
+          3	Namitsempha Road
+          3	Namitsitsi
+          1	Namiwawa Avenue
+          1	Namiwawa Road
+          1	Namiyala Full Primary School
+          1	Namiyala Irrigation Scheme
+          1	Namizimu Forest Reserve
+          1	Namizimu Forest Retreat
+          1	Namizimu Rock
+          1	Namkara
+          3	Namkokwe
+          1	Namonde
+          1	Nampende
+          1	Namphungo
+          1	Namwagwa
+          1	Namwera
+          1	Namzeze rock art site (UNESCO world heritage site)
+          1	Nanchengwa Lodge
+          1	Nancholi
+          1	Nancy's Dream Restaurant
+          1	Nandalanda Massive
+          1	Nandalanda Peak
+          1	Nandiwo
+          1	Nandiwo Peak
+          3	Nandolo
+          1	Nangalinje River
+          1	Nanjri
+          1	Nankhaka Football Ground / Blue Eagles FC Pitch
+          1	Nankhali FPS
+          1	Nankhombe House (Volunteer House)
+          2	Nankhombe Street
+          1	Nankumba
+          1	Nankwhali Mission
+          2	Nansadi
+          1	Nansama
+          3	Nansolo
+          2	Naotcha CCAP church
+          1	Naotcha Primary School
+          1	Napasha
+          2	Naperi
+          1	Naperi Road
+          1	Nasato SDA
+          1	Nasite Football Ground
+          2	Nathenje
+          5	Nathenje River
+          1	Natinal Road Trafic
+          1	National Archives
+         20	National Bank
+          2	National Bank Car Park
+          1	National Bank Mulanje
+          4	National Bank of Malawi
+          1	National Bank of Malawi & ATM (VISA)
+          1	National Library (Blantyre)
+          1	National Library Service
+          1	National Maize Reserve
+          1	National Park Gate
+          1	National Statistical Office, MASEDA
+          2	National Statistics Office
+          1	National Statistics Offices
+          1	Natola Secondary School
+          1	Natural Resources College
+          1	Navikale Hills
+          1	Nayawani North
+          1	Nayawani South
+          2	Nayuchi
+          2	Nazombe
+          1	Nchacha Primary
+          1	Nchalo
+          1	Nchalo Medicine Shop
+          1	Nchalo Police Station
+          1	Nchalo Sports Club
+          1	Nchalo Sucoma Airport
+          2	Nchalo Sucoma Sugar Estate
+          1	Nchenachena
+          1	Ncheu Learning and Development Centre
+          1	Nchewere
+          1	Ndadzerakufa
+          1	Ndaiwala Rural Health Center
+          1	Ndalama
+          1	Ndatopela Guest House
+          1	Ndege
+          2	Ndelema
+          5	Ndemange School
+          1	Ndendyera Bar
+          1	Ndendyera Garden and fish ponds
+          1	Ndendyera Lodge
+          1	Ndeule
+          1	Ndindi
+          1	Ndirande Hill
+          1	Ndirande Hostel
+          2	Ndirande Ring Road
+          1	Ndirande View Executive Lodge
+          1	Ndirande forest
+          1	Ndiuzayani
+          1	Ndola Road
+          2	Ndoma
+          1	Ndowo Village
+          1	Nduna
+          1	Ndunde
+          1	Ndunde Hospital
+          1	Nduwa
+          1	Nduza Borehole
+          2	Nedbank
+          1	Nelly
+          1	Nelsan
+          1	Nelson
+          1	Nembe
+          1	Neno
+          1	Neno District Hospital
+          1	Neno Parish Health Center
+          2	Nessa
+          1	Nessa Path
+          1	Nestbank
+          1	Netball Pitch
+          4	New Apostolic Church
+          1	New Casablanca
+          1	New Chileka Road
+          1	New Era Boys
+          1	New Era girls
+          1	New Era main Hall
+          1	New Era primary school
+          1	New Exaldus Church
+          1	New Finance Bank Limbe
+          1	New Itungi Port
+          1	New Library
+          1	New Spot 9 Club
+          1	New States House, National Assembly
+          1	New TED
+          2	New Tar Hill
+          8	New Vision School
+          1	New peoples shop
+          1	Newlands
+          1	Ng'ombe kwana drive
+          1	Ng'ona Lodge
+          1	Ng'ona Lodge Malawi
+          1	Ngabu
+          1	Ngabu Quarry
+          1	Ngabu Rural Hospital
+          1	Ngaiwa
+          1	Ngaiyaye
+          2	Ngala
+          1	Ngala CDSS
+          1	Ngala Hill
+          1	Ngala Lodge
+          1	Ngala View
+          1	Ngala mountain summit
+          1	Ngala primary school
+          2	Ngamwani Shopping Centre
+          3	Ngana
+          1	Ngana Primary School
+          1	Ngana Ward Office
+          2	Nganda Peak
+          1	Nganja
+          1	Ngara
+          1	Ngara Hill Forest Reserve
+          1	Ngelenge
+          1	Ngena
+          3	Ngodzi
+          1	Ngokwe
+          1	Ngolomi
+          1	Ngolowindo Model School
+          5	Ngoma
+          1	Ngoma Drive
+          3	Ngombe
+          1	Ngondo Road
+          5	Ngonga
+          1	Ngonga Primary School
+          1	Ngonoonda
+          1	Ngonoonda Primary School
+          1	Ngulebule Falls
+          1	Nguludi
+          1	Nguludi Mission Hospital
+          1	Nguluyanawambe
+          1	Ngumbe
+          1	Ngwanji
+          2	Ngwata
+          1	Ngwata ADMARC
+          1	Ngwata Primary School
+          1	Ngwata Trading Centre
+          2	Ngwendema
+          1	Ngwennya
+          2	Ngwenya
+          1	Ngwenya Hill
+          1	Ngwenyama 1
+          1	Ngwenyama 2
+          1	Ngwerero EPA
+          1	Niassa
+          1	Nicholas
+          1	Nico Centre
+          1	Nigeria high commission
+          1	Nissan
+          1	Nissan Malawi
+          1	Njalam'mano
+          1	Njalayankhunda Game Scout Camp
+          1	Njale
+          1	Njale Road
+          2	Njamba
+          1	Njaya Lodge
+          1	Njaya lodge
+          1	Njela Hills
+          1	Njewa
+          1	Njewa Forest
+          1	Njiwa Road
+          1	Njobvu Loop
+          1	Njolo
+          1	Njolowiwo Earthbag Teacher House
+          1	Njombe
+          1	Njombwa
+          1	Njuci
+          1	Njuli
+          1	Nkalango Safari Camp
+          1	Nkanda Primary School
+          1	Nkangayawala
+          1	Nkavu
+          1	Nkaya
+          1	Nkhamenya
+          1	Nkhata
+          2	Nkhata Bay
+          1	Nkhata Bay Bus Station
+          1	Nkhata District Hospital
+          1	Nkhate
+          2	Nkhate River
+          1	Nkhokwe(Maize)
+          1	Nkhoma
+          1	Nkhoma Eye Clinic
+          1	Nkhoma Hospital
+          1	Nkhoma Mission
+          2	Nkhoma Mountain
+          1	Nkhoma Mountain Hut
+          1	Nkhoma Mountain summit
+          1	Nkhonde
+          1	Nkhonya
+          1	Nkhotakota
+          1	Nkhotakota Aerodrome
+          1	Nkhotakota Game Reserve
+          1	Nkhotakota Pottery
+          1	Nkhotakota Pottery Lodge
+          1	Nkhotakota Safari Lodge
+          2	Nkhulambe
+          1	Nkhunga
+          1	Nkhwewa
+          2	Nkoka
+          1	Nkolokoti Road
+          1	Nkombezi
+          2	Nkombezi Market
+          1	Nkombezi TC
+          1	Nkomeko
+          1	Nkondezi Junior Primary School
+          1	Nkope
+          1	Nkope Anglican Church
+          1	Nkope Football Ground
+          1	Nkopo
+          1	Nkopola
+          1	Nkopola Lodge
+          1	Nkopola Lodge Camp Site
+          1	Nkudzi
+          2	Nkula
+          1	Nkundi
+          1	Nkundika
+          1	Nkwadzi Forest Reserve
+          1	Nkwazi
+          2	Nkweza river
+          1	Nkwichi Community Day Secondary School
+          1	Nkwichi Lodge
+          1	Nkwichi Primary School
+          1	Nneno
+          1	No Farming No Life
+          1	Noah's ark nursery and daycare
+          1	Noble China
+          2	North Boundary
+          1	North Centre Road
+          1	North Peak
+         12	North Rukuru
+          1	North Rukuru Bridge
+          1	North Rumphi
+          1	North Thicket Hide
+          1	North Thicket Road
+          1	North-South
+          1	Northern Region
+          1	Northern Region Water Board
+          1	Noshahi
+          1	Not known yet
+          1	Nota
+          1	Nota Grocery
+          1	Nova Vita
+          1	Npasha
+          1	Npasha Borehole
+          1	Npasha Graveyard
+          1	Nsafiri
+          1	Nsalawatha
+          1	Nsambe Rural Health Center
+          1	Nsambo
+          1	Nsambo Village Borehole
+          1	Nsambo Village Health Point (MoH)
+          1	Nsanama street
+          1	Nsandu
+          1	Nsangu
+          1	Nsangwe
+          1	Nsanjama Primary School
+          3	Nsanje
+          1	Nsanje Airport
+          1	Nsele Primary School
+          1	Nselema
+          1	Nsepete
+          1	Nsepete Hide
+          1	Nseula
+          1	Nsipe
+          1	Nsisi Primary School
+          1	Nsomba Estate
+          2	Nsonde
+          3	Nsulira River
+          1	Nsuwadzi
+          1	Nsuwadzi Aerodrome
+          1	Nswasa Estate
+          3	Ntaja
+          1	Ntaja Health Centre
+          1	Ntaja Health Post
+          1	Ntaja Hospital Center
+          2	Ntaja Road
+          1	Ntakisya
+          1	Ntambanyama
+          1	Ntangai
+          1	Ntayakhasu Stream
+          3	Ntayandodo
+          1	Ntchacha
+          1	Ntchemakazi Restaurant
+          2	Ntcheu
+          1	Ntcheu District Hospital
+          1	Ntcheu Street
+          1	Ntcheu soccer ground
+          2	Ntchisi
+          1	Ntchisi Airport
+          1	Ntchisi Forest
+          2	Ntchisi Forest Lodge
+          1	Ntchisi Hospital
+          1	Ntchisi Street
+          1	Ntela
+          1	Ntengemanga Water Point
+          1	Ntenjera
+          1	Nthalire
+          1	Ntholoa
+          1	Nthondowa-Damiyano Path
+          1	Nthumba
+          1	Ntingala
+          1	Ntipe
+          1	Ntobwa
+          2	Ntonda Road
+          1	Ntonya Hill
+          1	Ntonya Hills
+          1	Ntonya Pvt School
+          1	Ntuluko Health Facility
+          1	Ntuluko Mosque
+          1	Ntumbula
+          2	Ntumbula Graveyard
+          1	Ntumbula Vge
+          1	Ntundu
+          1	Ntuwana
+          2	Nugudzi River
+          5	Nursery School
+          1	Nyagra Estate
+          1	Nyaikha
+          1	Nyaikha Borehole
+          2	Nyakanyanja Stream
+          1	Nyakoko
+          1	Nyala Lodge
+          1	Nyala Lodge Camp Site
+          1	Nyala Loop
+          1	Nyala Park
+          1	Nyala Park Camp Site
+          1	Nyala Road
+          1	Nyalabvi
+          1	Nyama World
+          1	Nyama world
+          1	Nyambadwe
+          1	Nyambalo GVH
+          1	Nyamitalala
+          1	Nyamithunthu Primary School
+          1	Nyang'a
+          1	Nyanja
+          1	Nyanja Cottage
+          1	Nyasa Food Processing Machinery & Fishery
+          1	Nyasa Hotel
+          1	Nyika Hostel
+          2	Nyika National Park
+          1	Nyombe
+          2	Nyungwe
+          1	Nyungwe Hospital
+          1	Nyungwi Girls Catholic Secondary School
+          1	OBR
+          2	OG Issa Photo Studio
+          1	OI Tech Solutions
+          1	OPD 1
+          1	OPD 2
+          1	OVOP antenna shop
+          1	Oasis life Ministry
+          1	Occupational Health (OH) Office - Illovo
+          1	Office Kwanjo Wholesalers
+          1	Office World
+          1	Offices & Classes
+          1	Old Anglican Church
+          1	Old Bandawe Mission,Thipura church
+          1	Old Bishops House
+          1	Old Grave Yard
+          1	Old House
+          1	Old Itungi Port
+          1	Old Library
+          1	Old Lilongwe Airport
+          1	Old M14
+          1	Old Mountain Road
+          2	Old Mutual
+          1	Old Naisi
+          1	Old Parliament
+          1	Old Road
+          1	Old Town Mall
+          1	Old Town Roundabout
+          1	Old watch tower
+          1	Oli Flower nursery
+          1	One Acre Fund
+          1	One Love
+          2	One Stop Pharmacy
+          1	Only God Answers
+          1	Open Air Market
+          8	Open Arms Infant Home
+          2	Open Street Market
+          1	Open Theatre
+          1	Open air Goat meat butcher
+          1	Open field
+          1	Open space viewpoint E. 1678 m.
+          4	Opportunity Bank
+          1	Orchid cafe
+          1	Oriental Lodge & restaurant
+          1	Oriental Travel Agent
+          1	Orthodox Christian Missionary Centre
+          1	Osiyana Path
+          1	Osiyana Road
+          1	Osman Hardware & General Suppliers
+          1	Othambwe
+          2	Other Roads
+          1	Otter Point
+          1	PA Bakery
+          1	PALICHIWAWA BUILDING
+          1	PANGAPANGA A42-2-283
+          1	PATH
+          1	PCM
+          1	PEA House
+          1	PEMBA
+          1	PEP
+          1	PEP Clothing Store
+          2	PEP Store
+          1	PHARMALIFE Pharmacies Ltd
+          1	PIH Guesthouse
+          1	PIH guesthouse
+          1	PIJO House
+          1	PLANT AND VEHICLE HIRE ORGANISATION 
+          2	POOL
+          1	PSI Malawi
+          1	PTC
+          1	PTC Supermarket
+          1	PTC nsungwi
+          1	PUMA
+          1	PUMA ffilling station
+          1	PVHO
+          1	Pa Mbowe
+          1	PaJokala
+          1	Pachanya Grocery
+          1	Pacific Hotel
+          1	Pacific Mall
+          1	Pacific Shopping Mall
+          1	Pact
+         11	Pad
+          1	Padzuwa
+          1	Pagat Mall
+          1	Paiwa Dam
+          1	Pajo
+          1	Pak Hardware
+          1	Pakachere Backpackers & Creative Centre
+          1	Pali Stationery
+          1	Palm Beach Lodge
+          1	Palm Beach Rest Camp
+          1	Palms lodge
+          1	Pamthuzi Mini Shop
+          1	Panele solarne / Solar panels
+          1	Panga
+          1	Pangapanga
+          1	Pangapanga Residence Zomba-Upper Darful
+          1	Pangapanga Residence-Off Bunda Road
+          1	Pangeti
+          1	Panjira Lodge
+          1	Panorama General Dealers
+          1	Papaya
+          1	Parachute Battalion Pitch
+          1	Paramount academy
+          1	Paris
+          1	Park
+          2	Parking Chichiri Shopping Mall
+          1	Parking Limbe Market
+          4	Parking Lot
+          1	Parklane Industry
+          1	Parliament
+          1	Parliament Building
+          1	Parokia Katoliki Lumbila
+          1	Parokia Katoliki Lupingu
+          1	Parteners Church
+          1	Parteners in Christ
+          1	Parth
+          1	Partner Clinic
+          1	Partners
+          1	Partners In Health Friendship House
+          1	Partners In Hope
+          1	Partners in Hope
+          1	Party home
+          1	Pasfic Lodge
+         65	Path
+          1	Path Into living area
+          1	Paths
+          1	Patrick Welding Shop
+          4	Paul Kagame Road
+          1	Paulosi
+          1	Peace Corps
+          1	Peanut Butter plus Jesus
+          1	Pedros Lodge
+          1	Pelete
+          1	Pemba
+          1	Pemba CBO
+          1	Pemba Moto Village
+          1	Pemba Village Cemetary
+          1	Pende 1
+          1	Pende 2
+          1	Pende-Chikhambi
+          1	Pende-Chikwawa road
+          1	Pendwe
+          1	Pentacostal Church
+          1	Pentecoastal Church
+          1	Pentecost Church
+          1	Pentecostal Church of Malawi
+          1	People
+          2	People's
+          1	People's Market
+         21	Peoples
+          2	Peoples Express
+          1	Peoples Free Parking
+          1	Peoples Metro
+          1	Peoples Super Save
+          1	Peoples Trading Center
+          1	Peoples Trading Centre
+          1	Pepe River
+          1	Perekezi Forest Reserve
+          1	Perekezi Hill
+          1	Perfect Lodge
+          1	Perfect Nails & Beauty
+          4	Permaculture Garden
+        406	Permanent
+         37	Permanent Building
+        212	Permanent Dwelling Unit
+          1	Peter's Lodge
+         13	Petroda
+          1	Petroda Filling Station
+          1	Petroda Fuelstation 01
+          1	Petroda Fuelstation 02
+          1	Petroda Fullstation
+          1	Petroda House
+          6	Phalombe
+          1	Phalula
+          1	Phambala Road
+          1	Phapa CCAP
+          1	Phapa Clinic
+          1	Phapa Full Primary School
+          2	Phapa pre-school
+          1	Pharma Plus Pharmacy
+          1	Pharmacy
+          1	Pharmalife Pharmacies Ltd
+          1	Pharmcare
+          1	Phereni
+          1	Phirilongwe Forest Reserve
+          2	Phoenix International Primary School
+          1	Phoenix Pool
+          1	Phoenix School Sportfield
+          1	Phoka
+          1	Phwadzi
+          1	Phwangwa
+          1	Phwedzi
+          1	Physical Planning HOD office
+          1	Pick A Part
+          1	Pick Fit Tires
+          1	Pier to water pump?
+          2	Pig
+          3	Pig pen
+          4	Pigeon
+          1	Pigeons
+          2	Pigs
+          1	Pilgrims Lodge
+          1	Pindula Estate
+          1	Pine Tree Lodge
+          1	Pioneer Drive
+          1	Pirate's Casino
+          1	Pirimiti Community Hospital
+          1	Pizza
+          2	Pizza Inn
+          1	Planet Car Hire
+          1	Plascon
+          1	Plateau Horse Riding
+          1	Plateau Stables
+          1	Plateau stables
+          1	Platinum
+          1	Platinum Restaurant
+          1	Play Ground
+          1	Playground
+          1	Plumbing and Hardware Centre
+          1	Police Academy
+          1	Police Hanger
+          1	Police Headquarters
+          1	Police Station
+          1	Police Victim Unit
+          1	Police office
+          1	Pond
+          1	Ponderane
+          8	Pool
+          1	Popcorn Chips
+          2	Post Office
+          1	Post graduate block
+          1	Posto da policia da fronteira
+          2	Potato Path
+          2	Presbyterian Church
+          1	President Dr. H.K Banda's Grave
+          1	President Hotel
+          1	Presidential Ceremonial Ground
+          2	Presidential Hotel
+          1	Presidential State House
+         20	Presidential Way
+          1	Presidential palace
+          1	Press Properties Limited
+          1	Priest Guest House Lodge
+          5	Primary School
+          1	Primary School Borehole
+          1	Primary School Njolowiwo
+          1	Primary school
+          1	Prison Staff Acadamy
+          1	Production buildings
+          1	Programmes Coordinating Office
+          1	Proto Chicks
+          1	Public Primary School
+          1	Puit
+          1	Pulikani
+         22	Puma
+          1	Puma - Maula Filling Station
+          1	Puma Chitawira Filling Station
+          1	Puma Energy
+          1	Puma FIlling Station
+          2	Puma Filling Station
+          1	Puma Fuel Station
+          1	Puma Kanengo
+         14	Pump
+          2	Pump House
+          1	Pump borehole
+          1	Pumula
+          1	Pumulani
+          2	Pwadzi
+          6	Pwazi
+          2	Pwazi Estate
+          3	Quarry
+          1	Quarter Bistro
+          3	Quaters
+          1	Queen Elizabeth Central Hospital
+          1	Queen Victoria Memorial Tower
+          1	Queen's View
+          1	Queens Park
+          2	Queens Road
+          1	Quick Save
+          1	Quicktrack
+          1	Quton
+          1	R.M. Stationery Supplier
+          1	RAIPLY Sawmill
+          2	RTC
+          1	Rabie op de zon
+          1	Rainbow
+          1	Rainbow play school
+          1	Rainfall Station
+          1	Rajani Suppliers
+          1	Ranchi
+          1	Rangely Gardens
+          1	Rastaman Bridge
+          1	Rathdrum Farm
+          1	Ravel Building
+          1	Raynor Avenue
+          1	Reception
+          1	Rectangular Box
+          1	Red
+          1	Red Pepper Bar and Restaurant
+          1	Red Zebra
+          1	Red Zebra Lodge, Kambiri Point
+          1	Red Zebra Restaurant
+          1	Reds Pub and Grub
+          1	Regional Immigration Office
+          1	Regional Road Traffic Directorate (Central)
+          1	Remero
+          1	Renergen Fullstation
+          1	Resedential Road
+          2	Reserve Bank
+          2	Reserve Bank Car Park
+          1	Reserve Bank of Malawi
+          1	Residence of T/A Mwenemisuku
+          1	Residence: Federal Republic of Germany
+          1	Residence: Norwegian Ambassador
+         71	Residential
+          1	Residential Area
+          3	Residential house
+          1	Residential house-private
+          1	Residential land
+          1	Rest house Kamwendo
+          1	Restaurant & Tea Room
+          1	Reunion insurance
+          1	Rhino Sanctuary
+          5	Ring Road
+          1	Rio Luia
+          4	River
+          1	River Crossing
+          1	Riverside Hotel
+          1	Riverside flats
+          1	Rivirivi
+         32	Road
+          3	Road Block
+          1	Road Traffic
+          1	Road Traffic Directorate Natinal Headquarters
+          1	Road junction
+          1	Road to Cafeteria and Hostels
+          1	Roads
+          1	Roads Authority
+          1	Robert Laws School
+          1	Robert Thornton's Grave
+          1	Robin Pope Safari
+          1	Robin Pope Safaris
+          1	Robins Park
+          1	Robins Road
+          1	Rock Paintings
+          1	Rock painting
+          1	Rode
+          1	Rogers Home
+          1	Roman Catholic
+          3	Roman Catholic Church
+          1	Roman Catholic Church (under constr)
+         30	Roof, Permanent
+        293	Roof, permanent
+          8	Roof=Permanent
+          2	Rooms
+          2	Roscher Youth Development Centre
+          1	Roscher Youth Development Centre (RYDC)
+          1	Rose Chibambo Crescent
+          1	Rose restaurant
+          1	Round About
+          1	Royal Dental Clinic
+          1	Royal Hills Apartments
+          1	Royal Norwegian Embassy
+          1	Ruarwe
+          1	Ruhuhu
+          1	Rukuru Point
+          3	Rumphi
+          1	Rumphi District Hospital
+          2	Rumphi Police station
+          1	Rumphi Stadium
+          1	Runyina
+          6	Ruo
+          1	Ruo Estate
+          1	Ruo Hydro Power
+          1	Ruo Trading Center
+          1	Ruo Valley Forest
+          4	Rusa
+          1	Rusa Hardware Centre
+          1	Ruvirimbo
+          1	Ruvuma
+          1	Ruvuo Forest Reserve
+          2	Ruvuo River
+          1	Ryalls Hotel
+          1	S
+          1	S.Black General Supplies
+          1	S.D.A. Church
+          1	S101
+          1	S106
+          1	S124
+          1	S136
+          1	S146
+          1	S151
+          3	S369
+          1	SADC 19 (eastbound)
+          1	SADC 19 (westbound)
+          1	SADC 20 (eastbound)
+          1	SADC 20 (westbound)
+          1	SADC 25 (northbound)
+          1	SADC 25 (southbound)
+          1	SADC 28 (northbound)
+          1	SADC 28 (southbound)
+          1	SADC 29 (eastbound)
+          1	SADC 29 (westbound)
+          1	SANA
+          1	SANA Cash and Carry
+          1	SDA
+          3	SDA Church
+          2	SHOP
+          1	SHOPPERS
+          2	SHOPS
+          1	SHOW
+          1	SJCP Liquor Store
+          1	SOBO
+          1	SOGECOA
+          1	SOS Children's Village
+          1	SOS river
+          1	SOSI
+          1	SOSOSO bus
+          1	SP Industries
+          2	SPAR
+          1	SPAR Supermarket
+          1	SSAP
+          1	STD 2 Classrooms
+          1	STD 3 & 6 Classrooms
+          1	STD 4 Classroom
+          1	STD 4 Classroom (construction)
+          1	STD 5 Classroom
+          1	STD 5 Classrooms
+          1	STD 7 & 8 Classrooms
+          1	STD 7/8 Classrooms
+          1	STEREO
+          1	SULSDEC
+          2	SW Boundary
+          1	SW Boundary Road
+          2	Sadiki
+          2	Safari Beach Lodge
+          1	Safina Restaurant
+          2	Saidi Matola
+          1	Saint 1 Primary School
+          1	Saint Andrew Chapel
+          1	Saint Annie Roman Catholic Church
+          1	Saint Augustine Primary School
+          1	Saint Monica Girls Secondary School
+          1	Saint Montfort Bookshop
+          1	Saiti
+          1	Salafosi
+          1	Salambidua
+          3	Salim & Associates Legal Consultants
+          3	Salim Armour Road
+          4	Salima
+          1	Salima Aerodrome
+          1	Salima Bus Depot
+          1	Salima District Hospital
+          1	Salima Technical College
+          1	Salima turn off (buses bound for Salima)
+          1	Salima turn off (for old town)
+          1	Saloma Bus Station
+          1	Salon Mistique
+          1	Salujeni
+          1	Salvation Army
+          1	Salvation Army Nsanje Office
+          1	Samama
+          1	Sambani
+          1	Sambani Forest Reserve
+          1	Sambani Hill
+          1	Sambani Lodge
+          1	Sampale
+          1	Samson
+          2	Samuelova 50
+          1	Sana
+          1	Sana Mega Save
+          2	Sana Supermarket
+          1	Sana Superstore
+          1	Sanctuary Police Unit
+          2	Sandama
+          1	Sande
+          1	Sande Graveyard
+          1	Sanders Road
+          1	Sangala
+          1	Sangilo
+          1	Sangilo Sanctuary Lodge
+          1	Sanglio Primary School
+          1	Sanguya Messa's Lodge
+          1	Sani
+          1	Sani Beach Resort
+          1	Sanjika
+          1	Sanjika Estate
+          1	Sanjika Palace
+          1	Sankhawekha Store
+          1	Sankhwi River
+          1	Sankulani
+          1	Santa Plaza
+          1	Santa Plaza Restaurant
+          2	Santhe
+          1	Sanwecka Tech Companions
+          1	Sapesa
+          1	Sapitwa
+          1	Sapitwa Massive
+          1	Sarmaa Investment
+          1	Satemwa Tea Estate
+          1	Satoguru
+          1	Savala
+          1	Savala Graveyard
+          1	Savani Peak
+          1	Save the Children
+          1	Saventh Day Adventist Church
+          1	Sawmill
+          2	Sayama Factory
+          1	Sayama Tea Estate
+          1	Sayidi
+         19	School
+          1	School Bell
+          1	School Feeding Shelter
+          3	School Garden
+          1	School Grounds
+          1	School Kitchen
+          1	School of Aviation
+          1	Scouts Hut
+          1	Scripture Union Malawi
+          1	Scudamore & Dickenson's grave
+          1	Sea breeze bar
+          1	Second Hand Market
+          1	Second tank Mbiriwizi water system
+          2	Secondary School
+          1	Secret Road
+          1	Secundary School
+          1	Security Guard
+          1	Security Office
+          1	Security Tech
+          1	Sedeka Cemetery
+          1	Seedco Head Office
+          1	Sefu road
+          1	Sekani
+          1	Sekeni 1
+          1	Sekwere estate
+          1	Seleman
+          1	Selous Drive
+         28	Sem_ Permanent
+          3	Semi Permanent
+          1	Semi Permanent Dwelling Unit
+          1	Semi Permanent Mosque
+         43	Semi permanent
+          3	Semi-Permanent
+         85	Semi-Permanent Dwelling Unit
+          1	SemiTrailers
+         16	Semipermanent
+          1	Semu
+          1	Senga
+          1	Senga Hills Forest Reserve
+          1	Senzani
+          1	Serendipity Lifestyle Cafe
+          1	Serenity Essence of Luxury
+          1	Service Centre
+          1	Service road
+          2	Settling Tank
+          1	Seven Eleven
+          1	Seventh Adventists Church
+          7	Seventh Day Adventist
+          2	Seventh Day Adventist Church
+          1	Seventh Day Adventist Hospital
+          1	Seventh Day Adventist Mission
+          2	Seventh-Day Adventist Church
+          1	Seventhday Adventist
+          1	Seventhday Adventist Church
+          1	Seventhday adventist helth centre
+          1	Several buildings
+          1	Sewage Waste Disposal
+          1	Shakespeare Hall
+          1	Shallow-well
+          1	Shamber Complex
+          1	Shanghai shopping centre
+          1	Sharpe Avenue
+          2	Sharpe Road
+          1	Sharrar Road
+          1	Sheafer Hall
+          1	Sheafer ICA
+          1	Sheba's
+          4	Shed
+          2	Shed No. 3
+          3	Shed?
+          2	Sheketeni
+          1	Sheketeni Football Ground
+          1	Shekina Mission
+          1	Shifa Hospital
+         32	Shire
+          1	Shire Chikwawa @ Kamuzu Bridge Hydrological Gauging Station
+          1	Shire Highlands Hotel
+          1	Shire Lodge
+          1	Shire Loop
+          1	Shire North Siding
+          3	Shire River
+          2	Shire river
+          1	Shisha Cafe
+          1	Shooting range
+         19	Shop
+          1	Shopping Arcade
+          5	Shoprite
+          1	Shoprite U-Save
+          1	Shoprite Usave
+          1	Shoprite shoping mall
+          1	Shrine
+          1	Sibweni
+          1	Siesta by Everest
+          3	Sikidi
+          1	Silamwezi Hill
+          1	Silimoni
+          1	Silo - food store
+          1	Silver Stadium
+          1	Silver studium
+          1	Silver_Strikes_FC_Pitch
+          1	Simama Hotel
+          1	Simlemba
+          1	Simon
+          1	Simon's Village
+          1	Simoni
+          1	Simpsons Peak
+          1	Sinbako Lodge
+          1	Sinclair Avenue
+          1	Sinosi
+          1	Sinyala
+          1	Sir Glyn Jones Avenue
+          1	Sir Glyn Jones Road
+          1	Sir Harris Assembly Hall
+          1	Sir Harris Swimming Pool
+          1	Sir Harry Johnston International School
+          1	Sir Harry's Sports Ground
+          2	Sir Martin Road
+          1	Site for Anglican Church of Ascension Parish
+          1	Site for irrigation scheme employees
+          1	Sitima Parish Catholic Church
+          1	Sitole
+          1	Six Miles Trading Center
+          1	Siyabu
+          1	Skyband ISP
+          1	Skyline
+          1	Skyline Path
+          1	Slug
+          4	Small house
+          3	Smythe Road
+          1	Snyy Side SDA
+          1	Soccer Field
+          1	Soche
+          1	Soche East Road
+          1	Soche Mountain
+          1	Soche Pvt
+          1	Soche SDA Church
+          1	Soil Science Lab
+          1	Soil Science Offices
+          1	Solar_operated_well
+          1	Somanje Estate
+          1	Somba
+          3	Sombani
+          1	Sombani Hut
+          1	Somisomi
+          1	Songa
+          3	Songani
+          1	Songea-Mbamba Bay
+          1	Songwe Lookout
+          4	Songwe River
+          1	Songwe Road
+          1	Songwe border control
+          1	Sopping mall
+          1	Sorgin
+          1	Sosola
+          1	Sososo Bus Station
+          1	Soul Kitchen
+          1	South Africa High Commission
+          1	South African High Commission
+          1	South African High Commission Residence
+          1	South Boundary
+          1	South Peak
+         32	South Rukuru
+          2	Southend School
+          2	Southern Bottlers
+          1	Southern Bottlers Ltd
+          1	Southern Bottles Depot
+          1	Southern Entrance
+          1	Southern Highlands
+          1	Southern Region
+          1	Souvenir Shops
+          1	Souvenir's market
+          1	Souvenirshop
+          1	Spar Lodge
+          1	Special Needs School
+          1	Speedy's Meat Mart
+          1	Spice Traders
+          1	Sport Centre
+          1	Sports Complex
+          1	Sports Ground
+          1	Sports ground
+          1	Spot 9 Night Club
+          1	Spur
+          1	Sputonik car hire
+          1	Squash Court
+          1	Squash Hall
+          1	St Columba Primary School
+          1	St Francis Catholic Church
+          1	St James CCAP
+          1	St James CCAP Church
+          1	St John the Baptist Parish
+          1	St Mary Catholic Church
+          1	St Mary' Boys
+          1	St Michaels CCAP Church
+          1	St Moses Private Secondary School
+          1	St Norbert Catholic Church
+          1	St Patricks, Jack And Jill Nursery School
+          1	St Paul's Cathedral
+          1	St Pauls CCAP Church
+          1	St Peters
+          1	St Pius Cathedral
+          1	St Pius School
+          1	St Theresa Pvt School
+          1	St. Andrew's Primary
+          1	St. Andrews Close
+          1	St. Andrews Pool
+          1	St. Andrews Secondary School
+          2	St. Andrews Street
+          1	St. Anne's Hospital
+          1	St. Anthony's Major Seminary Kachebere
+          1	St. Augustine's Parish
+          1	St. Bernadetha Srs. Hotel
+          1	St. Columba CCAP Church
+          2	St. Davids Street
+          1	St. Francis Catholic Primary School
+          1	St. George Street
+          1	St. James
+          1	St. John of God College of Health Sciences
+          1	St. John of God House of Hospitality
+          1	St. John's Hospital
+          2	St. Jones Secondary School
+          1	St. Joseph
+          1	St. Joseph's Teacher Trainings College
+          1	St. Louis Secondary School
+          1	St. Matthias Parish
+          1	St. Patrick's Seminary
+          1	St. Peter's Cathedral
+          1	St. Peter's Guesthouse
+          1	St.. Mary's
+          1	St.Patricks Catholic Parish
+          1	Staff Car Park
+          1	Staff Room
+          1	Staff Room and Library
+          4	Staff Toilets
+          1	Staff Toilets (Men)
+          1	Staff Toilets (Women)
+          1	Staff only
+          1	Staffordshire Road
+          1	Standard
+         19	Standard Bank
+          1	Standard Bank & ATM (VISA / MASTERCARD / MAESTRO)
+          1	Standard Bank ATM
+          1	Standard Bank Ginnery Corner
+          1	Standard Bank of Malawi
+          1	Standard and MSB Banks
+          1	Standard bank
+          2	Stansfield Motors
+          4	State House
+          1	State House Health Center
+          1	Sted
+          1	Steel Base Furnitures
+          4	Steers
+          1	Steers Gardens
+          1	Steka
+          1	Stella Maris Catholic Girls Secondary School
+          1	Stella Maris Cemetary
+          1	Step By Step Salon
+          2	Stephen Street
+          1	Steve's Borehole
+          1	Steven Kastom Chisuswa
+          1	Stewart Street
+          1	Stima Inn
+          1	Stonehouse Museum
+          6	Stream
+          1	Street Market
+          1	Stuart Grants Fish Farm
+          1	Stuart's Fish Farm
+          1	Students dorm
+          1	Subaru
+          1	Sumani
+          1	Sumani Village Graveyard
+          1	Sumuka Inn
+          1	Sun Village Lodge
+          1	Sunbird Capital Hotel
+          1	Sunbird Hotel
+          2	Sunbird Ku Chawe
+          1	Sunbird Thawale Lodge
+          1	Sunga Moyo
+          1	Sungawana Guesthouse and Restaurant
+          1	Sungu Beach Bar
+          1	Sunnyside
+          1	Sunnyside Lodge
+          1	Sunrise Hill
+          1	Sunrise Pharmaceuticals
+          1	Sunseed oil malawi limited
+          2	Sunset Deck
+          1	Sunset rock E. 1455 m.
+          1	Sunshine Lodge
+          1	Super Auto Parts Center
+          1	Super Halaal Butchery
+          1	Super Saver
+          1	Superior Supermarket
+          1	Supermarket
+          1	Supplies
+          1	Surgery Hospital
+          1	Suza
+          1	Sweet Saviour
+          3	Swimming Pool
+          1	Symon
+          1	T 417
+          1	T&D Guesthouse
+          1	T&P restaurant & take away
+          1	T-splitsing
+          1	T.K. Hardware
+          1	T/A Office
+          2	T301
+          1	T302
+          1	T303
+          8	T306
+          6	T309
+          1	T310
+          4	T312
+          1	T313
+          1	T318
+          2	T323
+          3	T325
+          3	T328
+          2	T330
+          1	T331
+          1	T333
+          5	T341
+          1	T346
+          4	T372
+          1	T373
+          4	T374
+          3	T377
+          3	T381
+          3	T385
+          8	T396
+          6	T397
+          5	T398
+          1	T405
+          4	T406
+          3	T411
+          9	T414
+         11	T415
+          5	T416
+          3	T418
+          4	T419
+          4	T420
+          1	TAFATATHA
+          1	TASTY BITES
+          1	TDC
+          1	TEEM National Office
+          1	TESCO
+          1	TJ's Bar
+          1	TNM
+          1	TOTAL Fuelstation 04
+          1	TOTAL Malawi
+          1	TOTAL fuelstation 03
+          1	TOYOTA Malawi　lilongwe branch
+          1	TPB
+          1	TUMBWE
+          1	Tafatatha
+          1	Tailershop
+          1	Tailrace
+          1	Tallular Bank
+          1	Tama house
+          1	Tamampine
+          1	Tamarind Club
+          1	Tambala
+          1	Tambo
+          1	Tanzania
+         15	Tanzania - Malawi
+          1	Tanzania - Mozambique
+          3	Tanzania - Zambia
+          8	Tap
+          1	Tap Nr.1
+          1	Tapani Village
+          1	Taqwa Bus
+          1	Tarmac
+          1	Tasamoti Kitchen
+          1	Taste of Malawi
+          1	Tasty Food Restaurant
+          1	Tata Malawi Ltd
+          1	Taurus Battery Centre
+          1	Taweya
+          1	Tawina Village
+          1	Taxi office
+          1	Taxi stand
+          1	Tayubs Furniture
+          1	Tchambu
+          1	Tea Room
+          1	Teacher Development Center
+          1	Teacher house
+          7	Teacher's House
+          1	Teacher's House 1
+          1	Teacher's House 2
+          1	Teacher's House 3
+          3	Teachers Houses
+          1	Teachers Training Centre
+          1	Teachers Training College
+          1	Techno Brain
+          1	Tedzani Falls
+          1	Tekerani
+          1	Tele-Pursuit Limited
+          5	Telecom Antenna
+          1	Tembwe road
+          1	Temple Avenue
+         57	Temporally dwelling unit
+        761	Temporary
+        246	Temporary Dwelling Unit
+          3	Temporary Kitchen
+          1	Tenga
+          1	Tengani
+          1	Tennis Courts
+          1	Teritiary Road
+          1	Tertiary Road
+          1	Tete
+          1	Tete–Nacala
+          1	Textilshop
+          1	Thaboni Road
+          1	Thabwa
+          5	Thakodewere
+          1	Thambani
+          1	Thambani Forest Reserve
+          1	Thambolagwa
+          1	Thamison
+          1	Thangadze Borehole
+          1	Thangadze Primary School
+          1	Thangadzi
+          1	Thangani F. P. School
+          1	Thangazi River
+          1	Thanki
+         18	Thatch
+         70	Thatched
+          1	Thawale Tented Camp
+          1	Thawi road
+          1	Thazima- Junior Staff Housing
+          1	Thazima- Senior Staff Housing
+          1	The 18 Fish Mart
+          1	The Big House
+          1	The Breeze
+          2	The Catholic University of Malawi (CUNIMA)
+          1	The Causerie
+          1	The Clinic
+          1	The Cottage
+          2	The Crater
+          1	The Dream
+          1	The Duck Inn
+          1	The Heptagon
+          1	The Hub
+          1	The Learning Centre
+          1	The Living Room Cafe
+          1	The Milk Run
+          1	The Parts City
+          1	The Print Shop
+          1	The Steps
+          1	The Turd
+          1	The Wheelhouse
+          1	The White House - Chibuku Bar
+          1	The Women's Clinic
+          2	Thedzi
+          1	Thekerani
+          1	Thekero School
+          1	Thembedza School
+          1	Theological College
+          1	Thete
+          1	Third World Café
+          4	Thiwi
+          1	Thoko Bottle Store
+          1	Thokozire Lodge
+          1	Thom
+          1	Thoma´s Restaurant, Grocery & Bar
+          4	Thondwe
+          1	Thondwe EPA
+          1	Thongwe Island
+          1	Thorburn Road
+          1	Thornwood Estate
+          1	Three Ps Lodge
+          2	Thuchila
+          1	Thuchila Lodge
+          1	Thuchila Plateau
+          1	Thuma FR Basecamp
+          1	Thuma Forest Reserve
+          1	Thumbi
+          1	Thunda
+          1	Thunga
+          1	Thunga Village
+          1	Thunya 1
+          2	Thunya 2
+          1	Thunya Village Graveyard
+          2	Thyolo
+          1	Thyolo District Hospital
+          1	Thyolo Mountain
+          1	Thyolo Post Office
+          1	Thyolo Rd
+          1	Thyolo Road
+          1	Thyolo Sports Club
+          1	Thyolowani Forest Reserve
+          1	Tibili Street
+          1	Tikondane Executive Lodge
+          2	Tiling Solutions
+          1	Tilipano Executive Club
+          1	Timange Banda
+          1	TimangePamodziBanda
+          1	Timbenao
+          1	Timbiri
+          1	Times Book SHop
+          1	Tina's Garden
+          1	Tingathe
+          1	Tinyade
+          1	Tinyade Estate
+          1	Tire Shop
+          1	Tisamonte Cafe
+          1	Titanic Off-Shore Lodge
+          1	Tithokoze Farm
+          1	Tiyanjane Nursery School
+          1	Tiyas's home
+          1	Tiyese
+          1	To Chinolo Stream
+          1	To Kwadyamba
+          2	Toilet
+          2	Toilets
+          1	Toilets #1
+          1	Toilets #2
+          1	Toleza Goverment Food Farm
+          1	Toma Services
+          2	Tomasi Trading Centre
+          1	Tomato shop
+          2	Tombokamwa
+          1	Tombondera
+          1	Tonda
+          1	Tongole Airstrip
+          1	Tongole Wilderness Lodge
+          1	Top Lodge
+          1	Topher Agro Dealer
+         30	Total
+          1	Total (under constrution)
+          1	Total Area 12
+          1	Total Area6
+          1	Total Causeway Car Wash
+          5	Total Filling Station
+          1	Total Fuelstation 01
+          1	Total Fuelstation 02
+          1	Total Kanengo A30
+          1	Total petrol & diesel
+          1	Tourist Information Mulanje
+          2	Tourist information
+          1	Tower
+          1	Toyota
+          1	Toyota Chip Inn
+          1	Toyota Malawi
+          1	Toyota Malawi - Makata
+          1	Toyota Mzuzu
+          1	Toys gallery
+          5	Track
+          2	Tracks
+          1	Trading Center
+          1	Traditional Dwelling Unit
+          1	Trail
+          1	Transribeiro Ltd
+          1	Treff 3000
+          2	Trinity
+          1	Trinity Hospital
+          1	Trinity Hospital / Nursing and Midwifery Training Centre
+          1	Trout Farm
+          2	True Vine Church
+          1	Trust Auctioneers
+          2	Tsabola
+          1	Tsamba Forest Reserve
+          2	Tsambango Road
+          3	Tsangano
+          1	Tsenjelani
+          1	Tsenjerani
+          9	Tsiranana Road
+          1	Tsiranana Road Total Filling Station
+          1	Tsirarana Road
+          1	Tsmaba Hill
+          1	Tsoka Road
+          1	Tsunga Peak
+          7	Tuchila
+          1	Tuchila Agricultural Research Station
+          1	Tuchila Forest Reserve
+          1	Tuchila Hut
+          1	Tuckaways Lodge
+          1	Tukomba
+          1	Tukombo
+          2	Tukupalisha Lodge and Conferences
+          1	Tulias super save
+          1	Tundudze
+          1	Tunduma
+          1	Tutla's
+          1	Tutlas Super Save
+          1	Twaya
+          1	Tyre Masters
+          1	UBALE
+          1	ULEMU RESTAURANT
+          1	ULONGWE CATHOLIC Health Centre
+          1	UNC Project George Joacki Center
+          1	UNC-Project, Tidziwe Centre
+          1	UNHCR MALAWI office
+          1	UNICEF Office
+          1	UNRCO/UNV/OCHA/UNDP
+          1	UNV House
+          1	UNV Resident Place
+          1	US Ambassador
+          1	US Embassy
+          2	USENI
+          2	Ubale
+          1	Ufulu
+          1	Ufulu Gardens Hotel
+          1	Ulaya
+          1	Uledi Game Scout Camp
+          1	Ulendo Travel Agent
+          1	Ulimi House
+          1	Ulisa bay lodge
+          1	Uliwa
+          1	Ulongwe
+          1	Ulongwe Community Day Secondary School
+          1	Ulongwe Courthouse
+          1	Ulongwe Dispensary
+          1	Ulongwe Exchange
+          1	Ulongwe II Primary School
+          1	Ulongwe Teacher Development Centre
+          1	Ulumba
+          1	Ulumba Hills
+          1	Ulumba Primary School (CCAP)
+          1	Umodzi Hall
+          1	Umodzi Road
+          2	Umoyo House
+          1	Umunthu Camp
+          1	Umunthu Lodge And Camping
+          1	Unaka Lagoon
+          1	Uncle B
+          1	Uncle Chris Barber Shop
+          1	Uncle Dan's local restaurant
+          1	Underground tank for vegetable growing
+          1	Undi
+          1	Unit House
+          1	Universal Foods
+          1	University Of Malawi - Polytechnic
+          2	University of Malawi - Chancellor College Campus
+          1	University of Malawi - The Polytechnic Chichiri Campus
+          1	University of Malawi Admin office
+          1	University of Malawi Medical College
+          1	University of Malawi, administration building
+          3	Unknown
+          1	Unknown Road
+         21	Unknown building
+          1	Unknown?
+          1	Unknwon building
+          1	Unkown
+          3	Unmaintained track road
+          1	Unpaved Road
+          1	Unu House Art Gallery
+          1	Upgrade in progress
+          1	Upper Lingadzi
+          1	Upper Lingadzi Drive
+          1	Upper Room Church
+          3	Urban Waste Water Drainage
+          1	Usissi
+          1	Usisya
+          1	Uta Waleza Shopping Complex
+          1	Uzumara Forest Reserve
+          1	Uzuzu
+          1	V.H.Gong'ontha Chavula
+          1	V.H.Thandata Chirwa
+          1	V.H.kamtembanga mbeya
+          1	VH Lackson
+          2	VIP Terminal
+          1	VISION
+          1	Vachi restaurant
+          1	Valley Hall
+          1	Vanmali House
+          1	Vasco Malinya Guest House
+          1	Veg Delight
+          1	Vegetable Market
+          1	Veggie Delight
+          1	Vehicle?
+          1	Venice Beach Bachpackers
+          1	Venice Beach Backpackers
+          1	Veterinary Office
+          1	Vibangalala
+          1	Vibangalala Health Centre
+          1	Victoria Avenue
+          3	Victoria Forex Beureau
+          1	Victoria Road
+          1	Victoria Superette
+          1	Viewing shelter
+          3	Viewpoint
+          1	Viewpoint E. 1563 m.
+          1	Villa Tafika
+          4	Village
+          1	Village Forest Area
+          1	Village Green Lodge
+          1	Village Headman Chipondi
+          1	Village Headman Thedzi
+          1	Village court
+          1	VillageReach Head office- Malawi
+          1	Vinthukutu Forest Reserve
+          1	Visanza
+          1	Vision
+          1	Visitor Car Park
+          1	Visitors shelter
+          1	Vita Electrical
+          1	Vitinthiza Hill
+          1	Vizara Rubber Estate
+          1	Volleyball Court/Special Events
+          1	Vongo
+          1	Vumbo
+          1	Vunduli Primary School
+          1	Vwaza Marsh
+          1	Vwaza Marsh National Park
+          1	WEJOW
+          1	WFP Food Relief Storage
+          2	WICO Sawmill
+          1	WUNIMA
+          1	Waiyatsa
+          1	Waka Stationers
+          1	Wakawaka Hotel
+          1	Wakwenda Retreat
+          1	Walasa Falls
+          1	Walkers Ferry
+          1	Wall
+          1	Walowoka
+          1	Wamkulu Palace
+          1	Wanama Catholic Church
+          1	Wanama Catholic church
+          1	Wanama Community Day Sec. School
+          1	Wangome Rume
+          1	Wapansi Lodge
+          1	War Memorial Tower
+          1	Warika
+          1	Warm Heart Adventure Lodge
+          1	Watani Street
+          1	Watatu's
+          1	Water
+          1	Water Board
+          1	Water Board Office
+          1	Water Fall
+          1	Water Harvesting Tank
+          5	Water Point
+          2	Water Tank
+          1	Water Tanks
+          2	Water point
+          2	Water tap
+          1	Water-well
+          1	Waterboard
+          1	Waterfall
+          1	Waterfall Path
+          1	Waterhole Pende 1
+          1	Waterhole Pende 2
+          1	Wateris Life Sketar Shop
+         11	Wayi
+          1	Weekend Town Lodge
+          1	Weja
+          1	Welding Shop
+          4	Well
+          2	Well water
+          1	Weltwärts Haus
+          1	Wendels Guest House
+          1	Wenela Bus Stage
+          1	Wenela Puma
+          1	West Peak
+          1	West Thumbi Island
+          1	West thumbi island
+          1	Western Entrance
+          2	Western Union
+          1	Western viewpoint E. 1640 m.
+          1	Wheels Masters
+          1	Wheels and exhaust
+          1	White (East)
+          1	White (West)
+          1	White Rose Boutique
+          1	White rock park
+          1	Wiggle and giggle
+          1	Wilindi Forest Reserve
+          1	William
+          2	William's Falls
+          1	Wilson
+          1	Wilson Road
+          1	Wimbe
+          1	Wimpy
+          1	Winners Chapel
+          1	Winstone Kameme
+          1	Wodospad
+          2	Wonder Bakery
+          1	Wonder Pets
+          1	Wooded Area
+          2	Woodlands Lilongwe
+          5	Woodlot
+          3	Woodlot #1
+          3	Woodlot #2
+          1	Woody Wood Pecker Bar
+          1	Woonerf
+          1	Worker homes
+          2	Workshop
+          2	World Bank
+          1	World Bible Church
+          1	World Food Programme
+          1	Worldwide Church of God
+          1	Worship Building
+          3	Wovwe
+          3	Wovwe River
+          1	Wow Shop and Restaurant
+          1	Wulian super market
+          1	Xadreque
+          1	Xerographics
+          1	YB's
+          1	Yamaha Authorised Station
+          1	Yannacks Bus Stop
+          1	Yela
+          1	Yellow (East)
+          1	Yellow (West)
+          1	Yesaya Nkosi
+          1	Yet to be named 7
+          1	Yoco Digital Studio
+          1	Yohane Jere Road
+          1	Yokohama
+          1	Young Road
+          3	Youth Drive
+          1	Yoyola
+          1	ZMK Hospital
+          1	Zachtika Restaurant & Rest house
+          1	Zaid
+          1	Zakazaka
+          2	Zalewa
+          1	Zalewa Health Center
+          1	Zalewa Police
+          1	Zalewa Police Checkpoint
+          1	Zaliro residence
+          1	Zambezi Evangelical Church
+          1	Zambia
+          1	Zambian Guest House
+          1	Zambézia
+          1	Zaro Pools
+          1	Zebediya Makwakwa
+          1	Zelewe Forest Lodge
+          1	Zerina's Takeaways
+          1	Zidala
+          1	Zidana
+          1	Zigwa
+          1	Zikheta
+          1	Zikomo Restaurant
+          1	Zilindo Health Center
+          1	Zimbabwean High Commission Residence
+          1	Zimbo Primary School
+          1	Zingwangwa
+          1	Zingwangwa Road
+          1	Zinthenga Primary School
+          5	Zitherapano
+          1	Ziweto Agrovet Shop
+          1	Ziwuya Lungu
+          1	Zoa
+          1	Zolokere
+          1	Zolozolo congreagation
+          3	Zomba
+          1	Zomba Air Wing ground
+          1	Zomba Airport
+          1	Zomba Bakery
+          1	Zomba Barber Shop
+          1	Zomba Bus Depot
+          1	Zomba Cathedrel
+          2	Zomba Catholic Secondary School
+          1	Zomba Central Hospital
+          1	Zomba Central Prison
+          1	Zomba City Planning Office
+          1	Zomba District Council
+          1	Zomba Driving School
+          2	Zomba Forest Lodge
+          1	Zomba Golf Course
+          1	Zomba Gymkhana Club
+          1	Zomba Market
+          2	Zomba Mosque
+          1	Zomba Municipality
+          1	Zomba Muslim Association
+          2	Zomba Plateau Road
+          1	Zomba Post Office
+         14	Zomba Road
+          1	Zomba Saw Mill
+          1	Zomba Southern Bottlers Ltd Depot
+          1	Zomba State House
+          1	Zomba Street
+          1	Zomba War Cementery
+          2	Zomba Water Treatment Plant
+          1	Zomba Zero CCAP Church
+          1	Zomba post office
+          1	Zomba-Malosa Forest Reserve
+          1	Zombwe 1
+          1	Zombwe 2
+          1	Zongendaba Road
+          1	Zowe
+          1	Zowe Hills
+          1	Zululu Village
+          1	Zulunkhuni
+          1	Zulunkhuni River Lodge
+          1	Zunga
+          1	Zunguza
+          1	Zuza
+          1	Zóbue
+          1	abu jabel
+          1	afrika
+          1	afslag
+          1	agricultural
+          1	airstrip?
+          1	arboles
+         18	arbre
+          1	asd
+          1	b
+          1	b1
+          1	b10
+          1	b11
+          1	b15
+          1	b16
+          1	b3
+          1	b4
+          1	b5
+          1	b6
+          1	b7
+          1	b8
+          1	b9
+          1	bank
+          1	baobab beach resort
+          1	barn
+          1	basistent
+          1	basrestaurantje
+          1	batiment
+          1	beach hut
+          1	beorns huis
+          1	berkay
+          1	big road
+          2	big road cont.
+          1	biology
+          3	boarder road
+          1	bodza cemetry
+          1	boer henk
+          1	boer jan
+          1	bonjour
+          7	borehole
+          1	bosque natural
+          1	boys quarter
+          1	bridge
+          1	buil
+         10	building
+          2	building 1
+          1	building 2
+          1	building1
+          1	building6
+          1	building?
+         10	buildings
+          1	bukiding
+          1	bulaimu
+          1	bulding
+          1	bus depot
+          1	c1
+          1	c2
+          1	c4
+          1	c6
+          1	cafeteria
+          1	casa
+          1	casa rossi
+          1	casa à
+          7	cattle kraal
+          1	cementerio
+          1	cfh
+          1	chabwinjo mosque
+          1	chaka Hall
+          1	chancellor college farmland
+          1	chanco garage
+          1	chantunga ground
+          1	chapola fisheries
+          1	chapola trading centre
+          1	charcoal market
+          1	checkpoint
+          1	chicken kraal
+          1	chikanda
+          1	chilunga
+          2	chimbwimbwi
+          1	chirunga
+          1	chitukuta village
+          1	chombo
+          7	church
+          1	church guest
+          4	class blocks
+          1	construction area
+          1	construction materials
+          1	corridor
+          1	crop land
+          1	dam
+          4	damaged
+          1	damy weg
+          1	dcg
+          1	de sam ter BEEK
+          1	desconcodio
+          1	desconcodo
+          1	desconocdio
+          1	desconocido2
+          2	destroyed
+          1	deza
+          1	dinning room
+          1	dirt
+          1	dirt path
+          2	dirt track
+          1	doos
+          1	drugslab
+          3	dry
+          4	dry bed
+          1	dry bed?
+          5	dry bedding
+          2	dry bedding?
+          1	ducks
+          1	dug well
+          1	eastern farmland
+          1	eastern farmland 2
+          1	eastern farmland 3
+          1	eastern farmland 4
+          1	eastern farmland 5
+          6	edifice
+          1	edifices
+          3	edificio
+          1	engen filling station
+          2	extention
+          1	f1
+          1	f2
+          1	faculty of Law
+          2	farm
+          1	farm field
+          6	fence
+          1	field
+          1	finance
+          1	fish drying area
+          1	fish smoking shade
+          1	florist
+          1	foot path
+          1	football stadium
+          1	footpath
+          1	forest
+          3	foundation
+         24	gebouw
+         17	ginnery cornerindustrial site
+         13	goat kraal
+          1	guest house
+          1	h1
+          1	h3
+          1	h5
+          1	h6
+          1	h7
+          1	handeltjes
+          1	hhhh
+          4	hidden
+         16	hidden?
+         12	home
+          1	home ahd
+          1	home economics
+          1	home sara
+          1	hostel
+          1	hostel2
+          4	house
+          1	house for rent
+          1	house/dwelling
+          1	house/establishment
+          2	houses
+          1	housr
+          3	huis
+         20	hut
+          1	hut1
+          1	hut2
+          1	hut3
+          1	hut4
+          1	hut5
+          1	hut6
+          1	hut7
+          1	iT Centre office
+          1	idk
+          1	islamic
+          1	kabe
+          1	kachere hall
+          3	kadabwako
+          1	kafucheche
+          1	kalango
+          1	kalemba
+          1	kalichero
+          1	kalichero mosque
+          1	kamuzu hall
+          1	kapichi
+          1	kapichi street
+          1	karel
+          1	kasungu District Hospital
+          1	kaya
+          1	kerk
+          1	khotakota Admarc Depot
+          9	kiosk
+        249	kitchen
+          1	knight frank car park
+          1	koche river
+         21	kraal
+          1	kwacha hall
+          1	lalanje well
+          1	lelijkerd
+          1	likangala
+          1	likhubul
+          1	linden city
+          1	lingadzi
+          1	little road
+          1	mHub
+          1	ma cribs
+          1	main house
+          1	main pathway
+          1	maintainance
+          5	maize silo
+          1	makungubwi
+          1	mangochi police
+          8	manhole
+          3	mapped building
+          1	market
+          1	matope
+          1	may Home dedza
+          1	may gest house 
+          1	mbuzi
+          1	menne manta
+        232	metal
+          2	metal or thatched
+          6	metal roof
+          1	milepa health centre
+          1	minda
+          1	mining?
+          2	minnor load
+          1	misesa
+          1	mitalala catholic
+          1	mizenje
+          1	mkwaila village
+          2	mosque
+          1	mountainous
+          1	mtotera
+          1	mukhala beach lodge
+          1	multichoice
+          2	mwazisi
+          1	mwenyefeza
+          1	mzunza village
+          1	negozietto
+          1	nevim
+          1	njale
+          1	nkhokwe
+          1	no buildings found
+          1	noor weg
+          1	ntcheu prison
+          1	nursery sch
+          1	nyawa
+          1	nyugwi catholic church
+          1	office
+          1	office Lilongwe
+          1	office blocks
+          1	open Theatre
+          1	parkje
+         78	path
+          1	path contiunes
+          1	path into living area
+         10	pathway
+          1	pavement at hippo
+          1	pedestrian
+          1	pende Primary School
+          1	pende community Football ground
+          1	pentacostel Holiness church mapiku
+          1	pentacostel holiness church salima
+         65	permanent
+          9	permanent dwelling unit
+          7	permanent roof
+          1	peter Chirombo
+          1	petit
+          1	phiri
+          1	physics
+          1	physics lab
+          6	pigeons kraal
+          1	place of worship
+          1	play ground
+          2	pool
+          1	possible residential area
+          1	primary school
+          1	primary school.
+          4	private
+          1	protea hotel ryalls
+          2	pueblo
+          1	pueblo con naves
+          1	quarters
+          1	ras
+          1	rbsg
+          1	re
+          2	residential
+          1	residential road
+          1	right choice
+          1	river
+          1	riverr
+          9	road
+          1	road or path
+         14	roof = permanent
+          1	roof = permenant
+          1	roof= permanent?
+        170	roof=permanent
+          3	roof=permanent3
+          1	roof=permanentv
+          1	roof=permanet
+          1	roof=pernanent
+          1	ruisseau secondaire
+         16	s
+          1	sadiki
+          1	sagawa b/store
+          1	saiti gawe
+          1	sande
+          1	sata
+          3	savita's building
+         10	school block
+          2	seasonal stream
+        113	semi permanent
+          1	senior common
+          1	sewage
+          7	shallow-well
+          1	shipping container
+          1	shire
+          7	shop
+          1	shrubs
+          1	shtr 1
+          3	side stream
+          1	sin nombre
+          1	sin nombre 3
+          1	sin nombre2
+          2	smaller path
+          1	solar pump
+          1	some kind of structure - river
+          1	souvenir shops
+          1	stores
+          1	stream
+          1	street
+          1	strip bar
+          1	structure unknown
+          1	studio
+          1	swagger house
+          1	tangwa
+          1	tank
+          1	tank?
+          1	tcheu townhall
+        246	temporary
+          4	temporary dwelling unit
+          1	temporrary
+         99	thatched
+          1	thatched and metal
+          1	theater
+          1	tobacco loop
+         18	toilet
+          1	total filling station
+         53	track
+          6	tree
+          1	tristan hartmann weg
+          1	tristanweg
+          1	tyi
+          1	uknown river tributary
+          1	unaintained track road
+          1	unamintained track road
+          2	under construction
+          1	united Methodist Church
+          3	unknown
+          1	unknown buildinng
+          1	unknown house
+          4	unknown path
+          2	unknown paths
+          1	unknown river tributary
+          1	unknown road
+          1	unknown unpaved road
+          1	unkown river tributary
+          1	unmaintained track road
+          1	unnkown
+          1	unpaved road #gtown #dcm
+          3	unpaved unknown road
+          1	valley
+          3	vegetation "trees"
+          1	vegetation (trees)
+          1	village
+          1	wall
+          3	warehouse
+          1	water point
+          1	weather station
+          1	well
+          1	wetland
+          1	wood
+          1	yt enterprises
+          2	zandpad
+          1	町

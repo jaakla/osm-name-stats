@@ -1,0 +1,97 @@
+        583	महेन्द्र राज्मार्ग्
+        270	Border Nepal - India
+        125	Manaslu Circuit
+        101	House
+         97	not sure of access
+         91	Shiva Mandir
+         90	Mahendra Highway
+         89	Mahakali Highway
+         81	Sidhartha Highway
+         68	house
+         61	Ring Road
+         61	Kankai Nahar (water canal)
+         59	Dhulikhel Sindhuli Bhittamod Highway
+         56	residential
+         54	Pasang Lhamu Highway
+         53	Tribhuvan Highway
+         53	Arniko Raj Marga
+         52	Annapurna circuit
+         51	Poultry Farm
+         51	Chatra Main Canal (Sunsari Morang Irrigation Project)
+         50	Stupa
+         46	Chautari
+         44	Shiva Temple
+         43	Temple
+         42	Prithvi Highway
+         40	Narayani
+         40	Koshi Rajmarga
+         39	Beni - Jomson Road
+         37	s
+         37	Sharda
+         37	Photo
+         37	Helambu Trek
+         37	Friendship Hostel
+         35	मेची राजमार्ग
+         35	Karnali Rajmarg
+         35	Kanti Path
+         35	Great Himalaya Trail
+         34	Tea Plantage
+         34	Shop
+         34	Ganesh Temple
+         33	Sun Kosi
+         33	Ganesh Mandir
+         32	Sitagunj Branch
+         30	banana kheti
+         30	School
+         29	Madan Bhandari Path
+         28	Prithvi Rajmarga
+         28	Nepal Telecom
+         27	नहर नहर नहर
+         27	Madi-Thori
+         27	Likhu Khola
+         27	Ganesh Himal Trail
+         26	brownfield
+         26	Untitled Path
+         26	Pond
+         26	Kali Gandaki
+         25	नहर
+         25	Narayanghat-Muglin Highway
+         25	Deurali
+         24	Rastriya Banijya Bank
+         24	Nepal Railways
+         23	Tribhuban Highway
+         23	Nabil Bank
+         23	BP Highway
+         22	forest
+         22	barren land
+         22	Lodge
+         22	Krishna Mandir
+         22	Community Safe Shelter
+         22	Bhote Koshi
+         21	Well
+         21	Public Tap
+         21	Kalinchwok Road
+         21	Jeep road Beni-Lo Mantang
+         21	Hanuman Nagar Road(Way to Rajbiraj)
+         21	Bajang Road
+         20	banana
+         20	Tribhuvan Rajpath
+         20	Nepal Investment Bank
+         20	Nepal Bank Limited
+         20	Kirana Pasal
+         20	Gorusinge-Sandhikharka Rajmarga
+         20	Budhi Gandaki
+         19	temple
+         19	Tsum Valley Path
+         19	Parasi Road
+         19	Mechi Highway
+         19	Mai Khola
+         19	East Rapti River
+         19	Durga Mandir
+         19	Dumre-Besishahar
+         19	Duduwa Nala
+         19	Dudh Kosi
+         19	City Bus
+         19	Bighi Nadi
+         19	Bagmati River (बागमती नदी)
+         18	unknown

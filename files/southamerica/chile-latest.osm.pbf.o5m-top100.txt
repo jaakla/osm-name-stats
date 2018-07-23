@@ -1,0 +1,100 @@
+        852	Copec
+        712	Moai
+        642	Pasaje 1
+        617	Pasaje 2
+        584	Arturo Prat
+        495	Carretera Austral
+        491	Pasaje 3
+        485	Ruta 5 Sur
+        480	Shell
+        394	Línea Central Sur
+        378	Caletera Ruta 5
+        376	Manuel Rodríguez
+        360	Pasaje 4
+        354	Petrobras
+        350	Chilexpress
+        337	Lautaro
+        334	Esmeralda
+        326	Unimarc
+        314	Almacen
+        312	Gabriela Mistral
+        310	Santa Isabel
+        292	Los Aromos
+        291	Pasaje 5
+        289	Multicancha
+        282	Autopista Talca - Chillán
+        279	Diego Portales
+        278	O'Higgins
+        275	Acceso Ruta 5 al Norte
+        274	Acceso Ruta 5 al Sur
+        272	Línea Central Norte
+        271	Calle 1
+        266	Bernardo O'Higgins
+        261	Balmaceda
+        247	Caupolicán
+        239	Cruz Verde
+        237	Sargento Aldea
+        234	Avenida Américo Vespucio
+        232	Pasaje Uno
+        231	Pasaje Dos
+        231	Pasaje 6
+        226	Santander
+        221	Autopista del Aconcagua
+        221	Autopista Central
+        220	Los Alerces
+        219	21 de Mayo
+        218	Las Rosas
+        217	Pedro Aguirre Cerda
+        216	San Martín
+        214	Banco de Chile
+        203	Autopista del Maipo
+        197	Los Maitenes
+        197	Los Copihues
+        196	Libertad
+        196	Autopista del Pacífico
+        195	Chacabuco
+        194	Aníbal Pinto
+        189	Ignacio Carrera Pinto
+        188	Calle 2
+        188	Baquedano
+        187	Pasaje 7
+        187	Independencia
+        184	Miraflores
+        182	Ruta 5 Norte
+        181	José Miguel Carrera
+        180	Los Castaños
+        180	Banco Estado
+        179	Serrano
+        175	Maipú
+        175	Avenida Libertador Bernardo O'Higgins
+        174	Manuel Montt
+        174	Farmacias Ahumada
+        170	San Pedro
+        168	Los Canelos
+        167	Los Boldos
+        167	Caletera Ruta 5 Sur
+        166	Pablo Neruda
+        166	Cancha Futbol
+        165	Los Robles
+        165	18 de Septiembre
+        163	Los Pinos
+        163	Galvarino
+        163	Camilo Henríquez
+        163	Avenida Las Torres
+        160	Pasaje Tres
+        160	Avenida Bernardo O'Higgins
+        158	Pasaje 8
+        158	Las Araucarias
+        157	Fresia
+        156	Las Violetas
+        154	Retorno
+        152	Bellavista
+        151	San Francisco
+        151	Colo Colo
+        149	Los Nogales
+        148	Tucapel
+        147	El Roble
+        145	San José
+        145	Lider
+        145	Farmacias Cruz Verde
+        143	Eleuterio Ramírez

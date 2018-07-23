@@ -1,0 +1,100 @@
+       1184	Brookville Lake Fee Title Boundary
+        476	Main Street
+        434	Indiana Toll Road
+        296	Walnut Street
+        281	East Main Street
+        264	West Main Street
+        261	North Main Street
+        261	East Washington Street
+        249	North Meridian Street
+        247	Washington Street
+        236	West Washington Street
+        218	Chicago Line
+        210	South Main Street
+        208	2nd Street
+        195	1st Street
+        194	3rd Street
+        186	West 86th Street
+        185	Maple Street
+        182	McDonald's
+        180	North Street
+        178	Oak Street
+        172	East 96th Street
+        168	West 10th Street
+        168	Elm Street
+        166	West 38th Street
+        165	Railroad Street
+        165	Jackson Street
+        158	4th Street
+        157	South Street
+        156	North Shadeland Avenue
+        153	Madison Avenue
+        152	South East Street
+        150	Jefferson Street
+        149	Lafayette Road
+        147	South Emerson Avenue
+        146	Cline Avenue
+        141	West Street
+        140	Center Street
+        134	South Keystone Avenue
+        133	East Street
+        130	Church Street
+        129	Michigan Road
+        129	Calumet Avenue
+        128	West 16th Street
+        128	Allisonville Road
+        126	Saint Joseph Valley Parkway
+        126	Kentucky Avenue
+        124	Georgetown Road
+        123	North Keystone Avenue
+        121	Harrison Street
+        120	Indiana Avenue
+        120	East 86th Street
+        118	South Shore Line
+        118	Mill Street
+        118	Lincoln Street
+        117	Subway
+        116	High Street
+        115	East 10th Street
+        113	5th Street
+        112	Vine Street
+        109	West 3rd Street
+        109	East 3rd Street
+        108	Shelby Street
+        107	State Street
+        107	Hoosier Heartland Highway
+        107	Franklin Street
+        107	Cherry Street
+        106	Ronald Reagan Expressway
+        105	West Walnut Street
+        105	County Line Road
+        104	East Walnut Street
+        103	State Road 37
+        102	South 3rd Street
+        102	Short Street
+        102	East 38th Street
+        101	South Meridian Street
+        101	East South Street
+        100	Rockville Road
+         99	Walmart Supercenter
+         99	Sycamore Street
+         99	North Emerson Avenue
+         99	Madison Street
+         99	East 116th Street
+         97	West North Street
+         97	Water Street
+         97	Poplar Street
+         97	Marathon
+         97	6th Street
+         96	East 82nd Street
+         95	River Road
+         95	North Washington Street
+         95	East Raymond Street
+         94	West 4th Street
+         94	West 2nd Street
+         94	Pearl Street
+         94	Borman Expressway
+         93	Speedway
+         93	Indianapolis Boulevard
+         91	Central Avenue
+         91	Burger King

@@ -1,0 +1,98 @@
+       1131	Storgatan
+        724	Järnvägsgatan
+        693	Ringvägen
+        614	Södra stambanan
+        583	Västkustbanan
+        563	Västra stambanan
+        562	Ostkustbanan
+        511	Skolgatan
+        483	Nygatan
+        480	Kungsgatan
+        465	Strandvägen
+        450	Sörmlandsleden
+        405	Kyrkvägen
+        401	Stationsvägen
+        385	Inlandsbanan
+        382	Stambanan genom övre Norrland
+        378	C
+        363	Kyrkogatan
+        355	Kust till kust-banan
+        349	Trädgårdsgatan
+        349	Skogsvägen
+        345	Mälarbanan
+        342	Industrigatan
+        334	Parkvägen
+        330	Drottninggatan
+        325	Idrottsvägen
+        315	Parkgatan
+        313	Stockholmsvägen
+        310	OKQ8
+        307	Skolvägen
+        304	Björkvägen
+        298	Bergslagsbanan
+        297	Systembolaget
+        296	Malmbanan
+        291	Torggatan
+        290	Stationsgatan
+        280	D
+        279	Godsstråket genom Bergslagen
+        272	Österleden
+        272	Preem
+        270	Värmlandsbanan
+        270	Hamngatan
+        267	Ängsvägen
+        266	Nynäsvägen
+        262	Villagatan
+        262	Kvarnvägen
+        260	Industrivägen
+        254	Göteborgsvägen
+        246	Malmövägen
+        238	Fabriksgatan
+        237	Blå Vägen
+        230	Östersjön
+        226	Circle K
+        222	Handelsbanken
+        218	Bergsgatan
+        217	Brogatan
+        216	Norra vägen
+        215	Granvägen
+        212	Tallvägen
+        212	Södra vägen
+        212	Sjövägen
+        212	Mittbanan
+        211	Norra stambanan
+        210	Villavägen
+        209	Odengatan
+        208	Vasagatan
+        208	Smedjegatan
+        202	Bergslagsvägen
+        200	Västerleden
+        200	Långgatan
+        197	Valhallavägen
+        196	Haparandabanan
+        195	Åkervägen
+        195	Ågatan
+        193	Dalabanan
+        192	Kungsleden
+        190	Södertäljevägen
+        189	Genvägen
+        189	Gamla vägen
+        188	Kvarngatan
+        188	Bruksvägen
+        185	Vallgatan
+        185	Bruksgatan
+        183	Pressbyrån
+        182	Söderleden
+        182	Norge-/Vänerbanan
+        182	Köpmangatan
+        181	Ekvägen
+        179	Karlavägen
+        178	Roslagsbanan
+        177	Sveavägen
+        176	Växjövägen
+        175	McDonald's
+        174	Strandgatan
+        172	Furuvägen
+        171	Torsgatan
+        170	Brovägen
+        168	Elljusspår

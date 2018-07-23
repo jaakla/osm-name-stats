@@ -1,0 +1,3902 @@
+          1	"B.Léza"
+          1	"Rebelados"
+          1	(Bangaeira) destroyed by lava
+          1	(Casa Marisa) destroyed by lava
+          1	(Chã das Caldeiras) destroyed by lava
+          1	(Chã de) Norte
+          1	(Cidade) Mindelo
+          1	(Pedra Brabo) destroyed by lava
+          1	(Portela) destroyed by lava
+          1	(Ribeira de) Craquinha
+          1	(Ribeira de) Passarão
+          1	037
+          1	1
+          1	10
+          1	100 Feet Kite School
+         20	2
+          1	29km, 5km
+          1	3
+          2	3, 4, 6, 8
+          1	30 min. fastferry / 55 min. normal ferry (oneway)
+          1	30 min. fastferry/ 60 min. normal ferry (oneway)
+          1	4
+          1	4, 6, 8
+          1	5
+          1	5tal da Música
+          1	6
+          1	8km ,26km
+          1	A
+          1	A Beira Mar
+          1	A Bolha
+          1	A Caminhada
+          1	A Igreja de Jesus Cristo dos Santos dos Últimos Dias
+          1	A memorial do U.J.B.S Olivera 1912
+          1	AAC
+          1	ADECO
+          1	AOC
+          1	ATM
+          1	Abóbada
+          1	Academia Carlos Alhinho/Polivalente Evandro de Matos
+          1	Academia Jotamont
+          1	Academia de Futebal Carlos Alhinho
+          1	Academica
+          1	Achada Baixo
+          1	Achada Baleia
+          1	Achada Barril
+          1	Achada Biscainho
+          1	Achada Carreira
+          1	Achada Cruz
+          2	Achada Fazenda
+          1	Achada Furna
+          1	Achada Fátima
+          2	Achada Grande
+          2	Achada Grande Tras
+          1	Achada Grande Trás
+          1	Achada Hilário
+          1	Achada Igreja
+          2	Achada Laje
+          2	Achada Leite
+          1	Achada Leitão
+          2	Achada Lem
+          2	Achada Lengueira
+          2	Achada Louro
+          1	Achada Mentirosa
+          3	Achada Monte
+          1	Achada Mosquito
+          1	Achada Pilote
+          1	Achada Poio
+          1	Achada Ponciano
+          1	Achada Ponta
+          1	Achada Queimada
+          2	Achada Santo Antonio
+          1	Achada Santo António
+          2	Achada São Filipe
+          1	Achada Torre
+          1	Achada da Ponta
+          2	Achada das Pedras
+          1	Achada de Cuba
+          1	Achada de Água
+          1	Achada do Meio
+          1	Achada grande tras
+          3	Achadinha
+          1	Adeco
+          1	Adega
+          1	Aderito Sena
+          1	Aerodromo de Preguiça
+          1	Aeroporto Amilcar
+          1	Aeroporto Internacional Amílcar Cabral
+          1	Aeroporto Internacional Aristides Pereira
+          1	Aeroporto Internacional Cesaria Evora
+          1	Aeroporto Internacional Nelson Mandela
+          1	Aeródromo de São Filipe
+          1	Aeródromo do Maio
+          1	Afonso Gil
+          1	Africafé
+          2	African Shops
+          1	Agence consulaire française
+          2	Agostinho Neto Airport
+          1	Agroprodutos Biológicos
+          1	Aguada
+          1	Agueduto Ponte do Canal
+          1	Agência nacional de viagens
+          1	Aki si trinka um lanxi
+          2	Alcatraz
+          1	Alcides
+          1	Aldeia
+          1	Aldeia Jerome
+          2	Aldeia Manga
+          1	Aldeia Manga (Bungalowhotel)
+          1	Aldeia Roçadas
+          1	Aldeia cultural "Noz Reiz"
+          1	Aldia
+          1	Alegrete
+          1	Alexandre Alberto da Rocha Serpa Pinto
+          2	Alfarroba
+          1	Alfândega Velha
+          1	Algodoeiro
+          2	Alisios
+          2	Alize
+          1	Alkimist
+          1	Alliance Française de Mindelo
+          1	Almerim
+          1	Alto Cruz
+          1	Alto Demba
+          3	Alto Mira
+          1	Alto Mira 4km
+          1	Alto Mira de Engenho
+          1	Alto Mira de Palha Carga
+          1	Alto Miro
+          1	Alto Santo António
+          2	Alto Sentina
+          1	Alto Solarine
+          1	Alto São João
+          1	Alto São Nicolau
+          2	Alto de São Tomé
+          1	Alto de Água
+          2	Alto do Peixinho
+          1	Alto do Solarinho
+          2	Alucar
+          1	Aluguer
+          1	Aluguer & Taxi
+          1	Alves
+          1	Always Special
+          1	Amalia
+          1	Americano's
+          1	Amfiteatr
+          1	Amilcar Cabral
+          1	Amizade
+          1	Ana Rita
+          1	Andriano
+          2	Anglo Surf Center
+          1	Angra
+          1	Antenna
+          1	Antennas
+          1	Antennes
+          1	Antiga Prisao
+          1	Antigo Consulado Inglês
+          2	Antigo Quartel Colonial
+          1	António Gomes
+          1	Ao Caranguejo
+          1	Ap. HP Ocean View
+          1	Aparthotel Avenida
+          1	Appartement Hotel Monte Trigo
+          1	Aqua
+          3	Aquafun
+          1	Aquamarina Hotels
+          1	Aquiles Eco Hotel
+          1	Aqva
+          1	Archote
+          1	Areia Branca
+          1	Areia Negra
+          1	Arigo Cardoso Djarmai Cidade De Porto Inglês
+          1	Arla Residencial
+          3	Armazém
+          1	Arquivo Historico Nacional
+          2	Arribada
+          1	Art Gallery Tutu SOUSA
+          2	Artesanato
+          1	Artica
+          1	As Horta
+          1	Assembla Municipal
+          1	Assembleia Nacional
+          2	Assomada
+          2	Assomada (Santa Catarina)
+          1	Assomada de Covoada
+          1	Assomada-Calheta
+          1	Atelier Bar
+          1	Aterro Sanitário
+          1	Atlanta
+          1	Atlantic Hauses
+          1	Atlantis
+          1	Atlântico
+          1	Atrás Cemitério
+          1	Auditorio Nacional
+          1	Aurora
+          1	Auto Parts
+          1	Av. 5 de Julho
+          1	Av. Capitao Ambrosio
+          2	Av. Hipólito Ferreira
+          4	Av. Marginal
+          1	Ave Marginal
+          1	Avenida
+          4	Avenida 12 Setembro
+          1	Avenida 15 de Decembro
+          2	Avenida 15 de Dezembro
+         11	Avenida 5 de Julho
+          1	Avenida Abilio Duarte
+          5	Avenida Amilcar Cabral
+          7	Avenida Amílcar Cabral
+          2	Avenida Andrade Corvo
+          2	Avenida Antonio Mascarenhas Monteiro
+          2	Avenida Aristides Pereira
+          3	Avenida Baltazar Lopes
+          2	Avenida Baltazar Lopes da Silva
+          2	Avenida Capitão Ambrosio
+          3	Avenida Charles Darwin
+          6	Avenida Cidade de Lisboa
+          4	Avenida Combatentes da Liberdade da Patria
+          1	Avenida Dr. Alberto Leite
+          3	Avenida Europa
+          4	Avenida Fernando Ferreira Fortes
+          3	Avenida Figueira da Foz
+          1	Avenida Grão-Duque do Luxemburgo
+          1	Avenida Gustavo Monteiro
+          6	Avenida Holanda
+          2	Avenida Ilheu Santa Maria
+          1	Avenida Januário Leite
+          2	Avenida John Kennedy
+          8	Avenida Jorge Barbosa
+          3	Avenida João De Deus Maximiano
+          1	Avenida Liberdade e Democracia
+          1	Avenida Machado Santos
+          6	Avenida Marginal
+          3	Avenida OUA
+          1	Avenida Rotary International
+          2	Avenida Santiago
+          1	Avenida Santo Antao Edificio de frio Praia,Kap Verde
+          3	Avenida Santo Antão
+          3	Avenida São Vicente
+          3	Avenida da China
+          1	Avenida da Macaronesia
+          4	Avenida de Cuba
+          2	Avenida do Palmarejo
+          1	Avenida dos Hoteis
+          1	Avenida dos Pescadores
+          1	Avenida dos Pescatores
+          1	Avis
+          1	B
+          1	B&B Arco Iris
+          1	B&B Casa Monte Amarelo
+          1	B&B Criola
+          1	B&B Sirio
+          2	BAI
+          1	BAR DOS AMIGOS CAMPO - MOTEL and BAR RESTAURANT
+         17	BCA
+          9	BCN
+          1	BES
+          1	Babilónia
+          1	Baia Gombeza
+          2	Baia Verde
+          1	Baia de Angrinha
+          1	Baia de Angrona
+          1	Baia de Chão Bom
+          1	Baia de Fateixa
+          1	Baia de Miguel
+          1	Baia do Coral
+          1	Baia do Medronho
+          1	Baia do Tarrafal
+          1	Bairro Craveiro Lopes
+          1	Baixa
+          1	Baixo de Água
+          1	Baleia
+          1	Baluarte de Baixo
+          1	Banana
+          1	Bananinha
+          2	Banco BCA
+          1	Banco Comercil
+          1	Banco Commercial do Atlántico
+          1	Banco Interatlantico
+          3	Banco Interâtlantico
+          1	Banco de Cabo Verde
+          1	Bandariba
+          1	Bangaeira
+          2	Baobab
+          1	Baobáb
+          2	Bar
+          1	Bar Acinda
+          1	Bar Arbera Branca
+          1	Bar Arminda
+          1	Bar Beira Mar
+          1	Bar Belinda
+          1	Bar Boaventura (Domingas)
+          1	Bar Bom Sossego
+          1	Bar Caverna
+          1	Bar Churrasco
+          1	Bar Cibelle
+          1	Bar Coffe Drink
+          1	Bar Comes
+          1	Bar Dina Inácio
+          1	Bar Kabiza
+          1	Bar Krioula
+          1	Bar Mar Vila
+          1	Bar Mirage
+          1	Bar O Simpatico
+          1	Bar Relax
+          1	Bar Restaurante Chaminé
+          1	Bar Santo António
+          1	Bar Sol e Luna
+          1	Bar Tchu
+          1	Bar Tropikal
+          1	Bar Tubarão Azul
+          1	Bar Violão
+          1	Bar Ziquipá
+          1	Bar da Gare Marítima
+          1	Bar de Lila
+          1	Bar dy nos
+          1	Bar tapas zikriola
+          1	Barbearia
+          1	Barbearia MONTEIRO
+          1	Barbearia Santos
+          1	Barberia VIVI
+          1	Barberia da Cruz
+          1	Barbot
+          1	Bardo de Ferro (Bord' d' Ferro)
+          1	Barlovento
+          1	Barracuda
+          2	Barragem de Canto de Cagarra
+          2	Barragem de Faveta
+          2	Barragem de Figueira Gorda
+          1	Barragem de Poilão
+          2	Barragem de Salineiro
+          2	Barragem de Saquinho
+          1	Barreiro
+          1	Barril
+          1	Base Nautica
+          1	Bavaria
+          2	Baía das Gatas
+          1	Baía do Tarrafal
+          1	Beach Bar
+          2	Beach Club
+          1	Beachside
+          1	Beira mar gymn
+          1	Beirona
+          1	Bel Bel
+          4	Bela Vista
+          2	Belem
+          1	Beleza Da Mulher
+          1	Belorizonte
+          1	Beluga Viagens Maritimas S.U.Lda.
+          1	Belèm
+          2	Belém
+          1	Bench
+          3	Benfica
+          1	Bento A Lima
+          1	Benvass
+          1	Beramar Restauracao Hotelaria e Tourismo
+          2	Berlim
+          1	Bia Neves
+          1	Biblioteca Municipal
+          1	Biblioteca Nacional de Cabo Verde
+          1	Bica d'Areia
+          1	Bidon
+          1	Big Game Maio
+          1	Big old tree "Poilón"
+          1	Bila Baxo
+          1	Black Mamba II
+          1	Blubar
+          2	Blue Bell
+          1	Blue Eye
+          1	Blue Marlin
+          1	Blue eye
+          1	Boa Entradinha
+          1	Boa Esperança
+          1	Boa Ventura
+          3	Boa Vista
+          1	Boa Vista Diving
+          1	Boa Vista Social Club
+          1	Boca Doce
+          3	Boca Larga
+          1	Boca d'Cavoc'
+          1	Boca d'Torre
+          1	Boca de Ambas Ribeiras
+          1	Boca de Coruja
+          1	Boca de Covoc'
+          1	Boca de João Afonso
+          1	Boca de Pistola
+          1	Boca de Salina
+          1	Boca di Figueiral
+          1	Bocaxica Surf
+          1	Bodeguita
+          1	Bodona
+          1	Bofareira
+          1	Bofareira Souvenirs
+          1	Bolanha
+          1	Bolsa de Valores de Cabo Verde
+          1	Bom Pau Ferreira
+          1	Bomba Marina Mindelo
+          1	Bombay
+          1	Bombeiros Voluntários
+          1	Bombeiros da Praia
+          1	Bons Amigos
+          1	Borda
+          1	Bordeira
+          1	Bordeira de Agriões
+          1	Bordeira de Cova
+          1	Bordeira de Norte
+          1	Bossa Nova
+          2	Bota
+          1	Braga
+          2	Branquim
+          1	Brasil
+          1	Brasil Pao Quente
+          3	Brava
+          1	Brava - Praia
+          1	Brás de Andrade
+          1	Bufadouro
+          1	Building Site
+          1	Bukinha Salgod
+          1	Bungalow-Hotel Parque das Dunas Village
+          3	Buracona
+          1	Burghy
+          1	Bus station to Palmeira
+          1	Buzios
+          1	Bébe bijou
+          1	C
+          1	CABOCEM fabrica de cimento
+          1	CFCV 30
+          1	CV Móvel
+          1	CV TELECOM
+          6	CV Telecom
+          1	CVMultimedia
+          1	Ca' Nicola
+          5	Ca'Luisa
+          1	Cabeça Fundão
+          1	Cabeça da Horta
+          1	Cabeça de Figueiral
+          1	Cabeça de Gato
+          1	Cabeça de Leão
+          1	Cabeça de Tarafes
+          1	Cabeçadas de Cima
+          2	Cabeçalinho
+          1	Cabo Bar
+          1	Cabo Cafe
+          1	Cabo Santa Maria
+          2	Cabo Verde
+          1	Cabo Verde Telecom
+          1	Cabocan
+          1	Cabolix
+          1	Cabouca Broncona
+          1	Cabouco de Curral de Monte Figueira
+          1	Cabrer Disco
+          1	Cabuco Dragum
+          2	Cachaço
+          1	Cactus
+          1	Cadeia Central Ribeirinha
+          1	Cadeia Central de São Martinho
+          1	Caetano
+          1	Caetano Auto
+          1	Cafe Bar Dina
+          1	Cafe Del Mar
+          1	Cafe Internet
+          1	Cafe Renate
+          1	Cafe Sofia
+          1	Cafe da Mar
+          1	Café Casa Verde
+          1	Café Chave Ouro
+          1	Café Colonial
+          1	Café Lisboa
+          1	Café Portugal
+          1	Café Praça Nova
+          1	Café degli Artisti
+          1	Café del Mar
+          2	Caiada
+          1	Caibros
+          1	Caijana
+          1	Caiumbra
+          2	Caixa
+          6	Caixa Economica
+          1	Caixa Econômica
+          1	Caixa Econômica CV
+          1	Caizinho
+          1	Cala Grande, Lda
+          4	Calabaceira
+          2	Calabaceira / Vila Nova
+          1	Calabar
+          1	Caldeira da Preguiça
+          1	Caldeira de Preguiça
+          1	Caldeirinha
+          1	Calejão
+          1	Calema
+          1	Calerom
+          1	Caleta de Sol
+          2	Calhau
+          1	Calheta
+          1	Calheta Funda
+          1	Calheta Grande
+          1	Calheta de Baixo
+          1	Calheta de Cima
+          2	Calheta de São Miguel
+          1	Calhetinha
+          7	Calu e Angela
+          1	Cambujana
+          1	Caminho Campo de Cão
+          1	Campanas de Baixo
+          1	Campanas de Cima
+          1	Campanário
+          1	Campinho
+          1	Campinho Norte
+          1	Campinho Sul
+          1	Campo Baixo
+          1	Campo Betim
+          1	Campo da Morte Lenta
+          1	Campo de Bela Vista
+          1	Campo de Futebol Campinho/Dji d´Sal
+          1	Campo de Futebol de Chã de Alecrim
+          1	Campo de Futebol-Ribeira de Craquinha
+          1	Campo de Madeiralzinho
+          1	Campo de Petanque Nha Beba
+          1	Campo de São Lourenço
+          1	Campo de futebol de Tarrafal
+          1	Campo desportivo- Escola da Boa Entrada
+          3	Camâra Municipal
+          1	Camâra do Porto Novo
+          1	Cam’s Merceria Gourmet
+          1	Canaleo
+          1	Cancelo
+          1	Cantinho d'Tia Bia
+          1	Cantinho de Sal Rei
+          1	Cantinho do Gato Preto
+          1	Canto de Cagarra
+          1	Canto de Fajã
+          1	Canço
+          1	Cape Cod
+          1	Cape Verde
+          2	Cape Verde Atmospheric Observatory
+          1	Cape Verde Multilingual Schools
+          2	Capela
+          1	Capela Funeraria de Fray Francisco de Santo Agostinho
+          1	Capela Nossa Senhora do Rosário
+          1	Capela Santa Ana
+          1	Capela Santo André
+          4	Capela Santo António
+          2	Capela São José
+          1	Capela São João Baptista
+          1	Capela São Pedro
+          2	Capela Tabanca
+          1	Capela Todos Santos
+          1	Capela da Povoaçao Velha
+          1	Capela de São Sebastião
+          1	Capela de Trindade
+          1	Capela do Barreiro
+          1	Capital County Club
+          1	Carangueijo
+          1	Caravela
+          1	Carbeirinho
+          2	Cargo
+          1	Carqueijo
+          1	Carreira de Tiro
+          2	Carriçal
+          2	Carvoeiros
+          2	Casa Azul
+          1	Casa Beiramar
+          1	Casa Ben O'Liel
+          1	Casa Blanca Supermarket
+          1	Casa Branca
+          1	Casa Cafe Mindelo
+          1	Casa Cavoquinho
+          1	Casa Cecilio
+          1	Casa Cesária Évora
+          1	Casa Choca
+          1	Casa Colonial
+          1	Casa Comba
+          1	Casa D'Mar
+          1	Casa Dona Nisinha
+          1	Casa Espongeiro GuestHouse
+          2	Casa Espongeiro Guesthouse B&B
+          1	Casa Familiar Dedey
+          1	Casa Florestal (escritorio) M.D.R.
+          2	Casa Grande
+          1	Casa L. A. Cardoso
+          1	Casa Maracuja (Hatty Fortes)
+          1	Casa Marisa
+          1	Casa Marisa 2.0
+          1	Casa Monte Amarelo
+          1	Casa Monte Amarelo (B&B)
+          1	Casa Padá
+          1	Casa Para Todos-Ribeira de Julião
+          1	Casa Ramiro
+          3	Casa Rodrigo
+          1	Casa Sandra
+          1	Casa Strela B&B
+          1	Casa Tartaruga/Casa Pardal
+          1	Casa Teresa
+          1	Casa Victoria
+          1	Casa da Baleia
+          1	Casa da Memória
+          1	Casa da Morna
+          1	Casa da Musica
+          1	Casa das Ilhas
+          1	Casa das Máquinas
+          1	Casa de Guarda
+          1	Casa di Júlia
+          1	Casa do Cidadão
+          1	Casa do Direito
+          1	Casa do Pescador
+          1	Casa do pão
+          1	Casa d´Água Lombo Tanque
+          1	Casa familiar Bernardo & Sissi
+          1	Casa no caminho
+          1	Casadimagens
+          1	Casas do Sol
+          1	Cascabulho
+          1	Cascalho
+          1	Cascata de Neve
+          1	Cascata de Água Caída
+          1	Casinhas
+          1	Casita Solemar
+          1	Casita Verde
+          2	Castelinho
+          1	Castelo Grande
+          1	Castelão
+          1	Castilhano
+          1	Catumbela
+          1	Cave
+          2	Cavibel
+          1	Cavouco Silva
+          1	Ceasa
+          1	Cebola
+          1	Cedreira
+          1	Cemiterio da Varzea
+          1	Cemiterio de São Lourenço
+          4	Cemitério
+          1	Cemitério Norte da Baia
+          1	Cemitério de Monte Trigo
+          1	Cemitério de São Jorge
+          1	Cemitério de Tarrafal
+          1	Cemitério do Coculi
+          1	Cemitério do Porto Novo
+          1	Central
+          1	Centro Cultural
+          1	Centro Cultural Brasil Cabo Verde
+          1	Centro Cultural Português
+          1	Centro D'Cidade
+          1	Centro Histórico
+          1	Centro Juvenil Nhô Djunga
+          1	Centro Katchass
+          1	Centro Monte Velha
+          1	Centro Médico
+          1	Centro Médico&Laboratório
+          1	Centro Racionalismo Cristão
+          1	Centro Rebelados
+          1	Centro Redentor de Monte Sossêgo
+          1	Centro Saúde Do Tarrafal
+          1	Centro Social
+          1	Centro Social Ribª Bote
+          1	Centro Socio Comunitario
+          1	Centro Stagio
+          1	Centro de Saude
+          1	Centro de Saude Achada Santo Antonio
+          1	Centro de Saude Achadadinha
+          1	Centro de Saude de Tira Chapeu
+          3	Centro de Saúde
+          1	Centro de emprego e formacão profissional de Santo Antão
+          1	Centro de saude dos Mosteiros
+          1	Centro do Bom Pastor
+          1	Centro do Mergulho AAA Maio Plongée
+          1	Centro para as Energias Renováveis e Manutenção Industri
+          1	Centrál
+          2	Cesária Évora
+          1	Cha de Monte
+          1	Chafariz de Cinta de Cirio
+          1	Chafariz de Ribeira de Poï (temporary spring)
+          1	Chaminé
+          1	Chamiço de Cima
+          2	Chapel
+          1	Chapela Nossa Sanhora da Fátima
+          1	Chave D'Ouro
+          1	Chavena e sombra
+          1	Chaves
+          1	Chazinho Bonito
+          1	Che Guevara
+          1	Chez Janine Pension
+          1	Chez Pastis
+          1	Chez Peskinha
+          1	Chez loutcha
+          1	Chico Vaz
+          1	Chill@ut
+          1	China AID
+          1	Chiringuito
+          2	Choupana
+          1	Chuba Chobi
+          1	Chupadeira
+          1	Chupador
+          1	Churrasqueira
+          1	Chã
+          1	Chã Branco de Guitero (Chã de Branca)
+          1	Chã Branco de Pinto
+          2	Chã Cardoso
+          1	Chã Faneco
+          1	Chã Queimada
+          1	Chã Queimado ( Alto Mira II)
+          1	Chã Tiliza
+          1	Chã d'Areia
+          1	Chã d'Asno
+          2	Chã d'Itália
+          2	Chã d'Orgueiro (Alto Mira III)
+          1	Chã das Furnas
+          1	Chã das Pedras - Coculi
+          1	Chã de Alecrim
+          1	Chã de Alecrim/Alto Doca
+          1	Chã de Alexandre
+          1	Chã de Barteloa
+          1	Chã de Beano
+          1	Chã de Caldeira
+          2	Chã de Camoca
+          1	Chã de Cancela
+          1	Chã de Carriço
+          1	Chã de Coelho
+          1	Chã de Curral
+          1	Chã de Estância
+          1	Chã de Feijoal/Monte Cebola
+          1	Chã de Fidalgo
+          1	Chã de Garganta
+          1	Chã de Igreja
+          1	Chã de Mar
+          1	Chã de Marinha
+          1	Chã de Marinha II
+          1	Chã de Monte Sossego
+          2	Chã de Morte
+          1	Chã de Padre
+          1	Chã de Palhal
+          1	Chã de Paulo
+          1	Chã de Pedra Rachada
+          1	Chã de Ponta
+          1	Chã de Portal
+          1	Chã de Portinho
+          1	Chã de Saboneta
+          1	Chã de Santo
+          1	Chã de Vital
+          1	Chã de Água
+          1	Chã de Água Doce
+          1	Chã do Canto do Morro
+          1	Chã do Doutor
+          2	Chã do Porto Novo
+          2	Chão Bom
+          1	Chão Bonito
+          1	Chão Capela
+          1	Chão Cardoso
+          2	Chão Formoso
+          1	Chão Gomes
+          1	Chão Grande
+          1	Chão Vaz
+          2	Chão de Areia
+          1	Chão de Aruela
+          1	Chão de Banana
+          2	Chão de Brito
+          1	Chão de Cana
+          1	Chão de Carriço
+          2	Chão de Horta
+          1	Chão de Junco
+          1	Chão de Laranja
+          1	Chão de Lima
+          1	Chão de Mato
+          1	Chão de Nona
+          1	Chão de Tanque
+          1	Chão de Touca
+          1	Chão do Curral
+          1	Chão do Porto
+          3	Chãzinha
+          1	Ciano
+          1	Cibe Novo
+          1	Cidade Nova Sintra
+          1	Cidade da Ribeira Brava
+          1	Cidade das Pombas
+          1	Cidade das Pombas (Eito de Baixo)
+          1	Cidade das Pombas (Eito)
+          1	Cidade de Espargos
+          1	Cidade de São Filipe
+          2	Cidade do Maio (Porto Inglês)
+          1	Cidade dos Mosteiros
+          2	Cidadela
+          1	Cidreira
+          1	Cigana
+          1	Cimentos
+          1	Cimetério
+          1	CinePraia
+          1	Cinta
+          1	Cinta de Luz (permanent spring)
+          1	Cinta de Vaca
+         18	Circular da Praia
+          1	Cirio
+          1	Cisterno
+          1	Citizen Apartments
+          1	Clementino
+          1	Clinalise
+          1	Clinica Dentar
+          1	Clinica Reabil
+          1	Clinitur
+          1	Club Mistral
+          1	Club Nautico
+          1	Clube Hipico
+          1	Clube de Golfe de São Vicente
+          1	Coavada de Agriões
+          1	Coca Cola Agnel
+          1	Cockpit
+          1	Cocoa
+          2	Coculi
+          5	Coculi-Ribeira Grande
+          1	Coelha
+          1	Colhe Bicho
+          1	College
+          1	Color LAB Praia
+          1	Columbus
+          1	Comando
+          1	Comando Regional de Fogo
+          1	Cometa
+          1	Comité Paralímpico Cabo-verdiano
+          1	Compad
+          1	Compainhas
+          1	Compandim
+          1	Complexo Pombas Brancas
+          1	Complexo de Pesca de Cova Inglêsa
+          1	Conacol
+          1	Condominio Mira Mar
+          1	Condomio Ondas do Mar
+          1	Condóminio Copacabana-Laginha
+          1	Consulado Geral de Guine Bissau
+          1	Consulado da Suecia
+          2	Convento São Francisco
+          1	Coolspot Bubista
+          1	Cooperativa
+          1	Cooperativa Babilónia
+          1	Cooperativa alimentar
+          1	Cooperação Portugal-Cabo Verde
+          1	Copa
+          1	Copacabana Bar & Grill
+          1	Coqueiro
+          1	Coração
+          1	Corda
+          1	Correios
+          1	Correios De Monte Sossego
+          4	Correios de Cabo Verde
+          1	Correios/postoffice
+          1	Correira de Boi
+          2	Corvo
+          1	Cory Brothers
+          1	Cosmetica
+          1	Costim Pereira
+          1	Cova
+          2	Cova Figueira
+          1	Cova Furtado
+          1	Cova Joana
+          1	Cova Matinho
+          1	Cova Romeira
+          1	Cova spring
+          1	Covada
+          1	Covada Fresquinha
+          1	Covada de Bruxa
+          1	Covado da Coroa
+          1	Covinha
+          4	Covoada
+          1	Covão
+          1	Covão Baixo
+          1	Covão Dentro
+          1	Covão Largo
+          1	Covão Mendes
+          1	Covão Riba
+          1	Covão Roque
+          1	Covão Sanchez
+          3	Covão da Bordeira
+          1	Covão da Cruz
+          1	Covão da Praia
+          1	Covão de Horta
+          1	Covão de Rui Vaz
+          1	Covão de Santana
+          1	Coxa
+          1	Coxo
+          1	Craquinha
+          1	Crater Pico de Fogo
+          2	Cratero de Espadaná
+          1	Criolo
+          1	Crioula
+          1	Crioulo
+          2	Cruz
+          1	Cruz Doreda
+          1	Cruz Grande
+          1	Cruz João d'Évora
+          1	Cruz João de Arado (João d'Errot')
+          1	Cruz da Garça
+          1	Cruz de Agostinho
+          1	Cruz de Aguada
+          1	Cruz de Espia
+          1	Cruz de Moroço
+          1	Cruz de Morro de Vento - chafariz
+          2	Cruz de Papa
+          1	Cruz de Poilão
+          1	Cruz de Soague
+          1	Cruz do Salto
+          1	Cruzetinha
+          2	Cruzinha
+          1	Cruzinha da Garça
+          1	Curral
+          2	Curral Grande
+          1	Curral Preto
+          1	Curral da Russa
+          1	Curral das Vacas
+          1	Curral de Asno
+          1	Curral de Baixo
+          1	Curral de João
+          1	Curral do Dadó
+          1	Curraletes
+          1	Curralinho
+          5	Cutelo
+          1	Cutelo Branco
+          1	Cutelo Capado
+          1	Cutelo Correia
+          1	Cutelo Espinho
+          1	Cutelo Mendes
+          1	Cutelo Moreia
+          1	Cutelo Selado
+          1	Cutelo de Coco
+          1	Cutelo de Jatar
+          1	Cutelo de Mamelano
+          1	Cyber Game
+          5	Câmara Municipal
+          1	Câmara Municipal da Praia
+          1	D' Angela
+          1	DELCAR
+          1	Da Valeria
+          1	Dacabaiaio
+          2	Dacabalaio
+          1	Dadô
+          1	Dagoi
+          1	Dalmida
+          1	Damasco
+          1	De Arte Tradicional
+          1	Decorami
+          1	Degolada
+          1	Delegaçào Municipal Pico da cruz -.Conselho do Paul
+          1	Delegação AICEP
+          2	Delegação Municipal
+          1	Delegação Municipal;Posto Sanitário
+          1	Delegação da UE
+          1	Delgadim
+          1	Delgadin: O fogo a água em Santo Anatão
+          1	Delgado
+          1	Deposito de Água
+          1	Desalination
+          1	Descoberta de Cabo Verde
+          2	Deserto de Viana
+          1	Deserto de Viana viewpoint
+          1	Diamantino Pedro
+          1	Digital
+          1	Diligência
+          1	Dioc
+          1	Diocesana
+          1	Diogo Afonsó
+          1	Direção do parque monte gordo
+          1	Disco Mazurca Grill
+          1	Dive Blue Eden
+          1	Dive Centre
+          1	Divecenter Santiago & King Bay
+          1	Djadsal Moradias Block A
+          1	Djadsal Moradias Block B
+          1	Djadsal Moradias Block C
+          1	Djamila
+          1	Djape
+          1	Djar Fogo
+          1	Dji d'Sal
+          1	Do Leão
+          1	Dobe
+          1	Doce Vita
+          1	Dolce Vita
+          1	Dominguinhas ( Alto Mira I)
+          1	Don Paco
+          1	Doze Vintéens
+          1	Dr. Adriano Durate Silva 1892-1961
+          1	Dra. Samila Inocêncio
+          1	Dragoeiro
+          1	Duarte
+          1	Dubai snack bar
+          3	Dunas
+          2	Dunas de Sal
+          1	Duque de Bragança
+          1	ECREEE, ECOWAS Regional Centre for Renewable Energy and Ene
+          1	ELECTRA (desalination plant)
+          1	EM-CF-01
+          1	EM-MO-01
+          4	EM-SF-02
+          4	EM-SF-03
+          1	EM-SF-06
+          1	EM-SF-07
+          4	EM-SF-09
+          7	EM-SF-10
+          2	EM-SF-12
+          1	EM-SF-15
+          1	EN-FG-02
+         17	EN3-FG-01
+          8	EN3-FG-02
+          6	EN3-FG-05
+          5	EN3-FG-06
+          1	EN3-FG-09
+          1	EN3-ST-03
+          1	EN3-ST-04
+         24	EN3-ST-05
+          1	EN3-ST-06
+          2	EN3-ST-07
+          4	EN3-ST-08
+          1	ENACOL - Fuel company
+          1	ERB SUPERMERCADO
+          1	ESCOLA SECUNDÁRIA ABÍLIO DUARTE
+          2	ETAR Sewage Treatment Plant
+          2	Eco Dive School Cabo Verde
+          1	Ecobank "O Banco Panafricano" (Western Union)
+          1	Eden Park Cine-Theatre
+          1	Edifício da Justiça
+          1	Edna Confitures
+          1	Edu Horiz
+          1	Eduardo
+          1	Eki Eko
+          3	Electra
+          1	Electra Norte
+          1	Elektra
+          1	Embaixada da China
+          1	Embaixada da França
+          1	Embaixada da Líbia
+          1	Embaixada da Rússia
+          1	Embaixada de Angola
+          1	Embaixada de Cuba
+          1	Embaixada de Espanha
+          1	Embaixada de Portugal
+          1	Embaixada de Sénégal
+          1	Embaixada do Brasil
+          1	Embaixada dos Estados Unidos da America
+          1	Empresa aérea TACV
+         10	Enacol
+          1	Enfermaria regional de São Nicolau
+          1	Enosso
+          1	Enrique Aguirre Leon
+          1	Entrada no numero 13
+          1	Entre Chã de Alecrim e Madeiralzinho
+          2	Entre Picos de Rede
+          1	Entreposto
+          1	Enzo Caffe Pizza
+          1	Equadra da Policia do Palmarejo
+          1	Eruptions Cave
+          1	Escabeçada
+          1	Escada
+          1	Escola Central e Biblioteca Municipal
+          2	Escola Jorge Barbosa ( Liceu Velho)
+          1	Escola Lavadouro
+          1	Escola Municipal de Musica "Olimpio Estrela"
+          1	Escola Pedro Gomes
+          1	Escola Pedro Nunes
+          1	Escola Polo n° 16 Salamansa
+          1	Escola Portuguesa de Cabo Verde
+          2	Escola Primária
+          1	Escola Primária - Praça Nova
+          1	Escola Primária Roberto Duarte Silva
+          2	Escola Primária de Manta Velha
+          1	Escola Salesiana
+          1	Escola Secundaria Amor de Deus
+          2	Escola Secundaria Suzete Delgado
+          1	Escola Secundária
+          2	Escola Secundária Cónego Jacinto
+          1	Escola Secundária Horace Silver
+          1	Escola Secundário Jorge Barbosa
+          1	Escola Segundaria Pedro Gomes
+          1	Escola Tecnica
+          1	Escola Terra Branca
+          1	Escola Técnica
+          1	Escola da 2ª Companhia
+          1	Escola da Capelinha
+          1	Escola da Ribeira de Craquinha
+          1	Escola da Ribeirinha
+          1	Escola de Bela Vista
+          1	Escola de Bele Vista
+          1	Escola de Ensino Básico da Palmeira
+          1	Escola de Fonte Inês
+          1	Escola de Hotelaria e Turismo de Cabo Verde
+          1	Escola de Lombinho
+          1	Escola de Lombo Tanque
+          1	Escola de Monte Sossego
+          1	Escola de Música
+          1	Escola de Negócios e Tecnologias de Cabo Verde
+          1	Escola de Pedra Rolada
+          1	Escola de Pedra de Lume
+          1	Escola do E.B.-- Bolona
+          1	Escola n. 4
+          1	Escola secundaria Pedro Gomes
+          1	Escola secundária de Ribeira das Patas
+          1	Escoral
+          1	Escovadinha (Covinha)
+          1	Escuela de formacao de pescadores
+          1	Espadaná
+          2	Espaço Regiane Leal
+          1	Espelho - Impluvium
+          1	Esperadinha
+          1	Esperadinha Airport
+          1	Esperanca (Casa Tuti)
+          3	Espigão
+          1	Espingueira
+          1	Espinho Branco
+          1	Esplanada
+          1	Esplanada Bom Dia
+          1	Esplanada Fon` Banana
+          1	Esplanada Lombinha Preta
+          1	Esplanada Morabeza
+          1	Esplanada Rotterdam
+          1	Esplanada Silves
+          1	Esplanada Sodadi
+          1	Esplanda Silibell
+          1	Espongeiro
+          1	Esquadra da Policia da Fazenda
+          1	Esquadra da Policia de Achada Santo Antonio
+          1	Esquadra da Policia de Eugenio Lima
+          1	Esquadra da Polícia
+          1	Estadio Orlando Rodrigues
+          1	Estaleiro
+          1	Estaleiro da Mota-Engil
+          4	Estaleiros Navais
+          1	Estançinha
+          1	Estatua Diogo Gomes
+          1	Estação Meteorológica
+          1	Estação Serviço Shell-Pontinha
+          1	Estação de retransmissão da CVTelecom
+          1	Estação de tratamento de águas residuais
+          1	Estoril Beach Resort
+          1	Estrada Cemitério
+          1	Estrada Culuanto
+          1	Estrada Manta Velha-Cruzinha
+          1	Estrada Principal
+          3	Estrada da Cruz
+          1	Estrada da Praia
+          1	Estrada da Praia velha
+          3	Estrada de Lazareto
+          1	Estrada para o cemitério
+          1	Estrela
+          2	Estádio
+          1	Estádio 20 de Janeiro
+          1	Estádio 25 de Julho
+          1	Estádio 5 de Julho
+          1	Estádio Aquiles d' Oliveira
+          1	Estádio Arsenio Ramos
+          1	Estádio Djidjuca
+          1	Estádio Francisco José Rodrigues
+          1	Estádio João Serra
+          1	Estádio Marcelo Leitão
+          1	Estádio Municipal do Porto Novo
+          1	Estádio Municipal do Tarrafal
+          1	Estádio Nacional de Cabo Verde
+          1	Estádio da Calheta
+          1	Estádio da Varzea
+          1	Estância Roque
+          2	Estância de Brás
+          1	Estância de baixo
+          1	Estúdio de gravação
+          1	Eugenio Lima
+          1	Euro-Africa
+          1	Euroclinina
+          2	Eurofruit
+          1	Ex Mosteiros Airport
+          1	Ex Mosteiros Airport runway
+          1	Ex-Interbase
+          1	Ex-Onave
+          1	Expirience
+          1	FAMA
+          1	FIC-São Vicente
+          3	Fajal
+          1	Fajã
+          1	Fajã Domingas Benta
+          1	Fajã d' Água
+          1	Fajã de Baixo
+          3	Fajã de Cima
+          1	Fajã de Coculi
+          1	Fajã de Mato
+          1	Fajã do Mato
+          1	Fajãzinha
+          1	Faleiro Cabral
+          1	Faleiro Rendeiro
+          1	Falucho
+          1	Farmacia Nova Sintra
+          1	Farmacia São José
+          1	Farmácia
+          1	Farmácia Avenida De Holanda
+          1	Farmácia Gabi
+          1	Farmácia Porto Novo
+          1	Farmácia Santa Maria
+          1	Farmácia Tarrafal
+          1	Faro Ponta Cais
+          1	Faro antigo de Sinó
+          1	Farol Ponta do Sol
+          1	Farol da D. Amélia
+          2	Farol da Ponta Moreia
+          1	Farol da Ponta Preta
+          1	Farol de Fiúra
+          1	Farol de María Pia
+          1	Farol de Morro Negro
+          1	Faró antigo de Farol
+          1	Faról
+          1	Fast Ferry Office
+          1	Fata Morgana
+          1	Fatima
+          2	Fazenda
+          1	Fei Fei
+          1	Feijoal
+          1	Feijoral
+          2	Felicidade
+          1	Femanja
+          1	Fenhosa
+          1	Fernando Pau
+          1	Fernão Gomes
+          1	Festarola
+          1	Figueira Cheu
+          1	Figueira Gorda
+          1	Figueira Muita
+          1	Figueira Pavão
+          1	Figueira Portugal
+          2	Figueira Seca
+          2	Figueira da Horta
+          2	Figueira das Naus
+          1	Figueira de Cocho
+          1	Figueiral
+          1	Figueiral de Cima
+          2	Figueirona
+          1	Filo
+          1	Finicia
+          1	Fishmarket
+          1	Fixe
+          1	FlameOut
+          1	Flamengo de Baixo
+          1	Flamengos
+          1	Flor De Olivei
+          1	Flores
+          2	Florestal de Monte-Velha
+          1	Fly
+          1	Fogo
+          1	Fogo Lounge
+          1	Fogo de Africa
+          1	Fogão
+          1	Fonsaco
+          3	Fontainhas
+          1	Fontana
+          2	Fonte Aleixo
+          1	Fonte Cabrito
+          2	Fonte Cônego
+          1	Fonte Filipe
+          1	Fonte Francês
+          1	Fonte Inés
+          1	Fonte Semedo
+          1	Fonte São João
+          2	Fonte da Horta
+          1	Fonte de Meio
+          1	Fonte de Trás
+          2	Fontes Acima
+          1	Fontona
+          1	Former Artillery
+          1	Former Flight Defense Artillery
+          1	Formiguinhas
+          2	Forno
+          1	Forte de São José
+          1	Fortim D'El Rei
+          1	Fortim d'El-Rei
+          1	Fortin
+          1	Foto Digital
+          1	Foya Branca
+          1	Fragata
+          1	Fragatona
+          1	Franciscus
+          1	Freedom Ecologic Beach Club
+          1	Frescomar
+          1	Fronteira
+          1	Frontreia Vulcao
+          1	Funaná - Casa da Cultura/Kook Proof Activity Center
+          1	Funco Marques
+          1	Fund d'mar
+          1	Fundinho
+          2	Fundo
+          1	Fundo Banana
+          1	Fundo das Figueiras
+          1	Fundo de Figueiras
+          1	Fundo de Manga
+          1	Fundo de Monti
+          1	Fundo de Selada
+          2	Fundura
+          1	Furna
+          1	Furna do Meio
+          1	Furnas
+          1	Fábrica da Chave
+          2	Fábrica de Sabão-Rª Julião
+          1	Gabinete de apoio ao emigrante e Informações Turísticas
+          1	Gabylandia
+          1	Gago Coutinho e Sacadura Cabral
+          1	Galinheiros
+          1	Gamboa
+          1	Gambodjeu Aparthotel
+          1	Gameleiro
+          3	Garantia
+          1	Garantia Sergusos
+          1	Garden Center
+          1	Gare Marítima
+          1	Garça
+          2	Garça de Cima
+         11	Garça de Cima - Ribeira Grande
+          5	Garça-Chã d Igreja
+          1	Garça-Chã d' Igreja
+          1	Garçote
+          1	Gato Bravo
+          1	Gaudi
+          1	Gelandré
+          1	Gelataria tropicalia
+          1	Georges Vynckier
+          1	Gigi's manera café
+          1	Gil Bispo
+          1	Gimno Desportivo Vavá Duarte
+          1	Gimport
+          1	Giramondo
+          1	Godim
+          2	Godinho
+          1	Gogon Hiking Path (Orange)
+          1	Gomes
+          1	Gonçalin'
+          1	Grazole
+          1	Grill
+          1	Grill Luar
+          1	Grils
+          4	Gruta das Águas Belas
+          1	Guache para São Pedro
+          1	Guarda Vento
+          1	Gudo de Cavaleiro
+          1	Gudo de Demarco
+          2	Gudo de Matinho de Corda
+          1	Gudo de Morro de Vento
+          1	Gudo dos Maroços
+          1	Gudo dos Moroços
+          1	Guest House Socente
+          2	Guest House Vista Tarrafal
+          1	Guga
+          1	Guitero
+          1	Guitère
+          1	Gutelo Montanha
+          1	Gutelo de Erva
+          1	Gynicalogista
+          1	H2O
+          1	Hamburg
+          2	Hertz
+          1	Hiace - São Pedro (passa ao lado do aeroporto) a Mindelo
+          1	Hiace para Mindelo
+          1	Hilton Cabo Verde Sal Resort
+          1	Hilton White Sands (under construction)
+          1	Hipodromo
+          1	Historic Salt Scales
+          1	Hobby Club
+          3	Homem de Pedra
+          1	Homen de Pedra
+          1	Honorary Consulate of the Czech Republic
+          1	Hortelã
+          2	Hortelão
+          1	Hortelão - chafariz
+          1	Hospital Agostinho Neto
+          1	Hospital Baptista de Sousa
+          1	Hospital Ramiro Figueira
+          2	Hospital Regional Dr. João Morais
+          1	Hospital Velho
+          1	Hospital de Trindade, Psicatria
+          1	Hospital do Maio
+          1	HostKriolo - Alojamento na Web
+          1	Hotel Aldeia Manga
+          1	Hotel Atlântico
+          2	Hotel Bela Vista
+          1	Hotel Central
+          1	Hotel Cesaria
+          1	Hotel Lazareto
+          1	Hotel Marilu
+          1	Hotel Marine Club
+          1	Hotel Melia Tortuga Beach
+          1	Hotel Pestana Trópico
+          1	Hotel Residencial Jenny
+          1	Hotel Roterdão
+          1	Hotel Santiago
+          1	Hotel VIP Praia
+          1	Hotel Xaguate
+          2	Hotel da Luz
+          1	Housi's Place
+          1	Huwans trajeto
+          1	INPS
+          3	ISCEE
+          1	ISECMAR - Maritime School, Ribeira de Julião
+          1	ITAC
+          1	Iberostar Club Boa Vista
+         11	Igreja
+          1	Igreja "Avedomar Estrela"
+          1	Igreja "Nossa Senhora de Fátima"
+          2	Igreja - Ribeira de Julião
+          3	Igreja Adventista
+          1	Igreja Adventista da Ribeira da Barca
+          1	Igreja Adventista do Setimo Dia
+          1	Igreja Adventista do Sétimo Dia
+          2	Igreja Do Nazareno
+          5	Igreja Nazarena
+          1	Igreja Nossa Senhora de Ajuda
+          2	Igreja Nossa Senhora do Rosário
+          2	Igreja Nova Apostólica
+          1	Igreja Paroquial de Nossa Senhora da Luz
+          1	Igreja Pentecostal Unida de Cabo Verde
+          1	Igreja Santo António das Pombas
+          2	Igreja São Francisco Assis (Igreja dos Capuchinhos)
+          2	Igreja São José
+          2	Igreja São João Baptista
+          1	Igreja Universal
+         14	Igreja católica
+          1	Igreja católica do Cachaço
+          2	Igreja da Ribeira da Barca
+          1	Igreja da Ribeira da Prata
+          1	Igreja de Chã de Alecrim
+          1	Igreja de Nossa Senhora da Graça
+          1	Igreja de Santo Crucifixo
+          1	Igreja de Tira Chapeu
+          1	Igreja do Calhau
+          2	Igreja do Monte Trigo
+          4	Igreja do Nazareno
+          1	Igreja do nazareno
+          1	Igreja nazareto
+          1	Igrena Nova Apostolica
+          1	Ihléu de Cima
+          1	Ilha de Madeira
+          1	Ilhas de Barlavento
+          1	Ilhas de Sotavento
+          3	Ilheu de Curral Velho
+          2	Ilheu do Baluarte
+          1	Ilheu do Galeão
+          1	Ilheu do Porto Ferreira
+          1	Ilheu do Roque
+          2	Ilheu dos Pássaros
+          1	Ilheú Grande
+          1	Ilheú Laje Branca
+          2	Ilheú da Fragata
+          1	Ilheú de Boi
+          1	Ilheú de Santa Maria
+          1	Ilheú do Curral do Dadó
+          1	Ilheús Secos ou do Rombo
+          1	Ilhéu
+          1	Ilhéu Branco
+          1	Ilhéu Derrubado
+          1	Ilhéu Grande
+          1	Ilhéu Losna ( destroyed by Lava)
+          1	Ilhéu Luís Carneiro
+          1	Ilhéu Rabo de Junco
+          1	Ilhéu Raso
+          1	Ilhéu Sapado
+          1	Ilhéu Zinho
+          1	Ilhéu de Casaca
+          1	Ilhéu de Lapa
+          1	Ilhéu de Monte Grande
+          1	Ilhéu de Sal Rei
+          1	Ilhéu de Santa Maria
+          1	Ilhéu do Rei
+          1	Ilhéu dos Alcatrazes
+          1	Ilhéu dos Pássaros
+          1	Ilhéus Secos ou do Rombo
+          1	Ilhéus do Rombo
+          2	Impar
+          1	Imperio II
+          2	Impluvium
+          1	Impofrut
+          1	Infocom
+          1	Informaçoes Turisticas
+          1	Infotel
+          2	Inhuco
+          1	Instituto Nacional de Desenvolvimento de Pesca
+          1	Instituto Nacional de Meteorologia e Geofisica
+          1	Instituto Nacional de Previdência Social
+          3	Interatlantico
+          1	Intercidades
+          2	Internet Cafe
+          1	Internet Cyber Mulimedia
+          2	Internetcafé
+          1	Inês
+          1	Iogurel
+          1	Ipanema
+          1	Island Service Incoming Cabo Verde
+          1	Island Services Incoming
+          2	Itália
+          1	J.L.F. Mercado de Peixe
+          1	JBRN-Construções
+          1	Jairson Future House
+          1	Jajó
+          1	Jalalo Ramos
+          1	Jana
+          1	Janela
+          4	Janela-Paul
+          1	Janela-Paul - Porto Novo
+          2	Janela-Paúl
+          4	Janela-Paúl - Porto Novo
+          1	Japluma
+          1	Jardim
+          1	Jardim Botanico
+          2	Jardim Infantil
+          1	Jardim Mundo Infantil Rª Bote
+          1	Jardim da Murdeira
+          1	Jardim de Infância
+          1	Jardim de Vinho
+          1	Jardim infantil Amilcar Cabral
+          1	Jerónima
+          1	John
+          1	Johnnie Walker Club
+          1	Jon d'Pipi
+          1	Jose Doce
+          1	Jovem
+          1	João Alfonso - Coculi
+          1	João Barrosa
+          1	João Bernado
+          1	João Bom
+          1	João Dias
+          1	João Gago
+          1	João Galego
+          1	João Gonçalo
+          2	João Guela
+          2	João Teves
+          1	João Toro
+          2	João Varela
+          1	João d'Nole
+          1	Julangue
+          2	Juncalinho
+          1	Junta
+          2	Justino Lopes
+          1	Jóse da Rosa
+          1	K Dócia
+          1	Kalimba
+          1	Kanta Morna Café
+          1	Kasa Tambla
+          1	Kasa d'Igreja - Ecolodge
+          1	Kasa d'Igreja Ecolodge
+          1	Kawsara Fall
+          1	Kaza Branka
+          1	Kaza Tropikal
+          1	Kaza Txan
+          1	Kaza d'Artista
+          1	Kebra Kabana
+          1	Kebra Kanela
+          1	Kebra Kanela II
+          1	King Fisher Resort
+          1	King fisher
+          1	Kintalinh
+          1	Kiosque
+          1	Kira's
+          1	Kite Beach Club
+          1	Kite- and Surf School "Kite Verde"
+          1	Kitekriol
+          1	Kongelig Danske Konsulat (Danish Embassy)
+          1	Kook Proof Activity Center
+          1	Koyaba Café
+          1	Kriola
+          1	Kulor Cafe
+          1	Kusa di kasa
+          1	L'Escale
+          1	LG
+          1	La Crêperie Chez Zoe
+          1	La Marea
+          1	La Pergola
+          1	La Pizza
+          1	La Tortuga
+          1	La Villa Beach Lounge
+          1	La lampara
+          1	La lampara da giorgio
+          1	LaLa shop
+          1	Ladeira das Canas
+          1	Ladeira do Guverno
+          1	Lagedos
+          1	Laginha
+          1	Laginha bar
+          7	Lagoa
+          1	Lagoa ( abandonado)
+          1	Lagoa Cimidor
+          1	Lagoa primary school
+          4	Lagoinha
+          1	Laje Ponte
+          1	Lajão
+          1	Lalai
+          1	Lambada
+          1	Lameirão
+          1	Lapa Cachorro
+          1	Lapa Cavalo
+          1	Lapa Goruja
+          1	Laraninha
+          1	Laranjinha
+          1	Laranjo
+          1	Largo Catchás
+          2	Largo Europa
+          1	Largo Eusébio da Silva Ferreira
+          2	Largo John Millers
+          1	Largo José Lopes
+          1	Largo Nho Djunga
+          2	Largo Santa Isabel
+          1	Largo Sporting
+          1	Largo da Cruz
+          1	Largo do Madeiral
+          1	Largo do Mercado
+          1	Largo do Pelourinho
+          2	Largo dos Mosteiros
+          1	Las Rochas
+          1	Las Vegas
+          1	Lasdunas
+          1	Lavomatic
+          1	Lazareto
+          1	Le Flostel
+          1	Le Poulet
+          1	Le Privé
+          1	Leitão Baixo
+          1	Lela Leite
+          1	Lem Barbosa
+          1	Lem Cachorro
+          1	Lem Cardoso
+          1	Lem Cruz
+          1	Lem Forte
+          3	Lem Gomes
+          2	Lem Grande
+          2	Lem Jorge
+          4	Lem Lopes
+          2	Lem Mendes
+          1	Lem Pereira
+          2	Lem Sancho
+          1	Lem Silva
+          1	Lem Tavares
+          1	Lem Varela
+          2	Lem da Veiga
+          1	Lem de Almeida
+          1	Lem de Baixo
+          1	Lem de Meio
+          1	Leonardo Café
+          1	Levada dos Orgãos
+          3	Liceu Domingos Ramos
+          1	Liceu Ludgero Lima
+          1	Liceu Olavo Moniz
+          1	Liceu Velho
+          1	Liceu do Coculi
+          1	Lima
+          2	Limeira
+          1	Limoeiro
+          2	Limão
+          1	Lin d' Corvo
+          1	Linha 6
+          1	Linha 6 (mais perto do aeroporto)
+          2	Linhas 4 e 6
+          1	Lispence
+          1	Lita
+          1	Livraria diocesana
+          1	Lixeira
+          1	Loja Artisanato
+          1	Loja Chinês Diuny
+          1	Loja de Fé
+          1	Lomba
+          2	Lomba Branca
+          1	Lomba Cova do Mar
+          1	Lomba da Vigia
+          1	Lombinho
+          1	Lombinho d' Alho
+          1	Lombinho de Boa Ventura
+          1	Lombinho de Figueira
+          2	Lombo
+          1	Lombo Gudo
+          2	Lombo Largo
+          1	Lombo Tantum
+          1	Lombo Velho
+          1	Lombo Vermelho
+          1	Lombo campo-campo
+          1	Lombo da Torre
+          1	Lombo das Lança
+          1	Lombo de Andriano
+          2	Lombo de Cruz
+          1	Lombo de Figueira
+          1	Lombo de Galinha
+          2	Lombo de João de Patinha
+          1	Lombo de Livramento
+          1	Lombo de Negrinho
+          2	Lombo de Pedra
+          1	Lombo de Pico
+          1	Lombo de Pulgueira
+          1	Lombo de Ribeirinha - casa florestal 1578m alt
+          1	Lombo de Santa
+          1	Lombo de Tanque
+          1	Longueira
+          1	Losnã
+          1	Lounge bar
+          2	Lua Negra Bar Restaurante
+          1	Luca Kalema
+          1	Lugar de Guene
+          1	Luis Alfonso
+          1	Luzia Nunes
+          1	Luís de Camões
+          2	Lém Ferreira
+          1	Lém-Ferreira
+          1	MAHOT
+          1	MEDICENTRO  CLINICA
+          1	MERCADO DE SUCUPIRA
+          1	MHOP 1984
+          1	MIrage
+          1	Madama
+          1	Madeiral
+          1	Madeiralzinho
+          3	Maio
+          1	Maio Old Colonial Guesthouse
+          1	Maio Relax
+          1	Maio Verde Guest House
+          1	Malagueta
+          1	Malhada Pedra
+          1	Malon
+          1	Maluka
+          1	Mamma Mia
+          1	Manafil
+          1	Mancholi
+          1	Manera
+          1	Manga Larga
+          2	Mangue de Sete Ribeiras
+          1	Manipo
+          1	Manipulo
+          1	Manta Velha
+          2	Manuel Ferreira Camões (Avenida Assis Cadório)
+          1	Mar Mimoso
+          1	Mar Tranquilidade
+          1	Mar a vista
+          1	Mar di Baxu
+          1	Mar di baixo
+          1	Maravilha
+          1	Marccelino
+          1	Maresias
+          1	Maria Chavez
+          3	Maria Parda
+          1	Marina
+          1	Marina Mindelo Bar
+          2	Marina Porto Lobo
+          1	Marina d' Tarrafal
+          2	Maroços
+          1	Marrador
+          1	Martifer Solar PV
+          1	Matamo
+          1	Matihno de Corda
+          1	Matinho
+          1	Matinho de João Alfonso
+          3	Mato
+          1	Mato Alfonso
+          1	Mato Brasil
+          1	Mato Cural
+          1	Mato Grande
+          1	Mato Gégé
+          1	Mato Mendes
+          1	Mato Raia
+          1	Mato Sancho
+          1	Mato Xexe
+          1	Matoreal
+          1	Medina
+          1	Meio Ventoso
+          1	Meio-do-Atlantico, LDA
+          1	Melador
+          1	Meliá Dunas Beach Resort & Spa
+          1	Melo de Espanha
+          1	Mendes
+          1	Mendes & Mendes
+          4	Mercado
+          1	Mercado (da) Ribeirinha
+          1	Mercado H.
+          1	Mercado Monte Sossego
+         19	Mercado Municipal
+          1	Mercado Ribeirinha
+          1	Mercado Sales
+          1	Mercado do peixe
+          1	Mercador
+          2	Mercearia
+          1	Mercearia Cianna
+          1	Mercearia Elvis
+          1	Mercearia Ferreira
+          1	Mercearia Malaquias
+          1	Mercearia Monteiro
+          1	Mercearia SOARES
+          1	Metrico
+          1	Meu super
+          1	Microcenter
+          1	Migrante Guesthouse
+          1	Miguel Gonçalves
+          1	Miguel Pires
+          1	Milafre
+          1	Milcar
+          1	Milho Branco
+          2	Mindel Hotel
+          3	Mindelo
+          1	Mindelo Expresso
+          1	Mindelo Ferry Terminal
+          1	Minho Branco
+          1	Minhoto
+          1	Mini Fonteca & Santos
+          1	Mini Marcedo Lopes
+          1	Mini Mercado Cintia II
+          1	Mini Mercado Murdeira
+          1	Mini Mercado Zhang
+          1	Mini mercado yong
+          1	Mini-Market
+          1	Mini-Markt
+          1	Mini-Residencial Manuela Ramos
+          1	Minimercado Bom Preço
+          1	Minimercado capricho
+          1	Ministerio das Finanças e Planeamento
+          1	Ministério da Educação e Desporto
+          1	Ministério do Turismo e Transportes
+          1	Miradoura da Bila Baxo
+          1	Miradouro
+          1	Miradouro Dragoeiro
+          1	Miradouro Santa Maria
+          1	Miradouro do Brasil
+          1	Miradouro do Cruzeiro
+          1	Miraflores
+          3	Missão Paroquial Viver O Evangelio Hoje
+          1	Mochin de monte
+          1	Modelo
+          1	Moderna
+          1	Mogambo
+          1	Moia
+          1	Monastery "Casa Esperanca"
+          1	Montanha
+          1	Monte Alcacom
+          1	Monte Alecrim
+          1	Monte Almada
+          1	Monte Alto
+          1	Monte Amargosa
+          1	Monte António Gomes
+          1	Monte Aranha Perna
+          2	Monte Baixo
+          1	Monte Barreiros
+          1	Monte Batalha
+          2	Monte Beco
+          1	Monte Belém
+          1	Monte Bernardeiro
+          1	Monte Bissau
+          1	Monte Boca Larga
+          1	Monte Bode
+          1	Monte Bodo
+          1	Monte Braga
+          2	Monte Branco
+          1	Monte Brianda
+          1	Monte Cagarral
+          1	Monte Calderinha
+          1	Monte Cama Madeirense
+          1	Monte Camelengues
+          1	Monte Canelinho
+          1	Monte Canelona
+          1	Monte Cara
+          1	Monte Carrachiça
+          1	Monte Cassanga
+          1	Monte Catarina
+          1	Monte Caçador
+          1	Monte Chaminé
+          1	Monte Chapeu
+          1	Monte Clara
+          1	Monte Costa
+          1	Monte Covado
+          2	Monte Curral
+          1	Monte Delgado
+          1	Monte Diogo
+          1	Monte Dobe
+          1	Monte Domingo
+          1	Monte Escora
+          1	Monte Esgovere
+          1	Monte Esperto
+          1	Monte Estância
+          1	Monte Façanha
+          1	Monte Fontinha
+          1	Monte Forte
+          1	Monte Frade
+          1	Monte Fundura
+          1	Monte Furado
+          1	Monte Gambia
+          1	Monte Gamboa
+          2	Monte Genebra
+          1	Monte Gordo
+          1	Monte Graciosa
+          4	Monte Grande
+          1	Monte Grazote
+          1	Monte Grito
+          1	Monte Grossa
+          1	Monte Guinaria
+          1	Monte Hortelão
+          1	Monte Inhuco
+          1	Monte Jacinto
+          1	Monte Jagau
+          1	Monte Joana
+          1	Monte João Façanha
+          1	Monte João Meneses
+          1	Monte João d'Évora
+          1	Monte Lajes
+          3	Monte Largo
+          1	Monte Leste
+          2	Monte Leão
+          1	Monte Manuel Lopes
+          1	Monte Miranda
+          1	Monte Mondon
+          1	Monte Moroço
+          1	Monte Palha Carga
+          1	Monte Pasarinho
+          1	Monte Pedroso
+          1	Monte Pelado
+          1	Monte Penoso
+          1	Monte Piorno
+          1	Monte Pousada
+          2	Monte Preto
+          1	Monte Preto de Cima
+          1	Monte Ramo
+          1	Monte Ribeirão Calvo
+          1	Monte S. Miguel
+          1	Monte Sal
+          1	Monte Salamansa
+          1	Monte Salineiro
+          1	Monte Santo António
+          1	Monte Serrado
+          1	Monte Sintinha
+          1	Monte Soca
+          1	Monte Sodelho
+          1	Monte Sombreiro
+          1	Monte Sossego
+          1	Monte Tabor
+          1	Monte Tamareiro
+          2	Monte Tchota
+          1	Monte Tomba
+          1	Monte Tomé
+          2	Monte Trigo
+          1	Monte Vento
+          1	Monte Verde
+          1	Monte Verinelho
+          6	Monte Vermelho
+          1	Monte Volta
+          1	Monte da Cruz
+          1	Monte da Ponta Verde
+          1	Monte da Ribeirinha
+          1	Monte das Vacas
+          1	Monte de Asno
+          1	Monte de São João
+          1	Monte do Facho
+          1	Monte dos Fanões
+          1	Monte Água
+          1	Montes
+          1	Montes Redondos
+          1	MontiClinic - Clínica Médica
+          3	Montinho
+          1	Montinho de Baixo
+          2	Montinho de Lume
+          1	Montona
+          1	Montz
+          1	Moon Light
+          1	Moonstar
+          1	Morabeza
+          1	Morabeza Beach Bar
+          1	Morabeza Beach Bar & Lounge Restaurant
+          1	Morabeza Kriol Hotel
+          1	Morabitur
+          1	Morra das Pedras
+          1	Morre Brás
+          1	Morrinho
+          1	Morrinho de Costinho
+          1	Morrinho de Passagem
+          1	Morrinho do Açúcar
+          1	Morrinho do Filho
+          1	Morrinho dos Cães
+          2	Morro
+          1	Morro Alto
+          1	Morro Amaderinho
+          1	Morro Atravessado
+          1	Morro Branco
+          1	Morro João Daninha
+          1	Morro Largo
+          1	Morro Ribeira Torta
+          1	Morro Vermelho
+          1	Morro Vermelho da Rocha da Salina
+          1	Morro da Glória
+          1	Morro de Areia
+          1	Morro de Baixo
+          1	Morro de Campo
+          1	Morro de Conceição top
+          1	Morro de Covãozinho
+          2	Morro de Figueira
+          1	Morro de Panela
+          2	Morro de Panela Quente
+          1	Morro de Ribeira Larga
+          1	Morro do Brejo
+          1	Morro do Poio
+          1	Morro do Tubarão
+          1	Mosquito Grande
+          1	Mosquito da Horta
+          1	Mosteiros
+          1	Mosteiros-Igreja
+          1	Motcha
+          1	Muito Vento
+          1	Mulata
+          1	Mulona
+          1	Multichoice
+          1	Multidata
+          1	Mundilar
+          1	Murdeira
+          1	Museo Municipal
+          1	Museo de Arqueologia
+          1	Museou Etnográfico
+          1	Museu de Tabanka
+          1	Musica Do Mar
+          2	Mustafa Atelier
+          1	Mãe Joana
+          1	Mão para Trás
+          1	N 17.11780° W 025.16108°
+          1	NATUDS
+          2	NHA Terra
+          1	Na Joanna
+          1	Naida
+          1	Nautic Club Columbus
+          1	Navarro
+          1	Nave Monte Vendoso
+          1	Navigation mast
+          1	Nazareth
+          1	New Horizons
+          3	Nhagar
+          1	Nhamita
+          1	Nho Eugenio
+          1	Nice Kriola
+          1	Nild-ro interart 98
+          1	No Stress
+          1	Nobai
+          2	Nora
+          1	Norte
+          1	Norte da Baia I
+          1	Norte da Baia II
+          1	Nortenha
+          1	Nossa Sanhora da Conceição
+          3	Nossa Senhora da Conceição
+          1	Nossa Senhora da Graça
+          3	Nossa Senhora da Luz
+          1	Nossa Senhora da Luz Baia
+          1	Nossa Senhora da Piedade
+          2	Nossa Senhora das Patas
+          1	Nossa Senhora de Encarnação
+          2	Nossa Senhora de Fátima
+          1	Nossa Senhora do Livramento
+          2	Nossa Senhora do Rosário
+          1	Nossa Senhora do Socorro
+          1	Nova Cidade
+          1	Nova Gerência
+          1	Nova Sintra do Monte
+          1	Novatur
+          1	O CURRAL
+          1	O Curral
+          1	O Templo
+          1	O pescador
+          1	O prazer Italiano
+          1	ONU
+          1	OWF
+          1	Oasa Feijóo
+          1	Oasis
+          1	Oasis Atlântico Praiamar
+          1	Oasis Salinas Sea Resort Beach Club
+          1	Ocean Café
+          1	Odjo d'Água
+          1	Odjo d’Mar
+          2	Odjo d’Mar hiking trail
+          1	Odjo d’Água
+          2	Odjó d'Água
+          1	Oficina CMSV
+          1	Oficina Escola Ti Nené
+          1	Olamar Hotel
+          1	Old Shop
+          1	Olho de Água
+          1	Olho de Água de Mato Sanchez
+          1	Olá Gelados
+          1	Opticalia
+          1	Opticamedica
+          1	Ordem dos Engenheiros de Cabo Verde
+          1	Oreliano
+          1	Organização Salense Proteção Animais (OSPA)
+          1	Orgãos Pequenos
+          1	Orquídea
+          1	Ote Level
+          1	Otmus Web Facility
+          1	PMI
+          1	PMI Bela Vista
+          1	POLAR agencia marítima de navegação. Ilhas de MAIO e PRA
+          1	Pacha
+          1	Padaria Bakery
+          1	Padaria Matizinho
+          1	Padaria Variedades Loja
+          2	Pagode
+          1	Pai António
+          1	Paiol
+          1	Paiva
+          1	Palacio da Cultura Ildo Lobo
+          1	Palacio da Justiça
+          1	Palacio do Governo
+          1	Palanque
+          4	Palha Carga
+          1	Palha Verde
+          1	Palhal
+          1	Palhal de Cima
+          1	Palm Beach
+          1	Palmarejo
+          3	Palmarejo Baixo
+          2	Palmarejo Grande
+          9	Palmeira
+          1	Palmeira Power station
+          2	Palmeira-Espargos
+          1	Palmerinha
+        433	Palmtree
+         74	Palmtrees
+          1	Palácio Justiça
+          1	Palácio Presidencial
+          1	Palácio da Justica (Comarca da Ribeira Grande - Ponta do S
+          1	Palácio do Mindelo
+          1	Panorama Restaurante
+          4	Pao Quente
+          1	Pao e Doce
+          1	Parada mais próxima do aeroporto
+          1	Paradise Beach Hotel and SPA
+          1	Paradona
+          1	Parc
+          1	Paroquia de São Lourenço
+          1	Parque 5 de Julho
+          1	Parque Desportivo
+          1	Parque Estacionamento 2
+          2	Parque Fotovoltaico
+          1	Parque Natural De Serra Malagueta
+          1	Parque Natural Monte Gordo
+          1	Parque Natural Serra Malagueta
+          1	Parque Natural de Barreiro e Figueira
+          1	Parque Natural de Monte Verde
+          1	Parque Natural do Fogo
+          1	Parque Natural do Moroços
+          1	Parque Natural do Santo António
+          1	Parque Nhô Roque
+          1	Parque da escola de Hotelaria e Turismo
+          1	Parque de Automoveis e Quartel Bombeiros
+          1	Paróquia Nossa Senhora das Dores
+          2	Passo
+          1	Passo de Covoada
+          1	Passo de Noiva
+          1	Pastelaria Algarve
+          1	Pastelaria Morabeza
+          1	Pastelaria Vilu
+          2	Patim
+          4	Patrice Lumumba
+          1	Pau Cortado
+          1	Pau Verde
+          5	Paul
+          1	Paulino
+          1	Paulo
+          1	Pavilhão
+          1	Pavilhão Escola Jorge Barbosa
+          1	Paz e Bem
+          2	Paços do Concelho
+         13	Paúl
+          1	Paúl Mar
+          1	Paúl Tour
+          1	Pe Sanebo
+          1	Pe de Monte
+          1	Pe de Rocha
+          1	Pedicure Manicure Patchy
+          2	Pedra Badejo
+          1	Pedra Barro
+          1	Pedra Comprida
+          1	Pedra Ferro
+          1	Pedra Flupo
+          1	Pedra Galinha
+          1	Pedra Jacinto
+          1	Pedra Larga
+          1	Pedra Rachada;radar - A.S.A.
+          1	Pedra Rolada (Cruz de Papa)
+          1	Pedra Rolanda
+          1	Pedra Tcheu
+          1	Pedra Vermelha
+          2	Pedra de Lume
+          2	Pedracin Village
+          1	Pedrante
+          1	Pedreira
+          1	Pedro Moto
+          1	Pedro Vaz
+          1	Peixaria Municipal
+          1	Pelado
+          2	Pelourinho
+          1	Penha da França
+          1	Penoso
+          1	Pensamento
+          1	Pensao Christine
+          1	Pensao Cristine
+          1	Pensao Pyramid
+          2	Pensao Residencial Jardim
+          1	Pension Chez Sandro
+          1	Pensão Anita Ferreira
+          1	Pensão Jumbo
+          1	Pensão MiraMaio
+          1	Pensão Residencial Jardim
+          1	Pensão Santo António
+          1	Pentão
+          1	Pereira Marinha
+          1	Pereira Sampaio
+          1	Perna
+          1	Perola
+          1	Perola d Chaves
+          1	Pestana Tropico Hôtel
+          1	Pia de Cima
+          1	Piaca 4 de Maio
+          1	Pick&Pay
+          1	Pico Leão
+          1	Pico Pequeno
+          1	Pico Pires
+          1	Pico d'Antónia
+          2	Pico da Cruz
+          1	Pico de Caldeira
+          1	Pico de Fogo
+          1	Pico de Fogo caldera
+          2	Pico do Antonio
+          1	Pico do Vento
+          1	Picos
+          1	Pier da ilha do MAIO
+          1	Pilon de Achada Leite
+          2	Pilão Cão
+          2	Pingo de Chuva
+          1	Pinha de Engenho
+          1	Pinhão
+          1	Pinto & Pinto's
+          1	Pipi's Bar
+          1	Pipis Bar
+          1	Pirata
+          1	Pirata Shop
+          1	Piratos Farol
+          1	Pizarra
+          1	Pizza Adriano
+          1	Pizza Bitanha
+          1	Pizzara
+          1	Pizzaria Veronica
+          1	Pizzeria O Cocktail
+          1	Platô
+          1	Platô-Chã de Alecrim
+          1	Plaza
+          1	Plião Cão
+          1	Poeta
+          2	Poilão
+          1	Poilão Cabral
+          1	Poilãozinho
+          1	Poilón
+          1	Police
+          1	Policia Judiciaria
+          1	Policia Maritima
+          1	Policia National
+          1	Polidesportivo
+          1	Polidesportivo Oieras-Monte Sossego
+          2	Polivalente
+          1	Polivalente Chã de Alecrim-S.Vicente
+          1	Polivalente Municipal
+          1	Polivalente São João de Baptista
+          1	Polivalente de Bela Vista
+          1	Polivalente municipal
+          1	Polivalente-Cruz João Évora
+          1	Polo nº III - Boa Entrada
+          1	Polícia
+          1	Pombas
+          1	Pont da Lavada
+          1	Ponta Altar
+          1	Ponta Antónia
+          1	Ponta Baixo
+          1	Ponta Beaninho
+          1	Ponta Benguinho
+          1	Ponta Bicuda
+          1	Ponta Branca
+          1	Ponta Braço da Sirena
+          1	Ponta Cabeça da Tartaruga
+          1	Ponta Cais
+          1	Ponta Calheta Formosa
+          1	Ponta Carreto
+          1	Ponta Chuba Chobi
+          1	Ponta Cosme
+          1	Ponta Cruz
+          2	Ponta Diante
+          1	Ponta Focinho
+          2	Ponta Furna
+          1	Ponta Jalunga
+          1	Ponta João Ron
+          1	Ponta Lopo
+          1	Ponta Manga Larga
+          1	Ponta Meringuel
+          1	Ponta Moreia
+          1	Ponta Morro de Areia
+          1	Ponta Ossa de Baleia
+          1	Ponta Pedra do Mar
+          1	Ponta Pedrenau
+          1	Ponta Pesqueiro Grande
+          1	Ponta Pipa
+          1	Ponta Praia de Cabral
+          5	Ponta Preta
+          1	Ponta Prosela
+          1	Ponta Pé de Branco
+          1	Ponta Rica
+          1	Ponta Rodrigo
+          1	Ponta Salina
+          1	Ponta Sambala
+          1	Ponta Similão
+          1	Ponta Varandinha
+          2	Ponta Verde
+          1	Ponta d'Achada
+          1	Ponta d'Agua
+          3	Ponta d'Água
+          2	Ponta da Achada
+          1	Ponta da Baleia
+          1	Ponta da Boca da Ribiera
+          1	Ponta da Costa
+          2	Ponta da Cruz
+          1	Ponta da Plombeta
+          1	Ponta da Pontona
+          2	Ponta da Salina
+          1	Ponta das Casas Velhas
+          1	Ponta de Calheta Negra
+          1	Ponta de Calheta de Cruz
+          2	Ponta de Casa
+          1	Ponta de Embarcadouro
+          1	Ponta de Ervatão
+          1	Ponta de Medronho
+          1	Ponta de Nho Pedro
+          1	Ponta de Perdinha Preta
+          1	Ponta de Rego Molhador
+          1	Ponta de Rego da Guiné
+          1	Ponta de Sal
+          1	Ponta de Santa Clara
+          1	Ponta de São Francisco
+          1	Ponta de Tantum
+          1	Ponta de Tarrafim
+          1	Ponta de Varca de Frade
+          1	Ponta de Água Doce
+          1	Ponta do Galeão
+          1	Ponta do Lobrão
+          1	Ponta do Morrinho
+          1	Ponta do Morro
+          1	Ponta do Pau Seco
+          1	Ponta do Porto Ferreira
+          1	Ponta do Rincão
+          1	Ponta do Roque
+          1	Ponta do Sal
+          1	Ponta do Sinó
+          4	Ponta do Sol
+          2	Ponta do Sol - Ribeira Grande
+          1	Ponta do Tarafinho
+          1	Ponta do Tubarão
+          1	Ponta do Velho Branco
+          1	Ponta por trás da Cruz
+          1	Ponta trás do Cagarral
+          1	Ponte João Ribeiro
+          1	Pontão
+          1	Pool Bar
+          1	Por de Sol Arte
+          1	Por do Sol
+          1	Port
+          1	Portal
+          1	Portalzinho
+          2	Portinho
+          1	Porto
+          1	Porto Abaixo
+          1	Porto Acima
+          2	Porto Antigo
+          1	Porto Antigo I
+          1	Porto Antigo II
+          2	Porto Fazenda
+          1	Porto Ferreira
+          2	Porto Formoso
+          1	Porto Fundo
+          1	Porto Furna
+          1	Porto Gouveia
+          1	Porto Grande
+          2	Porto Grande Hotel (Oásis Atlântico)
+          1	Porto Grande-São Vicente
+          2	Porto Inglês
+          1	Porto Madeira
+          1	Porto Mosquito
+          4	Porto Novo
+         37	Porto Novo - Janela
+         17	Porto Novo-R.Grande
+          5	Porto Novo-Ribeira Grande
+          1	Porto Prainha
+          3	Porto Rinção
+          1	Porto Rinção-Assomada
+          1	Porto Vale de Cavaleiros
+          3	Porto da Praia
+          1	Porto de Evertão
+          1	Porto de Ribeira da Barca
+          1	Porto de Sal Rei
+          1	Porto de São Francisco
+          1	Porto de Tantum
+          1	Porto dos Ferreiros
+          3	Porto novo-R.Grande
+          1	Positivos + Culture House
+          2	Posto Sanitário
+          1	Posto Sanitário "Entermaria Regional"
+          1	Posto Sanitário da Garça
+          1	Posto Sanitário de Pedro Vaz
+          1	Posto Sanário
+          1	Posto de segurança
+          1	Pousada Quinta da Montanha
+          1	Pousada da Juventude
+          2	Poço
+          1	Poço Senegal
+          1	Praceta Ribeira Grande
+          1	Praceta Tarrafal de São Nicolau
+          1	Pracinha de Quebrad
+          3	Praia
+          1	Praia António Sousa
+          2	Praia Baixo
+          2	Praia Branca
+          1	Praia Calheta Grande
+          1	Praia Clinica
+          1	Praia De Tropo
+          1	Praia FM
+          1	Praia Formosa
+          2	Praia Gonçalo
+          1	Praia Guest House
+          1	Praia Kapital Restaurante Esplanada
+          1	Praia Mar
+          1	Praia Maria
+          1	Praia Negra
+          1	Praia Senhora de Encarnação
+          2	Praia Shopping
+          1	Praia São Roque
+          1	Praia São Tomé
+          2	Praia da Boca de Salina
+          1	Praia da Calheta
+          1	Praia da Chave
+          1	Praia da Cova Figueira
+          2	Praia da Farrapa
+          1	Praia da Fontona
+          1	Praia da Gambôa
+          1	Praia da Ponta Preta
+          2	Praia da Varandinha
+          1	Praia da Vila
+          1	Praia de Abrohla
+          1	Praia de Atlanta
+          1	Praia de Baia Gombeza
+          2	Praia de Carlota
+          2	Praia de Carquejinha
+          1	Praia de Carreto
+          1	Praia de Carvão
+          1	Praia de Chaves
+          1	Praia de Cruzinha Brito
+          2	Praia de Curral Matheus
+          1	Praia de Curral Velho
+          1	Praia de Estoril
+          1	Praia de Fiura
+          3	Praia de Gamboa
+          1	Praia de Gi
+          1	Praia de Igrejinha
+          1	Praia de Lacação
+          1	Praia de Laginha
+          1	Praia de Lagoa
+          1	Praia de Lancha
+          1	Praia de Mangue
+          1	Praia de Ponta Preta
+          1	Praia de Santa Maria
+          5	Praia de Santa Mónica
+          4	Praia de Santana
+          1	Praia de São Francisco
+          1	Praia de São Francisco- Beach Katumbela
+          1	Praia de São Pedro
+          1	Praia deEstoril
+          1	Praia do Castelo
+          2	Praia do Curralinho
+          1	Praia do Ilhéu
+          1	Praia do Mosquito
+          1	Praia do Tarrafal
+          1	Praia dos Curraletes
+          1	Praia d´Diante
+          3	Praia-Assomada/ Calheta-Tarrafal
+         22	Praia-Calheta-Tarrafal
+          7	Praia-Calheta-Tarrafal (Estrada da Praia)
+          1	Praiadise Hostel
+          2	Prainha
+          1	Prassa 3 Hotel
+          3	Praça
+          1	Praça 12 de Setembro
+          1	Praça 13 Janeiro
+          1	Praça Abílio Duarte
+          1	Praça Alexandre Albuquerque
+          1	Praça Central
+          1	Praça Cruz João d'Evora
+          2	Praça Dom Luís
+          1	Praça Domingos Ramos
+          3	Praça Dr. Regala
+          1	Praça Estrela
+          5	Praça Fina
+          1	Praça Gustavo Monteiro
+          4	Praça Infante Dom Henrique
+          1	Praça Luis de Camões
+          1	Praça Manoel A. Martins
+          1	Praça Marcelo Leitão
+          1	Praça Nova
+          1	Praça Nova (Praça Amilcar Cabral)
+          1	Praça Riba d'Olt
+          1	Praça da Terra Branca
+          1	Praça de Terra Branca
+          1	Praça dos Emigrantes
+          2	Praça dos Namorados
+          2	Praça dos Pescadores
+          1	Preguiça
+          1	Preguiça Airport
+          1	Presidential Residence
+          1	Primeira Fase
+          1	Projecto de Desenvolvimento Comunitario de Lajedos
+          1	Projecto de Reabilitacão de habitações em Eito-Paul
+          1	Protect Cabo Verde
+          1	Provação Velha
+          1	Pub Bandidas
+          1	Pubim
+          1	Punto d'incontro
+          1	Pão Quente
+          1	Pólo Educativo Nr. 7 Tarrafal de Monte Trigo
+          2	Quad Zone
+          1	Qualitur
+          1	Quartel Jaime Mota
+          1	Quartel Militar 1ª Região Militar
+          1	Quebra Canela
+          1	Quebra Gelo
+          1	Quebrada
+          1	Queimad'
+          1	Queimada
+          1	Queimada de Baixo
+          1	Queimada de Cima
+          1	Queimadas de Cima
+          1	Queimadinha
+          1	Quinta do Serrado
+          1	Quintal
+          1	Quiosque Brasileiro
+          1	Quotidiana Ptk
+          1	RTP Africa
+          2	Rabil
+          1	Rabo Curto
+          1	Radio Cabo Verde
+          1	Radio de Cabo Verde
+          1	Radiossondagem
+          2	Rama
+          1	Ramalho
+          1	Ramos
+          1	Rampa Andre Gomes
+          3	Rampa Gustavo da Fonseca
+          1	Rampa Orlando Barreto
+          1	Rbeira do Manuel Lopes
+          3	Real Fortaleza de São Filipe
+          1	Rebelo
+          1	Rebelo de Baixo
+          1	Recanto
+          2	Recepção
+          1	Recife João Valente
+          1	Recinto
+          1	Record Cabo Verde
+          1	Reitoria da Universidade de Cabo Verde
+          2	Relax
+          1	Relva
+          1	Renque
+          1	Renque de Meio
+          2	Renque de Purga
+          1	Renque de Trás
+          2	Rent a Car
+          1	Reserva Natural de Branco
+          1	Reserva Natural de Razo
+          1	Reserva Natural de Santa Luzia
+          2	Reservatório - Water Depot
+          1	Resicencia Ka Dencho
+          1	Residence 'I Delfini'
+          1	Residence B&B A Paz
+          1	Residence Beach
+          1	Residencia Estudantil Madre Teresa de Calcutá
+          1	Residencial Alternativa
+          1	Residencial BEBY
+          1	Residencial Beleça Laginha
+          1	Residencial Bom Sossego
+          1	Residencial Halcyone Ilha do Maio
+          1	Residencial Hotel Alto Fortim
+          1	Residencial Jardins De Maio
+          1	Residencial Lidia
+          1	Residencial Mité e Banana
+          1	Residencial Moreno's Alto Fortim
+          1	Residencial NAZARE
+          1	Residencial Paraiso
+          1	Residencial Ponta do Sol
+          1	Residencial Sol ponte Art
+          1	Residencial do Bispo do Mindelo
+          1	Restaurant Tata
+          1	Restaurante Baía
+          1	Restaurante Hamburg
+          1	Restaurante Hotel Roterdão
+          1	Restaurante Maracujá
+          1	Restaurante Ponta Preta
+          1	Restaurante Sarabudja
+          1	Restaurante Sona Fish
+          1	Restaurante e pizzaria TERRAZZA ITALIA
+          1	Retenção de Água Pluvial Lombo Tanque
+          1	Retenção de Água Pluvial Vila Nova
+          1	Retenção de Água Pluvial na Lombo Tanque
+          1	Retenção Água Pluvial Vila Nova
+          1	Rib. Grande
+          1	Riba Achada
+          1	Ribeia do Torrão
+          1	Ribeira Abóbada
+          3	Ribeira Aguinha
+          1	Ribeira Alcacom
+          1	Ribeira Algodoeira
+          2	Ribeira Algodoeiro
+          2	Ribeira Alta
+          1	Ribeira Alto Mira
+          2	Ribeira André Francês
+          1	Ribeira Andrécol
+          1	Ribeira António Barbacante
+          3	Ribeira António Gomes
+          1	Ribeira Arreia
+          1	Ribeira Atrás
+          1	Ribeira Baixa
+          1	Ribeira Baleia
+          1	Ribeira Banana
+          1	Ribeira Bananeira
+          1	Ribeira Banena
+          2	Ribeira Barca
+          1	Ribeira Bateia
+          1	Ribeira Bilim
+          1	Ribeira Boca Antes Morro
+          1	Ribeira Boca do Gonçalo
+          1	Ribeira Boi
+          1	Ribeira Bombagelim
+          1	Ribeira Bote
+          7	Ribeira Branca
+          2	Ribeira Branco
+          6	Ribeira Brava
+          2	Ribeira Braya
+          1	Ribeira Bugiganga
+          1	Ribeira Bôte
+          1	Ribeira Cabaceira
+          1	Ribeira Cabeça Matareta
+          1	Ribeira Cachorro
+          1	Ribeira Cacimba
+          1	Ribeira Cadacina
+          2	Ribeira Caixa
+          1	Ribeira Calhau
+          2	Ribeira Cantada
+          1	Ribeira Canto Pico
+          1	Ribeira Catemicia
+          1	Ribeira Chico Pascoal
+          2	Ribeira Chico Vaz
+          1	Ribeira Chiqueiro Nha Lixa
+          4	Ribeira Chuba Chobi
+          1	Ribeira Chupadeira
+          1	Ribeira Chupaderão
+          1	Ribeira Chã
+          1	Ribeira Chã das Pedras
+          1	Ribeira Chã de Fontinha
+          1	Ribeira Chã de Serrinha
+          4	Ribeira Clara
+          1	Ribeira Comeira
+          1	Ribeira Comerinha
+          1	Ribeira Covaquim de Bioro
+          1	Ribeira Covoada de Palha
+          2	Ribeira Covão Grande
+          1	Ribeira Covão Lagoa
+          1	Ribeira Creada
+          1	Ribeira Cruzinha
+          1	Ribeira Curalinho
+          1	Ribeira Curral
+          1	Ribeira Curral de Aso
+          1	Ribeira Denga
+          1	Ribeira Desembarcadouro
+          1	Ribeira Destiladeiro
+          1	Ribeira Diante de Amador
+          1	Ribeira Djeu de Bonge
+          9	Ribeira Dom João
+          1	Ribeira Duque
+          1	Ribeira Dura
+          1	Ribeira Dão
+          3	Ribeira Escabeçada
+          1	Ribeira Escoral
+          1	Ribeira Fabões
+          1	Ribeira Fernão Gomes
+          3	Ribeira Figueira
+          1	Ribeira Figueira Farinha
+          1	Ribeira Figueira Galinha
+          2	Ribeira Figueira Inglesa
+          1	Ribeira Filipe
+          1	Ribeira Flamengo
+          1	Ribeira Fonte Pedra
+          3	Ribeira Fonte Vermelha
+          5	Ribeira Fontão
+          1	Ribeira Forninho
+          1	Ribeira Forno
+          3	Ribeira Fria
+          4	Ribeira Funda
+          1	Ribeira Funda da Cima
+          1	Ribeira Fundo
+          1	Ribeira Fundo Bananeira
+          1	Ribeira Fundo Espingal
+          2	Ribeira Fundo Espreminga
+          1	Ribeira Fundo Portal
+          1	Ribeira Fundo Quinhentos
+          1	Ribeira Fundo das Pombas
+          2	Ribeira Fundo de Entre Ribeiras
+          1	Ribeira Fundo de Nho Anios
+          1	Ribeira Fundo de Pogojo
+          1	Ribeira Fundura
+          1	Ribeira Fundão da Coruja
+          2	Ribeira Furna Porco
+          1	Ribeira Furnas Matias
+          1	Ribeira Galhana
+          1	Ribeira Gambota
+          1	Ribeira Gaspar
+          6	Ribeira Gendé
+          1	Ribeira Gorgulho
+         21	Ribeira Grande
+          7	Ribeira Grande - Janela-Paúl
+          1	Ribeira Grande de Santiago
+          2	Ribeira Grande de Santiago (Cidade Velha)
+          1	Ribeira Grande ou Vicente Dias
+          2	Ribeira Grande-Xôxô
+          1	Ribeira Hénrique
+          1	Ribeira Ilhéu
+          2	Ribeira Inverno
+          1	Ribeira Jorge Luis
+          1	Ribeira João
+          6	Ribeira João Pinto
+          2	Ribeira João Varela
+          1	Ribeira João d'Évora
+          1	Ribeira Julangue
+          5	Ribeira Julião
+          5	Ribeira Laje
+          1	Ribeira Laraine
+          1	Ribeira Laranjeira
+          1	Ribeira Laredo
+          9	Ribeira Larga
+          2	Ribeira Larguinha
+          2	Ribeira Laxa
+          1	Ribeira Lem Garcia
+          1	Ribeira Ligeira
+          1	Ribeira Lomba
+          1	Ribeira Lomba Greija
+          3	Ribeira Macedo
+          1	Ribeira Madouro
+          1	Ribeira Mananelo
+          1	Ribeira Manca
+          1	Ribeira Mansa
+          2	Ribeira Manuel Lopes
+          1	Ribeira Marbila
+          1	Ribeira Margueta
+          1	Ribeira Marques
+          2	Ribeira Mato Gegê
+          3	Ribeira Mato Sancho
+          1	Ribeira Mau Passo
+          1	Ribeira Mocho
+          1	Ribeira Montinho
+          2	Ribeira Morinho de Ladrão
+          1	Ribeira Morro Lajedo
+          1	Ribeira Mosquito
+          1	Ribeira Mulata
+          1	Ribeira Mão para Trás
+          1	Ribeira Nha Eba
+          1	Ribeira Nha Lena
+          1	Ribeira Partinha
+          1	Ribeira Passadinha
+          1	Ribeira Paço de Conde
+          3	Ribeira Pedra Aguada
+          1	Ribeira Pedragulho
+          1	Ribeira Pia
+          1	Ribeira Pico da Antónia
+          1	Ribeira Poneta
+          1	Ribeira Ponta do Sol
+          1	Ribeira Porco
+          1	Ribeira Porta
+          1	Ribeira Poço Cha
+          2	Ribeira Praia da Guarda
+          1	Ribeira Praia de Toninha
+          2	Ribeira Preta
+          1	Ribeira Preta de Malhadona
+          4	Ribeira Principal
+          1	Ribeira Pá do Beijo
+          1	Ribeira Rama Moza
+          1	Ribeira Rebanganha
+          1	Ribeira Regato Fundo
+          1	Ribeira Riba
+          1	Ribeira Rui Pereira
+          1	Ribeira Salto
+          1	Ribeira Sansão
+          1	Ribeira Seada Laranjo
+          5	Ribeira Seca
+          2	Ribeira Sololó
+          1	Ribeira São Cristovão
+          3	Ribeira São Miguel
+          1	Ribeira Tabuga
+          1	Ribeira Tabugal
+          1	Ribeira Toninho
+          2	Ribeira Tope de Serrinha
+          1	Ribeira Torta
+          4	Ribeira Tortolho
+          1	Ribeira Trás de Cova
+          3	Ribeira Veneza
+          1	Ribeira Venteiro
+          1	Ribeira Vicente Molo
+          1	Ribeira Vitém Mino
+          9	Ribeira Zimbrão
+          1	Ribeira d Fundura
+          2	Ribeira da Achada Poio
+          1	Ribeira da Aguada
+          1	Ribeira da Aguadinha
+          5	Ribeira da Baia
+          2	Ribeira da Barca
+          1	Ribeira da Barca (Rubera da Barka)
+          1	Ribeira da Biha
+          1	Ribeira da Boa Entrada
+          3	Ribeira da Boca Larga
+          1	Ribeira da Buraca
+          1	Ribeira da Caixa
+          1	Ribeira da Calabouça
+          1	Ribeira da Calheta
+          1	Ribeira da Casa de Tisa
+          1	Ribeira da Chã de Cachorro
+          1	Ribeira da Coruja
+          1	Ribeira da Covada do Salvador
+          1	Ribeira da Covoada
+          5	Ribeira da Cruz
+          1	Ribeira da Cruz (Rib. Velha )
+          1	Ribeira da Cruz Baixo
+          1	Ribeira da Cruz de Agostinho
+          2	Ribeira da Cuba
+          3	Ribeira da Curral Velho
+          1	Ribeira da Empresa
+          1	Ribeira da Estância Velha
+          1	Ribeira da Estâncinha
+          1	Ribeira da Fajã
+          1	Ribeira da Fazenda
+          1	Ribeira da Flamenguinhos
+          1	Ribeira da Fonte
+          1	Ribeira da Fonte da Vaca
+          2	Ribeira da Fragata
+          4	Ribeira da Fundura
+          2	Ribeira da Furna
+          7	Ribeira da Garça
+          7	Ribeira da Lagoa
+          1	Ribeira da Lena
+          5	Ribeira da Malha
+          1	Ribeira da Malhado
+          1	Ribeira da Maçena
+          1	Ribeira da Mofinas
+          5	Ribeira da Montanha
+          3	Ribeira da Monte Branco
+          1	Ribeira da Monte Serrado
+          1	Ribeira da Palga
+          1	Ribeira da Palha Carga
+          2	Ribeira da Palha Verde
+          1	Ribeira da Parda
+          1	Ribeira da Pedra Branca
+          1	Ribeira da Peneda
+          1	Ribeira da Penteada
+          1	Ribeira da Ponta Pataca
+          1	Ribeira da Ponta de Côsco
+          3	Ribeira da Praia Formosa
+          5	Ribeira da Praia Grande
+          5	Ribeira da Prata
+          1	Ribeira da Praça
+         10	Ribeira da Salto
+          1	Ribeira da Santa Lucia
+          2	Ribeira da Selada
+          1	Ribeira da Sinagoga
+          1	Ribeira da Soca
+          1	Ribeira da Tampa
+          1	Ribeira da Torre
+          1	Ribeira da Trindade
+         10	Ribeira da Trinidade
+          1	Ribeira da Tráz
+          4	Ribeira da da Água Margosa
+          2	Ribeira da Água Amargosa
+          1	Ribeira da Água Funda
+          3	Ribeira da Água Nova
+          3	Ribeira da Água Salgada
+          1	Ribeira da Águada
+          1	Ribeira das Areias
+          1	Ribeira das Bodes
+          1	Ribeira das Chapas
+          2	Ribeira das Fontainhas
+          1	Ribeira das Fundas
+          3	Ribeira das Lajes
+          1	Ribeira das Losnas
+          7	Ribeira das Patas
+          2	Ribeira das Pe
+          2	Ribeira das Pipas
+          1	Ribeira das burras brancas
+          1	Ribeira das Águas Belas
+          1	Ribeira das Águas Podres
+          1	Ribeira das Águs Fortes
+          1	Ribeira de Abrabos
+          1	Ribeira de Abrolha
+          1	Ribeira de Aguada
+          2	Ribeira de Aguadeiro
+          1	Ribeira de Alcatraz
+          2	Ribeira de Angra
+          1	Ribeira de Aranhas
+          1	Ribeira de Araújo
+          1	Ribeira de Arreia
+          1	Ribeira de Azuleiros
+          1	Ribeira de Banguli
+          1	Ribeira de Bastião
+          2	Ribeira de Beirona
+          1	Ribeira de Belem
+         22	Ribeira de Boa Ventura
+          1	Ribeira de Bodela
+          1	Ribeira de Borra
+          1	Ribeira de Cabeça Preta
+          2	Ribeira de Cabouco Chiqueira
+          2	Ribeira de Cadela
+          1	Ribeira de Cagara
+          1	Ribeira de Caleceria
+          4	Ribeira de Calheta
+          1	Ribeira de Calheta Funda
+          1	Ribeira de Caliças Brancas
+          1	Ribeira de Campanas
+          2	Ribeira de Canudo
+          1	Ribeira de Cascavelho
+          1	Ribeira de Castilhano
+          1	Ribeira de Chamine
+          1	Ribeira de Chão Branco
+          2	Ribeira de Chão Raso
+          1	Ribeira de Cortiça
+          3	Ribeira de Covoadinha
+          1	Ribeira de Coxo
+          2	Ribeira de Cruzinha
+          1	Ribeira de Cruzinha Brito
+          1	Ribeira de Cumba
+          3	Ribeira de Curral
+          1	Ribeira de Curral Matheus
+          1	Ribeira de Curral Velho
+          1	Ribeira de Delgadinho Velho
+          1	Ribeira de Doutor
+          2	Ribeira de Ervatão
+          1	Ribeira de Esteochina
+          1	Ribeira de Estreito
+          1	Ribeira de Fajã de Mato
+          1	Ribeira de Fajãzinha
+          1	Ribeira de Faranego
+          1	Ribeira de Fateixa
+          4	Ribeira de Faveta
+          1	Ribeira de Ficha Besta
+          1	Ribeira de Figueira Portugal
+          1	Ribeira de Figueiral
+          5	Ribeira de Figuerinha
+          1	Ribeira de Fogão
+          1	Ribeira de Fonte Cabrito
+          2	Ribeira de Fonte Engrâcia
+          1	Ribeira de Fonte Estância de Tartaruga
+          1	Ribeira de Fonte Sombra
+          1	Ribeira de Fontinha
+          1	Ribeira de Fontona
+          1	Ribeira de Fundo
+          1	Ribeira de Fundão
+          1	Ribeira de Gombeza
+          1	Ribeira de Gouvada
+          1	Ribeira de Helena
+          1	Ribeira de Irbal
+          1	Ribeira de Janela
+          1	Ribeira de Joaquim Petinha
+          1	Ribeira de João Alfonso
+          1	Ribeira de João Barrosa
+          1	Ribeira de Julião
+          1	Ribeira de Lacação
+          2	Ribeira de Lagoa
+          1	Ribeira de Leteu
+          1	Ribeira de Lomba
+          1	Ribeira de Lorem
+          1	Ribeira de Madama de Baixo
+          1	Ribeira de Madama de Cima
+          1	Ribeira de Manga
+          1	Ribeira de Massapo
+          1	Ribeira de Miguel Luis
+          1	Ribeira de Mirada
+          1	Ribeira de Monte Branco
+          2	Ribeira de Monte Carmo
+          1	Ribeira de Monte Escora
+          1	Ribeira de Monte Grito
+          1	Ribeira de Monte Trigo
+          1	Ribeira de Moreno
+          1	Ribeira de Morre Brás
+          1	Ribeira de Morrinho
+          1	Ribeira de Morrinho Branco
+          1	Ribeira de Morro Atravessado
+          4	Ribeira de N.S. de Montinho
+          1	Ribeira de Orte de Nha Palapa
+          2	Ribeira de Ourincas
+          1	Ribeira de Outra Banda
+          1	Ribeira de Palha Carga
+          3	Ribeira de Palmarejo Grande
+          2	Ribeira de Passode
+          1	Ribeira de Pastor
+          2	Ribeira de Pedra Ferro
+          1	Ribeira de Pedra Rachada
+          1	Ribeira de Pedra de Água
+          1	Ribeira de Pedro do Cataleme
+          1	Ribeira de Penede
+          1	Ribeira de Penha de Peca
+          2	Ribeira de Pico
+          1	Ribeira de Pilão Cão
+          1	Ribeira de Plasco
+          1	Ribeira de Poderoso
+          2	Ribeira de Poio
+          1	Ribeira de Pomba
+          1	Ribeira de Ponta do Gado
+          1	Ribeira de Porca
+          1	Ribeira de Porfirio Manco
+          1	Ribeira de Poï
+          1	Ribeira de Prahinha
+          1	Ribeira de Praia Branca
+          2	Ribeira de Praia Formosa
+          1	Ribeira de Preçena
+          1	Ribeira de Rama Seada
+          1	Ribeira de Rasque
+          1	Ribeira de Ribeireta
+          1	Ribeira de Saboneto
+          1	Ribeira de Safende
+          1	Ribeira de Salto
+          1	Ribeira de Sanha
+          2	Ribeira de Santa Ana
+          2	Ribeira de Santa Clara
+          5	Ribeira de Santo António
+          1	Ribeira de Sarradão Grande
+          1	Ribeira de Sene
+          1	Ribeira de Serrinha
+          1	Ribeira de Sibina
+          1	Ribeira de Somada de Porto Ferreira
+          5	Ribeira de São Domingos
+          5	Ribeira de São Filipe
+          5	Ribeira de São Francisco
+          4	Ribeira de São Jorge
+          4	Ribeira de São João
+          4	Ribeira de São Martinho Grande
+          3	Ribeira de São Martinho Pequena
+          5	Ribeira de São Miguel
+          1	Ribeira de São Pedro
+          1	Ribeira de São Tomé
+          1	Ribeira de Tarafo
+          1	Ribeira de Tarrate
+          1	Ribeira de Toninho
+          8	Ribeira de Torre
+          1	Ribeira de Trio
+          1	Ribeira de Varagem
+          4	Ribeira de Vinha
+          1	Ribeira de Água
+          1	Ribeira de Água Doce
+          1	Ribeira de Água Gonçalves
+          1	Ribeira de Águada
+          1	Ribeira do Achada
+          1	Ribeira do Algodoeiro
+          1	Ribeira do Arquinho
+          1	Ribeira do Calheta Grande
+          5	Ribeira do Calhão
+         11	Ribeira do Caniço
+          2	Ribeira do Caniço Grande
+          1	Ribeira do Canto de Carneiro
+          3	Ribeira do Carriçal
+          1	Ribeira do Carriço
+          2	Ribeira do Charco
+          1	Ribeira do Cirio
+          1	Ribeira do Concelho
+          3	Ribeira do Corvo
+          1	Ribeira do Curalinho
+          1	Ribeira do Curral Novo
+          1	Ribeira do Espargo
+          3	Ribeira do Fajã d'Água
+          1	Ribeira do Falcão
+          2	Ribeira do Feijoal
+          1	Ribeira do Figueiral
+          1	Ribeira do Fundo Toril
+          2	Ribeira do Fundo de Água do Porto
+          1	Ribeira do Fundão do Cachaço
+          1	Ribeira do Galeão
+          1	Ribeira do Linho
+          1	Ribeira do Lobo
+          9	Ribeira do Lugar
+          7	Ribeira do Mangue
+          3	Ribeira do Martinho Barbasco
+          1	Ribeira do Meio
+          1	Ribeira do Monte Preto
+          1	Ribeira do Monte de Baixo
+          1	Ribeira do Monte de Luca
+          1	Ribeira do Montinho
+          1	Ribeira do Morinho da Coluna
+          3	Ribeira do Morro
+          1	Ribeira do Palha
+          3	Ribeira do Palhal
+          1	Ribeira do Patim
+          8	Ribeira do Paúl
+          1	Ribeira do Pedroso
+          1	Ribeira do Pico do Vento
+          1	Ribeira do Polinho
+          1	Ribeira do Porto Formoso
+          1	Ribeira do Porto Fundo
+          1	Ribeira do Porto Velho
+          1	Ribeira do Poço
+          1	Ribeira do Rabil
+          1	Ribeira do Roque
+          1	Ribeira do Salto
+          1	Ribeira do Santo António
+          1	Ribeira do Serrado
+          1	Ribeira do Sorno
+          1	Ribeira do Tabugal
+          3	Ribeira do Tarrafal
+          1	Ribeira do Vagueiro
+          1	Ribeira do Vigia
+          1	Ribeira do Volta-Volta
+          2	Ribeira dos Bodes
+          1	Ribeira dos Caibros
+          3	Ribeira dos Calhaus
+          1	Ribeira dos Cardos
+          5	Ribeira dos Engenhos
+          1	Ribeira dos Ferreiros
+          6	Ribeira dos Flamengos
+          1	Ribeira dos Paus
+         29	Ribeira dos Picos
+          1	Ribeira dos Tarafes
+          1	Ribeira grande - Janela-Paul
+          2	Ribeira muita Água
+          1	Ribeira três Francisco
+         10	Ribeira Água Barbosa
+          3	Ribeira Água Junga
+          1	Ribeira Água Sanchez
+          1	Ribeira Água das Patas
+          1	RibeiraAntónio Mensa
+          1	RibeiraCanto de Monte Gude
+          1	RibeiraLaranjeira
+          1	Ribeireta
+          5	Ribeirinha
+          1	Ribeirinha Curta
+          1	Ribeirinha Trás de Cadeia
+          1	Ribeirinha de Areia Branca
+          1	Ribeirão
+          1	Ribeirão Areia
+          1	Ribeirão Asno
+          1	Ribeirão Bandeira
+          1	Ribeirão Boi
+          1	Ribeirão Calvo
+          1	Ribeirão Cavalo
+          4	Ribeirão Chiqueiro
+          2	Ribeirão Feijão
+          2	Ribeirão Fundo
+          3	Ribeirão Gato
+          1	Ribeirão Isca
+          2	Ribeirão Manuel
+          1	Ribeirão Mocha
+          1	Ribeirão Pedro
+          1	Ribeirão Roque
+          2	Ribeirão Seco
+          1	Ribeirão da Cruz
+          1	Ribeirão de Areia
+          3	Ribeirão de Ema
+          1	Ribeirão do Fogo
+          1	Ribeirãozinho
+          1	Riberinha de Morais
+          1	Riberão Porco
+          1	Ribiera Funda
+          1	Ribiera João Martins
+          1	Ribiera de Escupo
+          1	Ribiera do Campanário
+          1	Ribiera do Garfo
+          1	Rip Curl
+          1	Risco Vermelho
+          1	Ristorante Neptuno
+          1	Riu Funana
+          1	Riu Karamboa
+          1	Riu Touareg
+          1	Robona
+          1	Rocha Alta
+          1	Rocha Estância
+          1	Rocha Lama
+          1	Rocha Preta
+          1	Rocha de Poi
+          1	Rocha de Retondo
+          1	Rocha de Salina
+          2	Rochinha
+          1	Rombado
+          1	Rosario
+          1	Rotunda
+          1	Rotunda da Achada Santo António (Rotunda da ASA)
+          1	Rotunda de Terra Branca
+          1	Rua " O Imigrante"
+          2	Rua 1 de Junho
+          2	Rua 1 de Maio
+          3	Rua 13 de Janeiro
+          1	Rua 15 de Agosto
+          1	Rua 1º de Maio
+          1	Rua 2
+          1	Rua 20 de Janeiro
+          1	Rua 24 de Setembro
+          1	Rua 3
+          1	Rua 3 de Agosto
+          1	Rua 3 de Maio ( Calhetinha)
+          1	Rua 4
+          1	Rua 5
+          2	Rua 5 Julho
+          2	Rua 5 de Março
+          1	Rua A. A. Almanda
+          1	Rua Abel Djassy
+          2	Rua Abílio Macedo
+          1	Rua Agostinho Neto
+          1	Rua Albertino Fontes
+          1	Rua Albuquerque Fortes
+          1	Rua Alfredo Teixeira Cortez
+          1	Rua Alvarina Cabral
+          2	Rua Amigos de Cabo Verde na Suecia
+          4	Rua Amilcar Cabral
+          1	Rua Amizade Seixal
+          5	Rua Angola
+          2	Rua Antonio Pussich
+          3	Rua Anónio Mena
+          1	Rua Argelia
+          1	Rua Associação Black Panthers
+          1	Rua Aurelio Gonçalves
+          3	Rua B. Leza
+          1	Rua Baia
+          3	Rua Baltazar Lopes
+          2	Rua Bibinha Cabral
+          1	Rua Bom Sossego
+          1	Rua Borjona de Freitas
+          1	Rua Brasilia
+          1	Rua Caixa Economica
+          1	Rua Carlos Alberto Martins
+          1	Rua Carlos Lineu Miranda
+          2	Rua Celso Silva Leão
+          2	Rua Centro
+          1	Rua Cesaltina Ramos
+          2	Rua Cesaria Evora
+          1	Rua Cesário de Lacerda
+          1	Rua Chandadi
+          5	Rua Che Guevara
+          3	Rua Cidade Invicta
+          1	Rua Cidade Sao Filipe
+          2	Rua Cidade São Filipe
+          1	Rua Cidade de Almada
+          1	Rua Cidade de Brockton
+          2	Rua Cidade do Funchal
+          1	Rua Cidade Ângra Do Heroismo
+          1	Rua Cipriana Tavares
+          2	Rua Cobom
+          1	Rua Constantino da Costa
+          1	Rua Cristiano Sena Barcelos
+          1	Rua Cruz Vermelha
+          1	Rua Cândido dos Reis
+          1	Rua D'ARTE
+          3	Rua Da Pousada
+          1	Rua Diniz Rodrigues
+          1	Rua Diniz de Pina
+          3	Rua Diogo Afonso
+          3	Rua Domingos Ramos
+          1	Rua Doutor Medeiros
+          5	Rua Dr. António Loreno
+          1	Rua Dr. Manuel Arreaga
+          5	Rua Dr. Manuel Duarte
+          2	Rua Dr. Manuel Torquato Viana de Meira
+          1	Rua Dr. Vicente Rendall Leite
+          1	Rua Edoardo de Balsemão
+          3	Rua Eduardo Mondlane
+          1	Rua Eduardo Mondolane
+          1	Rua Enacol
+          1	Rua Eng. Antonio Graça
+          4	Rua Entre os Rios
+          1	Rua Etelvina de Melo
+          2	Rua Eugenio de Paula Tavares
+          1	Rua Eugénio Tavares
+          1	Rua Filipe Pereira
+          1	Rua Francisco Neves de Pina
+          1	Rua Franz Fanon
+          1	Rua General Barros
+          1	Rua Georges Vynckier
+          1	Rua Governador Roçadas
+          2	Rua Guerra Mendes
+          6	Rua Henrique Sena
+          3	Rua Ilha Brava
+          3	Rua Ilha do Sal
+          5	Rua Jaime Mota
+          2	Rua Joao Chapuzet
+          2	Rua Jonas Wanon
+          2	Rua Jorge Barbosa
+          1	Rua Jose Gonçalves
+          1	Rua José da Paz Monteiro
+          1	Rua Judice Biker
+          1	Rua Juventude Africana
+          1	Rua Júlio Abreu
+          1	Rua Kuame N'Kruma
+          2	Rua Kwame Nkruma
+          1	Rua Libertadores d'Africa
+          1	Rua Lisboa
+          1	Rua Luis Terry
+          1	Rua M. Grotamare
+          4	Rua Maca
+          1	Rua Manuel Lopes
+          5	Rua Manuel Matos
+          1	Rua Maria de Fátima Fonseca Gonçalves
+          2	Rua Martinho Lopes Correia
+          1	Rua Matadouro Velho
+          1	Rua Mindelo
+          3	Rua Morro Curral
+          1	Rua Neves Ferreira
+          1	Rua Nho Djonzinho Alves
+          1	Rua Nho Mozart
+          3	Rua Nhonho Rocha
+          1	Rua Officinas Navais (Rua Cidade Invicta)
+          1	Rua Padre Varela
+          1	Rua Patoti
+          2	Rua Patrice Lumumba
+          1	Rua Paulo Freire Pedagogo
+          1	Rua Pedro Azancot
+          1	Rua Pedro Ramos
+          1	Rua Polivalente d'Amarante
+          1	Rua Ponta Preta
+          1	Rua Povoação Velha
+          1	Rua Prof. Carlos Ribeiro
+          1	Rua Reinalda Fernandes
+          1	Rua Renato Cardoso
+          1	Rua Salamansa
+          1	Rua Santa Catarina
+          2	Rua Santa Luzia
+          2	Rua Santa Mónica
+          3	Rua Santo António
+          2	Rua Senador Vera Cruz
+          1	Rua Sergio Frusoni
+          6	Rua Serpa Pinto
+          2	Rua Sporting
+          1	Rua Suburbana
+          1	Rua São José
+          1	Rua São João
+          1	Rua São João Baptista
+          1	Rua São João Bosco
+          1	Rua São João;Rua Seminário;Rua de Penede
+          1	Rua São Pedro
+          1	Rua Tenente Valadim
+          3	Rua Teodoro Gomes
+          1	Rua Titamic
+          1	Rua Tiziz. Parteira
+          1	Rua Ubaldo Mesquita
+          1	Rua Uccla
+          1	Rua Unidade Africana
+          3	Rua Vermelho
+          1	Rua Vila Real De Santo António
+          1	Rua Vila de Sal Rei
+          3	Rua William du Bois
+          1	Rua d'Horta
+          2	Rua da Aeroporto
+          1	Rua da Amizade
+          1	Rua da Assomada
+          1	Rua da Banana
+          1	Rua da Boa Vista
+          1	Rua da Boavista
+          1	Rua da Central Electrica
+          1	Rua da Cruz
+          1	Rua da Ilha do Fogo
+          1	Rua da Ilha do Maio
+          2	Rua da Independência
+          1	Rua da Liberdade
+          1	Rua da Luz
+          1	Rua da Moeda
+          1	Rua da Mozambique
+          3	Rua da Praça
+          1	Rua da Trás
+          2	Rua da Vila do Tarrafal
+          1	Rua da Vila dos Espagos
+          1	Rua da Vila dos Espargos
+          1	Rua das Forças Armadas
+          1	Rua das Salesianos
+          2	Rua das Salinas
+          1	Rua de 5 de Julho
+          1	Rua de Alcanena
+          1	Rua de Cabogno
+          1	Rua de Camões
+          1	Rua de Cascais
+          1	Rua de Cidade Da Maia
+          1	Rua de Craca
+          4	Rua de Lombinha
+         11	Rua de Morgoinho
+          1	Rua de Muraça
+          2	Rua de Oeiras
+          1	Rua de PMI
+          1	Rua de Rego
+          1	Rua de St Barbara
+          3	Rua de São João
+          2	Rua de São Nicolau
+          1	Rua de São Tomé
+          1	Rua de Tarafe
+          1	Rua de Tchlanita
+          4	Rua do Aeroporto
+          1	Rua do Banco Nacional Ultramarino
+          4	Rua do Coco
+          1	Rua do Criolo
+          1	Rua do Douro
+          2	Rua do Emigrante
+          1	Rua do Mercado
+          1	Rua do Paul
+          1	Rua do Pensão Las Vegas
+          1	Rua do Porto
+          1	Rua do Porto Abaixo
+          2	Rua do Sol
+          4	Rua dos Bombeiros
+          3	Rua dos Emigrantes
+          5	Rua dos Espargos
+          1	Rua dum Banda
+          2	Rufeu
+          2	Rui Vaz
+          1	Ruina Matadouro
+          1	Ruinas de Quartel Colonial
+          1	Réma Réma
+          1	S AMOR FASHIONBYFIFE
+          1	SEFI
+          1	SHIPCHANDLER
+          1	SICAM
+          2	SITA
+          2	SURF HOUSE
+          1	Sabores e Livros
+          1	Saco
+          1	Safende
+          1	Saguinho
+          2	Sal
+          1	Sal Market
+          1	Sal Rei
+          1	Sal Rei Anchorage
+          1	Sal Rei anchorage
+          1	Sal-Rei
+          1	Sala-Museu Amílcar Cabral
+          1	Salamansa
+          1	Salamansa golfcourse
+          1	Salgado
+          1	Salina
+          1	Salina Velha
+          1	Salina natural
+          7	Salinas
+          1	Salinas Relax
+          2	Salinas Velhas
+          1	Salineiro
+          1	Salinenbecken
+          1	Salthouse
+          1	Salto
+          2	Salto de Baixo
+          1	Saltos de Cima
+          1	Salão Paroquial - ASA
+          1	Salão do Reino das Testemunhas de Jeová
+          1	Sambala Vilage
+          2	Sambala Village
+          1	San Baobab Massage Chinese Medizine
+          1	Sangue Draga
+          2	Sanharre
+          2	Santa Ana
+          2	Santa Barbara
+          1	Santa Catarina
+          1	Santa Catarina do Fogo
+          2	Santa Cruz
+          3	Santa Filomena
+          2	Santa Isabel
+          1	Santa Luzia
+          5	Santa Maria
+          1	Santa Maria Beach
+          1	Santa Maria Pier
+          1	Santantão Art
+          2	Santiago
+          3	Santiago Lounge Bar
+         13	Santiago Wind Farm
+          2	Santo André
+          1	Santo Antonio
+          1	Santo Antão
+          1	Santo Antão Scuba Diving
+          5	Santo António
+          1	Santo Crucifixo
+          2	Santos
+          1	Santos Pina
+          1	Santuário de Nossa Senhora de Fátima
+          1	Sao Francisco
+          1	Sapo com Fome
+          1	Savana
+          1	School Kitesurf Salamansa
+          1	Scuba Caribe
+          1	Seafood
+          1	Sebedera
+          1	Sechane
+          1	Sede Nacional MPD
+          1	Sede Nacional PAICV
+          1	Sede OMCV-Mindelo
+          1	Sede da Instituto Nacional de Desenvolvimento de Pesca (IND
+          1	Sede da Mota-Engil em Cabo Verde
+          1	Sede de ENAPOR-S.Vicente
+          1	Sedo da Bota Fogo Futebol Clube
+          1	Segunda Fase
+          1	Segunda Via da Pretória
+          1	Selada da Baleia
+          1	Selada de Losmas
+          1	Selada de Papaeira
+          1	Selada de Ribeira Fria
+          1	Selada de Terraf'
+          1	Selada do Alto Mira
+          3	Seminario de São José
+          1	Seminário
+          2	Senhora do Monte
+          1	Senna Sport
+          1	Sereia
+          1	Serilimpo
+          2	Serra
+          1	Serra Malagueta
+          2	Serradas
+          2	Serradinho
+          1	Serviço Moave SA
+          1	Serviço Nacional de Protecção Civil
+          1	Serviços Técnicos
+          1	Setima Onda
+         15	Shell
+          1	Shell Campin
+          1	Ship wreck 1920
+          1	Shirleys Cafe
+          1	Si Ma Bo Hostel
+          1	Sidreira
+          1	Sila
+          1	Silva
+          1	Silverbeach
+          1	Simbacate
+          1	Simplicidade
+          1	Simpls
+          1	Simão Mendes
+          1	Sinagoga
+          2	Sinagoga antiga
+          1	Sita
+          1	Sivy
+          1	Snack bar
+          1	Snack-Bar Spedju
+          1	Snack-Bar da Murdeira
+          1	So Sabi
+          1	Sobrado
+          1	Sobragás
+          1	Sociave-Rª Julião
+          1	Sodade
+          1	Sodigas
+          1	Sol & Luna
+          1	Sol Marina
+          2	Solar Windelo
+          1	Somaco
+          1	Soprobel
+          1	Soproinf
+          1	Sorno
+          1	Sovaco de Cobra
+          1	Speed Pizza
+          1	Spencer
+          1	Spinguera
+          1	Statue Cesária Évora
+          1	Stella Maris Villa
+          1	Stop
+          3	Sucupira
+          1	Suns
+          1	Supremo Tribunal de Justica
+          1	Supremo Tribunal de Justiça
+          1	Surf
+          1	Surf Zone
+          1	Sushi & Restaurante Kossivi
+          1	Sweetwater-shower
+          1	Swimming Pool
+          1	Swimming pond
+          1	Syrius
+          1	Sà da Bandeira
+          3	São Domingos
+          1	São Eduardo
+          2	São Filipe
+          2	São Gonçalo
+          2	São Jorge
+          1	São Jorge dos Orgãos
+          2	São José
+          3	São João Baptista
+          2	São Lourenço
+          1	São Lourenço dos Orgãos
+          1	São Lourenço dos Órgãos
+          1	São Martinho
+          2	São Martinho Grande
+          2	São Martinho Pequeno
+          5	São Miguel
+          1	São Nicolau
+          7	São Pedro
+          2	São Roque
+          1	São Salvador do Mundo
+          2	São Sebastião
+          3	São Tomé
+          2	São Vicente
+          2	Sé Catedral
+          5	TACV
+          1	TACV-Office
+          1	TESS-W
+          1	TLC
+          1	TV do Criolo
+          2	Taberna
+          1	Tabuleiro de Corda
+          1	Tabulerinho
+          1	Tabuqueiro
+          1	Tagarra
+          1	Takrida
+          1	Talho
+          1	Tam Tam
+          1	Tamanho
+          1	Tamareira
+          1	Tamareiro
+          1	Tambarina
+          1	Tambrera
+          1	Tampa de Seladinha
+          1	Tampinha
+          1	Tanque
+          1	Tanque de Aranhas
+          1	Tapas
+          1	Tapum
+          1	Tapume
+          7	Tarrafal
+          1	Tarrafal Residence
+          1	Tarrafal de São Nicolau
+         13	Tarrafal-Assomada-Praia
+          1	Tarrafal-Calheta
+         13	Tarrafal-Calheta-Praia
+          1	Tarrafal-Povoação
+          1	Tata
+          1	Taverna
+          1	Taxi Praia
+          1	Tchu
+          1	Teatro Vila do Farol
+          1	Televisao de Cabo Verde
+          1	Telha
+          1	Telhal
+          1	Temereosa
+          1	Tenis - Varzea
+          1	Tentudo
+          1	Tereza
+          1	Terminal
+          3	Terra Boa
+          3	Terra Branca
+          1	Terra Lodge
+          1	Terra Quebrada
+          1	Terras Salgadas
+          1	Terraço Tubarão
+          1	Terreiro
+          1	Testa
+          1	The Bounty Beach Restaurant
+          1	The Colonial Guesthouse
+          1	The Hideaway
+          1	Tia Irene
+          1	Timoteo
+          1	Tintas Barot
+          1	Tinteira
+          1	Tio Frango
+          1	Tira Chapeu
+          1	Tira Chapéu
+          1	Titanas Arcoiris
+          1	Titi Sushi Lounge
+          1	Tiver
+          1	Todo Gostoso
+          1	Tomba Pilão
+          1	Tombatouro
+          1	Tope Simon
+          1	Tope Verde
+          1	Tope Vermelho
+          1	Tope da Mesa
+          1	Tope de Caixa
+          1	Tope de Calheta
+          1	Tope de Caralena
+          1	Tope de Chuva
+          1	Tope de Cima
+          1	Tope de Guincho
+          1	Tope de Mesa
+          1	Tope de Queijo
+          1	Topo da Coroa
+          1	Topo de Coroa
+          1	Topona (Monte Grande)
+          1	Torno de Água
+          1	Torrada
+          1	Torre De Sabina
+          1	Torre d'Igreja
+          1	Torre de Belém
+          1	Tortuga
+          1	Tortuga Beach Bar
+          1	Tourist Info
+          1	Tourist Information
+          1	Tourist Information Lucete Fortes
+          1	Tourist info
+          1	Toy Duarte
+          1	Transporte coletivo (hiace $50escudos Maio2017) para Ribeir
+          1	Transporte coletivo (hiace) para aldeia de Preguiça ($50es
+          1	Trapiche "Ildo Benroz"
+          1	Travesa Claudino Tavares (Kim)
+          1	Travessa
+          1	Travessa 15 de Agosto
+          3	Travessa Amílcar Cabral
+          1	Travessa Cadamosto
+          2	Travessa Caixa Economica
+          1	Travessa D
+          1	Travessa D'Estilador
+          1	Travessa De Filtre
+          1	Travessa Enfermeiro Gomes
+          1	Travessa Lojinha
+          1	Travessa Nazarena
+          1	Travessa Santa Maria
+          2	Travessa da Cruz Vermelha
+          1	Travessa da Fábrica
+          2	Travessa da Independência
+          1	Travessa do PMI
+          1	Travessa do Rosariense
+          1	Tree Nursery
+          1	Tri de Silvestre
+          1	Tribal Surf
+          1	Tribuna da comarca da boavista
+          1	Tribunal
+          1	Trilhas & Montanhas
+          1	Tropical
+          1	Tropical Club
+          1	Tropical Resort
+          1	Trás os Montes
+          1	Três Montes
+          1	Trópico
+          1	Tuna Point
+          1	Tunel Santa Barbara
+          1	Tunel do Farol
+          1	Tupim d'Cuscus
+          1	Turim
+          1	Turtle Obs Post.
+          1	Tutti Frutti
+          1	Tv Fninga
+          1	Tv Palmeira
+          1	Tv Titina Silá
+          1	Tv. Fuerte Ventura
+          1	Tv. Tanquin
+          1	Tv. do Rosariense
+          1	Txilass
+          1	Té & Bibia
+          1	Té&Bibia
+          1	Ténis Clube do Mindelo
+          1	Tôdj
+          1	UNICV Campus do Palmarejo
+          1	UNICV-Ex Isecmar-S. Vicente
+          1	Ubitel - Loja Sal Rei
+          1	Uni CV Universidade Cabo Verde
+          1	Unica
+          1	Unicoop
+          1	Unidade Sanitária de Base
+          1	Unitel
+          2	Unitel T+
+          1	Unitel Tmais
+          1	Universal
+          1	Universe
+          2	Universidade Jean Piaget
+          1	Universidade Jean Piaget de Cabo Verde
+          1	Universidade Lusófona
+          1	Universidade Lusófona do Cabo Verde
+          1	Universidade de Cabo Verde
+          1	Universidade do Mindelo
+          1	União das Cooperativas do Barreiro
+          1	Uprinamal
+          1	Urzeleiros
+          1	VIP Terminal
+          1	VIVO Energy
+          1	VOI Vila do Farol Resort
+          1	Vale da Custa
+          1	Valmonte
+          1	Vannilla Residencia
+          1	Varanda
+          1	Variante
+          1	Varzinha
+          1	Varzinho
+          1	Vassoura
+          3	Veleiro
+          2	Veneza
+          2	Venteiro
+          1	Ventoinha
+          1	Vera Cruz
+          1	Verde Mundo
+          2	Via Ferrata Roberto - B
+          1	Via Ferrata Roberto - B/C
+          1	Vigia
+          1	Vila Banana
+          1	Vila Laranjinha
+          2	Vila Nova
+          1	Vila Verde Resort
+          1	Villa Botanico Guesthouse
+          2	Villa Maris Eco Village
+          2	Vinagre
+          1	Vinha
+          1	Vista Pereira
+          1	Viveiro Botanical Garden
+          1	Vivi´s Place
+          1	Volcão Viana
+          1	Volta Romão
+          1	Volta do Monte
+          1	Vony
+          1	Voquim
+          1	Vulcão
+          1	Váreza da Igreja
+          1	Várzea
+          1	Waterhouse
+          4	Western Union
+          1	Wolf Djarmai
+          1	X-eco
+          1	Xaguate
+          1	Xôxô
+          1	Yach Club Sal
+          1	Yamaha
+          1	Yria Residential
+          1	Zambujeiro
+          1	Zero Horas
+          1	Zhang Li
+          1	Zimbrão
+          1	Zimbrão Grande
+          9	Zona florestal
+          2	Zona florestal-reflorestação
+          1	Zum Fisherman
+          1	aeródromo "Agostinho Neto"/fechado depois 2003
+          1	antigo Cemitério
+          1	antigo Centro Zootécnico
+          1	bacia do mar
+          1	badlands / terra inculta
+          2	badlands/ terra inculta
+          1	batteryhouse
+          1	bento
+          1	bridge
+          1	cadeia/prison
+          1	caminho florestal
+          1	canyon/ 	canhão
+          1	canyon/ canhão
+          3	cemitério
+          1	chafariz de Lagoa
+          1	chemical store M.D.R.
+          1	cooperative alimentaire
+          1	cratera de Volcão Viana
+          2	destructed road
+          2	dique - barrage
+          4	dunas
+          1	eko.travel
+          1	electric powerstation
+          1	entrance
+          1	entrance to salinas
+          2	escola E.B.I de CAMPIM
+          1	escola do condução Vaz
+          1	escola padre cristiana rodrigues
+          1	escola primária
+          1	escola primária de Monte Trigo
+          3	estrada florestal
+          1	ex Centro de Saúde
+          1	ex Cooperativa Cha de Caldera
+          1	ex Leprosy Station
+          1	ex adega cooperativa
+          2	exit
+          1	fabrica de queijos (sem actividade)
+          1	faro pequeno
+          1	faro/lighthouse
+          1	fastferry 3h Fogo-Praia oneway
+          1	ferro-velho
+          1	former prison
+          4	fragata
+          1	fumeroles
+         32	impluvium
+          1	impluvium - Panela Quente
+          1	jardim infantil
+          1	livraria Rui Araújo
+          1	merak - sailing boat
+          1	mercado de legumes
+          1	mercado de peixe
+          1	mercado municipal
+          1	natural basin
+          1	nortrnah
+          1	o Cordel Rua Renato Cardoso, Mindelo
+          1	old jewish cemetery
+         72	palmeira
+         15	palmeiras
+         19	palmtree
+          1	peixaria
+          1	phone post
+          1	policia
+          1	polivalento
+          1	posto sanitario
+          1	pub art sushi bar
+          1	public pool
+        716	reflorestação
+          1	salina antigua
+          1	salinas
+          1	seawater basin
+          1	serviço para barco de pesca (45 min. oneway)
+          2	shingle
+          1	shipwreck
+          1	shipwrecks
+          1	soviet wheeltank
+          1	spring
+          1	submerged christus statue (2006)
+          1	supermercado cazu
+          1	swimming_pool
+          2	t+
+          1	teleférico
+          1	track
+          1	tree-nursery M.D.R
+          1	trees' nursery M.D.R.
+          1	trimaran
+          1	view point
+          2	vista verde tours
+          1	vista verde tours lda
+          1	water-service
+          1	waterhouse
+          1	Água Doce
+          1	Água Nova
+          1	Água das Caldeiras
+          1	Água das Patas
+          1	Água de Gato
+          1	Água do Porto
+          1	Águada de Janela
+          1	Águas Belas
+          1	Águas Verdes
+          1	Águia
+          1	Ímpar Seguros
+          1	çã
+          1	Ł&Z Belaza
+          1	✠ 1140-1640-1940 Paróquia des  Vicente

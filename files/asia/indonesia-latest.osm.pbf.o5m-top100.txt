@@ -1,0 +1,97 @@
+      10931	Rumah
+       3241	Linha de água
+       2866	jalan
+       2434	Masjid
+       2392	Gang
+       1869	Jalan
+       1582	bangunan
+       1457	rumah
+       1159	Bangunan Belum Terklarifikasi
+        874	Jalan Desa
+        851	Indomaret
+        750	Bangunan
+        722	*
+        657	Alfamart
+        630	Sungai
+        613	RW 02
+        611	RW 01
+        610	RW 03
+        588	Pemukiman
+        582	Pohon
+        576	RW 04
+        571	Musala
+        539	RW 05
+        509	rumah penduduk
+        491	BGN
+        489	RW 06
+        473	Mesjid
+        467	.
+        444	RT 01
+        442	RT 02
+        441	RT 03
+        438	RW 07
+        437	RT 04
+        434	Sawah Penduduk
+        430	RT 05
+        419	RT 06
+        411	NN
+        401	BRI
+        396	RT 07
+        394	Kios
+        391	Kelapa
+        390	sungai
+        390	RW 08
+        374	RT 08
+        372	Bank Mandiri
+        362	Hutan
+        359	Lumbung
+        348	RT 09
+        331	RW 09
+        326	Jalan pedesaan
+        324	Jembatan
+        317	Sawah
+        317	Mushola
+        316	Pertamina
+        306	SDN
+        303	RT 10
+        285	Jalan Perkebunan Sawit
+        285	BNI
+        283	Kebun keluarga
+        280	Kebun
+        276	RW 10
+        265	Rumah Penduduk
+        254	Mushalla
+        253	RT 11
+        247	masjid
+        245	SPBU
+        243	BCA
+        239	Musholla
+        239	Bank BRI
+        233	Jalan Tol Lingkar Luar Jakarta
+        228	Jalur Tanpa Judul
+        227	Sekolah
+        222	Rua
+        220	gang
+        220	BTS
+        216	RT 12
+        213	RW 11
+        211	Ruko
+        211	Jalan Pemukiman
+        211	Estrada
+        209	Durian
+        207	Warung
+        204	Jalan Panglima Besar Sudirman
+        195	Jalan Yos Sudarso
+        194	Masjid Nurul Huda
+        192	Jalan Diponegoro
+        184	Masjid Nurul Iman
+        180	mesjid
+        173	Jalan Jenderal Achmad Yani
+        168	Pasar
+        168	Kebun Sawit
+        162	Jalan Veteran
+        160	RT 13
+        157	RW 12
+        156	Jalan Lingkungan
+        156	Gunung
+        154	Jalan Lintas Barat Sumatera

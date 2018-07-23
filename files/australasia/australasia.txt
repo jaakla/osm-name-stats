@@ -1,0 +1,5 @@
+http://download.geofabrik.de/australia-oceania/australia-latest.osm.pbf
+http://download.geofabrik.de/australia-oceania/fiji-latest.osm.pbf
+http://download.geofabrik.de/australia-oceania/new-caledonia-latest.osm.pbf
+http://download.geofabrik.de/australia-oceania/new-zealand-latest.osm.pbf
+http://download.geofabrik.de/australia-oceania/papua-new-guinea-latest.osm.pbf

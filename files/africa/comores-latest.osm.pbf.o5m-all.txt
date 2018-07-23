@@ -1,0 +1,1327 @@
+          1	009
+          1	016
+          1	025
+          1	1
+          1	2
+          1	3
+          1	68
+          1	@Chat Computer Services
+          1	@chat computer services
+          1	A
+          1	AB aviation
+          2	AES
+          1	AJAO
+          1	AJCKM
+          1	AM Services
+          1	AWA Assurances
+          1	Abbas Cheikh
+          1	Abdillahi
+          1	Administration
+          1	Admnistration
+          1	Agence Française de Développement (AFD)
+          1	Agence Universitaire de la Francophonie (AUF)
+          1	Agence de Voyages Alhaddad
+          1	Ahmed
+          1	Air Austral
+          1	Air Madagascar
+          1	Air Tanzania
+          1	Akibani أكيباني
+          1	Al Amal
+          1	Al quitoir
+          1	Al-Harousa
+          1	Al-Kabayel
+          1	Alamana Assurances
+          1	Alba Wa-Cuisse Fote
+          1	Ali
+          1	Alkaffil Saal
+          1	Alliance Franco-Comorienne
+          1	Alliance Française Moroni
+          1	Ambassade de Chine سفارة الصين
+          1	Ambassade de France
+          1	Ambassade de Libye
+          1	Ambassade de Tanzanie
+          1	Ambassade de l'Afrique du Sud
+          1	Ambassade du Sudan
+          1	Ambassadeur
+          1	Amical Clinic
+          1	Ancien Airport Moroni
+          1	Ancien marché de Moroni
+          1	Ancienne cité
+          1	Anissa Mohamed
+          1	Anloui
+          1	Anna Import
+          1	Antenne d'émission ORTC
+          1	Antufati
+          1	Archipel des Comores
+          1	Arco Déco
+          1	Aroub
+          1	Assimini
+          1	Association Comorienne Pour le Bien Etre de la Famille
+          1	Assoumani Youssoufa
+          1	Atuya
+          1	Au Paradis des Livares
+          1	Au Rendez Vous Du Foot
+          1	Auberge Palace / Restaurant
+          1	Auto-école du Centre
+          1	Avenir Halid Fils
+          4	Avenue du Président Ali Soilihi
+          1	Ayouba
+          1	B
+          1	BAC Assurances
+          1	BANGWE
+          1	BANGWE LAMDJI
+          1	BATSA_B1_1
+          1	BATSA_B1_10
+          1	BATSA_B1_11
+          1	BATSA_B1_12
+          1	BATSA_B1_13
+          1	BATSA_B1_14
+          1	BATSA_B1_15
+          1	BATSA_B1_16
+          1	BATSA_B1_17
+          1	BATSA_B1_18
+          1	BATSA_B1_19
+          1	BATSA_B1_2
+          1	BATSA_B1_20
+          1	BATSA_B1_21
+          1	BATSA_B1_22
+          1	BATSA_B1_23
+          1	BATSA_B1_24
+          1	BATSA_B1_25
+          1	BATSA_B1_26
+          1	BATSA_B1_27
+          1	BATSA_B1_28
+          1	BATSA_B1_3
+          1	BATSA_B1_30
+          1	BATSA_B1_31
+          1	BATSA_B1_32
+          1	BATSA_B1_33
+          1	BATSA_B1_34
+          1	BATSA_B1_35
+          1	BATSA_B1_36
+          1	BATSA_B1_37
+          1	BATSA_B1_38
+          1	BATSA_B1_4
+          1	BATSA_B1_40
+          1	BATSA_B1_41
+          1	BATSA_B1_42
+          1	BATSA_B1_43
+          1	BATSA_B1_44
+          1	BATSA_B1_45
+          1	BATSA_B1_46
+          1	BATSA_B1_47
+          1	BATSA_B1_49
+          1	BATSA_B1_5
+          1	BATSA_B1_50
+          1	BATSA_B1_51
+          1	BATSA_B1_52
+          1	BATSA_B1_53
+          1	BATSA_B1_54
+          1	BATSA_B1_55
+          1	BATSA_B1_56
+          1	BATSA_B1_57
+          1	BATSA_B1_58
+          1	BATSA_B1_59
+          1	BATSA_B1_6
+          1	BATSA_B1_60
+          1	BATSA_B1_61
+          1	BATSA_B1_62
+          2	BATSA_B1_63
+          1	BATSA_B1_64
+          1	BATSA_B1_65
+          1	BATSA_B1_66
+          1	BATSA_B1_67
+          1	BATSA_B1_7
+          1	BATSA_B1_8
+          1	BATSA_B1_9
+          1	BFC "Banque Fédérale des Comores"
+          1	BFC Banque Fédérale de Commerce
+          1	BIC (BNP Paribas)
+          1	Babou Pizza
+          1	Bahani
+          1	Balkis
+          1	Bambadjani
+          1	Bambao بامبو
+          1	Bananadjo
+          1	Bandamadji
+          1	Bandamaji Domba
+          2	Bangahani
+          1	Bangoi
+          1	Bangoi Hambou
+          2	Bangoi Mafsankoa
+          1	Bangoua Kouni
+          3	Bangwe
+          1	Bangwe Kuyu
+          2	Bangwé
+          1	Banque Centrale des Comores
+          1	Banque de Développement des Comores
+          1	Banque pour l'Industrie et le Commerce (BIC)
+          1	Bar Itsandra Sim Sim
+          1	Baraka Hassani
+          1	Basha
+          1	Bassam
+          2	Batouli
+          1	Batouli Said Ibarahim
+          1	Bazimini بازيميني
+          1	Bibavou بيبافو
+          1	Bibliotheque
+          1	Bibliothèque
+          1	Biblithèque
+          1	Bijouterie KHODIDAS
+          1	Bijouterie Mzouri
+          1	Biomedical Comores
+          1	Blanchisserie
+          1	Bon Marché
+          1	Boucherie Nafasse
+          1	Bouchérie "Dodin"
+          1	Bouenindi  بونيندي
+          1	Bouenindi بونيندي
+          1	Boulangerie Parisserie Wawa
+          1	Boulangerie Salim Waddane
+          1	Boulangerie Wawa
+         13	Boulevard Karthala
+          2	Boulevard de la Ligue Arabe
+          4	Boulevard de la République Poulaire de China
+          4	Boutique
+          1	Boutique Bonjour
+          1	Boutique Sonia
+          1	Brico Marche
+          1	Btouli
+          1	Bubliotheque
+          1	Bungalow chez Micky
+          1	Bureau Cadi
+          1	Bureau de Poste d'Iconi
+          1	Bureau de la ligue islamique mondial en Union des Comores
+          1	Buvette
+          1	Buzini بوزيني
+          1	Bweni Abdallah
+          1	Bweni Mwera
+          1	Bâtiment EMSP
+          2	Bâtiment FST
+          1	Bâtiment d'Agronomie
+          1	C
+          1	CCP Chéques Postaux
+          1	CI
+          1	CIM Bambao Ya Hari
+          1	CIM Bambao Ya Mboini
+          1	CIM Bangaani
+          1	CIM Cembenoi Sada
+          1	CIM Djoumoichongo
+          1	CIM Djoumoipangua
+          2	CIM Domba
+          1	CIM Hamanvou
+          2	CIM Isahari
+          1	CIM Itsahidi
+          1	CIM Mbadani
+          1	CIM Mboinkou
+          1	CIM Moroni
+          1	CIM Ngouengoe
+          1	CIM Nioumagama
+          1	CIM Nyuma Komo
+          1	CIM Nyuma Mro
+          1	CIM Nyuma Msiru
+          1	CIM Nyumamro Kiblani
+          1	CIM Nyumamro Souheili
+          1	CIM Oichili Yadjou
+          1	CIM Oichili Yamboini
+          1	CIM Pimba
+          1	CIM Tsinimoipangua
+          1	CIM_Cembenoi   Lac salé
+          1	CIM_Mitsamiouli
+          1	CMC Mitsamiouli
+          1	Cabinet Dentaire
+          2	Cabinet Medical
+          1	Cabinet médical
+          1	Café de Flore
+          1	Café de la Corniche
+          1	Caisse des Retraites des Comores
+          2	Camps militaire d'Itsoundzou
+          1	Campus France
+          1	Canal +
+          2	Canal+
+          1	Cap 2000
+          1	Carrière (limites Image Pléiades 2016)
+          1	Centre Artisanal (CNAC)
+          1	Centre Financier Sambi
+          1	Centre Hôtelier Lac-Salé
+          1	Centre National de Documentation et de Recherche Scientifiq
+          1	Centre d'Etat civil
+          1	Centre de Santé du Karthala
+          1	Centre de Traitement Traditionnel
+          1	Centre de formation AND
+          1	Centre de poste
+          2	Centre de santé de Mitsoudjé
+          1	Centre de sport de Mitsoudjé
+          1	Chafi Ya Boutique
+          1	Chamle
+          1	Chamssiya
+          1	Chandra شاندرا
+          1	Chantal
+          1	Charmila Bourhani
+          1	Chateau
+          1	Check CLE Double Auto
+          1	Chez Kaya
+          1	Chez Maman Zakia
+          1	Chez Trounda Almentation
+          1	Chezani
+          1	Chibaraka
+          1	Chic Bazar
+          1	Chifaou Youssouf
+          1	Chindini
+          1	Chiroroni شيررني
+          1	Chissioua Chongochamaji
+          1	Chiwanda
+          1	Chomoni
+          1	Chouani
+          1	Chouhouli Ndrezi
+          1	Chézani
+          1	Cimetière publique
+          2	Cimtière
+          1	Circonscription d'Inspection Pédagogique Régionale
+          1	Citerne
+          1	Cité Universitaire
+          1	Clinique Ascobef
+          1	College
+          1	Collège de Chézani
+          1	Comores
+          1	Comores Assistance Service
+          1	Comores Assurances
+          1	Comores Komori جزر القمر
+          1	Comores Matelas
+          1	Comores Pizza
+          4	Comores Telecom
+          1	Comores Tours
+          1	Comores Télécom
+          1	Comoros National Fishing Company
+          1	Comptoir Pieces Auto
+          1	Conseil de l'île autonome de Ngazidja
+          1	Consulat de France
+          1	Contenaire
+          1	Convention pour le Renouveau des Comores
+          1	Copy Services
+          1	Coulee de Lave تدفق الحمم
+          1	Cour Constitutionnelle
+          1	Cratère d'Iconi
+          1	Crusty
+          1	Cyber Asco
+          1	Cyber Resto Glace
+          1	Cyber Soleil
+          1	Cyber École
+          1	D
+          1	DHL Express - Moroni
+          1	DHOURIA Mohamed Bedja
+          2	Daoueni
+          1	Debloquer Votre Mobile
+          1	Delegation de l'union européenne
+          1	Dembeni دمبيني
+          1	Dibouani
+          1	Dindri
+          1	Direction EPP
+          1	Direction Générale de l'Energie, des Mines et des Ressouc
+          1	Direction Générale de la Santé
+          1	Direction de la Météorologie
+          1	Direction des douanes
+          1	Dispensaire Caritas
+          1	Djaman Radio
+          1	Djine club
+          1	Djivani
+          1	Djomani
+          1	Djomani جوماني
+          1	Djoumouachongo
+          1	Dock de Moroni قفص الاتهام موروني
+          1	Dolde Specialement
+          1	Domoni Adjou
+          1	Douanes Comoriennes
+          2	Douniani
+          1	Droit
+          1	Droit et LEA
+          1	Dubai
+          2	Dzahadjou
+          2	Dzahani
+          1	Dzahani 2
+          1	Dzouadjou
+          1	E
+          1	EMU Tech
+          1	ENOUMECO
+          1	EPKAZ
+          5	EPMT
+          7	EPP
+          1	EPP DE Dzahadjou
+          4	EPPM
+          1	EPPS
+          2	EXIM
+          1	Echata
+          1	Ecole
+          1	Ecole Communautaire
+          2	Ecole Coranique
+          1	Ecole Coranique2
+          1	Ecole Française Hamramba
+          1	Ecole Nationale des Forces Armées et de la Gendarmerie
+          1	Ecole Primaiere
+          7	Ecole Primaire
+          1	Ecole Primaire Publique
+          2	Ecole Primaire de Mkazi
+          1	Ecole Primaire de Ntsudjini
+          1	Ecole Privé Franco Arabe
+          1	Ecole Privée Soidik
+          1	Ecole maddrassat
+          6	Ecole primaire
+          1	Ecole primaire Publique de Tsinimoipanga
+          1	Ecole primaire publique de Mbeni
+          1	ElectroCyber
+          1	Electrotech
+          1	Epicerie Foundi Said
+          1	Epicerie Kamok
+          1	Epicerie Mifidhoihou
+          1	Escalier
+          1	Espace vide
+          1	Espce Commercial
+          1	Eurolux Peintures
+          1	Exim
+          1	Exim Bank
+          1	Express Alimentation
+          1	F
+          1	Faissoili mohamed
+          1	Faouzia Moussa
+          2	Fatima
+          1	Fatima Abdillah
+          1	Fatima Abdou
+          1	Fatima Bourhani
+          1	Fatima Mohamed
+          1	Fatima Mze
+          1	Fatima Rachidi
+          1	Fatima nouhou
+          1	Fouadi
+          1	Foumboudzivouni
+          1	Foumbouni فومبوني
+          1	Foundi Said
+          1	Fourou
+          2	Foyer
+          1	Foyer ACET
+          1	Foyer AJM
+          1	Foyer Nadel-Zamalik
+          1	Foyer Nassim
+          1	Foyer Nour Elcomores
+          1	Foyer Nourouzamani
+          1	Foyer Rahaleo
+          1	Foyer amitié de la jeunesse
+          1	Foyer de Belle Lumière
+          1	Foyer de Mradjou
+          1	Foyer de mdraboini
+          1	Foyer des femmes de Comores
+          1	Foyer orchestral
+          1	G
+          1	GARAGE
+          1	GSM Unlock
+          1	GTI
+          1	Galerie Fashion
+          1	Gambussi Pension / Resto
+          4	Garage
+          1	Garage Omariam Auto
+          1	Gardien
+          1	Gare du Nord
+          1	Gaz-Elec
+          1	Gendarmerie
+          1	Gendarmerie Nationale
+          1	Gnadomboeni
+          1	Gombo La Monte
+          1	Gourmetise
+          1	Grand Mosq
+          1	Grand Solde
+          1	Grande Comore القمر الكبرى
+          3	Grande Mosquée
+          1	Grande Mosquée d'Iconi
+          1	Grande Mosquée du Vendredi
+          1	Groupe Electrogene
+          1	Gymnase de Missiri
+          2	Géographie
+          1	H
+          1	Haagen-Dazs
+          4	Habomo
+          1	Habomo "Le Paradis"
+          1	Hachim
+          1	Hachim Djanffar
+          1	Hadhami
+          1	Hadidja
+          1	Hadidja SaidCharif
+          1	Hadj Mouenlim
+          1	Hadjambou
+          1	Hadouja هادوجا
+          1	Hadudja
+          1	Hahaia هاهايا
+          1	Hahcimiya
+          1	Haidar Maoulida
+          1	Haj Et Oumra
+          1	Hajoho هاجهو
+          1	Hakimi
+          1	Hammuramba School
+          1	Hamramba
+          1	Hankunu
+          1	Harembo هارمبو
+          1	Harouna
+          1	Haroussy Boutique
+          1	Hasendje
+          1	Heroumbili
+          2	Histoire
+          4	Hopital
+          1	Hotel La Grillade
+          1	Hotel Moifaka
+          1	Hotel le Paradis
+          1	Houssalam Fils
+          1	Houssounati
+          1	Hôpital El Maarouf
+          1	Hôtel Itsandra
+          1	Hôtel Les Arcades فندق ليه الممرات
+          1	Hôtel Motelami
+          1	Hôtel Zilimadjou
+          1	Hôtel de ville
+          1	Hôtel restaurant Ravinala
+          1	I
+          1	ITSINKOUDI OICHILI
+          1	Ibouroi Said
+          2	Ibrahim
+          1	Ibrahim MZE
+          1	Ibrahim ahamada
+          1	Ibrahima Ahamada
+          1	Ibrahima Boli
+          2	Iconi
+          1	Iconi Crater
+          1	Idjinkoudzi
+          1	Idjoindroidja
+          1	Idouroudjouwu
+          1	Ifoundihé
+          1	Ifoundihé Chambouani
+          1	Igoma
+          1	Ilyassa
+          1	Ilôt M’Zamboro
+          1	Institut Sogap Education
+          1	Institut universitaire de technologie, UdC
+          1	Inter Iles Air
+          1	Inter Îles air
+          1	Irungudjani
+          1	Ismaela
+          1	Ismail bateau pour Tanzania
+          1	Itsandra Mdjini
+          1	Itsandzéni
+          1	Ivoini
+          2	Ivémbéni-Bandasamlini
+          1	J
+          1	Jack Coiffure
+          2	Jardin de la Paix حديقة السلام
+          1	Jimilime جيميليم
+          1	Journal Al Watan
+          1	K
+          1	KAY CONS.
+          1	KKKK
+          1	Kakazou
+          1	Kaltex
+          1	Kam Marque
+          1	Kamal
+          1	Kamlati djabir
+          1	Karama Hôtel
+          1	Karibu Center
+          1	Karimou
+          1	Karthala القرطالة
+          1	Karthala قرطالة
+          1	Kayissoiria Bourhane
+          1	Kely Shop
+          1	Kenza Shop
+          1	Kinu Ink
+          1	Koimbani كيمبني
+          1	Kokoibilali
+          1	Kokoiroukiya
+          1	Kokoisoilha
+          1	Komo Cash
+          1	Komocash
+          1	Kourabeini
+          1	L
+          1	L'Avicenne
+          1	LADA
+          3	LCM
+          1	LMF
+          1	LMF L2
+          1	LMF et Science economique
+          1	La Grill الشبكة
+          1	La Mairie
+          1	La Massiwa d'assurance Auto
+          1	La Poste des Comores
+          1	Lac Salé
+          1	Laka Lodge
+          1	Le Charmy
+          1	Le Coraya
+          1	Le Courrier d'Anjouan
+          1	Le Grand Marché Couvert Volovolo
+          1	Le Géant du Meuble
+          1	Le Johanna Livingstone
+          1	Le Must
+          1	Le Papillon
+          1	Le Rapido
+          1	Le Rishma - Spécialités Indiennes
+          1	Le Rosier
+          1	Le Sahara
+          1	Legumes
+          1	Leo communications
+          4	Les 4 Frères
+          1	Les Doigts Verts
+          1	Les Hirundelles
+          1	Les Iles Paradis
+          1	Librairie Makiliki Fils
+          1	Lingoni لينكني
+          1	Los Bonnes Afaires
+          1	Luxor
+          2	Lycee
+          1	Lycée Saïd Mohamed Cheick de Mutsamudu
+          1	Lycée de Ntsudjini
+          1	Lycée la Pléiade
+          1	Lycée privé Kibala
+          1	M
+          1	M'djoiezi hambou
+          1	M@kcom
+          2	MAG Market
+          1	MAGASIN IBRAHIM M MADI
+          1	MAMWE
+          1	MARCHE
+          1	MATERNELLE DE COMONI
+          1	MB Optic
+          1	MECK Koimbani
+          1	MIss Faty
+          1	MOSQUE VENDREDI
+          1	MOSQUE de Vendredi
+          1	MOSQUEE DE ZAOUIYANI
+          1	Mac Assurances
+          1	Machouhouli Mouigni
+          1	Madjoma
+          1	Madjouma
+          1	Madrassa
+          1	Madrassat
+          1	Maecha
+          1	Mag Market
+          1	Magasin
+          1	Magasin 100'000 Articles
+          1	Magasin Abdallah Fils
+          1	Magasin Al-Kamaria
+          1	Magasin Al-Wihda
+          1	Magasin Alimentation
+          1	Magasin Chaharzade
+          2	Magasin Indien
+          1	Magasin Muigni Melina
+          1	Magasin Oudjisso
+          1	Magasin Papa Caltex
+          1	Magasin Parisien
+          1	Magasin Promo Center
+          1	Magasin Promo Center Annex
+          1	Magasin Said Ali
+          1	Magasin Sogeres
+          1	Magasin Touhfate
+          1	Magasin Wihma Beaute Vetements
+          1	Magasin Yahazit
+          1	Magasin Zed
+          1	Magasin Zipvahou
+          1	Magasin-Wegnambe
+          1	Magasn Baraka
+          1	Magudju
+          3	Mairie
+          1	Mairie de Moroni
+          1	Mairie de Mutsamudu (Hotel de ville)
+          3	Maison
+          1	Maison Batouli
+          1	Maison France
+          1	Maison de Bob Denart
+          2	Maison de peche (SirilanKa)
+          1	Maison du Président Mohamed Abdallah
+          1	Maissarah Boutique
+          1	Maludja Bungalows
+          1	Malé مالي
+          1	Mama abdala
+          1	Maman Abtahia
+          1	Maman Billet
+          1	Maman Djibaba
+          1	Maman Djoumoiti
+          1	Maman Fahad
+          1	Maman Fakra
+          1	Maman Fayissoil
+          1	Maman Hachim
+          1	Maman Kala
+          1	Maman Kalmache
+          1	Maman Maka
+          1	Maman Mina
+          1	Maman Papa tadjiri
+          1	Maman Rayicha
+          1	Maman Selina
+          1	Maman Sitti
+          2	Maman Toihir
+          1	Maman Tonton
+          1	Maman abou
+          1	Maman ahmed
+          1	Maman dede
+          1	Maman kele
+          2	Maman mihidhoir
+          1	Maman mina
+          1	Maman mouniati
+          1	Maman nadia mohamed
+          1	Maman youssouf
+          1	MamanNayeche
+          2	Mandza
+          1	Mangani مانقاني
+          1	Mangrove
+          1	Maoulida Bourhani
+          1	Maouni
+          2	Maouéni
+          1	Maponge Palace Hotel
+          1	Marahaba Sambi
+          1	Marcher
+          1	Marché
+          1	Marché de Bangoi
+          1	Marché municipal de Hampanga
+          1	Maria
+          1	Mariama
+          1	Mariama Mkazi
+          1	Mariama bounou
+          1	Marie Luxe
+          1	Marie Said Ali
+          1	Masdjid de vendredi مسجد الجمعة
+          1	Masdjid مسجد
+          1	Masjid Joumoi
+          1	Maternelle
+          2	Maternité
+          1	Mavingouni مافينقوني
+          1	Max's Market سوق ماكس
+          1	Maxi.M Moroni Oasis
+          1	Mazamo
+          2	Mbae lega
+          1	Mbambam
+          1	Mboudé
+          1	Mbuweni
+          1	Mbéni
+          1	Mdjivurize
+          1	Mdzima djakoume
+          1	Mdé ya Bambao
+          1	Meck
+          1	Meck Moroni
+          1	MedCars
+          1	Midjindzé
+          1	Miftahou Ali Soillihi
+          1	Ministère de L'éducation
+          1	Ministère de l'Education Nationale
+          1	Ministère des Finances
+          1	Misbahou Mze
+          1	Mitsamiouli ميتساميولي
+          2	Mitsoudje
+          1	Mkazi
+          1	Mna Kohoni
+          1	Mnoungou
+          1	Mohamed
+          1	Mohamed Abdallah
+          1	Mohamed Hassane Islam
+          1	Mohoro
+          1	Moinadjema Bourhani
+          1	Moindzani
+          1	Mondeal
+          1	Money Gram
+          1	Montée du Karthala الطريق الجبلية قرطال�
+          1	Moroni Depot Pharmaceutic
+          1	Moroni General Import
+          1	Moroni موروني
+          4	Mosque
+          1	Mosque Achrafi
+          1	Mosque Changani
+          1	Mosque Hamdi
+          1	Mosque Vendredi
+          1	Mosque de mzeHadji
+          1	Mosque wanamdji
+          5	Mosqué
+          1	Mosqué Ahmada Mmadi
+          1	Mosqué Madrassati Nour
+          1	Mosqué Mzé Said
+          1	Mosqué Ngazi
+          1	Mosqué Zawillani
+          1	Mosqué de vendredi
+          3	Mosqué des Femmes
+          1	Mosqué des femmes
+          1	Mosqué du centre
+          1	Mosquéde vendredi
+         22	Mosquée
+          1	Mosquée Brakani
+          1	Mosquée Chiounda
+          1	Mosquée Femme
+          1	Mosquée Ibrahim
+          1	Mosquée Igoma
+          1	Mosquée Lybie
+          1	Mosquée Mmadi Gaya
+          1	Mosquée Shababi Dine
+          1	Mosquée Zawiya
+          1	Mosquée Zawiyani
+          1	Mosquée de Chadhuli
+          1	Mosquée de Salimani
+          1	Mosquée de Vendredi
+          4	Mosquée de vendredi
+          3	Mosquée des femmes
+          1	Mosquée des hommes
+          2	Mosquée du Vendredi
+          1	Mosquée mbaba Aboudou
+          1	Mosquée wahari
+          1	Mouadja
+          2	Mouandzaza Ambouani
+          2	Mouandzaza Djoumbe
+          1	Mouillage temporaire possible
+          1	Mouzar Jewelleries
+          1	Mouzdalifa
+          1	Moya مويا
+          1	Mroudjaé
+          1	Msihiri wa zawiya
+          1	Msihiri waboini
+          1	Mtsangadjou
+          1	Mtsizambe
+          1	Musée des Comores
+          1	Mutsamudu موتسامودو
+          1	Mvoula
+          1	Mvouni
+          7	Mvouvou-djou
+          1	Mwemboiboini
+          1	Mze Abdallah Djae
+          1	Mze Ardhui
+          1	Mze Sabiti
+          1	NAN
+          1	NASSIB/PATISSERIE
+          1	NEW SELECT
+          1	NUMERISER
+          1	Nafissa
+          1	Nafissa nourou
+          1	Naissata
+          1	Nani Snack
+          3	Nassib
+          2	Ndroini
+          1	Neema
+          1	Netad
+          2	New Bazar
+          1	Ngazidja القمر الكبرى
+          2	Nioumadzaha
+          1	Nioumamilani
+          1	Nioumamilima
+          1	Nioumbadjou
+          1	Nourdine Bacha
+          1	Nouveautés
+          1	Nouwaira
+          1	Nouz Bijouterie
+          1	Nouzla
+          1	Ntruda Mbitsi Points Verts
+          1	Ntsaouéni
+          1	Ntsoralé
+          1	Ntsudjini
+          2	Nzwani أنجوان
+          2	ORTC
+          1	Oasis
+          1	Observatoire des Élections
+          1	Office National du Tourisme des Comores
+          1	Ouani أواني
+          2	Ouhozi
+          1	Oumi said
+          1	Oungoni
+          2	Oussivo
+          1	Ouziouani
+          1	P
+          1	P.N.E. Group
+          1	PIZZA Comores
+          1	PIZZA chez Naiad - Moroni Ambassadeur
+          1	PS Ivembeni
+          1	PVANABOIN_D2_10
+          1	PVANABOIN_D2_11
+          2	PVANABOIN_D2_2
+          1	PVANABOIN_D2_3
+          1	PVANABOIN_D2_4
+          1	PVANABOIN_D2_5
+          1	PVANABOIN_D2_6
+          1	PVANABOIN_D2_7
+          1	PVANABOIN_D2_8
+          1	PVANABOIN_D2_9
+          1	Palais Presidentiel Bayt Salam
+          1	Palais de Justice
+          1	Palais de Justice قصر العدل
+          1	Palais du peuple
+          1	Pamandzi Kéli
+          1	Panda
+          1	Papa kofi
+          1	Papeterie des Comores
+          1	Parc naturel marin de Mayotte
+          1	Parmacie des Ecoles
+          1	Patisserie
+          1	Pause Cafe
+          1	Peace Corps
+          1	Pediatrie
+          1	Pension Amal Hotel
+          1	Pension Faida
+          1	Pharm Assine
+          2	Pharmacie
+          1	Pharmacie Al-Camar
+          1	Pharmacie Anjouanaise
+          1	Pharmacie Generique
+          1	Pharmacie Itsandra
+          1	Pharmacie Mangali
+          1	Pharmacie Oasis
+          1	Pharmacie de la Corniche
+          1	Pharmacie des Iles
+          1	Photo Soleil
+          1	Photocopieuse
+          1	Pidjani
+          1	Piscine d'Iconi
+          1	Piste de Marathon de l'INJS
+          1	Place
+          1	Place BADJANANI
+          1	Place Badjanani
+          1	Place Entretenue Par
+          1	Place de France
+          1	Place de Jeune
+          2	Place de l'Europe
+          1	Place publique
+          1	Plage Ountsini
+          1	Plage de Mboi Mbia
+          1	Plais Trambwe
+          1	Point de vue caldera nord Karthala
+          1	Point de vue sur le cratère du Karthala
+          1	Police
+          1	Polyclinique du Croissant Rouge Iranien
+          1	Pomoni بوموني
+          1	Porini بوريني
+          1	Port Intérnational Ahmed Abdallah Abderemane
+          1	Port de Mutsamudu
+          1	Poste
+          1	Poste technique de télécommunication
+          2	Precision Air
+          1	Presidence
+          1	Presidence de la Republique
+          1	Primaire
+          1	Primaire Ecole Privé Franco Arabe
+          1	Princesse
+          1	Programme National de Lutte contre le Paludisme (PNLP)
+          1	Préfecture du Centre محافظة الوسطى
+          1	Pylonne TELMA
+          1	RFT(radio)
+          2	RN1
+          2	RN2
+          2	RYD INVESTMENT
+          1	Rahamata
+          1	Ramla Youssouf
+          1	Rando
+          1	Randza
+          1	Religieux
+          1	Reseau Femme et Developpement
+          1	Restaurant Abou Bacar Nbaraka
+          1	Restaurant Albasha
+          1	Restaurant Alhilal
+          1	Restaurant Buisness Center
+          1	Restaurant Lac Sale
+          1	Restaurant Le Bon
+          1	Restaurant Masha Adhahu
+          1	Restaurant Mobambo
+          1	Restaurant Motelami
+          1	Restaurant Nasser
+          1	Restaurant Taki
+          1	Restaurant Zara
+          1	Ribatwi
+          2	Rond-point Salimamoud
+          1	Rose
+          1	Rose Noire
+          1	Rotary Club
+          1	Roukiya
+          2	Route ACKE
+          2	Route Chandzahari
+          1	Route Chaweni
+          1	Route Mdrawadjou
+          1	Route Nyambo
+          1	Route Vers Bandahari
+          1	Route Vers Ntsoudjini
+          1	Route Villageoise
+          1	Route de Goulidjou
+          3	Route de l'Alliance Française
+          1	Rouzna
+          1	Rouzouna Bourhani
+          1	Rue Abdillah Hamdi
+          3	Rue Ahmed Djoumoi
+          1	Rue Bangweni Tsendza
+          2	Rue Bordo
+          1	Rue Chargeant
+          1	Rue Dzahadjou
+          1	Rue EPMT
+          1	Rue Ecole primaire
+          1	Rue Fundi Assoumani
+          1	Rue Hassani Ali Hamadi
+          1	Rue Ibouroi Mhoma
+          4	Rue Itsambuni
+          1	Rue Ivambani
+          1	Rue Kohoni
+          1	Rue Lyce Koimbani
+          1	Rue Madi
+          1	Rue Mama Halima
+          1	Rue Mbaba Mhamadi
+          1	Rue Mdzdza toiha
+          1	Rue Mgnebedjuwu
+          1	Rue Mmadi Gaya
+          1	Rue Mpechedjouwu
+          1	Rue Muzdalifa
+          2	Rue Mwangaza
+          1	Rue Mze Djoumoi
+          1	Rue Ndongo kudini
+          1	Rue Ngazi
+          1	Rue Ouraleni
+          1	Rue Pachedjuwu
+          1	Rue Pharmacie anjouanaise
+          1	Rue SNPSF
+          1	Rue Sada
+          1	Rue Said Mnamdji
+          1	Rue Santepé
+          2	Rue Trambwe
+          1	Rue Treredjou
+          1	Rue Washington
+          1	Rue Zawiyani
+          1	Rue Zidilheri
+          1	Rue caritas
+          1	Rue de Washington
+          3	Rue de l'Union Africaine
+          5	Rue de la COI
+          8	Rue de la Corniche
+          1	Rue de la mosquée vendredi
+          1	Rue ouboni
+          2	Rue wanamdji
+          1	Ruines du Palais de Kavhiridjewo (XVIe siècle)
+          1	Runway ancien aéroport
+          1	Réhemani
+          1	SANDUK
+          1	SECURICOM
+          1	SELEANI
+          1	SNPSF
+          1	SOS Pharma
+          1	Saandia Charif
+          1	Sahara الصحراء
+          1	Said
+          1	Salimani
+          1	Salimani Ya Itsandra
+          1	Salimani Ya Mahamé
+          1	Salle de fêtes
+          1	Salle de stockage
+          1	Salle des fêtes
+          1	Salma
+          1	Salon de the Rive Gauche
+          1	Samba Mbodoni
+          1	Samba-Nkouni
+          1	Sambadjou
+          1	Samira
+          1	Sanda Mwengarié
+          2	Sandjema
+          1	Sandjema Ibroihima
+          1	Santé Militaire الصحة العسكرية
+          1	Saouda
+          2	Sara Market
+          2	Sara Market سوق سارة
+          1	Satguru Travels
+          3	Sawaprix
+          1	Science Economique
+          1	Scolarité
+          1	Scout ngomé
+          1	Selea
+          2	Serehini
+          1	Siam Technologie
+          1	Sim Sim
+          1	Sima Ambouani
+          1	Singani
+          1	Sitti Hadji
+          1	Sitti Moussa
+          1	Sitti Msahazi
+          1	Sitti Said Ali
+          1	Sitti said mze
+          1	Siège de l’Organisation SIMBUHA
+          1	Smart Shahula
+          1	Soifiya
+          1	Solarcom
+          1	Sombe
+          1	Soukaina
+          1	Soulemana
+          1	Souraya Mabrouk
+          1	Spanfreight Shipping
+          1	Stade
+          1	Stade BAUMER de MORONI
+          2	Stade Saïd-Mohamed Cheikh
+          1	Stade de Hombo
+          1	Star English Language Centre
+          1	Station Service Al-Kamar
+          1	Station Service Beau rivage
+          1	Station Service Bonzami
+          1	Station Service Hamramba
+          1	Station Service Océan Malouzini
+          1	Station Sizo
+          1	Station de lavage
+          1	Station du Port
+          1	Station service Al Bayti
+          1	Stockage des materiaux de construction
+          1	Studio1 Al-Camar
+          1	Supermarche KomoCash Centre
+          1	Swa Prih Al-Camar
+          1	Synercom
+          1	T.P.C. Boutique
+          1	TACT Info
+          1	TSOUDJINI A3_11
+          1	TSOUDJINI A3_24
+          1	Tahamida
+          1	Taxi Gobadjou
+          1	Taxiway ancien aéroport
+          1	Tea Pharma
+          5	Telma
+          2	Telma Shop
+          1	Tennis Club de Moroni
+          1	Terrain de Foot
+          1	Terrain de foot
+          1	Terrain de foot ball
+          1	Terrain de foot de Mkazi
+          1	Terrain de football
+          1	Toilettes de l'école primaire
+          1	Tolli
+          1	Tombeau de Habib Omar Bin Sumeit
+          1	Top Shop
+          1	Tour de contrôle
+          1	Tout Pour la Maison
+          1	Tropical FM
+          1	Trouda Ali
+          1	Trésorerie générale des Comores
+          1	Tsidje
+          1	Tsinimoipanga
+          1	USINE COLONIALE
+          1	Union des Chambres de Commerce
+          1	Université des Comores, Direction et Administration
+          2	Université des Comores, Faculté Imam Chafiou
+          1	Université des Comores, Faculté des Lettres et Sciences H
+          2	Université des Comores, Faculté des Sciences et Technolog
+          1	Université des Comores, Service Universitaire de Formation
+          1	Urgence
+          2	VERS BANGWENI
+          2	Vanadjou
+          1	Vanambouani
+          1	Vatou
+          2	Vers Mkazi
+          1	Vers Sima
+          1	Villa Jessica
+          1	Villa Saifoudine
+          1	Volcano in Comoros
+          1	Votre Restaurant Wadaho
+          1	WaridaMmadi Issa
+          1	Washington
+          1	Wassila Assurance
+          1	Wasta
+          1	Ylang Tours إلانك تور
+          1	Youyou
+          1	Ysoussouf Ahamada
+          1	Zagouri
+          1	Zahariya
+          2	Zainaba
+          1	Zainou
+          1	Zanaba Mmadi
+          1	Zawia
+          1	Zawiya Shadhulyi
+          1	Zilimadjou
+          1	Zilimadju
+          2	Zivandani
+          4	Zone de Mouillage
+          1	alfeine
+          1	ancien prefecture
+          1	ancienne mosquee du vendredi 1
+          1	ancienne mosquée de vendredi مسجد الجمعة الق�
+          1	b
+         29	bati
+          1	bazar
+          1	bibliotheque
+          1	bibliothèque
+          4	boutique
+          1	cabanne
+          1	cabine telephonique
+          2	carrefour
+          1	cartier pres de la mosque
+          1	cascade
+          1	centre cuturiel
+          2	chateau
+          1	chez Mdahoma
+          1	chute
+          1	citerne
+          3	classe d'ecole
+          1	college rural d'ongojou
+          1	collège
+          2	collège rural de ntsoudjini
+          1	continaire
+          2	ecole primaire
+          1	f
+          1	fatima
+          1	fatima adam
+          1	foyer
+          1	foyer de Dzahadjou
+          2	garage
+          1	gendaremerie
+          1	gendarmerie
+          1	hadidja
+          1	hadidja djibaba
+          1	hadidja said
+          1	hotel de ville
+          1	hôpital
+          1	kamariya
+          1	kamlati
+          1	la Pharmacie des Comores
+          1	le gaillard
+          1	le voyageur المسافر
+          1	magasin
+          1	maion
+          1	maison
+          2	maisson
+          1	maman djamal
+          1	maman hadidja bacar
+          1	maman hadji
+          1	maman idrisse
+          1	maman laithy
+          1	maman said Bacar
+          1	marché
+          1	mari idjihadi
+          1	mariama
+          1	maternel bounarissi
+          1	mazamo
+          1	miniseuri
+          1	mosque
+          2	mosquee
+          1	mosquee 1
+          1	mosquee de la mer
+          1	mosqué du vendredi du Bandamadji
+          1	mosquée
+          1	mosquée KADIRIYYI
+          1	mosquée alimpissi
+          1	mosquée de vendredi
+          1	mosquée foumnaou
+          1	mosquée iboudjou
+          1	mosquée tibé
+          1	naison
+          1	orequestre Asmik
+          1	pause café Hello Paris
+          1	paya lamdji
+          1	pharmacie
+          1	place
+          1	place de fete
+          1	place djawabou ميدان جاوابو
+          1	place mnamalevou
+          1	place rouge
+          1	place singani
+          1	plage en sable CHOMONI BEACH
+          1	poste de police
+          1	poste de sante de comoni
+          2	prefecture
+          1	q
+          1	restaurant boss
+          3	route de village
+          1	route vers Dzahani
+          1	route versmosquée de vendredi
+          1	sale les atome
+          1	salle
+          1	soilha
+          1	stade OlympiquAfrica
+          1	stade de Hamrando
+          1	stade olympique Africa
+          1	station Djae
+          1	station MOUZDALIFAT
+          1	terrain de bascket
+          1	terrain de foot
+          3	vers OUZIO
+          1	woodland
+          4	zainaba said
+          1	zatouni
+          1	zawia
+          1	zawiya banguéni
+          1	zawiya mbamadi
+          1	École Primaire de Missiri
+          1	École coranique
+          1	Île M'Songoma
+          1	Île Verte
+          1	Île de la Selle جزيرة السرج
+          1	Îlot Bambo
+          1	Îlot Bandrélé
+          1	Îlot Choazil Malandzamiayajou
+          2	Îlot Choazil Malandzamiayatsini
+          1	Îlot Hajangoua Kolo Issa
+          2	Îlot Hajangoua Pengoua
+          1	Îlot Hajangoua Pouhou
+          1	Îlot Karoni
+          1	Îlot Mbouini
+          1	Îlot Mbouzi
+          1	Îlot Sada
+          1	Îlot d'Handréma
+          1	Îlot de Kawéni
+          1	Îlot de Mtsangamboua
+          1	Îlot de Pamandzi
+          1	Îlot de Sable Blanc
+          3	école primaire
+          1	école primaire publique de Mavingouni
+          1	île des tortues
+          1	إيتساميا
+          1	الجامع الكبير فوكوني
+          1	الجامع الكبير مالي
+          1	الطريق الوطني ١
+          1	الطريق الوطنية ٢
+          1	القمر الكبرى Ngazidja
+          1	المسجد الكبير الجمعة سيما
+          1	بامبو
+          1	بمبيني
+          1	بوموني
+          1	بيت برنار maison de Bernard
+          1	جناح صغير موهيلي
+          1	جويزي Djoiezi
+          1	جياني بوندوني
+          1	جيميليم
+          1	دار السلام
+          1	دمبيني
+          4	دوموني Domoni
+          2	ديجني
+          1	زيروداني Ziroudani
+          1	سامبيا Sambia
+          1	سيما Sima
+          2	شارع الجامعة العربية
+          4	شارع رقم ٣٢
+          1	طريق وطني ٢
+          1	فومبوني
+          1	فومبوني Fomboni
+          1	كانكني
+          1	كفني
+          2	كوامباني
+          2	كوي
+          1	كيمبني
+          2	لينكني
+          1	مافينقوني
+          1	مالي
+          1	مبتسي Mbatsé
+          2	مرمني
+          1	مستشفى Hospital
+          3	مسجد
+          1	مسجد الجمعة Mosqué de Vendredi
+          1	مسجد النسائية
+          1	مسجد بوموني
+          1	مسجد دوموني
+          1	مسجد زاوياني يا جوو
+          1	مسجد زوياني
+          1	مسجد فوكوتي
+          1	مسجد في المكة (مسجد الشباب)
+          1	مسجد لينكني
+          1	مسجد مكيري وهاري
+          1	مصرف
+          1	مطار أواني Ouani Airport
+          1	مطار الأمير سعيد إبراهيم الدولي 
+          1	مطار موهيلي بندر السلام Mohéli Bandar 
+          1	مكان المرآب
+          1	مكتب بريد - الجمعية الوطنية للبر�
+          1	مكنسيني نيندري
+          1	ملعب بانداهاري terrain de bandahari
+          1	موتسامودو
+          1	موروني
+          2	موهيلي Mwali
+          1	مويا
+          1	ميتساميولي
+          1	ميرنكني
+          1	ميرينكوني Miringoni
+          1	ميلمبني
+          1	ندروندروني Ndrondroni
+          1	نهر لينكني
+          1	نيومشوا Nioumachoua
+          1	همفونا
+          1	هواني Hoani
+          1	والله
+          1	والله Ouallah
+          1	واناني Wanani

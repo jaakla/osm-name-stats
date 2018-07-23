@@ -1,0 +1,100 @@
+        436	Parish Road
+        200	Mill Creek
+        198	4th Street
+        197	Main Street
+        194	Big Creek
+        192	3rd Street
+        188	2nd Street
+        184	Oil Field Road
+        178	Oak Street
+        177	1st Street
+        160	Airline Highway
+        153	Comrade Creek
+        151	Lafayette Subdivision
+        148	Church Street
+        145	5th Street
+        140	Pine Street
+        134	Bogue Chitto
+        132	Beaumont Subdivision
+        131	6th Street
+        123	River Road
+        117	North Causeway Boulevard
+        111	8th Street
+        110	Calcasieu River
+        107	Louisiana Avenue
+        106	7th Street
+        105	Whisky Chitto Creek
+        103	Tenmile Creek
+        101	Tchefuncte River
+        101	Maple Street
+        100	Cypress Bayou
+         98	Bundick Creek
+         94	New Orleans Subdivision
+         94	Magnolia Street
+         94	Jackson Street
+         93	Walmart Supercenter
+         93	Canal Street
+         91	Willow Street
+         87	9th Street
+         86	Porpoise Bayou
+         86	Line Avenue
+         85	Elm Street
+         84	Vicksburg Subdivision
+         84	Lake Charles Loop
+         84	Cypress Street
+         83	Lakeshore Drive
+         83	Brushy Creek
+         82	Cherry Street
+         81	Levee Road
+         80	Silver Creek
+         80	Railroad Avenue
+         79	Little Silver Creek
+         79	Dry Creek
+         78	Flat Creek
+         78	Bogue Lusa Creek
+         77	Front Street
+         76	Washington Street
+         75	Bayou Funny Louis
+         74	Barnes Creek
+         73	McComb Subdivision
+         73	Clear Creek
+         72	Hays Creek
+         72	10th Street
+         71	McDonald's
+         69	Pecan Street
+         69	Indian Creek
+         68	Lawrence Creek
+         67	Cedar Street
+         67	Bear Creek
+         67	Bayou Serpent
+         66	Hickory Street
+         66	Bayou Cocodrie
+         65	Westbank Expressway
+         64	First Baptist Church
+         63	Lee Street
+         62	Short Street
+         62	11th Street
+         61	Johnson Street
+         61	East Landing to South Landing Trail
+         61	Brown Road
+         60	Spring Creek
+         60	Big Branch
+         59	Monroe Subdivision
+         59	Little Creek
+         59	Devils Creek
+         59	Bayou Provencal
+         58	Sycamore Street
+         58	Iatt Creek
+         58	Hammond Subdivision
+         58	Back Belt Line
+         57	Pushepatapa Creek
+         57	Center Street
+         56	Walnut Street
+         56	Nantachie Creek
+         56	Middle Creek
+         56	Horsepen Creek
+         56	Hemphill Creek
+         56	Alexandria Subdivision
+         56	Airport Road
+         55	Sixmile Creek
+         55	Park Avenue

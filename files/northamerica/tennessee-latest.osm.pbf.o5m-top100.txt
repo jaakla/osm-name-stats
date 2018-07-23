@@ -1,0 +1,100 @@
+        454	161kV transmission line
+        321	Nolichucky River
+        270	Main Street
+        257	Lick Creek
+        246	Fulton Subdivision
+        211	Church Street
+        192	Little Tennessee River
+        174	Tellico River
+        170	West Main Street
+        160	Oak Street
+        159	69kV transmission line
+        155	Clear Creek
+        154	East Main Street
+        153	Briley Parkway
+        151	College Street
+        149	Little River
+        148	Appalachian Trail
+        145	Watauga River
+        135	North Main Street
+        130	Pellissippi Parkway
+        128	I 840
+        125	Riverside Drive
+        125	Circle Drive
+        124	South Main Street
+        124	Roan Creek
+        124	McDonald's
+        120	Walmart Supercenter
+        116	Dry Creek
+        114	Laurel Branch
+        113	Natchez Trace Parkway
+        113	Mill Creek
+        112	Spring Street
+        111	Memphis Subdivision
+        109	Dry Branch
+        107	Walnut Street
+        106	Elm Street
+        105	KD Subdivision
+        105	French Broad River
+        104	Brush Creek
+        103	Smith Cemetery
+        103	Gulf Fork Big Creek
+        103	Cane Creek
+         98	Sinking Creek
+         98	Little Chucky Creek
+         97	Rock Creek
+         97	Bill Morris Parkway
+         96	Roaring Creek
+         96	Dogwood Lane
+         95	Maple Street
+         95	Lick Branch
+         92	Airport Road
+         91	Pine Street
+         91	Middle Creek
+         90	Spring Creek
+         89	Parkway
+         89	Oostanaula Creek
+         89	High Street
+         89	Conasauga Creek
+         89	Chestuee Creek
+         88	Sunset Drive
+         88	River Road
+         87	Madison Avenue
+         86	Stony Creek
+         86	Candies Creek
+         85	Doe River
+         84	Taco Bell
+         84	Smith Road
+         83	Roaring Fork
+         83	Abrams Creek
+         81	Brown Cemetery
+         80	West Prong Little Pigeon River
+         80	Walnut Grove Road
+         80	Shell
+         79	Hillcrest Drive
+         78	Poplar Street
+         78	Kroger
+         77	Williams Cemetery
+         77	Subway
+         77	North Mouse Creek
+         77	Long Creek
+         77	Cherry Street
+         76	Wolf River Boulevard
+         76	Ridge Road
+         76	Old Hickory Boulevard
+         76	Baker Creek
+         75	Nashville Terminal Subdivision
+         75	Caney Creek
+         75	2nd Street
+         74	Short Street
+         74	Johnson Road
+         73	Alcoa Highway
+         72	Winfield Dunn Parkway
+         72	South Indian Creek
+         72	Fourmile Creek
+         71	Trail
+         71	Jones Cemetery
+         71	Cedar Street
+         70	Wolf Creek
+         70	Pigeon River
+         69	Rogers Creek

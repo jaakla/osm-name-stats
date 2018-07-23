@@ -1,0 +1,100 @@
+        655	Dwight D. Eisenhower Highway
+        496	Burlington Northern Santa Fe R
+        143	Laramie River
+        135	Grand Loop Road
+         98	bus
+         78	Purple Heart Trail
+         78	Main Street
+         74	Laramie Subdivision
+         72	Yellowstone River
+         70	Main 1 / 2
+         70	2nd Street
+         63	Belle Fourche River
+         58	3rd Street
+         56	Greenway
+         55	Donkey Creek
+         55	Burlington Northern Railroad
+         52	1st Street
+         50	North Fork Highway
+         49	Green River
+         43	Union Pacific Railroad
+         43	Thorofare Creek
+         39	Lamar River
+         39	4th Street
+         37	Ridge Road
+         37	Horse Creek
+         36	Hams Fork Creek
+         36	East Entrance Road
+         36	Beartooth Highway
+         35	Rock Creek
+         35	Pine Street
+         34	Riverview Cutoff
+         34	La Bonte Creek
+         34	Burlington Northern Santa Fe Railroad
+         33	Main 2
+         33	Canal Road
+         32	Horse Creek Road
+         32	Emigrant Trail
+         32	5th Street
+         31	Central Avenue
+         31	Buffalo Creek Road
+         30	Willow Creek
+         30	South 6th Street
+         30	Sand Creek Road
+         30	Oil Field Road
+         30	North Platte River
+         30	East Main Street
+         30	Big Horn Subdivision
+         29	Pioneer Canal
+         29	Main 1
+         28	Sweetwater River
+         28	Sagebrush Drive
+         28	Highline Trail
+         28	6th Street
+         27	South Entrance Road
+         27	Skyline Drive
+         27	North Park Road
+         27	Cedar Street
+         27	Beaver Creek Road
+         26	South 3rd Street
+         26	South 2nd Street
+         26	Little Missouri River Road
+         26	Airport Road
+         25	South 5th Street
+         25	North 3rd Street
+         25	Deer Creek Road
+         25	Cold Springs Road
+         25	Ash Street
+         24	UP Main Line
+         24	Spring Creek
+         24	South 4th Street
+         24	South 1st Street
+         24	Oregon Trail
+         24	Northeast Entrance Road
+         24	Little Missouri River
+         23	Sinclair
+         23	North Main Street
+         23	Esterbrook Road
+         23	Elm Street
+         23	East 6th Street
+         23	Cow Creek Road
+         23	Cemetery Road
+         22	Washington Street
+         22	Snowy Range Road
+         22	Road 51
+         22	Platte River Parkway Trail
+         22	Old Highway 87
+         22	East 7th Street
+         21	West Main Street
+         21	Two Ocean Lake Trail
+         21	Teton Park Road
+         21	Table Mountain
+         21	Red Canyon Road
+         21	Palmer Canyon Road
+         21	Oak Street
+         21	North Fork Road
+         21	North 7th Street
+         21	East 8th Street
+         21	East 5th Street
+         21	East 3rd Street
+         21	County Road 220

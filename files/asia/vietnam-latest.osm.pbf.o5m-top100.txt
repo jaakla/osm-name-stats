@@ -1,0 +1,100 @@
+        714	Quốc lộ 1
+        541	VinMart+
+        418	NATIONAL HIGHWAY 32
+        310	Petrolimex
+        288	Hùng Vương
+        269	PNJ
+        258	Quốc lộ 1A
+        224	Trần Hưng Đạo
+        212	Đường Hồ Chí Minh
+        204	Techcombank
+        203	vinmart
+        201	PROVICE ROAD 136
+        200	Trần Phú
+        196	Nguyễn Văn Linh
+        195	Quốc lộ 14
+        168	Nguyễn Tất Thành
+        142	building
+        141	Đường số 1
+        137	Quang Trung
+        136	Trường Chinh
+        135	Lê Lợi
+        134	ATM - BIDV
+        131	Ngô Quyền
+        130	Lê Hồng Phong
+        126	Nguyễn Trãi
+        124	ATM - Vietcombank
+        123	Võ Văn Kiệt
+        123	Quốc lộ 91
+        120	Lý Thường Kiệt
+        120	Cách Mạng Tháng Tám
+        119	Building
+        118	Nguyễn Du
+        117	house
+        117	Tôn Đức Thắng
+        116	Lê Duẩn
+        115	Quốc Lộ 80
+        113	Phạm Văn Đồng
+        110	Đường số 2
+        103	Hai Bà Trưng
+        101	开河高速
+        101	Điện Biên Phủ
+         98	Đường số 3
+         98	Đường cao tốc Hà Nội - Lào Cai
+         98	PV Oil
+         96	Bạch Đằng
+         95	Đường số 5
+         95	Nguyễn Văn Cừ
+         95	Cầu
+         94	Đường số 4
+         94	Trụ
+         92	Nguyễn Thái Học
+         91	Đường số 6
+         90	cầu
+         89	Nguyễn Chí Thanh
+         88	Phan Bội Châu
+         85	Nguyễn Văn Trỗi
+         85	Agribank
+         84	Nguyễn Thị Minh Khai
+         84	Nguyễn Huệ
+         83	Võ Thị Sáu
+         83	Võ Nguyên Giáp
+         80	TP Hồ Chí Minh - Trung Lương
+         79	Phan Đình Phùng
+         78	Đường cao tốc Hà Nội - Hải Phòng
+         77	Đường số 10
+         77	Đinh Tiên Hoàng
+         76	Nguyễn Hữu Thọ
+         74	Chu Văn An
+         73	Đường số 9
+         73	Nguyễn Hữu Cảnh
+         70	Đất Nông Nghiệp
+         70	Lý Thái Tổ
+         69	Quốc lộ 80
+         69	Quốc lộ 10
+         69	Nguyễn Đình Chiểu
+         67	Đường số 8
+         67	Hoàng Văn Thụ
+         67	Hoàng Diệu
+         66	Thống Nhất
+         65	Quốc lộ 63
+         64	Lotteria
+         63	Quốc lộ 18
+         62	Năm Căn - Đất Mũi
+         62	Ngô Gia Tự
+         62	Ba Mươi Tháng Tư
+         61	Đường số 11
+         61	Trương Định
+         61	Quốc lộ 54
+         60	Cao Lãnh - Vàm Cống
+         59	Đường số 7
+         59	Nông trường Cao su Bình Ba
+         59	Lý Tự Trọng
+         58	Trần Quốc Toản
+         58	Trần Nhân Tông
+         58	Phan Chu Trinh
+         58	Bùi Thị Xuân
+         57	Đường cao tốc Hà Nội - Thái Nguyên
+         57	Nguyễn Trung Trực
+         57	Hoàng Hoa Thám
+         57	BIDV

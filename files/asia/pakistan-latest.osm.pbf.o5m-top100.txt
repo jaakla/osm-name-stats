@@ -1,0 +1,100 @@
+       2802	Point
+        666	School
+        566	National Highway
+        563	residential_area
+        430	Grand Trunk Road
+        246	M2
+        190	Water Tank
+        170	PSO
+        149	Street 2
+        149	Service Road
+        143	Makran Coastal Highway
+        142	Street 1
+        139	commercial_area
+        137	Indus Highway
+        135	Street 3
+        134	Allied Bank
+        130	HBL Bank
+        129	Street 4
+        129	Indus River
+        128	Shop
+        124	residential_land
+        118	Meezan Bank
+        110	agriculture_land
+        110	Street 7
+        110	Street 6
+        110	Masjid
+        108	MCB
+        108	Karakoram Highway
+        108	Bank Alfalah
+        106	Street 5
+        102	Street 8
+        102	PSO Petrol Pump
+         97	Street 9
+         96	RCD Highway
+         94	University Road
+         94	M1
+         93	Mosque
+         93	CNG
+         92	Bank Al Habib
+         92	Askari Bank
+         90	Street 10
+         88	Karachi - Hyderabad Motorway
+         88	Border Pakistan - Afganistan
+         85	U Turn
+         83	Ring Road
+         82	Cop Housing Socity
+         79	Faysal Bank
+         78	Bridge
+         73	HBL
+         73	Circular Road
+         72	Street 12
+         72	Street 11
+         69	Shahrah e Faisal
+         69	Jinnah Avenue
+         69	Airport Road
+         68	Street 13
+         67	Road
+         67	Chenab River
+         64	Shell
+         63	Jamia Masjid
+         62	st
+         60	Khyber-Pass-Line
+         59	UBL
+         59	Street 15
+         59	Street 14
+         58	JS Bank
+         56	Pizza Hut
+         56	Dubai Islamic Bank
+         53	Village
+         51	UBL Bank
+         51	MCB Bank
+         49	UBD Canal Bank Road
+         49	Soneri Bank
+         49	Bank Islami
+         48	Summit Bank
+         48	Street 20
+         48	Block factory / اينٹ بہٹی
+         47	Total Parco
+         47	Standard Chartered Bank
+         47	Garho Road
+         47	Ferozepur Road
+         46	Street 17
+         46	Faisalabad-Sheikhupura-Lahore Road
+         45	College Road
+         44	Street 18
+         43	Ravi River
+         43	NLI Market
+         43	Charsadda Road
+         42	govt_offices
+         42	Street 23
+         42	Railway Road
+         42	Kashmir Road
+         42	KFC
+         41	Street 19
+         41	Miran Shah - Bannu Road
+         41	Link Road
+         40	Street 16
+         40	Saba Avenue
+         40	Korangi Road
+         40	Khayaban e Badban

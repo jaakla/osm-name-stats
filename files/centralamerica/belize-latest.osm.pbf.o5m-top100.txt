@@ -1,0 +1,100 @@
+         60	Hummingbird Highway
+         51	Southern Highway
+         40	George Price Highway
+         26	Philip Goldson Highway
+         18	Northern Highway
+         18	Mahogany Street
+         17	Western Union
+         17	Belize Bank
+         16	Placencia Road
+         16	Belize River
+         16	BNE Oil Well
+         15	Princess Margaret Drive
+         15	Central American Boulevard
+         15	Atlantic Bank
+         14	Kingdom Hall of Jehovah's Witnesses
+         13	Scotiabank
+         13	Puma
+         13	Church Street
+         13	BTL
+         11	Shell
+         11	Main Street
+         11	King Street
+         11	Front Street
+         11	Center Road
+         10	West Street
+         10	Social Security Board
+         10	Otro Benque Road
+         10	Chiquibul Road
+          9	Road North
+          9	Buttonwood Bay Boulevard
+          8	Sibun River
+          8	Seven Hills
+          8	Savannah Street
+          8	Sapodilla Street
+          8	Manatee Highway
+          8	Hibiscus Street
+          7	UNO
+          7	Quality Poultry Products
+          7	Orange Street
+          7	Guadalupe Street
+          7	Duck Lane
+          7	Courts
+          7	Cemetery Street
+          7	Burrell Boom Cutoff
+          7	Atlantic Insurance
+          6	Vernon Street
+          6	Tarpon Street
+          6	Seagull Street
+          6	Seagrape Drive
+          6	RF&G Insurance Agent
+          6	Queen Street
+          6	Prince Street
+          6	Pen Road
+          6	Pelican Street
+          6	Oleander Street
+          6	New Road
+          6	Navel Road
+          6	Maya Street
+          6	Marine Parade
+          6	Jinny Creek
+          6	House
+          6	George Price Boulevard
+          6	Freetown Road
+          6	Ex-Servicemen's Road
+          6	Eve Street
+          6	Burns Avenue
+          6	Blue Marlin Avenue
+          6	Bee Lane
+          6	Baldy Beacon Road
+          6	A10 / Chiquibul Road
+          6	8th Street
+          6	5th Street
+          6	4th Street
+          6	1st Street
+          5	Victoria Street
+          5	Uno
+          5	University Heights Boulevard (Durgeon Drive)
+          5	University Drive
+          5	Unity Street
+          5	Toucan Street
+          5	South Riverside Drive
+          5	Santa Teresa Road
+          5	Santa Maria Street
+          5	Santa Maria Creek
+          5	San Martin Avenue
+          5	San Antonio Road
+          5	Regent Street West
+          5	Prosser Fertilizer
+          5	Oak Burn
+          5	North Front Street
+          5	Mopan River
+          5	Lizarraga Avenue
+          5	Line 3
+          5	Independence Road
+          5	Hector
+          5	Granite Cairn Road
+          5	George Street
+          5	George Price Drive
+          5	George Price Avenue
+          5	Farm Path

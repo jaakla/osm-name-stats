@@ -1,0 +1,100 @@
+         67	Estrada Regional 1-1
+         65	2ª Circular
+         57	Rua da Igreja
+         53	Avenida de Santo Cristo
+         51	SCUT Nordeste
+         50	Parque de Estacionamento
+         44	Estrada Regional
+         42	Paragem de Autocarro
+         33	Estrada Regional N 1-1A
+         33	Estrada Circular
+         31	Área Protegida para a Gestão de Habitats ou Espécies da 
+         31	Rua Nova
+         31	Estrada do Caldeirão
+         26	Rua Direita
+         25	Via Rápida
+         24	WC Público
+         24	Avenida João Bosco Mota Amaral
+         22	Estrada Regional das Feteiras
+         21	Ribeirinha
+         21	E.R. 1-1ª - Feteira
+         20	Trilho PR2FLO
+         20	Rua do Outeiro
+         19	Avenida Dom João III
+         18	Trilho da Levada PR3FAI
+         18	Rua de São Pedro
+         18	PR21SMI - Padrão das Alminhas / Salto da Farinha
+         17	Rua de São Gonçalo
+         17	Ponto Intermédio Trilho Quinhentista
+         17	Nó de Belém
+         17	Caminho da Levada
+         17	Avenida Infante Dom Henrique
+         16	Trilho do Monte Queimado
+         16	Ribeira do Guilherme
+         16	Ribeira Seca
+         16	Ribeira Grande
+         16	Caminho Florestal da Caldeira
+         15	Ribeira dos Caimbos
+         14	Santa Bárbara
+         14	Rua de São João
+         14	Rua da Juventude
+         14	Rua Manuel Augusto Amaral
+         14	Quinhentista
+         14	Horta
+         14	Casa de Saúde São João de Deus
+         13	Santo Amaro
+         13	Ribeira da Salga
+         13	Ponto Intermédio Triho PRC31SMI - Lomba da Fazenda
+         13	Parque Infantil
+         13	Estrada Príncipe Alberto do Mónaco
+         13	Estrada Municipal da Ponta da Fajã Grande
+         13	Casa de Habitação (IPIA)
+         13	Casa Cheia
+         13	Caminho Fundo
+         13	Caldeirões
+         12	Variante à Estrada Regional Nº 1-1ª
+         12	Rua do Porto
+         12	Rua da Travessa
+         12	Rua da Boavista
+         12	Imóvel com Valor Arquitetónico
+         12	Coreto
+         12	Caminho Velho
+         12	Caminho Rural do Cabeço Verde
+         12	Caminho Florestal de Santo António
+         11	Área Protegida para a Gestão de Habitats ou Espécies do 
+         11	Rua do Rosário
+         11	Rua da Autonomia
+         11	Rua Peixoto Pimentel
+         11	Rua Ilha Azul
+         11	Ribeira dos Flamengos
+         11	Ribeira de São Francisco
+         11	Ribeira da Tosquiada
+         11	Ramal da Fajã
+         11	Estrada Regional da Tronqueira
+         10	Rua de Baixo
+         10	Rua das Almas
+         10	Rua da Cruz
+         10	Ribeira do Mosteiro
+         10	Ponto Intermédio Trilho Forno de Cal
+         10	Feteira
+         10	Cedros
+         10	Caminho do Parque
+         10	Caminho do Concelho
+         10	Caminho Novo
+         10	Caminho Florestal do Morro Alto
+         10	Caminho Florestal Rochão do Junco - Alto da Cova
+         10	Azoria
+         10	Avenida 25 de Abril
+          9	Wells
+          9	Trilho Grande Rota das Flores
+          9	São Pedro
+          9	Santo António
+          9	Rua do Cemitério
+          9	Rua da Paz
+          9	Rua da Fonte
+          9	Rua José Pereira Borges
+          9	Rua Ilha de São Luís
+          9	Ribeira de Santo António
+          9	Ribeira Despe-te que Suas
+          9	Parque de estacionamento
+          9	Norte Pequeno

@@ -1,0 +1,100 @@
+        450	Maple River
+        377	Sheyenne River
+        334	Wild Rice River
+        333	Spring Creek
+        326	Main Street
+        283	Baldhill Creek
+        238	Beaver Creek
+        214	Goose River
+        193	Elm River
+        189	North Branch Elm River
+        183	School Number 1
+        171	Mauvais Coulee
+        170	Red River of the North
+        170	2nd Avenue
+        164	School Number 2
+        164	3rd Avenue
+        159	North Branch Goose River
+        156	Knife River
+        152	2nd Street
+        147	1st Avenue
+        145	3rd Street
+        134	South Branch Park River
+        127	KO Subdivision
+        124	2nd Avenue Northeast
+        122	School Number 3
+        121	1st Street
+        119	4th Avenue
+        118	3rd Avenue Northeast
+        117	Willow Creek
+        116	Crooked Creek
+        114	Otter Creek
+        113	4th Street
+        112	1st Avenue Northeast
+        107	Glasgow Subdivision
+        107	4th Avenue Northeast
+        103	Brady Creek
+        100	5th Avenue Northeast
+         96	Buffalo Creek
+         96	3rd Avenue Northwest
+         94	Devils Lake Subdivision
+         94	4th Street Southwest
+         91	Elm Coulee
+         89	2nd Street Northeast
+         88	Little South Pembina River
+         87	Main Avenue
+         87	Dickinson Subdivision
+         87	5th Street
+         87	4th Street Northeast
+         87	2nd Avenue Southwest
+         86	School Number 4
+         86	Rush River
+         86	3rd Avenue Southeast
+         86	2nd Street Southeast
+         86	1st Street Southeast
+         86	1st Street Northeast
+         85	Middle Branch Goose River
+         85	4th Avenue Southeast
+         85	4th Avenue Northwest
+         85	2nd Avenue Southeast
+         84	South Branch Goose River
+         84	North Fork Sheyenne River
+         84	2nd Avenue Northwest
+         83	Antelope Creek
+         83	1st Avenue Northwest
+         82	5th Avenue
+         82	100th Street Northwest
+         81	9th Avenue Northeast
+         81	2nd Street Northwest
+         80	2nd Street Southwest
+         79	6th Avenue Northeast
+         78	3rd Street Northeast
+         77	3rd Street Northwest
+         75	Forest River
+         75	78th Street Southeast
+         74	Tongue River
+         74	Silver Creek
+         74	7th Street Northeast
+         74	7th Avenue Northeast
+         73	97th Street Southeast
+         73	94th Street Northwest
+         73	93rd Street Southeast
+         73	104th Street Northwest
+         72	Hillsboro Subdivision
+         72	6th Street
+         71	Elm Creek
+         71	96th Street Northwest
+         71	6th Street Northeast
+         71	3rd Avenue Southwest
+         71	1st Street Southwest
+         70	Little Goose River
+         70	5th Street Northeast
+         70	4th Street Northwest
+         70	32nd Avenue South
+         70	1st Street Northwest
+         70	13th Street Southeast
+         70	101st Street Northwest
+         69	3rd Street Southeast
+         69	17th Street Southeast
+         68	95th Street Northwest
+         68	90th Street Northeast

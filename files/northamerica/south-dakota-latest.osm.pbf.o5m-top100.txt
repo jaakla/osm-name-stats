@@ -1,0 +1,100 @@
+        679	Dakota, Minnesota and Eastern Railroad
+        623	Purple Heart Memorial Highway
+        274	Main Street
+        170	3rd Street
+        170	2nd Street
+        161	1st Street
+        143	Little Minnesota River
+        143	George S. Mickelson Trail
+        143	Dakota Southern Railway
+        132	Big Sioux River
+        130	4th Street
+        123	Aberdeen Subdivision
+        105	5th Street
+         99	State Highway 34
+         99	North Fork Whetstone River
+         92	North Main Street
+         88	County Road
+         84	1st Avenue
+         83	6th Street
+         78	South Fork Whetstone River
+         74	North Fork Yellow Bank River
+         73	Cottonwood Slough
+         72	Burlington Northern Santa Fe Railroad
+         72	2nd Avenue
+         71	211th Street
+         67	Mud Creek
+         67	Elm Street
+         67	3rd Avenue
+         66	268th Street
+         64	D&I Railroad
+         62	Mount Rushmore Road
+         61	West 4th Street
+         60	East 3rd Street
+         60	478th Avenue
+         60	451st Avenue
+         60	217th Street
+         59	West 3rd Street
+         59	461st Avenue
+         59	396th Avenue
+         56	5th Avenue
+         56	4th Avenue
+         56	196th Street
+         55	Pine Street
+         55	409th Avenue
+         54	Spearfish Creek
+         54	Cobb Creek
+         54	459th Avenue
+         53	West 5th Street
+         53	452nd Avenue
+         53	405th Avenue
+         53	102nd Street Southeast
+         52	South Fork Yellow Bank River
+         52	Mitchell Subdivision
+         52	201st Street
+         51	Rapid City, Pierre, and Eastern Railroad
+         51	East Main Street
+         51	East 2nd Street
+         51	482nd Avenue
+         51	460th Avenue
+         51	391st Avenue
+         51	384th Avenue
+         50	464th Avenue
+         50	463rd Avenue
+         50	203rd Street
+         49	West Main Street
+         49	Murphy Ditch
+         49	7th Street
+         49	458th Avenue
+         49	456th Avenue
+         49	450th Avenue
+         49	219th Street
+         48	West 2nd Street
+         48	Rapid City Bike Path
+         48	East 4th Street
+         48	477th Avenue
+         48	410th Avenue
+         48	291st Street
+         48	264th Street
+         48	220th Street
+         47	South Main Street
+         47	Mobridge Subdivision
+         47	East 6th Street
+         47	388th Avenue
+         47	376th Avenue
+         47	273rd Street
+         47	271st Street
+         47	244th Street
+         47	194th Street
+         46	Oak Street
+         46	385th Avenue
+         46	382nd Avenue
+         46	200th Street
+         45	Rapid Creek
+         45	East 5th Street
+         45	484th Avenue
+         45	479th Avenue
+         45	412th Avenue
+         45	394th Avenue
+         45	386th Avenue
+         45	375th Avenue

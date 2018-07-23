@@ -1,0 +1,3516 @@
+          1	16 A & 16 B
+          1	16 meat shop
+          1	17A
+          1	17B
+          1	18 A & 18 B
+          1	2 Sinking restaurant
+          1	2 friends Restaurant fast food
+          1	20
+          1	21 Tara's Collection
+          1	24 Seven store
+          1	25
+          1	27
+          1	29A
+          1	29B
+          1	2A
+          1	3 Tanks-Motithang-103
+          1	3 chorten (3 Stupas)
+          1	31A
+          1	39
+          1	4
+          1	4 Sister Grocery Shop
+          1	40
+          1	6
+          1	777 Restaurant
+          1	777 restaurant
+          2	8
+          1	8 Eleven
+          1	A & DJ furniture unit
+          1	A Block
+          1	A. M Enterprise
+          1	A.B Enterprise
+          1	A.B General Shop
+          1	A.R tshongkhang
+          1	AADDA Games Parlor
+          1	AHKE adventure travels
+          1	AI Building
+          1	AP Tshongkhang
+          1	ATA Khangzang
+          1	ATLAS Travel Services
+         10	ATM
+          1	ATM BNBL
+          2	ATM BOB
+          4	ATM Bank of Bhutan
+          1	ATM Wangdicholing Hospital
+          1	ATM_BoB
+          1	AWP Sawmil
+          1	Aama Tshongkhang
+          1	Abandoned House
+          1	About You Beauty Parlour
+          1	Above AWP Sawmil, Changzamtok
+          1	Acacia Sojourn Tours and Travels
+          1	Academic Building
+          1	Access Road
+          1	Access road
+          1	Access road to residence
+          1	Administration & Finance Division, Passport Section. Minist
+          1	Administration Block
+          1	Administration and Finance Division
+          1	Administrative Building CST
+          1	Adventure Sports
+          1	Agriculture/Livestock/Forestry Office
+          1	Aipoly Detention Pond
+          1	Akalu ram Cobbler
+          1	Alacarte
+          1	Alisha Hang Restaurant & Bar
+          1	All Seasons Hotel & Restaurant
+          1	Aluminium partition work
+          1	Ama Restaurant
+          1	Amaron Pit shop
+          1	Ambulance Garage
+          1	Ame Sacha
+          1	Amen Arts
+          1	Amtika
+          1	Anil Rai Restaurant
+          2	Anil tshongkhang
+          1	Anim Dratshang
+          1	Animal Life Saving Association Office
+          1	Anisha general shop
+          1	Anjule gurung tshongkhang
+          1	Annu Tshongkhang and Restaurant
+          1	Anti Corruption Commission
+          1	Apple Orchard
+          1	Apple Store
+          1	Apple solution
+          1	Archery
+          1	Archery Field
+          4	Archery Ground
+          1	Ariya Hotel (Thimphu)
+          1	Army Sawmill
+          1	Army Welfare Project
+          1	Army Welfare Project Office
+          2	Art Cafe
+          1	Arunachal Pradesh
+          1	Arunima Restaurant
+          1	Asha Bakery
+          1	Ashi Building
+          1	Ashik Jewellery Shop
+          1	Ashimaya Tshongkhang
+          1	Ashok Hotel
+          1	Ashoka General Shop
+          1	Ashoka Salon
+          1	Asian Highway AH48
+          1	Assam
+          1	Assembly Ground
+          1	Association of Bhutanese Tour Operators (ABTO)
+          1	Astrology office
+          1	Athang IC Tech
+          1	Athletic Pitch
+          2	Auditorium
+          1	Authentic Bhutanese Crafts gate
+          2	Avik gift shop
+          1	B-Coop Shop
+          1	B-mobile Tower
+          1	B. N 13 A
+          1	B. N 13 B
+          1	B. N 14
+          1	B. N 6 B
+          2	B.A. Academic block
+          1	B.B Be Delight Rest and Bar
+          1	B.M Meat shop
+          1	B.Sc. Life Science & Environmenta;ScienceAcademic block
+          1	B.Sc. Physical Science Academic Block
+          1	BABYOUTLET
+          1	BAFRA Lab
+          1	BAFRA Office
+          1	BBS Tower
+          1	BBSC Office, Gelephu
+          1	BCCI
+          1	BCCI Hall
+          1	BCSEA
+          1	BD Commercial
+          2	BDBL
+          1	BDBL ATM
+          1	BDBL Office
+          1	BDBL Parking
+          1	BDBL branch office
+          1	BDBL office
+          1	BFF Compund, Gelephu
+          1	BFF Football Ground 1
+          1	BFF Football Ground 2
+          1	BH- Taag CG
+          1	BH-Chung CG1
+          1	BH-Chung CG2
+          1	BH-Druk CG1
+          1	BH-Druk CG2
+          1	BH-Seng CG1
+          1	BH-Seng CG2
+          1	BH-Taag CG 2
+          1	BHS Helipad
+          4	BHU
+          1	BM Restrant
+          1	BMobile One stop shop
+          1	BNB ATM
+          1	BOB
+          1	BOB 60
+          3	BOB ATM
+          1	BOB ATM at CRRH
+          1	BOB cum Residential
+          1	BOB, Gasa
+          1	BOB, bangdu
+          4	BOD
+          1	BOD Dagapela
+          1	BP Gas Station
+          2	BPC
+          1	BPC Colony
+          1	BPC Colony (Residential Area
+          1	BPC Day care center
+          1	BPC Distribution and Customer Service Department
+          3	BPC Office
+          1	BPC Power house/Changzamtok
+          1	BPC Staff Quarter 1
+          1	BPC Staff Residence
+          1	BPC building
+          1	BPCL office
+          1	BT Mobile shop
+          1	BT staff Quarter
+          1	Baan Thai
+          1	Babena
+          1	Babesa Art snd Prints
+          1	Babesa Middle Secondary School
+          1	Babesa School
+          1	Babesa Village Restaurant
+          1	Babita's collection
+          1	Baboo Karchung's House
+          1	Baby Corner
+          1	Baby World
+          1	Bachelor's Quarter
+          1	Back to back 2 statue
+          1	Bajo
+          1	Bajo-Khuru Bypass
+          2	Bajo-Khuru Highway
+          1	Balamnang
+          1	Balujora
+          1	Bamboo, Cane and Wooden Manufacturing Unit
+          1	Bamurpa
+          1	Bangdu Lam
+          5	Bangdu Lam - 1
+          1	Bangdu Lam - 10
+          1	Bangdu Lam - 12
+          1	Bangdu Lam - 2
+          1	Bangdu Lam - 3
+          1	Bangdu Lam - 4
+          1	Bangdu Lam - 5
+          1	Bangdu Lam - 6
+          1	Bangdu Lam - 7
+          1	Bangdu Lam - 8
+          1	Bangdu Lam - 9
+          1	Bangkok Sales
+          1	Bangladesh Embassy
+          1	Bangtso
+          4	Bank of Bhutan
+          1	Bank of Bhutan ATM
+          1	Bank of Bhutan HQ
+          2	Bap Gepjakha
+          2	Bap Komkha
+          2	Bap Lhakhang
+          1	Barp Lhakhang
+          1	Barpeta
+          1	Bartshem Chador Lhakhang
+          1	Bartshem School
+          1	Barun enterprise
+          1	Barz Brothers
+          1	Basket Ball Hall
+          1	Basketball Court
+          2	Basketball Ground
+          1	Basketball Half court
+          1	Basketball court
+          1	Baskin Robins
+          1	Basochu Lower
+          3	Basra River
+          1	Bathpalathang Airport
+          1	Bayul Langdra Road, Kashi Geog
+          1	Bazaar
+          1	Bazam Eastside
+          1	Bazam Westside
+          1	Beautiful Homes
+          1	Beauty Parlor
+          1	Beauty access salon
+          1	Beef Shop
+          1	Beki
+          1	Better Products
+          1	Bhairab Kund
+          1	Bharat Petroleum;Immigration Permit Application Center
+          2	Bhola River
+          1	Bholkaduba
+          1	Bhur Gup Office
+          1	Bhur Primary School
+          1	Bhutan - India Boundary
+          1	Bhutan Agriculture and Food Regulatory Authority
+          1	Bhutan Agro Industry
+          1	Bhutan B-Coop
+          3	Bhutan Broadcasting Service
+          1	Bhutan Canada FF
+          1	Bhutan Centennial Hotel
+          1	Bhutan Computer Kota
+          1	Bhutan Development Bank
+          1	Bhutan Doeden Tours and Services
+          1	Bhutan Elite Security Services
+          2	Bhutan Engineering company private limited
+          1	Bhutan Fitness Dragon
+          1	Bhutan Foundation
+          1	Bhutan Gate
+          1	Bhutan Icon Travels
+          1	Bhutan Institue of Martial arts
+          1	Bhutan Institute of International Language (IT & Management
+          1	Bhutan Insurance Limited
+          1	Bhutan International Education Coulstancy & Placement Firm
+          1	Bhutan Internationals
+          1	Bhutan Medical Health Council (BMHC)
+          1	Bhutan Muhung Travels
+          1	Bhutan Music School
+          2	Bhutan National Bank
+          2	Bhutan National Bank Limited
+          1	Bhutan National bank
+          1	Bhutan Nun's Foundation
+          1	Bhutan Observer
+          1	Bhutan Observer Office
+          1	Bhutan Observver
+          1	Bhutan Oil Distributors
+          1	Bhutan Olympic Committee
+          1	Bhutan Olympic Committee Hall
+          1	Bhutan Optic
+          1	Bhutan Oversea Education consultancy
+          1	Bhutan Patrol Road
+          6	Bhutan Post
+          1	Bhutan Post Office, Paro
+          1	Bhutan Postal Museum
+          2	Bhutan Power Corporation
+          1	Bhutan Power Corporation Ltd (Electricity Service Division)
+          1	Bhutan Power Corporation transmission plant
+          1	Bhutan Printing Solution
+          1	Bhutan Quality ENT. Druk Lamsel Construction
+          1	Bhutan Residency
+          1	Bhutan Resident Mission
+          1	Bhutan Seed Centre
+          1	Bhutan Suites
+          1	Bhutan Taekwondo Federation
+          3	Bhutan Telecom
+          1	Bhutan Telecom Limited
+          1	Bhutan Telecom Tower
+          1	Bhutan Telecome
+          1	Bhutan Telecommunications Limited
+          1	Bhutan Times
+          1	Bhutan Travel Sevices
+          1	Bhutan Trust Fund for Environmental Conservation
+          1	Bhutan Yuden Tours
+          1	Bhutan builders private limited
+          1	Bhutan frontline travel/ tour package , air ticketing and c
+          1	Bhutan frontline travel/ tour package, airticketing and car
+          1	Bhutan lively tours and travels
+          2	Bhutan pelyab tours and treks
+          1	Bhutan travel buddies
+          2	Bhutan white horse tours and treks
+          1	Bhutan-Kitchen& Brikery Equiment
+          1	Bhutanese Traditional Market
+          1	Bida Enterprise
+          1	Bifurcation
+          1	Big Bakery
+          1	Big cola depot
+          1	Binu Tshongkhang
+          2	Bio Bhutan
+          1	Bishnu Tshongkhang
+          1	Biteykha Middle Secondary School
+          1	Bjabryanbond Grocery/17948665/77320606
+          1	Bjishong higher secondary school
+          1	Black-necked Crane Information Center
+          1	Block AB (Hostel)
+          1	Block CD (Hostel)
+          1	Block E (Hostel cum Dining Hall)
+          1	Blue Bliss Cafe&Catering
+          1	Blush
+          1	BoB / ATM
+          1	Bod la
+          1	Bondey Lhakhang
+          1	Bongaigaon
+          1	Bontela
+          1	Books and Toy Shop
+          1	Booning snooker
+         53	Border Bhutan - China
+         25	Border Bhutan - India
+          1	Border Checkpost Office
+          1	Border China - India
+          1	Border Darjiling - East
+          1	Border Darjiling - Jalpaiguri
+          1	Bowong, Chiwog boundary
+          1	Boy's Hostel
+          1	Boys Toilet
+          1	Bridge
+          1	Bright Vision Optical
+          1	Brother Electronics Repairing
+          1	Brothers Optical
+          1	Buddha Dordenma
+          1	Building A
+          4	Building Under Construction
+          2	Building under construction
+          1	Bulding Under Construction
+          1	Buliding under constrction
+          1	Bumchu Restaurant cum bar
+          1	Bumdra-Dungtsi Lhakhang path
+          1	Bumthang Brewery
+          1	Bumthang Chhu
+          1	Bumthang Dzongkhag
+          1	Bumthang Hardware and Electricals
+          1	Bumthang Pizza
+          1	Burger point
+          1	Bus Station
+          7	Bus Stop
+          1	Bus Stop BCCI-106
+          1	Bus station
+          1	Busy beans
+          1	Buxa National Park
+          4	Bàpi Lam
+          1	Bàpi Lam - 1
+          1	Bàpi Lam - 10
+          1	Bàpi Lam - 11
+          1	Bàpi Lam - 12
+          1	Bàpi Lam - 13
+          1	Bàpi Lam - 14
+          1	Bàpi Lam - 15
+          1	Bàpi Lam - 2
+          1	Bàpi Lam - 3
+          1	Bàpi Lam - 4
+          1	Bàpi Lam - 5
+          1	Bàpi Lam - 6
+          1	Bàpi Lam - 7
+          1	Bàpi Lam - 8
+          2	Bàpi Lam - 9
+          1	Bèlpi Lam
+          1	Bèlpi Lam - 1
+          1	Bèlpi Lam - 10
+          1	Bèlpi Lam - 11
+          1	Bèlpi Lam - 12
+          1	Bèlpi Lam - 13
+          1	Bèlpi Lam - 14
+          1	Bèlpi Lam - 15
+          1	Bèlpi Lam - 16
+          1	Bèlpi Lam - 17
+          1	Bèlpi Lam - 18
+          1	Bèlpi Lam - 19
+          1	Bèlpi Lam - 2
+          1	Bèlpi Lam - 21
+          1	Bèlpi Lam - 23
+          1	Bèlpi Lam - 25
+          1	Bèlpi Lam - 27
+          1	Bèlpi Lam - 29
+          1	Bèlpi Lam - 3
+          1	Bèlpi Lam - 4
+          1	Bèlpi Lam - 5
+          1	Bèlpi Lam - 6
+          1	Bèlpi Lam - 7
+          1	Bèlpi Lam - 8
+          1	Bèlpi Lam - 9
+          1	C Bhutan Your Ways! Travel Agency
+          1	C Block
+          1	C.P.S
+          1	CAMP Office,RBA
+          1	CC Camera
+          1	CC office
+          1	CDCL Office
+          1	CHP Guest House
+          1	CHP Workshop
+          1	CHorten
+          2	CLoud 9
+          1	CM Tshongkhang
+          1	CSD Canteen
+          1	CST Football Ground
+          1	CST Guest House
+          1	Cafe De-lite
+          1	Cafe Himalaya
+          2	Cafeteria
+          1	Café Perk
+          1	Canopy
+          1	Canteen
+          2	Car Parking Opposite to Drasindra Infotech
+          1	Carpenter's Workshop
+          1	Cement Factory
+          2	Centenary Park
+          1	Center Point (U/C)
+          1	Center plaza
+          1	Central
+          1	Central Cafe
+          1	Central Machinery Unit
+          2	Central Regional Referral Hospital, Gelephu
+          1	Centre Mall
+          1	Cereals
+          1	Ceremonial items shop
+          1	Cha Yang Enterprise
+          1	Chador's shop
+          5	Chagchen Lam
+          1	Chagri Dorjeden Goemba
+          1	Chagzam bridge
+          1	Chakar Lakhang
+          1	Chali
+          1	Chamgang Lam
+          2	Chamgang Lam - 1
+          2	Chamgang Lam - 3
+          1	Chamgang Lam - 5
+          1	Chamkhar Chhu
+          1	Chamling Restaurant & Bar
+          1	Chamlingthang Archery Ground
+          1	Champaca Cafe
+          1	Champamati
+          1	Champay Enterprise
+          1	Chang Circle
+          1	Chang Depsi Road
+          1	Chang Geney
+          1	Chang Gumji
+          2	Chang Lam
+          3	Chang Lam - 1
+          2	Chang Lam - 2
+          1	Chang Lam - 4
+          6	Chang Lam - III
+          1	Chang Lam Gom
+          1	Chang Rigphel Lower Secondary
+          1	Chang bangdu
+          1	Changangkha Lakhang
+          2	Changangkha School
+          1	Changangkha School- 107
+          1	Changangkha-122
+          2	Changbangdu
+          1	Changgangkha parkinglot
+          1	Changgangkha school
+          1	Changgangkha school assembly ground
+          3	Changjiji
+          1	Changjiji Youth Center
+          1	Changjiji restaurant and bar
+          1	Changlam Plaza
+          1	Changlam Square
+          1	Changlimithang Stadium
+          1	Changmari Tshongkhang
+          2	Changme Farm Road
+          2	Changzamtog Lower Secondary School
+          1	Changzamtok (Near Red building)
+          1	Changzamtok Complex
+          2	Changzamtok F-O bridge
+          1	Changzamtok Flyover bridge
+          1	Changzamtok LSS school ground
+          1	Changzamtok School
+          1	Chanjiji Football Ground
+          1	Charo Karaoke and Bar
+          1	Charo Zomsa Karaoke
+          1	ChayChay's Snooker
+          1	Chebisa
+          1	Cheki Archery Shop
+          1	Chemistry Lab (Old)
+          1	Chenbebji
+          1	Chendebhji resort
+          1	Cheni Wangmo Restaurant
+          1	Chesung shop
+          1	Chetola's viewpoint
+          1	Chhachhu La
+          1	Chhagö Lam
+          1	Chhagö Lam - 1
+          1	Chhagö Lam - 3
+          1	Chhagö Lam - 5
+          1	Chhangaphu Rd
+          2	Chhogyal Lam
+          1	Chhokor
+          2	Chhophel Lam
+          1	Chhubachhu Parking
+          1	Chhubja Lam
+          1	Chhubja Lam - 2
+          2	Chhubja Lam - 4
+          1	Chhubja Lam - 6
+          1	Chhugo Circle
+          1	Chhugo Lam
+          8	Chhugò Lam
+          1	Chhundu Sawmall
+          1	Chicken and Pork Shop
+          1	Children Park
+          3	Children's Park
+          1	Children's park
+          1	Chill-out
+          1	Chimi Dorji Construction
+          1	Chimi Lakhang Cafeteria
+          1	Chimi Lhakhang
+          1	Chimi Tshongkhang
+          1	Chimithangkha
+          1	Chimithangkha Lhakhang
+          1	Chiorten
+          2	Chit chat Restaurant
+          1	Choden Bar & Grocery
+          1	Choden General Shop
+          1	Choden general shop and bar
+          2	Choerten
+          1	Choglay Namgyal Archeary Shop
+          3	Chogyal Lam
+          1	Chokden general shop/17637216
+          1	Chokhortse Football Ground
+          1	Choki Handicraft Art School
+          1	Choki restaurant
+          1	Chomolhari Range
+         13	Chorten
+          1	Chorten Kora
+          4	Chorten Lam
+          1	Chorten Sales and Service
+          1	Chorten sales
+          1	Chuba Lam
+          1	Chuba Lam - 1
+          1	Chuba Lam - 2
+          1	Chuba Lam - 3
+          1	Chubachu Bus shade
+          1	Chubachu Circle
+          1	Chubachu Roundabout
+          1	Chubagangkha
+          1	Chubagangkha/Babesa zero
+          1	Chubu Hot Spring
+          1	Chubu Hot Spring Trailhead
+          1	Chukha
+          1	Chukha Dzongkhag
+          1	Chukha Hydro Power Plant Area
+          1	Chukha Hydro Ppower Plant Office
+          1	Chukha Zangdogpelri
+          1	Chuki tailoring Shop
+          1	Chula Restaurant
+          1	Chumey Nature Resort
+          1	Chuniding Resort
+         13	Chuzom-Haa Highway
+          1	City Art & Print
+          1	City Bus Depot
+          1	City Bus Services
+          1	City Bus Stand
+          1	City Bus Terminal
+          1	City Bus parking area
+          1	City Electicals
+          1	City Hotel
+          1	City Mall Parking
+          1	City Pharmacy
+          1	City Taxi Stand
+          1	City bus Stop, Lungtenphu
+          1	City bus garage
+          4	City bus stop
+          1	Civil Engineering Block
+          1	Civil Engineering Lab (Geology and Concrete)
+          1	Civil Engineering Lab (Survey, Highway and Geotechnical))
+          1	Class IX & SEN Study Room
+          1	Class Rooms
+          1	Class XI Block
+          1	Classrooms
+          2	Clock Tower
+          1	Clock Tower Square
+          1	Clock tower
+          1	Cloud 9
+          1	Coffee Cafe
+          1	Coffee Culture
+          1	College Administrative block
+          1	College Campus area
+          1	College Football Ground
+          1	College Infirmary
+          1	College Zangdogpelri
+          1	College of Science and Technology, Royal University of Bhut
+          3	Community Police Center
+          1	Community Police Station
+          2	Conference Hall
+          1	Coorporative Store
+          1	Cordial paradise snooker
+          1	Core Town Area, Gelephu
+          1	Council for RNR Research of Bhutan (CoRRB)
+          1	Court
+          1	Court building
+          1	Cowshed
+          1	Credit Information Bureau of Bhutan Ltd.
+          1	Cremation Ground
+          1	Cremation shelter
+          2	Crematorium
+          1	Cross Drain
+          1	Crossroad Restaurant
+          1	Crown Beauty parlor/sauna and steam bath
+          1	Cultivable land
+          1	Curl and Care beauty
+          1	Curl up and Dye Salon
+          1	Customs Clearing Agent
+          1	Cypress
+          1	D & C Steam/Sauna
+          1	D.B Tshongkhang
+          1	D.C Choden Sales
+          1	D.D General Shop
+          1	D.G Enterprise
+          1	D03G01T01 Sershong, Mongar
+          1	DD food point
+          1	DDM Parking Space
+          1	DH III
+          1	DH V
+          1	DH-7
+          1	DH-I
+          1	DH-II
+          1	DH-III
+          1	DH-VI
+          1	DH-VII
+          1	DH-VIII
+          1	DHL
+          1	DM grocery and restaurant
+          1	DMG Upholstery
+          1	DP Enterprice
+          1	DPNB ATM
+          1	DR Sound and Lightning Hiring system
+          1	DRUKAR Pvt. Ltd (IAD jobs)
+          1	DSA Enterprise
+          1	DSB Bookshop
+          1	DT general shop
+          1	Daga Dzongkhag
+          2	Daga Meat Shop
+          9	Daga Town, Below Road
+          1	Dagana
+          1	Dagana Dzong
+          1	Dagana General Shop
+          1	Dagapela Dratshang
+          1	Dai Chee Restaurant
+          1	Daina Motars/ deals with used cars, flat, buildings and lan
+          1	Dakpai
+          1	Damchan Resort
+          1	Damchen Oil Distributor
+          1	Damcho lhamo tshongkhang
+          1	Damji
+          1	Damthang
+          1	Dangrayna
+          1	Dangrayna Lhakhang
+          1	Dangrayna bridge
+          1	Dantak Area
+          1	Dantak Wet Canteen
+          1	Darjeeling
+          1	Darrang
+          1	Darzho Lam - 15
+          1	Dashing Lam
+          1	Dawa Norbu Electronic
+          1	Dawa Tshongkhang
+          1	Dawa general shop
+          1	Dawakha LowerSecondary School
+          1	Day Care Center
+          1	Dazee
+          1	Debum Lam
+          1	Dechen Chu
+          1	Dechen IT & management Institude
+          3	Dechen Lam - 1
+          1	Dechen Lam - 10
+          1	Dechen Lam - 8
+          1	Dechen Lam - II
+          1	Dechen Lam - III
+          1	Dechen Restaurant and cafe
+          1	Dechen Wangmo Sshop
+          1	Dechen bridge
+          1	Dechen toys and gift shop
+          1	Dechencholing
+          1	Dechencholing Goenpa Lam
+          1	Dechencholing Higher Secondary School
+          1	Dechencholing Satelite town
+          1	Dechencholing School
+          1	Dechencholing Town
+          1	Dechencholing-Dodeydra lam
+          1	Dechenphodrang
+          1	Dechenphodrang Lam
+          1	Dechenphodrang Monastery
+          1	Dechenphu Junction
+          1	Dechenphu Lam
+          1	Dechhog Lam
+          1	Dedevi Restaurant and Bar
+          1	Dee Tee Carwash
+          1	Deepshika Electronic Repair
+          1	Defiling Restaurant & bar
+          1	Dekee Norphel Arts & Prints
+          1	Deki Lam
+          1	Deki Lam - 2
+          1	Deki Lam - 4
+          2	Deki School
+          1	Deki Yoenang Flower Nursery
+          1	Deki's Boutique
+          1	Dekiling
+          1	Dekiling Lhakhang
+          1	Dekiling School
+          1	Delay fair price shop and Bar
+          1	Delek snooker
+          1	Delight Shop
+          1	Delingkha Restaurant
+          1	Dena General Shop Cum Bar
+          1	Denchev Payday General Shop
+          1	Denkar tshongkhang
+          1	Deosri
+          1	Deothang
+          1	Departmant of Information Technology & Telecom
+          1	Department of Cottage and Small Industry
+          3	Department of Disaster Management
+          3	Department of Geology and Mines
+          1	Department of Industry
+          2	Department of Information and Media
+          2	Department of Intellectual Property
+          1	Department of National Properties
+          2	Department of National Properties, Ministry of Finance
+          1	Department of National Properties,Ministry of Finance
+          1	Department of Revenue & Customs
+          2	Department of Trade
+          1	Department of Youth and Sports
+          1	Department of roads, Regional Office of Thimphu
+          3	Desi Lam
+          1	Destiny Bhutan
+          1	Devalaya Travel Services
+          1	Devi grocery shop
+          1	Dhajey
+          1	Dhansiri
+          1	Dhar Tshongkhang
+          1	Dhejong khorlo game parlor and photocopy
+          1	Dhekhangzang Handicraft
+          1	Dhendup-ling Restaurant/ catering services
+          1	Dheyjo Tshongkhang/ dairy products
+          1	Dhuenlam Tours and Treks
+          1	Dhupchu Zangmo General Shop
+          1	Dhur Primary School
+          1	Diana
+          1	Dining Hall
+          2	Disaster Communications & Helpline Unit
+          1	Diwash's house
+          1	Dochu La
+          1	Dochu Lam
+          1	Dochula Eco Retreat
+          1	Dodey Dra
+          1	Dodo Handicraft
+          1	Dodren Lam
+          6	Doebum Lam
+          1	Doejung Phenzhe Thinley General Shop
+          1	Doemey Lam
+          1	Doifam
+          1	Doklam 洞郎地区
+          1	Dolep Lam -1
+          1	Dolkar Handicraft
+          1	Dolungang Lam
+          1	Domchu Tshongkhang
+          1	Domkhar
+          1	Doms game zone and internet services
+          2	Dondrup Lam
+          1	Dondrup Lam - 2
+          1	Dondrup Lam - 4
+          2	Dondrup Lam 2
+          1	Dorikha
+          1	Dorithasa
+          1	Dorji Hotel
+          1	Dorji Lham Tshongkhang
+          1	Dorji and Om Tshongkhang
+          1	Dorji bar shop
+          1	Dorji wangmo General Store
+          1	Dorji's Restaurant cum bar
+          1	Dorokha
+          1	Double Turning Bus Stop
+          1	Double turning
+          1	Double turning garden
+          1	Dozamrong chu
+          1	Dr. Mobile
+          2	Dr.Tobgyel School
+          1	Dragon GuestHouse
+          1	Dragon Heritage Arts and Crafts
+          1	Drama Gang
+          1	Dramagang Lhakhang
+          1	Drametse
+          2	Drametse Lhakhang
+          3	Drangme Chhu
+          1	Drasha
+          1	Drasha (monk body)
+          1	Drasindra
+          1	Drasindra InfoTech
+          2	Dratshang
+          1	Drayang and grocery shop
+          1	Drentoen Lam
+          1	Drimey Lam
+          1	Drimey Lam - 1
+          1	Drodul Tsangchen Shedra
+          1	Droelma Residence
+          1	Drophen Lam
+          1	Drubkhang
+          1	Druck Pharmacy
+          1	Drug Regulatory Authority
+          2	Drugyel Dzong
+          1	Druk Air
+          1	Druk Dejo Tshongkhang Religious Store
+          1	Druk Fitness
+          1	Druk Garden
+          1	Druk Gas stove and Cooker Repairing
+          1	Druk Green Dragon printing
+          1	Druk Hair Cut Saloon
+          1	Druk Holdings and Investments Infrastructure (DHI Infra) Of
+          1	Druk Hotel
+          1	Druk Main Liquer Shop
+          1	Druk Ngawang Cement Agency
+          1	Druk Nyetshyel
+          1	Druk Optical
+          1	Druk PNB Bank
+          1	Druk PNB Bank Limited
+          1	Druk Petroleum
+          1	Druk Punjab National Bank
+          1	Druk Ralung Shedrup Choeling Monastry
+          2	Druk School
+          1	Druk School Administrative Office
+          1	Druk School Compound
+          1	Druk Shopping Complex
+          1	Druk Star Karaoke, Bar and Resturant
+          1	Druk Tshem ZO
+          1	Druk Tshemzo Enterprise
+          1	Druk Variety Tshongkhang
+          1	Druk Wangyal Chortens (108 Chortens)
+          1	Druk Wangyal Lhakhang
+          1	Druk Zey restaurant & Bar
+          1	Druk pharmacy
+          1	Druk tshemzo training institue
+          1	Drukair Corporation Limited
+          1	Drukgreen Power Corporation
+          1	Drukpa Testaurant and Bar
+          3	Dung Khola
+         10	Dungkar Choeje
+         10	Dungkar Choeje Nagtshang
+          1	Dungkar Gewog BHU
+          2	Dungkar Lhuntse Road
+          1	Dungkar Restaurant
+          1	Dungkhag Office
+          3	Dungkhor - Lam1
+          1	Dungkhor - Lam2
+          1	Dungkhor - Lam3
+          1	Dungkhor Lam
+          1	Dungmenma
+          2	Dungsam - Lam
+          1	Dungsam Academy
+          1	Dungsam Chhu
+          1	Dungtsho
+          1	Dur
+          1	Dur chu
+          1	Duthrue - Lam
+          1	Duty Free
+          1	Duwang Village
+          1	Dzhidey Garmet Shop
+          1	Dzong
+          1	Dzong - Lam
+          1	Dzong Gate
+          1	Dzong project
+          1	Dzongchen Lam
+          1	DzongchenTours and Treks
+          1	Dzongchu Lam
+          1	Dzongchu Lam - 2
+          1	Dzongchu Lam - 4
+          2	Dzongchu(Your little shop)
+          1	Dzongkha Development Commission
+          1	Dzongkha Learning Centre
+          1	Dzongkhag Administration, Sarpang
+          1	Dzongkhag Canteen
+          1	Dzongkhag Gate
+          1	Dzongkhag guest house
+          1	Dzongkhag hospital
+          2	Dzongkhang staff quarter
+          1	Dzongrabs Residence
+          1	ECCD Centre
+          5	EDB
+          1	ELC
+          1	Eangdi Shop Cum Bar
+          1	Early Learning Centre
+          1	East Sikkim District
+          1	Edelweiss
+          1	Education Ent.
+          1	Electric Box
+          1	Electric Distribution Box
+          3	Electrical Department Workshop
+          1	Electrical Engineering Workshop
+          1	Electronic and Cumminication Department Workshop
+          1	Elyong Education Coulstancy
+          1	Embassy of India
+          1	Embroidery Unit
+          4	Enclave
+          1	Engineer / Election Office
+          1	Etho Metho Cable
+          1	Etho Metho Plaza
+          1	Etho Metho Pry School
+          2	Etho Metho School
+          1	Eujang Bqutique
+          1	Everest Ticketing
+          1	Evergreen
+          1	Executive Center
+          1	Explorers Cafe and Pizza
+          2	Express plaza
+          1	Expressway
+          1	Extended Classroom of Sherubtse College
+          1	Extended Classroom of Ssherubtse College
+          1	Extent of Chinese Claim
+          1	Extent of Indian Claim
+          2	FCB
+          1	FCB Auction Yard
+          1	FLYour plaza
+          1	Faculty block I
+          1	Faculty block II
+          1	Families Tshongkhang
+        127	Farm Road
+          1	Farm road
+          1	Farming System Office
+          1	Fashion BEE
+          1	Fashion Freaks
+          1	Fashion Villa
+          1	Fashionista
+          1	Film and television institute of bhutan
+          3	Finance Colony
+          1	Finance Colony Electric Pole
+          1	Fish Shop
+          1	Fisheries
+          1	Fishery Compund
+          1	Flex Printing & Arts
+          1	Flora Optics
+          2	Flower Garden
+          1	Fola Tshongkhang
+          1	Folk Heritage Museum
+          1	Food Bowl Kitchen
+          1	Food Corporation Of Bhutan
+          1	Food Corporation of Bhutan
+          1	Food Corporation of Bhutan (FCB)
+          1	Food Lover
+          1	Foot Reflexology & Thai Spa and Beauty
+          1	Foot path
+          1	Football Ground
+          1	Football ground
+          1	Football/Assembly ground
+          3	Foothpath
+         16	Footpath
+          1	Footpath round Chortenkora
+          1	Forest Gate
+          1	Forest Range Office
+          1	Forest Resources Management Division (FRMD)
+          2	Forestry Research Block
+          1	Forever
+          1	Fu Lu Shou Chinese restaurant
+          1	Furniture World
+          2	G2C Office
+          1	GEO-Info Assocation & surveing Cousltancy
+          1	GG Sport fitness
+          1	GH 1
+          1	GH 2
+          1	GH 3
+          1	GH 4
+          1	GHSS Football Ground
+          1	GIC Bhutan Limited
+          1	GLAMORE Hair & Beauty
+          1	GLSS Football Ground
+          1	GNH Commision
+          1	GNHC Office
+          1	GOLF Canteen
+          1	GREF Colony
+          1	GSA Hall
+          1	Gaa yul Garden,
+          1	Gaden Choeling Tshomo Restaurant
+          1	Gaden Lam
+          1	Gadhen - Lam1
+          1	Gadhen - Lam2
+          1	GadheyNangtro Restaurant & Bar
+          2	Gaeddu College of Business Studies, Royal University of Bhu
+          1	Gaki Lam
+          1	Gaki Phuensum Drayang
+          1	Gakiling
+          1	Gakyil Hotel
+          1	Galing Automobiles Workshop
+          1	Galingkha
+          1	Galinkha
+          1	Galwarchand/Gelephu Tshongkhang
+          1	Gamma Center
+          1	Gamri Chhu
+          1	Ganesh Enterprise
+          1	Ganga vedio game
+          1	Gangla Restaurant and bar
+          1	Gangteng Monastery
+          1	Gangtey Gonpa
+          1	Gangtey Lam
+          1	Garuda Inn
+          1	Gas Cylinder Distribution Office
+          1	Gas Station
+          1	Gasa  Dzongkhag
+          1	Gasa Dzong
+          1	Gasa Guest House
+          1	Gasa Hot Spring
+          1	Gate
+          1	Gatehouse
+          1	Gatehouse (Chekpost)
+          1	Gateway to happiness
+          1	Gawa Bhutan Gourment Dining
+          1	Gedu
+          1	Gelephu
+          1	Gelephu Centennial Distillery
+          1	Gelephu Distillery
+          1	Gelephu Higher Secondary School
+          1	Gelephu Lower Secondary School
+          1	Gelephu Middle Secondary School
+          1	Gelephu Thromde Office
+          1	Gelephu Thromde Ofice
+         25	Gelephu-Thimphu Highway
+          2	General Shop
+          1	General Shop and Bar
+          1	General shop
+          1	Genyen Circle
+          1	Genyen Lam
+          1	Genyen Lam Junction
+          1	Genyén Lam
+          1	Genyén Lam - 1
+          1	Geo- Info associates & Surveying consultancy
+          1	Gepkha Lam - 1
+          1	Gepkha Lam - 3
+          1	Gerserling enterprise
+          1	Gerserling souvenir
+          1	Gewog Center
+          1	Gewog Centre Tendu
+          1	Gewog Hall
+          1	Geylegphug Dzongkhag
+          1	Ghalley Meat Shop
+          1	Ghalley Restaurant and General Shop
+          1	Ghanesh shgam restaurant
+          1	Ghonday Tours and Travels
+          1	Giant (Tshogyal Enterprise)
+          1	Gida Lam - 2
+          1	Gifts and stationary shop
+          1	Gini and Johnny
+          1	Gipmochi
+          1	Girl's Fashion
+          1	Girl's Hostel
+          1	Girls Toilet
+          1	Girls Toilets
+          1	Glamour saloon
+          1	Global Enterprise
+          2	Gochukha
+          1	Godpang Lhakhang
+          2	Godspeed saloon
+          1	Goenkhang
+          1	Goenpa-Lengbartang Chiwog boundary
+          1	Gol Building
+          1	Golf Course
+          1	Gom Kora
+          1	Gomden Tshongkhang
+          1	Gomtu
+          2	Gongdzin Lam
+          1	Gongkhil Lam
+          3	Gongphel Lam
+          3	Gongzin - Lam
+          1	Goodwill Shop
+          1	Gortsum BHU
+          1	Gortsum Community Primary School
+          1	Gouranga
+          2	Government Residence
+          2	Government quarter
+          1	Govind vegetables and fruits wholesale
+          1	Goyul
+          1	Greeen Dragon Restaurant
+          1	Green Apple (Beauty Parlour & SPA)
+          2	Green cyber tech
+          1	Green shop
+          1	Greener Way
+          1	Guest House
+          1	Gup Office
+          1	Gurung Tours and Treks
+          2	Gurung Tshongkhang
+          2	Gurung tshongkhang
+          1	Gyatsho Bhutan Tours and Travels
+          1	Gyelposhing
+          1	Gyeltshen Furniture House
+          1	Gyeltshen Wood Industries
+          2	Gyem Tenzin
+          1	Gyikha Lhakhang
+          1	Gym
+          2	Gèpjà Lam
+          1	Gèpjà Lam - 1
+          1	Gèpjà Lam - 2
+          1	Gèpjà Lam - 3
+          1	Gèpjà Lam - 4
+          1	Gèpjà Lam - 6
+          1	Gèpjà Lam - 8
+          1	Gìda Lam
+          1	Gìda Lam - 10
+          1	Gìda Lam - 12
+          2	Gìda Lam - 14
+          1	Gìda Lam - 16
+          1	Gìda Lam - 4
+          1	Gìda Lam - 6
+          1	Gìda Lam - 8
+          1	H.G collection shop
+          1	HELVETAS Bhutan
+          1	HaHa General Shop Cum Bar
+          1	Haa Dzong
+          1	Haa Dzongkhag
+          4	Haa-Samtse Highway
+          1	Haangkawo
+          2	Hall
+          1	Hall 1
+          1	Handicrafts market
+          1	Hanging Restaurant
+          1	Hanku Lam
+          1	Hanku Lam - 1
+          1	Hanku Lam - 10
+          1	Hanku Lam - 12
+          1	Hanku Lam - 14
+          1	Hanku Lam - 2
+          1	Hanku Lam - 3
+          1	Hanku Lam - 4
+          1	Hanku Lam - 6
+          1	Hanku Lam - 8
+          1	Happiness Hills
+          1	Happy Feet Child Care
+          1	Happy Home[asset broker]
+          1	Hari Maya Tshongkhag
+          1	Haundai show room
+          1	Hayate Ramen
+          1	Hebi Lam - 10
+          1	Hebi Lam - 3
+          1	Hebi Lam - 5
+          1	Hebi Lam - 6
+          1	Hebi Lam - 8
+          2	Hejo
+          4	Hejo Lam
+          1	Hejo Lam - 1
+          1	Hejo Lam - 2
+          1	Hejo Lam - 4
+          1	Hejo Lam - 6
+          1	Hejo Zam
+          2	Helipad
+          1	Hennery Restaurant
+          1	Himalaya Pharmacy
+          1	Himalayan Furniture Unit
+          1	Himalayan Info tech
+          1	Himalayan Marvels/ +975-2-328979
+          1	Himalayan school of music
+          1	Hindu Temple
+          1	Hindu temple
+          1	Hogmin Lam
+          1	Holiday Home
+          1	Holy Lake
+          1	Home and Garden Decor
+          1	Home electronics
+          1	Honda show room
+          1	Hongtsho
+          1	Hongtsho Community School
+          1	Hongtsho Lam
+          1	Hongtsho Lam - 10
+          1	Hongtsho Lam - 2
+          1	Hongtsho Lam - 4
+          1	Hongtsho Lam - 6
+          1	Hongtsho Lam - 8
+          1	Hontsho
+          1	Hontsho Bazar
+          1	Horticulture Germplasm Block
+          1	Horticulture Store
+          2	Hospital
+          1	Hospital Canteen
+          1	Hot Spring
+          1	Hotel AV
+          2	Hotel Amodhara
+          1	Hotel Dechen
+          1	Hotel Dragon Roots
+          1	Hotel Druk
+          1	Hotel Friends
+          1	Hotel Kenny
+          1	Hotel Kinley
+          1	Hotel Kisa
+          1	Hotel Ktsho
+          1	Hotel Kulagangri
+          1	Hotel Migmar
+          1	Hotel Nemo
+          1	Hotel Norkhel
+          1	Hotel Norling
+          1	Hotel Oyster
+          1	Hotel Park
+          2	Hotel Peljorling
+          1	Hotel Pema Karpo
+          1	Hotel Phuntsho Pelri
+          1	Hotel River View
+          1	Hotel Sambhav
+          1	Hotel TT
+          1	Hotel Taktsang
+          1	Hotel Taktshang View
+          1	Hotel Tashi Phuntshok
+          1	Hotel Tshenden
+          1	Hotel Welcome Home
+          1	Hotel Zeyzang
+          3	House
+          1	House2
+          1	HouseA
+          1	Housing office
+          1	Hut
+          2	Hydraulics Lab
+          1	ICT Block
+          1	IMTRAT Area
+          1	IMTRAT CAMP AREA
+          1	IMTRAT-Hospital
+          1	ISHIKA Fast Food
+          1	IT Block (Department of Information Technology)
+          2	IT PARK
+          1	IT Park
+          1	IT block
+          1	ITS Internation Travel Service
+          1	Immigration
+          1	Immigration Office
+          1	Imtrat Canteen
+          1	Imtrat: Basketball Court
+          1	India
+          1	India House Estate
+          1	India border
+          1	Indo- Bhutan Friendship Park
+          3	Industrial Estate
+          1	Institute for Zorig Chusum
+          1	Institute for management studies
+          1	Ishmita General shop(Liqure shop)
+          1	Isuna
+          1	JC shop
+          1	JD Enterprise
+          1	JD Private Limited
+          1	JDWNRH
+          1	JICA
+          1	JKC mart
+          1	JR Trapers
+          1	Jaigaon
+          1	Jaiphu Lhakhang
+          1	Jakar Dzong
+          1	Jaldhaka
+          1	Jalpaiguri
+          1	Jambey Lhakhang
+          1	Jampel Bakery
+          1	Jampheling Central School Area
+          1	Jamtsho bhutan tours
+          6	Jangchu Lam
+          1	Jangchu Lam - 3
+          1	Jangchu Lam - 5
+          1	Jangchu Lam 1
+          1	Jangchub Lam
+          3	Jangchub Lam - 7
+          1	Jangda Lam
+          1	Jangsa
+          1	Jangsem Lam
+          1	Jangsem video game parlour
+          1	Jangtsa Dumtseg Lhakhang
+          1	Januka restraurant
+          1	Jaquar Experience Bathing
+          1	Jasaibee Lhakhang
+          1	Jatu Enterprise
+          1	Jayanti
+          1	Jazhipang
+          1	Jele Dzong
+          1	Jelila
+          1	Jetsuen Namkha Restaurant
+          1	Jichu pastry shop
+          1	Jigdrel Handicraft
+          1	Jigme Dorji National Pard Office
+          1	Jigme Dorji National Park
+          1	Jigme Dorji Wangchuck Memorial Chorten
+          1	Jigme Dorji Wangchuck National Library
+          1	Jigme Dorji Wangchuck National Referral Hospital
+          1	Jigme Losel Primary School
+          2	Jigme Namgyal School
+          1	Jigme Namgyal School Building
+          1	Jigme Namgyal School stop
+          1	Jigme Restaurant
+          1	Jigme Tshongkhang
+          1	Jigme Wangchuk Power Training Institute
+          1	Jigme seldon bakery
+          1	Jigme wangmo Tshongkhag
+          1	Jigmeling Police Training Centre
+          1	Jimmy's Kitchen
+          1	Jingmeling
+          1	JoJo's Building
+          1	Joenzang Tshongkhang
+          1	Jomolhari Base Camp
+          1	Jongthang, Nubi, Trongsa, Bhutan
+          5	Jorphel - Lam
+          1	Jumja road
+          1	Jumulhari Hotel
+          1	Junction Book Store
+          4	Jungshi Lam
+          1	Jungshi Lam - 1
+          1	Jungshi Lam - 10
+          1	Jungshi Lam - 11
+          1	Jungshi Lam - 12
+          1	Jungshi Lam - 13
+          1	Jungshi Lam - 14
+          1	Jungshi Lam - 16
+          1	Jungshi Lam - 2
+          1	Jungshi Lam - 3
+          1	Jungshi Lam - 4
+          1	Jungshi Lam - 5
+          1	Jungshi Lam - 6
+          1	Jungshi Lam - 7
+          1	Jungshi Lam - 8
+          1	Jungshi Lam - 9
+          1	Jungshina
+          2	Junior Classrooms
+          1	Just 4 Kids
+          1	Jyenkhana Lower Secondary School
+          2	Jyonkhar
+          1	Jàlu Lam
+          1	Jàlu Lam - 1
+          1	Jàlu Lam - 10
+          1	Jàlu Lam - 11
+          1	Jàlu Lam - 13
+          1	Jàlu Lam - 2
+          1	Jàlu Lam - 3
+          1	Jàlu Lam - 4
+          1	Jàlu Lam - 5
+          1	Jàlu Lam - 6
+          1	Jàlu Lam - 7
+          1	Jàlu Lam - 9
+          1	Jàlu Wom
+          1	Jàlu Wom - 1
+          1	Jìjì Lam
+          1	Jìjì Lam - 1
+          1	Jìjì Lam - 2
+          2	Jìjì Lam - 3
+          1	Jìjì Lam - 5
+          1	Jìjì Lam - 7
+          1	K Square
+          1	K Yang Sales
+          1	K.G. Wangdi Building
+          1	K.K General Shop
+          1	K.K Tshongkhang
+          1	K.K.R General cum bar
+          1	K.R Furniture house
+          1	K.T Beauty parlor
+          1	K.T Dota 2 zone
+          1	K.pelden Tshongkhang
+          1	KC Playstation
+          1	KD Grocery Restaurant Bar
+          1	KGangri School
+          1	KLEEN
+          1	KMT Head Office
+          1	KNC drayang
+          1	KRT Fresh Meat Shop
+          1	KTC convenience Store
+          1	Kabesa Lam
+          2	Kadam Goenpa
+          1	Kaeilina General shop
+          1	Kaila Guest House
+          1	Kakaling Chorten
+          1	Kala Chakar Tours and Treks
+          1	Kala River
+          1	Kalden
+          1	Kalden Enterprise
+          1	Kalden Import
+          1	Kalikhola
+          1	Kamji
+          1	Kanglum Zangdhopelzi
+          1	Kanglung BHU
+          1	Kanglung Post office
+          1	Kanglung Primary School Area
+          1	Karkthang
+          1	Karma Dawa tours & treks
+          1	Karma Feeds Distributor
+          1	Karma Restaurant & Liquor shop
+          1	Karma T tshongkhang
+          1	Karma Zokhang
+          1	Karma restaurant & Bar
+          2	Karma tshogkhang
+          1	Karma wangmo dorji general shop
+          1	Karma wangmo viba tshongkhang
+          1	Karma's
+          1	Karma's Convenience Store
+          1	Karmas Coffee
+          1	Karpo Lhakhang
+          2	Karuna Restaurant(Chang dzongchu)
+          1	Kashi Lam
+          1	Katsho Goemba
+          1	Kawang Damesa
+          3	Kawang Lam
+          1	Kawang Lam - 4
+          1	Kazhi Core Village
+          1	Kazhi Gewog Office
+          1	Kazhi Pry School
+          1	Kazshi Lam
+          1	Keeba's Kitchen
+          1	Kelden General Shop
+          7	Kelki Higher Secondary School
+          1	Kelki Multipurpose hall
+          1	Kelven general shop
+          1	Kencho Bidha Tshongkhang
+          1	Kenon Beauty Parlour
+          1	Kenyong Snooker
+          1	Kesnet Foundation of Bhutan
+          1	Kezang & Dechen Restaurant Cum Bar
+          1	Kezang Rabgay Tshongkhang
+          1	Kezang bar
+          3	Khachen Lam
+          1	Khachen Lam - 1
+          1	Khachen Lam - 3
+          1	Khachen Lam - 5
+          1	Khachen Lam - 7
+          1	Khachen Lam - 9
+          1	Khaling
+          1	Khamgma Agriculture Development Center
+          1	Khamsaa workshop
+          1	Khamsum INN
+          1	Khang Heritage
+          1	Khang Residency
+          1	Khangkhu Lhakhang
+          1	Khangkhu Resort
+          2	Khar Village
+          1	Kharang mordern furniture
+          1	Kharsang Village
+          1	Kharsangchhu
+          1	Khatoe gewog office
+          1	Khesar Gyalpo University of Medical Sciences, Faculty of Nu
+          1	Khesar Gyalpo University of Medical Sciences, Faculty of Tr
+          1	Khokotokha Shedra
+          1	Khujo lam
+          1	Khulsi River
+          1	Kichen
+          1	Kichu Resort
+          1	Kilikhar
+          1	Kilikhar 132/33/11 Kv SubStation
+          8	Kilikhar Lower Secondary School
+          1	Kilikhar Lower Secondary School compound
+          1	Kilikhar Shedra
+          1	Kinder Care Child Care Center
+          1	Kingaling
+          1	Kingkhor shop
+          2	Kingten saloon
+          1	Kinley C Tshongkhang
+          1	Kinley Dem,s House, Tempakha
+          1	Kinley Motors Buying and Selling
+          1	Kinley Snooker
+          1	Kinley Supplier
+          1	Kinley Tshongkhang
+          1	Kirtiman Tip Top Tailoring
+          2	Kitchen
+          1	Kizom Cafe
+          1	KnP Enterprise
+          1	Koina guest house
+          1	Kokrajhar
+          1	Koma Hot Spring
+          1	Koma Hot Spring Trailhead
+          1	Konbar
+          2	Krishana beauty parlour
+          1	Kuegacholing Automobiles
+          1	Kuenchab Tshongkhang
+          1	Kuenchap Sawmill
+          1	Kuendey Automobiles Workshop
+          1	Kuendup Higher Secondary School
+          1	Kuenjung
+          1	Kuenjung Book House
+          1	Kuenphen Beauty Parlor
+          1	Kuenphen General Shop
+          2	Kuenphen Medical
+          1	Kuenphen Parlour
+          1	Kuenphen Rabten[pharmacy]
+          1	Kuenphen Technology
+          1	Kuenphen Tshongkhang
+          3	Kuensel
+          2	Kuensel Corporation Ltd.
+          1	Kuensel Phodrang Primary School
+          1	Kuentshang General Shop
+          1	Kuenzang Complex
+          1	Kuenzang Import House
+          1	Kuenzang Tshomo General Shop
+          1	Kuku Hotel
+          2	Kulong
+          1	Kulu Khar
+          1	Kundeling Bazam
+          1	Kundey Lam - 2
+          1	Kundey Lam - 4
+          1	Kundey Lam - 6
+          1	Kunphen Rangjung Restaurant
+          4	Kunzang Lam
+          1	Kunzang Lam - 1
+          1	Kunzang Lam - 4
+          1	Kunzang Lam - 8
+          1	Kunzangkhar Lam
+          1	Kuri Chhu
+          1	Kurichu
+          1	Kurizampa
+          1	Kurjey Lhakhang
+          1	Kurl - On
+          1	Kurl - On Samten Tshongkhang
+          1	Kurtoe Gewog CC
+          1	Kurtoe Gewog Center
+          2	Kuru Chu
+          1	Kuruthang
+          1	Kuwait ambassador office
+          1	Kuzhuchen Middle Secondary School
+          1	Kyapcha Dzong
+          1	Kyichu Lhakhang
+          2	Künga Lam
+          1	Künga Lam - 10
+          1	Künga Lam - 12
+          1	Künga Lam - 2
+          1	Künga Lam - 4
+          1	Künga Lam - 6
+          1	Künga Lam - 8
+          1	L.B. II Tshongkhang
+          1	L.Choden Tshongkhang
+          1	L.N.P tshongkhang
+          1	LAB
+          1	LABOUR CAMP
+          1	LH2 (Lecture Hall 2)
+          1	LH3 (Lecture Hall 3)
+          1	LHaling Agro Farm
+          1	LM2 Building
+          3	Labour Camp
+          1	Lama Bakery
+          1	Lama Tshering
+          1	Lama's Residence
+          1	Lamey Gompa
+          3	Lamp post
+          1	Lamtag Lam
+          1	Langjo Lam - 1
+          1	Langjo Lam - 3
+          1	Langjo Lam - 5
+          1	Langjo Lam - 7
+          1	Langjophakha
+          1	Langjophakha (NA)
+          2	Langothangna/Shaeree square
+          1	Laring Tshongkhang
+          1	Larjab Lhakhang
+          1	Lasoel general tshongkhang
+          1	Lawn Tennis Court, Gelephu.
+          1	Laxmi Pharmacy
+          1	Laxmi enterperise/17724205
+          1	Laya
+          1	Laya lower school
+          2	Le Meridien
+          1	Le Meridien Paro
+          1	Lecture theater
+          4	Lecturer's Quarter
+          1	Leki Dema tshongkhag
+          1	Lekzang Hotel
+          1	Lepcha pan shop
+          1	Lhaden Sale
+          1	Lhaden Snooker
+          1	Lhaden grocery
+          3	Lhadròng Lam
+          2	Lhadròng Lam - 2
+          1	Lhadròng Lam - 4
+          1	Lhadròng Lam - 6
+          8	Lhakhang
+          1	Lhakhang Temple
+          1	Lhaki Hotel
+          1	Lhaki Lam
+          1	Lhaki Pharmacy
+          1	Lhaling Agro Farm
+          1	Lham Gyem General Shop
+          1	Lhamo Tshongkhang
+          1	Lhamo general store cum bar
+          1	Lhanjopakha
+          1	Lharig Handicraft
+          1	Lhawang Restaurant cum Bar(Deals with catering)
+          1	Lhazey Confectionary and Bakery
+          1	Lhendrub Lam
+          1	Lhendrup Tshongkhang
+          1	Lhendrupling
+          1	Lhengye Densa
+          1	Lhingkhen furnitures and fittings
+          1	Lhingkhen sales
+          1	Lhudròng Lam
+          1	Lhudròng Lam - 1
+          1	Lhudròng Lam - 10
+          1	Lhudròng Lam - 2
+          1	Lhudròng Lam - 3
+          1	Lhudròng Lam - 4
+          1	Lhudròng Lam - 5
+          1	Lhudròng Lam - 6
+          1	Lhudròng Lam - 8
+          1	Lhuntse Dzongkhag
+          2	Library
+          1	Lingmethang
+          1	Lingshi
+          1	Literty Bhutan Tours
+          1	Little Dragon Pry. School
+          1	Little Learners
+          1	Lobesa - Metsina
+          1	Lodrey Lam
+          2	Lodrey Lam - 2
+          1	Lodrey Lam - 3
+          1	Lodrey Lam - 4
+          1	Looging Lam
+          1	Loriya Beauty Parlour
+          1	Losal Cinema Hall
+          1	Losel Gyatsho Academy
+          1	Losel Phendhey Education Consultancy & Placement Firm
+          1	Loselling Middle Secondary School, Changjiji
+          1	Loselling School Ground
+          1	Lotus Lifestyle
+          1	Lovely Resturant
+          1	Lovely beauty parlour
+          1	Lower Chamgang
+          1	Lower Gypsum
+          1	Lower Motithang/Shop No.7
+          1	Lower Terrace Market Area
+          1	Lubding Junction
+          2	Lugar Theatre
+          1	Lunala Range
+          1	Lungchuzekha Goemba
+          1	Lungo
+          1	Lungta Automobiles Workshop
+          1	Lungta Gongphel Drayang/Club
+          1	Lungta fashion
+          1	Lungten Circle
+          1	Lungten Lam
+          1	Lungten Lam - 1
+          1	Lungten Lam - 3
+          1	Lungten Lam - 5
+          1	Lungten Lam - 7
+          1	Lungten Zam Bridge
+          1	Lungtenphu
+          2	Lungtenphu Lower Secondary School
+          1	Lungtenphug Football Ground
+          1	Lungtenzampa
+          1	Lungtenzampa-Semtokha road widening
+          1	Lungtephu
+          1	Luntenzampa School Parking
+          3	Lángjò Zam
+          1	Lübding 13
+          2	Lüpding Lam
+          1	Lüpding Lam - 10
+          1	Lüpding Lam - 12
+          1	Lüpding Lam - 14
+          1	Lüpding Lam - 2
+          1	Lüpding Lam - 4
+          1	Lüpding Lam - 6
+          1	Lüpding Lam - 8
+          1	M. B Store
+          1	M.M Waiba Sweets Shop
+          1	M.S losel tshongkhang
+          1	M/S Dargaythang Builders, Hiring and suppliers
+          1	M/S Druk Gangjung Construction
+          1	M/S Norzom
+          1	M/s Namgay Construction
+          1	M/s Tashi Yoedbar Handicraft
+          1	MAP Office
+          1	MB General Shop
+          1	MK Restrant
+          1	MKD/ Doma pata available
+          1	MKRS meatshop
+          1	MOMO bell
+          1	MPH
+          1	MPH Girls hostel
+          2	MPS Supplier
+          1	MTI PARKING
+          1	Maa Tong Yarn Sales
+          1	Madhu maya shop
+          1	Mahima Fast Food
+          1	Main Lhakhang
+          1	Main Road
+          1	Maize Field
+          1	Man Maya Rai General Shop
+          1	Man Maya tshongkhang
+          1	Manas National Park
+          1	Manas Park Office
+          1	Mandara Resort
+          1	Mangde
+          1	Mangdue Chu
+          1	Mani DungKhor
+          2	Mani Dungkhor
+          1	Mani Dungkhor, Core Town
+          2	Mani wall
+          1	Manju Shiri Institute
+          1	Manju shop
+          1	Martial Art Sports Shop
+          1	Masagang
+          1	Maternity_More
+          1	Mathanguri
+          1	Mathanguri Forest Lodge
+          1	Matsutake
+          1	Maya Limbu Grocery Shop
+          1	Maya Tshongkhang (Sapna Wine & Liquor Shop)
+          1	Mayang Zanor Restaurant & Bar
+          1	Meat Mart
+          2	Meat Shop
+          1	Meena Bar
+          1	Meena Saloon
+          1	Meghan Enterprise
+          1	Mella Bazaar
+          1	Memelakha Waste  Disposal Ground
+          1	Menchuna
+          1	Menjiwoong Central School
+          1	Menjong
+          1	Menjong Diagnostic Center Pvt. Ltd
+          1	Menjong Saw Mill
+          1	Menjong Sorig Pharmaceuticals (MSP)
+          1	Menjong Wood Factory
+          1	Menkhang Lam - 1
+          1	Menkhang Lam - 2
+          1	Menkhang Lam - 3
+          1	Menkhang Lam - 4
+          1	Menkhang Lam - 6
+          1	Menlha Phramacy
+          1	Menzee Multi cusine Restaurant
+          1	Merak
+          1	Merigold Bakery and Fast food
+          1	Mess
+          1	Metog Lam
+          2	Metta Resort
+          1	Metta Resort, Paro
+          1	Midpoint Restaurant
+          1	Migma Dolma / General shop and bar
+          1	Miksa Teng campsite
+          1	Milbase
+          1	Milk
+          1	Milk Booth
+          1	Milliways
+          1	Min-yong Enterprise
+          1	Mini Restautant
+          1	Mini football ground
+          1	Minister's Enclave
+          1	Minister, Ministry of Economic Affairs
+          1	Ministry of Economic Affairs
+          1	Ministry of Education
+          1	Ministry of Eduction
+          1	Ministry of Health
+          1	Ministry of Information & Communications
+          1	Ministry of Information and Communication
+          1	Ministry of Labour and Human Resources
+          1	Ministry of Labour/Renew Junction
+          2	Ministry of Works and Human Settlement
+          1	Minjur Ling
+          1	Mitshi Restuarant Cum bar
+          1	Mixed Block
+          2	Mo Chu
+          1	MoIC Canteen
+          1	Modiqune Fashion
+          3	Momo Corner
+          3	Momo House
+          1	Monastery
+          1	Money Gram
+          1	Mongal Tshongkhang
+          1	Mongar Chorten
+          1	Mongar Dzongkhag
+          1	Mongar Lhuntse Highway
+          1	Monita Subba
+          1	Mothithang  Higher Secondary School
+          2	Mothithang Higer Secondary School
+          2	Mothithang Higher Secondary School
+          1	Mothithang Hotel
+          2	Mothithang Petrol Pump
+          1	Mothithang Residences
+          1	Motithang
+          1	Motithang B-COOP
+          1	Motithang Basic Health Unit
+          1	Motithang Children's Park
+          1	Motithang Chorten
+          2	Motithang Chu
+          1	Motithang HSS
+          1	Motithang HSS Bus Stop
+          1	Motithang Higher Seconadry School-99
+          1	Motithang Takin Preserve
+          1	Motorcycle and Car Rental Agency
+          1	Mouchhu Water Treatment Plant
+          1	Mountain Cafe
+          1	Mountain Hazelnut Venture Private Limited
+          1	Mountain Hazelnuts
+          1	Moyompong chorten
+          1	Muga restraurant
+          1	Multi Level Car Parking (Under Construction)
+          1	Multi Purpose Hall
+          1	Multi-Purpose Hall
+          1	Multi-purpose hall
+          1	Municipal office of paro thormde
+          1	Municipal staff quarter
+          1	Must Health Care
+          1	My Home
+          1	My Kind of Place
+          1	My Mart
+          1	My Pot Restaurant & bar
+          1	My Restaurant and Bar
+          4	Màphö Lam
+          1	Màphö Lam - 1
+          1	Màphö Lam - 10
+          1	Màphö Lam - 12
+          1	Màphö Lam - 2
+          1	Màphö Lam - 3
+          1	Màphö Lam - 4
+          1	Màphö Lam - 5
+          1	Màphö Lam - 6
+          1	Màphö Lam - 8
+          1	NANA Enterprise
+          1	NB Bakery cum Liquer General Shop
+          1	ND tshongkhang
+          1	NGN {Technologies private limited}
+          1	NH127A
+          3	NHDCL
+          7	NHDCL Colony
+          4	NHDCL building
+          1	NHDCL house
+          1	NHDCL site office
+          1	NJM Restaurant
+          1	NK Darranga
+          1	NK Hostel
+          1	NKTL Grocery Shop & Dairy Product
+          1	NLBP office
+          1	NLCS Volleyball court
+          1	NLCS_Cafeteria
+          1	NLCS_lawn_area
+          1	NONO Furniture
+          2	NPPF
+          1	NPPF colony
+          1	NT Construction, Materials supply
+          1	Nagpo Lhakhang
+          1	Nagtshiri Village
+          2	Nagu
+          1	Nak-Sel Boutique Hotel & Spa
+          1	Nakareer Education Consultancy and Placement service
+          1	Naktsang
+          1	Nalbari
+          1	Namdrel Norbu Hardware
+          1	Namdrel Sales
+          1	Namgay General Shop
+          1	Namgay Heritage Gym
+          1	Namgay Heritage Handicraft
+          3	Namgay Heritage Hotel
+          1	Namgay Tshongkhang
+          1	Namgay restraurant
+          1	Namgay tailor
+          1	Namgyal Chorten Monastery
+          1	Namgyel Chholing Residence
+          1	Namgyel Norphel Collection
+          1	Namling Import house
+          1	Namseling Boutique Hotel
+          1	Namsey Bhangzey Grocery
+          1	Namsey Choling Resort
+          1	Namsey Yangkhyl Handicraft
+          1	Nana general shop
+          1	Nanai River
+          1	Nandani Restaurant
+          1	Nangkor Higher Secondary School
+          1	Nangkor Village
+          1	Nangpi Menkhang
+          1	Nangsel - Lam
+          1	Narphu
+          2	National Animal Hospital
+          1	National Assembly Building
+          1	National Council
+          1	National Handicraft Emporium
+          1	National Land Commission
+          1	National Legal Institute
+          1	National Library of Bhutan
+          1	National Museum of Bhutan (Ta Dzong)
+          1	National Mushroom Centre
+          1	National Statistics Bureau
+          1	National Weather and Flood Warning Center
+          1	National Women Association Of Bhutan
+          4	Natural Resources Development Corporation Limited (NRDCL)
+          1	Natural Resources Development Corporation Limited (NRDCL) S
+          1	Nawang Rabsel
+          1	Nehru-Wangchuk Cultural Centre
+          1	Neighbour hood node 1/Siluna
+          1	Neighbour hood node 2/Traditional house
+          2	Nemo games
+          1	Nendra
+          1	New Building under construction
+          1	New CRRH, Gelephu
+          1	New Classic Beauty Parlor & Body Message
+          1	New Life Pharmacy
+          1	New Temple
+          1	New Truck Parking
+          2	New hair cut
+          1	New looks saloon
+          1	Newer Enterprise
+          1	Newsy Advertisement and Media
+          1	Ngabi Rong CHu
+          1	Ngabi Rong Chu Zam
+          1	Ngabi Rong Chu Zam Zam
+          1	Ngachu lum
+          1	Nganglam
+          6	Nganglam to Pemagatshel highway
+          1	Ngangrai Stupa
+          1	Ngawang Kinga's House
+          1	Ngoshing - Lam
+          1	Ngápi Lam
+          1	Ngápi Lam - 2
+          1	Ngápi Lam - 4
+          1	Ngápi Lam - 6
+          1	Ngápi Lam - 8
+          1	Niche Financial Services
+          1	Niche Institute of Management & technology
+          1	Nidup Enterprise
+          1	Nima Construction Pvt. Ltd
+          1	Nima Electronic
+          1	Nima HSS
+          1	Nima Lotey Fiber services
+          1	Nima Tailoring Shop
+          1	Nima Tshongkhang
+          1	Nima Zamgmo
+          1	Nima powers Private ltd
+          1	Nimalung Dratshang
+          1	Nisha General shop
+          1	No Legal Services
+          1	Nomade Private Parking
+          1	Norbu Bakery
+          1	Norbu Healing Art Centre
+          1	Norbu Lhamo Furniture Unit
+          1	Norbu Tailor
+          2	Norbu samphel general shop
+          1	Norbuling
+          1	Norbuling Centeral School
+          1	Norbuling Hotel
+          1	Norden Lam
+          1	Norjuen Tshongkhang
+          1	Norlha Maintenance Services
+          1	Norlinggangkha
+          1	Norub Bhutan Tours
+          1	Noryang Tshongkhang
+          1	Noryang Tshongkhnag
+          1	Norzang General Shop
+          1	Norzang Restaurant
+          1	Norzin Hardware & Electric
+          1	Norzin Lam - 1
+          2	Norzin Lam - 2
+          1	Norzin sale
+          1	Norzin tours
+          1	Notha Maintenance
+          1	Nro-zang construction Pvt Ltd
+          1	Nrophung general shop & retail of liquor
+          1	Nun Monastery
+          1	Nyamai Zam
+          1	Nyingma  Foudation
+          1	Nyuksang la
+          1	OCs Residence
+          1	OSEL Hotel
+          1	Ocean 7
+          1	Oesel Choeling Monastery
+          1	Office
+          1	Office of Director General, Department of Forests and Park 
+          1	Office of Minister, Ministry of Agriculture and Forests
+          1	Office of Secretary, Ministry of Agriculture and Forests
+          1	Office of the Bhutan Health Trust Fund
+          1	Office of the Consumer Protection
+          1	Office of the Forest Beat, Hongtsho
+          1	Office of the assistant engineer, restricted area
+          1	Officers' Mess
+          2	Olakha
+          1	Olakha Substation
+          1	Olakha, workshop
+          1	Olathang
+          1	Old Army residental area
+          1	Old Helipad
+          1	Old Lecture Hall (LH1)
+          1	Old Trashiyangtse Dzong
+          1	Old Workshop
+          1	Old lhakhang
+          1	Old military camp (ruined)
+          1	Om Restaurant
+          1	Om Tara Handicraft
+          1	Omo's Convenience Store
+          1	One Step Convinient Store
+          1	Open Area
+          1	Orange / Fruits Depot
+          1	Orchid
+          1	Oriental
+          1	Osel Hotel
+          1	Outdoor Gym
+          1	Over Head Water Tank
+          1	Overhead Water Tank
+          1	P & K Grocery Shop
+          1	P & S tshongkhang
+          1	P.C Enterprise
+          1	P.D Furniture Unit
+          1	P.N Tshongkhang
+          1	P.R meat shop
+          1	P.T general shop
+          1	P.Wangmo scan prints and photocopy
+          1	PK Mini Mart
+          1	PMR Furniture
+          1	PNB Bank
+          2	PWD Colony
+          1	Paddy fields
+          1	Padkar Diagnostic Center
+          1	Padling Choeki Gatshal Foundation
+          1	Padmasambava Tour & trek
+          4	Pagladia
+          1	Painting School of Trashiyangtse
+          1	Pajo
+          1	Palas
+          1	Paldhen Namgyel Construction Pvt Ltd
+          1	Paljor Lhundrubling
+          1	Pallabi Furniture
+          1	Pamtsho
+          1	Pamtsho Ju (End)
+          2	Pamtsho Lam
+          1	Pamtsho Lam - 1
+          1	Pamtsho Lam - 10
+          1	Pamtsho Lam - 12
+          1	Pamtsho Lam - 14
+          1	Pamtsho Lam - 2
+          1	Pamtsho Lam - 3
+          1	Pamtsho Lam - 4
+          1	Pamtsho Lam - 5
+          1	Pamtsho Lam - 6
+          1	Pamtsho Lam - 8
+          1	Pangkhar
+          1	Pangrizampa
+          1	Paradise Kitchen
+          1	Paratha Corner
+          4	Parking Lot
+          1	Parking for clients
+          1	Parking for staff
+          4	Paro Chhu
+          1	Paro College of Education
+          1	Paro Corner
+          1	Paro Dzongkhag
+          1	Paro Institute of hospitality in services
+          1	Paro International Airport
+          1	Parsu Ram Shop
+          1	Pasakha
+          1	Pass
+          1	Passang Tshongkhang
+          1	Passport Section, Ministry of Foreign Affairs
+          1	Path
+          1	Path to Holy Lake
+          4	Path to Tigers Nest
+          1	Peecee Lhakhang
+          1	Pelchan General Shop
+          1	Pelden Restaurant
+          1	Peldon Bar
+          1	Pele La (3400m)
+          1	Peling Hotel
+          1	Peljor Rabtenling Restaurant
+          2	Pelkhil Lam
+          1	Pelkhil School
+          1	Pelnor Enterprise(Water pump and architecture )
+          1	Pelri - Lam
+          1	Pelrithang Middle Secondary School
+          1	Pema Dorji Tailoring and Electronic Repairing
+          1	Pema Import House
+          1	Pema Namgay Hardware
+          1	Pema Sales
+          1	Pema Sambab
+          1	Pema Tyres
+          1	Pema YOEBAR (MINI MART)
+          1	Pema bar and grocery shop
+          1	Pema chezom grocery shop
+          1	Pema tshongkhang
+          1	Pemagatshel Dzongkhag
+          2	Pemaling
+          1	Penjor Shop Cum Bar
+          7	Pension Building
+         21	Pension Colony
+          1	Pension Commercial Center
+          1	Pension colony
+          1	PensionColony
+          1	Pentsa Confectionary and bakery
+          1	Peoples project for youth
+          1	Performance Ground
+          1	Permits available at border
+          1	Perpong Chorten
+          1	Peter House
+          3	Petrol Pump
+          1	Petrol Station
+          1	Phajoding Monastery
+          1	Phajoding Monastery Trail
+          1	Phajoding Paradise Cafe
+          1	Phallus Handicraft
+          1	Phendey - Lam
+          1	Phendey Lhakhang
+          1	Phensum Restaurant
+          1	Phongmey
+          1	Phosorong
+          1	Phramacy Shop
+          1	Phub Zam's Beauty Salon
+          1	Phuensum Gakhil Restaurant
+          1	Phuensum School
+          1	Phuensum mart
+          1	Phuentsholing
+          1	Phuenzhi Diner
+          1	Phulari
+          1	Phuntsho Jorden restaurant & Bar
+          1	Phuntsho Pelri
+          1	Phuntsho Tshongkhang
+          1	Phuntsho Wangmo General Shop
+          1	Phuntshog yangkhil tailoring shop
+          1	Phuntshok LhendupsGrocery cum Bar
+          1	Phuntsholing Hospital
+          1	Phurpa Wangmo
+          1	Pick and pay shop/17631162
+          1	Pinkey general tshongkhang
+          5	Po Chu
+          1	Pokhrel Tshongkhang/17340226
+          1	Police Football Ground
+          1	Police Garage
+          1	Police Outpost
+          1	Policy and Planning Division
+          1	Policy and Planning Division, Ministry of Agriculture and F
+          1	Pongchula Lhakhang
+          1	Popular Lane
+          1	Population center
+          1	Post Harvest, Ministry of Agriculture
+          2	Postal and Telegraph colony
+          1	Power Box
+          1	Pradhan Restaurant cum Bar
+          1	Pradhan Tshongkhang and Restaurant
+          1	Prakash Tshongkhang
+          1	Prakhar Tsechu
+          1	Pravin Restaurant
+          1	Prayer Wheel
+          1	Prayer wheel
+          1	Prayer wheel, simtokha
+          1	Prayer wheels
+          1	Pre School
+          1	Present Dzongkhag
+          1	Pretty Maya Tshongkhang
+          1	Private House
+          1	Private Residence
+          1	Private Residence Parking
+          1	Priyana General Tshongkhang
+          2	Project Bhutan
+          1	Provost Quarter
+          1	Provost quater
+          1	Public Library
+          8	Public Toilet
+          1	Public Zangdo Pelri
+          2	Puenzhi Guest House
+          1	Pulse Club & Lounge
+          1	Pumola
+          1	Pumola Pass
+          2	Puna Tshang Chhu
+          1	Punakha Dzong
+          1	Punakha Dzongkhag
+          1	Punakha Hospital
+          1	Punap Studio
+          1	Punjab National BANK
+          1	Punsum Hotel
+          1	Puthimari
+          1	Pvt. House
+          1	Quarter 50-53
+          1	R.L. Restaurant
+          1	R.M Gift shop
+          1	R.M general shop
+          1	RAMADA
+          1	RB Restaurant
+          8	RBA Colony
+          1	RBA Colony Hospital Area
+          1	RBA Construction OFFICE
+          1	RBA Gate
+          1	RBA Headquarter, Lungtenphu
+          1	RBA Helipad Lungtenphug
+          1	RBA Hospital (old)
+          1	RBA Lhakhang, Lungtenphu
+          1	RBA Officer colony
+          1	RBA Officer colony, Lungtenphu
+          1	RBA garage
+          1	RBG Colony (A)
+          1	RBG Colony (B)
+          1	RBG Gate
+          1	RBP Camp, Bordercheckpost
+          1	RBP staff quarter
+          1	RBP, Check post bunker
+          1	RCSC Canteen
+          1	RCSC Parking
+          1	RDC, Yusipang
+          1	READ Bhutan
+          1	REsidential
+          1	RICB
+          1	RIM Boys Hostel
+          1	RIM Gate
+          1	RIM Girls Hostel
+          1	RIM Hall
+          1	RIM Library
+          1	RIM- Football Ground
+          1	RIM- Tennis Court
+          1	RK Hostel
+          1	RMA
+          1	RNR & Gewog Center
+          1	RNR Center
+          1	RNR, Samar
+          1	RPB
+          1	RPB Staff quarter
+          3	RPB staff quarter
+          1	RRCO, Gelephu
+          1	RSPN
+          1	RSTA office
+          1	RSTA parking
+          1	RTC Library
+          1	RTC Soccer Field
+          1	RTD Sawmill
+          1	RTD Workshop
+          1	RTraditional Cuisine House
+          1	RYG Snooker
+          2	Rabten Lam
+          1	Rabten Lam - 1
+          1	Rabten Lam - 3
+          1	Rabten Lam - 5
+          1	Rabten Lam - 7
+          1	Rada Phuensum
+          1	Radi
+          1	Rai Canteen
+          1	Rai General Shop
+          1	Rai Tshongkhang
+          1	Rainbow Prints
+          1	Rainbow Tours and Treks
+          2	Ram Tshongkhang
+          1	Ramjar, Lhakhang
+          1	Ramjar, School
+          1	Rangjung Education Consultancy & Placement Firm
+          1	Rangjung Technical Training Institute
+          1	Rangshikhar Rinpoche's residence
+          1	Rasna tshongkhang
+          1	Raven Tshongkhang
+          1	Red Onion restaurant and bar
+          1	Regional Immigration Office
+          1	Regional Immigration Office, gelephu
+          1	Regional Labour Office
+          1	Regional Refferal Hospital
+          1	Regional Revenue and Custom Office
+          1	Regional Trade & Industry
+          2	Regjam Comforts
+          1	Reldri Academy of Health Sciences
+          2	Rema Resort
+          1	Repa restaurant
+         16	Residence
+          7	Resident
+          1	Resident &shop
+         12	Residential
+          1	Residential Building
+          1	Residential biulding
+          1	Restaurant cum bar
+          1	Resting Shelter
+          1	Reyna Samphel fast foot
+          1	Reyza's Kitchen and Bar
+          1	Rice Bowl
+          1	Rigden Restaurant
+          1	Rignam Building
+          1	Rigpa Pre-Schoolers
+          1	Rigsum Goenpa
+          1	Rigsum Institute
+          1	Rigzing Research & Consultancy
+          1	Rijug Lam
+          1	Rinchen Higher Secondary School
+          1	Rinchen Kuenphen Lower Secondary School
+          1	Rinchen Kuenphen Lower Secondary School Assembly Ground
+          1	Rinchen Kuenphen Lower Secondary School Parkinglot
+          1	Rinchen School
+          1	Rinchen Tours and Treks
+          2	Rinchenkuenphen School
+          1	Rinchenkuenphen School/Changangkha
+          1	Rinpung Dzong
+          1	Rinzin Palmo Liquor Store
+          1	Rinzin Restaurant cum bar
+          1	Ritual items
+          1	River Front Park
+          1	River Guides of Panbang Office
+          1	River Lodge
+          2	Road Safety & Transport Authority
+          1	Road Safety and Transport Authority
+          1	Road Service and Transport Authority
+          1	Road side parking
+          1	Road to Border Checkpost
+          1	Road to Chang Depsi
+          1	Road to Gelephu High School
+          1	Road to Hongtsho Trashigang Goenpa
+          1	Road to Phendey Lhakhang
+          1	Road to Phendey Lkhang
+          1	Road to phendey lhakhang
+          1	Roby Subba
+          1	Rongthung Primary School Area
+          1	Room
+          1	Rotong Restaurant and outdoor catering service
+          1	Round Water Tank
+          1	Royal Academy of Performing Arts
+          2	Royal Audit Authority
+          1	Royal Bhutan Airlines
+          1	Royal Bhutan Police
+          1	Royal Bhutan Police Camp
+          1	Royal Bhutan Police Division XI
+          1	Royal Bhutan Police Head Quarter
+          1	Royal Bhutan Police, Sarpang
+          2	Royal Botanical Garden
+          1	Royal Civil Service Commission
+          1	Royal Court
+          1	Royal Court of Justice, Gelephu Dungkhag
+          1	Royal Enfield
+          1	Royal Government Of Bhutan: Bhutan Electricity Authority
+          1	Royal Guest House, Gelephu
+          2	Royal Institute of Management
+          2	Royal Monetary Authority
+          2	Royal Textile
+          1	Royal Textile Academy
+          1	Royal Thai Consulate
+          1	Royal Thimphu College
+          1	Royal Thimphu College (RTC)
+          1	Royal Thimphu College City Office
+          1	Royal Thimphu Golf Club
+          1	Royal University of Bhutan (RUB)
+          1	Rubyang Enterprise
+         10	Ruling
+          1	Rumdali
+          1	S.C beauty parlour
+          2	S.D Tshongkhang
+          1	S.Dema Tshongkhang
+          1	S.K General
+          2	S.K saloon
+          1	S.L construction pvt ltd
+          1	S.P hardware supply
+          1	S7 koriel Tshongkhang
+          1	SAARC
+          1	SC Art studio
+          1	SD restaurant and bar
+          1	SGA one-stop Tshongkhang
+          1	SHARP
+          1	SHE Bhutan
+          1	SHERAB's Mini Mart
+          1	SIDHI general tshongkhang
+          1	SJMSS Basketball Court
+          1	SJMSS Football Field
+          1	SK Enterprise
+          1	SK Mercantile
+          1	SKF college
+          1	SLCS
+          1	SN Capital Wine and Liquors
+          1	SPCG enterprise
+          1	SPORT Office, RBA
+          1	STCBL
+          1	STCBL IT Showroom
+          1	STM3
+          1	STN1
+          1	STN2
+          2	STN3
+          1	STN4
+          2	STN5
+          2	STN6
+          3	STN7
+          2	STN8
+          1	STR20
+          1	Sabina Pan Shop
+          1	Sabji Market
+          1	Sadukum
+          1	Sakten Steam & sauna
+          1	Sakteng
+          1	Sakteng Restaurant
+          1	Sakteng Wildlife Sanctuary
+          1	Sales Counter
+          1	Saley Gom
+          1	Saley Lam
+          1	Saley Wom
+          3	Sama Lam
+          1	Sama Lam - 1
+          1	Samal tshongkhang
+          1	Samar Gup Office
+          1	Samarzingkha
+          1	Samaya Offering Shop
+          2	Sambara - Lam
+          1	Sambhav
+          1	Samdhen Kendrup Education Consultancy & Placement Firm
+          1	Samdrup Jongkhar Dzongkhag
+          1	Samdrup Jongkhar Hospital
+          1	Samdrup Jongkhar Middle Secondary School
+          1	Samdrup Jongkhar Primary School
+          1	Samdrup Jongkhar Thromde
+          1	Samdrup Puensum khangzang
+          1	Samdrup Sawmill
+          1	Sampang Pharmacy
+          1	Samphel 42 karakoe Night
+          1	Samphel Lam
+          1	Samphel tailoring Shop
+          1	Samsang Service Centre
+          9	Samten Lam
+          1	Samtengang Center School, Old Block
+          1	Samtse Dzongkhag
+          1	Samtse Restuarant
+          1	Samá Lam - 2
+          1	Samá Lam - 3
+          1	San Maru Korean Restarunt
+          1	Sangay Bidha tshongkhang
+          1	Sangay Enterprise
+          1	Sangay General Shop
+          1	Sangay Om
+          1	Sangay Om Tshongkhang
+          1	Sangay Sales
+          1	Sangay Tobden snooker
+          1	Sangay Tshongkhang
+          1	Sangay Wangchuk Tshongkhang
+          1	Sangay Wangmo General Shop
+          1	Sangay Zam Shop
+          1	Sangay sales
+          1	Sangaygang Junction
+          1	Sangchoekhor Lam
+          1	Sangling
+          1	Sangnag Lam
+          1	Sanjay Dorji General Shop
+          1	Sankosh
+          3	Sanu Aipoli Chu
+          1	Sanu Restaurant and Fast Food
+          1	Sanzen Snooker room
+          1	Sapanarai Tshongkhang
+          1	Sapna Restaurant
+          1	Sarita Beauty Parlour
+          1	Sarpang
+          1	Sarpang Central School
+          1	Sarpang Dzongkhag
+          1	Sarpang Hospital
+          1	Sarpang Zangdopelri Stupa
+          1	Saru Tshongkhang
+          1	Satellite Health clinic
+          1	Sayphu
+          1	School
+          1	School Academic Block
+          1	School Access road
+          1	School Canteen
+          1	School Chhokhang
+          1	School Gate
+          1	School Ground
+          1	School access road
+          1	School of Language and Cultural Studies
+          1	Seasons
+          1	Secondary School
+          1	Selden Chiki beauty saloon
+          1	Selzin - Lam
+          1	Semtokha 220 KV Substation
+          1	Semtokha Dzong junction
+          2	Semtokha Lam
+          1	Semtokha Lam - 2
+          1	Semtokha Lam - 4
+          1	Semtokha Mani dungkhor
+          1	Sengor
+          2	Senior Classrooms
+          1	Sera Phina gifts and general shop
+          1	Serbi Lam
+          1	Sershong
+          2	Sershong Lhakhang
+          1	Sewerage Treatment Plant
+          1	Sewerage Treatment Plant, Gelephu Thromde
+          1	Shambala
+          1	Shami Lhakhang
+          1	Shangrila
+          1	Shari
+          1	Sharipi Lam
+          1	Sharma General shop
+          1	Shedra
+          1	Shelkar Zar
+          1	Shelter House
+          1	Sherpa Tshongkhang
+          1	Sherubtse College, Royal University of Bhutan, Kanglung, Bh
+          1	Sherubtse college
+          2	Shetikhari Chu
+          1	Shetikhari Fly Over Bridge
+          1	Shinari Village
+          1	Shingkhar CPS
+          1	Shingkhar Gewog RNR  office
+          1	Shingkhar Guest House
+          1	Shingkhar Kurjee
+          1	Shingkhar,BHU
+          1	Shiwali meat shop
+          1	Shonzai
+          2	Shop
+          1	Shop No. 12
+          1	Shop No.7
+          1	Shop No.75
+          1	Shree Square
+          1	Signal Office of RBA
+          1	Sikkim
+          3	Silu Chu
+          1	Silu Lam
+          1	Silu Lam - 1
+          1	Silu Lam - 10
+          2	Silu Lam - 11
+          1	Silu Lam - 12
+          1	Silu Lam - 13
+          1	Silu Lam - 14
+          1	Silu Lam - 15
+          1	Silu Lam - 16
+          1	Silu Lam - 17
+          1	Silu Lam - 19
+          2	Silu Lam - 2
+          1	Silu Lam - 21
+          3	Silu Lam - 23
+          2	Silu Lam - 25
+          1	Silu Lam - 3
+          1	Silu Lam - 4
+          1	Silu Lam - 5
+          1	Silu Lam - 6
+          1	Silu Lam - 7
+          1	Silu Lam - 8
+          1	Silu Lam - 9
+          1	Simkota
+          1	Simthoka Dzong
+          1	Sinchula
+          1	Singye Group of Companies
+          1	Singye Phu Lhakhang
+          1	Singyez Restaurant
+          1	Sipsoo Restaurant
+          1	Snooker
+          1	Snow White Saloon
+          1	Soechey Restaurant
+          1	Soenamling
+          1	Solang Chhu
+          1	Solid Waste Treatment Plant
+          1	Somji
+          1	Sonai furniture
+          1	Sonam
+          1	Sonam Dechen Restaurant
+          1	Sonam Dorji Tailoring shop
+          3	Sonam Enterprise
+          1	Sonam Gang Joung Tshongkhang/17567796
+          1	Sonam General Shop
+          2	Sonam Lhamo Tshongkhang
+          1	Sonam Pelphel Enterprise
+          1	Sonam Phelber Tshongkhang
+          1	Sonam Raphel tshongkhang
+          2	Sonam Restaurant
+          1	Sonam Sunset Bar
+          1	Sonam Tailoring Shop
+          1	Sonam Tshomo Tshongkhang
+          1	Sonam Tshongkhang
+          1	Sonam Wangmo General shop
+          1	Sonam Yangdon
+          1	Sonam general shop
+          1	Sonam tshongkhang
+          1	Sophiya Bhutan education consultancy and placement fir
+          1	Sopsokha
+          1	Soshi Goenpa Lhakhang
+          1	South House
+          1	Space34
+          1	Spicy Bhutan
+          1	Spicy Diner and Bar
+          1	Spring Hill Restuarant
+          1	Ssangyong
+          1	Staff Office
+          1	Staff Offices
+          1	Staff Quater
+          1	Staff Quater, BMSS
+          7	Staff Residence
+          6	Staff quarter
+         11	Stall
+          1	State Trading Corporation of Bhutan Ltd
+          1	Steamin' mugs
+          1	Steep Shortcut
+          1	Stone Quarry
+          1	Stop and shop/ changjiji
+          1	Store_In-charge_Office_NLCS
+          2	Storm Water Drainage
+          1	Storm water Drainage
+          1	Stream
+          1	Student Service Center
+          1	Students Plus
+          1	Study room
+          2	Stupa
+          1	Stupa/Chorten
+          1	Style
+          1	Style & go Beauty parlour
+          1	Sub station
+          1	Subba Hotel Cum Bar
+          1	Subba Restaurant
+          1	Subba Tshongkhang
+          1	Subba grocery shop cum bar
+          1	Subbani Tshongkhang
+          1	Substation Control Room
+          1	Sumith General Shop
+          1	Sumitra Tshongkhang/17388686
+          1	Sun Shine School
+          1	Sunlight II Restuarant and bar
+          1	Sunny Restaurant
+          1	Sunshine
+          1	Supreme Court Grounds
+          1	Suresh Hair Cut Saloon
+          1	Susail General shop
+          1	Sushila Restaurant
+          2	Sushila Tshongkhang
+          2	Swapna restaurant cum bar
+          3	Swimming Pool
+          1	Swimming Pool Canteen
+          1	Swimming pool area
+          1	Swiss Bakery
+          1	Swiss Cooperation Office
+          1	Swiss Guest House
+          1	Swiss Shop
+          1	T.D Enterprise
+          1	T.D Tshogkhang
+          1	T.R Education Consiltency
+          1	T.T Bar and Restaurant
+          1	T.T tshongkhang
+          1	T/yangtse tshongkhang
+          1	TC Fast Food restaurant
+          1	TDT Electronics / Repair
+          1	TEE DEE Snooker
+          1	TLT Hotel
+          1	TLT Tshongkhang
+          1	TNK
+          1	TOEB Tshongkhang
+          1	TSHEHOR AYZEY
+          1	TT - Entertainment club
+          1	TWX Travels
+          1	Taba
+          1	Taba Chhoeten
+          1	Taba Hokang
+          1	Taba Primary School
+          1	Taba/KW Shop
+          1	Tabey Snooker Hall
+          1	Tabà Lam - 1
+          1	Tabà Lam - 10
+          1	Tabà Lam - 11
+          1	Tabà Lam - 12
+          1	Tabà Lam - 13
+          1	Tabà Lam - 14
+          1	Tabà Lam - 15
+          1	Tabà Lam - 16
+          1	Tabà Lam - 17
+          2	Tabà Lam - 18
+          1	Tabà Lam - 19
+          1	Tabà Lam - 2
+          1	Tabà Lam - 21
+          1	Tabà Lam - 23
+          1	Tabà Lam - 25
+          1	Tabà Lam - 27
+          1	Tabà Lam - 29
+          1	Tabà Lam - 3
+          1	Tabà Lam - 31
+          1	Tabà Lam - 33
+          1	Tabà Lam - 35
+          1	Tabà Lam - 4
+          1	Tabà Lam - 5
+          1	Tabà Lam - 6
+          1	Tabà Lam - 8
+          1	Tabàgòm Lam - 1
+          1	Tabàgòm Lam - 11
+          1	Tabàgòm Lam - 2
+          1	Tabàgòm Lam - 3
+          2	Tabàgòm Lam - 4
+          2	Tabàgòm Lam - 5
+          1	Tabàgòm Lam - 7
+          1	Tabàgòm Lam - 9
+          1	Taekwondo Hall
+          1	Tagshing chungdruk construction pvt ltd
+          1	Tagulun La
+          2	Taj Tashi Hotel
+          1	Taji Tashi Hotel
+          1	Tak sing Chung druk
+          1	Takchu
+          1	Takchu Goemba
+          1	Takshikha Campsite
+          1	Taksikha
+          1	Taktsang Cafeteria
+          1	Taktsang Palphug Monastery
+          1	Taktshang-Bumdra path
+          2	Tala
+          1	Talakha
+          1	Tali Dratshang
+          1	Talop Tshongkhang
+          1	Talung
+          1	Tamchog Lhakang
+          1	Tamshing Lhakhang
+          2	Tamu Enterprise
+          1	Tandin
+          1	Tandin Bidha Sales
+          1	Tandin Tshongkhang
+          2	Tandin general shop
+          1	Tandin naye
+          1	Tang Chhu
+          2	Tangmachu Bridge
+          1	Tango Goemba
+          1	Tara INN
+          1	Tara Phendeyling Hotel
+          1	Tarayana Foundation
+          1	Tarayana Rural Products
+          1	Tashi
+          2	Tashi Bank
+          1	Tashi Bank ATM
+          1	Tashi Cell
+          2	Tashi Commercial Corporation
+          1	Tashi Commercial. LPG Supply Store
+          1	Tashi Commerical Coperation
+          1	Tashi Dargay Automobiles
+          1	Tashi Dhendup (Mobile Repair)
+          2	Tashi Gatshel property dealer
+          1	Tashi General Shop
+          2	Tashi Group
+          1	Tashi Namgay Resort
+          1	Tashi Rabten
+          1	Tashi Rabten Restaurant & Bar
+          1	Tashi Rentals
+          1	Tashi Super Market
+          1	Tashi Tobgay's Residence
+          1	Tashi Tours and Travel
+          1	Tashi Tshongkhang
+          1	Tashi general shop
+          1	Tashi general shop/ changjiji
+          1	TashiCell
+          1	Tashichodzong Tsechu Grounds
+          1	Tashigang Dzongkhag
+          1	Tashiphu
+          1	Tata
+          1	Tawang
+          1	Tawang district
+          4	Taxi Parking
+          2	Taxi Stand
+          5	Taxi stand
+          1	Tek Bdr Kharka
+          1	Tek Maya Meat Shop
+          1	Telecom
+          1	Telecom - Billing/Customer Service Section
+          1	Telecom - Druknet Internet
+          1	Telecom Distribution Box
+          1	Telecommunication Tower
+          1	Telephone tower
+          1	Tempa tshongkhang
+          1	Temple
+          1	Tendu - Sipsu Highway
+          1	Tendu BHU
+          1	Tendu Central School
+          1	Tendu Meat Shop
+          1	Tendu Restaurant
+          1	Tennis ground
+          1	Tensung Aumtsu Phendey Tshogpa Canteen
+          1	Tenzin
+          1	Tenzin Dema general shop
+          1	Teoprongchu
+          1	Teri Kang
+          5	Termalingka resort
+          1	Textile Museum
+          3	Thagzo Lam
+          2	Thai Pavillion
+          1	Thamnangbi Lhakhang
+          1	Thangbi Lhakhang
+          1	Thapa Tshongkhang changjiji
+          1	Thara Goenpa
+          1	Tharpaling Dratshang
+          1	Tharpaling Gompa
+          1	Tharpaling to Lamey gompa hike
+          1	Tharpola Incense Factory
+          1	The Art Shop Gallery
+          1	The Bhutanese
+          1	The Cafe
+          1	The Druk Pizza
+          1	The Hanger
+          1	The Park Hotel
+          1	The Raven's Nest
+          1	The Seasons Pizzaria
+          1	The Station
+          1	The Station, Bistro bar & Grill
+          1	The Urban
+          1	The Woods
+          1	The beautique saloon
+          1	The saloon
+          1	Theatre & Phy Lab
+          3	Thegchhen Lam
+          1	Thegchhen Lam - 1
+          1	Thegchhen Lam - 2
+          1	Themnangbi
+          1	Thija cafe
+          3	Thimphu
+          1	Thimphu Bakes
+          1	Thimphu Bus Terminal
+          1	Thimphu Center Box
+          1	Thimphu District Administration
+          1	Thimphu District Court
+          1	Thimphu Dzongkhag
+          1	Thimphu Electronics
+          9	Thimphu Expressway
+          1	Thimphu Funiture
+         10	Thimphu Gelephu Highway
+          1	Thimphu Gonpa longchen Nyingthig
+          1	Thimphu Mini Hydel
+          1	Thimphu Mini Hydel (DG Set)
+          1	Thimphu Municipality
+          1	Thimphu Om Nyenley Tshogdey
+          1	Thimphu Plaza
+          1	Thimphu Thromde
+          1	Thimphu Thromde Nursery
+          1	Thimphu Tower
+         29	Thimphu to Phuentsholing Highway
+          1	Thimyul Jangchub Chorten (Stupa)
+          1	Thimyul Nagtshang
+          1	Thinley Chedup general Shop
+          1	Thinley Doedkhel Restaurant and bar
+          1	Thinley Lodge
+          1	Thinley general shop
+          1	Tholaychhu(Tholaygang)
+          1	Thole La
+          1	Thongbu La
+          2	Thongsel Lam
+          1	Thonpu Gonpa me-Jur handicarft
+         10	Thori Lam
+          1	Thori Lam - 1
+          1	Thori Lam - 10
+          1	Thori Lam - 11
+          1	Thori Lam - 12
+          1	Thori Lam - 13
+          2	Thori Lam - 14
+          1	Thori Lam - 15
+          2	Thori Lam - 17
+          1	Thori Lam - 18
+          1	Thori Lam - 19
+          1	Thori Lam - 2
+          1	Thori Lam - 4
+          1	Thori Lam - 5
+          1	Thori Lam - 6
+          1	Thori Lam - 7
+          1	Thori Lam - 8
+          1	Thori Lam - 9
+          1	Thori Resort
+          1	Three Sqaure resturant
+          1	Three Tanks - Motithang
+          1	Threma Lhakhang
+          1	Thromde Round About (New)
+          1	Thromde Water Treatment Plant
+          1	Thrompon's Private Residence
+          1	Thrumshing La (3.780 m)
+          1	Thsheringla Electronic Repair Center
+          1	Thubten Ling
+          1	Thuendrel Tailoring shop
+          1	Thuji Pem's House
+          1	Thuji Pem, Thiligang
+          1	Thujidra
+          1	Thujidra Guest House
+          1	Thujidra Lhakhang
+          1	Thunder Nissan
+          1	Thunpa puen zhi building
+          2	Thunpay
+          1	Thunpay Community School
+          1	Tibet Kitchen
+          1	Tiger Pub
+          2	Tingchhu Lam
+          1	Tingkadrak Nye
+          1	Tingtibi
+          1	Tinley Shop Cum Bar
+          1	Titan
+          1	Togtserkhagi Chhu
+          1	Tojo Thongdrel Hotel
+          1	Toktu Zamba
+          1	Tongsha Dzong
+          1	Toribari
+          5	Torsa
+          1	Tosel Hotel
+          1	Track
+          1	Trade Information Center
+          1	Trade Office
+          1	Traditional Boot House
+          1	Traditional Cusine House
+          1	Traditional Hoise
+          1	Traditional Hospital
+         17	Traditional House
+          1	Trail from Peak to Buddha Point
+          1	Trashigang District Court
+          1	Trashigang Dzong
+          1	Trashigang Goemba
+          1	Trashiyangtse Dzongkhag
+          1	Trendrel
+          1	Trinkets & Bookworld
+          1	Trongsa Dzongkhag
+          1	Troten Karaoke
+          1	Trowa Snooker
+          1	Trowa Theatre
+          1	Truck Parking
+          1	Tsampa
+         10	Tsantsanpokpa Lhakhang
+          1	Tsenda Kang
+          1	Tsenden Shing
+          2	Tshalimarphoey
+          1	Tshalu Lam
+          1	Tshalu Lam - 1
+          1	Tshalu Lam - 10
+          1	Tshalu Lam - 2
+          1	Tshalu Lam - 3
+          1	Tshalu Lam - 5
+          1	Tshalu Lam - 7
+          1	Tshalu Lam - 8
+          1	Tshalu Lam - 9
+          1	Tshebar Lhakhang
+          1	Tshebar School
+          1	Tshebar Village
+          1	Tshebar Zangdopelri
+          1	Tsheing wangmo grocery and bar shop
+          1	Tshelung Ney Lhakhang
+          1	Tshelung Ney Pry School
+          1	Tshelung-Ney Drupkhang 1
+          2	Tshelung-Ney Drupkhang 2
+          1	Tshering Bidha General Shop
+          1	Tshering Choden and Konig Beer Garden
+          1	Tshering Dorjji shop
+          1	Tshering Game Zone
+          1	Tshering General shop and bar
+          1	Tshering General shop/17870083
+          1	Tshering Lham Restaurant
+          1	Tshering Metog
+          1	Tshering Nidup Tshongkhang
+          1	Tshering Restaurant
+          1	Tshering Tshongkhang
+          1	Tshering Wangmo Tshongkhang
+          1	Tshering bar
+          1	Tshering grocery shop
+          1	Tshering tshongkhang
+          1	Tsheringma Trophel Drayang
+          1	Tshewang dorji general shop cum bar
+          1	Tsheyang Tshongkhang
+          1	Tshirang Poultry Cooperate
+          1	Tsho
+          1	Tshogayling
+          1	Tshokey Dorji Foundation
+          1	Tsholing Printing Press
+          1	Tshomo Advanced Geotech Engineering and Testing Servic
+          1	Tshomo Advanced Geotech Engineering and Testing Services
+          1	Tsimasham
+          1	Tsirang Dratshang
+          1	Tsirang Dzongkhag
+          1	Tsungdu wangmo general shop
+          1	Tuktu Zampa
+          1	Tushita Cafe
+          1	Twin Building
+          1	Two Sister Beauty Parlour
+          1	Two brothers general shop
+          1	Two sisters Tshongkhang
+          1	U-Tech
+          1	UMS
+          1	UNDP
+          1	UNI QLO
+          1	USD Driving Tranning Institute
+          1	UTL Collection
+          1	UTTY Nursery
+          1	Ugyen Cement Ageny
+          1	Ugyen Electronic Tshongkhang
+          1	Ugyen Lhamo tshongkhang
+          1	Ugyen Norbu Tailoring
+          1	Ugyen Pema Tshongkhang
+          1	Ugyen Phendeyling resort
+          2	Ugyen lhamo Restaurant
+          1	Ugyen t- yangtsho sale
+          1	Ugyen tshering tshongkhang
+          1	Ugyen tshongkhang
+          1	Uigyen Choling
+          1	Uma Paro
+          3	Under Construction
+          2	Under construction
+          1	Unified business center
+          1	Unit Mart
+          1	United Apartment
+          1	United Nations house
+          1	Universal Education
+          1	Unnamed Buddhist Structure
+          1	Upper Chamgang
+          1	Upper Changjiji
+          1	Upper Gypsum
+          1	Upper Terrace Basketball Court
+          1	Ura
+          1	Ura Lhakhang
+          1	Urban Road towards LAP - II
+          1	Utopia night club / Plan 'B' Karaoke
+          1	Utpal Pizza
+          1	Vajra builder pvt ltd
+          1	Vegetable Market
+          1	Vegetable Market Parking Area
+          1	Vegetable Market, Gelephu
+          1	Vegetable market
+          1	Vetenary Hospital, Gelephu
+          1	Videogame
+          1	Village Farm Road
+          1	WET Canteen
+          1	Waiba Tshongkhang
+          1	Walakha
+          1	Wamling Pharmaceuticals & Medical Supplies
+          1	Wamling Yarn House
+          1	Wamrong
+          1	Wang Arts
+          1	Wang Chhu
+          1	Wang Chhu basin
+          1	Wang Lam
+          1	Wang Lam - 1
+         20	Wangchhu Lam
+          1	Wangchhu Lam - 1
+          1	Wangchhu Lam - 2
+          1	Wangchhu Lam - 3
+          2	Wangchhu Lam - 5
+          1	Wangchhu Lam - 7
+          5	Wangchu
+          1	Wangchu MSS School Area
+          1	Wangchuck Hotel
+          1	Wangchuk Hotel
+          1	Wangchuk Lodge
+          1	Wangchuk Zimchung
+          1	Wangchuk bar
+          1	Wangchutaba
+          2	Wangda Building
+          1	Wangdi Phodrang
+          1	Wangdi-Trongsa Highway
+          2	Wangdicholing Resort
+          1	Wangditse Goemba
+          1	Wangdue Phodrang Dzongkhag
+          1	Wangkha Central School
+          1	Wangmo Montessori
+          1	Wangmo Tshongkhang
+          1	Wangyel general shop
+          1	Water Dragon gallery
+          1	Water Reserviour for Fire Hydrant
+          1	Water Supply Tank, Gelephu Thromde
+          1	Water Tank
+          1	Way To MRRH
+          1	Way to Begena
+          1	Way to Jigme Tshongkhang
+          1	Way to Kabesa
+          1	Way to Paro Corner
+          1	Way to SLCS
+          1	Weeping Willow
+          1	West Bengal
+          1	West Kameng district
+          1	White Umbrella Travels to Bhutan
+          1	Whole sale
+          1	Whole sale (RASPAB) AWPL beverage products outlet shop
+          1	Wind Horse tours and travel
+          1	Wine & Dine restaurant
+          1	Wisdom Tree
+          1	Wogzin Lam
+          2	Wogzin Lam - 2
+          1	Womeysa
+          1	Womphug Lhakhang
+          1	Woob
+          1	Woob community primary School
+          1	Woochu Lower Secondary School
+          1	Woochu School Basketball Court
+          1	Woodcraft Centre Grounds
+          2	Workshop
+          1	Workshop (mortars/vehicles)
+          1	Workshop Roundabout
+          1	World Bank, Bhutan Country Office
+          1	World Travel Service
+          2	World Wildlife Fund (WWF-Bhutan)
+          1	X Zone Game Parlor
+          2	Y.D bhutan tours
+          1	YDF Basketball court
+          1	YHSS Basketball Court
+          1	YHSS Parking
+          1	YHSS Science Block
+          1	YNR general shop
+          1	YT Hotel
+          1	Yadi Norbu grocery shop
+          1	Yadrak Construction, Yadrak Hiring, Cement Agent
+          1	Yajunggang(Yajungchhu)
+          1	Yak Handicraft
+          1	Yana Expedition
+          1	Yangchab Bakery
+          1	Yangchen Bar
+          1	Yangchen Beauty Parlour
+          1	Yangchen Grocery
+          1	Yangchen Lam
+          1	Yangchenphu HSS
+          1	Yangkhil resort
+          1	Yangkil
+          1	Yangrab Enterprise
+          1	Yangsel Cafeteria
+          1	Yangthang
+          1	Yanka Arts and Crafts
+          1	Yankey Grocery Shop
+          1	Yardak Cement Agent
+          1	Yarden Lam
+          1	Yarden Lam - 1
+          1	Yarden Lam - 3
+          1	Yargyel Heavy Earthmovers and Equipmenst
+          1	Yarkay Central
+          1	Yarkay Complex
+          1	Yarphel Over Seas Or Hiring Agency
+          1	Yash's
+          1	Yee Wong Salon
+          1	Yeedzin Guesthouse
+          1	Yengchenphug Higher Secondary School
+          1	Yeshey tailoring
+          1	Yeshi Lhaden Tshongkhang
+          1	Yeshimo Tshongkhang
+          1	Yeti handicraft
+          1	Yewong Restaurant
+          1	Yiga Radio 94.7 FM
+          1	Yin & Yang Restaurant
+          1	Yoedsel Tours & Travel
+          1	Yoedzer gift shop
+          1	Yoez Graphics
+          1	Yongphula Domestic Airport
+          1	Yongphula Football Ground
+          1	Yongphula Lhakhang Area
+          1	Yongphula Lower Secoundary School Area
+          1	Yongphulla
+          1	Yosel Hotel
+          1	Yosel Lam
+          1	Yoselpang Stream
+          1	Yotang La (3425m)
+          1	Youngphula Rimpochoes Residence
+          1	Your Mart
+          1	Youth Business Cooperative
+          2	Youth Centre
+          1	Youth Centre Library
+          2	Youth Development Fund
+          1	Youth Development Fund - Conference Hall
+          1	Youth Hostel - Department of Youth and Sports
+          1	Youth development fund
+          1	YouthVillage-CFM
+          1	Youwakha
+          1	Yudrai Gatshal Tshongkhang
+          1	Yudruk tours and treks
+          1	Yugyel's House
+          1	Yuk Restaurant
+          1	Yuljong Bistro
+          1	Yuma Tshongkhang
+          1	Yummys
+          1	Yuphel tshongkhang
+          2	Yusipang
+          1	Yutsho Tailoring Shop
+          1	ZHILIU
+          1	Zachoe Lam
+          1	Zachoe Lam - 1
+          1	Zachoe Lam - 3
+          1	Zambala Handicraft
+          2	Zamdo Lam
+          2	Zamdo Lam - 1
+          1	Zamdo Lam - 3
+          1	Zamdo Lam - 5
+          1	Zamdo Lam - 7
+          1	Zamdo Lam - 9
+          1	Zamling pharmaceuticals and medical suppliers/17112112/02-3
+          1	Zangdogpelri Shopping Complex
+          2	Zangdopelri
+          1	Zangmo Tshongkhang
+          1	Zangrel Lam
+          1	Zangtogpelri Lhakhang
+          1	Zashoo
+          1	Zebra Cross
+          1	Zeeling Tshongkhang
+          1	Zeko Restaurant
+          2	Zeri Lam
+          1	Zeri Lam - 1
+          1	Zeri Lam - 3
+          1	Zeri Lam - 4
+          1	Zeri Lam - 5
+          1	Zeri Lam - 6
+          1	Zeri Lam - 8
+          1	Zhabto - Lam1
+          1	Zhabto - Lam2
+          1	Zhabto - Lam3
+          1	Zhedhey Restaurant & Bar
+          1	Zhemgang Dzongkhag
+          1	Zhemgang Tours & Travels
+          1	Zhenphen Lam
+          1	Zhidhey enterprise
+          1	Zhingkham Resort
+          1	Zilnon Namgayling Community School
+          1	Zilukha Jalue lam
+          1	Zilukha gedeun lam
+          1	Zilukha middle secondary school
+          1	Zilukha nunnery
+          1	Zilung - 1
+          1	Zilung - 3
+          7	Zimdra Automobile Workshop
+          2	Zimdra Automobiles
+         13	Zimdra Zam
+          1	Zingki Lam
+          1	Zingki Lam - 10
+          1	Zingki Lam - 2
+          1	Zingki Lam - 4
+          1	Zingki Lam - 6
+          1	Zingki Lam - 8
+          1	Zodra - Lam
+          1	Zombala 1
+          1	Zombala Furnitures
+          1	Zombala restaurant 2
+          1	Zombala2
+          1	Zomkyi Restaurant
+          1	Zone
+          1	Zorig Lam
+          1	Zorig chusum
+          2	Zorigchen Lam
+          1	Zugne
+          1	Zumtrul: The magic karaoke
+          1	aBit
+          1	adventure Trekking club
+          1	agriculture land
+          1	ambient cafe
+          1	archery ground
+          1	army Welfare office
+          2	assam
+          1	bank of bhutan
+          1	barber shop
+          1	basket ball
+          1	basketball court
+          1	bettelnut orchard
+          1	bhutanese Arts and Crafts
+          1	bhutanobserver_2_drukpizza_footpath
+          1	boy's toilets
+          2	building under construction
+          1	buinding
+          1	center box
+          1	changjiji school basketball court
+          1	changjiji standing fast food
+          1	changlimithang
+          1	cheese ground
+          1	chilli restraurant
+          1	chimi pelmo general shop
+          1	chop stick
+          3	city bus stop
+          2	class 7 block
+          1	class 8 block
+          1	class 9 block
+          1	collection centre/ clothes/footwear
+          1	community Police Centre Motithang
+          1	control room
+          1	conveniece store
+          1	court
+          1	db meat shop
+          1	dema furniture
+          1	dhejung pharmacy
+          1	dian
+          2	disputed Bhutan
+         10	disputed border (BT-CN)
+          9	disputed border (BT-CN) -Bhutan
+          2	disputed border (Bhutan - China)
+          1	dream beauty parlour
+          1	farm Rd
+          2	farm road
+          1	farmland
+          1	fashion
+          3	football ground
+          5	footpart
+         14	footpath
+          1	footpath to Chortenkora
+          3	forest
+          1	fusion
+          1	gasa lower secondary school
+          1	gewog caretaker's resident
+          1	girl's toilet
+          1	goenpa sang-nga chelling lhakhang
+          3	greenhouse
+          1	gualley general shop
+          1	gyemtenzins
+          1	gymnasium
+          1	hollow block manufacture
+          1	home and garden decor
+          1	hotel relax
+          8	house
+          1	immigration checkpost hongtsho
+          1	imtrat Hospital
+          1	jampal snooker
+          1	kaila parking
+          1	karchung's area
+          1	karma general shop
+          1	karma norzoey education center [child daycare]
+          1	karma wangdi tshongkhang
+          1	kaushila general shop
+          1	keep tshongkhang
+          1	kelden general shop and bar
+          1	khan's shop
+          7	kilikhar satelite town
+          1	kinzang house
+          1	kinzang uncle house
+          1	kinzangmo general shop
+          1	krishna general shop
+          1	kuzoo FM
+          1	lendup tours & travels
+          1	lhakhang
+          1	lhakhang house
+          1	lhaling
+          2	local people
+          1	local people house
+         27	main hole
+          1	mainhole
+          1	manay dungkhor
+          1	mani dungkhor
+          1	memorable restraurant
+          1	mendala meat shop
+          1	mid way Path
+          2	milam
+          1	mine
+          1	mobile hospital
+          1	momo +
+          1	monk house
+          1	municipal
+          1	municipal mini office
+          1	municipal staff quarters
+          1	music palace
+          1	mutiparking building
+          1	nado photoshop
+          1	namgay tshering taloring
+          1	new basketball court
+          1	nlcs_overhead_water_tank
+          1	norling pharmacy
+          1	october's Mart
+          1	old NH152
+          1	old basketball court
+          1	om grocery
+          1	pallavi furniture
+          1	parking
+          1	pema Tshongkhang
+          1	pema enterprise
+          1	pema yangki shop/ general shop
+          1	phuensuem bakery
+          2	play ground
+          1	prayer wheel
+          4	project staff house
+          1	puja Tshongkhang
+          1	puna road
+          1	rabkar Sweet Shop
+          1	residence
+          2	resident
+          1	residential building
+          1	reven arts
+          1	rice bowl
+          1	rigsel traders
+          1	roonak
+          1	ruined military camp
+          1	s
+          1	sagar tshongkhang/ photocopy and stationary
+          1	samkar snooker
+          1	samten printer
+          1	sangay Rinzin restraurant
+          1	sangay agency
+          1	school access road
+          1	school boundary
+          1	school football ground
+          1	school road
+          1	sernya hotel
+          8	shop
+          1	sita shop
+          1	snooker world
+          1	sonam tashongkhang
+          1	sonam trophel hotel
+          2	staff quarter
+          1	staff quarters
+          2	stone query road
+          2	stream
+          6	taxi stand
+          1	tendruk
+          1	tendu
+          1	termalingka resort
+          1	toilet
+          1	town
+          2	traditonal_house
+          1	transformer
+          1	tshewang Gyelmo Tshongkhang
+          1	under Construction
+         21	under construction building
+          1	under construction, Trade office
+          2	unkknown
+          1	vegetable market
+          1	wangshel enterprise
+          1	water stream
+          5	wet land
+          3	wetland
+          1	white rose restraurant
+          1	winner pub
+          1	wooden bridge
+          1	world art
+          1	yangter kuenzang snooker
+          1	yeshey optical
+          1	your choice
+          1	yy
+          1	zangrel Lam-2
+          4	zebra cross
+          1	zeydreg taylor
+          1	zhing
+          1	zimchung
+          1	zimdra automobile
+          1	zimdra implex
+          1	|White Lotus Art Gallery
+          1	Énchu Lam
+          4	Ólakha Lam
+          1	Ólakha Lam - 1
+          1	Ólakha Lam - 10
+          1	Ólakha Lam - 2
+          1	Ólakha Lam - 3
+          1	Ólakha Lam - 4
+          1	Ólakha Lam - 5
+          2	Ólakha Lam - 6
+          1	Ólakha Lam - 8
+          1	་བསམ་རྩེ
+          1	ཀྲོང་གསར
+          2	ཀྲོང་གསར་རྫོང་ཁག་
+          1	ཁང་དམར་རྫོང་ / 康马县 / Kangmar
+          1	ཁྲུམས་ཤིང་ལ་
+          1	གངས་དཀར་སྤུན་གསུམ་ / �
+          1	གད་སྟག་ན Getana Gewog་
+          1	གདུང་ན་ Doongna Gewog
+          1	གཞམས་སྒང་
+          2	གཞལམ་སྒང་རྫོང་ཁག་
+          1	གཞིས་ཀ་རྩེ་ས་ཁུལ་ / 日�
+          1	གསང་སྦས Sangbay Gewog
+          1	གསར་སྤང་རྫོང་ཁག
+          1	གསར་སྤང་རྫོང་ཁག་
+          1	གྲམ་ཕུ
+          1	གྲོ་མོ་རྫོང / 亚东县 / Yadong
+          2	ཆུ་ཁ་རྫོང་ཁག་
+          1	ཇོ་མོ་ལྷ་ར 绰莫拉日峰 Chomolhari
+          2	ཉེན་རྟོག་པ།
+          1	ཐིམ་ཕུ
+          2	ཐིམ་ཕུ་རྫོང་ཁག་
+          1	དགའ་སྐྱིད་གླིང་ Gakiling Gewo
+          1	དགེ་གླིང་ Geling Gewog
+          1	དབང་འདུས་ཕོ་བྲང་
+          2	དབང་འདུས་ཕོ་བྲང་རྫོ�
+          1	དབུས་སུ་ Uesu Gewog
+          1	དར་དཀར་
+          2	དར་དཀར་ན་རྫོང་ཁག་
+          1	དར་ལ་ Darla Gewog
+          1	པདམ་དགའ་ཚལ
+          2	པདྨ་དགའ་ཚལ་རྫོང་ཁག་
+          1	ཕུན་ཚོགས་གླིང་
+          1	ཕུན་ཚོགས་གླིང་ Phuentshogling G
+          1	ཕོབ་སྦྱིས་
+          1	བཀང་ལུང་
+          1	བཀྲ་ཤིས་གཡང་རྩེ
+          2	བཀྲ་ཤིས་གྱང་ཙེ་རྫོང�
+          1	བཀྲ་ཤིས་ཆོས་རྫོང (Tashichho
+          1	བཀྲ་ཤིས་སྒང་།
+          2	བཀྲ་ཤིས་སྒང་རྫོང་ཁག�
+          1	བར་མཚམས་
+          1	བསམ་གྲུབ་ལྗོངས་མཁར་
+          2	བསམ་གྲུབ་ལྗོངས་མཁར་�
+          1	བསམ་འཕེལ་གླིང་ Samphelling Gewo
+          2	བསམ་རྩེ་རྫོང་ཁག་
+          2	བུམ་ཐང་རྫོང་ཁག་
+          1	བྱ་ཀར་
+          1	བྱག་ཕྱོགས་ Bjagchhog Gewog
+          1	མགར་ས
+          2	མགར་ས་རྫོང་ཁག་
+          1	མགྲོན་ཁང
+          1	མཚོ་སྣ་རྫོང་ / 错那县 / Cona
+          1	མོང་སྒར
+          2	མོང་སྒར་རྫོང་ཁག་
+          1	འབྲུག་ཡུལ་
+          1	འབྲུགཡུལ་
+          1	རང་བྱུང་
+          2	རྩི་རང་རྫོང་ཁག་
+          1	ལོག་ཅི་ན་ Loggchina Gewog
+          6	ལྷ་ཁང
+          1	ལྷུན་རྩེ
+          2	ལྷུན་རྩེ་རྫོང་ཁག་
+          1	ལྷོ་ཁ་ས་ཁུལ། / 山南市 / Shannan
+          1	ལྷོ་བྲག་རྫོང་ / 洛扎县 / Lhozh
+          1	ས་དམར་ Samar Gewog
+          1	སག་སྟེང་
+          1	སྐར་ཚོགས་ Katsho Gewog
+          1	སྐྱབས་ཆ་ Chaapchha Gewog
+          1	སྣ་དཀར་རྩེ་རྫོང་ / 浪卡�
+          1	སྤ་རོ
+          2	སྤ་རོ་རྫོང་ཁག་
+          1	སྤུ་ན་ཁ་
+          2	སྤུ་ན་ཁ་རྫོང་ཁག་
+          1	སྦོང་སྒོར་ Bongo Gewog
+          1	སྦྱིས་ Bji Gewog
+          1	སྨད་བཏབ་ཁ་ Metabkha Gewog
+          1	ཧཱ
+          2	ཧཱ་རྫོང་ཁག་
+          1	上亚东乡
+          1	下亚东乡
+          1	中印边界（中国声称）
+          1	中国
+          1	中国边境管理区
+          1	九农普
+          1	亚古拉
+          1	仁岗贡
+          1	切错
+          1	勒门巴民族乡
+          1	同山加布峰
+          1	哈拉山口
+          1	基伍地区
+          1	堆纳乡
+          1	姐普山口
+          1	帕里镇
+          1	库局乡
+          3	库鲁河
+          7	康布麻曲
+          3	康布麻曲 Torsa
+          1	康扎拉
+          7	措美河?
+          1	查马普地区
+          1	狼错
+          1	白玉地区
+          1	穷堆亚日
+          1	穷堆拉错
+          1	蔗
+          1	蔗草场
+          1	蔗草场哨所
+          1	藏南
+          3	西巴霞曲
+          1	西藏自治区
+          1	达热普
+          1	邦戛拉山口
+          1	采弄
+          1	鲁林地区
+          1	鲁林曲
+          3	鲁绒曲

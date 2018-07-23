@@ -1,0 +1,4365 @@
+          1	10 eme Avenue
+          4	10e Avenue
+          6	10ème Avenue
+          9	11e Avenue
+          4	11ème Avenue
+          4	12e Avenue
+          4	12ème Avenue
+          4	13e Avenue
+          4	13ème Avenue
+          5	14e Avenue
+          3	14ème Avenue
+          8	15e Avenue
+          4	15ème Avenue
+          1	16 avenue
+          4	16e Avenue
+          2	16ème Avenue
+          4	17e Avenue
+          3	17ème Avenue
+          2	18e Avenue
+          1	18ème Avenue
+          1	19e Avenue
+          4	19ème Avenue
+         11	1ère Avenue
+          2	1ère Avenue NYAMUGARI
+          2	20e Avenue
+          2	21e Avenue
+          3	22e Avenue
+          2	23e Avenue
+          1	24e Avenue
+          1	25e Avenue
+          6	2e Avenue
+          1	2e avenue
+          1	2eme avenue MAGARAMA
+          6	2ème Avenue
+          1	2ère Avenue NYAMUGARI
+          9	3e Avenue
+          1	3eme Avenue
+          1	3eme avenue MAGARAMA
+         17	3ème Avenue
+          1	3ère Avenue NYAMUGARI
+          1	4 eme Avenue
+          5	4e Avenue
+          1	4eme avenue MAGARAMA
+          3	4ème Avenue
+          1	4ère Avenue NYAMUGARI
+          2	5 eme Avenue
+          9	5e Avenue
+          1	5eme avenue MAGARAMA
+          6	5ème Avenue
+          1	5ère Avenue NYAMUGARI
+          1	6 eme Avenue
+          3	6e Avenue
+          1	6eme Avenue
+          1	6eme avenue MAGARAMA
+          7	6ème Avenue
+          7	7e Avenue
+          1	7eme Avenue
+          1	7eme avenue MAGARAMA
+          4	7ème Avenue
+          1	8 eme Avenue
+          3	8e Avenue
+          1	8eme Avenue
+          4	8ème Avenue
+          1	9 eme Avenue
+          7	9e Avenue
+          6	9ème Avenue
+          1	AABA
+          1	ABBIICE LODGE
+          1	ABDOULAZIZ HOTEL
+          3	ABUBEF
+          1	ABUBEF KIRUNDO
+          1	ABUBEF RUMONGE
+          1	ABUBEF Rumonge
+          1	ACCOLADE HOTEL
+          1	ADECOBU - Association pour le Développement de la Commune 
+          1	ADTAVBU
+          1	AEJT Bujumbura
+          1	AFRICA
+          1	AFRICANA HOTEL
+          1	AGAPE HOTEL
+          1	AGERA CENTER HOTEL
+          1	AHD
+          1	AJDI BURUNDI
+          1	AKABUYE HOTEL
+          1	AKARUHUKO GUEST HOUSE
+          2	AKEZA MUTIMA HOTEL
+          1	AKEZIWACU
+          1	ALBATROS HOTEL
+          1	ALCADOR LODGE
+          1	ALCHEM
+          1	ALEXESTEL 2
+          1	ALEXESTEL HOTEL
+          1	ALFA HOTEL
+          1	ALIBU
+          1	ALLELUA HOTEL
+          1	ALUMA
+          1	AMAHORO
+          1	AMANI HOTEL
+          1	AMATA MEZA
+          2	AMERICAN CORNER KININDO
+          1	AMI PLUS
+          1	AMIGO JUSTE
+          1	ANGELUS HOTEL
+          1	APRODH
+          1	ARC EN CIEL
+          1	ARC EN CIEL HOTEL
+          1	ARRET BUS
+          1	ASOPRODEV/ASBL "HUMURA"
+          1	ATLANTICA HOTEL
+          1	AU 108
+          1	AU BOIS FLEURRY
+          1	AU COIN DE L FRAICHEUR
+          1	AU COIN DU THE
+          1	AUBERGE CENTRAL DE MUYINGA
+          1	AUBERGE DU BON PASTEUR
+          1	AUBERGE DU NORD
+          1	AUBERGE HOTEL
+          1	AUBERGE MGR BUDUDIRA BERNARD
+          1	AUBERGE MUYANGE
+          1	AUBERGE NTERERE
+          1	AUBERGE SINT ETIENNE
+          1	AVENUE DU MARCHE KANYOSHA
+          1	AVENUE KU GITITO ARENA
+          1	AVENUE MURINZI
+          1	AYKA TOURISTIC HOTEL
+          1	Abacus Pharma
+          1	Abanyagihugu
+          1	Academie de Football de Bujumbura
+          1	Accueil
+          1	Accueil de Personnes Vivant avec le VIH/SIDA
+          1	Action d'Appui a l'auto-developpement des personnes handica
+          1	Adventist Church
+          1	Adventiste 7éme jour
+          1	Aerodrtome de Karusi
+          1	Agasaro
+          2	Agasasa
+          1	Agatobwe
+          1	Agatutu K' Abana
+          2	Agence Universitaire de la Francophonie
+          1	Air Burundi
+          5	Akagera
+          1	Akagoma
+         17	Akanyaru
+          1	Al Busmaah Hotel
+          1	Albatross
+          1	Alberta
+          1	Alexestel
+          1	Alfa CD Technologie
+          1	Alimentation BISTAR
+          1	Allee de la confiance
+          1	Alliance Franco-Burundaise
+          1	Allé Ubushingantahe
+          1	Allée Gatete
+          1	Allée Murambi
+          2	Allée Mutoyi
+          1	Allée de l'Espoir
+          1	Allée de la Concertation
+          1	Allée de la Patience
+          1	Allée de la Reconcilliation
+          1	Allée du Rassemblement
+          1	Allée du Redressement
+          1	Allées de Mais
+          1	Alpacino
+          1	Amahoro
+          1	Amajvepfo
+          1	Ambassade EGYPTE
+          1	Ambassade TANZANIE
+          1	Ambassade d'Allemagne
+          1	Ambassade de Belgique
+          1	Ambassade de France
+          1	Ambassade de l'Afrique du Sud
+          1	Ambassade de la République Démocratique du Congo
+          1	Ambassade de la République Rwandaise au Burundi
+          1	Ambassade de la République fédérale d'Allemagne à Bujum
+          1	Ambassade du NIGERIA
+          1	American Friends Service Committee
+          1	Ami de Buringa
+          1	Ancien batiment lycee vugizo
+          1	Ancien palais du roi Mwambutsa
+          1	Ancienne maison du roi
+          1	Ange Shop
+          1	Antenne Gasekebuye
+          1	Antenne Kamesa
+          1	Antenne LEO
+          1	Antenne PNB LMK
+          1	Antenne PNB Mirango II
+          1	Antenne Petit Seminaire
+          1	Antenne Pont Muha
+          1	Antenne Twinyoni Kamenge III
+          2	Apatam
+          1	Apatam Quartier 10
+          1	Apérohero
+          1	Arche Cigale
+          1	Arena
+          1	Arnolac
+          1	Arrêt de bus
+          1	Assemblies of God
+          1	Assemblies of God Fellowship Church
+          1	Association Contre la Pauvreté
+          1	Association IGAA, ASBL
+          1	Association IQRA
+          1	Association Ligue ITEKA (Ligue Burundaise des Droits de l'H
+          1	Association TUBIYAGE
+          1	Association burundaise pour la prise en charge des malades 
+          1	Association de Défense des Droits des Femmes
+          1	Association de Solidarité Twiyungunganye
+          2	Association des Femmes Entrepreneurs du Burundi
+          1	Association des Jeunes pour la non violence active
+          1	Association des Mécaniciens
+          1	Association des refugies pour le développement, laide et l
+          1	Associaton d'Appui Animal
+          1	Assurence SOCAR "Agence de GITEGA"
+          1	At Queens Cafetéria Laboratoire
+          1	Atelier Artisanal CRB, Section Jeunesse Muramvya
+          4	Atelier de Couture
+          1	Atelier de Couture Homboya
+          1	Atelier de Menuiserie
+          2	Atelier de Soudure
+          2	Atelier de menuiserie
+          1	Atelier du couture
+          2	Athénée primaire
+          1	Au Bon Prix
+          1	Au coins de la pyramide
+          1	Aumonerie pentecotiste
+          1	Aurore du Reveil Mondial
+          1	Auto 5
+          1	Autotech
+          1	Avenue 0
+          3	Avenue Banga
+          1	Avenue Beau Site
+          1	Avenue Bel Air
+          1	Avenue Belvedere
+          2	Avenue Belvédère
+          1	Avenue Bisoro
+          1	Avenue Bubanza
+          1	Avenue Bugabiro
+          1	Avenue Bugenyuzi
+          1	Avenue Bukiriro
+          2	Avenue Buragane
+          1	Avenue Bururi
+          2	Avenue Butaganzwa
+          3	Avenue Buyongwe
+          2	Avenue Croix Rouge
+          1	Avenue D'Avril
+          1	Avenue Gasibe
+          1	Avenue Giheta (1ère Avenue)
+          1	Avenue Giheta (2e Avenue)
+          2	Avenue Gihogazi
+          1	Avenue Gihungwe
+          3	Avenue Gisagara
+          1	Avenue Gisozi
+          3	Avenue Gitenge
+          1	Avenue Gitobe
+          1	Avenue Hotel Tanganyika
+          1	Avenue Inkondo
+          1	Avenue Kabarore
+          1	Avenue Kabezi
+          2	Avenue Kagomogomo
+          1	Avenue Kayanza
+          1	Avenue Kibezi
+          1	Avenue Kibira
+          1	Avenue Kibogoye
+          2	Avenue Kibonangoma
+          1	Avenue Kigina
+          1	Avenue Kigira
+          1	Avenue Kigiro
+          1	Avenue Kigunga
+          1	Avenue Kinyami
+          1	Avenue Kinyinya
+          1	Avenue Kiremba
+          1	Avenue Kirika
+          2	Avenue Kivuzangoma
+          1	Avenue Kiyege
+          4	Avenue Kumuciro
+          1	Avenue Kunkiko
+          1	Avenue MUYINGA
+          1	Avenue Mabaya
+          2	Avenue Makamba
+          1	Avenue Martin Luther King
+          4	Avenue Misugi
+          1	Avenue Moso
+          1	Avenue Mpimba
+          1	Avenue Mpinga
+          3	Avenue Muhabo
+          2	Avenue Muhanga
+          1	Avenue Mukarakara
+          1	Avenue Mukuyangoma
+          3	Avenue Mumirwa
+          1	Avenue Muramvya
+          3	Avenue Murembwe
+          1	Avenue Murinzi
+          2	Avenue Musave
+          1	Avenue Mutsinda
+          5	Avenue Muyinga
+          1	Avenue Muyira
+          2	Avenue Muzenga
+          1	Avenue Mwaro
+          1	Avenue Mwungo
+          1	Avenue NYABIHANGA
+          2	Avenue Ndamukiza
+          1	Avenue Ntwarante
+          2	Avenue Nyabiraba
+          1	Avenue Nyabitsindu
+          2	Avenue Nyamugari
+          1	Avenue Nyankoni
+          1	Avenue Nyanza-Lac
+          3	Avenue Nyarugongo
+          1	Avenue Nyuminkwi
+          1	Avenue Pierre Ngendandumwe
+          1	Avenue Ruhuhuma
+          1	Avenue Rukonwe
+          1	Avenue Rurenda
+          1	Avenue Rusama
+          1	Avenue Rutana
+          1	Avenue Ruyigi
+          1	Avenue Ruzizi
+          1	Avenue Rwegura
+          2	Avenue Rweza
+          1	Avenue Rwihinda
+          3	Avenue Sanzu
+          1	Avenue Siguvyaye
+          1	Avenue Source du Nil
+          1	Avenue Waga
+          1	Avenue d'Aout
+          1	Avenue d'Octobre
+          1	Avenue de Foreami
+          1	Avenue de France
+          1	Avenue de Gitega
+          1	Avenue de Grèce
+          5	Avenue de I'OUA
+          1	Avenue de JABE
+          1	Avenue de Jabe
+          1	Avenue de Janvier
+          1	Avenue de Juin
+          2	Avenue de La Revolution
+          1	Avenue de Luxembourg
+          2	Avenue de Mai
+          1	Avenue de Mars
+          1	Avenue de Ngozi
+          1	Avenue de Septembre
+          1	Avenue de l 'Hopital
+          1	Avenue de l'Agriculture
+          1	Avenue de l'Allemagne
+          1	Avenue de l'Amitié
+          1	Avenue de l'Assainissement
+          1	Avenue de l'Hygiène
+          2	Avenue de l'Imbo
+          3	Avenue de l'Imprimerie
+          1	Avenue de l'Industrie
+          1	Avenue de l'Italie
+          1	Avenue de l'ONU
+          1	Avenue de l'UFB
+          1	Avenue de l'Unesco
+          1	Avenue de l'Université
+          2	Avenue de l'eau
+          1	Avenue de l'industrie
+          1	Avenue de la Culture
+          1	Avenue de la Dynastie
+          1	Avenue de la JRR
+          1	Avenue de la Jeunesse
+          1	Avenue de la Justice
+          2	Avenue de la Mission
+          2	Avenue de la Ntahangwa
+          1	Avenue de la Paix
+          3	Avenue de la Plage
+          2	Avenue de la Republique
+          1	Avenue de la Santé
+          2	Avenue de la Solidarité
+          1	Avenue de la Victoire
+          1	Avenue des Acacias
+          1	Avenue des Chènes
+          1	Avenue des Cocotiers
+          1	Avenue des Etats-Unis
+          1	Avenue des Eucalyptus
+          1	Avenue des Euphorbes
+          1	Avenue des Hippopotames
+          1	Avenue des Manguiers
+          1	Avenue des Mimosas
+          1	Avenue des Non Alignés
+          1	Avenue des Orangers
+          1	Avenue des Palmiers
+          1	Avenue des Patriotes
+          4	Avenue des Paysans
+          2	Avenue des Travailleurs
+          1	Avenue du 13 Octobre
+          2	Avenue du 18 Septembre
+          1	Avenue du 5 Fevrier
+          1	Avenue du Cinquantenaire
+          2	Avenue du Commerce
+          1	Avenue du Développement
+          1	Avenue du Juillet
+          4	Avenue du Large
+          1	Avenue du Lycée
+          1	Avenue du Marais
+          1	Avenue du Poisson
+          1	Avenue du RD Congo
+          1	Avenue du Ravin
+          1	Avenue du Stade
+          2	Avenue du lac
+          1	Aérodrome de Gitega
+          1	Aérodrome de Kirundo
+          1	Aérodrome de Ngozi
+          1	Aérodrome de Ruyigi
+          1	Aéroport Gihofi
+          1	B.P.S(bureau Provincial Sécondaire)Alphabetisation
+          1	BAMAKO HOTEL
+          1	BAMAKO RESIDENCE
+          1	BANANA GUEST HOUSE
+          1	BANANA HOUSE HOTEL
+          1	BANCOBU KANYOSHA
+          1	BANGA GUEST HOUSE
+          1	BANYAGIHUGU
+          1	BANYAGIHUGU 2
+          1	BAR 1
+          1	BAR FEE DU LOGIS "HEKENYA"
+          1	BAZE LODGE 1
+          1	BAZE LODGE 2
+          2	BBCI
+          1	BBCI Bank
+          1	BBIN
+          7	BCB
+          2	BCB Bank
+          1	BCB KININDO
+          1	BCB Siege
+          1	BELAIR RESIDENCE
+          1	BELAVISTA HOTEL
+          1	BENITHO GUEST HOUSE
+          1	BEST HOTEL
+          1	BEST NEST NOS SOUVENIRS
+          1	BEST OUTLOOK HOTEL
+          1	BETHE SIDA
+          1	BETHEL
+          1	BETHEL HOTEL
+          1	BETHESIDA
+          1	BETHLEHEM HOTEL
+          1	BEVELVEDER HOTEL
+          1	BEYA'S ( KWA BEYA)
+          1	BGF Agence Avenue du Commerce
+          1	BGF Agence Gatumba
+          1	BGF Agence Orée du Golf
+          1	BGF Gitega
+          1	BGF Guichet BCM
+          1	BGF Guichet BRARUDI
+          1	BGF Guichet Buyenzi
+          1	BGF Guichet port
+          1	BGF Kamaramagambo
+          1	BGF Kayanza
+          1	BGF Makamba
+          1	BGF Muyinga
+          1	BGF Mwaro
+          1	BGF Ngozi
+          1	BGF Rumonge
+          1	BGF Ruyigi
+          1	BGF Siège
+          1	BIA
+          1	BICK
+          1	BICUNDA GUEST HOUSE
+          1	BON SEJOUR HOTEL
+          1	BONHEUR MOTEL
+          1	BONSEJOUR IRAMVYA
+          1	BORA BORA
+          1	BORDER HOTEL
+          1	BPS KIRUNDO
+          1	BRARUDI / International SOS Clinic
+          1	BUBANZA MEDICAL CENTER
+          2	BUBANZA NEW STAR CENTER
+          1	BUBERA
+          1	BUHUMUZA LODGE
+          1	BUKEYENEZA HOTEL
+          2	BUKIRIRO
+          1	BUMEREC
+          1	BUNTU HOTEL
+          1	BUREAU COMMUNAL DE RUSAKA
+          1	BURUNDIANO HOTEL
+          1	BUSERUKO HOTEL
+          1	BUYOYA SCHOOL
+          1	BUYOYA SCHOOL. CENTRE DEFORMATION PROFESSIONNELLE
+          1	Bacs à laver
+          1	Bafuliro (chefferie)
+          1	Bahizi
+          1	Bakashi
+          1	Bake
+          1	Bamba
+          3	Bancobu
+          1	Banda
+          1	Banga
+          1	Banga Guest House
+          1	Bangwe
+          1	Bank BCB
+          1	Banque Nationale Pour le Developpement Economique
+          2	Bar
+          1	Bar 6
+          1	Bar Abakunzi
+          1	Bar Chez Papa Nono
+          1	Bar Kumucamo
+          1	Bar Ombre du Palmier
+          1	Bar Restaurant Le Royal
+          1	Bar buyenzi
+          1	Bar site la famille
+          1	Bar5
+          1	Barrière de gardiens
+          5	Bd. Mutaga
+          4	Bd. de l'Unité
+          1	Belair Residence
+          1	Belgium School
+          1	Belgium school
+          1	Belladone
+          1	Belle image production
+          2	Belvedere
+          1	Benga
+          1	Best Outlook Hotel
+          1	Betaco
+          1	Bethel
+          1	Bethel Hotel
+          1	Bibliotheque de camp
+          1	Bien Etre Social
+          1	Big Dady Saloon
+          1	Biganda
+          1	Bigomogomo
+          1	Bigugo
+          1	Bikinga
+          1	Birambi
+          3	Bisoro
+          2	Bitare
+          1	Biyorwa
+          1	Bladder
+          1	Bld. Mwezi Gisabo
+          2	Bld. de la liberté
+          1	Bld. du 3 Septembre
+          1	Bloc 11
+          1	Bloc 12
+          1	Bloc 13
+          1	Bloc 14
+          1	Bloc 15
+          1	Bloc 16
+          1	Bloc 27
+          1	Bloc 28
+          1	Bloc 29
+          1	Bloc 30
+          1	Bloc 31
+          1	Bloc 32
+          1	Bloc 33
+          1	Bloc 34
+          1	Bloc Administratif Camp Gasorwe
+          1	Bloc Sanitaire CRB
+          1	Blue Light
+          1	Blue Square
+          1	Blues cafè
+          1	Bojo
+          1	Bolingo Ya Sasa
+          2	Bon Gout
+          1	Bonauto
+          2	Bonauto s.a.
+          1	Bonesha FM
+          1	Bora Bora Guesthouse
+          1	Bora Bora beach club
+          1	Border Bugarama - Muganza
+         37	Border Burundi - Rwanda
+          1	Border Gikundamvura - Butare
+          1	Border Iburengerazuba - Amajyepfo
+          1	Botanika Hotel
+          1	Boucherie
+          1	Boucherie Allah Akbar
+          1	Boucherie Ntwengaho
+          2	Boulangerie
+          1	Boulangerie & Patisserie
+          2	Boulevard Mao Tsé Toung
+          5	Boulevard Mwambutsa
+          1	Boulevard Ouest
+          2	Boulevard Patrice Lumumba
+          9	Boulevard de L'Uprona
+          1	Boulevard de La Liberté
+          2	Boulevard de l'Afrique
+          8	Boulevard de l'Indépendance
+          1	Boulevard de l'Unité
+          4	Boulevard de la Nation
+          1	Boulevard de la Tanzanie
+         15	Boulevard du 1 Novembre
+         14	Boulevard du 28 Novembre
+          1	Boulevard du 3 Septembre
+          2	Boulevard du Japon
+          1	Boulevard du Port
+          1	Boulevard du Trionphe
+         21	Boutique
+          1	Boutique Alimentaire
+          1	Boutique East African Community - Chez Mwalimz
+          1	Boutique Momo
+          1	Boutique Nazareti
+          1	Boutique Ntazimba
+          2	Boutique SOPECO
+          1	Boutique Sosumo
+          1	Boutique Take Away
+          1	Boutique Waka Waka
+          2	Brarudi Brewery
+          2	Brigade de Gatumba
+          1	Briquetterie Pascal
+          1	Brussels Airlines
+          3	Bubanza
+          1	Bubenga
+          1	Bubera
+          1	Bucuzi
+          2	Bugabira
+          1	Buganda
+          2	Bugarama
+          1	Bugendajoro
+          1	Bugendana
+          1	Bugeni
+          1	Bugenyuzi
+          1	Bugesera
+          1	Bugoma
+          1	Buhiga
+          2	Buhinyuza
+          2	Buhonga
+          3	Buhoro
+          1	Building Bata
+          1	Building LEO
+          1	Building Ndongozi
+          1	Building Sella
+          1	Buja Online
+          1	Bujacafe
+          1	Bujumbura
+          1	Bujumbura (BJA)
+          1	Bujumbura Bus Station
+          2	Bujumbura International Airport
+          1	Bujumbura International University
+          2	Bujumbura Mairie
+          2	Bujumbura Rural
+          1	Bukamba
+          2	Bukemba
+          2	Bukeye
+          1	Bukinanyana
+          2	Bukirasazi
+          1	Bukiriro
+          1	Bukobe
+          1	Bukuba
+          1	Bunywera
+          1	Buramata
+          2	Burambi
+          3	Buraniro
+          3	Burarana
+          1	Burasira
+          1	Buraza
+          1	Bureau CRB. Branche MURAMVYA
+          1	Bureau CRB. UC BIGANDA
+          1	Bureau CRB. UC BIGANDA-MURAMVYA
+          1	Bureau Communal (Bwiza)
+          1	Bureau Communal C R B MUTAMBARA
+          1	Bureau Communal CRB MUTAMBARA
+          1	Bureau Diocésan
+          1	Bureau Haut Commissariat des Nations Unies pour les Réfugi
+          1	Bureau Postal de Gatumba
+          1	Bureau Postal de Kinindo
+          1	Bureau Privincial
+          1	Bureau Provincial CRB BURURI
+          1	Bureau Provincial Croix Rouge MUYINGA
+          1	Bureau communal de Kamenge
+          1	Bureau de fédération de football du Burundi
+          1	Bureau de l'U.C GATOVU, CRB
+          1	Bureau de l'UC KINAZI
+          1	Bureau de l'UC RUTOKE, CRB
+          1	Bureau de la Coopération Suisse et Agence consulaire
+          1	Bureau des AGRs et de Plomberie
+          1	Bureau des Nations Unies au Burundi
+          1	Bureau du Diocese de Bujumbura
+          1	Bureau postal de Gatumba
+          1	Bureaux PAIOSA
+          1	Burenza
+          1	Buringa
+          1	BuroFlash
+          1	Buruhukiro
+          2	Burundi
+          1	Burundi American International Academy (BAIA)
+          1	Burundi Border Offices
+          1	Burundi Garden (Jewlery)
+          1	Burundi Immigration
+          1	Burundi Oil
+          1	Burundi Trade Centre
+          1	BurundiX
+          3	Bururi
+          1	Bus Stop to Masaga
+          1	Bus Stop to downtown
+          1	Busaga
+          1	Busanze
+          3	Busiga
+          1	Business from Africa
+          3	Busoni
+          1	Busoro
+          1	Busy Shop
+          3	Buta
+          2	Butaganzwa
+          1	Butahana
+          1	Butambuka
+          2	Butare
+          1	Butarugera
+          1	Butegana
+          1	Butemba
+          2	Buterere
+          1	Butezi
+          2	Butihinda
+          1	Butora
+          2	Butwe
+          1	Buyagira
+          1	Buye
+          2	Buyenzi
+          1	Buyogoma
+          3	Buyongwe
+          1	Buyumpu
+          1	Buzigo
+          1	Buzimba
+          1	Buziragahama
+          1	Bwagiriza
+          2	Bwambarangwe
+          1	Bwashisha
+          2	Bwatemba
+          1	Bwegera
+          1	Bweru
+          1	Bweyeye
+          1	Bwirukiro
+          1	Bwiza
+          1	Bwiza Jabe
+          1	Bwuje
+          1	C.E.M.C.I.
+          1	C.M.C.k
+          1	CABARA
+          1	CADDIS FANNE G H
+          1	CAMARADE GUEST HOUSE
+          1	CAMPANIL GUEST HOUSE
+          1	CAMUGANI HOTEL
+          1	CATB
+          1	CATHOLIC RELIEF SERVICES
+          1	CAVANICA
+          1	CCMUSAGA
+          1	CD REMESHA
+          1	CDF
+          1	CDS ABCMAV
+          1	CDS ACVS
+          1	CDS ADV DU 7 EME JOUR
+          1	CDS AFYA
+          3	CDS AGAKIZA
+          1	CDS AGAKIZA DE MAHANDE
+          1	CDS ALIBU
+          1	CDS AMAGARA MEZA IWACU
+          1	CDS AMAGARA NI IKINDI
+          3	CDS AMAHORO
+          1	CDS AMAHORO DE MUNYIKA
+          1	CDS AMANI
+          1	CDS AMI DE BURINGA
+          1	CDS AMI DES MALADES
+          1	CDS Ami des Malades
+          1	CDS B JONAS
+          1	CDS BAMBA
+          1	CDS BAMBO
+          1	CDS BANGA
+          1	CDS BETHLEHEM
+          1	CDS BETHSAIDA
+          1	CDS BIBARA
+          1	CDS BIGERA
+          1	CDS BIGOMOGOMO
+          1	CDS BIHANGA
+          1	CDS BIKANKA
+          1	CDS BIRIMBA
+          1	CDS BISIGA
+          1	CDS BISINDE
+          1	CDS BISORO
+          1	CDS BITARE
+          1	CDS BIYORWA
+          1	CDS BIZIYA
+          1	CDS BONERO
+          1	CDS BORA UZIMA
+          1	CDS BORA UZIMA II
+          1	CDS BUANZA I
+          1	CDS BUBANZA II
+          1	CDS BUCANA
+          1	CDS BUGANDA ADVENTISTE
+          2	CDS BUGARAMA
+          1	CDS BUGENDANA
+          1	CDS BUGENI
+          1	CDS BUGENYUZI
+          1	CDS BUGINA
+          1	CDS BUGORORA
+          1	CDS BUHAYIRA
+          1	CDS BUHEKA
+          1	CDS BUHIGA
+          1	CDS BUHINDA
+          1	CDS BUHINDO
+          1	CDS BUHINDYE
+          1	CDS BUHINGA
+          1	CDS BUHONGA
+          1	CDS BUHORANA
+          3	CDS BUHORO
+          1	CDS BUKEMBA
+          2	CDS BUKEYE
+          1	CDS BUKEYE 2
+          1	CDS BUKINGA
+          1	CDS BUKIRASAZI
+          3	CDS BUKIRIRO
+          1	CDS BUKIRIRO RUGARA
+          1	CDS BUKORO
+          1	CDS BUMBA
+          1	CDS BUNGERE
+          1	CDS BUNYARI
+          1	CDS BUNYUKA
+          1	CDS BURAMATA
+          1	CDS BURANIRO
+          1	CDS BURARA
+          1	CDS BURARANA
+          1	CDS BURASIRA
+          1	CDS BURAZA
+          1	CDS BURIMA
+          2	CDS BURUHUKIRO
+          1	CDS BURURI
+          2	CDS BUSANGANA
+          1	CDS BUSERUKO
+          1	CDS BUSESA
+          1	CDS BUSIGA
+          1	CDS BUSORO
+          1	CDS BUTA
+          1	CDS BUTAHANA
+          1	CDS BUTANUKA
+          1	CDS BUTARA
+          1	CDS BUTARE
+          1	CDS BUTERERE I
+          1	CDS BUTERERE II
+          2	CDS BUTEZI
+          2	CDS BUTIHINDA
+          1	CDS BUTWE
+          1	CDS BUVYUKO
+          1	CDS BUYE
+          1	CDS BUZIRACANDA
+          1	CDS BUZIRAGAHAMA
+          1	CDS BUZIRASAZI
+          1	CDS BWASARE
+          1	CDS BWATEMBA
+          1	CDS BWIRUKIRO
+          1	CDS BWIZA JABE
+          1	CDS Banga
+          1	CDS Benga
+          1	CDS Bethel
+          1	CDS Bigomogomo
+          1	CDS Birimba
+          1	CDS Bubera
+          1	CDS Bugarama
+          1	CDS Bugeni
+          1	CDS Buhayira
+          1	CDS Bukemba
+          2	CDS Bukeye
+          2	CDS Bukeye II
+          1	CDS Burarana
+          1	CDS Burima Public
+          1	CDS Busangana
+          1	CDS Butahana
+          1	CDS Butare
+          1	CDS Butwe
+          1	CDS Buziracanda
+          1	CDS CABARA
+          1	CDS CAHI
+          1	CDS CAMAKOMBE
+          1	CDS CAMAZI
+          1	CDS CAMP CONGOLAIS
+          1	CDS CAMPS MUSASA
+          1	CDS CANDA
+          1	CDS CANKUZO
+          1	CDS CASHI
+          1	CDS CENDAJURU
+          1	CDS CENTRE MEDICAL HIPPOCRATE
+          1	CDS CERU
+          1	CDS CEYEREZI
+          1	CDS CIBITOKE
+          1	CDS CIYA
+          2	CDS COMMUNAUTAIRE
+          1	CDS COMMUNAUTAIREDEMUYANGE
+          1	CDS CONA
+          1	CDS CONDI
+          1	CDS CROIX ROUGE
+          1	CDS CUBAHIRO
+          1	CDS CUMBA
+          1	CDS CUMVA
+          1	CDS Cankuzo
+          1	CDS DAGROPASS AMAGARA NIKINDI
+          1	CDS DON BENI
+          1	CDS DON CESAR
+          1	CDS DON DE DIEU
+          1	CDS DON DIVIN
+          1	CDS DON HERITIER
+          1	CDS DON PASCAL
+          1	CDS DUNGA
+          1	CDS DUSENGA
+          1	CDS DUSHIME
+          1	CDS DUTWE
+          1	CDS EBENEZER SHALOM
+          2	CDS EDEN
+          1	CDS ESPOIR KIRA
+          1	CDS EXCELLENCE
+          1	CDS FOTA
+          1	CDS FRATERNITE
+          1	CDS Fota
+          1	CDS GAHABURA
+          1	CDS GAHABWA
+          1	CDS GAHAGO
+          1	CDS GAHAHE
+          1	CDS GAHANDU
+          2	CDS GAHARARO
+          1	CDS GAHARO
+          1	CDS GAHOMBO
+          1	CDS GAHORORO
+          1	CDS GAKANA
+          1	CDS GAKECERI
+          1	CDS GAKENKE
+          1	CDS GAKERE
+          1	CDS GAKUNGU
+          1	CDS GASAKUZA
+          1	CDS GASAMANZUKI
+          1	CDS GASANDA
+          2	CDS GASENYI
+          1	CDS GASENYI II
+          1	CDS GASENYII
+          1	CDS GASEZERWA
+          1	CDS GASHIKANWA
+          1	CDS GASHIRWE
+          1	CDS GASHOHO
+          1	CDS GASORWE
+          1	CDS GASUNU
+          2	CDS GASURA
+          2	CDS GATABO
+          1	CDS GATAKAZI
+          1	CDS GATARA
+          1	CDS GATETE
+          2	CDS GATOBO
+          1	CDS GATONDE
+          1	CDS GATSINDA
+          1	CDS GATUMBA
+          2	CDS GATWE
+          1	CDS GENNESARETH
+          1	CDS GIHANGA
+          1	CDS GIHARO
+          2	CDS GIHETA
+          1	CDS GIHOFI
+          1	CDS GIHOGAZI
+          1	CDS GIHUNGWE
+          1	CDS GIKO
+          1	CDS GIKOMBE
+          2	CDS GIKOMERO
+          1	CDS GIKUZI
+          1	CDS GISABAZUBA
+          2	CDS GISANZE
+          1	CDS GISENYI
+          1	CDS GISHA
+          1	CDS GISHIHA
+          1	CDS GISHINGANO
+          1	CDS GISHUBI
+          1	CDS GISHUNGO
+          1	CDS GISIKARA
+          1	CDS GISIMBAWAGA
+          1	CDS GISITYE
+          1	CDS GISOVU
+          1	CDS GISOZI
+          1	CDS GISUKA
+          1	CDS GISURU
+          1	CDS GITABA
+          3	CDS GITANGA
+          2	CDS GITARA
+          2	CDS GITARAMUKA
+          1	CDS GITARE
+          1	CDS GITAZA
+          1	CDS GITEGA
+          1	CDS GITERANYI
+          1	CDS GITOBE
+          1	CDS GITONGO
+          1	CDS GITSIRO
+          1	CDS GITWENGE
+          1	CDS Gahabwa
+          1	CDS Gahago
+          1	CDS Gakenke
+          1	CDS Gakungu
+          1	CDS Gakwende;CDS GAKWENDE
+          1	CDS Gasakuza
+          1	CDS Gasorwe
+          1	CDS Gatabo
+          1	CDS Gatara
+          1	CDS Gatete
+          1	CDS Giharo
+          1	CDS Gihungwe
+          1	CDS Giko
+          1	CDS Gikomero
+          1	CDS Gisanze
+          1	CDS Gisozi
+          1	CDS Gitanga
+          1	CDS Gitara
+          1	CDS Gitaza
+          1	CDS Gitsiro
+          1	CDS Gitwenge
+          1	CDS HAKORAMAGARA HELTH CENTER
+          1	CDS HARAGAKIZA
+          1	CDS HILFE
+          1	CDS HOP'S GOD CENTER
+          1	CDS HOREZO
+          2	CDS HUMURA
+          1	CDS HUMURE
+          1	CDS Humure
+          1	CDS IJENDA
+          1	CDS IKOBERO
+          1	CDS IMISUHUKO
+          1	CDS IRISHURA
+          1	CDS ISLAMIQUE DE KAYANZA
+          1	CDS IWABO N UBUNTU
+          5	CDS IZERE
+          1	CDS Ijenda
+          1	CDS JENE
+          1	CDS JERUSALEM
+          1	CDS JIMBI
+          1	CDS Jene
+          1	CDS Jimbi
+          3	CDS KABANGA
+          1	CDS KABARORE
+          1	CDS KABEZI
+          1	CDS KABONGA
+          1	CDS KABURANTWA
+          1	CDS KABUYE I
+          1	CDS KABUYEII
+          1	CDS KABUYENGE
+          1	CDS KADEYO
+          1	CDS KAGARI
+          1	CDS KAGONGO
+          1	CDS KAGOZI
+          1	CDS KAJABURE
+          1	CDS KAJONDI
+          2	CDS KAMARAMAGAMBO
+          1	CDS KANAMA
+          1	CDS KANANIRA
+          1	CDS KANIGA
+          1	CDS KANKA
+          1	CDS KANKIMA
+          1	CDS KANYAMI
+          1	CDS KANYANGE
+          1	CDS KANYINYA
+          2	CDS KARINZI
+          1	CDS KAROBA
+          1	CDS KARONDA I
+          1	CDS KARONDA II
+          1	CDS KARUSI
+          1	CDS KAVOGA
+          1	CDS KAVUMWE
+          1	CDS KAYANZA
+          1	CDS KAYENZI
+          1	CDS KAYERO
+          1	CDS KAYOGORO
+          1	CDS KAYOGORO 2
+          1	CDS KAYONGOZI
+          2	CDS KAZE
+          1	CDS KAZIRABAGENI
+          1	CDS KIBARIBARI
+          1	CDS KIBAZI
+          1	CDS KIBEZI
+          4	CDS KIBIMBA
+          1	CDS KIBONGERA
+          1	CDS KIBUMBU
+          1	CDS KIBUNGERE
+          1	CDS KIBUYE
+          2	CDS KIDASHA
+          3	CDS KIGAMBA
+          1	CDS KIGANDA
+          1	CDS KIGARIKA
+          1	CDS KIGOGANYA
+          1	CDS KIGOMERO
+          1	CDS KIGONGO
+          1	CDS KIGOZI
+          1	CDS KIGUHU
+          1	CDS KIGWENA I
+          1	CDS KIGWENA II
+          1	CDS KIMEZA
+          1	CDS KIMINA
+          3	CDS KINAMA
+          1	CDS KINANIRA
+          1	CDS KINAZI
+          3	CDS KINYAMI
+          1	CDS KINYINYA
+          1	CDS KINYOVU
+          1	CDS KINZANZA
+          5	CDS KIRA
+          1	CDS KIRA DE JABE
+          1	CDS KIRA NEZA
+          1	CDS KIRA URAGAKIRA
+          2	CDS KIRAMBI
+          1	CDS KIRAMIRA
+          1	CDS KIRANDA
+          1	CDS KIREKURA
+          2	CDS KIREMBA
+          1	CDS KIRENGANE
+          1	CDS KIRI
+          1	CDS KIRIMBI
+          1	CDS KIRIRI
+          1	CDS KIROMBWE
+          1	CDS KIRUNDO
+          1	CDS KIRURI
+          1	CDS KIRYAMA
+          4	CDS KIVOGA
+          1	CDS KIVUBO
+          1	CDS KIVUMVU
+          1	CDS KIVYUKA
+          1	CDS KIYANGE
+          1	CDS KIYANZA
+          1	CDS KIYENZI
+          1	CDS KIYONZA
+          1	CDS KIZI
+          1	CDS KIZUGA
+          1	CDS KIZUKA
+          1	CDS KOMERA
+          1	CDS KOMEZA GUSENGA
+          2	CDS KORINEZA
+          1	CDS KWISUMO
+          2	CDS KWIZERA
+          1	CDS Kabanga
+          1	CDS Kabarore
+          1	CDS Kabesi
+          1	CDS Kabonga
+          1	CDS Kajabure
+          1	CDS Kamenge
+          1	CDS Kanka
+          1	CDS Kanyami
+          1	CDS Kanyosha
+          1	CDS Karonda I
+          1	CDS Kayero
+          1	CDS Kazirabageni
+          1	CDS Kibaribari
+          1	CDS Kibimba
+          1	CDS Kibuka
+          1	CDS Kibumbu
+          1	CDS Kibungere
+          1	CDS Kigamba
+          1	CDS Kiganda
+          1	CDS Kighrika
+          1	CDS Kigobe
+          1	CDS Kiguhu
+          1	CDS Kinama
+          1	CDS Kinzanza
+          1	CDS Kiremba
+          1	CDS Kiruri
+          1	CDS Kiryama
+          2	CDS Kivoga
+          1	CDS Kivubo
+          1	CDS Korineza
+          1	CDS LA CHARIT?
+          1	CDS LA GLOIRE
+          1	CDS LA GUERISON
+          1	CDS LA MISERICORDE
+          2	CDS LA REPONSE
+          1	CDS LA SAGESSE
+          1	CDS LA VERTU
+          2	CDS LA VIE
+          1	CDS LAPATIENCE DE MUSENYI
+          1	CDS LE MESSAGER
+          1	CDS LE QUINQUINA
+          1	CDS LE SACRIFICE
+          2	CDS LE SAUVEUR
+          1	CDS LIFE CLINIC
+          1	CDS LUMI?RE
+          1	CDS LUMIERE
+          1	CDS La Patience
+          1	CDS MABANDA 1
+          1	CDS MABANDA 2
+          1	CDS MABANDA 3
+          1	CDS MABANDA 4
+          1	CDS MABAYI
+          1	CDS MAGARA I
+          1	CDS MAGARA III
+          1	CDS MAGEYO
+          1	CDS MAGO
+          1	CDS MAHWA
+          1	CDS MAIN SAUVEUR
+          1	CDS MAKABA
+          1	CDS MAKAMBA
+          1	CDS MAKEBUKO
+          1	CDS MANDA
+          4	CDS MARAMVYA
+          1	CDS MAREMBO
+          1	CDS MARIE MERE DE LA VIE
+          1	CDS MARIYA MWIZA
+          1	CDS MARIZ A
+          1	CDS MARTYAZO
+          1	CDS MARUMANE
+          1	CDS MASABO
+          2	CDS MASAKA
+          1	CDS MASANGO
+          1	CDS MASARE
+          1	CDS MATANA
+          1	CDS MATARA
+          1	CDS MATONGO
+          1	CDS MAYANGE
+          1	CDS MAYENGO
+          1	CDS MAYUYU
+          2	CDS MBOGORA
+          1	CDS MICHEL
+          1	CDS MICHEL ANGE
+          1	CDS MIHIGO
+          1	CDS MIKA
+          1	CDS MINAGO
+          1	CDS MINYARE
+          1	CDS MIREMERA
+          1	CDS MIRUKIRO
+          1	CDS MIRWA
+          1	CDS MISAS?
+          1	CDS MISUHUKO
+          1	CDS MITAKATAKA
+          1	CDS MIVO
+          1	CDS MON CALME
+          1	CDS MPANDA
+          1	CDS MPARAMIRUNDI
+          2	CDS MPINGA
+          1	CDS MPUNGE
+          1	CDS MUBANGA II
+          1	CDS MUBAVU
+          1	CDS MUBERURE
+          1	CDS MUBIMBI
+          2	CDS MUBIRA
+          1	CDS MUBOGORA
+          1	CDS MUBONE
+          4	CDS MUBUGA
+          1	CDS MUDENDE
+          1	CDS MUGABEKAZI W AMAHORO
+          1	CDS MUGAMBA
+          1	CDS MUGANO
+          1	CDS MUGARA I
+          1	CDS MUGARURO
+          1	CDS MUGEGE
+          1	CDS MUGENI
+          1	CDS MUGERA
+          1	CDS MUGINA
+          1	CDS MUGOGO
+          1	CDS MUGOMERA
+          1	CDS MUGONGO
+          1	CDS MUHAFU
+          1	CDS MUHAMA
+          1	CDS MUHANGA II
+          1	CDS MUHANGA1
+          1	CDS MUHEKA
+          1	CDS MUHUNGU
+          1	CDS MUHUTA
+          1	CDS MUHUZU
+          1	CDS MUHWAZI
+          1	CDS MUHWEZA
+          1	CDS MUKENKE
+          1	CDS MUKERWA
+          1	CDS MUKIZA
+          1	CDS MUKIZA MWIZA
+          1	CDS MUKOMERE
+          1	CDS MUKONKO
+          1	CDS MUKUNGU
+          1	CDS MUNAGANO
+          1	CDS MUNAGO
+          1	CDS MUNANIRA
+          1	CDS MUNEZERO
+          1	CDS MUNGWA
+          1	CDS MUNINI
+          1	CDS MUNYINYA
+          1	CDS MUNZENZE
+          2	CDS MURAGO
+          1	CDS MURAMA
+          3	CDS MURAMBA
+          3	CDS MURAMBI
+          1	CDS MURAMVYA
+          1	CDS MURAYI
+          2	CDS MUREHE
+          1	CDS MURENDA
+          1	CDS MURENGE
+          1	CDS MURENGEZA
+          1	CDS MURESI
+          1	CDS MURIMA
+          1	CDS MURIZA
+          2	CDS MURORE
+          1	CDS MURUNGURIRI
+          1	CDS MURWI
+          1	CDS MUSAGARA
+          1	CDS MUSAMA
+          1	CDS MUSASA
+          1	CDS MUSAVE
+          1	CDS MUSAVE PUBLIC
+          2	CDS MUSENO
+          1	CDS MUSENYI
+          1	CDS MUSENYI AGREER
+          1	CDS MUSENYI PUBLIC
+          1	CDS MUSHASHA
+          1	CDS MUSIGATI
+          1	CDS MUSINZIRA
+          1	CDS MUSONGATI
+          1	CDS MUSUMBA
+          1	CDS MUTABAZI
+          1	CDS MUTAHO
+          1	CDS MUTAKURA
+          1	CDS MUTAMBARA
+          1	CDS MUTAMBU
+          1	CDS MUTOBO
+          1	CDS MUTOYI
+          2	CDS MUTUMBA
+          1	CDS MUYAGA
+          1	CDS MUYAMA
+          3	CDS MUYANGE
+          2	CDS MUYEBE
+          1	CDS MUYINGA
+          1	CDS MUYIRA
+          1	CDS MUZENGA
+          1	CDS MUZENGA II
+          1	CDS MUZINDA
+          1	CDS MUZYE
+          1	CDS MVUGO
+          1	CDS MWAKIRO
+          1	CDS MWARO
+          2	CDS MWUMBA
+          1	CDS MWUNGERE
+          1	CDS Makamba
+          1	CDS Maramvya
+          1	CDS Mariza
+          1	CDS Marumane
+          1	CDS Masezerano
+          1	CDS Matana
+          1	CDS Michel
+          1	CDS Minago
+          1	CDS Mirango I
+          1	CDS Misaba
+          1	CDS Mpinga
+          1	CDS Mubogora
+          1	CDS Mubuga
+          1	CDS Mudende
+          1	CDS Mugamba
+          1	CDS Mugara
+          1	CDS Mugongo
+          1	CDS Muhafu
+          1	CDS Muhanga II
+          1	CDS Muhuzu
+          1	CDS Mukungu
+          1	CDS Munago
+          1	CDS Munanira
+          1	CDS Munezero
+          1	CDS Munyinya
+          1	CDS Murenge
+          1	CDS Muresi
+          1	CDS Murore
+          1	CDS Murwi
+          1	CDS Musave
+          1	CDS Museno
+          1	CDS Musongati
+          1	CDS Mutabazi
+          1	CDS Mutambara
+          2	CDS Mutambu
+          1	CDS Muyaga
+          1	CDS Muyange
+          1	CDS Muzitida
+          1	CDS Muzye
+          1	CDS Mvugo
+          1	CDS Mwumba
+          1	CDS Myange
+          1	CDS NAZARETH
+          1	CDS NDAGANO
+          1	CDS NDAGO
+          3	CDS NDAVA
+          1	CDS NDIHWE
+          1	CDS NDORA
+          1	CDS NDORA BURUNDI
+          1	CDS NDORA IZERE
+          2	CDS NEMA
+          1	CDS NGAGARA
+          2	CDS NGARA
+          2	CDS NGOMA
+          2	CDS NGOMO
+          1	CDS NGORO
+          1	CDS NGOZI
+          2	CDS NINGA
+          1	CDS NIYONKURU
+          1	CDS NKANDA
+          1	CDS NKORERINEZA
+          2	CDS NONWE
+          1	CDS NOTRE DAME D AFRIQUE
+          1	CDS NOTRE MERE DE LA MISERCOLDE
+          1	CDS NTAMBA
+          1	CDS NTASEKA
+          1	CDS NTEGA
+          1	CDS NTITA
+          2	CDS NTUNDA
+          1	CDS NYABIBONDO
+          1	CDS NYABIBUYE
+          1	CDS NYABIGINA
+          1	CDS NYABIHANGA
+          1	CDS NYABIHOGO
+          1	CDS NYABIKENKE
+          1	CDS NYABIKERE
+          1	CDS NYABIRABA
+          1	CDS NYABISAKA
+          1	CDS NYABITARE
+          1	CDS NYABITSINDA
+          1	CDS NYABKENKE
+          1	CDS NYABRABA
+          1	CDS NYABUGIMBU
+          1	CDS NYAGAHARA
+          1	CDS NYAGASAKA
+          1	CDS NYAGASASA
+          3	CDS NYAGATOVU
+          1	CDS NYAGIHOTORA
+          1	CDS NYAGISOZI
+          1	CDS NYAGUTOHA
+          1	CDS NYAKABUGU
+          1	CDS NYAKARAMBO
+          1	CDS NYAKARARO
+          1	CDS NYAKARAYE
+          1	CDS NYAKUGUMA
+          1	CDS NYAMABUYE
+          1	CDS NYAMAGANA
+          1	CDS NYAMAGANDIKA
+          1	CDS NYAMAKARABO
+          1	CDS NYAMAROBE
+          1	CDS NYAMISAGARA
+          1	CDS NYAMITANGA
+          3	CDS NYAMUGARI
+          1	CDS NYAMURE
+          1	CDS NYAMURENZA
+          2	CDS NYANGE
+          1	CDS NYANGWA
+          1	CDS NYANKANDA
+          1	CDS NYANTAKARA I
+          1	CDS NYANTAKARA II
+          1	CDS NYANTOBO
+          1	CDS NYARUCAMO
+          1	CDS NYARUGANDA
+          1	CDS NYARUHINDA
+          1	CDS NYARUMANGA
+          4	CDS NYARUNAZI
+          1	CDS NYARUNTANA
+          1	CDS NYARURAMA
+          2	CDS NYARURAMBI
+          1	CDS NYARUSANGE
+          1	CDS NYARUSEBEYI
+          1	CDS NYAVYAMO
+          1	CDS NYEMBUYE
+          1	CDS NYENZI
+          1	CDS NYOTA
+          1	CDS NYUNGU
+          1	CDS NYURO
+          1	CDS NZEWE
+          1	CDS NZOVE
+          1	CDS Ndago
+          1	CDS Nema Rumonge
+          1	CDS Ngagara
+          1	CDS Ngoma
+          1	CDS Notre Mère de la Miséricorde
+          1	CDS Nyabibondo
+          1	CDS Nyabigina
+          1	CDS Nyagahara
+          1	CDS Nyagasaka
+          1	CDS Nyagasasa
+          1	CDS Nyagatovu
+          1	CDS Nyamakarabo
+          1	CDS Nyamugari
+          1	CDS Nyamure
+          1	CDS Nyangihotora
+          2	CDS Nyantozo
+          1	CDS Nyavyamo
+          1	CDS Nyembuye
+          1	CDS Nyuro
+          1	CDS Nzewe
+          1	CDS OPHTALMOLOGIE
+          1	CDS PENIEL
+          1	CDS PERA
+          1	CDS PRISON RUTANA
+          1	CDS Prison de Muramvya
+          2	CDS RABIRO
+          1	CDS RAMBA
+          1	CDS RAMUTSA
+          1	CDS RANGO
+          1	CDS REFERENCE
+          1	CDS REHOBOTH
+          3	CDS REMA
+          1	CDS REMA MUGENZI
+          1	CDS REMERA
+          3	CDS REMESHA
+          1	CDS RENGA
+          1	CDS RIMBO
+          1	CDS RONGERO
+          1	CDS RORERO
+          1	CDS RUBANDA
+          2	CDS RUBIRIZI
+          1	CDS RUBONE
+          1	CDS RUBURA
+          1	CDS RUCE
+          1	CDS RUDARAZA
+          1	CDS RUGABANO
+          1	CDS RUGANIRA
+          1	CDS RUGANO
+          2	CDS RUGARI
+          1	CDS RUGASA
+          3	CDS RUGAZI
+          1	CDS RUGOMBO
+          2	CDS RUGONGO
+          1	CDS RUGUNGA
+          1	CDS RUGWIZA
+          1	CDS RUHAGARIKA
+          1	CDS RUHANDO
+          1	CDS RUHANZA
+          1	CDS RUHEHE
+          1	CDS RUHINGA
+          1	CDS RUHORA
+          1	CDS RUHORORO
+          1	CDS RUHORORO;Ruhororo
+          2	CDS RUHUKA
+          1	CDS RUKAGO
+          1	CDS RUKAMBA
+          1	CDS RUKANA
+          1	CDS RUKARAMU
+          1	CDS RUKECO
+          1	CDS RUKINA
+          1	CDS RUKURAMIGABO
+          1	CDS RUMEZA
+          1	CDS RUMONGE
+          1	CDS RURAMA
+          1	CDS RURAMBA
+          1	CDS RURANGA
+          1	CDS RURIMBI
+          1	CDS RUSAGARA
+          1	CDS RUSAMAZA
+          1	CDS RUSARENDA
+          1	CDS RUSENDA
+          1	CDS RUSENGO
+          1	CDS RUSHIHA
+          1	CDS RUSHUBI
+          1	CDS RUSHUBIJE
+          1	CDS RUSI
+          1	CDS RUSIGABANGAZI
+          1	CDS RUSUNU
+          1	CDS RUTABO
+          1	CDS RUTANA
+          1	CDS RUTARE
+          1	CDS RUTEGAMA
+          1	CDS RUTOKI
+          1	CDS RUTONGANIKWA
+          1	CDS RUTONGO
+          1	CDS RUTORERO
+          1	CDS RUTOVU
+          1	CDS RUTSINDU
+          1	CDS RUTUMO
+          1	CDS RUTYAZO
+          1	CDS RUVUGA
+          1	CDS RUVUMVU
+          3	CDS RUYAGA
+          1	CDS RUYANGE
+          1	CDS RUYIGI
+          1	CDS RUZIBA
+          1	CDS RUZO
+          1	CDS RWABIRIRO
+          1	CDS RWEGURA
+          2	CDS RWEZA
+          1	CDS RWIBAGA
+          1	CDS RWINTARE
+          1	CDS RWISABI
+          1	CDS RWUYA
+          1	CDS RYAMUKONA
+          1	CDS RYANSORO
+          1	CDS RYARUSERA
+          1	CDS Rango
+          1	CDS Renga
+          1	CDS Rimbo
+          1	CDS Rugari
+          1	CDS Rugazi
+          1	CDS Rugombo
+          1	CDS Rugunga
+          1	CDS Ruhora
+          1	CDS Ruhuka
+          1	CDS Rumonge
+          1	CDS Ruramba
+          1	CDS Ruranga
+          1	CDS Rusaka;CDS RUSAKA
+          1	CDS Rusigabangazi
+          1	CDS Rutana Croix-Rouge
+          1	CDS Rutongo
+          1	CDS Rutumo
+          1	CDS Ruvumvu
+          1	CDS Ruziba
+          1	CDS Rwibaga
+          1	CDS Rwintare
+          1	CDS Ryarusera
+          1	CDS SABUNDA
+          1	CDS SAGARA
+          1	CDS SAINT AIMABLE
+          1	CDS SAINT BERTRANT
+          1	CDS SAINT JUSTIN
+          1	CDS SAINT PHILIPPE
+          1	CDS SAINTE TRINITE
+          1	CDS SALAMA
+          1	CDS SALEM
+          1	CDS SANTA TERESINA
+          4	CDS SANTE POUR TOUS
+          1	CDS SEHE
+          1	CDS SHALOM
+          1	CDS SHANGA
+          1	CDS SHANGO
+          1	CDS SHIKA
+          1	CDS SHIMA
+          1	CDS SHINGE
+          2	CDS SHOMBO
+          1	CDS SHORE
+          1	CDS SHUMBA
+          1	CDS SIGU
+          1	CDS SONGA
+          1	CDS SORERO
+          1	CDS SOROREZO
+          1	CDS SOS CIBITOKE
+          1	CDS SOSADA
+          1	CDS SOSUMO
+          1	CDS SOURCE DE VIE
+          1	CDS SPD TENGA
+          1	CDS ST AUBIN
+          1	CDS ST DAVID
+          1	CDS ST GEOGRE
+          1	CDS ST KIZITO
+          1	CDS ST LUC
+          1	CDS ST MICHEL
+          1	CDS ST SAUVEUR
+          1	CDS STE ISIDORA
+          2	CDS SUHUKA
+          1	CDS SWABRINA
+          1	CDS Saint Phillipe Busaga
+          1	CDS Santé Pour Tous
+          1	CDS Shanga
+          1	CDS Shika
+          1	CDS Shima
+          1	CDS Shumba
+          1	CDS St Michel
+          1	CDS Swabrina
+          1	CDS TABA I
+          1	CDS TABARA
+          1	CDS TABARUKA
+          1	CDS TEZA
+          1	CDS TONGA
+          1	CDS TURA
+          1	CDS TURISANZE
+          1	CDS TWINKWAVU
+          2	CDS TWIZERE
+          1	CDS Tabaruka
+          1	CDS Twinkwavu
+          1	CDS UBUVUKANYI
+          1	CDS UBUZIMA
+          1	CDS UMOJA NI NGUVU
+          2	CDS UMUCO
+          1	CDS UMWIZERO
+          1	CDS UMWIZERO DE MIKASHU
+          1	CDS UNITE DU MARCHE DE MATANA
+          1	CDS Ubuvukamyi
+          1	CDS VE MUMAZU IVUZE
+          1	CDS VISION PLUS
+          1	CDS VISION SANTE
+          1	CDS VUGIZO
+          1	CDS VUMBI
+          1	CDS VYANZO
+          3	CDS VYIZIGIRO
+          1	CDS VYIZIGIRO/KARONGE
+          1	CDS VYUYA
+          2	CDS Vyuya
+          1	CDS YANZA
+          1	CDS communautaire de Bukeye
+          1	CDSMIRANGOI
+          1	CECINGA
+          1	CELEXON
+          1	CEMADIF
+          1	CENT MEDICAL STE REGINE
+          1	CENTRE BENE THERESIYA
+          1	CENTRE D'ACCEUIL RUYIGI
+          1	CENTRE DE SANTE ESPOIR
+          1	CENTRE DE SOIN DU PORT DE BUJUMBURA
+          1	CENTRE DE SOINS
+          1	CENTRE DE SOINS BRARUDI
+          1	CENTRE MEDICA SAINTPIERRE
+          1	CENTRE MEDICAL DON DE DIEU
+          1	CENTRE MEDICAL MART ROBIN
+          1	CENTRE MEDICAL MUSINZIRA
+          1	CENTRE MEDICAL SOS
+          2	CENTRE PASTORAL
+          1	CENTRE SOCIO-MEDICAL SOS
+          1	CEPBU
+          1	CEPRODILIC
+          1	CESABU
+          1	CESAKIM
+          1	CHAIRE UNESCO
+          1	CHALET LA CONCORDE HOTEL
+          1	CHEZ AZOTE
+          1	CHEZ LES AMIS
+          1	CHEZ MUTAMA
+          1	CHEZ NESTOR
+          1	CHEZ SANANIYE
+          1	CICR
+          1	CITY GUEST HOUSE
+          1	CITY HILL HOTEL
+          1	CITY LODGE
+          1	CITY OF PEACE
+          1	CLINIC KIGUTU
+          1	CLUB DU LAC TANGANYIKA
+          1	CMC BUYENZI
+          1	CMPK
+          1	CNDD-FDD
+          1	CNRSP Handicap
+          1	COIN DE L'UNIVERS
+          2	COOPEC
+          1	CRDB
+          1	CROIX ROUGE
+          1	CS BRARUDI
+          2	Cabaret
+          1	Cabaret Fidélité
+          1	Cabinet de Pathologie Digestive et Nutrition - CAPADIN
+          1	Cabinet médical des généralistes
+          1	Cabuye II
+          1	Cadillac Snack Bar
+          1	Cafe Bambou
+          8	Cafétéria
+          1	Cafétéria Clinique de la Soif
+          1	Cafétéria Eden
+          1	Cafétéria God of Victory
+          1	Cafétéria In God We Trust
+          1	Cafétéria La Lumière
+          1	Cafétéria Les Herbes
+          1	Cafétéria Petit Déjeuner
+          1	Cafétéria Rehoboth
+          1	Cafétéria Warehouse
+          1	Cafétéria Yesu Yaruguruye
+          1	Cagizo
+          2	Camazi
+          1	Cameo
+          1	Camp Muha
+          2	Camp de réfugiés de Kavumu
+          2	Campus Universitaire de Kamenge
+          1	Canda
+          1	Canika
+          4	Cankuzo
+          1	Carama
+          1	Casino
+          1	Catedral catolique
+          1	Cathedrale de Ngozi
+          1	Cathédrale
+          1	Cathédrale Regina Mundi
+          1	Cathédrale St. Trinité
+          1	Cathédrale anglicane
+          1	Cathédrale du Christ-Roi
+          1	Cayi
+          1	Cds Mutakura
+          2	Cendajuru
+          1	Centrale electrique Nyankere
+          1	Centrale electrique Rushanga
+          1	Centrale hydro-electrique Masango
+          1	Centre Communautaire Kamenge
+          1	Centre Culturel Islamique
+          1	Centre D'Enseignement Professionnel Polyvalent
+          3	Centre Espoir
+          1	Centre Jeune
+          1	Centre Medical
+          1	Centre Medical Physique et Esthetique
+          1	Centre Medical de la Croix Rouge, Kinindo
+          1	Centre Médical Marthe Robin
+          1	Centre Médico Psycho-Social de Kanyosha
+          1	Centre Neuro Psyschiatrique de Kamenge
+          1	Centre Nutritionnel
+          1	Centre Pour Jeunes de Gitega
+          1	Centre Scolaire Congolais
+          1	Centre Scolaire Tanzanien
+          1	Centre Social pour les Enfants
+          1	Centre Vidéo
+          1	Centre d'Accueil
+          1	Centre d'Auto-Formation
+          1	Centre d'Information Nations Unies pour le Burundi
+          1	Centre d'ecoute
+          1	Centre d'écoute et Conseil pour femmes et enfants en situa
+          1	Centre de Sante Gatumba
+          1	Centre de Sante Mon Calme
+          2	Centre de Santé
+          1	Centre de Santé Bora Uzima
+          1	Centre de Santé Gatumba
+          1	Centre de Santé La Vie
+          1	Centre de Santé Nouvelle Espérance
+          1	Centre de Santé Yodesa - Burundi Health Center
+          1	Centre de Santé de Buterere 1 - Cesabu
+          1	Centre de Santé de Songa
+          1	Centre de jeunes Kamenge
+          1	Centre de santé
+          1	Centre de santé Komera
+          1	Centre de santé Sharon Mckenna
+          1	Centre médical SOS
+          1	Centre nutritionelle Kwa Samandari
+          1	Centre pour la vaccination
+          1	Cercle Hippique
+          1	Cercle Mahwa
+          1	Cercle des Officiers de Police Nationale
+          1	Cercle du Cinquantenaire de la Commune Mutimbuzi
+          1	Cesar the Congolese Tailor
+          1	Cewe
+          1	Ceyerezi
+          3	Ch. de l'Agriculture
+          3	Chapelle Anglicane
+          1	Chapelle Buyengero
+          1	Chapelle Mariale Buyengero
+          5	Chaussee du Peuple Murundi
+          7	Chausseée de Gitega
+          1	Chaussée Kinama
+          1	Chaussée Mgr. Buconyori
+          3	Chaussée Prince Louis Rwagasore
+          1	Chaussée de Gitega
+          4	Chaussée de l'Agriculture
+          1	Chaussée du Peuple Murundi
+          1	Chausée Prince Louis Rwagasore
+          1	Chemin de l'Agriculture
+          1	Chez Adamon menbre igitito
+          1	Chez André
+          1	Chez Arakaza Rodrigue
+          1	Chez Emmanuel
+          3	Chez Gérard
+          1	Chez Misago modeste
+          1	Chez Muza
+          2	Chez Natalie
+          1	Chez Sébastien
+          1	Chimpanzés
+          1	Christian Methodist Church
+          1	Chutes de la Kagera
+          4	Cibitoke
+          1	Cimabare
+          1	Cinywe
+          1	Circle Nautique
+          1	City Hill
+          1	City Motors Garage
+          1	Cité des Jeunes Don Bosco
+          4	Cizanye
+          1	Cle l'Avenir College et Lycee
+          1	Clinic
+          1	Clinic Van Norman
+          1	Clinique Saint David
+          1	Clinique St Jean
+          1	Clinique Vision-Santé
+          1	Clinique de l'oeil
+          1	Club du Lac Tanganyika
+          1	Cogo
+          1	College Delta de Gatumba
+          1	College Mushasha
+          1	College de Delta de Gatumba
+          1	College de la Foi
+          1	College don Bosco
+          1	Colline Katanga
+          1	Collège Don Bosco
+          1	Collège Etoile, Paix et Unité de Buterere (CEPUB)
+          1	Collège Gikungu
+          1	Collège communal
+          1	Collège de l'Esperance du Burundi
+          1	Colplexe thèhicle de l'OTB
+          1	Communaute des Eglises du Réveil de Philadelphie au Burund
+          1	Commune Muha
+          1	Commune NGAGARA
+          1	Commune de Buterere
+          1	Commune de Gitega
+          1	Compumainte & Studio / APDHD
+          1	Compumainte Studio
+          1	Cona
+          1	Confédération des Associations des Producteurs Agricoles 
+          1	Congolese Market - African Craft
+          1	Consulat honoraire de la republique de Mali
+          1	Containers de stockage
+          1	Convent Rugari
+          1	Cooperative d'épargne et de crédit pour l'autodeveloppeme
+          1	Cour d'appel
+          1	Cour des comptes
+          1	Crocodiles
+          1	Croix Gomvyi
+          1	Croix Rouge Mwaro
+          1	Croix Rouge du Burundi
+          1	Croix rouge du Burundi
+          1	Cubahiro Bar
+          1	Cuisine
+        131	Cuisine communautaire
+          1	Cuisine de l'Ecole Bihogo I
+          1	Cuisine de l'Ecole Bihogo II
+          1	Cumba
+          1	Customs
+          1	Customs & Immigration
+          1	Cyahinda
+          1	Cyber Café
+          1	Cyber Café l'Exploration
+          1	Cyber HOPE Internet
+          1	Cyber Internet
+          1	Cyili
+          1	DAFA
+          1	DANY's Restaurant
+          1	DELOITTE
+          1	DELTA HOTEL
+          1	DHL
+          1	DIEU MERCI
+          1	DOLCE VITAE
+          1	DORADO
+          2	DORADO HOTEL
+          1	DOWN TOWN
+          1	DOWN TOWN RUTEGAMA JAZZ
+          1	DREAM HOUSE
+          1	DUNGA
+          1	DUSENGE
+          2	Daladala Stop
+          1	Dama
+          1	Department Store Chez Bagirako
+          1	Deposit Kinju
+          1	Destiny Oil
+          1	Diamond Trust Bank
+          1	Dimitri
+          1	Direction Général de Protection Civil
+          1	Direction Général de la Science, la Techologie et la Rech
+          1	Direction Générale PNB
+          1	Discovery School
+          1	Dispansaire
+          1	Dominos
+          1	Don de Dieu
+          1	Dorado Hotel
+          1	Douche du poste de police
+          1	Downtown Forex Bureau
+          1	Dumsonc - Cyber Internet
+          1	Dunga
+          1	Dynasty
+          1	Dépôt modèle des produits BRARUDI
+          1	E.P KINYOTA, UC Kinyota
+          1	EAB
+          1	EAST AFRICA HOTEL
+          1	EAST LAND LODGE
+          1	ECOBANK "Banque Panafricaine"
+          1	ECOLE FONDAMENTAL DE KINYOVU
+          1	EDEN
+          2	EDEN HOTEL
+          1	EDITH HOTEL
+          1	EEAC
+          2	EGLISE PENTECOSTE DE KANYOSHA
+          1	EGLISE PENTECOSTE DE KIBENGA
+          1	EGLISE PENTECOSTE INTERNATIONAL
+          1	EGLISE PENTECOSTE INTERNATIONAL DU BURUNDI
+          1	EGLISE SAINT SAUVEUR
+          1	EGO
+          1	EL MANAR HOTEL
+          1	ELECTRO HOME
+          1	EMERAUDE HOTEL
+          1	EN-HAKKOREE
+          1	EN-HANKKORREE
+          1	ENFANT SOLEIL
+          1	EPB
+          1	EREGANCE HOTEL
+          1	ESCAL HOTEL
+          1	ESKA
+          1	ESPERANCE HOTEL
+          1	ETOILE DU BIEN HOTEL
+          1	ETOILE DU CENTRE
+          1	ETS KANYOSHA
+          1	East Afric Night club
+          1	East African Churh
+          1	East African Hotel
+          1	Eau - Assainissement CRB CDS Muhuta - GITAZA
+          2	EcoBank
+          2	Ecobank
+          1	Ecofo de Gihosha
+          1	Ecole Biblique
+          1	Ecole Bihogo I
+          1	Ecole Bihogo II
+          2	Ecole Coranique Huda Nabawiya
+          1	Ecole Enfants du Monde
+          1	Ecole Française
+          1	Ecole Independante de Bujumbura
+          1	Ecole Intercontinentale de Bujumbura (E.I.C.B.)
+          1	Ecole Internationale de Bujumbura
+          1	Ecole Les Mignons
+          1	Ecole Lumiere de Kinindo Primaire
+          1	Ecole Lumiere de Kinindo Secondaire
+          1	Ecole Maternelle
+          1	Ecole Maternelle House of Mercy
+          1	Ecole Maternelle du Matin
+          1	Ecole Maternelle et Primaire Pantagruel
+          1	Ecole Normale Superieure
+          1	Ecole Normale Supérieure
+          1	Ecole Normale de Ngagara
+          1	Ecole Paramédicale
+          5	Ecole Primaire
+          1	Ecole Primaire Buterere I
+          2	Ecole Primaire Gatumba I
+          1	Ecole Primaire Gatumba III
+          1	Ecole Primaire Gatumba IV et VII
+          2	Ecole Primaire Gatumba V
+          1	Ecole Primaire Gihosha
+          1	Ecole Primaire House of Mercy
+          1	Ecole Primaire Kamenge I
+          2	Ecole Primaire Mushasha I et II
+          2	Ecole Primaire Ngagara Q4
+          1	Ecole Primaire Ngagara Q5
+          1	Ecole Primaire Sainte Marie Joseph
+          1	Ecole Primaire Warubondo
+          1	Ecole Primaire de Kinindo
+          1	Ecole Primaire et Secondaire des Enfants Réfugiés Congola
+          1	Ecole Saint Joseph
+          1	Ecole Saint Michel Archange
+          1	Ecole Secondaire AJECA
+          1	Ecole St-Etienne
+          1	Ecole Technique de Controle Administrative (ETCA Kamenge)
+          1	Ecole congolaise maternelle
+          1	Ecole congolaise primaire et secondaire
+          1	Ecole d'Amitié Chine-Burundi
+          1	Ecole de Bugeni
+          1	Ecole de Bugumbasha
+          1	Ecole de Burambi
+          1	Ecole de Buziragahama
+          1	Ecole de Gasongati
+          1	Ecole de Gihango
+          1	Ecole de Gisuka
+          1	Ecole de Kabasazi
+          1	Ecole de Kagoma
+          1	Ecole de Kigoma
+          1	Ecole de Kinyame
+          1	Ecole de Kinyovu
+          1	Ecole de Kiremba
+          1	Ecole de Masama
+          1	Ecole de Mirehe
+          1	Ecole de Mubanga
+          1	Ecole de Ntita
+          1	Ecole de l'horizon
+          1	Ecole de la Charité
+          1	Ecole del Kabuga
+          1	Ecole des Poussins
+          1	Ecole independante, section maternelle
+          1	Ecole les séraphins
+          1	Ecole moyenne pédagogique
+          1	Ecole primaire
+          1	Ecole primaire BIHOGO 1
+          1	Ecole primaire Kamenge III
+          1	Ecole primaire Mirango II
+          2	Ecole primaire Nyabagere I
+          1	Ecole primaire de Kabondo
+          2	Ecole primaire de Kinindo
+          1	Ecole primaire de Musaga I
+          2	Ecole primaire de Musaga II
+          1	Ecole primaire de kinanira 2 (SOCARTI)
+          1	Ecole primaire notre Dame d'Afrique
+          1	Econet-leo building
+         10	Eglise
+          7	Eglise Anglicane
+          1	Eglise Anglicane Saint Marc Ngagara
+          1	Eglise Assemblies of God Fellowership de Gatumba
+          1	Eglise Assemblies of God Fellowship de Gatumba
+          1	Eglise Baptiste de Gatumba
+          1	Eglise Bon Berger
+          1	Eglise Bon belger
+          1	Eglise Béthléhem
+          2	Eglise Catholique
+          1	Eglise Catholique Muremera
+          1	Eglise Des Amis
+          1	Eglise EPVA
+          1	Eglise Emmanuel
+          1	Eglise Evangélique Foursquare
+          1	Eglise Fecabu de Gatumba
+          1	Eglise Gihuhusi
+          1	Eglise Grâce de Dieu
+          1	Eglise House of Mercy
+          1	Eglise Kimbaya
+          1	Eglise M.C.E.R
+          1	Eglise Minevam
+          1	Eglise Méthodiste
+          1	Eglise Orthodoxe
+          1	Eglise PECABU
+          1	Eglise Pentecote
+          1	Eglise Pentecote Ngagara
+          1	Eglise Pentecote de Gatumba
+          2	Eglise Pentecotiste
+          2	Eglise Pentecôte
+          1	Eglise Pentecôte de Gatumba
+          1	Eglise Pentecôte de Muyange II
+          2	Eglise Pentecôtiste
+          1	Eglise Protestante Méthodiste Unie
+          1	Eglise Protestante Réformée
+          1	Eglise Saint Marc
+          1	Eglise Saint Michel
+          1	Eglise Trinité Internationale
+          1	Eglise Témoins de Jéhovah
+          1	Eglise Ubuzima Nyakuri
+          1	Eglise Vivante de Jésus Christ
+          2	Eglise anglicane
+          1	Eglise de Pentecote
+          1	Eglise des Amis
+          1	Eglise des Vrais Croyants
+          1	Eglise des amis de Kamenge
+          1	Eglise du Bon Berger
+          1	Eglise du christ du Bujumbura
+          1	Eglise méthodiste unie
+          2	Eglise protestante
+          1	Eglise succursale de Buterere
+          1	Electro Service - Réparation tout appareil
+          1	Embassy of China
+          1	Embassy of Egypt
+          1	Embassy of Russia
+          1	Emeraude Hotel
+          1	Empire
+          1	Encien Marche centrale de Bujumbura
+          1	Engen
+          1	English Language Centre
+          1	Entrepôt de Ciment
+          1	Entropot de Manioc
+          1	Ephphatha Deaf School
+          1	Escale du bien
+          2	Espace Médical Ste Marie
+          1	Ethiopian Airlines
+          1	FACE@FACE
+          1	FAIR AMOUNT HOTEL
+          1	FAMILY GUEST HOUSE
+          1	FAMILY LODGE
+          1	FANTASTIC GUEST HOUSE
+          1	FEDERATION DE FOOTBALL BURUNDAIS (FFB)
+          1	FEDEX
+          1	FEEL FREE LODGE
+          1	FHI Burundi
+          1	FINKANK 'Agence de GITEGA"
+          2	FLEUR DE SEL
+          1	FOOD FOR HUNGRY BURUNDI
+          1	FORESTA HOTEL
+          1	FREEDOM SNAK BAR
+          1	Face à Face
+          1	Famille Makuraza  menbre igitito
+          1	Fausse de pluie
+          1	Fidodido
+          1	FinBank
+          1	Finbank
+          1	Fitness Factory
+          1	Fizi
+          1	Florist
+          1	Fondation TPO Clinique de Sante Mentale
+          1	ForEx
+          1	Fota
+          3	Four a pain
+          1	Foursquare Gospel Church
+          1	France Volontaires
+          1	Fraternité Evangelique du christ en Afrique au Burundi
+          1	Frères Dominicains
+          1	Full Option
+          1	Fée du Logis
+          1	GAHAHE HILL'S
+          1	GAHORE GUEST HOUSE
+          1	GALEXY HOTEL
+          1	GANZA HOTEL
+          2	GARDEN HOTEL
+          1	GARKEDI LODGING
+          1	GASENYI Primary and Secondary school
+          1	GASTHOF FREUDENECHE
+          1	GATABO
+          1	GATEWAY
+          1	GATWE
+          1	GENNESARETH
+          1	GET UP
+          1	GET UP HOTEL
+          1	GISABO GUEST HOUSE
+          1	GISYO
+          2	GISYO MARKET
+          1	GITE GASUMO
+          1	GITITO Arena
+          1	GIZ
+          1	GLICE ICT4D
+          1	GLICE ICT4D NGO
+          1	GLICE WEEE Center
+          1	GLOIRE A DIEU GUEST HOUSE
+          1	GLORIA GUEST HOUSE
+          2	GLORIA HOTEL
+          1	GOD'S WAY CHURCH "Inzira y'Imana"
+          1	GOLD MOTEL
+          1	GOODLIFE RESIDENCE
+          2	GOSHEN HOTEL
+          1	GOSPEL HOTEL
+          1	GRAND SEMINAIRE
+          1	GREEN HILLS HOTEL
+          1	GTS
+          1	GUEST HOUSE
+          1	GUEST HOUSE DU STADE
+          1	GUEST HOUSE EAST AFRICA
+          1	GUEST HOUSE IKIBUYE
+          1	GUEST HOUSE NOTRE DAME DE LOURDE
+          1	GUY HOTEL
+          1	Gacokwe
+          1	Gacu
+          1	Gahaha
+          2	Gahama
+          1	Gahandu
+          2	Gahara
+          1	Gahengere
+          1	Gaheta
+          3	Gahombo
+          2	Gahororo
+          3	Gahumo
+          1	Gakenke
+          1	Gakere
+          1	Gakoni
+          1	Gakungu
+          1	Gakwende
+          1	Galerie Alexandre
+          1	Galerie yes
+          1	Garage de la paroisse
+          1	Gare du Sud
+          1	Garona Guest House
+          1	Garukira Muzinda
+          1	Gasanda
+          1	Gasarara
+          1	Gasarwe
+          1	Gasegerwa
+          6	Gasenyi
+          1	Gasenyi I
+          1	Gasenyi II
+          1	Gaseru
+          2	Gashikanwa
+          1	Gashirwe
+          1	Gasho
+          2	Gashoho
+          1	Gashurushuru
+          2	Gasorwe
+          1	Gasunu
+          2	Gasura
+          1	Gasuru
+          1	Gataba
+          2	Gatabo
+          1	Gatakazi
+          1	Gatangaro
+          1	Gatara
+          1	Gatare
+          2	Gatete
+          1	Gatimbiri
+          1	Gatobo
+          1	Gatoke
+          1	Gatongati
+          1	Gatumba
+          1	Gatwaro
+          2	Gatwe
+          1	Genocide Memorial
+          1	Geny's Beach
+          1	Geny's Cafe
+          1	Geust house de l'UC KWIBUYE
+          1	Gihanga
+          1	Giharo
+          2	Giheta
+          1	Gihofi
+          1	Gihogazi
+          1	Gihongoro
+          1	Gihorwe
+          1	Gihosha
+          1	Gihosha IRARARA Shop
+          1	Gihumgwe
+          1	Gikaragata / Mutobo
+          1	Giko
+          1	Gikoma
+          2	Gikomero
+          1	Gikora
+          1	Gikundamvura
+          1	Gikurazo
+          1	Gikuyo
+          1	Gindiye
+          3	Gisagara
+          1	Gisagazuba
+          2	Gisanze
+          1	Giseke
+          4	Gisenyi
+          1	Gisha
+          2	Gishanga
+          2	Gishiha
+          1	Gishoka
+          2	Gishubi
+          1	Gishungo
+          1	Gisitrye
+          1	Gisozi
+          1	Gisuka
+          2	Gisuma
+          1	Gisuru
+          2	Gitaba
+          1	Gitabi
+          1	Gitandu
+          5	Gitaramuka
+          3	Gitega
+          2	Gitenge
+          2	Giteranyi
+          1	Gitibu
+          2	Gitobe
+          1	Gitohwe
+          1	Gitongo
+          1	Gitsiro
+          1	Gitwa
+          1	Gitwenge
+          1	Giytwenge
+          1	Gloria Shop
+          1	Glory Outreach Assembly
+          1	God''s Glory center
+          1	Golf de Bujumbura
+          2	Goodlife Residence
+          1	Gouvernorat de la Province
+          1	Grand Seminaire
+          1	Grand Séminaire
+          1	Grand Séminaire de Burasira
+          1	Grand seminaire Jan Paul II
+          1	Great Wall Restaurant
+          1	Groupe Bon Pasteur
+          1	Groupe Scolaire Maendeleo
+          1	Groupe Scout St. Eloi
+          1	Groupe St Athanase
+          1	Groupe scout Etoile d'ours
+          1	Guerison des Ames
+          1	Guest house
+          1	Guesthouse Anglicane
+          1	Guichet Automatique Ecobank
+          1	Gwiti
+          1	Générateur
+          1	Gérard
+          1	HARAGAKIZA
+          1	HASYOTEL
+          1	HAVANA HOTEL
+          2	HAVILA HOTEL
+          2	HELENA HOTEL
+          1	HELMADOR VILLAGE HOTEL
+          1	HEWA HOTEL
+          1	HISIDE HOTEL
+          1	HOLIDAY HOTEL
+          1	HOPE WELL
+          1	HORIZON
+          1	HORIZON MAISON DE PASSAGE
+          1	HOTE CHEZ KABUYE
+          1	HOTE LE GRION
+          1	HOTEL ARENI
+          1	HOTEL BAMAKO
+          1	HOTEL BANDA JAS
+          1	HOTEL BENETHEREZA
+          1	HOTEL BRASHOS
+          1	HOTEL CENTRAL
+          1	HOTEL CHEZ BAGAS
+          1	HOTEL CHEZ ZIKO
+          1	HOTEL COME AGAIN
+          1	HOTEL DE L'AMITIE
+          1	HOTEL DE LA PALMERAIE
+          1	HOTEL DELTA
+          1	HOTEL DES PLATEAUX
+          1	HOTEL DIGNE
+          1	HOTEL DU ROND POINT
+          1	HOTEL FOTA LODGE
+          1	HOTEL GASAGO CHEZ RICHARD
+          1	HOTEL GEITA
+          1	HOTEL IGICANIRO
+          1	HOTEL KWIHURIRO
+          1	HOTEL LA DIFFERENCE
+          1	HOTEL LA RESIDENCE
+          1	HOTEL LE CARDINAL
+          1	HOTEL LE RESIDENT
+          1	HOTEL LES ARCHANGES
+          1	HOTEL MWIZERO
+          1	HOTEL NIVEN
+          1	HOTEL PEROQUET DE MWISHANGA
+          1	HOTEL SHIKA ALCA
+          1	HOTEL TOURISTIC OCEAN DE RUMONGE
+          1	HOTEL UMUBANO
+          1	HOZANNA HOTEL
+          1	Habesha
+          1	Hangar d'achat des vivres
+          1	Hangar de Distribution
+          3	Hangar pour les nouveaux arrivants
+          2	Harmony
+          1	Hatungi Mama
+          1	Havanna
+          1	Havila
+          1	Hebergement
+          1	Hibiscus
+          1	Hindi Mandel
+          1	Hippo Feeding Point
+          1	Hongero
+          1	Hope Center
+          2	Hopital Kabezi
+          1	Hopital Kibumbu
+          1	Hopital Militaire De Kamenge
+          1	Hopital de Bubanza
+          1	Hopital de Kidahanwa
+          1	Hopital de Kinyinya
+          1	Hopital de Kiremba
+          1	Hopital de Murayi
+          1	Hopital de Muyinga
+          1	Hopital de Nyabiraba
+          1	Hopital de Nyamurenza
+          1	Hopital de Rutovu
+          1	Hopital de Ruyenzi
+          1	Hospital
+          1	Hotel Amahoro
+          1	Hotel Bouquet
+          1	Hotel Mombasa
+          1	Hotel Parolina
+          1	Hotel Restaurant le Tanganyika
+          1	Hotel Source du Nil
+          1	Hotel Vaya
+          1	Hotel le Rift
+          1	Hotspring
+          1	House
+          2	Hôpital Gihofi
+          1	Hôpital Kiganda
+          1	Hôpital Mabayi
+          1	Hôpital Matana
+          1	Hôpital Militaire
+          1	Hôpital Muramvya
+          1	Hôpital Murore
+          1	Hôpital Musema
+          1	Hôpital Nyanza-lac
+          1	Hôpital Roi Khaled
+          1	Hôpital Rwibaga
+          1	Hôpital Universitaire de Kamenge
+          1	Hôpital de Rumonge
+          1	Hôpital de Rutana
+          1	Hôtel Agasago
+          1	Hôtel Dolce Vita Resort
+          1	Hôtel Kibunoah
+          1	Hôtel de Ville
+          1	Hôtel de Ville Bujumbura
+          1	IBB Bank
+          1	ICE CREAM PLANETE
+          1	ICIZANYE HOTEL
+          1	ICTS-GROUP
+          1	IDEAL
+          1	IFDC BURUNDI
+          1	IGEBU
+          1	IITA Bujumbura
+          1	IMMEUBLE NYOGOZI
+          1	IMPERIAL GUEST HOUSE
+          1	IMUHIRA
+          1	IMUHIRA HOTEL
+          1	IMUHIRA LODGE
+          1	IMUHIRA MAISON DE PASSAGE
+          1	INARUNYONGA HOTEL
+          1	INEZA HOTEL
+          1	INGENZI
+          1	INNOVA 2
+          1	INNOVA HOTEL
+          2	INSS
+          1	INSTITUT FRANCAIS DU BURUNDI
+          1	INSTITUT INTERNATIONAL LIBRE D'AFRIQUE
+          1	INTERBANK BURUNDI
+          1	INTERBANK BURUNDI "Agence de Gitega"
+          1	INTERBANK BURUNDI (Kamenge Agency)
+          2	IOM Burundi Main Office
+          1	IRAKOZE HOTEL
+          1	IRC
+          1	ISANGE GUEST HOUSE
+          2	ISANGE HOTEL
+          1	ISANGE HOTEL 2
+          1	ISET
+          1	ISHAKA GUEST HOUSE
+          1	ISHIMWE HOTEL
+          1	IT ACADEMY
+          1	ITEKA GUEST HOUSE
+          1	ITEKA HOTEL
+          1	IVURIRO KIRA
+          1	IWABO N'INGENZI
+          1	IWABO W'ABANTU
+          1	IWABO W'ABASIGAYE
+          1	IWACU
+          1	IWACU CENTER HOTEL
+          1	IWACU MAISON DE PASSAGE
+          1	IWACU RESIDENCE
+          1	IZERE 1
+          1	IZERE 2
+          2	Ibitalo ya Butezi
+          1	Iburasirasuba
+          1	Iburengerazuba
+          1	Ice Cream
+          2	Ideas Box
+          1	Ijenda
+          1	Ijwi Ry'Urwaruka
+          1	Ikihiro Press Group
+          1	Immigration
+          2	Imprimerie
+          1	Imprimerie Business quick printing
+          1	Imprimerie Hope design
+          1	Indaro
+          1	Infirmerie BSR/PJ
+          1	Infirmerie Marché Nyeshenza
+          1	Initiative d'appui au developpement humain durable
+          1	Institut Francais
+          1	Institut Théologique
+          1	Institute of Public Health
+          5	InterBank
+          1	InterBank Burundi
+          1	InterPetrol Brasserie
+          1	InterPetrol Musée Vivant
+          1	InterPetrol Quartier Asiatique
+          4	Interbank
+          1	Interbank Burundi
+          1	International Rescue Comittee
+          1	International University of Equator - IUE
+          1	Isange
+          1	Isare
+          1	Ishirahamwe ry'Abubatsi
+          1	Ishule y Nyagisozi
+          1	Itaba
+          1	Italbu
+          1	Itwe
+          1	Izabikara House
+          2	Izere
+          1	Izere de Kagurutsi
+          1	JAMBO HOTEL
+          1	JB GUEST HOUSE
+          1	JUMEILA HOTEL
+          1	JUSTE HOTEL
+          1	JUVENTUS AMANI HOTEL
+          1	Jabiro
+          1	Jarama
+          1	Jardin Public
+          1	Jehovah Witnesses
+          1	Jene
+          3	Jiji
+          1	KABANGA HOTEL
+          1	KABEZA MOTEL
+          1	KABUYE FAMILY MOTEL
+          1	KADEYO
+          1	KALIBI MAISON DE PASSAGE
+          1	KAMENGE CITY GUEST
+          1	KAMIKAZI HOTEL
+          1	KANGAROO HOTEL
+          1	KANYOSHA
+          2	KANYOSHA MARKET
+          1	KAPOSHO'S
+          1	KARO HOUSE
+          1	KARORE HOTEL
+          1	KAYANZA MOTEL
+          1	KAYOGORO
+          2	KAZE
+          1	KAZE HOTEL
+          2	KAZE MOTEL
+          1	KCB
+          1	KIBUYE GUEST HOUSE
+          1	KIFU HOTEL
+          1	KIGIZI HOTEL
+          1	KIGOBE HOTEL
+          1	KILIMANDJALO GUEST HOUSE
+          1	KILIMANDJALO MOTEL
+          2	KILIMANDJARO
+          1	KIMOTEL
+          1	KINASSA
+          1	KING'S CONFERNCE CENTER
+          1	KING'S SCHOOL
+          1	KINGSTAR FILLING STATION OF KANYOSHA
+          2	KININDO
+          1	KINYANA
+          1	KINYOVU
+          1	KIOSQUE CRB BURURI
+          1	KIRA
+          1	KIRANZIRA PAHOLINA HOTEL
+          1	KIRANZIRA PAHORINA
+          1	KIRIMBA GUEST HOUSE
+          1	KIRIRI GARDEN
+          1	KIRIRI RESIDENCE
+          1	KIVOGA
+          1	KIZINGWE BRIDGE
+          1	KU GITITO ARENA
+          1	KU KIRIMBA
+          1	KU MUHUZA
+          1	KU RUKUNDO GUEST HOUSE
+          1	KUBITI HOTEL
+          1	KUGAHIMBARE HOTEL
+          1	KUGATONGO
+          1	KUGICANIRO GUEST HOUSE
+          1	KUKAGEZI BAR CHEZ JACKY
+          1	KUKANYAMUNEZA HOTEL
+          1	KUKAYANGE HOTEL
+          1	KUKIYAGO IWACU HOTEL
+          1	KUMUBANO HOTEL
+          1	KUMUHANA HOTEL
+          1	KUMUKURIYA N'UMUKWE
+          1	KUMURINZI
+          1	KUMUTAGARI HOTEL
+          1	KUNAMA GUEST HOUSE
+          1	KUNAMA HOTEL
+          1	KUNDAVA
+          1	KWA ERIC
+          1	KWA MUKONO
+          1	KWA RIZIKI HOTEL
+          1	KWA SAWA HOTEL
+          1	KWA VYISI KANYOSHA
+          1	KWETU GUEST HOUSE
+          1	KWITEKA HOTEL
+          1	KWITEKA RESIDENCE
+          1	Kabagari
+          5	Kabanga
+          1	Kabaribari
+          1	Kabarore
+          2	Kabatwa
+          1	Kabebe
+          1	Kabere
+          1	Kabezi
+          1	Kabingo
+          1	Kabo
+          1	Kabondo
+          2	Kabonga
+          1	Kabonobono
+          4	Kaburantwa
+          2	Kabuye
+          3	Kabuyenge
+          1	Kaganza
+          1	Kagera
+          1	Kageyo
+          1	Kagogo
+          2	Kagoma
+          2	Kagunizi
+          1	Kagwema
+          1	Kajabure
+          5	Kajeke
+          1	Kajondi
+          1	Kamabuye
+          1	Kamanda
+          1	Kamaramagambo
+          1	Kamenge
+          1	Kamesa
+          1	Kamiga
+          1	Kamira
+          1	Kamonyi
+          1	Kaniga
+          1	Kaniha
+          1	Kankima
+          1	Kanowe
+          1	Kanyami
+          3	Kanyinya
+          5	Kanyosha
+          1	Kanyosha1
+          1	Karago
+          1	Karama
+          2	Karehe
+          1	Karera Beach Hotel
+          1	Karera Beach Hotel (unofficial campsite)
+          1	Karibu
+          1	Karonda
+          4	Karonga
+          1	Karonge
+          1	Karurema
+          3	Karuzi
+          1	Kasanga Port (MV Liemba)
+          1	Kashi
+          1	Kasulu
+          1	Kato
+          2	Katogota
+          1	Kavanica Guest House
+          1	Kavumu
+          1	Kayabazi
+          1	Kayange
+          4	Kayanza
+          5	Kayave
+          1	Kayero
+          4	Kayogoro
+          1	Kayokwe
+          5	Kayongozi
+          1	Kayove
+          1	Kazirabageni
+          1	Kenya Airways
+          1	Kerenge
+          1	Kibago
+          1	Kibaya
+          1	Kibenga
+          1	Kibera Park Ranger Station
+          1	Kibera Parking
+          1	Kibezi
+          4	Kibimba
+          1	Kibingo
+          1	Kibira Park Lodge
+          1	Kibirizi
+          1	Kiboko Grill
+          1	Kibondo
+          1	Kibongera
+          1	Kibumba
+          1	Kibumbu
+          1	Kibungo
+          1	Kibuye
+          1	Kidahanwa
+          2	Kigaga
+          3	Kigamba
+          1	Kiganda
+          3	Kiganga
+          1	Kiganza
+          2	Kigarama
+          2	Kigari
+          1	Kigarika
+          1	Kigembe
+          1	Kigeme
+          2	Kigina
+          1	Kigira
+          1	Kigobe
+          1	Kigobe Business Center
+          1	Kigobe City Oil
+          1	Kigobe Emmanuel Church
+          1	Kigobe lucky area
+          2	Kigogo
+          2	Kigoma
+          1	Kigoma Rural
+          1	Kigoma Urban
+          1	Kigoti
+          1	Kigozi
+          1	Kigurwe
+          1	Kigutu
+          2	Kigutu School
+          1	Kigutu school
+          1	Kigwena
+          1	Kilomni
+          1	Kimeza
+          1	Kinal
+          1	Kinama
+          1	Kinama Gasorwe
+          1	Kinanira
+          1	Kinanira Public Pool
+          1	Kinazi
+          1	King School
+          1	King's School
+          1	Kings Conference Centre
+          1	Kinihura
+          2	Kinima
+          1	Kinindo
+          1	Kinyamaganda
+          1	Kinyamugera
+          1	Kinyanderama
+          2	Kinyangoma
+          4	Kinyankonge
+          4	Kinyankuru
+          1	Kinyinya
+          1	Kinyinya hospital staff quarters
+          1	Kinywamagana
+          1	Kinésithérapie
+          1	Kiosk Brarudi
+          2	Kiosque
+          1	Kiosque CRB MURAMVYA
+          1	Kiosque Dodos
+          1	Kiosque Happy Shop - Chez Paul
+          1	Kiosque Inyange
+          1	Kiosque Mpajinimungu
+          1	Kiosque Pichet Mignon
+          1	Kiosque SANGWE
+          1	Kiosque Yarazaq
+          1	Kiosque de la Paix
+          1	Kiosque à la porte de Kigobe
+          1	Kira
+          1	Kira Hospital
+          1	Kira Uragakira
+          1	Kirasira
+          1	Kirehe
+          3	Kiremba
+          1	Kirimbi
+          1	Kiriri
+          1	Kirotsa
+          1	Kirumara Shop
+          4	Kirundo
+          1	Kiruri
+          1	Kiryama
+          1	Kiss Club
+          2	Kivoga
+          2	Kivubo
+          2	Kivungwe
+          3	Kivyuka
+          1	Kiyange
+          1	Kiyange Christian Community Church for Reconciliation
+          1	Kiyanza
+          1	Kiyenzi
+          1	Kiyonga
+          1	Kizenga
+          1	Kiziba
+          2	Kizingwe
+          1	Kobero
+          1	Kobil
+          1	Koko
+          1	Komonanira
+          2	Korineza
+          2	Kukarago
+          1	Kumbula Island
+          1	Kumuzi
+          1	Kwa Johnson Chez Johnson
+          1	Kwetu
+          1	Kwibuka
+          1	Kwijabe
+          1	Kwisigu
+          1	Kwisumo
+          1	Kwitaba
+          1	L'Ecole Belge de Bujumbura
+          1	LA BAMBA
+          1	LA CASA
+          1	LA COLOMBE HOTEL KINYINYA
+          1	LA CREDO HOTEL
+          1	LA CRETE CONGO NIL
+          1	LA DIFFERENCE HOTEL
+          1	LA DÉTENTE MASANGANZIRA HOTEL
+          1	LA PERLE
+          1	LA PERLE HOTEL
+          1	LA PLAYA BONITA HOTEL
+          1	LA REINE DE NGOZI HOTEL
+          1	LA RESIDENCE HOTEL
+          1	LA TULPE
+          1	LA VICTOIRE
+          1	LAC AUX OISEAUX HOTEL
+          1	LADAK TYRES
+          1	LAWRENCE HOTEL
+          1	LE BERCEAU DU VOYAGEUR
+          1	LE BON AIR DE NTAHANGWA
+          1	LE BOUQUET
+          1	LE CARREFOUR DU MARCHE
+          1	LE CHANDELIER
+          1	LE CHATEL HOTEL
+          1	LE FLAMBO HOTEL
+          1	LE FLORISSANT HOTEL
+          1	LE GIRAFE
+          1	LE GRION HOTEL
+          1	LE LIMOUSIN HOTEL
+          1	LE PARADIS
+          1	LE POLYGONE HOTEL
+          1	LE PRINTEMPS
+          1	LE ROSSIGNOL HOTEL
+          1	LE SOLEIL MOTEL
+          1	LE ZENITH GUEST HOUSE
+          1	LEADERSHIP UNIVERSITY
+          1	LES BUISSONETS HOTELS
+          1	LIBANONE HOTEL
+          1	LIFE CLINIC KINANIRA
+          1	LIGHT MOTEL
+          1	LITZ HOTEL
+          1	LMI
+          1	LNDJ
+          1	LODGING LODGE CHEZ MEMBRE
+          1	LODGIS AMICISIA
+          1	LUMITEL SHOP
+          1	LYCEE DU SAINT ESPRIT
+          1	LYCEE MUSAGA
+          1	LYCEE NYAKABIGA
+          1	LYCEE SOS
+          1	La Baguette Magique
+          1	La Canadole
+          1	La Casa Hôtel
+          1	La Charite
+          1	La Concorde
+          1	La Detente Restaurant
+          1	La Kinoise
+          1	La Medina
+          2	La Rose de l'Est
+          1	La Rose de l'Est (unofficial camping)
+          1	La Résidence
+          1	Laboratoire National de Batiment et des Travaux Publics
+          1	Laboratoire de Biologie Moléculaire et Virologique
+          1	Lac Cohoha
+          1	Lac Cyohoha
+          1	Lac Dogodogo
+          1	Lac Gacamirinda
+          1	Lac Gitamo
+          6	Lac Kanzigiri
+          1	Lac Kibenga
+          1	Lac Mwungere
+          1	Lac Narungazi
+          1	Lac Nyamuziba
+          1	Lac Rweru
+          2	Lac Rwihinda
+          1	Lac aux oiseaux
+          1	Lac de Rwegura
+          1	Lac des oiseaux boat
+          1	Laiterie Kiryama
+          1	Lake
+          2	Lake Tanganyika
+          1	Lanterns Guesthouse
+          6	Lavoir
+          1	Le Baobab
+          1	Le Belvédère
+          1	Le Berceau du Voyageur
+          1	Le Beryl
+          1	Le Café Gourmand
+          1	Le Caféier
+          1	Le Cayor
+          1	Le Chandelier
+          1	Le Doyen
+          1	Le Kasuku
+          1	Le Maquis
+          1	Le Panoramique Hotel
+          1	Le Petit Schengen
+          1	Le Piment - Doux
+          1	Le Safran
+          1	Le Sucess Gym and Restaurant
+          1	Le bon air
+          1	Le cercle
+          1	Lemera
+          1	Les Paillottes Beach
+          1	Les quatre saisons
+          1	Librairie St. Paul
+          2	Libyan Embassy
+          1	Life Clinic Ubuzima
+          2	Luberizi
+          1	Lumitel Office
+          1	Lumière
+          1	Lunch Garden
+          1	Luvungi II
+          1	Lycee Municipale de Kamenge
+          1	Lycee Nyakabiga /Scheppers
+          1	Lycee Technique la Colombe de Kanyosha
+          1	Lycee de Kibenga
+          3	Lycée
+          1	Lycée Clarté Notre Dame
+          1	Lycée Communal
+          1	Lycée Etole de Rumonge
+          1	Lycée Kibenga
+          1	Lycée Municipal Musaga
+          2	Lycée Municipal de Kamenge
+          1	Lycée Municipale de Gatumba
+          1	Lycée Murore
+          1	Lycée Musaga
+          1	Lycée Notre Dame De Rohero
+          1	Lycée Publique de MURAMVYA
+          1	Lycée Technique Islamique de Buterere - Centre Educatif Is
+          1	Lycée Technique de Buterere (LTB) Banque & Assurance
+          1	Lycée communal KIREMBA - Centre Jeune
+          1	Lycée d'Iteba
+          1	Lycée de Matana
+          1	Lycée de Rubanga
+          1	Lycée de Rumonge
+          1	Lycée de Rutovu
+          2	Lycée du Lac Tanganyika
+          1	Lycée du Saint-Esprit
+          1	MABEGA GUEST HOUSE
+          1	MACKHECH
+          1	MAGASIN NOTRE DAMA DE FATIMA
+          1	MAHONDA
+          1	MAISON DE PASSAGE AMAHORO
+          1	MAISON JAUNE
+          1	MAISON ORANGE
+          1	MAISON REGIONALE GH
+          1	MAKAMBA CITY GUEST HOUSE 2
+          1	MALVELUS HOTEL
+          1	MANAF
+          1	MANDELA HOTEL
+          1	MANELUS
+          1	MANZI KANGA
+          1	MARANATHA HOTEL
+          1	MARANATHA MISSION INTERNATIONALE
+          1	MARCHE DE GITEGA
+          1	MARCHE DE RUSAKA
+          1	MARTHA HOTEL
+          1	MASHITSI HOTEL
+          1	MATARA
+          1	MATERNITE KIVOGA
+          1	MATERNITE MAKAMBA
+          1	MAYANGE
+          1	MEDIABOX Burundi
+          1	MICKADO
+          1	MIKADO HOTEL
+          1	MINEVAM
+          1	MINEVAM Church
+          1	MINHOTEL KARUSI
+          1	MININISTERE DES AFFAIRES COMMUNAUTE EST AFRICAINE
+          2	MINISTERE D'ENSEIGNEMENT SUPERIEUR ET DE RECHERCHE SCIENTIF
+          1	MINISTERE DE L'EDUCATION NATIONAL
+          1	MINISTERE DES AFFAIRES COMMUNAUTE EST AFRICAINE
+          1	MINISTERE DES TRANSPORTS, POSTES & TELECOMS
+          1	MIRANGO GUEST HOUSE
+          1	MISERICORDE
+          1	MIZERO HOTEL
+          1	MOMBASSA HOTEL
+          1	MOON LIGHT HOTEL
+          1	MORIAH HOTEL
+          1	MOTEL AU 3M
+          1	MOTEL CRISTAL
+          1	MOTEL KING'S CENTER
+          1	MOTEL LA PERLE
+          1	MOTEL LA SAGESSE
+          1	MOTEL MWARO HILLS
+          1	MOTEL NYABUKUMBA
+          1	MOTEL RESTO FAMILY
+          1	MOUNTAIN ZION HOTEL
+          1	MOUNTAIN'S VIEW
+          1	MPIMBA
+          1	MPORE
+          2	MSF Belgique Centre d’Urgences Gynéco-obstétricales
+          1	MUBERURE
+          1	MUGENDO
+          1	MUGENI
+          1	MUGINA
+          1	MUHAMA
+          1	MUHIRA HOTEL
+          1	MUSAGA
+          1	MUSAGARA
+          1	MUSUMBA HOTEL
+          1	MUTANGA NORD
+          1	MUTEC (Kamenge Agency)
+          1	MUTSINDA III
+          1	MWERO HOTEL
+          1	MY PLACE PALACE
+          1	MYDO
+          1	Mabanda
+          1	Mabanda I
+          1	Mabanda II
+          1	Mabanda III
+          1	Mabayi
+          1	Mabogwe
+          1	Maché Sion
+          1	Magara
+          1	Magara 2
+          1	Magara 3
+          2	Magarama
+          1	Magarule
+          1	Magasin Vulnérable CRB MPINGA
+          1	Magasin Vulnérable CRB RUSHUBI - BONA
+          1	Magasin de Farine Magamjo
+          1	Magasin des Produits Egyptique
+          2	Mageyo
+          1	Magongwe
+          1	Maguruka
+          1	Mahinda
+          1	Mahwa
+          1	Mairie de Bujumbura
+          2	Maiso Vulnérable CEB BUHINDA / BUSEMBWA
+          1	Maiso Vulnérable CEB BUZIMBA / GITWE
+          1	Maiso Vulnérable CEB KIREMBA - GWANKONA
+          1	Maiso Vulnérable CEB MUGARA / MUHUTA
+          1	Maiso Vulnérable CEB MUGARA / RUREMBA
+          1	Maiso Vulnérable CEB MURAMBI / KARAGARA
+          1	Maiso Vulnérable CEB MWURIRE
+          1	Maiso Vulnérable CEB TABA
+          1	Maison Blanche La Sagesse
+          1	Maison De vulnérable de la CRB
+          2	Maison Vulnérable C R B GASHASHA
+          1	Maison Vulnérable C R B GITWE BUZIMBA
+          1	Maison Vulnérable C R B MUGARA
+          4	Maison Vulnérable C R B MUGARA MUHUTA
+          4	Maison Vulnérable C R B MURAMBI KARAGARA
+          1	Maison Vulnérable CRB BIGANDA-MURAMVYA
+          1	Maison Vulnérable CRB BUHINDA
+          1	Maison Vulnérable CRB GASHASHA
+          2	Maison Vulnérable CRB KABEZI - RUGEMBE
+          1	Maison Vulnérable CRB Kabezi - GAKUNGWE
+          2	Maison Vulnérable CRB Kabezi - RUGEMBE
+          1	Maison Vulnérable CRB RUGEMBE - KABEZI
+          1	Maison d'accueil de Kigozi
+          1	Maison d'un vulnérable Construit par la CRB
+          1	Maison d'un vulnérable Construit par la CRB, UC BWIBUYE
+          1	Maison d'un vulnérable Construit par la CRB, UC GASASA
+          1	Maison d'un vulnérable Construit par la CRB, UC GATOVU
+          1	Maison d'un vulnérable Construit par la CRB, UC KAYENZI
+          1	Maison d'un vulnérable Construit par la CRB, UC RUGARI
+          1	Maison d'un vulnérable Construit par la CRB, UC RUYIVYI
+          1	Maison d'un vulnérable consrtuit par CRB, UC RUTOKE
+          1	Maison des oeuvres
+          1	Maison vulnérable CRB, UC KGITONGWE
+          1	Maison vulnérable de la CRB
+          3	Makamba
+          1	Makebuko
+          1	Makombe
+          1	Makumba en force
+         15	Malagarazi
+          1	Maman Ngabo
+          1	Mamba
+          1	Manirakiza Elecluel
+          1	Manyoni
+          4	Maragarazi
+          1	Marais Murago
+          1	Marama
+          1	Maramvya
+          2	Marangara
+          3	Maranvya
+          1	Mararagarazi
+          1	Marche de Gatumba
+          1	Marché
+          1	Marché COTEBU
+          1	Marché Central MUYINGA
+          1	Marché Centrale de GITEGA
+          1	Marché Cibitoke
+          1	Marché Jabe
+          1	Marché KINYINYA I
+          1	Marché Kamenge
+          1	Marché Kinama
+          1	Marché Musaga
+          1	Marché Ngagara
+          1	Marché central
+          1	Marché de Buterere I
+          1	Marché de Buterere II
+          1	Marché de Buyenzi
+          1	Marché de Gatumba
+          2	Marché de Kamenge
+          1	Marché de Kinindo
+          1	Marché de Matana
+          1	Marché de Ntita
+          1	Marché de Ruzizi
+          1	Marché des vaches
+          1	Marembo
+          1	Mariza
+          2	Martyazo
+          1	Masango
+          1	Masibe
+          1	Matana
+          1	Matara
+          1	Materiaux de Construction
+          1	Maternite
+          1	Maternité de Kivoga
+          2	Matongo
+          1	Matyazo
+          1	Mauzo Saloon - Chez Idrissa
+          1	Mbaraga
+          1	Mbarara high way
+          1	Mbuga
+          1	Mbuye
+          1	Mediabox Burundi
+          1	Mena
+          1	Meru
+          2	Messe des Officiers
+          1	Micokora
+          2	Miduha
+          1	Migina
+          4	Migogo
+          1	Miguruka
+          1	Miheto
+          1	Minago
+          1	Minevam-Ville
+          1	Mini Shop
+          1	Ministere de l' Agriculture
+          1	Ministere de l'Agriculture et de l'Elevage
+          1	Ministere de l'Energie & Mining
+          1	Ministere de la Jeunesse et De la Culture
+          1	Ministere des Finances
+          1	Ministry of Foreign Affairs;Ministère des Relations Extér
+          1	Ministry of Justice
+          1	Ministère de l'Agriculture et de l'Elevage
+          1	Ministère de l'eau, de l'envirnnement, de l'amenagement du
+          1	Ministère de l'enseignement primaire et secondaire.
+          1	Ministère de la Santé Publique
+          1	Ministère des Finances
+          1	Ministère des Relations Extérieures et de la Coopération
+          1	Ministère des finances
+          1	Ministère des transport et Télécommunication
+          1	Ministère du Plan et de la Reconstruction
+          1	Ministère à la Présidence chargé de la bonne Gouvernanc
+          2	Minyare
+          1	Mirama
+          1	Mirango
+          1	Mirayi
+          1	Misaba
+          1	Misarara
+          2	Mishiha
+          1	Mitakataka
+          1	Mivo
+          2	Mont sion
+          1	Monument Livingstone–Stanley
+          1	Monument de l'Unité Nationale
+          1	Monument du Cinquantenaire
+          1	Monument du soldat inconu
+          1	Mosque
+          8	Mosquée
+          1	Mosquée Arrahmani
+          1	Mosquée Masjid Sunna
+          1	Mosquée Shafi
+          1	Motel de la Crete Congo-Nil
+          9	Moulin
+          1	Mount Manga
+         13	Mpanda
+          1	Mparo
+          1	Mpimbandiye
+          3	Mpinga
+          1	Mpinga-Kayove
+          1	Mpulungu
+          1	Mpumbu
+          1	Mubanga
+          1	Mubaragaza
+         11	Mubarazi
+          2	Mubazi
+          1	Mubimbi
+          1	Mubira
+          1	Mubogora
+          1	Mubone
+          3	Mubuga
+          3	Mucece
+          1	Mucunda
+          1	Mudende
+          1	Mudida
+          1	Mugamba
+          1	Muganza
+          1	Mugara
+          1	Mugatama
+          1	Mugege
+          1	Mugeni
+          1	Mugera
+          4	Mugere
+          1	Mugerovu
+          1	Mugikomero Primary School
+          3	Mugina
+          1	Mugogo
+          1	Mugombwa
+          1	Mugongo
+          1	Mugongomanga
+          1	Mugono
+          2	Mugonzwe
+          1	Mugoyi
+          1	Mugunzu
+          2	Muha
+          1	Muhafu
+          1	Muhama
+          1	Muhanga
+          1	Muhanga I
+          3	Muharanga
+          1	Muhira
+          3	Muhona
+          1	Muhuta
+          1	Muhweza
+          1	Mukana
+          1	Mukarimbi
+          1	Mukazye
+          1	Mukenke
+          1	Mukerwa
+          1	Mukike
+          1	Mukindo
+          1	Mukindu
+          1	Mukisabi
+          2	Mukomere
+          1	Mukoni
+          1	Mukugu
+          1	Mukungu
+          1	Mukuzi
+          1	Mulindi Japan One Love Project
+          1	Mulindi japan one love project
+          1	Mumbanza
+          1	Mumivo
+          1	Mumpwishi
+          2	Munanira
+          1	Munege
+          1	Mungwa
+          2	Munini
+          1	Munyinya
+          1	Munzenze
+          1	Muragarazi
+          4	Murago
+          1	Murama
+          2	Muramba
+          3	Murambi
+          1	Murambo
+          4	Muramvya
+          1	Murangara
+          1	Murayi
+          4	Murehe
+          1	Mureke
+          1	Murembera
+          3	Murembwe
+          2	Muremera
+          1	Muremure
+          1	Murenge
+          2	Murengeza
+          1	Murenguko
+          1	Murira
+          1	Murongwe
+          2	Murore
+          1	Murubindi
+          1	Muruhugu
+          1	Muruta
+          1	Murwi
+          1	Murwobo
+          1	Musaga
+          1	Musama
+          3	Musasa
+          1	Musaswe
+          1	Musave
+          1	Musema
+          5	Musenyi
+          3	Mushara
+          1	Mushasha
+          2	Musigati
+          1	Musimba
+          1	Musinzira
+          1	Musongati
+          1	Musée Vivant
+          2	Mutaho
+          1	Mutakura
+          1	Mutambara
+          1	Mutambu
+          1	Mutanga Nord
+          1	Mutanga Sud
+          1	Mutarule
+          1	Mutemberwa
+          1	Mutender
+          1	Muterama
+          5	Mutimbuzi
+          2	Mutobo
+          1	Mutondwe Island
+          3	Mutoyi
+          2	Mutsindozi
+          1	Mutuel de la fonction Public
+          4	Mutumba
+          3	Mutwenzi
+          2	Muvuruga
+          2	Muyaga
+          4	Muyange
+          1	Muyange-Gasoho
+          3	Muyebe
+          5	Muyinga
+          2	Muyovozi
+          1	Muzenga
+          1	Muzenga I
+          1	Muzenga II
+          1	Muzye
+          1	Mvugo
+          1	Mwaka
+          2	Mwakiro
+          3	Mwaro
+          1	Mwaro prive
+          1	Mwegereza
+          1	Mweya
+          1	Mwibu
+          1	Mwigomba
+          1	Mwila
+          5	Mwiruzi
+          5	Mwitega
+          1	Mwivuza
+          4	Mwogere
+          2	Mwumba
+          1	Mwurire
+          1	NAIVASHA BAR
+          2	NAMANDE
+          1	NDAVA HOTEL
+          1	NERVILA HOTEL
+          1	NEW AGENA
+          1	NEW ARABICA
+          1	NEW BISONABISO
+          1	NEW CARREFOUR
+          1	NEW PARADOR
+          1	NGANDU SONGA
+          1	NICARDE HOTEL
+          1	NICHOLAS COUNTY
+          1	NIWAKAL HOTEL
+          1	NIWAKALI HOTEL
+          1	NKORERINEZA
+          1	NONARA HOTEL
+          1	NORD MOTEL
+          1	NYABAGERE
+          1	NYABIRABA
+          1	NYAGATOVU
+          1	NYANTAKARA
+          1	NZIGAYIRA HOTEL
+          1	NZIHA TRUST HOTEL
+          1	NZIMA RAYAL HOTEL
+          1	Naabirinae Generose
+          1	Namugari
+          1	National Museum of Gitega
+          1	National Training Centre of the Association of the Scouts o
+          1	Nciri
+          1	Ndagano
+          1	Ndago
+          3	Ndava
+          1	Ndunda
+          7	Ndurumu
+          1	Ndyakarika
+          1	Netherlands Embassy
+          1	Nettoyage age a Sec & Blanchisserie
+          1	Nettoyage à sec Umuco
+          1	New Parador
+          1	New School
+          1	New Tourist Hotel
+          1	New Yahoo
+          1	Ngagara
+          3	Ngara
+          1	Ngeruka
+          4	Ngoma
+          2	Ngoro
+          5	Ngozi
+          1	Ngweshe (chefferie)
+          1	Nigeria Embassy
+          1	Ninba
+          2	Ninga
+          1	Nissan
+          1	Nkokoma
+          1	Nkondwe
+          3	Nkongwe
+          1	Nkuba
+          1	Nombe
+          1	Nouvelle Boucherie et Charcuterie
+          3	Ntahangwa
+          1	Ntamba
+          1	Ntambzi
+          1	Ntaruka
+          2	Ntega
+          1	Ntentamaza
+          1	Ntirwonza
+          1	Ntita
+          1	Ntunda
+          1	Ntwago
+          1	Ntyazo
+          1	Nunga
+          1	Nyabage
+          3	Nyabaha
+          2	Nyabarongo
+          1	Nyabibondo
+          1	Nyabibuye
+          2	Nyabigina
+          1	Nyabigugo
+          2	Nyabihanga
+          2	Nyabiho
+          1	Nyabihondo
+          1	Nyabihongo
+          1	Nyabikere
+          1	Nyabimata
+          2	Nyabiraba
+          1	Nyabisazi
+          1	Nyabisinda
+          1	Nyabisogi
+          1	Nyabitanga
+          1	Nyabitare
+          2	Nyabiti
+          2	Nyabitsinda
+          1	Nyabugete
+          1	Nyabugogo
+          6	Nyabuhira
+          1	Nyaburika
+          1	Nyabusare
+          1	Nyabusyo
+          1	Nyabututsi
+          2	Nyabuyumpu
+          3	Nyagafunzo
+          1	Nyagahara
+          1	Nyagasasa
+          2	Nyagatovu
+          1	Nyagisindu
+          2	Nyagisozi
+          1	Nyagonga
+          1	Nyakabiga
+          2	Nyakabingo
+          1	Nyakadanwa
+          1	Nyakagezi
+          1	Nyakagunda
+          2	Nyakararo
+          1	Nyakaraye
+          2	Nyakatsi
+          1	Nyakaziba
+          1	Nyakazu
+          5	Nyakerera
+          1	Nyakibundwe
+          2	Nyakijanda
+          1	Nyakijima
+          1	Nyakijina
+          1	Nyakimonyi
+          1	Nyakirera
+          2	Nyakuguma
+          1	Nyamabago
+          1	Nyamabuno
+          2	Nyamabuye
+          1	Nyamagana
+          1	Nyamagandika
+          1	Nyamakaraba
+          3	Nyamashishi
+          3	Nyambeho
+          1	Nyamiheno
+          2	Nyamipembe
+          1	Nyamisesera
+          1	Nyamiyaga
+          2	Nyamizi
+          3	Nyamugari
+          1	Nyamugerera
+          9	Nyamugogo
+          1	Nyamure
+          2	Nyamurenza
+          1	Nyamusenyi
+          5	Nyamuswaga
+          1	Nyamutetema
+          2	Nyamutobo
+          2	Nyamwondo
+          1	Nyanganda
+          2	Nyange
+          1	Nyangezi
+          1	Nyangungu
+          1	Nyankanda
+          2	Nyankungu
+          1	Nyantakara
+          2	Nyanza
+          1	Nyanza Lac
+          1	Nyanzali
+          1	Nyanzari
+          1	Nyanzuki
+          1	Nyarubanga
+          1	Nyaruguru
+          1	Nyaruhogoti Marai
+          1	Nyarunazi
+          1	Nyarungazi
+          1	Nyarungenge
+          2	Nyarurama
+          2	Nyarusange
+          1	Nyarwana
+          3	Nyavyamo
+          2	Nyengwe
+          1	Nyeshanga
+          1	Nyeshenza
+          1	Nyetongwe
+          1	Nyungwe National Park
+          1	Nzove
+          1	Nzunga
+          1	OASIS
+          1	OCIBU
+          1	OCIBU Nyamugari
+          1	OILEX ROHERO
+          2	OIM
+          1	OKAPI HOTEL
+          2	OLD EAST
+          1	OM Supermarket
+          1	ONATEL
+          1	OOB
+          1	OPEN SKY
+          1	ORANGE LODGE
+          1	ORTHEIDA HOTEL
+          2	OTB
+          1	OTB Rwegura
+          3	OTRACO
+          1	OU BE BEN
+          1	Office Burundais des Recettes
+          1	Office de Huile de Palme
+          1	Office du thé
+          1	Oiseaux
+          1	Old East Building
+          1	Olympic Mobile Center
+          1	Onatel
+          1	Optique Palace
+          1	Oree Du Glolf
+          1	Organisation de Promotion et de Protection des droit de l'H
+          1	Orphelinat Jésus Marie Joseph
+          1	Orphélinat Islamique
+          1	Orthieda
+          1	Ou Be Ben
+          1	PACIFIQUE GUEST HOUSE
+          2	PAFE
+          1	PALAIS DE NAZALETH CHEZ PODE
+          1	PALM BEACH HOTEL
+          1	PALM LODGE
+          1	PALMOTEL HOTEL
+          2	PAM
+          1	PAMOJA HOTEL
+          1	PANAMA HOTEL
+          1	PANORAMA HOTEL
+          1	PANORAMA PALACE
+          1	PAPYRUS HOTEL
+          1	PARABLE
+          1	PARACIO KOBERO CHEZ TAJIRI
+          1	PARADIS APPARTMENTS
+          1	PAROISSE BUKWAVU
+          1	PASSOS HOTEL
+          1	PATCHI PACHI
+          1	PEACE LODGE
+          1	PEARL RESIDENCE
+          1	PENSION MOTEL
+          1	PETROL STATION
+          1	PHAR HOP MUYINGA
+          1	PHARMACIE CHIMIO
+          1	PHARMACIE HORIZON
+          1	PHARMAJECO
+          1	PHEONIX GUEST HOUSE
+          1	PHOENICIA HOTEL
+          1	PK 108
+          1	PK0
+          1	PK52
+          1	PK58
+          1	PK70
+          1	PNUD
+          1	POSTE DE SECOURS Gatebe-Bugarama
+          1	POSTE SECONDAIRE NYAGIHOTORA
+          1	PRGE
+          1	PRIMOTEL
+          2	PRISON
+          1	PRISON MURAMVYA
+          1	PROCURE D'ACCUEIL
+          1	PROCURE SAINT JEAN
+          1	PSR
+          1	PTA Headquarters
+          1	Pacha
+          1	Pagode Pascasia
+          1	Paillote de quartier
+          1	Palais des Arts et de la Culture
+          1	Palais des Congres de Kigobe
+          1	Palmeraie
+          1	Palmotel
+          1	Panneau d'affichage
+          2	Parc national de la Kibira
+          1	Parc national de la Ruvubu
+          1	Parking Payant
+          1	Parking de Gitega-Bujumbura
+          1	Paroisse François-Xavier
+          2	Paroisse Guido Maria Leconforti
+          1	Paroisse Régina Pacis de Kinindo
+          1	Pasta Comedia
+          1	Peace Hotel
+          1	Peace House
+          1	Peace Lodge
+          1	Peace-Pharma
+          1	Pearl Residence
+          1	Pere Gabriel BARAKANA
+          1	Permanence nationale FNL Icanzo
+          1	Petit Seminaire
+          1	Petit Seminaire Saint Joseph
+          1	Petit Séminaire de Buta
+          5	Petite Rusizi
+          1	Petite chirurgie
+          3	Pharmacie
+          1	Pharmacie Amigo
+          1	Pharmacie Arc en Ciel
+          1	Pharmacie Buterere II
+          1	Pharmacie Magique
+          1	Pharmacie Niyonyishu
+          1	Pharmacie Saphar
+          1	Pharmacie Source de Guérison
+          1	Pharmacie Vétérinaire
+          2	Pharmacie de la Mission
+          2	Pharmacie de la Mutuelle
+          1	Pharmacie de la Nation
+          1	Pharmacie du Nord
+          1	Pharmacie du Rond Point
+          1	Pharmacie véterinaire
+          2	Pharmacy
+          1	Pit Fit
+          1	Place de L' indépendance
+          1	Place de l'Indépendance
+          1	Place de la Révolution
+          1	Plage
+          1	Plage de Bujumbura
+          1	Plaine de la Ruzizi (chefferie)
+          1	Planning Familial
+          1	Playground
+          1	Point de l'hygiène
+          1	Point de vente carte téléphone
+          1	Police judiciaire
+          1	Polyclinique Centrale de Bujumbura
+          1	Polyclinique Centre Confiance
+          1	Polyclinique Saint Marc
+          1	Port de Bujumbura
+          1	Post Office
+          1	Poste Musaga
+          1	Poste de Ngagara
+          3	Poste de Police
+          1	Poste de Police Entrée du Camp
+          2	Poste de Soins
+          2	Poste de police
+          1	Poste de police de Kabusa
+          1	Poste de santé Campazi du CDS Remera
+          1	Poste de secours MATANA - GITANDU
+          1	Poste de secours de la CRB, GASOGWE
+          1	Poste de secours de la CRB, UC KINAZI
+          1	Poste de secours de la CRB, UC KWIBUYE
+          1	Poste secondaire Kayanza Rwegura
+          1	Poste secours CRB MAGEYO - MUBIMBI
+          1	Poulailler
+          3	Prince Louis Rwagasore
+          1	Prince Louis Rwagasore Stadium
+          1	Prince Regent Charles
+          2	Prison
+          1	Produits Brarudi
+          1	Programme de Microfinance
+          1	Projet Remua VIH/SIDA
+          1	Présidence de la Republique
+          1	Public Hospital
+          1	Public Toilets
+          1	Pyramide Center
+          1	Pyramide au source du Nil
+          1	QUICK SHOP
+          1	QUICK STOP MOTEL
+          1	QUIT HOTEL
+          1	Quartier Belge
+          1	Quartier INSS
+          1	Quartier Industriel
+          1	Quartier Regional des Scouts IMBO
+          1	Quartier Régional des Scouts de l'Imbo
+          1	Quartier Swahili
+          2	Quincaillerie
+          1	Quiosk
+          1	RABBIS MOTEL
+          1	RABIRO
+          1	RAMA HOTEL
+          1	RAU LODGE 1
+          1	RAU LODGE 2
+          1	RAYAL PALACE
+         16	RD Congo - Burundi
+          1	RD Congo - Rwanda
+          1	RD Congo - Tanzania
+          1	RD Congo - anciennes provinces (avant mi-2015)
+          1	RD Congo - provinces
+          1	REGIDESO
+          1	RELAX BAR
+          1	REMA
+          1	REMA Hospital
+          1	REMESHA
+          1	REMOTEL
+          1	RESEAU INSTITUTIONS DE MICROFINANCE
+          1	RESIDENCE CITY GUEST HOUSE
+          1	RHEMA CHURCH
+          1	RN
+         13	RN 2
+          2	RN 22
+          8	RN12
+         11	RN13
+          1	RN14
+         10	RN19
+          3	RN2
+          2	RN21
+          1	RN3
+          3	RN4
+          1	ROCA GOLF
+          1	ROYAL
+          1	ROYAL NORTH GUEST HOUSE
+          1	ROYAL PALM
+         14	RP 31
+          6	RP34
+          1	RUBIRIZI
+          1	RUCUNDA
+          1	RUGAMURA HOTEL
+          1	RUGOMBO GUEST HOUSE
+          1	RUHUKA HOTEL
+          1	RUKONWE TOURIST LODGE
+          1	RUKUNDO
+          1	RUNYANKEZI
+          1	RUZIBA
+          1	RWISHINZA HOTEL
+          1	Racoon Salon
+          1	Radio Ivyizigiro
+          1	Rama
+          1	Ramba
+          1	Rambwe
+          1	Ramvya
+          1	Randa
+          1	Rangi
+          1	Regideso
+          1	Regideso Dir. Commerciale
+          1	Relax
+          1	Rema de Karinzi
+          1	Remba
+          3	Remera
+          2	Remesha
+          1	Remeshaabarwayi
+          1	Renga
+          1	Reseaux Documentaire International sur la Region des Grands
+          1	Reservoir
+          1	Resha
+          1	Residence NZEMBA
+          8	Residential
+          7	Restaurant
+          1	Restaurant Ntunsonzane
+          1	Restaurant Walala Wasala
+          1	Rikwizera
+          1	Rimbo
+          1	Roca Golf
+          1	Rohero Friends Church
+          1	Rohero I
+          1	Rohero II
+          2	Rorero
+          1	Route GAHERA
+          1	Route Karuzi
+          1	Route nationale 30
+          1	Route nationale 5
+          1	Routes Nationales Congo Kinshasa
+          1	Rubaho
+          1	Rubande
+          1	Rubanga
+          1	Rubangabanga
+          1	Rubaragaza
+          1	Rubarazi
+          1	Rubavu
+          1	Rubimba
+          1	Rubindi
+          2	Rubirizi
+          1	Rubuga
+          2	Rubura
+          1	Rubuye
+          1	Rucikiri
+          1	Rucsa Plaza
+          1	Rue BWERU
+          1	Rue Banga
+          1	Rue Bugendana
+          1	Rue Buhiga
+          1	Rue Buhinyuza
+          2	Rue Bututsi
+          1	Rue Buyogoma
+          1	Rue Bweru
+          1	Rue GIHAMAGARA
+          1	Rue Ganza
+          1	Rue Gitaramuka
+          1	Rue Imbo
+          1	Rue Jean Paul II
+          1	Rue KIGAMBA
+          1	Rue Karuzi
+          1	Rue Kayokwe
+          1	Rue Kibazi
+          1	Rue Kigamba
+          1	Rue Kinyinya
+          1	Rue Kirimiro
+          1	Rue Kirundo
+          1	Rue MUGEGE
+          1	Rue Mabayi
+          1	Rue Makebuko
+          1	Rue Manga
+          2	Rue Marangara
+          1	Rue Matana
+          1	Rue Matonga
+          1	Rue Mpinga
+          1	Rue Mubimbi
+          2	Rue Mugamba
+          2	Rue Mugina
+          1	Rue Mukike
+          1	Rue Murambi
+          1	Rue Murwi
+          1	Rue Mushiha
+          1	Rue Mutaho
+          1	Rue Mutambu
+          1	Rue Mwumbu
+          1	Rue NYAKARARO
+          1	Rue Ntita
+          1	Rue Nyabibuye
+          1	Rue Nyabukumbu
+          1	Rue Nyakazu
+          2	Rue Nyanzuki
+          1	Rue Rubanga
+          1	Rue de la Cathédrale
+          1	Rue de la Ruvubu
+          2	Rue de la Science
+          1	Rue de la Tannerie
+          1	Rue des Banyagihugu
+          1	Rue des Pecheurs
+          1	Rue des Swahilis
+          2	Rue des Usines
+          1	Rue du Café
+          1	Rue du Coton
+          1	Rue du Lycée
+          2	Rue du Marché
+          1	Rue du Phare
+          1	Rue du Progres
+          1	Rue du Riz
+          2	Rue du Tanganyika
+          1	Rue du Thé
+          1	Rue du quinquina
+          2	Rue du rivage
+          1	Rufunzo
+          1	Rugamura
+          1	Rugano
+          1	Ruganza
+          1	Rugari
+          1	Rugasa
+          3	Rugazi
+          1	Rugera
+          1	Rugobe
+          1	Rugoma
+          1	Rugombo
+          1	Rugomero
+          1	Rugoti
+          1	Rugunga
+          1	Rugusye
+          1	Ruguzwe
+          1	Ruhagarika
+          2	Ruhehe
+          1	Ruheru
+          1	Ruhongoro
+          1	Ruhora
+          3	Ruhororo
+          1	Ruhuha
+          4	Ruhwa
+          2	Rukago
+          1	Rukamba
+          1	Rukana
+          1	Rukaramu
+          1	Rukeco
+          1	Rukenke
+          1	Rukina
+          1	Rukinga
+          1	Ruko
+          1	Rukoma
+          3	Rukoziri
+          2	Rukungere
+          1	Rumanga
+          1	Rumeshanya de Buruhukiro
+          1	Rumeza
+          2	Rumonge
+         14	Rumpungwe
+          1	Rurama
+          1	Rurengera
+          1	Rusabagi
+          1	Rusaka
+          1	Rusarenda
+          1	Rusenda
+          3	Rusengo
+          1	Ruseseka
+          1	Rusibagi
+          1	Rusigabangazi
+         12	Rusizi
+          1	Rusizi Park Office
+          1	Russian Embassy
+          1	Rutabo
+          1	Rutamo
+          3	Rutana
+          1	Rutega
+          1	Rutegama
+          1	Rutongati
+          1	Rutongo
+          1	Rutorero
+          1	Rutovu
+          1	Rutsindu
+          1	Rutumo
+          1	Rutunga
+          2	Rutyazo
+         12	Ruvironza
+         24	Ruvubu
+          1	Ruvuye
+          3	Ruvyironza
+          6	Ruwiti
+          2	Ruyaga
+          1	Ruyange
+          1	Ruyenzi
+          3	Ruyigi
+          1	Ruyigi Post Office
+          1	Ruyoka
+          1	Ruzabira
+          3	Ruziba
+          4	Ruzibazi
+         11	Ruzizi
+          2	Ruzo
+          2	Rwaba
+          1	Rwabira
+          1	Rwagitugasa
+          1	Rwamagashwa
+          1	Rwamiko
+          1	Rwanda
+          1	Rwanda Border Offices
+          1	Rwandair
+          1	Rwange
+          2	Rwegura
+          1	Rweru
+          2	Rweza
+          1	Rwibaga
+          1	Rwisabi
+          1	Rwuya
+          2	Ryamukona
+          1	Ryansoro
+          1	Ryarusera
+          1	République démocratique du Congo
+          1	Réserve naturelle de Vyanda
+          1	Réserve naturelle de la Rusizi secteur Delta
+          1	Réserve naturelle forestière de Bururi
+          1	Réserve naturelle forestière de Kigwena
+          1	Réserve naturelle forestière de Rumonge
+          1	Résidence d'Eveque
+          1	S.S.D. Gatumba
+          1	SABEMELI SNAK BAR
+          1	SAFARI GATE
+          1	SAFARI HOTEL
+          1	SAFARI LODGE
+          1	SAFI SHOP
+          1	SAGA RESH HOTEL
+          1	SAGESSE GUEST HOUSE
+          1	SALVANI HOTEL
+          1	SANGWE
+          1	SANGWE GUEST HOUSE
+          1	SANGWE HOTEL
+          1	SANTA MARIA HOTEL
+          1	SAPHIS MOTEL
+          1	SCM SOS Rutana
+          1	SERRENITY APPARTMENTS
+          2	SHALOM HOTEL
+          1	SHAMMAH
+          1	SHAMMAH HEALTH CENTER
+          1	SHAWARA GUEST HOUSE
+          1	SHIKA GUEST HOUSE
+          1	SHIKA HOTEL
+          1	SILHOUETTE HOTEL
+          1	SINAI GUEST HOUSE
+          1	SKY LODGE
+          2	SOCABU
+          1	SOGEAR
+          1	SOGEAR AGENCE VILLE
+          1	SOJPAE
+          1	SOKOJET HOTEL
+          1	SOLIDALITE PLUS
+          1	SOLUTIONS INFORMATIQUES INNOVATRICES ET FIABLES ( SOLITECH)
+          1	SONAVIE
+          1	SOS Childrens Village
+          1	SOS NYAKABIGA
+          1	SOURCE D'EAU de la CRB Biganda
+          1	SOURCE DU NIL
+          1	STADE DE GITEGA
+          1	STADE OLIMPIQUE
+          2	STAR HOTEL
+          1	STAR LIGHT HOTEL
+          1	STATION VIP
+          1	SUHUKA
+          1	SUN PHONE
+          2	SUNSHINE HOTEL
+          1	SWAA BURUNDI
+          1	SWAA-BURUNDI
+          1	Safari Gate Hotel
+          1	Safe Building Company
+          1	Saga Nyanza
+          1	Saga Plage
+          1	Saga Residence
+          1	Sagahorwe
+          1	Sagara
+          1	Saint David
+          1	Saint Sauveur
+          1	Salle d'isolement
+          2	Salle de Cinéma
+          1	Salle de Réception
+          1	Salle de prière
+          1	Salle de reception MAGNIFICATE
+          1	Salle de reception Petit Seminaire
+          1	Salle des Réunion de la CRB, UC KAYENZI
+          1	Salle des Réunion de la CRB, UC KWIBUYE
+          1	Salle des Temoins de Jehovah
+          2	Salle polyvalente
+          1	Salon de Beauté Chez Maligne
+          1	Salon de Beauté VIP
+          1	Salon de Coiffure G-Unit
+          1	Salon de Coiffure Jnallah Manswabi
+          1	Salon de Coiffure Kaku
+          1	Salon de Coiffure La Préférence
+          2	Salon de coiffure
+          1	Salon de coiffure Upendo
+          1	Salon du coiffure "New Life"
+          1	Sam Studio
+          1	Sama Cafe Internet
+          1	Sanatorium
+          2	Sange
+          1	Sante Pour Tous
+          6	Sanzu
+          1	Savonor
+          1	Scripture Union (Umuryango w'Abasoma Bibiliya mu Burundi)
+          1	Secretariat Public
+          1	Secrétariat Public
+          2	Secrétariat public
+          1	Secrétariat public Cie Lessage
+          1	Senga
+          1	Serpents
+          1	Seventh Day Adventists
+          1	Shalom Shop
+          1	Shammah Hotel
+          1	Shanga
+          1	Sharon McKenna Teachers Training Residence
+          1	Shatanya
+          2	Shombo
+          1	Shop Area
+          1	Shumba
+          1	Siege: Communate Des Eglises Emmanuel (C.E.EM.)
+          1	Silhouette Internet Coffee Shop
+          1	Sirene
+          1	Site historique du traité de Kiganda
+          2	Smart Mobile
+          1	Snack Bar Chez Gerard
+          1	Snack Bar Iwacu
+          1	Snack Bar Kukongantore
+          1	Snack Bar Kumubano - Chez François
+          1	Snack Bar MUTSINDA III
+          1	Snack Bar Mambo Bado
+          1	Snack Bar Rusizi Chez Emmanuel
+          1	Snack Bar Say Angana
+          1	Snack La Fantasia
+          1	Soccer Field
+          1	Sogestal
+          1	Solero
+          1	Solidarité
+          2	Songa
+          1	Source EAU CRB KABEZI - RUGEMBE
+          1	Source EAU CRB RUSHUBI - MASARE
+          1	Source EAU CRB TEKA - RUTUNGA
+          1	Source Eau CRB GASHASHA
+          1	Source Eau CRB GASHASHA / RUSENGI I
+          1	Source Eau CRB MUGARA
+          1	Source Eau CRB MURAMBI / KARAGARA
+          1	Source d' EAU C R B GASHASHA
+          2	Source d' EAU C R B MUGARA
+          1	Source d' EAU C R B MUGARA GAFUMBE
+          1	Source d' EAU C R B MUGARA RUREMBA
+          1	Source d' EAU C R B MUHUTA MUGARA
+          1	Source d' EAU C R B MURAMBI KARAGARA
+          1	Source d'amour
+          1	Source d'eau
+          1	Source d'eau CEB MWURIRE / KABUKI
+          1	Source d'eau CRB U.C BURIMA
+          2	Source d'eau aménagée par la CRB
+          1	Source d'eau aménagée par la CRB, UC GASASA
+          1	Source d'eau aménagée par la CRB, UC GATOVU
+          1	Source d'eau aménagée par la CRB, UC KAYENZI
+          1	Source d'eau aménagée par la CRB, UC KIBOGOYE
+          1	Source d'eau aménagée par la CRB, UC KIYENZI
+          1	Source d'eau aménagée par la CRB, UC KWIBUYE
+          1	Source d'eau aménagée par la CRB, UC MUKONI
+          1	Source d'eau aménagée par la CRB, UC NYAMARUMBA
+          1	Source d'eau de la C R B, U.C CIBARI
+          1	Source d'eau de la C R B, U.C KAREMERA
+          1	Source de vie
+          1	Source eau CRB KABEZI - RUGEMBE
+          2	Source eau CRB MUBONE
+          1	Source eau CRB RUTUNGA - NYAGATOKE
+          1	Sparks
+          1	St JEAN BAPTISTE
+          1	Stade de Muranvya
+          1	Star Hotel
+          1	Station ENGEN
+          1	Station Rukoko
+          1	Station Service E. Leclerc
+          1	Station king star
+          1	Station service BUTANYERERA
+          1	Station service de Gitega
+          1	Stella Matutina
+          1	Stock de vivres et non vivres
+          1	Stock pour la Nutrition
+          3	Stockages de bois de chauffage
+          1	Studio B Unit - Enregistrement DVD
+          1	Studio Digital Gospel
+          1	Studio Tel Aviv - Buterere
+          1	Studio Top Class
+          1	Sucki Etat
+          1	Sud-Kivu
+          1	Suguvyaye
+          1	Sun Safari Club
+          1	Super Market Chez Karim
+          1	Supermarket Le Carrefour
+          1	Supermarket king star
+          1	Swaa Muramvya
+          1	Swedish Free Mission
+          1	Séminaire
+          1	T2000
+          1	TABARUKA
+          1	TAMOTEL HOTEL
+          1	TANGANYIKA BLUE BAY RESORT
+          1	TANGANYIKA LODGE
+          1	TANGNYIKA LAC VIEW
+          1	TAZIRA GUEST HOUSE
+          2	TEKANA GUEST HOUSE
+          1	TERIMBERE HOTEL
+          1	TERRA NOVA HOTEL
+          1	TERRAIN DE FOOTBALL
+          1	THAMARI HOTEL
+          1	TIGER'S APPATRMENTS
+          1	TPO Burundi
+          1	TPO Fondation Centre de Sante Mentale
+          1	TRANQUILITE KWA GABIN
+          1	TRANSIT
+          1	TRANSIT 2
+          1	TROPITEL HOTEL
+          1	TURISANZE
+          1	TUYISABE
+          1	Tabaruka
+          1	Take away Kiosque
+          1	Tandoor
+          1	Tanganyika Bluebay Resort
+          1	Tanganyika Lake View
+          1	Tanganyika Lodge
+          3	Tangara
+          1	Tanzania
+         17	Tanzania - Burundi
+          1	Taxi man
+          1	Teka
+          1	TeleR 101.4 FM 663MHz
+          1	Temoin de Jehovah
+          2	Tempo
+          1	Terrain Football
+          1	Terrain Tempete
+          1	Terrain de Football
+          1	Terrain de Sport
+          1	Terrain de Sport WARUBONDO
+          1	Terrain de sport de l'Ecole Bihogo I
+          1	Terrain de sport de l'Ecole Bihogo II
+          1	Terrain des dominicains
+          1	Terrain public
+          1	Terrais Parquet
+          1	Tetero
+          2	Teza
+          1	Timothy Bible School
+          1	Together Magasin
+          1	Top Hill Residence Kiriri
+          1	Tourism Center
+          1	Tourism Office
+          1	Toxic Night Club
+          1	Toyota Burundi
+          1	Trans World Radio
+          1	Transversale 3 (Umugeregere w'epfo)
+          1	Tribunal de Résidence de Buterere
+          1	Tropicana
+          1	Tusker malt beer depot
+          1	Tuyisabe
+          1	Twizere
+          1	Témoins de Jéhovah
+          1	UBUNTU RESIDENCE
+          1	UCAR
+          1	UCODE-AMR
+          1	UKWIZERA
+          1	UMOCO HOTEL
+          1	UMOJA HOTEL
+          1	UMUGUMYA LODGE
+          2	UMUVYEYI
+          1	UMWIZERO NYAMAKARABO
+          1	UN FAO
+          1	UNESCO
+          4	UNHCR
+          1	UNION AFRICAINE
+          1	UNITE DE SOIN DE KANYOSHA
+          1	UNITESOINSDUCITY
+          1	UNIVERSITE DU BURUNDI
+          1	UNIVERSITE DU BURUNDI COMPUS KIRIRI
+          1	UNIVERSITE LUMIERE
+          1	UNIVERSITE LUMIERE COMPUS KININDO
+          1	UNIVERSITE LUMIERE DE BUJUMBURA
+          1	UNIVERSITE NTARE RUGAMBA
+          1	Ubuntu Residence
+          1	Ubuyumbu
+          1	Umuco
+          1	Umusozi Manga
+          1	Umusozi Mboza
+          1	Umusozi Twinyoni
+          1	Union en Jesus Christ
+          1	United Nations BINUB
+          1	United Nations Binub Transit camp
+          1	United Nations Binub logistics base
+          1	United Nations Binub property management
+          1	United Nations Binub transport section
+          1	United Nations Development Program
+          1	United Nations High Commissioner for Refugees
+          1	Universite Lumière Compus Mutanga
+          1	Universite Sagesse d'Afrique
+          1	Universite de la Paix et de la Reconciliation
+          1	Universitè de Ngozi
+          1	Université Espoir D' Afrique
+          1	Université Lumière
+          2	Université Martin Luther King
+          1	Université Polytechnique de Gitega
+          1	Université de Bujumbura, Campus Rohero
+          1	Université des Grands Lacs
+          1	Université du Burundi
+          2	Université du Lac Tanganyika
+          1	Univrsité du Burundi , IPA
+          2	Uvira
+          1	VENEZUELA BEST HOTEL
+          1	VERO MOTEL
+          1	VHW office / guest residence
+          1	VIA TANGANYIKA HOTEL
+          1	VICKEL HOTEL
+          1	VILANOVA
+          1	VILLADE DU BON JOUR
+          2	VILLAGE HOTEL
+          1	VYIZIGIRO
+          1	VYIZIGIRO HOTEL
+          1	Vaccination
+          1	Vatican Apostolic Nunciature
+          3	Vente de Matériaux de Construction
+          1	Vers ETS Kamenge
+          1	Villa des Anges
+          2	Village Hotel
+          1	Village Market
+          1	Village d'enfants SOS Muyinga
+          1	Vineyard church
+          1	Visual Ashly Studio
+          1	Volontariato Internazionale Per Lo Sviluppo
+          3	Vugizo
+          1	Vumasi
+          2	Vumbi
+          1	Vumwe
+          1	Vyanda
+          1	Vyimana
+          2	Vyizigiro
+          1	Vyuya
+          1	WH
+          1	WINNERS HOTEL
+          2	WOOD FACTORY (KWA MWARABU)
+          9	Waga
+          2	Waka Waka
+          1	Walungu
+          1	Wasafi Studio
+          1	Waterfront
+          1	Wege House
+          1	Western
+          1	YAGAMAHORO
+          2	YANZA
+          1	YUCCA BEACH
+          1	Yahoo Car
+          1	Yamaha Burundi
+          1	Yamaha Gitega
+          1	Yanza
+          1	Yaranda
+          1	Young Christian's Aid Association - ACHRIS
+          1	ZION BEACH
+          1	ZION HOTEL
+          1	ZONE A HAUT RISQUE " Pente"
+          1	Zeimet
+          1	Zone Kinindo
+          1	agence consultatif en ethique de la cooperation internation
+          1	apecos
+          1	association pour la paix et les droits de l'homme
+          1	association solidec
+          1	au coin de l'esprit saint
+          1	avenue HEHA
+          1	avenue Rweza
+          1	bakery
+          1	buja
+          1	bureau AGB
+          1	bureau Postal
+          1	café resto
+          1	centre médicale physique-esthétique
+          1	chapelle des dominicains
+          1	chez Arbitre claude
+          1	chez Dr AZOTE
+          1	chez Gerard
+          1	chez Marasol
+          1	chez Renovat
+          1	chez SAGITUMA menbre igitito
+          1	chez delphin menbre IGITITO
+          1	chez francois
+          1	chez freddy
+          1	chez jean
+          1	chez jimmy
+          1	chez prof MBOMA
+          1	chez vyisi
+          1	chỗ kiểm tra trạm git0009
+          1	cimetière de la cathédraleéglise
+          1	clan etole du lac tanganyika
+          1	clinique
+          1	ecole fondamentale de rucunda
+          1	ecole primaire
+          1	ecole saint charles de l'espoir
+          1	gege
+          1	groupe saint  denis
+          1	groupe saint benoit
+          1	groupe saint gautier
+          1	groupe saint martin de tour 5
+          1	health center
+          1	hopital DS kirundo
+          1	hotel Rama
+          1	house
+          1	house, residential
+          1	iwacu center
+          1	jumeme
+          1	kanoil
+          1	kanyosha bridge
+          1	karimbi
+          1	kibira
+          3	kijugi
+          1	kiosque avenu mugamba
+          1	kirinyota
+          1	ku kayaga
+          1	l'Ambassade des Etats-Unis
+          1	la Cosette Bar (CHEZ RUBOMO)
+          1	les dominicains(couvent)
+          1	local du groupe La Colombe
+          1	local du groupe la chandelle
+          1	local du groupe saint andre
+          1	lycee clarte notre Dame de Vugizo
+          1	lycee communal yanza
+          1	lycée Etoile de Rumonge
+          1	lycée municipale de Nyakabiga
+          1	lycée musaga
+          1	mWERUZI
+          1	marche Musaga
+          1	meteo
+          1	monument de l' independance
+          1	mugamba
+          1	ndizeye
+          1	okbazar
+          1	paroisse mucunguzi
+          1	paroisse sainte Anne
+          1	pharmacie place de l'indépendance
+          1	police
+          1	poste
+          1	rassemblement du Groupe le Triomphe
+          1	rassemblement du groupr saint urbain
+          1	relax bar plus
+          1	résidence ambassadeur russe
+          1	salon de beate
+          1	salon de beauté
+          1	salon de choiffure chez DARIUS
+          1	secretariat public photocopie relieure
+          1	secretaruin bublique
+          1	shemeza music:the power beyond the sound
+          1	socabu city
+          1	solecs copers
+          1	stade rusaka
+          1	station
+          1	station carburant
+          1	tombe d'H.E.Guillebaud
+          1	top imprimerie
+          1	umusozi Heha
+          1	université lumiere
+          1	water tower
+          1	workshop
+          2	École Primaire Buterere II
+          1	École paramédicale
+          1	École primaire nouvelle oasis
+          1	Étoile du Centre
+          1	Île Akayoba
+          1	Île Kigwa
+          1	église la Porte Ishengero Irembo
+          1	évêque catholique cathédrale
+          1	île d'Akagwa

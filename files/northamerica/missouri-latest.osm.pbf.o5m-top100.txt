@@ -1,0 +1,100 @@
+        606	Main Street
+        362	2nd Street
+        343	3rd Street
+        337	Walnut Street
+        327	Oak Street
+        308	1st Street
+        286	Marceline Subdivision
+        279	Elm Street
+        267	4th Street
+        246	State Highway E
+        244	North Main Street
+        241	State Highway A
+        235	Maple Street
+        228	State Highway H
+        223	State Highway C
+        222	South Main Street
+        219	State Highway M
+        216	Avenue of the Saints
+        212	UP Jefferson City Subdivision
+        209	State Highway D
+        208	McDonald's
+        204	State Highway B
+        202	Pine Street
+        200	5th Street
+        194	Locust Street
+        181	State Highway T
+        181	State Highway J
+        178	State Highway U
+        174	West Main Street
+        174	State Highway F
+        173	State Highway Y
+        170	Washington Street
+        168	State Highway O
+        165	State Highway Z
+        165	State Highway N
+        164	State Highway W
+        164	State Highway V
+        163	Cherry Street
+        161	East Main Street
+        152	State Highway DD
+        149	High Street
+        148	Jefferson Street
+        147	State Highway K
+        146	Truman/Eisenhower Presidential Highway
+        141	Missouri and Northern Arkansas Railroad
+        140	Lakeview Drive
+        140	Katy Trail
+        139	6th Street
+        132	Olive Street
+        131	Subway
+        131	South Street
+        131	Hickory Street
+        130	Phillips 66
+        128	BNSF River Subdivision
+        127	East 3rd Street
+        126	Cedar Street
+        122	State Highway BB
+        121	State Highway CC
+        121	7th Street
+        120	Mississippi River
+        118	West 3rd Street
+        118	State Highway P
+        117	Walmart Supercenter
+        117	Sunset Drive
+        117	State Highway KK
+        117	East 2nd Street
+        116	State Highway AA
+        115	Duplex
+        114	Vine Street
+        114	State Highway EE
+        113	Circle Drive
+        111	North Street
+        109	State Line Road
+        108	State Highway NN
+        108	Olive Boulevard
+        106	BNSF Hannibal Subdivision
+        105	West 2nd Street
+        105	State Highway HH
+        104	Casey's General Store
+        103	East 5th Street
+        103	Clayton Road
+        102	North 2nd Street
+        102	Flat Creek
+        102	East 4th Street
+        100	Park Avenue
+         98	West 4th Street
+         98	Chestnut Street
+         97	West 5th Street
+         97	Taco Bell
+         97	State Highway FF
+         97	Jackson Street
+         97	BNSF Cuba Subdivision
+         96	Walgreens
+         96	East 6th Street
+         95	QuikTrip
+         95	Airport Service Road
+         94	North 3rd Street
+         94	East 1st Street
+         93	Rock Creek
+         93	Grand Avenue

@@ -1,0 +1,100 @@
+        704	APD Highway
+        599	Town Creek
+        451	Main Street
+        402	Shoal Creek
+        384	Church Street
+        370	Perimeter
+        364	Cedar Creek
+        349	Mill Creek
+        346	Rocky Creek
+        327	Beaverdam Creek
+        325	Turkey Creek
+        281	Camp Creek
+        277	Pine Street
+        273	Dry Creek
+        269	Flat Creek
+        265	Bear Creek
+        259	Little Creek
+        251	Oak Street
+        250	Big Creek
+        224	McDonald's
+        219	Railroad Street
+        209	Rock Creek
+        205	2nd Street
+        202	Long Branch
+        195	Wolf Creek
+        190	Broad Street
+        188	Sugar Creek
+        183	Crooked Creek
+        180	Tank Trail
+        180	1st Street
+        172	Waffle House
+        171	Buck Creek
+        170	Cobb Parkway South
+        168	South Main Street
+        165	Eisenhower Parkway
+        163	Roswell Road
+        161	Mud Creek
+        161	Joe Frank Harris Parkway Southeast
+        160	Buffalo Creek
+        160	Alabama Road
+        159	Big Branch
+        158	Walmart Supercenter
+        157	Fishing Creek
+        156	Sandy Creek
+        154	Big Sandy Creek
+        153	Whitewater Creek
+        153	Big Indian Creek
+        152	North Main Street
+        152	Indian Creek
+        151	Sweetwater Creek
+        151	Mountain Creek
+        151	College Street
+        150	Watson Boulevard
+        149	Richland Creek
+        148	Hurricane Creek
+        148	3rd Street
+        146	Sandy Plains Road Northeast
+        143	Atlanta Terminal Subdivision
+        142	Subway
+        142	Lakeview Drive
+        140	Walnut Creek
+        140	Riverside Drive
+        139	County Line Road
+        139	Buford Highway
+        139	Alcovy River
+        138	Hill Street
+        137	Lee Street
+        135	Elm Street
+        134	East Main Street
+        133	Mount Zion Church
+        130	Spring Street
+        129	Poplar Street
+        129	Maple Street
+        129	Cobb Parkway
+        129	4th Street
+        124	Georgia 400
+        124	1st Avenue
+        123	Hawkinsville Road
+        122	University Parkway
+        122	Little River
+        122	Fall Line Freeway
+        122	Deep Creek
+        122	Cherry Street
+        122	Airport Road
+        120	White Oak Creek
+        119	Beaver Creek
+        118	Shell
+        116	Windy Hill Road Southeast
+        116	Cane Creek
+        116	2nd Avenue
+        115	Commissioner Creek
+        114	Wendy's
+        114	Spring Creek
+        113	Larry McDonald Memorial Highway
+        113	Alligator Creek
+        112	Peachtree Parkway Northwest
+        112	Kroger
+        112	Jackson Street
+        110	South Houston Lake Road
+        110	River Road

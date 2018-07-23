@@ -1,0 +1,5544 @@
+          1	(boardwalk)
+          1	(channel)
+          7	(dead end)
+          2	(fish camp)
+          2	(fishcamp)
+          1	(logging camp)
+          1	(old)
+          1	(unknown hamlet)
+          2	03/21
+          1	04/22
+          1	09 / 27
+          1	10/28
+          1	10th Street
+          1	11th Street
+          1	12 / 30
+          1	12th Street
+          1	13th Street
+          3	14/32
+          1	14th Street
+          1	17/35
+          1	17L/35R
+          1	17R/35L
+          1	1st Street
+          1	2.4 settlements
+          1	21
+          1	2K Hospital
+          2	2nd Street
+          1	32 Mw Power House
+          1	3rd Street
+          1	4th Street
+          1	5 mile ridge settlements
+          1	5th Street
+          1	6 mile market
+          2	6th Street
+          1	7th Day Adventist Church Korwa
+          1	7th Street
+          1	8 Mile Market
+          2	8th Street
+          1	9 Miles Market 
+          1	9-Mile
+          1	9-Mile Cemetery
+          2	9th Street
+          2	A Block
+          1	A.O.G. Church
+          1	A1
+          1	ABC Administrative building
+          1	ABC Communication Department
+          1	ACE School
+          1	AD Puma - Accomodation
+          1	AIK Trading LTD
+          1	ANGAU Hospital
+          1	ANZ 
+          1	ANZ Bank
+          1	ANZ Boroko
+          1	ANZ Habour City Bank
+          1	AOG (Assemblies Of God)
+          2	AOG Church
+          1	AVIS
+          1	Aawa Island
+          1	Aba Evara Islet
+          1	Abal Street
+          1	Abau
+          1	Abau District
+          1	Abau Island
+          1	Abaura Island
+          1	Abaurai Island
+          1	Abavi Island
+          1	Abel Street
+          1	Abel Tasman Street
+          1	Abiara Oreke
+          1	Ablaugul Island
+          1	Ablingi Island
+          1	Abo Island
+          1	Aborigine Street
+          1	Abukiri Island
+          1	Aburu Island
+          1	Acacia Street
+          2	Accommodation
+          1	Accommodation Block
+          1	Adare Street
+          1	Adele Islet
+          1	Adira Street
+          1	Adiwi Island
+          1	Administration
+          1	Administration Centre
+          1	Administrative College
+          1	Admiralty Islands
+          1	Admosin Island
+          1	Adventist University
+          1	Aeginimi Islands
+          1	Afalif
+          1	Afimbil
+          1	Afufuwin
+          1	Agenahombo
+          1	Agevairu
+          1	Agley Wharf
+          1	Ago Street
+          1	Agolo Drive
+          1	Agur Island
+          1	Agwihimbil
+          1	Ahana Rock
+          1	Ahet Island
+          1	Ahowa-Hui Island
+          1	Ahowu Roto Island
+          2	Ahu Island
+          1	Ahuia Street
+          1	Ai'iere
+          1	Aiaisina Island
+          1	Aibigahe
+          1	Aibinio Island
+          1	Ailo Island
+          1	Aimei
+          1	Aiome Airport
+          2	Air Corps Road
+          1	Air Corps Road;Morobe Avenue
+          1	Air Lock - Security Check
+          2	Air Niugini
+          1	Air Niugini Office
+          1	Air Nuigini Office
+          1	Airport Local Church, PNG Christain Fellowshiop
+          1	Airport Road
+          1	Airstrip (abandoned)
+          1	Airstrip Access Stream
+          1	Airvos Avenue
+          1	Airways Avenue
+          1	Airways Hotel
+          1	Airways Hotel - Poolside Restaurant
+          1	Ais Islet
+          1	Aitape
+          1	Aitape Airstrip
+          1	Aitape Circuit
+          1	Aitape District
+          1	Aitara
+          1	Aiun
+          1	Aiva Street
+          1	Aivet Island
+          2	Aiyauk Nepu
+          1	Aiyura Airport
+          1	Aka
+          2	Akaifu River
+          1	Akani Island
+          1	Akau
+          1	Akau Elementary School
+          1	Akearama
+          1	Akib
+          1	Akib Island
+          1	Akoma
+          1	Akoma-Maipenairu channel
+          1	Akwahisim
+          1	Ala
+          1	Ala Street
+          1	Ala'ala
+          1	Alage Island
+          1	Alagufita
+          1	Alas Islands
+          1	Albatross channel
+          1	Albert Hahl Road
+          1	Albinama 2
+          1	Albinama Health Centre
+          1	Albinama road
+          1	Alcester Island
+          1	Alcester Islands
+          1	Alealer River
+          1	Alefef
+          1	Aleford Islands
+          1	Alele Island
+          1	Alexander passage
+          2	Ali Island
+          1	Aliat Rocks
+          2	Alim Island
+          1	Alkena 1
+          1	Alkena 2
+          1	Alkena 2 Helath Centre
+          1	Alkena 3
+          2	Alkena 4
+          1	Alkena Primary School
+          1	Allan & Rose
+          1	Alligator Island
+          1	Alola
+          1	Alotau
+          1	Alotau Bus Station
+          1	Alotau Family Store
+          1	Alotau Fire Department
+          1	Alotau Hospital
+          1	Alotau International Hotel
+          1	Alotau Market
+          1	Alotau Police Station
+          1	Alotau Post Office
+          1	Alotau Sportsfield
+          1	Alotau Street
+          1	Alotau Supermarket
+          1	Alotau Wharf
+          1	Alton Island
+          3	Alua River
+          1	Alungokaku Island
+          1	Amahup
+          1	Amanab District
+          1	Amazon Islets
+          1	Ambitle Island
+          1	Ambu Street
+          1	Ambua Lodge
+          1	Ambun Rock
+          1	Ambungi Island
+          1	Ambunti
+          1	Ambunti Airport
+          1	Ambunti District
+          1	Ameaka
+          1	Ameisen Island
+          1	Amerer Island
+          1	Ameri Place
+          1	Amge Island
+          1	Amgolo River
+          1	Ami Island
+          2	Amihiwa
+          1	Amogo Place
+          1	Amoora Street
+          1	Amor Islands
+          1	Amot Island
+          2	Amotu
+          1	Amphlett Group
+          1	Ampul Island
+          1	Amrikas
+          1	Amuk River Bridge
+          1	Amy Old House
+          1	Ana Karu Karua
+          2	Analtin Island
+          1	Anamapi
+          1	Andari
+          1	Andawale
+          1	Andawale 1 Ward
+          1	Andawale 2 Ward
+          1	Andawale Aid Post
+          1	Anderson
+          1	Andewale Marketplace
+          1	Andira
+          1	Andra Island
+          1	Anelaua Island
+          1	Angalia river
+          1	Angamanu
+          2	Angat
+          2	Angau Drive
+          1	Angau Drive Mall
+          1	Angaya
+          1	Angaya road
+          1	Angel Island
+          1	Anglican Church Compound
+          3	Angoram
+          1	Angoram District
+          3	Angoram Road
+          1	Angore
+          1	Angore Marketplace
+          1	Anguale
+          1	Anguganak Airport
+          1	Angup Island
+          1	Aniani Street
+          1	Anigl Primary School
+          1	Anitua Mining Services
+          1	Anminik
+          1	Anminik Market
+          1	Anobat Island
+          1	Antarara Island
+          1	Anton Village, whale backbone
+          1	Anum Island
+          1	Anur Island
+          1	Anuro Island
+          1	Anusagari Island
+          1	Anusagaro Island
+          1	Anusau Island
+          1	Apau Place
+          1	Apeawa
+          1	Apiope
+          1	Apuo Island
+          1	Ara'ava Primary
+          1	Ara'ava Track
+          1	Arafundi River
+          1	Arak Rock
+          1	Araltamu Island
+          1	Aramia Island
+          1	Araopokina Camp
+          1	Araupa Island
+          1	Aravure Primary School
+          2	Arawa
+          1	Arawa Health Center
+          1	Arawa Main Market
+          1	Arawa Police Station
+          1	Arawe Island
+          1	Arawe Islands
+          1	Arch Islands
+          1	Arehava Street
+          1	Arem
+          1	Arere Street
+          1	Ariel Road
+          1	Arili Island
+          1	Arimegi Island
+          1	Aris Island
+          1	Armit Street
+          1	Aroa Plantation
+          1	Aromot Island
+          1	Aronaimutu Island
+          2	Aropa Airport
+          1	Arowak Island
+          1	Arowe Island
+          1	Arua Place
+          1	Asalau
+          1	Asama
+          1	Asapuf
+          6	Asaro River
+          1	Aseki
+          1	Aseki Health center
+          1	Aseki Lutheran Church 
+          1	Aseki Lutheran Highschool 
+          1	Aseki Lutheran Primary School 
+          1	Aseki Main Market 
+          1	Ash Street
+          1	Aslan Court
+          1	Assemblies of God
+          1	Assembly of God Church
+          1	Astrolabe Bay
+          1	Ata Street
+          1	Atawilif
+          1	Atkamba Airport
+          1	Atlas Island
+          1	Atomo
+          1	Atuio Island
+          1	Au Island
+          1	Au Point
+          1	Aua Island
+          2	August River
+          1	Aulifi
+          1	Aumu
+          1	Auna Island
+          1	Aunamo
+          1	Aupio
+          2	Aupunik
+          1	Aurabada Street
+          1	Auriroa Island
+          1	Aurobu Islet
+          1	Ausak Island
+          1	Australia
+          1	Australia Exclusive Economic Zone
+          1	Australia ― France (exclusive economic zones)
+          1	Australia ― Papua New Guinea (exclusive economic zones)
+          2	Australian High Commission
+          1	Australian War Cemetery
+          1	Autonomous Region of Bougainville
+          1	Autubu Street
+          1	Autubua Road
+          1	Auwi
+          1	Avabadina
+          1	Avahain Island
+          1	Avaka Street
+          1	Aviat Sports Club
+          1	Aviat Sports Club Wing 2
+          1	Aviat Street
+          1	Avungai Island
+          1	Awa
+          1	Awa Correctional Institution
+          1	Awaba Airport
+          1	Awahinama
+          1	Awaliguf
+          1	Awang Island
+          1	Awaruat Island
+          1	Awe (Ilahita 5)
+          1	Aweleng Island
+          1	Aweleng Islands
+          1	Awilupunaw
+          1	Awin Island
+          1	Awrin Island
+          1	Awuane Islet
+          1	Awulu Islands
+          1	Ayana
+          3	Ayana river
+          1	B Block
+          1	B-17 Flying Fortress
+          1	B16 Workshop
+          1	B20
+          1	B25 Mitchell wreckage
+          1	BOC Gases
+          3	BSP
+          1	BSP Agent
+          2	BSP Bank
+          1	BSP Boroko
+          1	BSP Buka
+          1	BSP Daru
+          1	Ba'anitagol
+          1	Ba'e River
+          1	Babaga Street
+          1	Babagarai Islet
+          1	Babaguna
+          1	Babagutu Island
+          1	Babaibari Island
+          1	Babase Island
+          1	Babiko
+          1	Backstage
+          1	Badaten Road
+          1	Badihagwa High School
+          1	Badihagwa Road
+          1	Badila Bedda Bedda Bonarua Island
+          1	Badili Police Station
+          1	Badu Island
+          1	Badu Street
+          1	Bagabag Island
+          1	Bagai Um Islet
+          1	Bagaka Place
+          1	Bagaman Island
+          1	Bagamoti Island
+          1	Bagiagia Island
+          1	Bagildik
+          1	Bagita Street
+          1	Baia Baia Karona
+          1	Baiabe Island
+          1	Baibara Island
+          1	Baibesiga Island
+          1	Baiiri Island
+          1	Baikai Island
+          1	Baimsin Island
+          1	Baimumu Crescent
+          1	Baimumu Place
+          2	Baimuru
+          1	Baimuru Airport
+          1	Baimuru Health Centre
+          1	Baimuru Market
+          1	Baimuru Primary
+          3	Baimuru Trading
+          1	Baisu Correctional Institution
+          1	Baitabag
+          1	Baitoti
+          1	Baiune
+          1	Baiune High School
+          1	Baiune River
+          1	Baiwa Islet
+          1	Baiyer River
+          1	Baiyer Road
+          1	Bakawari Island
+          1	Bakoba Island
+          1	Balam Street
+          1	Balang Island
+          2	Balanga (Ilahita 4)
+          1	Balauta
+          1	Bald Mountains
+          1	Bald Mountains Valley 
+          1	Baleki
+          1	Balif - Ilahita Road
+          1	Balif Mobile Phone Tower
+          1	Balif-Ilahita Road
+          2	Balimo Airport
+          1	Balimo District
+          1	Baling Street
+          1	Baluan Island
+          1	Balum Island
+          1	Balumara Island
+          1	Bam
+          1	Bamal Island
+          1	Bamu TB Treatment Point
+          1	Bananas
+          1	Banap
+          1	Banara Catholic Primary School
+          2	Banban Island
+          1	Band
+          1	Bandar Udara Waris
+          1	Bang Elementary School
+          1	Bangalum Bridge
+          1	Bangar
+          1	Bangatang Island
+          1	Banghai Street
+          1	Bangulangula Island
+          1	Baniara District
+          3	Bank South Pacific
+          3	Bank of South Pacific
+          1	Banksia Street
+          1	Banz
+          5	Banz (North) Road
+          1	Baptist Church
+          1	Barabara & John
+          1	Barahun Island
+          1	Barakau
+          1	Bare Rock
+          1	Barek Island
+          1	Bareto Street
+          1	Barge Ramp
+          1	Baro
+          1	Baronga Island
+          1	Barra Bar
+          1	Barragolo Island
+          1	Barramundi Hatchery
+          1	Barrie Crescent
+          1	Barrier Islands
+          1	Barton Place
+          1	Basilaki Island
+          1	Basses Island
+          1	Basses Islands
+          1	Bat Islands
+          1	Bat-Tam Island
+          1	Batri Primary School
+          1	Batri Road
+          1	Batteru Island
+          1	Battle for Milne Bay Memorial
+          1	Battle of Milne Bay Monument
+          2	Bau Bau Street
+          1	Bau Island
+          1	Bau Street
+          1	Baudisson Island
+          4	Bauhinia Avenue
+          1	Bauhinia STreet
+          1	Baungung
+          4	Bava Street
+          1	Bavaroka Primary School
+          1	Bavi
+          1	Bavo Island
+          1	Bawareboine Island
+          1	Bayliss Road 1
+          1	Bayliss Road 2
+          1	Beach Estate
+          1	Bede Place
+          1	Beech Street
+          1	Beetlenut open marketplace
+          1	Bego Crescent
+          1	Begue Settlement
+          1	Beika Island
+          1	Bekoro Village
+          1	Bel Cibo
+          1	Bela
+          1	Beliau Island
+          1	Beligila Island
+          1	Belltek Chemicals
+          1	Belobeloia Island
+          1	Belopa
+          1	Bema Mission
+          1	Bemlon Street
+          2	Bena Bena river
+          3	Benaria Road
+          1	Bendaun Market
+          1	Bennet Island
+          1	Bentley Island
+          1	Benukanare Island
+          1	Benzin Road
+          1	Bereadabu
+          1	Bereina
+          1	Bereina (Abiara)
+          1	Beremer Crescent
+          5	Berna Bena road
+          1	Bernal Street
+          1	Besele Street
+          1	Best Buy
+          1	BestMan Electrical Engineering
+          1	Betty Bomber
+          1	Bevan Island
+          1	Bevan Place
+          1	Beverley Crescent
+          1	Bewani
+          3	Bewani Road
+          1	Biala
+          1	Bialao Island
+          1	Bialla Airport
+          1	Bienen Islands
+          1	Big Malumalu Island
+          1	Big Ndrova Island
+          1	Big Pigeon Island
+          1	Big Rooster
+          1	Bihute Correctional Institution
+          1	Biku Street
+          1	Bil Bil Island
+          1	Bilbil Pottery
+          1	Bilihe Island
+          1	Binakomata Island
+          1	Binaturi River
+          1	Bingbingseng Island
+          2	Binnen Island
+          1	Binnen Road
+          1	Bion Island
+          1	Biotou
+          1	Bipi Aid Post
+          1	Bipi Island
+          2	Bird of Paradise
+          1	Bird of Paradise Hotel
+          1	Biri Camp
+          1	Biri Street
+          1	Biringa Street
+          1	Bishop Brothers
+          1	Bishop Brothers 
+          1	Bisi
+          1	Bisini Road
+          1	Bismarck Archipelago
+          1	Bismarck Sea
+          1	Bit Island
+          1	Bita Paka War Cemetary
+          1	Bitapaka Street
+          1	Bitbok Island
+          1	Bitiku Island
+          1	Bitkangkunmale Island
+          1	Bitkesinmer Island
+          1	Bitlik Island
+          2	Bitoi River
+          1	Bittern Place
+          1	Bituri
+          1	Biuru Avenue
+          1	Black Rock
+          2	Black Rocks
+          1	Blackwater River
+          1	Blakeney Island
+          1	Blanche
+          1	Blanche Bay
+          1	Blanche Street
+          1	Bligh Street
+          1	Blue Lagoon Lookout
+          2	Blup Blup
+          1	Boang Island
+          2	Boarding House
+          2	Boatstop
+          1	Bobo Eina Island
+          1	Boboa Island
+          1	Boboa Islet
+          1	Boboro Place
+          1	Bodua Place
+          3	Boe Vagi Road
+          1	Bogajim School
+          1	Boge Place
+          1	Bogi
+          1	Bogia District
+          1	Boia Boia Waga Island
+          1	Boinagi Island
+          1	Boio Street
+          1	Boirama Island
+          1	Boising
+          1	Boiteka
+          1	Bolain Island
+          1	Boliu Island
+         34	Boluminski Highway
+          1	Bomana
+          1	Bomana Back St
+          1	Bomana CIS
+          1	Bomana Catholic College
+          1	Bomana Front St
+          1	Bomana TB Treatment Point
+          1	Bomano Prison
+          2	Bomapau Island
+          1	Bombax Street
+          1	Bona Bona Island
+          1	Bona Motu
+          2	Bona Rua Dai Daiwa
+          1	Bonala
+          1	Bonarua Hili Hili
+          1	Bonarua Tau Tau Pusuri Island
+          1	Bongu Community School
+          1	Bongu Village
+          1	Boni Street
+          1	Bonna Bonnawan
+          1	Bonna Wan Islet
+          1	Bonvouloir Islands and Reefs
+          1	Borabora Sett.
+          1	Boragaino Road
+          9	Boram Road
+          1	Border Central-NCD
+          1	Border East Sepik - Enga
+          1	Border East Sepik - Hela
+          2	Border East Sepik - Madang
+          1	Border Eastern Highlands - Gulf
+          1	Border Eastern Highlands - Morobe
+          3	Border Enga - Hela
+          1	Border Enga - Madang
+          1	Border Enga - Southern Highlands
+          1	Border Enga - Western Highlands
+          2	Border Gulf - Central
+          1	Border Gulf - Morobe
+          2	Border Hela - Southern Highlands
+          1	Border Komo-Margarima - Koroba-Kopiago
+          2	Border Komo-Margarima - Tari-Pori
+          2	Border Milne Bay - Central
+          1	Border Morobe - Central
+          2	Border Morobe - Oro
+          1	Border Oro - Central
+          2	Border Oro - Milne Bay
+          7	Border Papua New Guinea - Indonesia
+          2	Border Sandaun - East Sepik
+          2	Border Sandaun - Hela
+          1	Border Simbu - Eastern Highlands
+          1	Border Simbu - Gulf
+          1	Border Southern Highlands - Gulf
+          1	Border Southern Highlands - Simbu
+          3	Border Southern Highlands - Western Highlands
+          1	Border Tari-Pori - Koroba-Kopiago
+          1	Border Village
+          3	Border West / East New Britain
+          2	Border Western - Gulf
+          1	Border Western - Sandaun
+          1	Border Western - Southern Highland
+          2	Border Western Highland - Hela
+          1	Boridi
+          1	Boroko
+          5	Boroko Drive
+          1	Boroko East Primary School
+          1	Boroko Market
+          4	Boroko Motors
+          1	Boroko Recreation Ground
+          2	Boroko Substation
+          1	Boromura Island
+          1	Borono Island
+          1	Botai Place
+          1	Botanical Gardens
+          1	Bougainville
+          2	Bougainville Island
+          1	Bougainville Peace Building Plan
+          1	Bouganville Crescent
+          2	Bouganville Drive
+          1	Boundary Road
+          1	Boutique Hotel
+          1	Boven Digoel
+          1	Bovo river
+          1	Bowat-Mission
+          1	Bowerbird Road
+          1	Bowling Club
+          1	Boyen Island
+          1	Brahmin
+          1	Bramell Street
+          1	Brampton Street
+          1	Braun Memorial Hospital Butaweng
+          1	Brechin Street
+          1	Brethren Isles
+          3	Brian Bell
+          1	Brian Bell Home Centre
+          1	Brian Bell Show Room
+          1	Brian Bell Street
+          1	Brian Bell Warehouse
+          1	Bricelon Island
+          1	Bridge Bar
+          1	Bridge Stone
+          1	Bridgestone Tyres
+          1	Bright Island
+          1	Bristow Island
+          1	Browne Island
+          1	Bruce & Fatima
+          1	Brumer Islands
+          1	Bruno
+          1	Brushwood Drive
+          1	Buai Market
+          1	Buan Aid Post
+          1	Buan Village
+          1	Buang River
+          1	Bubu River
+          1	Buceros Island
+          1	Buchanan Avenue
+          1	Budelun Island
+          1	Budoa Avenue
+          1	Buess Island
+          1	Buffalo Burgers
+          1	Bugi Island
+          1	Bui Bui
+          1	Bui Iebi
+          1	Bui Iebi Correctional Institution
+          1	Buiawim River
+          3	Building
+          4	Buimo Road
+          1	Buin
+          1	Buin Airport
+          1	Buin District
+          3	Buingili (Ilahita 6)
+          1	Buisaval River
+          2	Buka
+          1	Buka Airport
+          1	Buka Catholic Church
+          1	Buka District
+          1	Buka Enterprises
+          1	Buka General Hospital
+          1	Buka Island
+          1	Buka Market
+          1	Buka Market boatstop
+          1	Buka Passage
+          1	Buka Police Station
+          1	Bukulan Island
+          1	Bulding
+          1	Buledi Street
+          1	Bulolo
+          1	Bulolo Airport
+          1	Bulolo Bowling Club
+          1	Bulolo Golf Club
+          1	Bulolo Golf Course
+          1	Bulolo Hospital
+          1	Bulolo International Primary School
+          1	Bulolo Market
+          1	Bulolo Plantation
+          1	Bulolo Police
+          1	Bulolo Post Office
+          2	Bulolo River
+          1	Bulolo Rugby Field
+          1	Bulolo Town
+          1	Bulolo Vocational School
+          1	Buluma
+          1	Bumborum Island
+          1	Bumbu River
+          5	Bumbu Road
+          1	Bumbunu Island
+          1	Bumi River
+          1	Buna Circuit
+          1	Bunabun
+          1	Bunaeba Island
+          1	Bundi
+          1	Bundro Island
+          1	Bunora Islet
+          1	Bunu
+          1	Bura
+          1	Buri
+          1	Buri Passage
+          1	Buriwadi Island
+          1	Burns Peak
+          1	Burns Peak Road
+          1	Buro Island
+          1	Bus Depot
+          1	Bus to Rabaul
+          1	Busbin
+          1	Bushy Islet
+          1	Bushy Islets
+          1	Buso River
+          1	Busseau Island
+         17	Busu Road
+          1	Butangelu Island
+          1	Butaweng
+          1	Butcher Street
+         11	Butibum Road
+          1	Butjo Lang Island
+          1	Butjo Luo Islets
+          1	Butjo Mokau Island
+          1	Butterfly Coffee Shop
+          2	Button Island
+          1	Button Islet
+          1	Butubutu Street
+          1	Bwasikaene
+          1	Byron Island
+          1	Byron strait
+          1	CA DONGA
+          1	CAMP A LNG Plant Site
+          1	CFC Church
+          1	CHM Corporate Park One
+          1	CITY HALL
+          1	CLTC Clinic
+          1	Callen Services
+          6	Cameron Road
+          1	Camp 2 Bus Area
+          1	Camp 3
+          1	Campus Settlement
+          1	Cananga Street
+          1	Canberra Crescent
+          1	Cannac Island
+          1	Canoe Island
+          1	Cape Concordia
+          1	Cape Croilles
+          1	Cape Gloucester
+          1	Cape Gloucester Airport
+          1	Cape Iris
+          1	Cape Rodney
+          1	Cape Rodney Airport
+          1	Cape Ventenat
+          1	Capella
+          1	Cardale Rock
+          1	Cargo Terminal
+          1	Carlton Island
+          1	Carpenters Hardware
+          1	Carteret Islands
+          1	Cassia Avenue
+          1	Cassia Crescent
+          1	Cassowary Island
+          1	Cassowary Road
+          1	Cassowary Road 1E
+          1	Castlereagh Street
+          1	Castori Islets
+          1	Casuaraina Avenue
+          1	Casuarina Island
+          1	Casuarina Place
+          3	Catholic Church
+          1	Catholic Curch
+          1	Catholic Theological College
+          1	Catholic Youth Center
+          1	Cedar Road
+          1	Cedar Street
+          1	Cedarbank Street
+          1	Center Auto Parts
+          1	Center Road
+          1	Central
+          1	Central Avenue
+          1	Central Province
+          1	Central Provincial Transport Authority
+          1	Chahlossa Islet
+          1	Chalata Island
+          1	Chalmers Crescent
+          1	Chalmers Street
+          1	Chalou Island
+          1	Chamisso channel
+         20	Champion Parade
+          1	Channel from Varoi to Purari
+         46	Charles Abel Highway
+          1	Chater Street
+          1	Chemcare
+          1	Cheongs Supermarket
+          1	Chester Street
+          1	Chesterfield Street
+          2	Chilling Island
+          1	Chimbu Airport
+          1	Chimbu Province
+          1	Chinatown 
+          1	Chinsurah
+          1	Chirimosh Island
+          1	Chissi Island
+          1	Choiseul Province
+          1	Chokua Island
+          1	Christian Compound
+          1	Christian Radio Missionary Fellowhip
+          1	Chuave
+          1	Chuave District
+          1	Chuave Secondary School
+          1	Chungribu Airport
+          1	Church
+          1	Church Bell
+          1	Church Road
+          1	Church Street
+          5	City Pharmacy
+          1	Classroom Grade 1 and 2
+          1	Classroom Grade 3
+          1	Classroom Grade 4 and 5
+          1	Classroom Grade 6 and 7
+          1	Classroom Grade 8
+          1	Cloudlands Hotel
+          1	Clubhouse
+          1	Coastwatchers Memorial
+          1	Coca Cola
+          1	Coca Cola Amatil
+          1	Coca Cola Container Yard
+          1	Cocked Hat Island
+          4	Cocoa Fermentary
+          1	Coffe Kave
+          1	Coffee Mill 
+          1	Coke Cola Depot, Mt. Hagen
+          1	Cold Mountain View 
+          1	Colombia Street
+          1	Colwatama riverside marketplace
+          1	Commercial / Industrial Area
+          1	Commodore Bay
+          1	Common kitchen
+          1	Compton River
+          1	Comrade Haus
+          1	Conflict Group
+          1	Consort
+          1	Container City
+          1	Container Depot
+          1	Container Lay Down Area
+          2	Convicts block
+          1	Convoy Stop
+          1	Coot Place
+          1	Copra House
+          2	Copra Smoke House
+          1	Coral Sea Marine Park
+          2	Cormorant Street
+          1	Cornerstone Church
+          2	Coronation Drive
+          1	Coronation Drive Guesthouse
+          1	Coronation Park
+          1	Country Women Association
+          1	Court House
+          1	Courthouse
+          1	Courts
+          1	Courts PNG
+          1	Coutance Island
+          1	Craigs Pillar
+          1	Crake Place
+          2	Crane Street
+          1	Credner Islands
+          1	Crossing
+          1	Croton Street
+          1	Crow's Nest Hotel
+          1	Crown Island
+          1	Crowne Plaza Hotel
+          1	Crows Road
+          1	Cultural Centre
+          2	Curlew Street
+          1	Curtis Street
+          1	Cuthbertson House
+          2	Cuthbertson Street
+          1	D'Albertis Street
+          1	D'Entrecasteaux Islands
+          1	DGH TB Treatment Point
+          1	Dabara Street
+          1	Dabu Street
+          1	Dabunari
+          1	Dadda Hai Islet
+          1	Dadwai Island
+          1	Daewon Trading LTD
+          1	Dagadagabonalua
+          1	Dagi
+          1	Dagoda
+          1	Dahaka Place
+          1	Daiwari Island
+          1	Daka Street
+          1	Dakota Place
+          1	Dal Crescent
+          1	Dallman Street
+          1	Dalonda
+          1	Dalonda Marketplace
+          1	Damanawe / Good Island
+          1	Dambach Islands
+          1	Dambi Street
+          1	Damdamauk Island
+          1	Dampier Strait
+          1	Damu Street
+          1	Damunu
+          1	Danawa Islet
+          1	Danlilian River
+          1	Danuagua Island
+          1	Daradara Street
+          1	Dari-Momo Island
+          1	Darodaro Place
+          1	Daru
+          1	Daru Airport
+          1	Daru Chalmers Primary School
+          1	Daru District
+          1	Daru General Hospital
+          1	Daru Island
+          1	Daru Montfort Primary School
+          1	Daru RPC Police Station
+          1	Daru Secondary School
+          1	Datec PNG
+          1	Daubodai Island
+          1	Daugo Drive
+          1	Daugo Island
+          1	Daugo Islands
+          1	Dauli
+          1	Dauli Aid Post
+          1	Dauli Demonstration School
+          1	Dauli Marketplace
+          1	Dauli Marketplace 2
+          1	Daulo Pass Summit
+          1	Daura Island
+          1	Daure Crescent
+          1	Davarra Road
+          1	Davetari Drive
+          1	Dawadawa River
+          2	Dawapia Rocks
+          1	Dawari Island
+          1	Dawasi Cemetery
+          1	Dawok Island
+          1	Dawson Island
+          1	Dawson Strait
+          1	De La Salle Secondary School
+          1	Deboismenu Catholic Mission
+          1	Debona Crescent
+          1	Deboyne Atoll
+          1	Deboyne Island
+          1	Deedes Islet
+          1	Defens Haus
+          1	Dei Place
+          1	Deia Island
+          1	Deika Deika
+          1	Deirina Island
+          1	Dekatause
+          1	Dekawaese
+          1	Delami Island
+          2	Demakwa Wafi access road
+          1	Denglu
+          1	Dental College
+          1	Deparment of Labor
+          1	Department of Health
+          1	Department of Mineral Policy and Geohazards Management & De
+          2	Department of Works
+          1	Destiny
+          1	Destiny Church
+          1	Destiny Guesthouse
+          1	Diabetic Centre
+          1	Diama Island
+          1	Diamond Island
+          1	Diara Street
+          1	Dibiri Island
+          1	Dickitama
+          1	Didi Bun Sett.
+          1	Didibuna
+          1	Didigilo Island
+          1	Digaragara Island
+          3	Digicel Antenna
+          1	Digicel Foundation Elementary School
+          1	Digicel Office
+          1	Digicel PNG
+          1	Digicel Tower
+          3	Digicel tower
+          1	Digo Place
+          1	Digohe Street
+          1	Diharoha Primary School
+          1	Diho Avenue
+          1	Dihotavi Place
+          1	Dikagari Road
+          1	Dikarua Island
+          1	Dililo Island
+          1	Dinana Island
+          1	Dingen Island
+          1	Disa
+          1	District  Office
+          2	District Court House
+          1	District Office
+          1	District Treasury Office
+          1	Diumana
+          1	Divine Word University
+          1	Diwai Post Office
+          1	Doa Plantation
+          1	Dobani ECPNG Church
+          1	Dobel Guest House
+          1	Dobel Substation
+          1	Dobu Island
+          1	Doctor Point
+          2	Dodo Street
+          1	Dogigi Island
+          1	Dogodo Crescent
+          1	Dogope Island
+          1	Dogura Place
+          1	Doibo
+          2	Doini Island
+          1	Dokfuma
+          1	Doko Street
+          1	Doma Street
+          1	Dome Peaks
+          1	Domestic
+          1	Domori Island
+          1	Don Bosco Technical College
+          1	Donuwo
+          1	Dopima
+          1	Doreen Place
+          1	Dorido Street
+          1	Doroga Place
+          1	Dotterel Street
+          3	Douglas Street
+          1	Doura Street
+          1	Dove Place
+          1	Dowapia Street
+          1	Doyle Street
+          1	Drayton Street
+          1	Driniumor River
+          1	Drummond Street
+          1	Duad Island
+          1	Duaga Islet
+          1	Dublin Road
+          1	Dubuaru Island
+          1	Dubuwaro Island
+          1	Duchateau Islands
+          1	Duchess Island
+          1	Duei Island
+          1	Duffy PNG
+          1	Dugumenu Island
+          1	Dui Dui Bani Island
+          1	Duipoi Island
+          1	Duke of York Island
+          1	Duke of York Islands
+          1	Dumanai Seaview Beer Store
+          1	Dumar
+          1	Dumduman Island
+          1	Dumoulin Islands
+          1	Dump 44
+          1	Dump 44 incorrect sign
+          1	Dump 88
+          1	Dump Site (Waste)
+          1	Duna Place
+          1	Dundu Rock
+          1	Dunlin Crescent
+          1	Dunlop
+          1	Dunlop Tyres
+          1	Dunung Island
+          1	Duperre Islets
+          1	Duro Island
+          1	Duru Place
+          1	Durville Street
+          1	Dyaul Island
+          1	D’Albertis Fairfax Group
+          1	D’Albertis Island
+          1	D’Entrecasteaux Islands
+          1	D’Lole Island
+          1	EBC Church
+          1	EBC Dobel
+          1	EBN House
+          1	EC PNG Church
+          4	ECPNG Church
+          1	ECPNG Church Mondololo
+          3	ECPNG Compound
+          1	ECPNG Dalonda Church
+          1	ECPNG Karita Aid Post
+          2	ECPNG Mission
+          1	EFM Container Storage
+          1	EM TV Headquarters
+          1	ERMC
+          1	ESAI Trading
+          1	ESCO Electrical wholesalers & Distributors
+          1	Eagle Hardware
+          1	Eagle Rock
+          2	Eagle Street
+          1	Earth Station Road
+          1	East Boroka settlements
+          1	East Cape
+          1	East Iguari Island
+          1	East Island
+          1	East Islands
+          1	East Islet
+          1	East Lorengau Transit Center
+          1	East New Britain
+          1	East New Britain Province
+          1	East Reef (Lebolōb)
+          1	East Sepik
+          1	East Sepik Province
+          1	East West Transport
+          1	East West Transport Yard
+          1	Eastern Highlands
+          1	Eastern Highlands Province
+          1	Eava Street
+          1	Ebala Place
+          1	Ebanalu Island
+          1	Ebegau
+          1	Eboma Island
+          1	Ebony Place
+          1	Ecuador Street
+          1	Eda Ramu Water Treatment Area
+          1	Eden Restaurant
+          2	Edie Creek
+          1	Edmago Island
+          1	Edward Baxter Riley Church
+          1	Efogi
+          1	Egum Atoll
+          1	Egum Islet
+          1	Ehiki Islet
+          1	Eia River
+          1	Eighth Street
+          1	Eilgul
+          1	Eilgun Island
+          1	Einamu Islet
+          1	Ekaleu Islet
+          1	Ekopa
+          1	Ekure Crescent
+          1	El Place
+          1	Ela Beach
+          1	Ela Beach Hotel
+          1	Ela Beach Primary School
+          2	Ela Beach Road
+          3	Ela Motors
+          1	Ela Police Barracks
+          1	Ela Street
+          1	Ela-Makana Street
+          1	Elais Road
+          1	Elamakana1
+          1	Elanese Road
+          1	Elcom Power Station
+          1	Electrical Reliability Engineering
+          3	Elementary School
+          1	Elevala
+          1	Elevala Road
+          2	Elilip (Ilahita 3)
+          1	Elizabeth Street
+          1	Elizabeth's Cafe
+          1	EllWell Street
+          1	Ellangowan Island
+          2	Elliot Street
+          1	Eloaue Island
+          1	Elomusao Island
+          1	Elte
+          1	Elutu
+          1	Emananus Island
+          1	Embassy of France
+          1	Embassy of Japan in Papua New Guinea
+          1	Emerald Street
+          1	Emhoro Island
+          1	Emiko Guesthouse
+          1	Emirau Airport
+          1	Emirau Island
+          1	Emmanuel Lodge
+          1	Emusau Island
+          1	Enalik Island
+          1	Enang Island
+          1	Enehako Street
+          1	Enga
+          1	Enga Place
+          1	Enga Province
+          1	Engineer Group
+          1	Enos Drive
+          1	Enuk Islands
+          3	Eora Creek
+          1	Epoko Islet
+          1	Era Goilavi
+          1	Era Kiti Primary School
+          1	Era Maipu'a
+          1	Erave
+          1	Erave Airport
+          1	Erave Council Chamber
+          1	Erave District
+          1	Erave High School
+          1	Erave Hospital
+          1	Erave Marketplace
+          1	Erave Primary School
+          1	Erave River
+          2	Erave Road
+          1	Ereve (former)
+          1	Erica Street
+          1	Erima
+          1	Erima Street
+          2	Erkaktapao
+          1	Ero
+          1	Eros Street
+          1	Erskine Street
+          1	Erupi Place
+          1	Erventa Islet
+          1	Esa Ala Place
+          1	Esa'ala
+          1	Esa'ala Airport
+          1	Esa’ala District
+          1	Etuitui Island
+          1	Eugenie Island
+          1	Exodus of Christ Believers from Mbuke to Warl
+          1	Exxon Building
+          2	Exxon Waste Management Plant
+          1	FINCORP HAUS
+          1	Failure Rocks
+          1	Fairywren Street
+          1	Falcon Street
+          1	Fangalawa
+          2	Farmers' Market
+          1	Farmland
+          1	Farmset
+          1	Fatima Secondary School
+          1	Fedarb Islands
+          1	Female Block
+          1	Female Block Kitchen
+          1	Feni Islands
+          1	Ferguson Island
+          3	Fergusson Island
+          1	Few Traditional Slits Houses
+          2	Fifth Street
+          1	Fig Street
+          1	Filifulu-um
+          1	Filipino Association of Papua New Guinea
+          1	Finance Department
+          1	Finch Place
+          2	Finschhafen
+          1	Finschhafen Airport
+          1	Finschhafen District
+          1	Fionar Place
+          1	Fireplace
+          2	First Street
+          1	Firth Avenue
+          1	Fish pond
+          1	Fissoa
+          1	Five Mile
+          1	Flat Islet
+          1	Fleetbank Street
+          1	Flint Island
+          1	Flint Place
+          1	Fly Drive
+          1	Fly Islands
+         13	Fly River
+          1	Fly River Provincial Government
+          1	Fly river basin
+          1	Foodworld (Boroko)
+          1	Football Ground
+          1	Forestry Compound
+          1	Foster Street
+          1	Four Mile
+          2	Fourth Street
+          1	Fowlers Road
+          2	Fox Street
+          1	Frangipani Street
+          1	Free Way Road Food
+          1	Freedy's
+          1	Frida & Otto
+          1	Frigate Street
+          1	Frog Town
+          1	Front Hill Road
+          1	Fu Qing Gor Trading
+          1	Fudin-Hada
+          2	Fuel Service Station
+          2	Fugwa
+          3	G?
+          2	GAm (new)
+          1	GAm (old)
+          1	GBa (new)
+          1	GBa (old)
+          1	GBr (new)
+          1	GCR OFFICE
+          1	GFr (new)
+          2	GJa
+          1	GJa (old)
+          1	GMT Lodge
+          1	GMa
+          1	GMa (new)
+          1	GMi (new 1st)
+          1	GMi (new 2nd)
+          2	GMi (old)
+          2	GMo (new)
+          1	GMo (old)
+          1	GP's house
+          2	GSe (new)
+          1	GSe (old)
+          1	GVe (new)
+          1	GVe (old)
+          1	GWa (new)
+          1	Ga'i / Imeia
+          1	Gaba Place
+          3	Gabaka Street
+          1	Gabatu Motu Motu
+          1	Gabe Place
+          1	Gabensis
+          1	Gabi
+          1	Gabi Road
+          1	Gabina Building
+          1	Gabri
+          1	Gabugabutau
+          1	Gabuna Group
+          1	Gabutu
+          1	Gabwina Island
+          1	Gado Place
+          1	Gado-Gadoa
+          1	Gadogadoa Island
+          1	Gafuka Street
+          1	Gagoma Street
+          1	Gahuko Street
+          1	Gahunagaudi Drive
+          1	Gahusi Street
+          1	Gaibodubu Street
+          1	Gaigo Street
+          1	Gaima Corner
+          1	Gaire
+          1	Gaisikomat Island
+          1	Galelum Island
+          1	Galilo
+          1	Galilo Digicel Tower
+          1	Galip Place
+          1	Galo Place
+          1	Gamatua Island
+          1	Gambogae
+          1	Gamu Place
+          1	Ganau Island
+          1	Ganavali Avenue
+          1	Ganglo Island
+          1	Ganigle
+          1	Ganigle Police Baracks
+          1	Ganigo Street
+          2	Gannet Street
+          1	Gapun
+          1	Garahi Island
+          1	Garaina Airport
+          1	Garameia Sett.
+          1	Garden City Shopping Centre
+          1	Garden Hills Road
+          1	Garden Street
+          1	Gari Avenue
+          1	Garia Street
+          1	Garokoni Place
+          2	Garove Island
+          1	Garrandibut
+          1	Garua Island
+          1	Garua Street
+          1	Garubol Street
+          1	Garuga Street
+          1	Gasmata
+          1	Gasmata Island
+          1	Gasmata Island Airport
+          1	Gate 1
+          1	Gate 1 Convoy stop area
+          1	Gate 2
+          1	Gau Hi Lama Island
+          1	Gaudi Street
+          1	Gaudidi Road
+          1	Gavamani Road
+          1	Gaveta Street
+          1	Gawa Island
+          1	Gazebo Club
+          1	Gea Place
+          1	Geahuajei
+          8	Geauta Drive
+          1	Gebaro Island
+          1	Geboso Place
+          1	Geda Place
+          1	Geduna Islet
+          1	Gegela Cemetery
+          1	Geglep Island
+          1	Gehu Street
+          1	Geita Place
+          1	Gelam Tail
+          1	Gelediwa
+          1	Gembogl District
+          1	Gemo Island
+          2	Genga River
+          1	George Brown Street
+          1	Gere Gere Street
+          1	Gerehu
+          1	Gerehu Baptist School
+          3	Gerehu Drive
+          1	Gerehu High School
+          1	Gerehu Primary School
+          1	Gerehu Sports Centre
+          1	Gerehu Stage 4
+          2	Gerehu Stage 6
+          1	Gesege
+          1	Gesila Island
+          1	Gevana Avenue
+          1	Gewa Place
+          1	Ghana Street
+          1	Gibi
+          1	Giboi Street
+          1	Gigila Island
+          1	Gigira Islet
+          1	Gigore / Era Kiti
+          1	Gilagil River
+          1	Gilgilen Island
+          1	Gilia Islet
+          1	Gilua
+          1	Gimaune Place
+          1	Ginara Island
+          1	Ginate Place
+          1	Ginebei Island
+          1	Ginetu Island
+          1	Gingala Islands
+          1	Gira River
+          1	Giri
+          1	Giriwa Place
+          1	Girls Vocational School
+          1	Girua Airport
+          1	Gisep
+          2	Giung Street
+          1	Giwagiwa Island
+          1	Gleeson Island
+          1	Glen Island
+          1	Glenton Island
+          1	Global Travel
+          1	Globig Island
+          1	Goada Place
+          1	Goare
+          1	Goaribari Island
+          1	Goava Drive
+          1	Gobe Airport
+          1	Gobuta Street
+          2	Godwit Road
+          1	Gog Island
+          1	Gogol River
+          1	Gogosi Crescent
+          1	Goha Place
+          1	Goilala District
+          1	Goilavi Literacy School
+          1	Goilavi-Ubu'o Track
+          2	Gok river
+          2	Gold Dredge
+          2	Goldie River
+          1	Goldie River Crossing
+          1	Goldie Street
+          1	Golf Club
+          1	Golf Course Road
+          1	Gomara Crescent
+          1	Gona
+          2	Gona Bara Bara
+          1	Gona Street
+          1	Gonaili Airport
+          2	Goodenough Island
+          1	Goodwin Street
+          1	Gordans Clinic
+          1	Gordans Police Station
+          1	Gordia Street
+          6	Gordon Circuit
+          1	Gordon North
+          1	Gordon Primary School
+          1	Gordonia Street
+          1	Gordons
+          1	Gordons AOG, Corner Stone Church
+          1	Goriba Street
+          2	Goro-Kaeaga Road
+          1	Goroa Street
+          1	Gorobe Street
+          1	Gorogo Street
+          1	Gorohu
+          1	Goroka
+          1	Goroka (Air Niugini)
+          4	Goroka Airport
+          1	Goroka District
+          2	Goroka Fire Station
+          1	Goroka Golf Club
+          2	Goroka Haus Sik
+          1	Goroka Market (Freiluftmarkt)
+          1	Goroka Police Station
+          1	Goroka Rugby League Ground
+          1	Goroka University
+          1	Goroka Youth Centre
+          1	Goroka market
+          1	Gorue Islet
+          1	Goschen Strait
+          1	Gosem Island
+          1	Gosok Place
+          1	Gotawen
+          1	Govea Street
+          1	Government House
+          1	Government House Road
+          1	Government Printing Office
+          1	Govu Islet
+          1	Grace Island
+          1	Grand Papua Hotel
+          1	Grange Island
+          1	Grant Island
+          1	Granville Motel
+          1	Grass Airstrip
+          1	Grassland Road
+          1	Gravel Pit
+          1	Grebe Place
+          1	Green Islands
+          1	Green River
+          1	Green River Airport
+          1	Greet Harbour
+          2	Grenvold Road
+          1	Griffin Point
+          1	Griffiths Street
+          1	Groves Avenue
+          1	Gu Place
+          1	Guala
+          2	Guard Dog Security
+          2	Guards Tower
+          1	Guards offices
+          2	Guards tower
+          1	Guat Island
+          1	Guest Haus
+          1	Guiraura Place
+          1	Guitana Road
+          1	Guitau Avenue
+          1	Gulewa Island
+          1	Gulf
+          1	Gulf Province
+          1	Gulf of Papua
+          1	Gull Street
+          1	Gum Place
+          1	Gum River
+          1	Gumai An Island
+          1	Gumants river
+          1	Gumatabu Island
+          1	Gumawana Island
+          1	Gumine District
+          1	Gurim Island
+          1	Gurney Airport
+          1	Gurney Street
+          1	Gwadarab Island
+          1	Gwarume-Mase
+          1	Gym
+          1	Gym Hill Road
+          1	HBS Machinery
+          1	Habare SDA Station
+          1	Habono
+          1	Habono Aid Post
+          1	Habono ECPNG Church
+          1	Haga Gimi
+          1	Hagama
+          1	Hagara Primary School
+          1	Hagen Airport Motel
+          5	Hagen Drive
+          1	Hagen Park Secondary School
+          1	Hagen Park teachers compound
+          1	Hagen Plaza
+          1	Hagen Public Cemetary
+          1	Hagen Tennis Court
+          1	Hagita Place
+          1	Hagwa Street
+          1	Hahela
+          1	Haidana Island
+          1	Haima
+          1	Haines Island
+          1	Haisi Station
+          1	Haivaro
+          1	Halabi
+          1	Halfway Rock
+          1	Hali
+          1	Halimbu
+          1	Halimbu ECPNG Church
+          1	Halimbu Marketplace
+          5	Halongani Road
+          1	Halongoli
+          1	Halopa
+          1	Haloulu
+          1	Haltai Guest House
+          1	Hamata Lay Down Area
+          1	Hamilton Street
+          1	Hampaka
+          1	Handymart
+          1	Hangapo
+          1	Hangapo 1 Ward
+          1	Hangapo 2
+          1	Hangapo 2 Ward
+          1	Hangapo Catholic Church
+          1	Hangapo Mapu United Church
+          1	Hangapo Marketplace
+          1	Hangapo Primary School
+          1	Hangapo Sub Health Center
+          1	Hangulakakan Island
+          1	Hanuabada
+          1	Hanuabada Road
+          1	Hapiago
+          1	Hapiago catholic church
+          1	Hapiago market
+          1	Hapono Marketplace
+          1	Harbourside Hotel
+          1	Hardman Islands
+          3	Hardware Haus
+          1	Hare
+          1	Harehaku
+          1	Harengan Island
+          1	Hari
+          2	Hari River
+          1	Hari Street
+          1	Harikoia Island
+          1	Harinai Primary School
+          1	Harinamoma Street
+          1	Haro
+          1	Haro (former)
+          1	Haro Elementary School
+          1	Haro Embera United Church
+          1	Haro SDA Church
+          1	Haro Wani Island
+          1	Harons Drive
+          1	Harris Street
+          1	Hash Club
+          1	Hasting Deering
+          1	Hastings Island
+          1	Haszard Island
+          1	Hata Biang Street
+          1	Hatsigan Island
+          1	Haus Kai bilong Reo
+          1	Haus Kai bilong Sogavo
+          1	Haus Sik
+          1	Hauser River
+          1	Hauwei Island
+          2	Hawk Street
+          1	Hayapuga LLG Council Chamber
+          1	Hayapuga Rural LLG
+          1	Hayes Street
+          1	Hayfield
+          1	Hayfields Airport
+          1	Headmaster
+          1	Headmasters Office
+          1	Heagi Street
+          1	Healthy Island House
+          2	Healy Parade
+          1	Heath Bay
+          1	Heavy Equipment Workshop
+          1	Hedu Street
+          1	Heduru Place
+          1	Hegore
+          1	Hei Wok Islet
+          1	Heibita
+          1	Heights 4
+          1	Hein Island
+          1	Heina Atoll
+          1	Heisi Primary School
+          2	Hekarora Street
+          1	Hekei Dobi Street
+          1	Hela
+          1	Hela Hewate Youth Multi-skills Training Institute
+          1	Hela Place
+          1	Hela Province
+          1	Hela Provincial Government Office
+          1	Hela Technical Highschool
+          1	Helai Avenue
+          1	Helen Street
+          1	Helisaro
+          1	Hemenahei Island
+          1	Henao Drive
+          1	Hendore Hama Guest House
+          5	Henga Road
+          1	Henganofi
+          1	Henganofi District
+          1	Hengawenif (Ilahita 2)
+          1	Hengeyano
+          1	Hengwenif
+          1	Heni Place
+          1	Henry & Philip
+          1	Henu Oite
+          1	Henu-Oite Island
+          1	Hepa
+          1	Hera Street
+          1	Herd Base
+          1	Hermes Street
+          2	Hermit Islands
+          1	Heron Islet
+          3	Heron Street
+          1	Hetau Island
+          1	Hetura
+          1	Heva Isi Islet
+          1	Hewate Ward
+          1	Hibiscus Avenue
+          2	Hibiscus Street
+          1	Hibwa Islet
+          1	Hidden Valley 
+          1	Hidden Valley Gold Mine
+          3	Hidden Valley Mine Site Road
+          1	Hides GTE
+          1	Hides Street
+          2	Hidiha Road
+          1	High Island
+          1	High View
+          1	Higham Island
+          2	Highlander Hotel
+          1	Highlander Hotel Restaurant
+          1	Highlands Agricultural College
+         82	Highlands Highway
+          1	Highlands Region
+          1	Highlands Workshop
+          1	Hilda Islands
+          1	Hilder Group
+          1	Hill Street
+          1	Hipaku
+          1	Hipianda
+          1	Hire
+          1	Hiri
+         49	Hiritano Highway
+          2	Hisiu
+          1	Hisiu PS
+          1	Hitolo Place
+          1	Hitron PNG
+          1	Hitung
+          1	Hiwanda
+          1	Hiwanda Marketplace
+          1	Hiwinda Sub Health Center
+          1	Hiwola Island
+          1	Hodava Avenue
+          1	Hoge Street
+          1	Hogs Breath Cafe
+          1	Hohola
+          1	Hohola Catholic Primary School
+          1	Hohola Demonstration School
+          1	Hohola High School
+          1	Hohola Market
+          1	Hohola North
+          1	Hohola Police Station
+          1	Hohola settlements
+          1	Hoiapia Marketplace
+          1	Hoieba High School
+          1	Hoieba Marketplace
+          1	Hoieba Primary School
+          1	Hoiebia
+          1	Hoiebia Aid Post
+          1	Hokani
+          1	Holiday Inn Express Port Moresby
+          1	Holiday Inn Port Moresby
+          1	Holy Spirit Catholic Cathedrale
+          1	Holy Trinity Teachers College
+          2	Homa
+          1	Homoka Street
+          1	Hompiri Primary School
+          2	Hon Island
+          1	Hongorai River
+          1	Hont
+          1	Hood Bay
+          1	Hood Lagoon
+          1	Horan Island
+          2	Hornbill Crescent
+          1	Horno Islands
+          1	Hosken Islands
+          2	Hoskins - Galilo road
+          3	Hoskins Airport
+          1	Hoskins District
+          1	Hoskins Girls College
+          1	Hoskins Secondary School
+          1	Hoskins Street
+         12	Hoskins-Kimbe Highway
+          2	Hospital Compound
+          1	Hospital barracks
+          1	Hot Spring ???
+          1	Hotel Kimininga
+          1	Hotel Poroman
+          2	House
+          2	Houseman
+          1	Hoyiapia 7th Day Adventist Church
+          1	Hua Place
+          1	Huala Place
+         36	Hubert Murray Highway
+          1	Hudoko Crescent
+          1	Hudson Street
+          1	Hughes Bay
+          1	Huhunati Island
+          1	Hui Waditimo Islet
+          4	Hulia Marketplace
+          1	Hulia River
+          2	Hulia river
+          1	Hull Island
+          1	Hummock Island
+          1	Humphries Place
+          1	Hunter Rocks
+          2	Hunter Street
+          1	Hunu Place
+          3	Huon Road
+          1	Huonville Primary School
+          1	Huru River
+          1	Hus Island
+          1	Hutjena
+          3	Huxley Street
+          1	IMCA Comm. House
+          1	IPI Workshop
+          1	Ia Taui Islet
+          1	Iabama Island
+          1	Iaga Island
+          1	Ialibu
+         13	Ialibu - Kagua Road
+          1	Ialibu District
+          5	Ialibu Highway
+          1	Ialibu Police Station
+          1	Ialibu Secondary School
+          2	Ialibu-Pangia Highway
+          1	Iamaina Street
+          1	Ianaba Island
+          1	Iarogaha Street
+          1	Iasa Corner
+          1	Ibbekuang Bay
+          1	Ibibubari Island
+          1	Ibis Crescent
+          1	Ibis Street
+          1	Idau Street
+          1	Idawi
+          1	Idawi Marketplace
+          1	Idawi Sub Health Center
+          1	Ide Street
+          1	Ideimi
+          1	Ideimi School
+          1	Idihi Island
+          1	Idu Street
+          1	Iduhu Street
+          1	Iglesia Ni Cristo ( Church of Christ Port Moresby)
+          3	Igo Street
+          1	Igua Street
+          1	Iguari Islands
+          1	Iguari Kiu Kiu
+          1	Ihu Airport
+          1	Ika Ika Keino
+          1	Ikikina
+          1	Ikinu Village
+          1	Ikupu Place
+          2	Ilahita 1-6
+          1	Ilahita 4-6
+          1	Ilahita Health Centre
+          1	Ilahup Road
+          1	Ilai Island
+          1	Ilamu Island
+          1	Ileg Government Station
+          1	Ileg Health Centre
+          1	Ilei Island
+          1	Ilifalimb (Ilahita 1)
+          1	Ilimo Avenue
+          1	Ilipo Place
+          1	Ilup
+          1	Imbert Island
+          1	Imita Crescent
+          1	Imita Ridge
+          1	Impact Bible College
+          1	Impact Trading
+          1	Impact Workshop
+          1	Inabel
+          1	Inalere
+          1	Inaua
+          1	Inauaia Health Centre
+          1	Independance Park
+          4	Independence Drive
+          1	Independence Park
+          2	Indonesia
+          2	Induna Island
+          1	Industrial Arts
+          1	Ineina
+          2	Ini Island
+          1	Inibake Island
+          1	Inmigration office
+          1	Inter-oil Depot
+          1	International
+          1	Interoil Fuel Bowser
+          1	Invitato Island
+          1	Ioriba Crescent
+          1	Ioribaiwa
+          1	Iou Island
+          1	Ipaipana
+          1	Ipiko Elementary
+          1	Ipiko Village
+          1	Ipisia (Forty-Two) Corner
+          1	Ipoteto Island
+          2	Ipoutou
+          1	Iramawi
+          1	Iramawi ECPNG Church
+          1	Irimo Place
+          1	Irinalan Island
+          1	Iro Island
+          2	Isatap
+          1	Isikel
+          1	Isikel & Mary
+          1	Islander Drive
+          1	Islands Region
+          1	Isu Bobo
+          1	Isu Raua Raua Island
+          1	Isuka Street
+          1	Isurava
+          1	Isurava Memorial
+          1	Isutete
+          1	Itamarina
+          1	Itipu Aid Post
+          1	Itipu Marketplace
+          1	Itipu Ward
+          1	Ito Island
+          1	Iwa Island
+          1	Iwakanau
+          1	Iwiri River
+          1	Ixora Avenue
+          1	Iyin Island
+          1	JD guest house
+          1	JK McCarthy Museum
+          1	Jaba River
+          1	Jabanardi
+          1	Jabi Islands
+          1	Jabiru Drive
+          1	Jack Island
+          1	Jacksons
+          1	Jacksons International Airport
+          1	Jacksons Parade
+          1	Jacquinot Bay Airport
+          1	JaisAben Resort
+          1	Jaisaben Resort
+          2	Jakarwa
+          1	Jalun Island
+          1	Jambol
+          1	Jangain Island
+          2	Japanese Peace Park
+          2	Japanese War Memorial
+          1	Japanese war memorial
+          1	Japhlom Crescent
+          1	Japira
+          1	Jari Island
+          1	Jarrad Islands
+          1	Jason Farm
+          1	Jawani Island
+          1	Jawani Street
+          1	Jayapura
+          1	Jefrey Guest House
+          1	Jerai Bay
+          1	Jetty-Airstrip Road
+          1	Jimi District
+          1	Jinjo
+          1	Jiwaka
+          1	Jiwaka Mission Resort
+          1	Jiwaka Province
+          1	Joe Kunda Primary School
+          1	Joe's (biggest one)
+          3	John Guise Drive
+          1	Johnston Islands
+          1	Jomard Islands
+          1	Jomich
+          1	Jordan
+          1	Jordan Corner
+          1	Josey Street
+          1	Joyce & Mala
+          1	Juliade Island
+          1	Juma Lodge
+          1	Juvenile Block
+          2	KK Kingston
+          1	KT Depot
+          1	KT lay down yard
+          1	KT/HVT Workshop
+          1	KT/MMJV Container Yard
+          1	Kabakon Island
+          1	Kabaselir River
+          1	Kabenau
+          1	Kabenau River
+          1	Kabia Place
+          1	Kabitong Island
+          1	Kabiufa
+          1	Kabolu Street
+          1	Kabona Island
+          1	Kabotteron Island
+          1	Kabu Usu Usu Island
+          1	Kabua Crescent
+          1	Kabukeal Island
+          1	Kabwayakita
+          1	Kabwum District
+          1	Kacheo Island
+          2	Kadai Island
+          1	Kadea Street
+          1	Kadovar
+          3	Kaekae Crescent
+          1	Kaeme Street
+          1	Kaevaga
+          1	Kaevaga Road
+          1	Kagabuna Street
+          1	Kagamuga
+          1	Kagamuga Airport Market, Mt. Hagen
+          1	Kagamuga Airport Road Access
+          1	Kagi
+          1	Kagi Runway
+          1	Kagua
+          1	Kagua Catholic Parish
+          1	Kagua Christian Church
+          1	Kagua District
+          1	Kagua District Administration Office
+          1	Kagua District Health Center
+          1	Kagua Marketplace
+          1	Kagua Police Station
+          1	Kagua Primary School
+          1	Kagua River
+          1	Kagusagu Trading
+          1	Kai Place
+          1	Kai Rau Rau Uai Island
+          1	Kai'alavi
+          1	Kaia Place
+          1	Kaiam
+          1	Kaiapit District
+          1	Kaiau
+          2	Kaileuna Island
+          2	Kaimare Island
+          1	Kaimart
+          1	Kainantu
+          1	Kainantu District
+          1	Kaintiba
+          1	Kairaga Islet
+          1	Kairik Airstrip
+          1	Kairimai Elementary
+          1	Kairimai Track
+          1	Kairimai Village
+          1	Kairiru Island
+          1	Kairuku District
+          1	Kaisenik
+          1	Kait
+          1	Kait River
+          1	Kaiti Island
+          1	Kakapeta Crescent
+          1	Kakare Island
+          1	Kakolan
+          1	Kakolan Island
+          1	Kala
+          1	Kalapiai Island
+          1	Kalawurima Island
+          1	Kaled Island
+          1	Kalelong Street
+          2	Kalibobo Drive
+          1	Kaliku Village
+          1	Kalipo Island
+          1	Kalmaruhi Island
+          1	Kalo
+          1	Kalolo
+          1	Kalolo School
+          1	Kalopa Island
+          1	Kalotau
+          1	Kamaliki
+          1	Kamarere Street
+          1	Kamas Street
+          1	Kamasau market
+          1	Kamatal Islet
+          1	Kambolo
+          2	Kamdaru River
+          1	Kamkumu Kona
+          1	Kamusi
+          1	Kamusi Airport
+          1	Kana Kuba Island
+          1	Kanabea
+          2	Kanage Street
+          1	Kanahata Products Ltd
+          1	Kanahata Products Ltd.
+          1	Kanaman Island
+          1	Kanapu Island
+          1	Kandapo
+          1	Kande
+          1	Kandeawi
+          1	Kandeawi marketplace
+          1	Kandep
+          1	Kandep District
+          1	Kandrian
+          1	Kandrian Airport
+          1	Kandrian District
+          1	Kaniet Islands
+          1	Kanigia Island
+          1	Kano Place
+          1	Kanoagil LLG
+          1	Kanosia
+          1	Kantel
+          1	Kanudi Hanjung power station
+          1	Kanudi Power Station GT
+          1	Kanudi-Konedobu Tx
+          1	Kanuwe Creek
+          1	Kapa Street
+          1	Kapai
+          2	Kapal
+          1	Kapal Airport
+          1	Kapal Haus
+          1	Kapena Street
+          1	Kapepa Islet
+          1	Kapiak Street
+          1	Kapiura
+          1	Kapo Island
+          1	Kapsu
+          1	Kapuna Base
+          1	Kapuna Helipad
+          1	Kapuna Hospital
+          1	Kaput Street
+          1	Kar
+          1	Karai
+          1	Karanas
+          1	Karao Place
+          1	Karati Health Centre
+          1	Karati Primary School
+          1	Karawari Airstrip
+          3	Karawari River
+          1	Kariahu Street
+          1	Karimata Street
+          1	Karimui District
+          1	Karimun Street
+          1	Karinda
+          1	Karita
+          1	Karita Tourist Center
+          1	Karius Road
+          1	Karkar Airfield
+          1	Karkar Island
+          1	Karoola Airport
+          1	Karoona Street
+          1	Karu Street
+          1	Karua Street
+          1	Karuama
+          1	Karuka Street
+          1	Karurua
+          1	Kasagten Street
+          1	Kasapae
+          1	Kasia
+          1	Kasia Badina
+          1	Kasio Circle
+          1	Kaskas Island
+          1	Kassam Pass Summit
+          1	Kat Island
+          1	Katagu
+          1	Katak
+          1	Katalila Place
+          1	Katatai Corner
+          1	Kate Street
+          1	Katiloma
+          1	Kau Island
+          1	Kaubebe Street
+          1	Kaugere
+          1	Kaugere Primary School
+          1	Kaugere Settlements
+          1	Kauka Place
+          1	Kaumeia Base
+          2	Kaunokus
+          1	Kaupena
+          1	Kauptimete Island
+          1	Kautaga Island
+          1	Kauwini River bridge
+          1	Kauyap Holdings Limited
+          1	Kavari Street
+          1	Kaveng Island
+          1	Kaviak
+          1	Kavieng
+          1	Kavieng Airport
+          1	Kavieng Airport terminal
+          1	Kavieng District
+          1	Kavieng Niu Lodge
+          1	Kavieng general hospital
+          1	Kawa Island
+          1	Kawaliap
+          1	Kawanda
+          1	Kawanda Marketplace
+          1	Kawang Island
+          1	Kaware
+          2	Kawatap
+          1	Kawauwu Island
+          1	Kawini river
+          1	Kawito Airport
+          1	Kawulikiau Island
+          1	Kayoni Island
+          1	Kea Waterfalls (3)
+          1	Kea village
+          1	Keaawan Island
+          1	Keasu Street
+          1	Kebolia Island
+          1	Keerom
+          1	Kegawam Islands
+          1	Kegayro Place
+          1	Keglsugl
+          1	Keglsugl Airstrip
+          1	Kehol Island
+          1	Kei-Eiwa Island
+          1	Keibi
+          2	Keikeitapapau (Murei)
+          1	Keinor Road
+          2	Keisarau
+          2	Keisu
+          1	Keiva
+          1	Kekekeke Street
+          1	Kekeni Rocks
+          1	Kela 1
+          1	Kela 1 Ward
+          1	Kela 2
+          1	Kela 2 Catholic Church
+          1	Kela 2 Ward
+          1	Kela 3
+          1	Kela Aid Post (Closed)
+          1	Kela Marketplace
+          1	Kela Primary School
+          1	Kela United Church
+          2	Kelebo
+          1	Kelwa Airport back road
+          1	Kembil
+          2	Kemp Welch River
+          1	Kemtai
+          1	Kenabot
+          1	Kenai Islet
+          1	Kendo
+          1	Kenese Avenue
+          1	Keni Vani Road
+          2	Kennedy Road
+          1	Kenny's Hall
+          1	Kepahina Street
+          1	Kepelegolo Island
+          1	Kepoka Place
+          1	Kera Kera
+          3	Keram River
+          1	Keravat
+          1	Kerawara Island
+          1	Kereia
+          1	Kerekadi
+          1	Kerema
+          1	Kerema Airport
+          3	Kerema Coronation High School
+          1	Kerema District
+          1	Kerema Hotel
+          1	Kerema Province Administration
+          1	Kerema Public Hospital
+          1	Kerena
+          1	Kerepuna
+          1	Keresau Island
+          1	Keripia Catholic Mission Station
+          1	Keripia Elementary, Primary, Secondary School
+          1	Keripia Health Centre
+          1	Kermadec Street
+          1	Kerowagi District
+          1	Kerowagi Secondary School
+          1	Kerowaiai Island
+          1	Keruma Street
+          1	Keso Gedec Crescent
+          1	Kesuguruguru Island
+          1	Ketch Island
+          1	Kevau Place
+          1	Keveo Magana
+          1	Keveona
+          1	Kiangana Island
+          1	Kibi Place
+          1	Kibirowi Island
+          1	Kibu Island
+          1	Kiburu Lodge
+          1	Kido
+          1	Kieta District
+          1	Kikita 1
+          1	Kikita Elementary School
+          2	Kikori
+          1	Kikori Airport
+          1	Kikori Corner
+          1	Kikori District
+          1	Kila
+          1	Kila Kila High School
+          1	Kila Kila Hill
+          1	Kila Kila No. 1
+          1	Kila Kila No. 2
+          1	Kila Kila Primary School
+          1	Kilanda Street
+          1	Killenge Island
+          1	Killerton Island Adventures.
+          1	Killerton Islands
+          1	Kimbe
+          1	Kimbe Crescent
+          1	Kimbe Hospital
+          1	Kimbe Island
+          1	Kimbe Street
+          1	Kimbe Wharft and Palm Oil Terminal
+          1	Kimbe market
+          3	Kimbe-Biala-Highway
+          5	Kimbe-Talasea
+          1	Kimininga Gym
+          1	Kimininga Police Barracks
+          1	Kimininga Police Barracks Street
+          1	Kimininga SDA Church
+          1	Kimuta Island
+          1	Kinantu Education Center
+          1	Kinapa
+          1	Kinapa Catholic Church
+          1	King Kai
+          1	Kingdom Hall
+          1	Kingdom Hall of Jehovah's Witnesses
+          1	Kingfisher Apartments
+          1	Kingfisher Place
+          1	Kingfisher Road
+          1	Kinim
+          1	Kinimura Place
+          1	Kinipo
+          1	Kinomere
+          1	Kinstar
+          1	Kiop Mission
+          1	Kiribu creek
+          2	Kiriwina Island
+          1	Kiriwina Island Jetty
+          1	Kiroki Street
+          1	Kisa Island
+          1	Kisere
+          1	Kisere Street
+          1	Kitai Bona Bona Island
+          2	Kitava Island
+          1	Kitchen
+          1	Kitchen Allan & Rose
+          1	Kitchen Boarding House
+          1	Kitogara Street
+          1	Kiton Island
+          2	Kittyhawk Street
+          1	Kiunga
+          1	Kiunga Airport
+          1	Kiunga District
+         16	Kiunga-Tabubil Highway
+          1	Kivaru Place
+          1	Kivaumai Church
+          1	Kivaumai Elementary
+          1	Kivaumai Playing Field
+          1	Kivaumai Primary School
+          1	Kivaumai Village
+          1	Kivivi Place
+          1	Kiwai Island
+          1	Kiwok Island
+          1	Klinki Street
+          1	Knirps Island
+          1	Koai Street
+          1	Koakoarivi Island
+          1	Koali Lombo
+          3	Koani Street
+          1	Kobalu
+          1	Kobiak
+          1	Kobo Place
+          1	Koboka Street
+          1	Kocheran Island
+          1	Koderika
+          1	Kodua Street
+          1	Koena
+          1	Koia Reiba Reiba
+          1	Koia Yama Yama Island
+          1	Koil
+          1	Koiri Park
+          1	Koisere Place
+          1	Koive Island
+          1	Koka Place
+          1	Koki
+          1	Koki Market
+          1	Koki Street
+          1	Koki Vocational School
+          1	Kokoda
+          1	Kokoda Airport
+          1	Kokoda District
+          1	Kokoda Street
+          1	Kokoda Tack Memorial
+          8	Kokoda Track
+          1	Kokoda Track Shortcut
+          1	Kokoda Trail Hotel
+          1	Kokokoko Street
+          1	Kokop
+          1	Kokopagolo Island
+          1	Kokopao
+          1	Kokopo
+          1	Kokopo Beach Bungalow Resort
+          1	Kokopo District
+          1	Kokopo Market
+          1	Kokopo Museum
+          1	Kokopo Village Resort
+          6	Kokopo-Rabaul Road
+          1	Kokorei Street
+          1	Kokoro Airport
+          1	Kola Place
+          1	Kolakola Islet
+          1	Kolavia Islands
+          1	Kolenusa Island
+          1	Koli
+          1	Koli SDA Church
+          1	Koli Village Elementary School
+          1	Koloka Street
+          1	Kolong Island
+          1	Koltapu
+          1	Koma Place
+          1	Komakul
+          1	Kombai Island
+          1	Kombikum River
+          1	Kombinas Island
+          1	Kombiu
+          1	Kombru Mission
+          1	Kombugl
+          1	Komkui Haus
+          1	Komo Catholic Mission
+         14	Komo Road
+          1	Komo Rural LLG
+          1	Komo Station
+          1	Komo-Manda Airport
+          2	Komo-Margarima Distric
+          1	Komoga
+          1	Kompiam Airport
+          1	Kompiam District
+          1	Komuta Crescent
+          1	Kona Romu Street
+          1	Kona kik market
+          1	Konapuk
+          1	Kondiu Secondary School
+          1	KondoKondo
+          1	Kone
+          1	Konedobu
+          3	Konedobu Road
+          2	Konedobu Substation
+          1	Konedobu-Boroka Tx
+          1	Konenamo Crescent
+          1	Koneva Place
+          1	Kongin Street
+          1	Kongo Coffee Factory
+          1	Koniano Drive
+          1	Konio Crescent
+          1	Konokonowana Island
+          1	Konokorr
+          1	Konos
+          1	Konsi Camp
+          2	Kookaburra Drive
+          1	Kope
+          1	Kope Sing Sing
+          1	Kopi
+          2	Kopiago
+          1	Koravake Village
+          1	Korewal
+          2	Koroba
+          1	Koroba - Kopiago District
+          8	Koroba Road
+          1	Koroba-Kopiago District
+          1	Korobosea
+          2	Korobosea Drive
+          1	Korobosea Primary School
+          1	Koropo
+          1	Korosameri River
+          1	Koru Street
+          1	Koruniat Island
+          1	Kosaroka
+          1	Kosmann Island
+          1	Kota Jayapura
+          1	Kotomi
+          1	Kotomi Health Centre
+          1	Kouka Place
+          1	Koupuana
+          2	Koura Way
+          1	Kourabada Street
+          1	Kovasala Place
+          1	Kovelo
+          1	Kranket Island
+          1	Kreer
+          1	Kreer Heights
+          3	Kreer by-pass
+          1	Ku High School
+          1	Ku Place
+          1	Kuali Village
+          1	Kuali Village Houseman
+          1	Kuanak Island
+          1	Kuaniagal Island
+          1	Kubu
+          1	Kubunabadina
+          2	Kudam Street
+          1	Kudjip
+          1	Kui Coffee
+          1	Kuindragaga
+          1	Kuk
+          1	Kuk Early Agricultural World Heritage Site
+          1	Kuki
+          1	Kuku 1 Ward
+          1	Kuku 2 Ward
+          1	Kuku 3 United Church
+          1	Kuku 3 Ward
+          1	Kuku Place
+          1	Kukuluba Islet
+          1	Kukuma
+          1	Kukuma Lodge
+          1	Kukuma Sing Sing
+          1	Kulaunus Island
+          1	Kulinus Island
+          1	Kulitengelik
+          1	Kullik Island
+          1	Kullnus passage
+          1	Kuluanda Primary School
+          1	Kulubung Street
+          1	Kum River
+          4	Kum Road
+          1	Kum stream
+          1	Kumalu Drive
+          1	Kumalu River
+          1	Kumba Road
+          1	Kumbam Island
+          1	Kumbame Road
+          1	Kumbun Island
+          5	Kuminga Road
+          1	Kumuk Village
+          3	Kumul Avenue
+          1	Kumul Drive
+          6	Kumul Flyover
+          1	Kumul Place
+          2	Kumuli Island
+          1	Kunai Patch
+          2	Kunai Street
+          1	Kunamatoro
+          1	Kundi 1 Ward
+          1	Kundi 2 Ward
+          1	Kundiawa
+          1	Kundiawa District
+          1	Kundiawa General Hospital
+          1	Kundiawa Hotel
+          1	Kunemaka Place
+          1	Kung Island
+          1	Kungapi
+          1	Kungapi SDA Church
+          1	Kunini Trail Access
+          1	Kunung
+          2	Kupanda Street
+          1	Kupari
+          1	Kupari Marketplace
+          1	Kupari Transit Lodge
+          2	Kupei Road
+          1	Kura River
+          1	Kuragimini Island
+          1	Kuri
+          1	Kuruha Street
+          1	Kuruki Island
+          1	Kurukuru Place
+          1	Kurur
+          1	Kusbau Road
+          1	Kuskus Islet
+          2	Kuta Road
+          1	Kutubu Depot MT Hagen
+          1	Kutubu Transport
+          1	Kuuk Street
+          1	Kuvanmas Lake
+          1	Kuyau Island
+          1	Kuyol Airport
+          1	Kwadi Place
+          1	Kwaiawata Island
+          1	Kwailuia Island
+          1	Kwaiope Island
+          1	Kwama River
+          1	Kwambul
+          1	Kwanau Crescent
+          1	Kwanewas
+          1	Kwanganmas
+          1	Kwangu'um
+          1	Kwato Eina Kaba Kwasi
+          1	Kwato Island
+          1	Kwaui Islet
+          1	Kwila Road
+          1	Kwila Street
+          1	Kwilif Spring
+          1	Kwip Place
+          3	Kyle Street
+          1	LIH
+          1	LNG 11 Mile
+          1	LNG Condensing Storage Tank 2 (developer, Exxon Mobil)
+          1	LNG Condensing Storage tank 1
+          1	LNG Plant Site, Pape Lele
+          1	LNGP Maintenance Shop
+          1	LUTHERAN REFORM BETHANY
+          1	Laba Place
+          1	Lababia Island
+          1	Labahan Island
+          1	Labi Island
+          1	Ladava
+          1	Ladava Place
+          1	Lade Kone Island
+          1	Lae
+          1	Lae Botanical Gardens
+          1	Lae Builder Cement Yard
+          1	Lae Builders Workshop area
+          1	Lae District
+          1	Lae Golf Course
+          1	Lae Main Wharf
+          1	Lae Market
+          1	Lae Nadzab Airport
+          1	Lae PMV Station
+          1	Lae Showgrounds
+          1	Lae War Cemetery
+          1	Lae Yacht Club
+          1	Lagada Island
+          1	Lagaip District
+          2	Lagaip River
+          1	Lagatoi Place
+          1	Lagenda Island
+          1	Lagisuna
+          1	Lagun Street
+          1	Lahanda
+          1	Lahara Avenue
+          1	Lahua Street
+          5	Lai River
+          1	Laiagam
+          1	Lailai Place
+          1	Laing Island
+          1	Laisopi
+          1	Laite
+          1	Laiwan Islet
+          1	Lakalakama
+          1	Lakarol
+          1	Lake Aunde
+          1	Lake Kopiago
+          1	Lake Kutubu
+          1	Lake Loloru
+          1	Lake Murray
+          1	Lake Murray Airport
+          1	Lake Onim
+          1	Lake Piunde
+          1	Lake Trist
+          1	Lake Vargu
+          1	Lake Warolo
+          1	Lakei Island
+          1	Lakekamu Road
+          1	Laki-pa'iri
+          1	Lakosi Place
+          1	Lakurafanga
+          1	Lakurumau
+          1	Lakurumau Palm Oil Plantation
+          1	Lalava Island
+          1	Lalok Village
+          7	Laloki River
+          1	Laloki River; Goldie River
+          1	Lalum
+          1	Laluoro Island
+          1	Lama Resort
+          1	Lamak Rock
+          1	Lamana Hotel
+          1	Lamassa Island
+          1	Lambden Street
+          1	Lambom Island
+          1	Lambucho Island
+          1	Lamet District
+          1	Land leased to Manipur Mission Station
+          1	Lands & Physical Planning Office
+          1	Lands Department
+          1	Langama
+          1	Langemak Bay
+          1	Langembulos Island
+          1	Lanke
+          1	Lantub
+          1	Lapan Place
+          1	Lapau
+          1	Lapilo
+          1	Lapilo Clinic
+          1	Lapilo Dentist
+          1	Lapilo Guest House
+          1	Lapilo Repair Shop
+          1	Lapilo Store
+          1	Lapilo Vehicles Rental
+          1	Lapwing Drive
+          1	Lapwing Travelodge
+          1	Laraibina
+          1	Larike Street
+          1	Larimia (West)
+          1	Larimia Passage
+          1	Larimia Village
+          1	Lark Road
+          1	Lasanga Island
+          1	Laseinie Islands
+          1	Latangai Island
+          1	Latau Island
+          1	Latep
+          1	Lau Island
+          1	Laualau Island
+          1	Lauapul
+          1	Laughlan Atoll
+          1	Laulau
+          1	Laulau Island
+          1	Laundry
+          1	Laurabada Avenue
+          1	Laurina Crescent
+          1	Laurina Place
+          1	Laussamanni Rocks
+          1	Lawa Island
+          1	Lawes Road
+          1	Lay down yard
+          1	Laytown
+          1	Le Hunte Road
+          1	Lea Lea
+          1	Leabon Islet
+          1	Leamon Island
+          1	Lebrun Islands
+          1	Legi Crescent
+          1	Legoarant Islands
+          1	Leiga Island
+          1	Leiga Islet
+          1	Leipzig
+          1	Lejeune Islet
+          1	Leke Street
+          2	Leklu
+          1	Lelei-Gana Island
+          1	Lemakot
+          1	Lemakot Hospital
+          1	Lemus Island
+          1	Lenjenning Island
+          1	Leon Trading
+          1	Lesimano Island
+          1	Lessau Island
+          1	Letepona
+          1	Lewei Islet
+          1	Liamo Reef Resort
+          1	Library
+          1	Libura
+          1	Lif Island
+          1	Ligame
+          1	Light House Gest House, LRC
+          1	Lihir Group
+          1	Lihir Hospital
+          1	Lihir International Primary School
+          2	Lihir Island
+          1	Lihir Island Airport
+          1	Lihir Police Station
+          2	Lihir Sports and Social Club
+          1	Lilim Island
+          1	Lilinakaia Island
+          1	Lilua Islet
+          1	Limellon Island
+          1	Limol
+          1	Limonak Island
+          1	Ling Crescent
+          1	Liot Island
+          1	Lipek Island
+          1	Lisseno Number 1 Island
+          1	Lisseno Number 2 Island
+          1	Lissenung Resort
+          1	Litsea Place
+          1	Little Domori Island
+          1	Little Malumalu Island
+          1	Little Ndrova Island
+          1	Little Wau Creek
+          1	Liwai Rural LLG
+          1	Lloyds International
+          1	Loa Boloba
+          1	Loa Place
+          1	Loby Place
+          1	Lodge Rondon Ridge
+          1	Logaweng
+          1	Logging Area
+          1	Logohu Place
+          1	Lohia Street
+          1	Lokua Avenue
+          2	Lokuia Lodge
+          1	Lolau Island
+          1	Lolo
+          1	Loloata Island
+          1	Lolobau Island
+          1	Loloho
+          1	Lolonadaula Island
+          1	Lolonakorakom Island
+          1	Lolonakuka Island
+          1	Lolorua Island
+          1	Lolorua Sawmill
+          1	Lolorua Street
+          1	Long Island
+          1	Long house
+          1	Longan Island
+          1	Longuerue Islands
+          1	Lonia Place
+          1	Lookout Volcano Observatory
+          1	Loraine Island
+          1	Lorengau
+          1	Lorengau East Transit Centre
+          1	Lorengau Hospital
+          1	Lorengau Market
+          1	Lorengau Post Office
+          1	Lorengau River
+          1	Lorengau Road
+          1	Lorry parking
+          1	Los Negros Island
+          1	Los Reyes Islands
+          1	Losai Island
+          1	Losiu Island
+          1	Lossuk
+          1	Losuia
+          1	Losuia Airport
+          1	Losuia District
+          1	Lou Island
+          1	Louisiade Archipelago
+          1	Loumtas Rock
+          1	Loupomu Island
+          1	Lovely Street
+          1	LowCovenant House
+          1	Lower Baiune
+          1	Lower Baiune Power Station
+          1	Lower Highlands & Coastal Bus Stop
+          1	Lower Loop
+          1	Lower Road
+          1	Luan Street
+          1	Luard Islands
+          1	Luburua
+          1	Lucia & David
+          1	Lue Island
+          1	Luf
+          1	Luf Island
+          1	Lufa District
+          1	Lufuwin
+          1	Lugagun
+          1	Lugos Mission
+          1	Lugos Mission Evangelical Church
+          1	Lukas Crescent
+          1	Luke & Anne
+          1	Lukus Island
+          1	Lulima Island
+          1	Lumbi
+          1	Lumboila Island
+          1	Lumi
+          1	Lumi Airport
+          1	Lumi District
+          1	Lumike Island
+          1	Lumu Lodge
+          1	Lunn Island
+          1	Luoi-Tua Island
+          1	Lupon
+          1	Lusancay Islands and Reefs
+          2	Lutheran Church
+          1	Lutheran Guest House
+          1	Lutheran Guesthouse Madang
+          1	Lutheran Reform Church, Morata
+          1	Lutheran Reform, Dobel
+          1	Lutheran Reform, Tega
+          1	Lutmatavi Island
+          1	Lyncher Guesthouse
+          1	Lyncher Supermarket
+          1	M.I. Trading Kai Bar
+          1	MCH Clinic
+          2	MFM Workshop
+          1	MMS Club
+          1	MNBC Chapel
+          1	MOHA Limited
+          1	MST Bestbuy
+          1	MST Modilon
+          1	MT Hagen Post Office
+          1	MT. Hagen Cultural Show Ground
+          1	Maba Street
+          1	Mabata Street
+          1	Mabi Street
+          1	Mabneian Islet
+          1	Mabua Island
+          1	Mabudawan Beach
+          1	Mabudawan Health Centre
+          1	Mabudawan Village
+          1	Mabudawane Hill
+          1	Mabuduwan Village
+          2	Mabui Islet
+          1	MacDhui Street
+          1	Macdhui Crescent
+          1	Macgregor Street
+          1	Machine Gun Beach
+          1	Macrossan Island
+          1	Madaha Street
+          1	Madan Island
+          2	Madang
+          2	Madang Airport
+          1	Madang Butchery
+          1	Madang Butchery Car Park
+          1	Madang Country Club
+          1	Madang District
+          1	Madang General Hospital
+          1	Madang Library
+          1	Madang Lodge
+          1	Madang Market
+          1	Madang Museum
+          2	Madang Post Office
+          1	Madang Province
+          1	Madang Provincial Government Offices
+          2	Madang Resort
+          1	Madau Island
+          1	Madehas Island
+          1	Madi Place
+          1	Madina
+          1	Madina High School
+          2	Madwest
+          1	Mafata
+          1	Maga / Yaguri 2
+          1	Magabu Island
+          3	Magani Crescent
+          1	Magavaira
+          1	Magawuru Island
+          1	Magemage Place
+          1	Magesubu Cemetery
+         26	Magi Highway
+          1	Magila
+          1	Magila Road
+          1	Magine Islands
+          1	Mahabarina Island
+          1	Mahala Island
+          1	Maho Place
+          1	Mahoho Island
+          1	Mahu
+          1	Mahu Island
+          2	Mahur Island
+          1	Mahuru Circle
+          1	Mahuru Street
+          1	Mai Place
+          1	MaiMai Crescent
+          1	Maiama River
+          1	Maigana Crescent
+          1	Maika Street
+          1	Maikai Place
+          1	Mailu Island
+          1	Maimaibeya
+          1	Main Camp
+          1	Main Office
+          1	Mainland Workshop
+          1	Mainohana High School
+          1	Maintenance Shop
+          1	Maipenairu
+          1	Mairi Place
+          1	Mairipepea  Village
+          1	Mait Iri
+          1	Mait Island
+          1	Mait Unanga
+          1	Maitama Street
+          2	Maiwara River
+          1	Maiwara Street
+          1	Maiwarra Street
+          1	Makada Island
+          1	Makapeka River
+          1	Makati Island
+          1	Makinono Street
+          1	Makis Street
+          1	Makley River
+          1	Maklo Island
+          1	Mal Island
+          1	Malabu Café
+          1	Malagere Island
+          2	Malaguna Road
+          1	Malaguna Tech College
+          2	Malai Island
+          3	Malaita Street
+          1	Malala Catholic Secondary School
+          1	Malalaua
+          1	Malalaua District
+          1	Malam
+          1	Malamal Island
+          1	Malangrut Island
+          1	Malapisi
+          1	Malas
+          1	Malas Street
+          1	Malasait
+          1	Malati
+          1	Male Primary School
+          1	Male Village
+          1	Malendok Island
+          1	Malenglo Island
+          1	Maletin Island
+          1	Mali Island
+          1	Malolo resort?
+          1	Malulau Island
+          1	Malum Islands
+          1	Malwes Island
+          1	Mamagota
+          1	Mamaramamaweino
+          4	Mambare River
+          1	Mambisanda
+          1	Mamom Trading LTD
+          1	Mamus St
+          1	Mamutu Street
+          1	Mamya Goia Goni Island
+          1	Manaba
+          1	Manaba ECPNG Church
+          1	Managun Islet
+          1	Manam Island
+          1	Manamiro
+          1	Manaugolo Island
+          1	Manda Street
+          1	Mandok Island
+          1	Mandrin Island
+          1	Mangai
+          1	Mangalailai Island
+          1	Mangamarike Rock
+          2	Mango Avenue
+          1	Mango Street
+          4	Mangola Street
+          1	Maniota Street
+          4	Manipur Health Centre
+          1	Manki
+          1	Manki Tower
+          1	Manle Island
+          1	Manne Island
+          1	Manoka Place
+          1	Manopol
+          1	Manu Island
+          1	Manu Pisina Rocks
+          1	Manubada Island
+          1	Manubada Street
+          1	Manumana
+          1	Manunouha Island
+          3	Manus
+          1	Manus District
+          2	Manus Island
+          1	Manus Province
+          2	Manus Provincial Government
+          1	Manus Provincial Police Headquarters
+          1	Maoawumbaru Island
+          1	Maobadina
+          1	Mapai Transport
+          1	Mapaio Village
+          1	Mapas Island
+          1	Mape River
+          1	Mapire
+          1	Maple Street
+          1	Maprik
+          1	Maprik District
+          1	Maprik Road
+          1	Maprik Street
+          1	Maragi Gardens
+          1	Marai Islet
+          1	Marakara Island
+          1	Maral
+          1	Maramuni
+          1	Maramuni Airport
+          4	Maramuni River
+          1	Maranatha Street
+          1	Marane Police Baracks
+          1	Marau Island
+          1	March Girls resort
+          1	Marengan Island
+          1	Mareva Place
+          1	Margarima
+          1	Margarima Primary School
+          1	Maria Street
+          1	Mariaquin Banz Health Center
+          1	Mariboi
+          1	Marigo
+          1	Marigutukohu Place
+          1	Mariki Village
+          1	Marina
+          1	Marine
+          1	Mario United Church
+          2	Market
+          1	Markham Avenue
+          1	Markham Bridge
+          3	Markham River
+          3	Markham Road
+          1	Markham Street
+          1	Markham basin
+          1	Markt (Freiluft)
+          1	Marmar
+          2	Maro
+          1	Marob Island
+          2	Maron Island
+          1	Marsh Street
+          1	Marshall Bennett Islands
+          1	Marsina Street
+          1	Martin R.
+          1	Maru Marine
+          1	Marwiu Island
+          1	Mary Street
+          1	Masahet Island
+          1	Masas Island
+          1	Masava Island
+          1	Mascot channel
+          1	Masikanapuka Island
+          1	Masokonakanei Rock
+          1	Massmass Island
+          1	Massong Island
+          1	Massong Islands
+          1	Masurina Business Centre
+          1	Matabudi Street
+          1	Matagu Island
+          1	Matalik Island
+          1	Matamalau Island
+          1	Matanatakanamboroi Island
+          1	Matap
+          1	Mataram Street
+          1	Mataunage Street
+          1	Matebinagutu Island
+          1	Matenai Island
+          1	Matsungan Island
+          1	Matuka
+          1	Matuka River
+          2	Matunga Place
+          1	Matupit
+          1	Matupit Island
+          1	Matura Island
+          1	Mava
+          1	Mavabu Street
+          1	Mawara Island
+          1	Max Rock
+          1	May Fuels Distributors
+          1	May Fuels Workshop
+          2	May River
+          1	Maybank
+          1	Mbatmanda Island
+          1	Mbuchonsaul Islet
+          1	Mbuke Aid Post
+          1	Mbuke Island
+          1	Mbuke Islands
+          1	Mbuke Village
+          1	McDowell Island
+          1	McNicholl Street
+          1	Mea Crescent
+          1	Meara Place
+          1	Megas Island
+          1	Megiar
+          1	Megim Island
+          1	Mei Mei Ara Island
+          1	Meibun Island
+          1	Meiwa Islet
+          1	Mekinley Island
+          1	Mekwa Crescent
+          1	Melanesia Nazarene Bible College
+          1	Melanesian Avenue
+          1	Melbourne Street
+          1	Melisa Street
+          1	Melpa Clothing
+          1	Melpa Haus Kai
+          1	Meman Island
+          1	Memorial Avenue
+          1	Memorial Drive
+          1	Menari
+          1	Mendi
+          3	Mendi - Kandep Road
+          1	Mendi Airport
+          1	Mendi District
+         18	Mendi Highway
+          1	Mendi Provincial Hospital
+          1	Menga St
+          1	Menyamya District
+          4	Menyamya Highway
+          1	Merago Island
+          1	Merauke
+          1	Mespen
+          2	Mess
+          1	Mess Hall
+          1	Messum Islet
+          1	Metakata Place
+          1	Metawari
+          1	Metemaung
+          1	Metemulai
+          1	Metetui
+          1	Mewadi Island
+          1	Mexico Road
+          1	Meyer Island
+          1	Mgibi Trukies Lodge
+          1	Mia Island
+          1	Mia'ogoma (Meagoma)
+          1	Mibu Island
+          1	Microbank
+          1	Midima Island
+          2	Miki Street
+          1	Milewu Island
+          6	Milfordhaven Road
+          1	Miliok Road
+          1	Mill
+          2	Milne Bay
+          1	Milne Bay Circuit
+          1	Milne Bay District
+          2	Milne Bay Place
+          1	Milne Bay Province
+          1	Milner Drive
+          1	Milo Store
+          1	Mindregutu Island
+          1	Mine Training Centre
+          1	Mine Workshop
+          1	Mineral Resource Authority Building
+          1	Mingende
+          1	Mini Nr2 Kaibar
+          2	MiniRoad2
+          2	MiniRoad3
+          1	Minihi Avenue
+          1	Minihi Park
+          1	Minimini Islet
+          1	Minimp Road
+          1	Minimum security convicts block
+          1	Mining Department
+          1	Minj
+          1	Minj District
+          1	Minj Health Center
+          1	Minnetonka Island
+          1	Mioko Island
+          1	Mira Goilavi
+          1	Miri Settlement
+          1	Mirigeda Sett.
+          1	Mirigini Avenue
+          2	Mirimailau
+          1	Mis
+          1	Misamisakor Island
+          1	Misima District
+          1	Misima Island
+          1	Misima Island Airport
+          2	Misinapu
+          1	Mission Junction
+          1	Mission Station (abandoned)
+          1	Missoti Island
+          1	Mitre Rock
+          1	Mity Meat Haus
+          1	Mo River
+          1	Moale Gabuna Entertainment Centre
+          1	Moale Place
+          1	Mobia River
+          1	Mobil
+          1	Mobil Depot
+          1	Mobil Five Mile
+          1	Mobil Oil Co.
+          1	Mobil Service Station
+          1	Mocklon Islands
+          1	Modara Street
+          1	Modengdeng Island
+          1	Modewa Street
+          2	Modiki Road
+          3	Modilon Road
+          1	Moem Barracks
+          1	Moika Road
+          1	Moika'ala
+          1	Moisana Street
+          1	Moita Place
+          1	Mok Island
+          2	Moka Place
+          1	Mokara Street
+          1	Mokerang
+          1	Mokoraha Road
+          1	Mokuai Island
+          1	Molahau Island
+          1	Mole Island
+          1	Momase Region
+          1	Momondo Place
+          1	Momoni Island
+          1	Momote Airport
+          1	Mondo
+          1	Mongop High School
+          2	Moni Plus
+          2	Monise Street
+          1	Mono Island
+          1	Mono Islet
+          1	Monoito Station
+          1	Montemont Islands
+          1	Montevideo Maru Memorial
+          1	Montingteng Island
+          1	Montoro Street
+          1	Moonah Road
+          1	Morata
+          1	Morata Street
+          1	Morchhauser Street
+          8	Morea-Tobo Road
+          1	Morehead District
+          1	Morere
+          1	Moresby Strait
+          1	Morigio Island
+          1	Moritz Rock
+          1	Moro Airport
+          1	Morobe
+          1	Morobe Gospel Center
+          1	Morobe Province
+          1	Morobe River
+          1	Morobegutu Island
+          1	Moroge Island
+          1	Morovamu Village
+          1	Morovamu-Era Sea Way (West)
+          1	Morovamu-Era Way
+          1	Morovamu-Sea Way East
+          1	Moru Street
+          1	Mosa
+          1	Mosquito Island
+          1	Mosquito Islands
+          1	Mosuang Island
+          1	Motu Island
+          1	Motukea Island
+          1	Motupore Island
+          1	Moturina Island
+          1	Mou
+          1	Mount Ambra Road
+          1	Mount Bagana
+          1	Mount Balbi
+          1	Mount Bosavi
+          1	Mount Capella
+          1	Mount Diamond High School
+          1	Mount Dremsel
+          1	Mount Giluwe
+          2	Mount Hagen
+          1	Mount Hagen Airport
+          1	Mount Hagen Club
+          1	Mount Hagen District
+          1	Mount Hagen Golf Course
+          1	Mount Hagen Hospital
+          1	Mount Hagen Marketplace
+          1	Mount Hagen Missionary Home
+          1	Mount Hagen Open Campus
+          1	Mount Ialibu
+          1	Mount Kuta
+          1	Mount Kuta Church
+          1	Mount Kuta Sing Sing
+          1	Mount Lamington
+          1	Mount Lawes
+          1	Mount Lolobau
+          1	Mount Loloru
+          1	Mount Missim
+          1	Mount Mokkofiang
+          1	Mount Mumkaihala
+          1	Mount Omoganiga
+          1	Mount Pago
+          1	Mount Selk
+          1	Mount Suckling
+          1	Mount Uluman
+          1	Mount Vineuo - Oiautukekea
+          1	Mount Wilhelm
+          1	Mountain Plumbing
+          1	Mouse Island
+          1	Movivina Street
+          1	Mowensand Island
+          1	Moyon Street
+          1	Mrs. Booth
+          1	Mt Ambra
+          1	Mt Hagen Club
+          1	Mt Hagen Club Restaurant
+          1	Mt Hagen Digicel Office
+          1	Mt Hagen Fire Station
+          1	Mt Hagen Hospital
+          1	Mt Hagen Police Station
+          1	Mt Hagen Secondary School
+          1	Mt Hagen Technical College
+          1	Mt Whilhem Hotel
+          2	Mt. Kiss Lookout
+          1	Mua Place
+          1	Mualim Island
+          1	Mubo Street
+          1	Mudge Island
+          1	Mugil
+          1	Muglamp District
+          1	Mukuri
+          1	Mula Street
+          1	Muli
+          2	Muli Island
+          1	Muliagani Island
+          1	Mulubi
+          1	Mulubi road
+          1	Mumeng District
+          1	Mumgi
+          1	Mumu Island
+          1	Mumunu Island
+          1	Munahu Street
+          1	Munawai
+          1	Mundua Island
+          1	Munga Street
+          1	Mungaloma
+          1	Mungaro
+          1	Muniara Island
+          1	Muniara Street
+          1	Munidubu Street
+          1	Munikae Place
+          1	Munima
+          1	Munima Aid post (Closed)
+          1	Munima Ecpng Church
+          1	Munima Primary School
+          1	Munima SDA Church
+          1	Muniogo Crescent
+          1	Munuma Station
+          1	Munuwata Island
+          1	Murai
+          1	Murnass River
+          1	Murray (Mangopari) Rd
+          2	Murray Barracks
+          1	Murray Island
+          1	Muruk Place
+          1	Murumur pass
+          1	Musa
+          1	Muschu Island
+          3	Musgrave Street
+          1	Mushroom Rock
+          1	Musiau
+          1	Musik Island
+          2	Mussau Island
+          1	Musu
+          1	Mut Mut
+          1	Muwo Island
+          1	Mynah Place
+          1	Myola
+          1	Myola Street
+          1	NBC Radio Station
+          1	NRI ( National Research Institute
+          1	Nabagadila Island
+          1	Nabasa Road
+          1	Nabilau
+          1	Nabio Island
+          1	Nadohom
+          1	Nadzab Airport
+          1	Nagada Harbour
+          1	Nagam River
+          1	Nagian Island
+          1	Nago Island
+          1	Nagum
+          1	Nahanu Island
+          1	Naharo
+          1	Naime Crescent
+          1	Nairobi Guest House
+          1	Nakia
+          2	Naktou
+          1	Nakwaba
+          1	Nalopi Island
+          1	Nalufunama
+          1	Namanula Hill
+          1	Namanula Road
+          1	Namatanai
+          1	Namatanai Airport
+          1	Namatanai District
+          1	Nambawan Store
+          1	Namie
+          1	Namo Street
+          1	Namor Lake
+          1	Nanauli Island
+          1	Nancy Crescent
+          1	Nangoh
+          2	Nangup (Ilahita 7)
+          1	Naniu Island
+          1	Nanu
+          1	Nanulaon Street
+          1	Naoro
+          1	Napa Napa
+          4	Napa Napa Road
+          1	Napapar Health Centre
+          1	Napasa Island
+          1	Napatana
+          1	Napatana Lodge
+          1	Narage Island
+          1	Narimuru Island
+          1	Narnia Way
+          1	Nasa Pei Pei
+          1	Nasa Rua Rua
+          1	Nasai Island
+          1	Nasakoli Islet
+          1	Nasariri Island
+          1	Nathatches Street
+          1	Natim Spring
+          1	National Argicultural Research Institute
+          3	National Capital District
+          1	National Housing Commision
+          1	National Housing Commission
+          1	National Library of PNG
+          1	National Museum
+          1	National Parliament House
+          1	National Retail & Wholesale
+          1	National Sport Stadium
+          1	Natlu Island
+          1	Natu Clinic
+          1	Nauani Street
+          1	Nauna Island
+          1	Naure Hara Street
+          1	Nauria Island
+          1	Nausoa Island
+          1	Nauti
+          1	Naviu Island
+          1	Nazarene Church
+          1	Nazarene College of Nursing
+          1	Nazarene General Hospital
+          1	Nazareth Mission
+          1	Ndojenpaire Islands
+          1	Ndreu Island
+          1	Ndrilo Island
+          1	Ndrova Islets
+          1	Ndrubu Island
+          1	Ndruval Island
+          1	Neabo Island
+          1	Neada Crescent
+          1	Nebilyer river
+          1	Nedakolana Island
+          1	Negri
+          1	Neila Island
+          1	Neirtri Island
+          1	Neitab Island
+          1	Nekin Island
+          1	Nekumara Island
+          1	Nell Rock
+          1	Nemto Island
+          1	Nenewi
+          1	Nesamari Island
+          1	Nesup Island
+          2	Netuli Island
+          1	New Apostolic Church
+          1	New Britain
+          2	New Century
+          1	New Dawn FM Radio Station
+          1	New Guinea
+          1	New Guinea Club
+          2	New Guinea mainland
+          1	New Hanover
+          1	New Hanover Island
+          1	New Health Centre
+          2	New Ireland
+          1	New Ireland Province
+          1	New Mosa Club
+          1	New South Road
+          1	New Wangbin
+          1	New Zealand High Commission
+          1	Newcamp 1
+          1	Newcamp 2
+          1	Newtown
+          1	Ngalung Street
+          1	Ngamili Street
+          1	Ngea
+          1	Ngowui Island
+          1	Nibub Islet
+          1	Nicholai Maclay Drive
+          1	Nielsen Islets
+          1	Nigibata Road
+          1	Nihon
+          1	Nikints Street
+          1	Nikira Island
+          1	Nikite
+          1	Niligi Lodge
+          1	Nimoa Island
+          1	Nina Kai Bar
+          1	Ninan Islet
+          2	Ningerum
+          1	Ningin Island
+          1	Ninigo Atoll
+          1	Ninigo Atolls
+          1	Ninji Drive
+          1	Ninoa Place
+          1	Ninth Street
+          1	Nip Island
+          1	Nip Street
+          1	Nipa
+          1	Nipa District
+          1	Nipa Marketplace
+          1	Nipa Police Station
+          1	Nipa School
+          1	Niro Island
+          1	Nirut
+          1	Nissan Island
+          1	Nissan Island Airport
+          1	Nissel passage
+          1	Nita Street
+          1	Niu Place
+          1	Niue Street
+          1	Niugini Electric
+          1	Niva Beno Islet
+          2	Nivani Island
+          1	No Ina Island
+          1	No Wave Beach
+          1	Noapoi Island
+          1	Nogoli
+          1	Nogu Dabu Island
+          1	Noho Place
+          1	Nohokau Crescent
+          1	Noinoi Place
+          1	Noipuas
+          1	Noko Place
+          1	Nokuntwriwo Island
+          1	Nokutababa
+          1	Nomad District
+          1	Nomad River Airport
+          1	Nomanda
+          1	Nonaul Island
+          1	Nonbuga Place
+          1	Nonga General Hospital
+          1	Nonopai
+          1	Nonowaul Island
+          1	Nonu Avenue
+          1	Norak Trading
+          2	Norman Street
+          2	Normanby Island
+         32	North Coast Highway
+          1	North East passage
+          1	North Firth Avenue
+          1	North Gochonsipi
+          1	North Gochonsipi Islet
+          1	North Reef (Torau)
+          1	North Wahgi Road
+          1	Northwest Reef (Pacen)
+          1	Noru Island
+          1	Not sure
+          1	Nuakata Island
+          1	Nuama Islet
+          2	Nuana Road
+          1	Nuarguta Island
+          1	Nubara Island
+          1	Nubiam Island
+          1	Nubils Island
+          1	Nugakau Island
+          1	Nugarba Island
+          1	Nugini Building Supplies
+          1	Nuguria Islands
+          1	Nui Island
+          1	Nuigini Building Supplies
+          1	Nuk St
+          1	Nukakau Island
+          1	Nuku Airport
+          1	Nuku District
+          1	Nukuana Island
+          1	Nukumanu Atoll
+          1	Nukurikia
+          1	Numan Place
+          1	Number 8
+          1	Number Two Ship
+          1	Numonohi Christian Academy Elementary
+          1	Numonohi Christian Academy High School
+          1	Numonohi Christian Academy Middle School
+          1	Numundo Island
+          1	Nuna Street
+          1	Nunuan Islet
+          1	Nup Island
+          1	Nuparek Island
+          1	Nusa Island
+          1	Nusa Street
+          1	Nusa channel
+          1	Nusailas Island
+          1	Nusakelo Island
+          1	Nusalik Island
+          1	Nusalomon Island
+          1	Nusam Island
+          1	Nusamoa Island
+          1	Nusandaul Island
+          1	Nusasi Island
+          1	Nusaum Island
+          1	Nusei Island
+          1	Nuselawa Island
+          1	Nuslik Island
+          1	Nussing Island
+          1	Nutanuvua Island
+          1	Nutuve Airport
+          1	Nuugurigia
+          1	Nuvarege
+          1	Nuvure Island
+          1	Nuvurekakau Island
+          2	Oak Street
+          1	Obaga Sett.
+          1	Obo Airport
+          2	Observation Island
+          1	Obstruction Islands
+          1	Oburak Island
+          1	Obuta Crescent
+          1	Odubora Street
+          1	Office of the Prime Minister
+          1	Ogoa Street
+          1	Ogorata River
+          1	Ohu
+          1	Oika Street
+          2	Oil Palm
+          1	Ok Birim
+          1	Ok Mart
+          1	Ok Tedi
+          1	Ok Tedi mine
+          3	Ok-Mart
+          1	Okao Airport
+          1	Okao airport runway
+          1	Okapa District
+          2	Okari Street
+          1	Okoru Island
+          1	Old Courthouse
+          1	Old Kennedy Road
+          3	Old Mission Road
+          1	Old Mission Road, abandoned and overgrown
+          3	Old Mission Road, now bush path
+          1	Old Rabaul Airport
+          1	Old Studio Road
+          1	Old church
+          1	Oleander Avenue
+          1	Olmsted Street
+          1	Oloabu Plantation
+          1	Omai
+          1	Omanada Place
+          1	Omati River
+          1	Ombagof
+          1	Omuku Street
+          1	Onare Island
+          1	Onda Island
+          1	Ondow
+          1	One Hundred Mile Island
+          1	Ong Island
+          1	Onia Island
+          1	Onneta Island
+          1	Onno Street
+          1	Ono River
+          1	Onoga Crescent
+          1	Onoga Place
+          1	Opan
+          1	Opao Place
+          1	Oparea Island
+          1	Opea Island
+          2	Open Bay
+          1	Open Bay Timber
+          2	Opi
+          2	Opwankasi
+          1	Oraka Drive
+          1	Orchid Street
+          1	Ore Place
+          1	Oreia Islet
+          1	Origin Energy LPG storage depot
+          1	Oriole Street
+          1	Oro
+          1	Oro Province
+          1	Orohaven Kokoda Retreat
+          1	Oroi
+          1	Oromosapuo Corner
+          1	Orope Island
+          1	Orora Primary School
+          1	Ororo Crescent
+          1	Orsok
+          1	Osasai Islet
+          1	Osi Avenue
+          1	Ossima
+          1	Otahoguf
+          1	Otaneel Island
+          1	Oto
+          1	Otua Islet
+          1	Ovaro Street
+          1	Over Football Field
+          1	Owen Stanley Range
+          1	Owers Corner
+          1	PAU Administration
+          1	PAU Church
+          1	PAU Farm Village
+          1	PAU Kinakon Village
+          1	PAU Minimart
+          1	PMAR
+          1	PML
+          1	PNG Defense Forces Base
+          1	PNG Forest Products
+          1	PNG Forest Products Farm
+          1	PNG Forest Products Workshop
+          1	PNG Forest, Mt. Hagen.
+          1	PNG Motors
+          1	PNG Motors, Mt. Hagen
+          1	PNG National Forest
+          1	PNG Navy Base Lombrum
+          1	PNG Post
+          1	PNG Power
+          1	PNG Power Station
+          3	PNG Red Cross Society
+          1	PNG Toner & Ink Supplies
+          1	PNG University College
+          1	PNG Water Board
+          1	PNG Water Southern Cross
+          1	PSA Haus
+          1	PTC Earth Station
+          1	Paba Baga
+          1	Pachem Island
+          1	Pacific Adventist University
+          2	Pacific Garden
+          1	Pacific International Hospital
+          1	Pae
+          1	Paeowa Island
+          1	Paga Hill Telikom Tower
+          1	Pagiman Primary School
+          1	Pahi Island
+          1	Paho Islet
+          1	Pai 2
+          1	Pai 2 Barracks
+          2	Paiamuk
+          1	Paiawa
+          1	Paiawa River
+          1	Paibuna River
+          1	Paijaka Aid Post (Closed)
+          1	Paikela
+          1	Paikela Aid Post
+          1	Paikela ECPNG Church
+          1	Paikela SDA Church
+          1	Pailimp Road
+          1	Paipanda
+          1	Paipanda Elementary School
+          1	Paipeli
+          2	Paisak
+          1	Paisop
+          1	Pajale Embera United Church
+          1	Pak Island
+          1	Paka Place
+          1	Pakaneingomor Island
+          1	Pakata
+          1	Pakemuba
+          1	Palali
+          1	Palanda
+          1	Palapa
+          1	Palatar Island
+          1	Paliai Island
+          1	Paligmete
+          1	Paliset Island
+          1	Palitolla Island
+          1	Palm Street
+          1	Pam Islands
+          1	Pam Lin Island
+          1	Pam Mandian Island
+          1	Pana Boba Islet
+          1	Pana Bobai Ana Island
+          1	Pana Hoba Islet
+          1	Pana Island
+          1	Pana Krusima Island
+          1	Pana Kuba Island
+          1	Pana Kuba Islet
+          1	Pana Numara Island
+          1	Pana Rai Rai Island
+          1	Pana Rora Island
+          1	Pana Roran Islet
+          1	Pana Rura Wara
+          1	Pana Sagu Sagu Islet
+          1	Pana Tatoni Islet
+          1	Pana Tibun Islet
+          1	Pana Tinani Island
+          1	Pana Udu Udi Island
+          1	Pana Uya Wana Island
+          1	Pana Vara Vara Island
+          1	Pana Waipona Island
+          1	Pana-Wina Island
+          1	Panab Island
+          1	Panaboal Island
+          1	Panaiiaii
+          1	Panamaiia
+          1	Panaman Islet
+          1	Panangaribu Island
+          1	Pananiu Island
+          1	Panantanian Island
+          1	Panapompom Island
+          1	Panarakuum Island
+          1	Panaroba Islet
+          1	Panasesa Island
+          1	Panasia Island
+          1	Panawadai Islet
+          1	Panda
+          1	Pandora Crescent
+          1	Pandu
+          1	Panemote Island
+          1	Pangia
+          1	Pangia District
+          1	Panguna Mine
+          1	Pangupi
+          1	Panibe
+          1	Panki Ranku Avenue
+          1	Panol
+          1	Panol Primary School
+          1	Panua Keikeisa Islet
+          1	Paparutave Place
+          1	Papau New Guinea University of Technology
+          1	Papialou Islands
+          1	Papinbuch Island
+          7	Papindo
+          1	Papindo Bottle Shop
+          1	Papindo Modilon
+          1	Papindo Supermarket
+          1	Papindo Trading
+          1	Paporam
+          1	Papri
+          1	Papri Catholic church
+          2	Papua
+          1	Papua New Guinea
+          2	Papua Niugini
+          1	Papua Region
+          1	Paradise Cinema
+          1	Paradise New Wewak Hotel
+          2	Paraka Place
+          1	Paralawa Primary
+          1	Paralawa Primary School 
+          1	Parama #1 Corner
+          1	Parama Island
+          1	Parani Crescent
+          1	Parchi
+          3	Parer Street
+          2	Pari
+          1	Pari 1 Marketplace
+          2	Pari Road
+          1	Parinamu 1 Ward
+          1	Parinamu 2 Ward
+          1	Parinamu Elementary School
+          1	Parinamu Primary School
+          1	Parinte Island
+          1	Paripu Road
+          1	Park
+          1	Parsee Point
+          1	Paruwai
+          1	Pasam To grand tree and market
+          1	Pascall Avenue
+          1	Passage Island
+          1	Passam National High School
+          1	Passik River Bridge
+          1	Pastor
+          1	Pastors Kitchen
+          1	Pastors Watertank
+          1	Pataki Island
+          1	Pataku
+          1	Patali Island
+          1	Patamu Island
+          3	Path
+          1	Path down steep cliff
+          1	Path follows river bed
+          1	Path through old mission grounds
+          1	Path to Sambaf
+          1	Patilakan
+          1	Patio Island
+          1	Patosten Street
+          1	Patuam Island
+          1	Paua
+          1	Paukei Island
+          1	Paula Win Guest House
+          1	Paupaa
+          1	Payaka
+          1	Payaka Marketplace
+          1	Payapawi
+          1	Payapawi ecpng church
+          1	Peapea
+          1	Pearl Place
+          2	Pechu Islet
+          1	Pegelpfeiler Island
+          1	Pegunungan Bintang
+          1	Pekaria
+          1	Pekaria ECPNG Church
+          1	Pekaria SDA Church
+          1	Pelawagol
+          1	Peli Island
+          1	Pelican Street
+          1	Pelipa Island
+          1	Pelleluhu Atoll
+          1	Pelo Street
+          1	Pemei Island
+          1	Pen Place
+          1	Pena Place
+          1	Penda Place
+          1	Pender Island
+          1	Perry Islet
+          1	Peru Street
+          1	Pesab
+          1	Peta
+          1	Petat Island
+          1	Peteru Place
+          1	Petrek Street
+          1	Petrol Hut
+          1	Philippine Embassy
+          1	Philippines Road
+          1	Phillips Island
+          1	Phillips Road
+          1	Pianau Island
+          1	Pianganda
+          1	Pianu Island
+          1	Piatana Island
+          1	Pidgeon Place
+          1	Pie River
+          1	Pie-Morovamu Way
+          1	Pigeon Island
+          1	Pigeon Rock
+          5	Pigs
+          1	Pihun Island
+          1	Pikus Market
+          1	Pilelo Island
+          1	Pimco Street
+          1	Pine Lodge
+          2	Pine Street
+          2	Pinetop
+          1	Pinip Island
+          1	Pinipel Island
+          1	Pinis Island
+          1	Pinu
+          1	Pipigari Street
+          1	Pipiru River
+          2	Pipit Street
+          1	Piribu
+          1	Piribu Marketplace
+          1	Pirnoka Primary School
+          1	Pisipu Loop
+          2	Pitta Street
+          1	Pityilu Island
+          1	Piuli Island
+          1	Piupfim Washing Spring
+          1	Piwa
+          1	Piwa Marketplace
+          1	Piwa SDA Church
+          1	Piwa United Church
+          1	Piwa river
+          1	Planet Rock
+          1	Planet channel
+          1	Plantsite Guardhouse
+          1	Plattform B&F
+          2	Plover Street
+          1	Plumbers & Builders
+          1	Plumbing and Hardware
+          1	Plumtrade
+          1	Pochol Island
+          1	Pockley Road
+          1	Pogorali
+          1	Pogorali ecpng church
+          1	Poi Island
+          1	Poinciana Avenue
+          1	Poinciana Street
+          1	Pokoando (former)
+          3	Police Barracks
+          1	Police Traffic Office
+          1	Pom Island
+          1	Pomassau Island
+          1	Pomio District
+          1	Pomoui Island
+          1	Ponam Island
+          1	Ponu Ponu Place
+          1	Pook Island
+          1	Pope Pauls Park
+          2	Popitatpau
+          1	Popondetta
+          1	Popondetta District
+          1	Popotala Islet
+          1	Populai Island
+          1	Porako
+          1	Porani
+          1	Porebada
+         18	Poreporena Freeway
+          1	Porgera
+          1	Porgera District
+          1	Porgera Gold Mine
+          2	Pori
+          3	Pori Road
+          9	Poroma road
+          1	Pororan Island
+          1	Port Moresby
+          1	Port Moresby City Hall
+          1	Port Moresby District
+          1	Port Moresby General Hospital
+          1	Port Moresby Geophysical Observatory
+          1	Port Moresby Golf Course
+          1	Port Moresby Grammar School
+          1	Port Moresby International High School
+          1	Port Moresby Main Market
+          1	Port Moresby Memorial
+          1	Port Moresby Mosque
+          1	Port Moresby Teachers College
+          1	Port Moresby Technical College
+          1	Port Road
+          2	Portlock Street
+          1	Poskanai
+          1	Post Courier
+          1	Post Courrier
+          2	Post Office
+          1	Post PNG
+          1	Post-Courier
+          1	Potaminam Island
+          1	Pothier Place
+          1	Poto Bagao
+          1	Potumbaru Island
+          1	Pou
+          1	Pounaike Island
+          1	Poupouri Island
+          1	Powell Island
+          1	Power House
+          1	Power station
+          1	Preston White Street
+          1	Priddle Street
+          1	Primary Health Clinic
+          2	Primary School
+          1	Provincial Administration
+          1	Provincial Police Headquarters
+          2	Pruth Street
+          1	Pua Pua Place
+          1	Pukua
+          1	Pultata Rock
+          1	Puma Energy
+          1	Puma Energy Refinery Plant
+          2	Puma Fuel Service Station
+          1	Puma petrol
+          1	Puna Island
+          1	Puna Street
+          1	Punawan Island
+          1	Puni Place
+          1	Puni Street
+          1	Pupuangas
+          1	Purari /Kaumeia
+          1	Purari Avenue
+          1	Purdy Islands
+          1	Puri
+          1	Puriata River
+          1	Puril
+          1	Puril Tourism Promotion Center Guest House
+          1	Pursehouse Street
+          1	Puruata Island
+          1	Purutu Island
+          2	Puto
+          1	Putuli Island
+          1	Putyoma
+          1	Pwasiai Island
+          2	Quail Crescent
+          1	Quarry?
+          1	Queen's Park
+          1	Queenscliffe
+          1	Queensland
+          1	Quessant Island
+          1	RH Supermarket
+          1	RMCA Church
+          1	RPNGC Headquarters
+          1	Rababa Hot Springs
+          1	Rabalanakaia
+          2	Rabaul
+          1	Rabaul Avenue
+          1	Rabaul District
+          1	Rabaul Hotel
+          1	Rabaul Market
+          1	Rabaul Travel Lodge
+          1	Rabaul Yacht Club
+          1	Rabia Crescent
+          1	Rabiamul Stadium
+          1	Raboin Island
+          1	Rabuka
+          2	Rabura Street
+          1	Raden Island
+          1	Raga Street
+          1	Ragaba Street
+          1	Raggi Island
+          1	Raho Place
+          1	Rai Street
+          1	Rai loe Creek
+          1	Rail Place
+          1	Rainforest Habitat
+          1	Rakatani Road
+          1	Rakatani Settlement
+          1	Raku
+          1	Ral Island
+          1	Ralph's Bakery
+          1	Ram Creek
+          1	Ram Road
+          1	Ramaga River
+          1	Rambutyo Island
+          1	Ramu Air Strip
+          1	Ramu District
+          1	Ramu Golf Club
+         53	Ramu Highway
+          2	Ramu Housing
+          1	Ramu Oil Palm Buildings
+         12	Ramu River
+          1	Ramu Road
+          1	Ramu Sugar Mill & Workshop area
+          1	Ramu basin
+          1	Rantan Island
+          1	Ranu Place
+          1	Rapa
+          1	Rapopo Plantation Resort
+          1	Rara Island
+          2	Rara Islet
+          1	Rat Island
+          1	Rat Islet
+          1	Raun Wara
+          1	RaunRaun Theatre
+          1	Ravini Street
+          1	Razo Street
+          1	Reamuna Islet
+          1	Reasons
+          1	Rebiamul Catholic Church
+          1	Rebiamul Clinic
+          1	Rebiamul Primary School
+          1	Rebiamul Technical College
+          1	Rec #3179
+          1	Rec #3181
+          1	Rec #3182
+          2	Rec #3183
+          1	Rec #3184
+          1	Rec #3185
+          1	Rec #3186
+          1	Rec #3187
+          1	Rec #3188
+          1	Rec #3189
+          1	Rec #3190
+          1	Rec #3191
+          1	Rec #3212
+          1	Rec #3217
+          1	Rec #3219
+          1	Rec #3220
+          1	Rec #3222
+          1	Rec #3224
+          1	Rec #3225
+          1	Rec #3227
+          1	Rec #3230
+          1	Rec #3231
+          1	Rec #3233
+          1	Rec #3235
+          1	Rec #3237
+          1	Rec #3239
+          1	Rec #3242
+          1	Rec #3244
+          1	Rec #3245
+          1	Rec #3247
+          1	Rec #3249
+          1	Reception
+          1	Red Point
+          1	Redlick Islets
+          1	Redscar
+          1	Reef Island
+          1	Reef Islands
+          3	Regina Avenue
+          1	Regina Primary School
+          1	Reginimi Island
+          1	Regione Street
+          2	Reke Street
+          1	Remaindees Block
+          1	Renard Islands
+          1	Renbo STOR
+          1	Rendezvous
+          1	Reo's Supermarket
+          1	Rerihol Island
+          1	Residential Development Area
+          1	Resting Place
+          1	Restorf Island Beach
+          1	Restorff Island
+          1	Retail & Kai Bar
+          1	Riback old air port
+          1	Ribnitz Harbour
+          1	Ridita
+          1	Rigo District
+          9	Rigo Road
+          1	Rika Rika Island
+          1	Risi Island
+          1	Ritter Island
+          1	Rivers Valley 
+          1	Riwo Island
+          1	Road 01
+          1	Road 25
+          2	Road Market
+          1	Road inside a river
+          1	Road to Tadel
+          2	Robos Street
+          1	Robyn Street
+          1	Rock
+          1	Rocky Islet
+          1	Rogeia Island
+          1	Rogoma
+          1	Rohanoka Street
+          1	Rohi Place
+          1	Roinji
+          1	Roku
+          4	Romba Street
+          1	Rondon
+          1	Rondon Ridge restaurant
+          1	Rooks Marine
+          1	Rosewood Street
+          1	Rossel Island
+          1	Rot Place
+          1	Rotary Park
+          1	Rotenga Catholic Parish
+          1	Rothwell Bank
+          1	Rou Rou
+          1	Route from Kai'alavi to Mapaio
+          1	Route from Kai'alavi to Wame River
+          1	Roux Island
+          1	Royal Papua Yatch Club
+          1	Royal Papuan Yacht Club
+          1	Rrolava Island
+          1	Ruatoka Street
+          1	Rubbish Dump
+          1	Rubi
+          1	Rubin
+          1	Ruby Street
+          1	Rugby field
+          2	Rui Place
+          1	Rukussia
+          1	Ruma Street
+          1	Ruruan Island
+          1	Ruta Place
+          1	S.O.S. Clinic
+          1	SAIE
+          1	SDA Cafe
+          1	SDA Church Grounds
+          1	SDA Churck Kela 3
+          1	SIL Dormitories
+          1	SIL Guesthouse
+          1	SIL Highlands office
+          1	SIL Language Resources
+          1	SIL Member's Store
+          1	SIL Summer Linguistic Institute, International 
+          1	SP Bottle Shop
+          1	SP Brewery
+          1	SP Plant
+          1	SSEC Church
+          1	STI Supermarket
+          1	SVS Super Market
+          1	Sabama
+          1	Sabari Island
+          1	Sabben Islands
+          1	Sable Island
+          1	Sable Islands
+          1	Sabuia Village
+          1	Sacred Heart Cathedral, Vunapope
+          1	Sacred forest
+          1	Sae Island
+          1	Sae Islands
+          1	Safas Place
+          1	Sagalau Market
+          1	Sagasagari Island
+          1	Sagaura Island
+          1	Sagiang Islands
+          1	Sagowa
+          1	Sai Dangan Island
+          1	Saia River
+          1	Saidor District
+          1	Saint Andrew Islands
+          1	Saint Joseph
+          1	Saint Matthias Group
+          1	Saint Paul Bible College
+          1	Saint Therese
+          1	Saint Therese Primary School
+          1	Sairere Island
+          2	Sakar Island
+          1	Sakia River
+          3	Saksak Road
+          1	Sakulu Island
+          1	Salamanda Avenue
+          1	Salamaua
+          1	Salamaua Harbour
+          2	Salamaua Street
+          1	Sale Island
+          5	Sali River
+          1	Salihau Island
+          1	Sally's Place / MOHA
+          1	Salote Street
+          3	Salumei River
+          1	Salvation Army Port Moresby
+          1	Sama
+          1	Sama Atoll
+          1	Saman
+          1	Samarai District
+          1	Samarai Island
+          1	Samari
+          1	Samari Corner
+          1	Sambaf
+          1	Sambio
+          1	Samin Dangan Island
+          1	Samoa
+          1	Samsam
+          1	Samudo Island
+          1	San Miguel Islands
+          1	San Remo Drive
+          1	Sanambiet Island
+          1	Sanaroa Island
+          4	Sand Island
+          1	Sandaun
+          1	Sandaun Province
+          1	Sanders Island
+          1	Sandover
+          2	Sandpiper Road
+          1	Sanga Place
+          1	Sangara
+          1	Sangeng Street
+          1	Sango
+          1	Sanilu
+          1	Sapikunuri
+          1	Sapir Road
+          1	Saposa Islands
+          1	Saraga
+          1	Saraga Street
+          1	Saraga settlements
+          1	Sarang
+          1	Sarang Island
+          2	Saraoni Island
+          1	Sariba Island
+          1	Sariba Street
+          1	Saru Nom Nom Island
+          1	Sarupai
+          1	Sasembata
+          1	Sasereme Airport
+          1	Satellite Disk
+          1	Satin Street
+          1	Sattelberg
+          1	Sau Island
+          1	Saugere Guest House
+          1	Sauwai Island
+          1	Savaka Street
+          1	Savanah Bistro
+          1	Saw Mill
+          1	Scenic green passage
+          1	Schaffhausen Street
+          1	Schangenstein Island
+          1	Schaumann Island
+          1	Schlangen Island
+          1	Schlenitz Island
+          1	Schneider Island
+          1	School of Rural Health Sciences
+          1	School-Airstrip Track
+          1	Schouten Islands
+          3	Scratchley Road
+          1	Scrub Islet
+          1	Scrub Road
+          1	Scuba Ventures
+          1	Seagull Street
+          1	Seaview Road
+          1	Sebea Road
+          1	Sebiga 1
+          1	Sebiga 2
+          1	Sebiga 3
+          1	Sebiribiri Islet
+          1	Sebore Sett.
+          3	Second Street
+          1	Secondary School
+          1	Section 58 Lot 11
+          1	Seeadler Bay Hotel
+          1	Seeadler Harbor
+          1	Seilo Island
+          1	Sek Island
+          2	Sekweiperer
+          1	Selapiu Island
+          2	Seleo Island
+          1	Selp Island
+          1	Sema Place
+          1	Seme
+          1	Senior-Flierl-Seminary
+          1	Senta passage
+          1	Sentinel Island
+          1	Sepa & Rita
+          1	Sepe Corner
+          1	Sepenbak Island
+          1	Sepik Avenue
+         39	Sepik River
+          1	Sepik basin
+          1	Sepsep Island
+          1	Ser Island
+          1	Serilom Street
+          1	Serpent Rock
+          1	Service Station
+          1	Sesebai Islet
+          1	Sete
+          1	Seu Seu Islet
+          1	Seuwa Road
+          1	Seventh Day Adventist Church
+          2	Seventh Street
+          1	Severimabu Corner
+          1	Sevese Morea Drive
+          2	Sewage Treatment Plant
+          1	Seymour Bay
+          1	Sharon Street
+          1	Sharp Island
+          1	Shell Oil Co.
+          1	Shirke Street
+          1	Shoe House
+          1	Shortland Island
+          2	Shower
+          1	Sia Islet
+          1	Siale Place
+          1	Siale Street
+          1	Sialum Island
+          1	Siaman
+          1	Siapan
+          1	Siapangi
+          1	Siar Island
+          1	Siassi Islands
+          1	Siata Island
+          2	Sibumbum Islet
+          1	Sicklebill Street
+          1	Sideia Island
+          1	Siga Islet
+          1	Siganuga Street
+          1	Silipin Island
+          1	Silipwaka Island
+          2	Silkwood Street
+          1	Sillot Avenue
+          1	Silver sound
+          1	Simbang Street
+          1	Simberi Island
+          1	Simbu
+          1	Similam
+          1	Simlindon Island
+          1	Simon & Elsi
+          1	Simona Street
+          1	Simpson Harbour
+          1	Simsim Island
+          1	Simuloloi
+          1	Sina Street
+          2	Sinamnak
+          1	Sinapa Island
+          1	Sinau Drive
+          1	Sini River
+          1	Sinipara Island
+          1	Sinup Island
+          1	Sio Island
+          1	Sioke Primary School
+          1	Sir Hubert Murray Stadium
+          1	Sirik Island
+          1	Sirini United Church
+          1	Sirinumi Dam
+          1	Sirot Island
+          1	Sisi Liu Island
+          1	Sisiabu Island
+          1	Sitani Street
+          3	Sivari Road
+          1	Sivisa Island
+          1	Siwai Wa Islet
+          1	Siwat Island
+          1	Siwataia
+          1	Six Mile Police Station
+          2	Sixth Street
+          1	Skelton Island / Naluwaluwali
+          1	Skok Island
+          1	Skow market
+          1	Skua Place
+          1	Slade Island / Tubetube
+          1	Sletfjord Street
+          1	Sloss Islets
+          1	Small Island
+          1	Small Road Shop
+          1	Small Sivisa Island
+          1	Smith Rock
+          2	Snake River
+          1	Snake Village
+          1	Snipe Street
+          1	Soare Road
+          1	Sobowada Island
+          1	Sobuwabuda Island
+          1	Soccer field
+          1	Soech Island
+          1	Sogavo's Service Station
+          1	Sogeri
+         11	Sogeri Road
+          2	Sogeri Urban
+          4	Sogeri-Sirinumi Dam Road
+          1	Sogo Place
+          1	Sogram Island
+          1	Sohano Island
+          1	Soho Enterprises
+          1	Solasola Island
+          1	Solien
+          1	Solomon Islands
+          1	Solomon Sea
+          1	Solotom
+          1	Somare Circuit
+          1	Somare Park
+          1	Songum Aid Post
+          1	Songum Vernacular Preschool
+          2	Songum Village
+          1	Sontamatia Island
+          1	Sopalaf
+          2	Soraken Plantation
+          1	Sori Island
+          1	Sosson
+          1	Sosson Island
+          1	Sosson United Church
+          1	Sou Creek
+          1	Souba Souba Islands
+          1	South Fly District Administration
+          1	South Gochonsipi
+          1	South Gochonsipi Islet
+          1	South Pacific Steel
+          1	South Reef (Tuchun)
+          1	Southern Highlands
+          1	Southern Highlands Province
+          1	Sowe Island
+          1	Sparrow Place
+          1	Speedcast PNG
+          1	Speybank Street
+          1	Spine Rd
+          1	Spire Islets
+          1	Split Rock
+          1	Spondias Street
+          1	Spoonbill Drive
+          1	Sports Field
+          3	Sports playground
+          1	Spring Garden Road
+          1	St Francis
+          1	St George
+          1	St Mary's Catholic Cathedral 
+          1	St Marys Catholic Church
+          1	St Marys Kagua
+          1	St Michael
+          1	St Michael Community School
+          1	St Paul Primary School
+          1	St. Francies Xavier Megiar Catholic Church
+          1	St. Gerard's Hospital, Veifa'a
+          1	St. Mary
+          1	St. Mary's Cathedral
+          1	St. Michael's Cath. Church
+          1	St. Paul's Catholic Church
+          1	St. Peter Channel's Church (Catholic) - Banara
+          1	St. Peter's Primary School
+          1	St. Steven's Lutheran Church
+          1	St. Steven's Primary School
+          1	Stanley Esplanade
+          1	Steak Haus Goroka
+          1	Steffen strait
+          1	Stein Reef
+          1	Stella Island
+          1	Sterculia Street
+          1	Stettin Bay
+          1	Stilt Street
+          1	Stoa bilong Sogavo
+          1	Stoltz Drive
+          1	Stone wall
+          1	Stop & Shop
+          1	Stores Road
+          1	Strachan Island
+          1	Straggling Islands
+          1	Strathord Islands
+          2	Street Market
+          1	Stret Road
+         10	Strickland River
+          1	Students Catholic College
+          1	Stuers Islands
+          1	Sturt Island
+          1	Sturt Street
+          1	Su Island
+          1	Suau Island
+          1	Submarine
+          2	Suf Island
+          1	Sugu River
+          1	Suki Airport
+          1	Sule
+          1	Sule Airport
+          1	Sulphur Creek
+          1	Sumalani Island
+          1	Sumasuma Atoll
+          1	Sumbura
+          1	Sumbura Health Center
+          1	Sumi
+          1	Sumi Airstrip
+          1	Summiul Island
+          1	Sumogi Island
+          1	Sunday Island
+          1	Sungai Moso
+          1	Sungai1
+          1	Sunrise Lodge
+          1	Sunset Kaibar
+          1	Super Value Store
+          1	Superau
+          1	Superb Valley   View
+          1	Supermarket
+          1	Supreme Court
+          1	Suralil
+          1	Suralil River
+          1	Surgeon's Rock
+          1	Surgurd Island
+          1	Susuwoyo Island
+          1	Swallow Place
+          1	Swallow Road
+          1	Swift Street
+          1	Swimming Pool
+          1	TE PNG
+          1	TST Supermarket & Department Store
+          1	Tab Island
+          1	Tabad Island
+          1	Tabar Island
+          1	Tabar Islands
+          1	Tabari Place
+          1	Tablebirds Factory
+          2	Tabubil
+          1	Tabubil Airport
+          1	Tabubil Golf Club
+          1	Tabunagora Island
+          1	Tadel
+          1	Tadi Street
+          1	Tadji Airstrip
+          1	Tagali Rural LLG
+          4	Tagali river
+          1	Tagalop Island
+          5	Tagari River
+          1	Tagula
+          1	Tagula Island
+          1	Tagula Street
+          1	Tahatea Island
+          1	Tahatu Islet
+          1	Tahira Boat Centre
+          1	Taifaur Islet
+          1	Taikone
+          1	Tailings Dam
+          1	Taima Island
+          1	Taiof Island
+          1	Takakunose Islet
+          1	Takam Rd
+          1	Takanupe Island
+          1	Taki Ipa (former)
+          1	Takubar
+          1	Takuman Island
+          2	Talai Gorobe settlements
+          1	Talangonal Island
+          1	Talapia Street
+          1	Talasea District
+          1	Talasea Police Station ???
+          5	Talasea road
+          1	Talele Islands
+          1	Taleo Street
+          1	Taling Island
+          1	Taliwewai Island
+          1	Talvung Place
+          1	Taman Nasional Wasur
+          1	Tamara Road
+          1	Tamara Rock
+          1	Tamarua Place
+          1	Tamate Creek
+          1	Tamati Memorial Church II
+          1	Tamati TB Treatment Point
+          1	Tambiu Island
+          1	Tambul
+          1	Tambul NARI Station
+          1	Tambul Secondary School
+          1	Tameo River
+          3	Tami Island
+          1	Tami Islands
+          1	Tampi Tampi River
+          1	Tamun Island
+          1	Tamuniai Island
+          1	Tanabal Rd
+          1	Tanatana Street
+          1	Tanga Islands
+          1	Tangari
+          1	Tangi
+          1	Tangori Police Station
+          1	Tanim Place
+          1	Tanpon River
+          1	Tanubada
+          1	Tanwoa Island
+          1	Taparapa
+          1	Tara Place
+          1	Tarabits Airport
+          1	Tarabits airport runway
+          1	Taraga Road
+          1	Taraka Street
+          1	Taraki (Lae)
+          1	Tarangau Primary School
+          1	Tarapaniian
+          1	Tarapaya
+          1	Tarawai Island
+          1	Tare River
+          1	Tari
+          1	Tari Airport
+          1	Tari District Treasury Office
+          1	Tari Gap
+         41	Tari Highway
+          1	Tari Hospital
+          1	Tari Marketplace
+          1	Tari Police Station
+          1	Tari Urban LLG
+          2	Tari-Pori District
+          1	Tari-Pori District Office
+          1	Tarpot Street
+          3	Tarua River
+          2	Tarumana Avenue
+          2	Tatak Island
+          1	Tatalow
+          1	Tatana Island
+          1	Tatapo
+          1	Tatau Island
+          1	Tatukava Island
+          1	Tau Place
+          1	Tauedea Avenue
+          1	Taumaku Crescent
+          2	Taun
+          1	Taun Street
+          1	Taurama
+          1	Taurama Bus Stop
+         11	Taurama Road
+          1	Taurato Island
+          1	Taure Islet
+          1	Tauri Crescent
+          1	Tauriganika Street
+          1	Tausch Island
+          1	Tautauwata Island
+          1	Tautsina Island
+          1	Tauu Island
+          1	Tauu Islands
+          1	Tauveabuda Island
+          1	Tauwara Island
+          1	Tavur Wilderness Lodge
+          1	Tavurvur
+          1	Tawali Leisure and Dive Resort
+          1	Tawanda
+          1	Tawanda Marketplace
+          1	Tawi Island
+          1	Tawi Islands
+          3	Teacher
+          1	Teacher Watertank
+          1	Teachers Watertank
+          1	Teak Street
+          1	Teal Place
+          1	Tebi LLG Council Chamber
+          1	Tebi Rural LLG
+          4	Tebi river
+          1	Tech Police Barracks
+          1	Ted Diro Primary School
+          4	Tedi River
+          1	Tedia
+          2	Tee Jay Guesthouse
+         18	Tee Primary School
+          1	Tefa Island
+          1	Tega ELCPNG
+          2	Tega Primary School
+          1	Tega SDA church
+          1	Tega Workshop
+          1	Tehare Island
+          1	Teheke Island
+          1	Tehetau Island
+          1	Tehota Island
+          2	Teieur
+          1	Telefomin
+          1	Telefomin Airport
+          1	Telefomin District
+          1	Telepanda
+          1	Telepanda SDA Church
+          1	Telikom
+          1	Telma
+          1	Templeton Crossing
+          1	Temporary Church Meeting House
+          1	Tench Island
+          1	Tengelik
+          1	Tengo
+          1	Tennis Court
+          1	Teop Island
+          3	Teredau
+          1	Teredau Office Area
+          1	Teredau camp
+          1	Terenda (former)
+          2	Tern Street
+          1	Tewali
+          1	Tewara Island
+          1	The Calvados Chain
+          1	The Centre
+          1	The Computer Doctor
+          1	The Esplanade
+          1	The Great Stone
+          1	The Little Stone
+          1	The Parkway
+          2	Third Street
+          1	Thomson Bay
+          1	Three Mile
+          1	Thrush Street
+          1	Ti Street
+          1	Tibi Tea Plantation
+          1	Tidal Island
+          1	Tifuasi Island
+          1	Tigibi 1
+          1	Tigibi 2
+          1	Tigibi Primary School
+          1	Tigibi River
+          1	Tigibi Sub Health Center
+          1	Tigipalu (former)
+          1	Tigipalu Elementary School (Former)
+          1	Tigipalu marketplace
+          1	Tikipalu Ward
+          1	Tilianu Island
+          1	Timini
+          1	Timun River
+          1	Tindom Hill
+          1	Tindom Hill Guest House
+          1	Tingwon
+          1	Tingwon Group
+          1	Tingwon Island
+          1	Tininga Dobel Supermarket
+          1	Tininga Hardware
+          1	Tininga Warehouse
+          1	Tinolan Island
+          1	Tiripi
+          1	Tisas Building
+          1	Titihui
+          1	Titihui Elementary School
+          1	Titihui-Airstrip Track
+          1	Tiwongo Island
+          1	Toau Island
+          1	Tobaiam Islet
+          1	Tobaining Drive
+          2	Tobu
+          1	Togerau Catholic Church
+          1	Togerau Waterfall
+          1	Togisi Island
+          1	Togoba
+          1	Togoba High School
+          1	Togoba Junction
+          1	Togotogo
+          1	Tohu Street
+          2	Toi Street
+          5	Toilets and showers
+          1	Toitoi
+          1	Toiyana Island
+          1	Toka Street
+          1	Tokaita Place
+          1	Tokapaita Island
+          1	Tokarara
+          1	Tokarara Primary School
+          1	Tokona Island
+          2	Tokua Airport
+          1	Tokyo
+          1	Tol Airport
+          1	Tola Island
+          1	Tolana Street
+          1	Tolapu
+          1	Toliman Circuit
+          1	Toliman Road
+          1	Tolo Island
+          1	Toloi Awa Islet
+          1	Tolokiwa Island
+          1	Tomadin River
+          1	Tomba junction
+          1	Tomba service station
+          1	Tomboi Island
+          1	Tomu Place
+          1	Tong Island
+          1	Tongalama Island
+          1	Tongn Island
+          1	Tonwalik Island
+          1	Topaio River
+          1	Topere
+          1	Topuna
+          1	Torabuta Island
+          1	Tore
+          1	Torlesse Islands
+          1	Torlo Island
+          1	Torokina Avenue
+          1	Torokina Islet
+          1	Toruta Island
+          1	Tosapeita Island
+          1	Totokei
+          1	Toua Island
+          1	Touaguba Hill
+          1	Toutu Settlement
+          1	Tovanumbatur
+          1	Towan
+          1	Towan Primary School
+          1	Towi Island
+          1	Town Police Station
+          1	Town Water Supply
+          1	Town and Rock Mountain  View 
+          1	Towns and Camp Admin
+          1	Towumbagusum Island
+          1	Trade Electrical
+          1	Traditional houses village
+          1	Traffic Office
+          2	Transit Homes
+          1	Treasuary department
+          1	Treasury Office
+          1	Trigoi
+          1	Trigoi Island
+          2	Trobriand Islands
+          1	Trugl Bridge
+          1	Trukai Site 1
+          1	Trukai Site 2
+          1	Trukai Site 3
+          1	Trukai Storage Yard Site 4
+          1	Tsalui Island
+          1	Tset Island
+          1	Tset Islet
+          1	Tsimba
+          1	Tsoi-Boto Island
+          1	Tsoi-Lik Island
+          1	Tsoilaunung Island
+          1	Tuale Island
+          1	Tuam Island
+          2	Tubetube Aid Post
+          1	Tubetube School
+          1	Tubetube United Church
+          1	Tubinagurm Island
+          1	Tuboa Island
+          1	Tubu
+          1	Tubusereia
+          1	Tudu Island
+          1	Tuene Street
+          1	Tufi Airport
+          1	Tufi District
+          1	Tugemu Rock
+          1	Tugini Street
+          1	Tugu
+          1	Tui Island
+          1	Tukupawi Primary School
+          1	Tulire
+          1	Tulri
+          1	Tuluman Island
+          1	Tuluri
+          1	Tum St
+          2	Tuma Island
+          1	Tumagabuna Island
+          1	Tumbalere
+          1	Tumbi Quarry
+          2	Tumleo Island
+          1	Tumleo Rock
+          1	Tumolbil Airstrip
+          1	Tungelo Island
+          3	Tunnel Hill Road
+          1	Tupaka
+          1	Tupuana
+          1	Turama Avenue
+          4	Turama River
+          1	Turanguna
+          1	Turea Island
+          1	Tureture Corner
+          1	Tureture Village
+          1	Turibomu Island
+          1	Turning Road
+          1	Turtle Back Island
+          1	Turua Avenue
+          1	Turuha Place
+          1	Turumu Street
+          1	Tus Island
+          1	Tuson Island
+          1	Tutunava Street
+          1	Tuvuna
+          2	Tuyam Islet
+          1	Twenty Mile Island
+          1	Twin Rocks
+          1	U.S. Landing Craft (World War II)
+          1	UC Centre
+          1	UMW
+          1	UN Building
+          2	US Embassy
+          1	Uama Island
+          1	Uapumba Island
+          1	Ubu'o
+          1	Ubu'o Elementary School
+          1	Ubu'o Primary School
+          1	Ubu'o United Church
+          1	Ubu'o playing field
+          1	Ubu'o-Buri Track
+          1	Ubuia Island
+          1	Udisis
+          1	Uduka Street
+          1	Ufu'h
+          1	Ugava Road
+          2	Ukarumpa
+          1	Ukarumpa Clinic
+          1	Ukarumpa Guest House
+          1	Ukarumpa High School
+          1	Ukarumpa High School Sports Oval
+          1	Ukaukana
+          1	Ulaulaleia
+          1	Ulawaboi Island
+          1	Ulawaboi Islands
+          1	Ulawun
+          1	Ulimal Island
+          1	Ulrara Island
+          1	Ulu Island
+          1	Ululan
+          1	Ululina Island
+          1	Uluman crater peak
+          1	Ulunai Island
+          1	Uma
+          1	Uma Community Health Post
+          1	Umbo Island
+          1	Umboi Island
+          3	Umbukul
+          1	Umbukul Community School
+          1	Umbukul Memorial United Church
+          1	Ume Street
+          1	Umoa
+          1	Umuda Island
+          2	Unaba Street
+          1	Unausa Island
+          1	Undaga Island
+          1	Unea Island
+          1	Unei Island
+          1	Ungalabu
+          1	Ungalabu Island
+          1	Ungalik Island
+          1	Ungan Island
+          1	Uni Centre Kai Bar
+          2	United Church
+          1	United Church Kikita
+          1	United Church Offices
+          1	United Church Tarapaya
+          1	United Church Wabia
+          1	United Pentecostal Church
+          2	United Primary School
+          1	University of Papua New Guinea, Waigani Campus
+          1	Unu Place
+          1	Unusa Island
+          1	Uon Island
+          1	Upaia
+          2	Upper Baiune
+          1	Upper Highlands Bus Station
+          1	Upper Highlands Bus Stop
+          1	Upper Kupei Road
+          1	Upper Road
+          1	Upper Watut River
+          1	Upuke
+          1	Upuos Island
+          1	Ura Island
+          1	Ura Street
+          1	Urai Island
+          1	Uramu Island
+          1	Urara Island
+          1	Urasi Island
+          1	Uratu Islet
+          4	Urawa River
+          1	Urawas Island
+          1	Ureke Place
+          1	Urembo Island
+          1	Urika Island
+          1	Urirai
+          1	Urirai (Highest Peak in Begasin Hills)
+          2	Urirato
+          1	Urokumtap
+          1	Uruio Rock
+          1	Urupi / Wapurupi
+          1	Usien Island
+          1	Usienlik Island
+          1	Utano Island
+          1	Utbe Island
+          1	Utian Island
+          1	Utokol Island
+          1	Utu
+          1	Utuan Island
+          1	Utuma Place
+          1	Ututuna Rock
+          1	V Town
+          1	Vabukori
+          1	Vada Vada settlements
+          1	Vahu Vahu Street
+          1	Vaibori Avenue
+          1	Vaieke Street
+          1	Vaivai
+          1	Vaivai Avenue
+          1	Vakari Street
+          2	Vakuta Island
+          1	Valkyrie Place
+          1	Valley Lane
+          1	Vambu Island
+          1	Vanagi Place
+          1	Vanama Crescent
+          1	Vanatinai
+          1	Vanimo
+          1	Vanimo (Lido)
+          5	Vanimo - Indonesia border road
+          1	Vanimo Airport
+          1	Vanimo District
+          1	Vanimo Point
+          1	Vanimo Seminary
+          1	Vanimo Supermarket, money changer
+          1	Vanuamai
+          3	Varahe Road
+          1	Varau Island
+          1	Vari Vari Island
+          1	Varia
+          1	Varirata National Park
+          1	Varo Place
+          1	Varoi stream
+          1	Varubi Street
+          1	Varzin
+          1	Vasan Island
+          1	Vassee Island
+          1	Vat Island
+          1	Vatica Street
+          1	Vaviai Island
+          1	Vee Street
+          1	Vehi Island
+          1	Veimauri
+          1	Veiru / Babeio
+          1	Veitsia
+          1	Venama Island
+          1	Venariwa Island
+          1	Venisi Street
+          1	Ventenat Islands
+          1	Veraibari
+          1	Vessi Island
+          1	Viai
+          1	Vibobu Place
+          1	Vidari Island
+          1	Vietnam Street
+          3	Viewpoint
+          1	Village Inn
+          1	Village valley
+          1	Vingora Island
+          1	Vision City Mega Mall
+          1	VisionCity
+          1	Vitex Street
+          1	Vitiaz Strait
+          1	Voae Street
+          1	Voco Point Road
+          1	Vogali Island
+          1	Vohoe Street
+          1	Vohua Place
+          1	Voillea Street
+          1	Vokeo
+          1	Volcanological Observatory (haus guria)
+          1	Vulcan
+          1	Vutung
+          1	Vuvusai Place
+          1	WWII bombarder
+          1	Wa'ah
+          1	Wabag
+          1	Wabag District
+          1	Wabag Highway
+          1	Wabi
+          1	Wabi Island
+          1	Wabi school
+          1	Wabia
+          1	Wabia Primary School
+          2	Wabia Sub Health Center
+          1	Wabomat Island
+          1	Wabubu Island
+          1	Wabuda Island
+          1	Wadana Islet
+          1	Wadei Island
+          1	Wadu Street
+          1	Waga Tu Maiawa Island
+          1	Wagabu Island
+          1	Wagalasa Island
+          1	Wagi Rive
+          1	Wagipa Island
+          1	Waguba river
+          1	Wagupa River
+          1	Wahgi Lodge
+          1	Waia Islet
+          1	Waiamu
+          1	Waiamu channel
+          1	Waigani
+         15	Waigani Drive
+          1	Waigani Primary School
+          1	Waigani Swamp
+          1	Waihaga Bikoina Island
+          1	Waikatu Island
+          1	Waitari
+          1	Waka Street
+          1	Wakaisor
+          1	Wakaisor Land
+          1	Waki Place
+          1	Wakotapau
+          1	Waku
+          1	Walanguo Island
+          1	Waleare
+          1	Walete
+          1	Waliaba Island
+          1	Walindi Plantation Resort
+          1	Waliningil
+          1	Walis Island
+          1	Wallach Place
+          1	Walo
+          1	Walog
+          1	Walte
+          1	Waluba
+          1	Walum
+          1	Walum open air marketplace
+          1	Walumali int school
+          1	Wama
+          2	Wama road
+          1	Wambera
+          1	Wambul 1
+          1	Wambul 2
+          1	Wamena Island
+          1	Wamp Nga Street
+          1	Wampit
+          1	Wampit Village
+          1	Wamuk Island
+          1	Wamulu
+          1	Wanam Island
+          1	Wanbel Haus
+          1	Wandi High School
+          1	Wandumi
+          1	Wanim Island
+          1	Waniw
+          1	Wanombo Island
+          1	Wantom
+          2	Wanupin
+          1	Wapenamanda Airport
+          1	Wapenamanda District
+          1	War Island
+          1	War Memorial
+          1	Wara Sangkung
+          1	Wara Walga
+          1	Warabung
+          1	Warasua Primary School
+          1	Warasua River
+          1	Warbler Place
+          1	Ward Hunt Strait
+          8	Wards Road
+          9	Wards Strip
+          1	Wards Strip Primary School
+          1	Warehouse Yard
+          1	Warele ECPNG Church
+          1	Wareo Street
+          1	Warete Sub Health Center
+          1	Wari Island
+          2	Waria River
+          1	Waris
+          1	Wariura Island
+          1	Warl Aid Post
+          1	Warl Church
+          1	Warl Island
+          1	Warl Primary School
+          1	Warl Village
+          1	Warolo
+          1	Warolo Aid Post
+          1	Waromo
+          2	Warwarkasi
+          2	Wasemi Island
+          1	Waseta
+          1	Wasima Island
+          1	Wasimu Island
+          2	Wastaku
+          1	Wasu
+          1	Wata Island
+          1	Wataguh
+          1	Watagumbil
+          1	Water Board
+          1	Waterea Rock
+          1	Waterfall
+          1	Waterfront Mall
+          1	Watertank Aid Post
+          1	Watertank Isikel (not used)
+          1	Watertank Lucia & David
+          1	Watertank Simon & Elsi
+          1	Watoa Island
+          2	Watom Island
+          1	Watota Island
+          1	Watts Island
+          1	Watts Island / Kwalaiwa
+          1	Watungwunggusuk Islet
+          1	Watut River
+          2	Wau
+          1	Wau Airfield
+          1	Wau Avenue
+         24	Wau-Bulolo Highway
+          1	Waukaue Street
+          1	Wawaribi Island
+          1	Wawasi Island
+          1	Wawiwa Island
+          1	Webb Street
+          1	Weibu Island
+          1	Weitoa Island
+          1	Weku Sinibu Rock
+          1	Wele Creek
+          1	WellPad G
+          1	Welpam Place
+          1	Wenda
+          1	West Goroka
+          1	West New Britain
+          1	West New Britain Province
+          1	Westbake Bakery
+          1	Western
+          1	Western Highlands
+          1	Western Highlands Province
+          2	Western Province
+          3	Westpac
+          1	Westpac Bank
+          1	Westpac Boroko
+          1	Weteili
+          1	Wewak
+          1	Wewak - Maprik Road
+          4	Wewak Airport
+          1	Wewak District
+          1	Wewak General Hospital
+          1	Wewak Hill
+          1	Wewak Market
+          1	Wewak Plains View
+          1	Wewak Stadium / Prince Charles Oval
+          1	Wewak Street
+          2	Wewak Wharf
+          2	Wewak-Angoram Road
+          1	Weybank Street
+          1	Wharft Road
+          1	Wheelchair Ramp
+          1	Whipbird Street
+          1	White Drive
+          2	White House
+          1	Whittaker Street
+          1	Wiakau Island
+          1	Wiapan Market
+          1	Wide River Crossing
+          1	Wide River crossing, day and night
+          1	Wide River crossing, no Bridge, cool drinkable water on the
+          1	Wide river cross, no bridge
+          1	Wigim Island
+          1	Wigman Lodge
+          1	Wilhelm Place
+          1	Willaumez Peninsula
+          1	Willy
+          1	Wim
+          1	Wimgei
+          1	Wind Jammer Beach
+          1	Winima
+          1	Winter Street
+          1	Wipim Airport
+          1	Wirui
+          1	Wisdom Lake
+          1	Wisdom Street
+          1	Wisil Island
+          1	Witu Islands
+          1	Wogewoge Island
+          1	Wogiwog Island
+          1	Wolpiei Rock
+          1	Women's training center
+          1	Wonad Island
+          1	Wonenara District
+          1	Wongbe Village
+          1	Wood Road
+          1	Woodcock Road
+          1	Woodlark Island
+          1	Woodward Island
+          1	Workout Room
+          1	World Vision International
+          1	World Vision TB Treatment Point
+          1	Wouobo
+          1	Wouobo Primary School
+          1	Wowou
+          2	Woyne Road
+          1	Wreck Island
+          1	Wren Place
+          1	Wuhu Island
+          1	Wulai Island
+          1	Wunabalo Island
+          1	Wuroa Mission
+          1	Wutung
+          1	Wuvulu Island
+          1	Yabob Island
+          1	Yabob Road
+          1	Yabwaia Island
+          1	Yacht Club
+          1	Yakimoan Island
+          1	Yakisu Community Health Center
+          1	Yako
+          1	Yalapala Village
+          1	Yalo River
+          1	Yamamoto Bunker
+          1	Yaman St
+          3	Yamauan Street
+          1	Yambaraka
+          1	Yame Island
+          1	Yamiga Island
+          1	Yana's Convoy Stop
+          1	Yanda
+          1	Yanggalam Community School
+          1	Yanggalam Village
+          1	Yango
+          1	Yaona Island
+          1	Yapala
+          1	Yapere Island
+          1	Yapsiei
+          1	Yapsiei Airport
+          1	Yarapi
+          1	Yarena
+          1	Yaruman Island
+          1	Yatch Club
+          1	Yawaipo
+          1	Yawan
+          1	Yawawa Station
+          1	Yawi
+          1	Yecola Island
+          1	Yeharnu Island
+          1	Yeina Island
+          1	Yela
+          1	Yimas Lakes
+          1	Yomba Island
+          1	Yonki Dam Resovar
+          1	Yotea
+          1	Yotea Elementary School
+          1	Yotea Marketplace
+          1	Yotea United Church
+          1	Young Ambassadors for Peace Office
+          1	Youth Center
+          1	Yovo Island
+          1	Ysabel passage
+          1	Yuat River
+          1	Yule Island
+          1	Yule Island Airport
+          1	Yuluiai Island
+          1	Yuo Island
+          1	Yupna River
+          1	Yuwong
+          1	Zenag
+          1	Zeune Islands
+          1	Zimir Lake
+          1	Zokizoi River
+          1	Zoller Islands
+          1	Zumangurum
+          1	Zumbale Island
+          1	bmobile
+         45	building
+          1	dark  street
+          1	hamlet
+          4	house
+          1	hulia river
+          1	innovative toilet
+          1	kakuapi
+          1	landfill site near Port Moresby
+          1	leabon Islet
+          1	logging camp
+          1	logging road - shortcut
+          1	path to ondop
+          2	primary school
+          1	private doctor
+          2	residential road
+          1	salus
+         17	settlements
+          1	shortcut
+          1	timber port
+          1	timber shipment
+          2	timber yard
+          2	to Ba'anitagol
+          1	to Ingamblis
+          1	to Lahinga
+          1	wama road

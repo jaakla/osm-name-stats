@@ -1,0 +1,100 @@
+        458	Autopista del Sur
+        281	Carretera General del Sur
+        193	Canal Aguas del Sur
+        162	Autopista del Norte
+        157	Canal de Araya
+        157	Canal Intermedio
+        154	Canal del Estado
+        144	Canal del Norte
+        112	Canal de Enlace
+        101	Carretera de La Laguna a Punta del Hidalgo
+         98	Spar
+         97	Santander
+         97	Camino Real
+         90	Canal Güímar-Santa Cruz
+         88	Peatonal Miguel de Cervantes
+         81	Canal del Pinalete y Gordejuela
+         80	BBVA
+         77	Avenida Faro de Pechiguera
+         75	Carretera General del Norte
+         71	Mercadona
+         71	Avenida Marítima
+         68	Residencial Jablillo
+         68	Canal de las Cabezadas
+         63	Calle León y Castillo
+         61	Calle San Antonio
+         60	La Caixa
+         59	Carretera General
+         57	Barranco Hondo
+         56	Carretera de circunvalación de Arrecife
+         56	Canal Río-Portezuelo
+         55	Avenida Islas Canarias
+         54	Avenida de la Unión Europea
+         52	Canal Fuente Nueva-Tegueste
+         52	Calle San Juan
+         52	Barranco del Agua
+         51	Calle Lanzarote
+         49	Calle Pérez Galdós
+         49	Barranco Seco
+         49	Avenida de los Menceyes
+         48	Calle Real
+         48	Calle Mastil
+         47	Barranco el Chupadero
+         46	Calle Gran Canaria
+         46	Aeropuerto
+         43	Bankia
+         42	Prolongación del Canal Intermedio
+         42	Carretera de La Esperanza
+         42	Calle Venezuela
+         42	Atarjea de El Escobonal
+         42	-
+         41	Canal La Guancha-Icod
+         41	Calle Tajinaste
+         41	Calle Santo Domingo
+         41	Barranco Chabuguito
+         41	Avenida de Canarias
+         40	Carretera del Rosario
+         40	Carretera Tejina - Tacoronte
+         40	Canal de Catalanes
+         40	Calle San José
+         40	Barranquillo Araujo o del Lomo de los Pastores
+         40	Barranco el Tanque
+         39	Carretera San Bartolome
+         39	Avenida de la Constitución
+         39	Autovía Interconexión Norte-Sur
+         38	Carretera del Teide
+         38	Carretera Norte San Andrés-Las Mercedes
+         38	Canal Fasnia-Arafo
+         38	Calle San Borondon
+         38	Calle Drago
+         38	Barranco de Las Galletas
+         37	Calle San Francisco
+         37	Calle Manuel de Falla
+         37	Barranco el Rodeo
+         37	Barranco de Arguineguin
+         37	Avenida Fernando Salazar González
+         36	Residencial Las Caletas
+         36	Canal Aguamansa-Santa Cruz
+         36	Calle Bruselas
+         36	Cajasiete
+         35	Canal La Victoria-Santa Cruz
+         35	Canal Guía de Isora-Tejina-Altavista
+         35	Canal Garachico-Los Silos
+         35	Canal Charca del Estado
+         35	Camino de Chasna
+         35	Calle Timanfaya
+         35	Calle Tenerife
+         35	Calle Isla de Lobos
+         35	Barranco Acentejo o de San Antonio
+         35	Avenida Los Majuelos
+         34	Vía de Ronda de La Laguna
+         34	Carretera General Icod-Buenavista
+         34	Carretera Este
+         34	Calle Velázquez
+         34	Barranco de San Juan
+         34	Autovía de San Andrés
+         33	Calle El Calvario
+         33	Calle Autovía del Cabildo
+         33	CajaCanarias
+         33	Barranco las Galgas
+         33	Avenida Príncipes de España

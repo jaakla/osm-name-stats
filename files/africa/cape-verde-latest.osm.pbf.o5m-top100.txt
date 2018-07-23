@@ -1,0 +1,100 @@
+        716	reflorestação
+        433	Palmtree
+         74	Palmtrees
+         72	palmeira
+         37	Porto Novo - Janela
+         32	impluvium
+         29	Ribeira dos Picos
+         24	EN3-ST-05
+         22	Ribeira de Boa Ventura
+         22	Praia-Calheta-Tarrafal
+         21	Ribeira Grande
+         20	2
+         19	palmtree
+         19	Mercado Municipal
+         18	Circular da Praia
+         17	Porto Novo-R.Grande
+         17	EN3-FG-01
+         17	BCA
+         15	palmeiras
+         15	Shell
+         14	Igreja católica
+         13	Tarrafal-Calheta-Praia
+         13	Tarrafal-Assomada-Praia
+         13	Santiago Wind Farm
+         13	Paúl
+         11	Rua de Morgoinho
+         11	Ribeira do Caniço
+         11	Igreja
+         11	Garça de Cima - Ribeira Grande
+         11	Avenida 5 de Julho
+         10	Ribeira Água Barbosa
+         10	Ribeira da Trinidade
+         10	Ribeira da Salto
+         10	Enacol
+          9	Zona florestal
+          9	Ribeira do Lugar
+          9	Ribeira Zimbrão
+          9	Ribeira Larga
+          9	Ribeira Dom João
+          9	Palmeira
+          9	BCN
+          8	Ribeira do Paúl
+          8	Ribeira de Torre
+          8	EN3-FG-02
+          8	Avenida Jorge Barbosa
+          7	Tarrafal
+          7	São Pedro
+          7	Salinas
+          7	Ribeira do Mangue
+          7	Ribeira das Patas
+          7	Ribeira da Lagoa
+          7	Ribeira da Garça
+          7	Ribeira Grande - Janela-Paúl
+          7	Ribeira Branca
+          7	Praia-Calheta-Tarrafal (Estrada da Praia)
+          7	Lagoa
+          7	EM-SF-10
+          7	Calu e Angela
+          7	Avenida Amílcar Cabral
+          6	Rua Serpa Pinto
+          6	Rua Henrique Sena
+          6	Ribeira dos Flamengos
+          6	Ribeira João Pinto
+          6	Ribeira Gendé
+          6	Ribeira Brava
+          6	Monte Vermelho
+          6	EN3-FG-05
+          6	Caixa Economica
+          6	CV Telecom
+          6	Avenida Marginal
+          6	Avenida Holanda
+          6	Avenida Cidade de Lisboa
+          5	TACV
+          5	São Miguel
+          5	Santo António
+          5	Santa Maria
+          5	Rua dos Espargos
+          5	Rua Manuel Matos
+          5	Rua Jaime Mota
+          5	Rua Dr. Manuel Duarte
+          5	Rua Dr. António Loreno
+          5	Rua Che Guevara
+          5	Rua Angola
+          5	Ribeirinha
+          5	Ribeira dos Engenhos
+          5	Ribeira do Calhão
+          5	Ribeira de São Miguel
+          5	Ribeira de São Francisco
+          5	Ribeira de São Filipe
+          5	Ribeira de São Domingos
+          5	Ribeira de Santo António
+          5	Ribeira de Figuerinha
+          5	Ribeira da Prata
+          5	Ribeira da Praia Grande
+          5	Ribeira da Montanha
+          5	Ribeira da Malha
+          5	Ribeira da Cruz
+          5	Ribeira da Baia
+          5	Ribeira Seca
+          5	Ribeira Laje

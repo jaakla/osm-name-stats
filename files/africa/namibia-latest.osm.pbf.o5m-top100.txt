@@ -1,0 +1,100 @@
+       1345	Farm Track
+       1338	Track
+        165	Dam
+        105	Bassin
+        103	Two-Spoor Path
+         60	Robert Mugabe Avenue
+         53	4x4
+         50	Calueque–Oshakati Canal
+         39	Hosea Kutako Drive
+         39	4x4 Track
+         38	Baobab Safari Lodge 1
+         37	Puma
+         37	Independence Avenue
+         36	Sam Nujoma Avenue
+         36	Border Namibia - South Africa
+         35	Shell
+         35	C41
+         34	Engen
+         34	B8
+         32	Western Bypass
+         31	Mandume Ndemufayo Avenue
+         29	FNB
+         29	Baobab Safari Lodge 2
+         29	Bank Windhoek
+         27	Gammams River
+         23	Cuando
+         22	David Hosea Meroro Road (Hochland Road)
+         21	Shoprite
+         21	Hendrik Witbooi Drive (Charles Marais St)
+         20	Village
+         20	Twee Spoor Track
+         20	Standard Bank
+         19	Waterhole
+         19	C46
+         19	Aba Huab
+         18	Kasane Airport Staff Quarters
+         17	White Nossob
+         17	M47
+         17	KFC
+         16	Swartklip
+         16	Border Namibia - Botswana
+         16	B3
+         16	Auas Road
+         15	Total
+         15	Spar
+         15	Sam Nujoma Drive / B6
+         15	Nedbank
+         15	Girls Hostel
+         14	D1982
+         14	C43
+         13	Sam Nujoma Drive
+         13	Muchenje Safari Lodge
+         13	Kuiseb
+         13	Jan Jonker Weg
+         13	Claudius Kandovaru Road
+         12	Zambezi
+         12	Water Access / Bore Hole
+         12	Vrede Rede Avenue
+         12	Orange River
+         12	Ongava St
+         12	Okavango
+         12	Gate
+         12	Daniel Kamho Avenue
+         12	Bismarck St
+         12	Bakwena Lodge
+         12	Anna Mupetambi Road (18th Road)
+         12	5th Avenue
+         11	road
+         11	Wildlife Anti-Poaching Unit
+         11	Sam Nujoma Avenue (Kaiser Wilhelm St)
+         11	Omaruru
+         11	Hans Dietrich Genscher Street
+         11	Hakos
+         11	Extension 1
+         11	EN295
+         11	Diaz St
+         11	D2316
+         11	Cunene
+         11	Chobe Elephant Camp
+         11	2nd Avenue
+         10	Viewpoint
+         10	Toilette
+         10	Sam Nujoma Avenue / B6
+         10	Police Quarters
+         10	Omatako
+         10	Noordoewer/Vioolsdrif Joint Irrigation Scheme
+         10	Muchenje Campsite
+         10	Misty Heights
+         10	Mabele Primary School
+         10	Klippe
+         10	Hage Geingob Street
+         10	Frans Indongo Street (Bülow Street)
+         10	Etosha Pan
+         10	Dr. Schwietering St
+         10	Church St
+         10	1st Avenue
+          9	clearing
+          9	Theo Ben Gurirab Street
+          9	Sam Nujoma Drive (Kaiser St)
+          9	Nelson Mandela Avenue (Klein-Windhoek-Weg)

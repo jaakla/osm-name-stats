@@ -1,0 +1,4819 @@
+          1	1 Mill Cottages
+          1	14North
+          1	1st Douglas Scout Group
+          2	1st Malew scout house
+          1	2 Mill Cottages
+          1	2e2
+          1	2nd Onchan Scout Group
+          2	39 Steps
+          1	3FM
+          1	4 Groudle View
+          2	4 Hire
+          1	40 Siverburn Drive
+          1	5ifth Dimension Kitchens
+          1	A Café
+          1	A D Hewett
+          1	A-Z Plumbing & Heating
+          1	A-dore
+          1	A.V. Craine and Sons
+          1	A3 Island Marquees
+          1	AJ Millichap Ltd
+          1	ATC Tower
+          1	ATP
+          1	ATS
+          1	Aaron House
+          1	Abattoir
+          1	Abbey Dental
+          1	Abbey Lane
+          1	Abbey Restaurant
+          1	Abbeyhill
+          1	Abbeylands
+          1	Abbots Close
+          2	Abbots Drive
+          2	Abbots Way
+          1	Abbotswood Court
+          1	Access Lane
+          1	Accessorize
+          1	Adcock Direction Finding Station
+          2	Adele's Dancewear
+          1	Adelphi Hotel
+          1	Admiral House
+          1	Africa Court
+          1	Age Isle of Man
+          1	Agneash
+          1	Agneash Methodist Church
+          1	Agrimark
+          1	Airport Fire Station
+          1	Airport Garage
+          1	Airport Security
+          1	Airport Terminal
+          1	Albany Close
+          1	Albany House
+          1	Albany Lane
+          1	Albany Lawn Tennis Club
+          3	Albany Road
+          1	Albany Street
+          1	Albert Hotel
+          1	Albert Square
+          2	Albert Street
+          2	Albert Terrace
+          1	Albert Tower
+          1	Alberta Drive
+          1	Albion Terrace
+          4	Alder Grove
+          1	Alder Road
+          2	Alderley Close
+          1	Aldrick
+          1	Alessandro's
+          3	Alexander Drive
+          1	Alexander Road
+          4	Alexandra Road
+          1	Alfred Pier
+          1	Alfred Teare Grove
+          1	Algare Farm
+          1	Ali's Electronics Repair Centre
+          1	Align 4 Life
+          2	Alkest Way
+          1	All About You
+          1	All Saints
+          3	All Saints Park
+          1	Allagawne
+          1	Allan Street
+          1	Allandale
+          1	Allansons Nurseries
+          2	Alpine Close
+          1	Amara
+          1	Anagh Coar Close
+          2	Anagh Coar Road
+          1	Anagh Coar School
+          1	Anagh Coar Spar
+          1	Anatolia
+          1	Anchor (disused PH)
+          1	Anchorage Guesthouse
+          1	Anchorage House
+          1	Andrea's
+          1	Andrea's Grooming Parlour
+          3	Andreas
+          1	Andreas Airfield
+          1	Andreas Graveyard
+          1	Andreas Parish Church
+          1	Andreas Road
+          1	Andreas School
+          1	Andreas Shop
+          2	Andreas-Ballavoddan House
+          1	Andy's
+          1	Ann Summers
+          3	Annacur Lane
+          1	Ape Mann Adventure Park
+          1	Appetites
+          1	Apple Orphanage
+          2	Appledene Court
+          2	Approach Road
+          1	Arbory
+          4	Arbory Road
+          2	Arbory School
+          4	Arbory Street
+          1	Arcade (disused)
+          1	Archallagan Park
+          1	Archallagan Plantation
+          1	Archallagan Terrace
+          1	Archdeacons Close
+          1	Archibald Knox
+          1	Archibold Knox Garden
+          1	Ard Biljyn
+          1	Ard Jerkyll
+         11	Ard Reayrt
+          1	Ard Whallin Outdoor Centre
+          1	Ard Wooilley
+          1	Ard-na-Mara Holiday Apartments
+          1	Ard-na-Mara House
+          1	Ardbraccan House
+          1	Arderry
+          1	Ardonan
+          1	Ardonan Lane
+          1	Ardwhallin Slate Quarry
+          2	Arg Beiyn
+          1	Arg Beiyn Veterinary Practice
+          1	Aroma
+          2	Arragon House
+          1	Arragon Moar
+          1	Arragon Veg
+          1	Arrandale House
+          1	Arrasey Plantation
+          1	Arrysey
+          1	Artis@n
+          1	Arts & Antiques
+          1	Arvioghen
+          1	Ascot Hotel
+          2	Ash Close
+          1	Ash Grove
+          1	Ash Road
+          2	Ashberry Avenue
+          2	Ashbourne Avenue
+          1	Ashbourne Grove
+          1	Ashcroft Farm
+          1	Ashen
+          1	Ashen Bank
+          1	Ashfield Avenue
+          1	Ashlar Drive
+          1	Ashley Hill School
+          3	Ashley Park
+          1	Ashley Road
+          1	Ashville Apartments
+          1	Asia Fresh
+          2	Aspen Drive
+          2	Athol Avenue
+          1	Athol Bridge
+          1	Athol Court
+          1	Athol House
+          2	Athol Park
+          1	Athol Place
+          6	Athol Street
+          1	Athol Terrace
+          2	Atholl Place
+          1	Atholl Street
+          1	Atlantis
+          1	Attraversiamo Italian Steak House
+          1	Auburn Road
+          1	Auckland Grove
+          1	Auckland Grove Lane
+          1	Auldyn School
+          1	Aust Farm
+          7	Avondale Road
+          1	Awin Ruy
+          4	Awin Vitchel
+          1	Axnfell Plantation
+          1	Ayre
+          2	Ayre View
+          1	B&B Furniture
+          3	B&Q
+          1	BALLASHOLAGUE HALT
+          1	BHS Swimming Pool
+          1	BMX track
+          1	BT-Manx NI
+          1	BT-Mt 1
+          1	Back Hope Street
+          1	Back Marina Road
+          1	Back Shore Road
+          1	Bakeaway Cafe
+          1	Balanced Health Clinic
+          1	Baldhoon
+          1	Baldhoon Road
+          1	Baldrine
+          1	Baldrine Farm
+          5	Baldrine Park
+          3	Baldrine Road
+          1	Baldrine Station
+          1	Baldrine Station Shelter
+          1	Baldrine Staton
+          2	Baldromma
+          1	Baldromma Christian
+          1	Baldromma Mill
+          1	Baldromma Road
+          1	Baldwin
+          2	Baldwin River
+          2	Baldwin Road
+          1	Baljean Farm
+          1	Ballabane
+          8	Ballabeg
+          1	Ballabeg Cairn
+          2	Ballabeg Crossing
+          1	Ballabeg Green Car Park
+          1	Ballabeg Methodist Chapel
+          3	Ballabeg Station
+          1	Ballaberna
+          1	Ballaberna Road
+          1	Ballaberragh
+          1	Ballablack
+          2	Ballabridson Park
+          5	Ballabrodie
+          2	Ballabrooie
+          1	Ballabrooie Avenue
+          4	Ballabrooie Drive
+          1	Ballabrooie Grove
+          1	Ballabrooie Road
+          2	Ballabrooie Way
+          1	Ballabunt
+          2	Ballacain
+          1	Ballacain Cottage
+          2	Ballacain Farm
+          1	Ballacaine Cottages
+          1	Ballacaley
+          1	Ballacallin
+          1	Ballacallin Beg
+          1	Ballacallin Farm
+          1	Ballacallin Mooar
+          1	Ballacallow
+          1	Ballacallum
+          1	Ballacallum Red Gates
+          1	Ballacamain
+          1	Ballacamaish Farm
+          3	Ballacanell
+          2	Ballacannell
+          2	Ballacannell Halt
+          1	Ballacarnane
+          1	Ballacarnane Beg
+          1	Ballacaroon
+          1	Ballacarrooin
+          1	Ballacashin
+          1	Ballacharry
+          3	Ballacharry Road
+          1	Ballachoan House
+          1	Ballachrine
+         11	Ballachrink
+          1	Ballachrink Barn Cottages
+          1	Ballachrink Beg
+          1	Ballachrink Bungalow
+          7	Ballachrink Drive
+          9	Ballachrink Farm
+          1	Ballachrink Road
+          1	Ballachristory Farm
+          2	Ballachurry
+          2	Ballachurry Avenue
+          1	Ballachurry Close
+          1	Ballachurry Farm
+          3	Ballachurry Road
+          1	Ballaclague
+          1	Ballacleator Farm
+          1	Ballacloan Infants School
+          1	Ballacloan Road
+          2	Ballaclucas
+          1	Ballacoar
+          4	Ballacobb
+          1	Ballacojeen
+          6	Ballacollister Road
+          1	Ballacomaish
+          1	Ballacomish
+          1	Ballacondra
+          1	Ballaconley Farm
+          1	Ballacooil
+          1	Ballacooil Mews
+          1	Ballacooiley
+          1	Ballacooven
+          1	Ballacoraige
+          1	Ballacoraige Farm
+          1	Ballacorey Farm
+          1	Ballacorey Road
+          2	Ballacorlett Farm
+          1	Ballacorrin
+          2	Ballacorris
+          1	Ballacorteen Farm
+          1	Ballacosnahan
+          1	Ballacosnahan Farm
+          1	Ballacosney
+          1	Ballacotch
+          2	Ballacotch Lane
+          1	Ballacotch Manor
+          5	Ballacottier
+          1	Ballacottier Beg
+          2	Ballacottier Crescent
+          1	Ballacottier Farm
+          2	Ballacottier Road
+          1	Ballacottier School
+          1	Ballacowin Farm
+          3	Ballacowle
+          2	Ballacoyne
+          1	Ballacraine
+          1	Ballacrebbin
+          1	Ballacree
+          1	Ballacreetch Farm
+          1	Ballacregeen
+          4	Ballacregga
+          3	Ballacreggan
+          1	Ballacreggan Farm
+          1	Ballacreggan House
+          1	Ballacricket Farmhouse
+          1	Ballacrink Stores
+         20	Ballacriy Park
+          1	Ballacroak
+          3	Ballacrosha Estate
+          1	Ballacross
+          1	Ballacross Farm
+          1	Ballacrye Beg
+          1	Ballacrye Farm
+          1	Ballacrye Road
+          1	Ballacubbon
+          3	Ballacubbon Close
+          1	Ballacubbon Farm
+          1	Ballacuberagh Plantation
+          1	Ballacurn Road
+          1	Ballacurnkeil
+          1	Ballacurphey
+          1	Ballacurry Farm
+          3	Ballacurry Road
+          1	Ballacutchel
+          1	Balladha
+          2	Balladhoo
+          1	Balladoole
+          1	Balladoole Beg
+          1	Balladoole Farm
+          1	Balladoole House
+          3	Balladoyne
+          2	Balladromma Beg Halt
+          1	Balladuggan
+          1	Balladuke Farm
+          1	Ballafageen
+          2	Ballafayle
+          1	Ballafayle Cairn
+          1	Ballafayle E. Callow
+          1	Ballafayle-e-callow
+          1	Ballafesson
+          2	Ballafesson Road
+          1	Ballafletcher
+          1	Ballafletcher Farm
+          4	Ballafletcher Farm Road
+          4	Ballafletcher Road
+          1	Ballafodda
+          1	Ballafodda Farm
+          1	Ballafreer Farm
+          1	Ballafreer House
+          1	Ballafrog
+          1	Ballafurt
+          3	Ballafurt Close
+          3	Ballafurt Road
+          1	Ballagale
+          3	Ballagale Avenue
+          2	Ballagale Close
+          1	Ballagale House
+          1	Ballagale Store
+          1	Ballagaraghyn
+          2	Ballagarey
+          1	Ballagarey Close
+          3	Ballagarey Crescent
+          1	Ballagarey Farm
+          1	Ballagarey Methodist Chapel
+          1	Ballagarey Road
+          1	Ballagarmin
+          1	Ballagarraghyn Farm
+          1	Ballagarrett
+          3	Ballagawne
+          1	Ballagawne Bridge
+          1	Ballagawne Farm
+          1	Ballagawne Garden Nurseries
+          2	Ballagawne Halt
+          1	Ballagawne Halt Shelter
+          7	Ballagawne Road
+          1	Ballagawne crossing
+          1	Ballageeil
+          1	Ballaghale
+          1	Ballaghaue Mansion
+          1	Ballaghennie
+          1	Ballagick
+          1	Ballagill
+          1	Ballagill Farm
+          1	Ballagilley Farm
+          1	Ballaglashan
+          2	Ballaglass
+          1	Ballaglass Glen
+          1	Ballaglass Halt
+          1	Ballaglass Shelter
+          1	Ballaglea
+          5	Ballaglonney
+          1	Ballaglonney Close
+          2	Ballaglonney Farm
+          1	Ballagorry
+          4	Ballagorry Drive
+          1	Ballagorry Halt
+          1	Ballagorry Heights
+          1	Ballagraingey
+          1	Ballagreyney
+          1	Ballaguinea Beg
+          1	Ballaguinnea Mooar
+          1	Ballagunnell
+          1	Ballagyr
+          1	Ballagyr Lane
+          3	Ballagyr Park
+          1	Ballahais
+          1	Ballahane
+          1	Ballahane Close
+          2	Ballahane Cottage
+          2	Ballahane House
+          1	Ballahane Upper
+          1	Ballaharra Farm
+          1	Ballaharry
+          1	Ballahasney
+          1	Ballahick
+          1	Ballahick crossing
+          2	Ballahig Farm
+          1	Ballahimmin
+          1	Ballahimmin Riding and Pony Trekking Centre
+          1	Ballaholly
+          1	Ballahot
+          2	Ballahowin
+          1	Ballahowin Courtyard
+          1	Ballahutchin Mooar
+          1	Ballaimis
+          1	Ballajeraie Farm
+          1	Ballajeroie
+          2	Ballajora
+          1	Ballajora Halt
+          2	Ballajora Quarry Halt
+          1	Ballajora Shelter
+          1	Ballajuanvark Farm
+          5	Ballakaighen
+          2	Ballakaighen Road
+          1	Ballakaneen
+          1	Ballakeigh
+          2	Ballakeighan
+          1	Ballakeighan Farm
+          1	Ballakeil
+          2	Ballakeiog Farm
+          4	Ballakelly
+          1	Ballakerka Plantation
+          1	Ballakerkey
+          1	Ballakerkey Cottage
+          1	Ballakermeen Avenue
+          2	Ballakermeen Close
+          2	Ballakermeen Drive
+          1	Ballakermeen High School
+          1	Ballakermeen Road
+          1	Ballakesh Farm
+          1	Ballakew
+          2	Ballakewin
+          1	Ballakewish
+          2	Ballakeyll
+          3	Ballakilley
+          8	Ballakilley Close
+          1	Ballakilley Cottage
+          1	Ballakilley Farm
+          1	Ballakilleyclieu
+          1	Ballakillingan Farm
+          2	Ballakillowey
+          4	Ballakillowey Road
+          1	Ballakilmartin
+          1	Ballakilmurray
+          1	Ballakilpheric
+          1	Ballakilpheric Methodist Chapel
+          2	Ballakilpheric Road
+          2	Ballakinnag
+          1	Ballakinnag Road
+          1	Ballakinnish
+          1	Ballakissack
+          2	Ballakneale Avenue
+          2	Ballakneale Close
+          1	Ballalaa
+          2	Ballaleaney
+          1	Ballaleece
+          1	Ballaleece Bridge
+          1	Ballaleigh
+          1	Ballaleshin
+          1	Ballalheaney
+          1	Ballalheannagh Gardens
+          1	Ballalhen Farm
+          1	Ballalhergy
+          1	Ballalona
+          1	Ballalonna
+          1	Ballalonnan crossing
+         10	Ballalough
+          2	Ballalough Farm
+          1	Ballalough House Beg
+          1	Ballalough LGB Substation
+         10	Ballamaddrell
+          1	Ballamaddrell Allotments
+          4	Ballamaddrell Road
+          1	Ballamanagh Road
+          1	Ballamanaugh Close
+          1	Ballamann
+          1	Ballameanagh Farm
+          1	Ballameanagh Halt Shelter
+          1	Ballameanagh Mooar
+          1	Ballameanagh Road
+          3	Ballamenagh
+          1	Ballamenagh Crossover
+          2	Ballamenagh Halt
+          1	Ballamenaugh House
+          4	Ballamillaghyn
+          1	Ballamin
+          3	Ballamoar
+          1	Ballamoar (Bottom) Halt
+          1	Ballamoar (Top) Halt
+          1	Ballamoar Beg Farm
+          1	Ballamoar Castle
+          1	Ballamoar Coach House
+          2	Ballamoar Farm
+          1	Ballamoar Halt (Bottom)
+          1	Ballamoar Halt (Top)
+          2	Ballamoda Baldwin Road
+          1	Ballamodda Farm
+          1	Ballamodha
+          1	Ballamodha Beg
+          1	Ballamodha Mooar
+          8	Ballamodha Road
+          8	Ballamodha Straight
+          3	Ballamona
+          1	Ballamona Beg Farm
+          1	Ballamona Estate Substation
+          1	Ballamona Mooar
+          1	Ballamooar
+          1	Ballamoore
+          1	Ballamurphie Park
+          1	Ballanank
+          1	Ballanard
+          5	Ballanard Road
+          1	Ballanarran Farm
+          5	Ballanawin
+          1	Ballanea
+          1	Ballanea Farm
+          1	Ballaneary
+          1	Ballaneddin
+          1	Ballanelson
+          1	Ballanicholas Farm
+          1	Ballanoa
+          1	Ballanorris Crescent
+          6	Ballaoates
+          2	Ballaoates Farm
+          1	Ballaquaggan Farm
+          2	Ballaquane
+          1	Ballaquane Avenue
+          1	Ballaquane Farm
+          8	Ballaquane Park
+          3	Ballaquane Road
+          1	Ballaquark
+          1	Ballaquayle
+          1	Ballaquayle Farm
+          1	Ballaquayle Infants School
+          7	Ballaquayle Road
+          1	Ballaqueeney
+          1	Ballaqueston
+          1	Ballaquiggin
+          3	Ballaquine
+          1	Ballaquine Railway Bridge
+          1	Ballaquinney Farm
+          2	Ballaradcliffe Road
+          2	Ballaragh Crossover
+          2	Ballaragh Halt
+          4	Ballaragh Road
+          1	Ballarhenney
+          1	Ballarhennie
+          1	Ballarhenny
+          1	Ballarhenny Beg
+          1	Ballarobin Farm
+          1	Ballarock
+          1	Ballarragh
+          6	Ballasalla
+          1	Ballasalla Farm
+          1	Ballasalla Medical Centre
+          1	Ballasalla Primary School
+          2	Ballasalla Road
+          1	Ballasalla Village Hall
+          1	Ballasayle
+          1	Ballaseyr
+          1	Ballaseyr Farm
+          1	Ballashamrock
+          1	Ballashamrock Cottage
+          1	Ballashamrock Farm
+          1	Ballashamrock House
+          1	Ballasherlogue
+          1	Ballasholague Farm
+          1	Ballasholague Halt
+          1	Ballaskeig Beg
+          2	Ballaskeig Halt
+          1	Ballaskeig Mooar
+          1	Ballaskella
+          1	Ballaskelly
+          1	Ballaskerroo
+          1	Ballaskilley
+          1	Ballaskyr
+          1	Ballasleig
+          1	Ballaslig
+          1	Ballasloe
+          1	Ballasloe Beg
+          1	Ballaspet
+          1	Ballaspit
+          1	Ballaspur
+          1	Ballasteen
+          1	Ballasteen Drive
+          3	Ballasteen Road
+          1	Ballastowell
+          1	Ballastowell Farm
+          1	Ballastowell Gardens
+          2	Ballastowell Halt
+          1	Ballastroke
+          7	Ballastrooan
+          1	Ballateare
+          1	Ballaterson
+          1	Ballaterson Beg Farm
+          1	Ballaterson Crescent
+          1	Ballaterson Farm
+          4	Ballaterson Fields
+          2	Ballaterson Road
+          4	Ballatessan Meadow
+          1	Ballathoar
+          1	Ballathona Farm
+          1	Ballatrollag Farm
+          2	Ballaugh
+          1	Ballaugh Bowling Club
+          1	Ballaugh Bridge
+          1	Ballaugh Glen
+          1	Ballaugh Old Church
+          1	Ballaugh Plantation
+          1	Ballaugh School
+          1	Ballaugh Shore
+          2	Ballaughton Close
+          3	Ballaughton Lane
+          1	Ballaughton Manor Hill
+          2	Ballaughton Meadow
+          1	Ballaughton Nursery
+          2	Ballaughton Park
+          1	Ballavagher Farm
+          1	Ballavair Farmhouse
+          1	Ballavaish
+          1	Ballavale
+          3	Ballavale Road
+          1	Ballavar
+          1	Ballavar Road
+          1	Ballavarane
+          2	Ballavarkish
+          1	Ballavarran Farm
+          1	Ballavarren Road
+          1	Ballavarry
+          1	Ballavarteen
+          1	Ballavarteen Holiday Cottage
+          1	Ballavartyn
+          1	Ballavartyn Arena
+          1	Ballavartyn Equestrian Centre
+          1	Ballavarvane Farm
+          1	Ballavastyn Farm
+          1	Ballavayre
+          1	Ballavayre Cottages
+          1	Ballaveare
+          1	Ballaveare Court
+          1	Ballaveare Farm
+          1	Ballaveare House
+          1	Ballaveare Villa
+          1	Ballavell
+          1	Ballavell Farm
+          1	Ballavelt Farm
+          1	Ballavilley
+          1	Ballavine
+          2	Ballavitchel Farm
+          2	Ballavitchel Road
+          2	Ballavoddan
+          1	Ballavoirrey
+          1	Ballavolley
+          1	Ballawanton
+          2	Ballawattleworth
+          1	Ballawattleworth Shops
+          1	Ballawhane
+          1	Ballawhannell
+          1	Ballawill
+          1	Ballawillan Beg
+          1	Ballawilleykilley Farm
+          1	Ballawillyn Farm
+          1	Ballawoods
+          1	Ballawoods Crossing
+          1	Ballawyllin
+          1	Ballayack
+          1	Ballayemmy
+          1	Ballayockey Cottage
+          2	Ballayolgane Farm
+          1	Ballayonaigue
+          1	Balleigh
+          2	Balleigh Court
+          2	Balleigh Mews
+          5	Balleigh Park
+          2	Balleira
+          1	Balleira Farm
+          5	Balleira Road
+          1	Ballelby Farm
+          1	Ballellin Farm
+          1	Ballellin Halt
+          2	Ballellis
+          1	Ballerghy
+          1	Balliargey
+          4	Ballig
+          3	Ballig Farm
+          2	Ballig Halt
+          1	Ballig House
+          1	Balligan Farm
+         12	Balllaquark
+          1	Ballnahowe
+          1	Ballnalargy
+          1	Ballona
+          1	Ballure
+          5	Ballure Grove
+          2	Ballure Halt
+          1	Ballure Plantation
+          1	Ballure Promenade
+          1	Ballure Road
+          1	Ballure Road Crossing
+          1	Ballyre House
+          1	Balmoral Hotel
+          1	Balnahow Farm
+          1	Balthane
+          1	Balthane Farm
+          2	Balthane Road
+          2	Baltic Road
+          1	Bank Chambers
+          1	Bank Hill
+          1	Bank Street
+          1	Bank of Ireland
+          4	Bank's Circus
+          1	Banks Circus: Isle of Man Transport Headquarters
+          3	Banks Howe
+          1	Bar George
+          1	Bar Logo
+          2	Barclays
+          1	Barclays Wealth Eagle Court
+          1	Barista Coffee Lounge
+          1	Barista Coffeehouse
+          1	Barn
+          2	Barna Beg
+          1	Barnagh
+          1	Barnell Lane
+          1	Barony Farm
+          1	Barrack Lane
+          1	Barrack Street
+          2	Barracks Road
+          1	Barrane
+          1	Barregarrow
+          1	Barregarrow Chapel
+          1	Barroose Farm
+          1	Barroose Road
+          2	Barrule Drive
+          5	Barrule Park
+          6	Barrule Road
+          1	Barullel Drive
+          1	Basil Callow Antiques
+          1	Bath & Bottle
+          3	Bath Place
+          1	Bathurst Street
+          6	Battery Pier
+          1	Battery Pier Yard
+          1	Battery Road
+          1	Battle of Ronaldsway
+          1	Bawshen
+          1	Bay Fine
+          1	Bay Stacka
+          1	Bay View
+          1	Bay View Hotel
+          4	Bay View Road
+          1	Baycliffe
+          1	Baymount Road
+          1	Bayr Balleyleigh
+          2	Bayr Cam
+          2	Bayr Grianagh
+          1	Bayr Rheynn Doo
+          1	Bayr Yude Noo
+          1	Bayr ny Skeddan
+          1	Bayr y Wyllin
+          1	Bayview
+          1	Beach Croft
+          3	Beach Road
+          1	Beach Street
+          1	Beachfield Farm Lane
+          1	Beacon Croft Lane
+          1	Beacon View
+          1	Beary Mountain
+          1	Beary Pairk
+          1	Beary Park
+          1	Beaumont Road
+          1	Beautiful Blooms
+          1	Beautyroom
+          1	Beckwith's Vein Lead Mine
+          4	Beech Avenue
+          1	Beech Grove
+          2	Beechwood Rise
+          1	Beehive
+          1	Beeton's Lane
+          1	Begoade
+          1	Begoade Farm
+          1	Begoade Road
+          1	Beinn y Phott
+          1	Belfast - Isle of Man
+          1	Belfast - Liverpool (Birkenhead)
+          1	Belfast Farm
+          2	Belgravia
+          1	Belgravia Road
+          1	Belle Vue Electrical Sub-Station
+          1	Belle Vue Halt
+          4	Belle Vue Park
+          1	Bellevue Halt
+          5	Belmont Hill
+          1	Belmont Road
+          1	Belsfield Private Hotel
+          3	Bemahague Avenue
+          4	Bemahague Road
+          1	Berk
+          1	Berkeley Hotel
+          1	Berkeley Street
+          2	Bernahara Road
+          1	Berrag
+          6	Berry Woods Avenue
+          2	Berry Woods Grove
+          1	Berth 1
+          1	Berth 14
+          1	Berth 15
+          1	Berth 16
+          1	Berth 2
+          1	Berth 3
+          1	Berth 4
+          1	Berth 5
+          1	Berth 6
+          1	Berth 7
+          2	Berth 8
+          1	Berth 9
+          1	Bespoke Recruitment
+          1	Best Kebab
+          1	Bettridge Motors
+          1	Bibaloe Beg
+          1	Bibaloe Beg Road
+          1	Bibaloe Glen
+          1	Bibaloe-Moar
+          1	Bidvest
+          1	Bikestyle
+          1	Billown
+          2	Billown Mansion
+          1	Billown Quarry
+          1	Bin
+          2	Birch Drive
+          5	Birch Hill Avenue
+          2	Birch Hill Close
+          5	Birch Hill Crescent
+          1	Birch Hill Gardens
+          3	Birch Hill Grove
+          1	Birch Hill Stores
+          2	Bircham Avenue
+          3	Bircham Avenue Close
+          2	Birchleigh Close
+          1	Bird Observatory
+          1	Bishops Demense
+          1	Bishops Demesne
+          1	Bishopscourt
+          1	Bishopscourt Cottages
+          1	Bishopscourt Farm
+          4	Blaber River
+          2	Black Grace Cowley
+          1	Black Horse
+          1	Black Hut
+          1	Black's Fireplaces Ltd
+          1	Blackberry Lane
+          1	Blackfords
+          1	Blackhill
+          1	Blands Insurance Brokers
+          1	Block Eary
+          1	Block Eary Reservoir
+          1	Blue Goose Systems
+          1	Blue Point
+          1	BlueGoose Systems
+          7	Bluebell Close
+          1	Boal Chirrym
+          1	Boat Park
+          1	Boating Lake
+          1	Boating lake
+          1	Bodycraft Fitness
+          1	Bodystat
+          1	Boilane
+          2	Boilley Spittal
+          1	Bolivia Mount
+          1	Bollan Avenue
+          4	Bollan Drive
+          1	Bollan Way
+          1	Bolrenny
+          1	Bonner Corner
+          1	Bonwick Day Nursery
+          1	Booilshuggel
+          1	Booilushag
+          1	Booking Office
+          1	Booking office
+          1	Boolavur
+          1	Boots
+          1	Boots Opticians
+          1	Bordello's
+          1	Bourne Place
+          1	Bowling Alley
+          1	Bowling Green
+          1	Bowling Green Cafe
+          2	Bowling Green Road
+          2	Bowness Close
+          1	Bowness Crescent
+          5	Bowring Road
+          1	Braaid
+          1	Braaid Farm
+          2	Braaid Road
+          1	Brack-a-Broom-Lane
+          1	Brack-a-broom
+          2	Bradda Close
+          1	Bradda Court Apartments
+          2	Bradda East
+          1	Bradda Glen
+          1	Bradda Glen Close
+          1	Bradda Head
+          1	Bradda Hill
+          2	Bradda Lane
+          2	Bradda Road
+          5	Bradda View
+          2	Bradda West
+          2	Bradda West Lane
+          1	Bradda West Road
+          1	Braddan
+          1	Braddan Bridge
+          1	Braddan Cemetery
+          2	Braddan Road
+          1	Braddan School
+          2	Braddan School Road
+          1	Braeside
+          1	Braeside Halt
+          1	Braeside Halt Shelter
+          1	Braid Hall
+          2	Bramble Close
+          1	Brandish
+          1	Brandywell Cottage
+          4	Brandywell Road
+          1	Braust Farm
+          2	Bray Hill
+          1	Breagle Glen
+          1	Breagle Glen Cafe
+          3	Breakwater Road
+          1	Breken Bank
+          5	Bretney Close
+          1	Bretney Farm
+          1	Bretney Road
+          1	Brewery Beach
+          1	Brewery Wharf Apartments
+          1	Briardale Track
+          4	Briarfield Avenue
+          1	Briarfield House
+          2	Bride
+          1	Bride Infants School
+          1	Bride Methodist
+          1	Bride Road
+          1	Bride Tea Rooms
+          1	Bridge Lane
+          6	Bridge Road
+          3	Bridge Street
+          1	Bridge Travel
+          4	Bridson Street
+          1	Brightlife
+          2	Brighton Terrace
+          1	Brisbane Street
+          1	Britannia
+          1	Britannia International
+          1	British Isles
+          2	British Red Cross
+          1	Broadway
+          1	Broadway Baptist Church
+          1	Broadway Pets
+          2	Bromet Road
+          2	Broogh Wylln
+          1	Brookdale
+          1	Brookdale Plantation
+          2	Brookfield Avenue
+          1	Brookfield Crescent
+          1	Brookfield Terrace
+          1	Brookland
+          1	Brooklands
+          1	Broome House
+          1	Brough Jairg Moar
+          1	Broughjairg Beg
+          1	Broughjairg Mooar
+          1	Brown Bobby
+          2	Brown's Crossing
+          1	Browne Craine and Co
+          1	Brownswood
+          1	Bruce Anchor
+          2	Brunswick Road
+          1	Brynsiriol
+          3	Bucks Road
+          1	Buggane Mooar
+          1	Bulgham Bay
+          1	Bulgham Farm
+          2	Bulgham Halt (Bottom)
+          1	Bulgham Halt (Top)
+          1	Bulgham Halt Top
+          1	Bulgham Viewing Platform
+          1	Bullrenney
+          2	Bungalow
+          1	Bungalow Station Passenger Waiting Room
+          1	Bunscoill Ghaelgagh
+          1	Burn's Crossing
+          1	Burn's Crossing Halt
+          1	Burrow
+          1	Bus Headquarters
+          1	Busy Bears Nursery
+          1	Butler's Choice
+          1	Buttermere Drive
+          1	Bwoaillee Losht
+          1	Bymacan Close
+          1	CEX
+          1	CTH Insurance Brokers
+          1	CVI Melles Griot
+          1	Cafe Avanti
+          1	Cafe Bistro Noitre
+          1	Cafe Delicious
+          1	Cafe Eden
+          1	Cafe Laare
+          1	Caffè Expresso
+          1	Café Rosa
+          1	Café Royale Halt
+          1	Cain Bridge
+          1	Cain's Croft
+          1	Cains
+          1	Caledonian Toyota
+          1	Caley's General Store
+          2	Calf Sound
+          1	Calf Sound Cafe
+          1	Calf of Man
+          1	Callin & Co. Chartered Accountants
+          1	Callow Matthewman & Co.
+          1	Callow's Yard
+          1	Calvert Newsagents; Port Saint Mary Post Office;
+          1	Cambrian Place
+          1	Cambridge Terrace
+          1	Cambridge Terrace Lane
+          1	Camlork
+          1	Camlork Close
+          1	Camlork Place
+          1	Cammal
+          1	Cammall Farm
+          1	Campbell Bridge
+          2	Campion Close
+          1	Campion Crescent
+          2	Campion Way
+          1	Cannan Avenue
+          4	Cannan Court
+          1	Capone's Diner
+          2	Captain's Hill
+          1	Car Shop
+          1	Card Factory
+          1	Cardle Veg
+          1	Cardle Vooar
+          2	Carmane Close
+          1	Carn Gerjoil
+          1	Carnagrie
+          1	Carnane
+          1	Carnane Transmitter
+          1	Carnation Cleaners
+          1	Carr's Lane
+          1	Carraghan
+          1	Carrefour
+          1	Carrick
+          1	Carrick Bay
+          3	Carrick Bay View
+          1	Carrick House
+          1	Carrick Mews
+          4	Carrick Park
+          1	Carrs Lane Motors
+          1	Carter & Cubbon
+          1	Carter Jones McDonald
+          1	Carter Moon
+          1	Casablanca
+          1	Cashtal Yn Ard
+          1	Cassa Field
+          1	Cassan Ned Maddrell Footpath
+          1	Castle Arms
+          1	Castle Court
+          1	Castle Cutz
+          1	Castle Deli
+          1	Castle Drive
+          1	Castle Hill
+          1	Castle Lake
+          2	Castle Mona Avenue
+          1	Castle Pharmacy
+          1	Castle Rushen
+          1	Castle Rushen High School
+          1	Castle Rushen Stores
+          4	Castle Street
+          1	Castle Street Gardens
+          1	Castle View Nursing Home
+          5	Castletown
+          1	Castletown Bay
+          1	Castletown Bowling Club
+          4	Castletown Bypass
+          1	Castletown Commissioners maintenance depot
+          1	Castletown Fire Station
+          1	Castletown Golf Links
+          1	Castletown Health Shop
+          1	Castletown Lawn Tennis Club
+          1	Castletown Library
+          1	Castletown Medical Centre
+          2	Castletown Methodist Church
+          1	Castletown Metropolitan Brass Band
+          2	Castletown Metropolitan Football Club
+          1	Castletown Promenade
+          6	Castletown Road
+          1	Castletown Swimming Pool
+          1	Castletown Youth & Community Centre
+          1	Castleward
+          1	Castleward Farm
+          1	Cattle Sidings
+          1	Cayman National Bank and Trust Company
+          4	Cedar Grove
+          2	Cedar Walk
+          1	Central Community Health Centre
+          1	Central Drive
+          3	Central Promenade
+          1	Century Court
+          1	Chapel
+          1	Chapel Bay
+          1	Chapel Beach
+          1	Chapel Beach Sea Wall
+          1	Chapel Beach Slipway
+          1	Chapel Close
+          1	Chapel Court
+          1	Chapel Field
+          1	Chapel Gate
+          1	Chapel Hill
+          5	Chapel Lane
+          1	Chapel Row
+          1	Chapel of Rest
+          1	Charles Alexander
+          1	Charles Court
+          1	Charles Street
+          1	Chasms Road
+          1	Cheers
+          1	Chequers
+          1	Cherry Orchard
+          1	Cherry Tree Lodge
+          1	Chester Street
+          1	Cheu Grianagh
+          1	Chibbanagh Farm
+          1	Chibbanagh Plantation
+          2	Chicken Rock
+          1	Child and Adolescent Mental Health Service
+          1	Chillies
+          1	Chinese takeaway
+          1	Chique
+          1	Chleig ffeeiney
+          1	Chree Brae
+          2	Christeens Way
+          1	Christian Avenue
+          2	Christian Close
+          1	Christian Road
+          4	Christian Street
+          2	Chrystals
+          1	Church Avenue
+          2	Church Close
+          1	Church Farm
+          1	Church Farm House
+          3	Church Farm Walk
+          4	Church Hill
+          1	Church Lane
+          5	Church Road
+          1	Church Road Marina
+          3	Church Street
+          1	Church View
+          1	Ciao
+          1	Ciapelli's
+          1	Cill-Airne
+          3	Circular Road
+          1	Circus Beach
+          1	Cistern
+          1	City Wing head office
+          1	Claddagh Mill
+          1	Clag Mooar
+          1	Clagh Ard
+          1	Clagh Ouyr
+          4	Clagh Vane
+          1	Claghbane
+          1	Claire's
+          2	Clannagh Road
+          2	Claremont
+          1	Clareville
+          1	Clarke Street
+          1	Clarke Street Lane
+          1	Clarke Villa
+          1	Clarks
+          1	Classique
+          9	Claughbane Drive
+          1	Claughbane Plantation
+          1	Claughbane Walk
+          1	Clay Head Close
+          1	Clay Head Farm
+          4	Clay Head Road
+          1	Clayhead
+          1	Cleanfit Carpets & Blinds
+          2	Clear Pharmacy
+          1	ClearVu
+          1	Cleighrour
+          5	Cleiy Rhennee
+          1	Clett Ellby
+          1	Cleveland
+          1	Clifford Drive
+          2	Clifford Drive Crossing
+          1	Clifton Drive
+          1	Clifton Road
+          1	Clifton Road North
+          1	Clifton Terrace
+          2	Clinch's Courtyard
+          1	Clintons
+          1	Clocktower Industrial Park
+          1	Cloghwilly Farm
+          1	Close
+          3	Close Beg
+          2	Close Caaig
+          1	Close Cairbre
+          3	Close Cam
+          1	Close Chairn Cottages
+          1	Close Chirrym
+          1	Close Clark
+          2	Close Corlett
+          1	Close Corneil
+          1	Close Corran
+          2	Close Cowley
+          2	Close Cronk
+          3	Close Cubbon
+          1	Close Cullyn
+          2	Close Drean
+          1	Close Eyreton
+          1	Close Famman
+          1	Close Fletcher
+          2	Close Kennish
+          1	Close Lake
+          1	Close Malew
+          1	Close Moar
+          1	Close Mooar Farm
+          2	Close Moore
+          4	Close Oard
+          2	Close Ollay
+          4	Close Quane
+          2	Close Quirk
+          2	Close Rushen
+          2	Close Sartfield
+          1	Close Sayle
+          1	Close Taggart
+          1	Close Taggart Cottages
+          2	Close Thunnag
+          2	Close Toalt
+          1	Close Vark
+          1	Close William
+          1	Close Y Chiarn
+          1	Close yn Ellan
+          1	Close-e-caley
+          1	Close-e-kelly
+          2	Close-e-kewin
+          1	Close-y-Lhergy
+          2	Close-y-Locker
+          1	Clougher
+          1	Cloven Stones
+          1	Clover Asphalte
+          1	Clover Avenue
+          1	Club House Southern 100 M.C.R.C
+          1	Clucas
+          1	Cly-ny-Mona
+          1	Clybane Close
+          1	Clybane Farm
+          1	Clybane Manor
+          1	Clybane Park
+          4	Clybane Rise
+          2	Clybane Road
+          1	Clyeen
+          1	Clypse Beg
+          1	Clypse Cottages
+          1	Clypse Lodge
+          1	Clypse Moar
+          1	Clypse Moar Road
+          1	Clypse Reservoir
+          1	Clypse Road
+          2	Clypse View
+          1	Coanrhennee Road
+          1	Coast
+          5	Coast Road
+          1	Coastguard Station
+          1	Cobbold Place
+          1	Coburg Road
+          2	Coburn Drive
+          1	Coffee Palace Berth
+          2	Coffee Republic
+          1	Colas Drive
+          1	Colbourne House
+          5	Colby
+          2	Colby Glen
+          1	Colby Glen Hotel
+          4	Colby Glen Road
+          1	Colby Methodist Church
+          5	Colby River
+          1	Colden
+          1	Colden Lane
+          1	Colden Plantation
+          3	Colden River
+          1	Colden Road
+          1	Colebourn
+          1	Colin's Barbers
+          1	College Green
+          3	College Street
+          1	Colloway Cottage
+          1	Colooney's
+          1	Colooney's Lane
+          1	Colooneys Farm Cottages
+          1	Coloroll
+          1	Colours
+          1	Commissioners Plaza Car Park
+          1	Complete Care
+          1	Computer Services
+          1	Conister Bank
+          1	Conister Bank Isle of Man
+          1	Conister Close
+          2	Conister Road
+          1	Conister Rock
+          1	Connect2Charity
+          1	Conran Archer
+          1	Conrhenny
+          1	Conrod's
+          1	Conservatory Restaurant
+          1	Control Tower
+          1	Convery Close
+          2	Cooil
+          1	Cooil Aalin
+          1	Cooil Avenue
+          4	Cooil Breryk
+          1	Cooil Close
+          1	Cooil Dharry
+          3	Cooil Drive
+          1	Cooil Farrane
+          1	Cooil Ny Greiney
+          1	Cooil Road, B & Q
+          1	Cooil Road, Close Fletcher
+          2	Cooil Roi
+          1	Cooil Veg
+          1	Cooil View
+          1	Cooilcam
+          1	Cooildarry
+          1	Cooildhoo
+          1	Cooilingel Farm
+          1	Cooill Methodist Chapel
+          1	Cooill Veg
+          1	Cooill y Ree
+          1	Cooilshellagh
+          1	Cooilslieu
+          1	Cooilushtey
+          1	Cooin Ny Chibbyr
+          1	Cool Beans Kiosk
+          1	Cooley Lodge
+          1	Cooper's Close
+          5	Cooyrt Balleigh
+          1	Copse Hill
+          1	Cordeman Lane
+          1	Corhenny Plantation
+          2	Corkhill's Crossing Halt
+          1	Corkills Pharmacy
+          1	Corlea
+          1	Corlea Farm
+          1	Corlea Plantation
+          5	Corlea Road
+          1	Corlett Bolton
+          1	Corlett Bolton & Co
+          1	Corletts Quarry
+          1	Corley
+          1	Cornaa
+          2	Cornaa Halt
+          1	Cornaa Shelter
+          1	Cornelly
+          1	Cornelly House
+          1	Cornelly to Kerrowgarrow Road
+          1	Cornerstone Architects
+          2	Coronation Court
+          1	Coronation Park
+          1	Coroner of Middle
+          1	Coroner of Rushen
+          3	Corran Pirragh
+          2	Corran Vagher Aittin Marashen Crescent
+          1	Corrany
+          3	Corrin Court
+          1	Corrin Hall
+          1	Corrin Home
+          1	Corrin's Tower
+          1	Corrins Hill
+          2	Corrins Way
+          2	Corvalley
+          1	Corvalley Farm
+          1	Corvalley House
+          1	Corvalley South Farm
+          1	Corvonagh
+          5	Costa
+          1	Costa Coffee
+          2	Costain Close
+          1	Cosy Nook Cafe
+          1	Cotton Traders
+          1	Court Cafe
+          1	Court Farm
+          1	Court Row
+          1	Courts of Justice
+          2	Cowley Groves
+          1	Cowley Pharmacy
+          1	Cowley Terrace
+          1	Craftwall y vean
+          1	Craftworks Studio
+          1	Craig Cottages
+          1	Craig Farm
+          1	Craigend
+          1	Craighouse Farm
+          1	Craigs Croft
+          1	Crammag
+          1	Cranstal
+          1	Crawyn
+          1	Creg Adha
+          1	Creg Agneash
+          1	Creg Malin
+          1	Creg ny Baa Back Road
+          1	Creg-na-molt
+          2	Creg-ny-baa
+          1	Cregbeg
+          1	Cregg ny crock
+          1	Creggan
+          1	Creggan Beg
+          4	Creggan Lea
+          1	Creggan Moar
+          4	Creggan Mooar
+          1	Creglea Farm
+          2	Cregneash
+          6	Cregneash Road
+          1	Crellin Grove
+          1	Crellin's Hill
+          1	Crescent Road
+          1	Cringle Plantation
+          1	Cringle Reservoir
+          1	Criot ny Crenzie
+          2	Croft Park
+          1	Crogga
+          1	Crogga Bridge
+          1	Crogga Cottage
+          1	Crogga House
+          1	Crogga Mill
+          3	Crogga River
+         13	Crogga Valley Railway
+          1	Crogga Woods
+          2	Croit
+          1	Croit E Caley
+          2	Croit E Cubbon
+          1	Croit Vane
+          1	Croit-e-Quil Close
+          4	Croit-e-Quill Road
+          1	Croit-e-caley
+          1	Croit-e-creggan
+          1	Croit-ny-gurrin
+          1	Croit-ny-phurt
+          1	Croitcloughbane
+          1	Cronk Aalin
+          3	Cronk Avenue
+          1	Cronk Breae
+          2	Cronk Cardle
+          2	Cronk Coar
+          5	Cronk Cullyn
+          1	Cronk Dhoo
+          5	Cronk Drean
+          1	Cronk Drine
+          2	Cronk Elfin
+          2	Cronk Genall
+          5	Cronk Grianagh
+          1	Cronk Grianagh Bungalows
+          1	Cronk Heose
+          3	Cronk Hunna
+          1	Cronk Koir
+          1	Cronk Lane
+          2	Cronk Lheanag
+          1	Cronk Lheannag
+          1	Cronk Ny Greiney
+          2	Cronk Reayrt
+          1	Cronk Rhennie
+          3	Cronk Road
+          1	Cronk Ruagh
+          1	Cronk Skibbylt
+          1	Cronk Souree Primary Centre
+          1	Cronk Sumark
+          1	Cronk Urleigh
+          1	Cronk View
+          4	Cronk Y Berry
+          2	Cronk Y Berry Avenue
+          1	Cronk Y Berry Drive
+          1	Cronk Y Chuil
+          8	Cronk Y Thatcher
+          1	Cronk ny Arrey Laa
+          1	Cronk ny Fedjag
+          1	Cronk ny Merriu
+          1	Cronk y Berry
+          1	Cronk y Bing
+          1	Cronk y Croghee
+          2	Cronk y Scottey
+          1	Cronk y Watch
+          3	Cronk-Liauyr
+          2	Cronk-Y-Berry Beg
+          2	Cronk-Y-Berry Mews
+          2	Cronk-Y-Berry Mooar
+          1	Cronk-Y-Berry School
+          1	Cronk-Y-Berry View
+          1	Cronk-e-Dhooney
+          1	Cronk-e-Dhooney Cottage
+          1	Cronk-e-king
+          1	Cronk-ny-mona
+          1	Cronk-y-Thatcher
+          1	Cronk-y-chree
+          1	Cronk-y-voddy
+          3	Cronkbane
+          1	Cronkbourne
+          1	Cronkbourne Avenue
+          1	Cronkbourne Road
+          1	Cronkbourne Village
+          4	Cronkbreck
+          2	Cronkdarragh Farm
+          1	Cronkdhoo
+          1	Cronkdoo
+          1	Cronkgarroo
+          1	Cronkmoar
+          1	Cronkmooar
+          1	Cronkould Farm
+          1	Cronkshannaugh
+          3	Crosby
+          1	Crosby Terrace Post Office
+          1	Crosby Village
+          1	Cross Four Ways
+          1	Cross Street
+          1	Cross Vein Lead Mine
+          1	Cross of Remembrance
+          2	Crossag Close
+          4	Crossag Road
+          1	Crossags Cottage
+          1	Crossley Travel
+          1	Crossroads Care
+          1	Crossroads Caring for Carers
+          1	Croven's Close
+          1	Crown Street
+          1	Crowville
+          2	Crowville Halt
+          1	Cruse Bereavement Care
+          1	Crystal Styles
+          1	Cubbon & Associates
+          1	Cubbons Close
+          1	Cuffsend
+          1	Cullyn Avenue
+          1	Cullyn Link
+          1	Cumberland Road
+          1	Cunard
+          1	Cunninghams chair lift
+          1	Curpheys
+          1	Curragh Beg
+          2	Curragh Chapel
+          1	Curragh Glass
+          2	Curragh Nature Reserve
+          3	Curragh Road
+          1	Curraghs Wildlife Park
+          1	Curry Club
+          1	Currys PC World
+          2	Cushag Close
+          2	Cushag Drive
+          1	Cushag Road
+          1	Cuts Both Ways
+          2	Cypress Grove
+          1	DGP Station Road Garage Ltd
+          1	DHA Snaefell Substation
+          1	DTI Training Services
+          1	Da Vinci's
+          1	Dalby
+          1	Dalby Mountain
+          2	Dale Street
+          1	Dalton Street
+          1	Dalveitch
+          1	Dandara
+          1	Dandy Hill
+          1	Dandy Rigg
+          1	Danny's
+          2	Darrag
+          2	Darragh Avenue
+          1	David Glover Upholsterers Limited
+          1	David J. Hill and Co.
+          1	Davison's Ice Cream Parlour
+          1	Davisons
+          1	Dawlish Ard
+          1	Dealz
+          1	Dean Wood
+          2	Deemster's Walk
+          1	Demesne Road
+          1	Department of Infrastructure Operations Division depot
+          1	Department of Works
+          1	Derby CAstle Depot
+          2	Derby Castle
+          1	Derby Castle Bus Stop
+          7	Derby Castle Depot
+          2	Derby Castle Depôt
+          1	Derby Castle Station
+          1	Derby Castle Terminus
+          5	Derby Castle Yard
+          2	Derby Drive
+          1	Derby Fort
+          1	Derby Haven
+          8	Derby Road
+          5	Derby Square
+          1	Derby Square Lane
+          1	Derby View
+          1	Derbyhaven
+          2	Derbyhaven Road
+          1	Derwent Drive
+          2	Devereau's
+          1	Devil's Elbow
+          1	Devonshire Crescent
+          2	Devonshire Road
+          1	Dhoon
+          1	Dhoon Bay
+          1	Dhoon Farm
+          2	Dhoon Farm Halt
+          2	Dhoon Glen
+          1	Dhoon Glen Cafe
+          2	Dhoon Glen Halt
+          1	Dhoon Glen Shelter
+          2	Dhoon Loop Road
+          1	Dhoon Quarry
+          2	Dhoon Quarry Halt
+          2	Dhoon School
+          1	Dhoor
+          1	Dhowin
+          1	Di's
+          1	Diabetes Centre
+          1	Director's Box
+          1	Discover Diving
+          1	Dixons Vein Lead Mine
+          1	Doarish Mooar
+          1	Dodd's Lane
+          1	Dohle
+          1	Dollagh
+          1	Dollagh Beg Farm
+          1	Dollagh Mooar Road
+          2	Dolland Halt
+          1	Dollaugh Moar
+          1	Domicilium
+          1	Donino's pizza
+          1	Dorothy Perkins
+          3	Double Corner
+          5	Douglas
+          1	Douglas Allotments
+          2	Douglas Avenue
+          1	Douglas Bay
+          6	Douglas Bay Horse Tramway
+          1	Douglas Bay Yacht Club
+          1	Douglas Beach
+          1	Douglas Borough Cemetery
+          1	Douglas Borough Council
+          1	Douglas Borough Crematorium
+          1	Douglas Bridge
+          1	Douglas Carpet Superstore
+          1	Douglas Coastguard
+          1	Douglas Development Partnership
+          1	Douglas Fire Station
+          1	Douglas Golf Club
+          1	Douglas Harbour
+          2	Douglas Harbour Lifting Bridge
+          6	Douglas Head
+          2	Douglas Head Amphitheatre
+          2	Douglas Head Funicular Railway
+          1	Douglas Head Industrial Estate
+          1	Douglas Head Lighthouse
+          3	Douglas Head Road
+          1	Douglas Inner Harbour Marina
+          1	Douglas Lifeboat Station
+          1	Douglas New Cemetery
+          1	Douglas North Substation
+          1	Douglas Railway Station
+          8	Douglas Road
+          1	Douglas Rugby Union Football Club
+          1	Douglas Signal Box
+          1	Douglas Snooker Club
+          4	Douglas Street
+          1	Douglas Town Hall
+          1	Douglas Water Treatment Works
+          1	Doves Croft
+          1	Downtown
+          1	Dowse
+          1	Dr Sofie Wang
+          1	Dreemfroy
+          2	Dreemlang
+          1	Dreemlang Farm
+          1	Dreemskerry
+          1	Dreemskerry Farm
+          2	Dreemskerry Farm Halt
+          2	Dreemskerry Halt
+          1	Dreeym Balley Cubbon
+          1	Dreeym Beary
+          1	Dreeym Jallyn
+          1	Dreeymskerry Shelter
+          1	Dreswick Point
+          1	Drewry's
+          1	Drinkwater Street
+          1	Drinkwater Street Lane
+          4	Droghadfayle Park
+          5	Droghadfayle Road
+          1	Drug and Alcohol Team
+          1	Druidale
+          1	Druidale Farm
+          3	Druidale Road
+          2	Drumgold Street
+          3	Drury Terrace
+          1	Dub House
+          1	Duck Street
+          3	Duke Street
+          1	Duke Video
+          1	Duke's Road
+          1	Dukes Avenue
+          1	Dukes Road Clinic
+          1	Duncan's Diner
+          1	Dunkirk Memorial
+          1	EAM Ltd
+          1	EEZ
+          1	ESAT 2
+          3	EVF
+          1	Eagle Towers
+          1	Eairy
+          1	Eairy Dam
+          1	Eairy Kelly Car Park
+          1	Eairy Moar Farm
+          1	Eairy Ploydwell
+          1	Eairy-ne-suie
+          1	Eairyjora Farm
+          1	Eairykellag Farm
+          1	Early Learning Centre
+          1	Eary Cushlin
+          1	Eary Farm
+          1	Eary Kelly Cottage
+          1	Eary Vane
+          3	Eary Veg
+          1	Earyglass
+          1	Earykellue
+          1	Earystane
+          1	Earystane Plantation
+          1	East Baldwin Road
+          1	East Bretney
+          6	East Drive
+          2	East Foxdale Road
+          1	East Kella
+          1	East Lhergydhoo
+          1	East Nappin
+          3	East Quay
+          1	East Sartfield
+          1	East Street
+          1	Eastfield
+          1	Ebenezer Methodist
+          1	Edd Gollan Geayee
+          1	Eden Park Garden Centre
+          3	Edmund Chadwick Grove
+          5	Edremony
+          1	Edremony Substation
+          1	Education and Training Centre
+          2	Effleurage Beauty Salon
+          1	Egg Hut
+          1	Elaine's Flowers
+          1	Elder Grange
+          1	Elder Grange Nursing Home
+          1	Elderberry Rise
+          1	Eleanora Drive
+          1	Eleanora Gardens
+          1	Elim Family Centre
+          1	Elite Voyages
+          3	Elizabeth Rise
+          1	Ellan Farm
+          1	Ellan Park
+          1	Ellan Rhennee
+          1	Ellan Vannin Gymnastics Club
+          1	Ellan Vannin Hotel
+          1	Ellanbane
+          1	Ellanbane Farm
+          2	Ellenbrook
+          2	Ellenbrook Avenue
+          1	Ellenbrook Close
+          2	Ellenbrook Drive
+          1	Ellenbrook Farm
+          1	Ellerslie Farm
+          2	Ellerslie Gardens
+          1	Ellerslie Lane
+          1	Ellisons  Green
+          1	Elm Avenue
+          2	Elm Bank
+          6	Elm Drive
+          2	Elm Tree Road
+          1	Elstan
+          2	Empire Garage
+          2	Empire Terrace
+          1	Employees
+          1	Empress Drive
+          1	Enamona Road
+          1	Endfield Avenue
+          1	Energy FM
+          1	Energy From Waste Plant
+          1	England
+          1	Ennemona Plantation
+          3	Ennerdale Avenue
+          1	Enzo's
+          1	Erin Arts Centre
+          2	Erin Bike Hut
+          2	Erin Crescent
+          1	Erin Lane
+          1	Erin News
+          2	Erin Rise
+          3	Erin View
+          3	Erin Way
+          1	Erins Court
+          2	Eskadale Halt
+          1	Eskdale Road
+          2	Esplanade Lane
+          1	Esquire
+          1	Esquires
+          1	Estates Directorate
+          1	Eternity
+          1	Eurocars
+          1	Eurocycles
+          1	European Union
+          1	Evergreen House
+          1	Executive Barber Shop
+          1	Extreme Art & Gadgets
+          1	Eyreton Farm
+          5	Eyreton Park
+          1	FVS
+          1	Faaie Craine
+          7	Faaie Ny Cabbal
+          2	Faaie Wyllin
+          1	Factory Lane
+          2	Fairfield Avenue
+          1	Fairfield Junior School
+          5	Fairway Close
+         10	Fairway Drive
+          1	Fairways
+          1	Fairways Approach
+          1	Fairways Crescent
+          4	Fairways Drive
+          1	Fairy Bridge
+          1	Fairy Cottage
+          1	Fairy Cottage Crossover
+          1	Fairy Cottage Halt
+          1	Fairy Cottage Halt Shelter
+          2	Fairy Hill
+          3	Fairy Hill Close
+          3	Falcon Cliff Court
+          1	Falcon Cliff Lift
+          1	Falcon Cliff Terrace
+          1	Falcon Cliff Terrace Lane
+          2	Falcon Street
+          1	Falcon Street Lane
+          1	Falkland Drive
+          1	Family Library
+          1	Fancy Dress & Vintage Clothing Shop
+          1	Fancy Street
+          2	Far End Halt
+          1	Far End Halt Shelter
+          1	Far End Shelter
+          2	Farmhill Drive
+          2	Farmhill Gardens
+          2	Farmhill Lane
+          6	Farmhill Meadows
+          4	Farmhill Mews
+          4	Farmhill Park
+          1	Farrane
+          5	Farrant Park
+          1	Farrant Street
+          1	Farrants Fort
+          2	Farrants Way
+          1	Farvane Close
+          1	Farvane Park
+          2	Fast Lane Ltd
+          1	Faze 2
+          1	Feltons
+          4	Fenella Avenue
+          2	Fenella Beach
+          1	Fenella Bridge
+          2	Fenella Court
+          1	Fenella Terrace
+          1	Fernleigh
+          1	Fildraw
+          1	Finch Hill Grove
+          6	Finch Road
+          3	First Avenue
+          1	Fisher's Hill
+          1	Fishing Adventures
+          3	Fistard Grove
+          4	Fistard Road
+          1	Flaming Great
+          1	Fleshwick
+          1	Fleshwick Bay
+          1	Fleshwick Beach
+          1	Fleshwick Plantation
+          1	Flying Club
+          1	Focronk
+          1	Forest Close
+          1	Former Ramsey Depot
+          1	Forsythia
+          1	Fort Anne Pier
+          2	Fort Anne Road
+          1	Fort Anne Slipway
+          4	Fort Island Road
+          5	Fort Street
+          2	Fort William
+          1	Fortune Dragon
+          1	Forty Five
+          6	Four Roads
+          2	Four Seasons
+          1	Four Winds
+          1	Foxdale
+          1	Foxdale Deads
+          1	Foxdale Heritage Centre
+          1	Foxdale Mines
+          8	Foxdale Road
+          2	Foxdale School
+          1	Foxdale branch
+          3	Foxglove Close
+          1	Francesca's
+          1	Francescos2
+          2	Franklin's
+          1	Frederick Street
+          1	Freedom Travel
+          1	Freemasons Hall
+          1	Fresh Squeezed
+          6	Friary Park
+          1	Fryers Fish and Chips
+          1	Fuchsia Avenue
+          3	Fuchsia Close
+          1	Fuchsia Cottage
+          2	Fuchsia Court
+          2	Fuchsia Grove
+          6	Fuchsia Lane
+          5	Fuchsia Road
+          1	Fudge Factory
+          1	Fulmar Lane
+          2	Furman Close
+          2	Furman Road
+          1	Furniture Direct
+          2	Fuscia Close
+          1	G&Ds
+          1	G.H. Corlett
+          1	GE Aviation Systems
+          1	Gadget Mann
+          1	Gahelan
+          4	Gainsborough Crescent
+          1	Gali Kitchen
+          1	Game
+          1	Gandhi Restaurant
+          1	Gansey
+          1	Gansey Bay
+          2	Gansey Road
+          1	Garden of Remembrance
+          3	Gardener's Lane
+          1	Garey
+          3	Garey Road
+          1	Garff
+          1	Garrey Corneil
+          2	Garth Avenue
+          4	Garth Road
+          1	Garwick Bay
+          1	Garwick Crossover
+          1	Garwick Glen
+          1	Garwick Glen Halt
+          1	Gas Works Steps
+          1	Gasometer
+          1	Gawnes Croft
+          1	Geddyn Reesht
+          1	Gellings Avenue
+          1	Gena's Dance Academy
+          1	General enquiries
+          1	Genesis Gallery
+          1	George Herdman Library
+          1	George Hotel
+          1	George's Close
+          1	Georges Terrace
+          1	German
+          1	Gib Lane
+          1	Gibdale
+          1	Gillian Sheard
+          1	Ginger Hall Hotel
+          1	Gladstone Avenue
+          3	Gladstone Mews
+          1	Gladstone Park Industrial Estate
+          1	Glascoe Farm
+          2	Glashen Close
+          1	Glashen Farm
+          2	Glass Fibre Supplies
+          4	Glebe Aalin
+          1	Glen Auldyn
+         13	Glen Auldyn River
+          1	Glen Callan
+          1	Glen Cam
+          1	Glen Close
+          1	Glen Cottage
+          2	Glen Darragh
+          1	Glen Darragh Lake
+          1	Glen Darragh Water Wheel
+          4	Glen Dhoo
+          1	Glen Elfin Road
+          2	Glen Falcon Road
+          1	Glen Falcon Terrace
+          1	Glen Grenaugh
+          1	Glen Helen
+          1	Glen Helen Inn
+          2	Glen Maye
+          1	Glen Maye Methodist Chapel
+          8	Glen Maye Park
+          1	Glen Maye Post Office
+          2	Glen Mona
+          2	Glen Mona Halt
+          1	Glen Mona Hotel
+          1	Glen Mona Shelter
+          5	Glen Mooar
+          2	Glen Park Drive
+          7	Glen Road
+          8	Glen Roy
+          6	Glen Rushen
+          1	Glen Rushen Plantation
+          5	Glen Rushen Road
+          1	Glen Truan Golf Links
+          1	Glen View Road
+          1	Glen View Terrace
+          2	Glen Vine
+          1	Glen Vine Drive
+          2	Glen Vine Park
+          2	Glen Wyllin
+          1	Glenaspet
+          1	Glenaspet Cottage
+          1	Glenchass
+          7	Glencrutchery Road
+          2	Glendale
+          1	Glendown
+          1	Glenduff
+          1	Gleneagles Apartments
+          1	Gleneedle
+          1	Glenfaba
+          1	Glenfaba House
+          2	Glenfaba Park
+          6	Glenfaba Road
+          1	Glengarriff
+          1	Glengarth
+          2	Glenhill
+          1	Glenlough
+          1	Glenlough Circle
+          1	Glenlough Farm
+          1	Glenmoar Farm
+          2	Glenmooar
+          1	Glenrushen Slate Quarry
+          1	Glenside
+          1	Glenside Nursing Home
+          1	Glentraugh
+          1	Glentruan
+          1	Glentruan (Stone Axe)
+          1	Glentruman
+          1	Glenview
+          2	Glenville
+          1	Glion Aalin
+          2	Glion Gill Plantation
+          1	Glionn-ny-brack
+          1	Gloucester House
+          1	Gobnageay
+          1	Golden Dragon
+          1	Golden Orchid
+          1	Golden Pheonix
+          1	Goldie Terrace
+          1	Good Luck
+          1	Goods Shed
+          1	Gophers Coffe Shop
+          1	Gordon
+          1	Gorse Mill
+          2	Gorsecroft
+          1	Government House
+          1	Government Linkspan
+          1	Government Offices
+          1	Governor's Bridge
+          3	Governor's Road
+         12	Governors Hill
+          1	Governors Hill Post Office
+          2	Governors Hill Stores
+          1	Gowans
+          1	Grace Baptist Church
+          1	Grace Baptist Church Port Erin
+          1	Grafton Street
+          2	Grammah Avenue
+          4	Grampus Hill Road
+          1	Grand Union Camera Obscura
+          1	Grandstand
+          1	Grange Farm
+          1	Granville Hotel
+          2	Granville Street
+          1	Grawe Reservoir
+          1	Graylaw
+          1	Great Gates
+          2	Great Laxey Mine Railway
+          2	Great Laxey Steam Railway
+          1	Great Meadow
+          1	Greeba
+          1	Greeba Avenue
+          1	Greeba Bridge
+          1	Greeba Castle
+          3	Greeba Drive
+          1	Greeba Mountain
+          1	Greeba Plantation
+          3	Greeba River
+          1	Greeba Road
+          1	Green K H & J R
+          1	Green Lane
+          1	Green Tank Car Park.
+          1	Green's
+          1	Greenbank
+          3	Greenfield Road
+          1	Greengate Farm
+          1	Greenhill
+          1	Greenland Avenue
+          1	Greenland Park
+          1	Greenland Views
+          5	Greenlands Avenue
+          1	Greenlands View
+          1	Greenlight Television
+          1	Greenmount
+          1	Greens Express
+          1	Greens Garage
+          1	Greenway Road
+          3	Grenaby
+          1	Grenaby Estates
+          2	Grenaby Farm
+          3	Grenaby Road
+          1	Grenea
+          1	Grest Farm
+          1	Gretch Noa
+          1	Gretchvane
+          2	Greyfriars Close
+          1	Greystones
+          1	Grianagh Court
+          1	Groit ny Glionney
+          1	Grosvenor Avenue
+          1	Grosvenor Hotel
+          1	Grosvenor Road
+          1	Groudle Bay
+          1	Groudle Beach Car Park
+          4	Groudle Cottages
+          1	Groudle Crossover
+          4	Groudle Glen
+          1	Groudle Glen Cottages
+          2	Groudle Glen Railway
+          1	Groudle Glen Station
+          1	Groudle Glen Station Shelter
+          2	Groudle Old Road
+          2	Groudle Old Road Halt
+          1	Groudle Old Road Halt Shelter
+          3	Groudle River
+          4	Groudle Road
+          1	Groudle Siding
+          2	Groudle Viaduct
+          4	Groudle View
+          4	Grove Mount
+          1	Grove Mount Lane
+          1	Grove Mount Sourth
+          1	Grove Mount West
+          1	Groves Cottage
+          1	Groves Road
+          1	Guard House cafe
+          3	Guttery Gable
+          1	H. Samuel
+          2	HMV
+          1	HQ Bar
+          4	HSBC
+          1	Hackett Close
+          2	Hague Drive
+          1	Hague Walk
+          3	Hailwood Avenue
+          1	Hairtraffic
+          1	Hairtraffic;PSM Sports Injury and Rehabilitation Clinic
+          1	Haldane Fisher
+          1	Haldane Fisher Building Merchants
+          1	Halfway Shelter
+          1	Ham and Egg Terrace
+          1	Hamilton Close
+          2	Hamilton House
+          1	Hampers & Co
+          1	Hampton Cottage
+          1	Hampton Court
+          5	Hampton Grove
+          2	Hampton Manor
+          1	Hampton farm estate
+          1	Haneffe's Bar And Grill
+          1	Hangar 2
+          1	Hangar 266
+          1	Hangar Zero
+          2	Hango Hill
+          2	Hanley Villas
+          1	Harbour Bar
+          1	Harbour Bistro
+          1	Harbour Highlights
+          2	Harbour Lights
+          1	Harbour Lights Cafe & Restaurant
+          1	Harbour Office
+          7	Harbour Road
+          1	Harbour Slipway
+          2	Harbour View
+          1	Harcourt Drive
+          1	Harcroft Avenue
+          6	Harcroft Meadow
+          1	Harcroft Road
+          2	Harmony Homes
+          1	Harold Tower
+          3	Harris Lane
+          6	Harris Promenade
+          1	Harris Terrace
+          1	Harrison & Garrett
+          1	Harrison Street
+          1	Harry Kelly's Cottage
+          1	Harry Quirk's Lane
+          1	Harry's Cafe
+          1	Hatfield Grove
+          1	Haven
+          1	Haven Administration Ltd
+          4	Hawarden Avenue
+          2	Hawthorn Close
+          1	Hawthorn Drive
+          1	Hawthorn Grove
+          1	Hazel Close
+          2	Hazel Crescent
+          1	Headlands Field
+          1	Headlands Paths
+          1	Headmaster's Lane
+          1	Health Foods
+          1	Heather Close
+          2	Heather Crescent
+          3	Heather Lane
+          1	Heather's Baps
+          1	Heatherlea
+          1	Heathfield Drive
+          1	Heatwave
+          1	Heavenly Beauty
+          2	Hedgerow Close
+          1	Henry Bloom Noble Library
+          1	Henry Bloom Noble Primary School
+          1	Heritage Homes
+          1	Heron & Brearley
+          1	Herring Tower
+          1	Heysham - Belfast (Freight Only) - Stena Line
+          1	Heywood Avenue
+          1	Heywood Close
+          1	Heywood Court
+          2	Heywood Drive
+          1	Heywood Grove
+          1	Heywood Park
+          1	Heywood Way
+          1	Hibbin Close
+          1	Hibbin Lane
+          1	Hibbin Way
+          1	Hibernia 'A'
+          1	Hibernia 'C'
+          2	High Street
+          1	High View Road
+          1	Highcroft Avenue
+          2	Highfield Close
+          2	Highfield Crescent
+          1	Highfield Drive
+          1	Highlander
+          1	Highton
+          3	Hilary Park
+          1	Hilary Road
+          1	Hildesley Road
+          1	Hill House
+          2	Hill Park
+          1	Hill Street
+          1	Hill Street Lane
+          6	Hill Top Rise
+          6	Hill Top View
+          2	Hillary Close
+          1	Hillberry
+          2	Hillberry Close
+          1	Hillberry Green
+          2	Hillberry Heights
+          1	Hillberry Lakes
+          5	Hillberry Meadows
+          2	Hillberry View
+          2	Hillcrest
+          3	Hillcrest Grove
+          3	Hillcroft
+          2	Hillcroft Green
+          3	Hillcroft Rise
+          1	Hills Meadow
+          1	Hills Meadow Industrial Estate
+          1	Hillside
+          2	Hillside Avenue
+          5	Hillside Terrace
+          1	Hilltop
+          1	Holland & Barrett
+          2	Hollin Bank
+          1	Hollin Lane
+          1	Holly Bank Farm
+          2	Holly Grove
+          1	Hollydene Avenue
+          1	Hollywood Stars
+          1	Holmes & Davidson
+          1	Holmes Grace
+          1	Home Run Pizza
+          1	Home Strategic
+          2	Home of Rest for Old Horses
+          1	Homefield Close
+          1	Homefield Park
+          2	Homefield Road
+          1	Homestores
+          1	Honeyhill
+          1	Honeysuckle Lane
+          1	Hong Kong Delight
+          2	Honna Road
+          1	Hooded Ram
+          1	Hooded Ram Brewery Co.
+          1	Hooded Ram liquor store
+          1	Hope Road
+          4	Hope Street
+          1	Horse and Plough
+          1	Horseshoe Avenue
+          1	Hospice
+          1	Hospice Shop
+          2	Hospice Shops
+          1	Hospice shops Isle of Man
+          1	Hospice, Isle of Man
+          1	Hot Wok
+          1	House of Manannan
+          1	Housedrake Holiday Camp Shelter
+          2	Howard Street
+          1	Howe Farm
+          1	Howe Methodist Chapel
+          8	Howe Road
+          2	Howstrake Camp Halt
+          1	Howstrake Drive
+          1	Howth Barn
+          1	Hunter's Croft
+          2	Hutchinson Square
+          1	Hutchinson Villas
+          1	Hydro
+          1	Hülsta
+          1	I Love Kebabs
+          1	IGI's
+          1	IOM Aero
+          1	IOM Business Park, shelter
+          1	IOM Kart Track
+          1	IOM/UK Interconnector
+          1	IQE
+          1	ITEX
+          1	Imman Stronnag
+          2	Imperial Heights
+          1	Imperial Hotel
+          1	Inglewood
+          1	Injebreck
+          1	Injebreck Cottage
+          1	Injebreck Hill
+          1	Injebreck Plantation
+          6	Injebreck River
+          2	Inner Circle
+          1	Inner Harbour Office
+          1	Inspire Collections
+          1	International Centre for Technology Ltd
+          1	Intersport
+          1	Ireland EEZ
+          1	Iron Pier
+          1	Island Aggregates Technical Laboratory
+          1	Island Aquatics
+          1	Island Landscapes
+          1	Island Saddlery
+          1	Island Travel
+          1	Island Tyres & Exhausts
+          1	Island hearing
+          1	Islander
+          1	Isle of Gadgets
+          4	Isle of Man
+          3	Isle of Man (Ronaldsway) Airport
+          1	Isle of Man - Dublin
+          1	Isle of Man - Heysham
+          1	Isle of Man - Liverpool
+          1	Isle of Man Airport
+          1	Isle of Man Ambulance Service Headquarters
+          1	Isle of Man Arts Centre
+          7	Isle of Man Bank
+          1	Isle of Man Bank (closed)
+          1	Isle of Man Business Centre
+         17	Isle of Man Business Park
+          1	Isle of Man Coastguard Rescue Station and Training Centre
+          1	Isle of Man Courts of Justice
+          3	Isle of Man Creameries
+          1	Isle of Man Employer's Federation
+          1	Isle of Man Government
+          1	Isle of Man Islamic Mosque
+          1	Isle of Man Law Society
+          2	Isle of Man Motor Museum
+          1	Isle of Man Motor Museum Car Park
+          1	Isle of Man Newspapers
+          1	Isle of Man Observatory
+          1	Isle of Man Post
+          1	Isle of Man Post Office Licensing
+          2	Isle of Man Prison
+          1	Isle of Man Railway Museum
+          1	Isle of Man Sea Terminal
+          1	Isle of Man Steam Packet Company
+         58	Isle of Man Steam Railway
+          1	Isle of Man Water Authority
+          1	Isle of Man Welcome Centre
+          1	Isle of Man Yacht Club
+          1	Isle of Man Yacht Club House
+          1	Isola
+          1	Ivy Cottages
+          2	Ivydene Avenue
+          1	J E Costain
+          1	J.T. Skillicorn Ltd
+          2	JAC Stores
+          1	JAR
+          1	JAR Bar
+          1	JC Fargher
+          1	Jabberwocky
+          1	Jacks Lane
+          1	Jade Harbour Restaurant
+          1	Jaime's Kitchen
+          1	Jaks
+          1	James Caine
+          1	James Place
+          1	James Road
+          2	James Street
+          1	Jandakot
+          1	Jane's House
+          1	Java Express
+          1	Jean-Pierres Bistro
+          2	Jet Centre
+          1	Joan's Wool & Crafts
+          5	Joe Jennings
+          1	John Street
+          1	Johnny Waterson Court
+          6	Johnny Watterson's Lane
+          1	Joiner's Workshop
+          2	Joseph Hall Avenue
+          1	Jubilee Clock
+          1	Jubilee Park
+          2	Julian Road
+          2	Jurby
+          1	Jurby East
+          3	Jurby East Road
+          1	Jurby Junk
+          1	Jurby Junk Books
+          1	Jurby Karting
+          1	Jurby Nursary and Water Gardens
+          1	Jurby Parish Hall
+          1	Jurby Road
+          1	Jurby School
+          1	Jurby Shop and Post Office
+          1	Jurby Transport Museum
+          1	Jurby West
+          1	KD's Barbers
+          1	Kaighins Lane
+          1	Kall Kwik
+          1	Kallow Point
+          1	Kallow Point Road
+          1	Kaneens
+          1	Karran Farmstead
+          1	Karran and Quirk Footpath
+          1	Kate's Cottage
+          1	Katrina Louise Hair & Extensions
+          1	Kebabish
+          1	Keeill Mouray
+          1	Keeling Holiday Apartment
+          1	Kella Close
+          1	Kelly Luft Advocates
+          1	Kelly's Court
+          1	Kelvin Road
+          1	Ken Quine
+          1	Kenaa
+          1	Kenaa Equestrian Centre
+          1	Kenaa Holiday Accommodation
+          1	Kenaa House
+          1	Kenilworth
+          2	Kennaa Road
+          1	Kensington Health Centre
+          1	Kensington House
+          1	Kensington Lane
+          1	Kensington Road
+          1	Kentraugh
+          3	Kentraugh Back Road
+          1	Kentraugh House
+          1	Kentraugh Mill
+          1	Kentraugh Mill Road
+          1	Kentraugh crossing
+          1	Keown's Lane
+          2	Keppel Road
+          1	Keristal
+          1	Keristal Bungalow
+          2	Kermode Close
+          1	Kermode Road
+          1	Kerrocoar Close
+          1	Kerrocoar Drive
+          6	Kerroo Coar
+          2	Kerroo Glass
+          1	Kerroobeg
+          1	Kerroobeg Cottage
+          3	Kerroocruin
+          1	Kerroodhoo Plantation
+          1	Kerroogarroo
+          1	Kerroogarroo Fort
+          1	Kerrow Glass
+          1	Kerrowcroie Farm
+          3	Kerrowdhoo
+          1	Kerrowdhoo Farm
+          1	Kerrowdhoo Reservoir
+          1	Kerrowdhoon
+          1	Kerrowgarrow
+          2	Kerrowglass
+          1	Kerrowkeil Bed & Breakfast
+          1	Kerrowkeil Farm
+          1	Kerrowkeil Methodist Chapel
+          1	Kerrowkneale
+          1	Kerrowmoar
+          1	Kerrowmoar Farm
+          1	Kestrel Insurance
+          1	Kewaigue
+          1	Kewaigue Hill
+          1	Kewaigue School
+          1	Kiaora Villa
+          1	Kilkenny
+          1	Killabrega
+          3	Killane (Road of the Brushwood)
+          3	Killane River
+          2	Killeaba Mount
+          1	Killeabraegga Cottage
+          1	Kimberly House Holiday Apartments
+          1	Kimmeragh
+          1	Kimmeragh Farm
+          1	King Edward Bay Golf and Country Club
+          2	King Edward Close
+          4	King Edward Park
+          5	King Edward Road
+          1	King Edward VIII Pier
+          9	King Orry Close
+          1	King Orry Place
+          1	King Orry Road
+          1	King Orry's Grave
+          1	King Street
+          1	King William's College
+          1	King William's College Chapel
+          1	King William's Road
+          2	King William's Way
+          1	Kingdom Hall of Johovah's Witness
+          1	Kings Guest House
+          3	Kingswood Grove
+          1	Kinley Legal
+          1	Kinnish Terrace
+          1	Kinrade's Pharmacy
+          1	Kinsale
+          1	Kiondhooag
+          1	Kiondroghad Farm
+          1	Kiondroghad Road
+          1	Kiondroughad
+          1	Kionslieau Reservoir
+          1	Kionslieu Farm
+          1	Kionslieu Farm Cottages
+          3	Kionslieu Hill
+          1	Kionslieu Plantation
+          2	Kionslieu Terrace
+          1	Kirby Farm Industrial Estate
+          1	Kirby Garden Centre
+          2	Kirby Hill
+          1	Kirk Arbory
+          1	Kirk Braddan
+          1	Kirk Christ Parish of Rushen
+          1	Kirk Lonan, All Saints
+          1	Kirk Maughold Parish Church
+          2	Kirk Michael
+          1	Kirk Michael Fire Station
+          1	Kirk Patrick
+          1	Kirkby
+          1	Kirkle Farm
+          1	Kirkway
+          1	Kissack Brothers
+          2	Kissack Road
+          1	Kissacks Croft
+          1	Kissacks Lane
+          1	Kitani
+          1	Kitterland
+          1	Kittiwake House
+          1	Knock Froy
+          1	Knock Froy scramble course
+          1	Knock Rushen
+          1	Knock-e-Dhooney
+          1	Knock-e-nean
+          1	Knock-e-vriew
+          1	Knockalaughen
+          1	Knockaloe Beg
+          1	Knockaloe Camp Railway
+          2	Knockaloe Farm
+          1	Knockaloe Plantation
+          1	Knockaloe WW1 Internment Camp
+          1	Knocksharry
+          1	Kodak Express Computers4-U
+          1	Koinney Avenue
+          1	Kowloon
+          1	Krypton
+          1	Kurries and Steaks
+          1	Kursaal
+          1	LVW Law
+          1	La Boutique Ltd
+          1	La Gusto Pizza
+          1	La Mona Lisa
+          1	La Piazza
+          1	Laburnum Avenue
+          1	Lady Fenella
+          1	Lag Birragh
+          1	Lag Birragh Drive
+          1	Lag Dhoon
+          1	Lag Ny Keeilley
+          1	Lagavallough
+          1	Laggan Agneash
+          1	Lake Lane
+          2	Lake Road
+          1	Lake Road Substation
+          1	Lakeside Café
+          7	Lakeside Road
+          1	Lakeside View
+          1	Lakeview
+          2	Lamb's Crossing
+          1	Lambfell Beg
+          1	Lambfell Moar
+          2	Lambhill
+          1	Lambhill Road
+          1	Lamode
+          1	Lancashire Arms
+          1	Lancaster Road
+          1	Langdale Close
+          1	Langness
+          1	Langness Farm
+          1	Langness Lighthouse
+          2	Langness Road
+          1	Langtoft
+          1	Langtoft Manor
+          1	Lanis 1
+          1	Lanis 2
+          1	Lanjagham
+          1	Lanjaghan Lane
+          1	Larch Hill
+          2	Larch Hill Grove
+          2	Larivane Close
+          3	Larivane Meadow
+          2	Larkhill
+          1	Laughing Buddha
+          6	Laurel Avenue
+          1	Laureston Avenue
+          1	Laureston Close
+          2	Laureston Grove
+          3	Laurys Avenue
+          5	Laxey
+          1	Laxey & Lonan Heritage Trust Gift Shop
+          3	Laxey - Milntown 33kV
+          1	Laxey Association Football Club and Community Centre
+          1	Laxey Bay
+          1	Laxey Beach
+          1	Laxey Blacksmith
+          1	Laxey Blacksmiths
+          1	Laxey Car Centre
+          1	Laxey Car Shed Crossover
+          2	Laxey Car Shed Siding
+          2	Laxey Car Sheds
+          1	Laxey Car sheds
+          1	Laxey Chemist
+          1	Laxey Fire Station
+          1	Laxey Flour Mill
+          1	Laxey Glen Mills
+          1	Laxey Goods Shed
+          1	Laxey Methodist Church
+          2	Laxey Old Road
+          1	Laxey Opticians
+          1	Laxey PO
+          1	Laxey Parish Church
+          1	Laxey Pavillion
+          1	Laxey Post Office
+          8	Laxey River
+          1	Laxey School
+          1	Laxey Station
+          1	Laxey Station Cafe
+          1	Laxey Station Pillar Postbox
+          1	Laxey Station Siding
+          1	Laxey Wheel
+          1	Laxey Woollen Mills
+          1	Laxey Working Men's Club
+          1	Laxey's Diner (formerly Browns)
+          1	Lazy Beds
+          1	Leaggan
+          1	Lee Mayers Butchers
+          1	Leodest Farm
+          1	Leodest Road
+          1	Leonard Cheshire Home
+          1	Leonardo's
+          2	Lewaigue
+          1	Lewaigue Cottage
+          1	Lewaigue Farm
+          1	Lewaigue Halt
+          1	Lewaigue Shelter
+          1	Lewthaites Way
+          1	Lexicon
+          2	Lezayre
+          3	Lezayre Park
+          7	Lezayre Road
+          2	Lhag Beg
+          2	Lhag Mooar
+          1	Lhargan
+          1	Lhargee Ruy
+          1	Lhea-kerrow
+          1	Lheakerrow
+          1	Lheaney Grove
+          1	Lheaney Road
+          8	Lheannag Park
+          1	Lhekerroo
+          1	Lhen Coan
+          2	Lhen Coan Bridge
+          1	Lhen Coan River
+          1	Lhen Coan Station
+          1	Lhen Trench
+          3	Lhergy Cripperty
+          1	Lhergy House
+          1	Lhergy Moar
+          1	Lhergydhoo
+          1	Lhergyrhenny
+          1	Lhergyvreck
+          1	Lhoan Ruy
+          2	Lhondhoo Close
+          3	Lhonvane Close
+          2	Lhoobs Road
+          1	Lifeboat Slipway
+          2	Lilac Grove
+          1	Lime Kiln Halt
+          1	Lime Street
+          2	Linden Avenue
+          3	Linden Grove
+          1	Line of old pumping rod
+          1	Linen and Laundry Services
+          1	Lingague
+          1	Links Avenue
+          3	Links Close
+          1	Links View
+          2	Little Coanrhennee Road
+          1	Little Fish Cafe
+          1	Little Head
+          1	Little Lantern
+          1	Little London
+          1	Little London Road
+          1	Little Mill Road
+          5	Little Shoprite
+          2	Little Switzerland
+          1	Liverpool Arms
+          2	Living Hope Community Church
+          1	Lloyds
+          4	Lloyds Bank
+          3	Lloyds Pharmacy
+          1	Lloyds pharmacy
+          1	Loch Hotel Apartments
+          8	Loch Promenade
+          1	Loch Road
+          1	Logs For Sale
+          1	Lonan
+          1	Long Stay Car Park No 1
+          1	Longfield
+          1	Longfield Cottage
+          1	Looney's Crossing
+          1	Loong Tan Garden
+          7	Lord Street
+          1	Lord Street Bus Station
+          1	Lorne House
+          1	Lost seamen memorial plaque
+          1	Lotus
+          1	Lough Dhoo
+          1	Lough Drughaig
+          1	Lough Gat e Whing
+          1	Loughan-e-yeigh
+          1	Loui's Barbers
+          1	Love Lane
+          2	Lower Ballachrink
+          1	Lower Ballacottier
+          1	Lower Ballakaighin
+          1	Lower Ballakelly
+          1	Lower Ballanorris
+          1	Lower Ballavarkish
+          1	Lower Ballawyllan
+          9	Lower Cronk Orry
+          1	Lower Derby Castle Crossover
+          1	Lower Foxdale
+          1	Lower Gleneedle
+          1	Lower Glentramman Farm
+          1	Lower Light
+          2	Lower Rencell
+          1	Lower Rencell Hill bridge
+          1	Lower Sartfield
+          1	Lower Scard
+          1	Lower Skerrisdale
+          1	Lower Sulby
+          1	Lower Tosaby
+          3	Lucerne Court
+          1	Lucky Star
+          1	Luminaires
+          1	Lyndale Avenue
+          1	Lyndhurst
+          1	L’expérience
+          1	M&Co
+          1	M.E.R. Museum
+          1	MBL
+          1	MPES.co.uk
+          1	MSM
+          1	MSPCA
+          2	Mace
+          1	Macfarlane's
+          3	Magher Breek
+          1	Magher Donnag
+          1	Magher Drine
+          1	Magher Rosien
+          2	Magher Vay
+          3	Magherbreekyn
+          2	Magherchirrym
+          2	Maghergarran
+          1	Magic Wok
+          1	Magnet
+          1	Magoo's Opticians
+          4	Main Drive
+          3	Main Road
+          5	Main Road Union Mills
+          1	Main mall
+          1	Maine Avenue
+          2	Maine Road
+          1	Maitland Terrace
+          1	Maitland Terrace Lane
+          1	Majestic
+          2	Majestic Apartments
+          2	Majestic Close
+          2	Majestic Drive
+          2	Majestic Halt
+          1	Majestic Halt Shelter
+          1	Majestic View
+          1	Mal's Butchers Ltd
+          1	Malew
+          1	Malew AFC
+          1	Malew Parish Church
+          1	Malew Parish Commissioners
+          4	Malew Road
+          5	Malew Street
+          1	Malvern Road
+          1	Management and Information Technology Directorate
+          1	Mandarin
+          1	Mandarin Express
+          1	Mann Auto Car Sales
+          2	Mann Auto Services
+          1	Mann Benhay
+          1	Mann Cat Sanctuary
+          1	Mannin Barbers
+          1	Mannin Chambers
+          1	Mannin Collections
+          1	Mannin Road
+          1	Manor Court
+          3	Manor Drive
+          2	Manor Hill
+          2	Manor Lane
+          1	Manor Road
+          1	Manor View
+          3	Manor Woods
+          1	Mantons
+          1	Manx Arms
+          1	Manx Aviation and Military Museum
+          1	Manx Blind Welfare Society
+          1	Manx Business Solutions
+          1	Manx Cover (Blackford & Co. Insurance Agents)
+          1	Manx Eco Energy Solutions
+         57	Manx Electric Railway
+          1	Manx Electricity Authority Glen Mooar Gas Above Ground Inst
+          1	Manx Engineers Ltd
+          2	Manx Gas
+          1	Manx Hidden Hearing Clinic
+          1	Manx Home Care
+          1	Manx Independent Carriers
+          1	Manx Marine
+          1	Manx Marine Crewing
+          2	Manx Museum
+          2	Manx Northern Railway
+          1	Manx Paragliding.
+          9	Manx Petroleums
+          1	Manx Radio
+          1	Manx Taxis
+          4	Manx Telecom
+          1	Manx Transport Museum
+          1	Manx Utilities
+          2	Manx Utilities Authority
+          2	Manx Wildlife Trust
+          1	Manxonia Garage
+          5	Maple Avenue
+          2	Maple Close
+          1	Maple Terrace
+          4	Marashen Crescent
+          1	Marathon Avenue
+          1	Marathon Court
+          1	Marathon Drive
+          2	Marathon Road
+          1	Marbeg
+          1	Marger-e-kew
+          1	Margher-e-breck
+          1	Maria's hair studio
+          2	Marina Close
+          1	Marina Lane
+          1	Marina Road
+          1	Marine Court
+         18	Marine Drive
+          1	Marine Drive Car Park
+          1	Marine Drive Old Toll Gate
+          1	Marine Drive to Oakhill
+          2	Marine Gardens
+          1	Marine Hotel
+          3	Marine Parade
+          1	Marine Terrace
+          1	Marine View Close
+          1	Marion Court
+          1	Marion Road
+          3	Market Hill
+          4	Market Place
+          3	Market Square
+          3	Market Street
+          1	Marks & Spencer
+          1	Marlborough Crescent
+          1	Marlborough Way
+          1	Marmaris
+          2	Marnys
+          1	Marown
+          1	Marown Parish Comissioners
+          1	Marown School
+          2	Marown TV
+          1	Marsden Terrace
+          1	Martha Gullet
+          1	Mateland Drive
+          1	Matthews Close
+          2	Maughold
+          2	Maughold Head
+          3	Maughold Lighthouse Road
+          1	May Hill
+          1	Maynrys
+          1	McArd Contractors Limited
+          1	McCormac and Lloyd
+          1	McDonald's
+          1	McGills Bistro
+          1	McLeod's Field
+          1	Meadow Close
+          6	Meadow Crescent
+          1	Meadow View Cottage
+          1	Meadowbrook Gardens
+          3	Meadowcourt
+          1	Meadowfield
+          1	Meary Veg
+          1	Meary Veg Sewage Works
+          1	Meary Voar
+          1	Meayll Circle
+          1	Melbourne Street
+          1	Melrose Guest House
+          1	Memorial Playing Fields
+          1	MenZone
+          1	Mental Health Service, Management and Resource Team
+          1	Mercedes-Benz of Mann
+          1	Mereside
+          1	Merlin's Court
+          1	Merrion Park
+          1	Merton Bank
+          1	Methodist Church Hall
+          1	Methodist Church Hall Saint Johns
+          1	Methodist Church Port Erin
+          1	Mews Cottages
+          2	Michael
+          1	Michael Car Centre
+          1	Michael Football Club
+          1	Michael School
+          1	Michael Street
+          1	Michael United Football Club
+          1	Middle
+          1	Middle Cordeman Farm
+          1	Middle Farm
+          1	Middle Garth
+          1	Middle River - Castletown 33kV
+          1	Middle River Civic Amenity & Re-use Centre
+          5	Middle River Industrial Estate
+          1	Middle School
+          1	Middleton Katz Chartered Secretaries
+          1	Midland Apartments
+          1	Milan
+          2	Mill House
+          1	Mill Mount
+         16	Mill Road
+          1	Mill Road Crossing
+          1	Mill Road Yard
+          1	Mill Street
+          1	Millenium House
+          1	Millenium Stone, Castletown
+          1	Millennium Court
+          1	Millennium Oakwood
+          1	Millennium Saagar
+          1	Millennium Way
+          2	Millers Crossing
+          1	Millets
+          1	Millhope Close
+          1	Millom West Platform
+          1	Millside
+          2	Milner Close
+          2	Milner Park
+          1	Milner Terrace
+          1	Milner's Tower
+          1	Milntown Farm
+          1	Milntown House
+          1	Milton Apartment
+         13	Miners Trail
+          1	Mines Captains House
+          2	Mines Road
+          1	Minorca
+          1	Minorca Crescent
+          1	Minorca Halt
+          1	Minorca Halt Shelter
+          1	Minorca Hill
+          2	Minorca Stream
+          1	Minorca Vale
+          1	Miquando
+          1	Miracles
+          1	Mitre Hotel
+          3	Moaney Moar
+          3	Moaney Quill Close
+          2	Moaney Road
+          1	Model Tech
+          1	Molly Quirk's Glen
+          2	Mona Drive
+          1	Mona House
+          3	Mona Street
+          1	Mona Terrace Lane
+          1	Money Express
+          1	Monk's Bridge
+          1	Monkspath
+          1	Monsoon
+          4	Montreux Court
+          1	Mooragh Lake
+          1	Mooragh Park
+          5	Mooragh Promenade
+          1	Moore's Traditional Curers
+          1	Moorhouse Farm
+          1	Mop Hair
+          1	Morris Lubricants
+          1	Morrison Photos
+          1	Morton Hall
+          1	Motors and Mowers
+          1	Motorsport Merchandise
+          1	Mount Auldyn
+          1	Mount Bradda
+          1	Mount Gawne
+          1	Mount Gawne Road
+          2	Mount Havelock
+          1	Mount Karrin
+          1	Mount Murray
+          4	Mount Murray Back Road
+          4	Mount Murray Drive
+          2	Mount Murray Golf Club
+          1	Mount Murray Hotel
+          2	Mount Pleasant
+          1	Mount Rule
+          1	Mount Rule Farm Airstrip
+          4	Mount Rule Road
+          2	Mount View Close
+          2	Mount View Road
+          1	Mountain Box
+         19	Mountain Road
+          7	Mountain View
+          1	Mountain Warehouse
+          1	Mountfield Road
+          2	Mourne View
+          2	Mourne View Road
+          1	Mr B's Freshbake
+          1	Mr B's Sandwhich Deli
+          1	Mrs Allen's Path
+          1	Mrs Yang's Restaurant
+          1	Muckles Gate
+          1	Mull Hill
+          1	Mull Road
+          2	Mull View
+          1	Mullagh Ouyr
+          1	Mullaghouyr
+          2	Mullen Beg
+          1	Mullen Rhenass
+          1	Mullen-e-Corrin
+          1	Mullin-y-Carty
+          1	Mullinaragher
+          3	Mullinaragher Road
+          1	Murray's Motorcycle Museum
+          2	Murray's Road Halt
+          1	Murray's Road Health Clinic
+          1	Murray's Road School
+          5	Murrays Lake Drive
+          1	Murrays Lake Grove
+          3	Murrays Road
+          1	Museum Building
+          1	Museum of the Manx Regiment
+          1	Mwyllin e Quinney
+          1	Mylchreests Group
+          1	Myrtle Street
+          3	Mysore Close
+          1	N.W. end of Logh Cranstal (various flints)
+          1	NATS Laxey Garage
+          1	NATS Snaefell Rx & Tx Comms Station
+          1	NFU Mutual
+          1	Nab Farm
+          1	Nags Head
+          1	Narradale
+          1	Nassau Road
+          1	NatWest
+          1	National Folk Museum
+          1	National Sports Centre
+          1	National Tyres and Autocare
+          1	National Windscreens
+          1	Nationwide International
+          1	Neary
+          1	Neb Cafe
+          1	Nellie Pearl's Bar
+          5	Nelson Street
+          1	Neolithic tomb
+          1	Neptune Street
+          1	Netcetera
+          1	New Bond Street
+          1	New Casteletown Road
+         22	New Castletown Road
+          1	New Generation
+          1	New Hong Kong
+          1	New Look
+          1	New Norbury Boat House
+          1	New Quay
+          7	New Road
+          1	Newby and Padley, Optometrists
+          2	Newby's
+          1	Newby's Convenience
+          1	Newlands
+          1	Newsbeat
+          1	Newtown
+          1	Next
+          1	Next Step
+          2	Niarbyl
+          1	Niarbyl Bay
+          1	Niarbyl Cafe
+          1	Niarbyl Cottages
+          1	No 52
+          1	No Place
+          1	Noa Bakehouse
+          1	Noble's Hospital
+          1	Noble's Park
+          1	Noble's Park Café
+          1	Nobles News and Mags
+          1	North Athol Street
+          1	North Baldrine Farm
+          1	North Barrule
+          1	North Pier
+          1	North Point
+          3	North Quay
+          1	North Shore Road
+          3	North View
+          1	Northern Elderly and Mentally Infirm Unit
+          1	Northop
+          1	Norwood Drive
+          1	Not Only Backs Osteopathic Clinic
+          1	Nunnery Howe
+          4	Nursery Avenue
+          1	Ny Kiare Rseource Centre
+          1	O'Donnell's
+          1	OSM Copiers
+          2	Oak Avenue
+          2	Oak Close
+          1	Oak House
+          3	Oak Road
+          2	Oakdale
+          1	Oakhill
+          2	Oakhill Close
+          1	Oakhill Cottage
+          1	Oakhill Court
+          1	Oasis Sandwich Bar
+          1	Oatfield Rise
+          1	Oatlands
+          1	Oatlands Cottages
+          1	Oatlands Farm
+          1	Oatlands Quarry
+          3	Oatlands Road
+          1	Occupational Health Service
+          1	Ocean Castle Drive
+          2	Odins Way
+          1	Office of Fair Trading
+          1	Ohio
+          1	Ohio Plantation
+          1	Oil Jetty
+          5	Olaf's Close
+          1	Old Bemahague Road
+          1	Old Cafe Shelter
+         28	Old Castletown Road
+          1	Old Chapel
+          6	Old Church Road
+          1	Old House of Keys
+          1	Old Kirk Braddan
+          3	Old Laxey Hill
+          2	Old Laxey Road
+          6	Old Lead Mine
+          1	Old Limestone Quarry
+          3	Old Lonan Church Road
+          1	Old Market Inn
+          1	Old Mines
+          1	Old Noble's Hospital site
+          1	Old Post Office Lane
+          1	Old Powder Magazine
+          1	Old River Road
+          1	Old School Hill
+          1	Old School View
+          3	Old Slate Tip
+          1	Old Smokehouse Yard
+          4	Old Sulby Road
+          1	Old Tip
+          1	Old Vicarage
+          1	Old Wesleyan Chapel
+          2	Old Windmill Road
+          1	Olive Tree Cafe
+          1	Olivers Furniture Store
+          1	Olly's
+          3	Onchan
+          1	Onchan Baptist Church
+          1	Onchan Church Playground
+          1	Onchan District Commissioners
+          1	Onchan Harbour
+          3	Onchan Head
+          1	Onchan Head Crossover
+          2	Onchan Lane
+          1	Onchan Methodist Church
+          1	Onchan Parish Hall
+          2	Onchan Pleasure Park
+          1	Onchan Pleasure Park Playground
+          1	Onchan Post Office
+          1	Onchan Primary School
+          1	Onchan Youth and Community Centre
+          1	One Stop Shop
+          1	Oopsy Daisy
+          1	Orchard Close
+          1	Orchard House
+          2	Orchard Road
+          2	Orchard View
+          2	Orchid Close
+          4	Orchid Line
+          1	Orchid Line station
+          2	Orestal
+          1	OrmCo
+          4	Ormley Road
+          1	Ormly Avenue
+          2	Ormly Grove
+          6	Orrisdale
+          1	Orrisdale Lime Kiln
+          1	Orrisdale Methodist
+          1	Orrisdale Road
+          1	Orry Lane
+          1	Orry Place
+          1	Orry Street
+          2	Orry's Close
+          1	Orry's Mount
+          1	Osborne Grove
+          1	Osborne Terrace
+          1	Our Lady Star of Sea and Saint Maughold
+          1	Out of Africa
+          1	Outdoor Power and Plant
+          1	Outdoors Ramsey
+          1	Outpatient
+          1	Oxfam
+          1	Oxford Street
+          1	PC Solutions
+          1	PDMS
+          3	PO Headquarters
+          1	PSM Plantation Road
+          2	PSM School Layby
+          1	Pack Horse Road
+          1	Packhorse Lane (Lower)
+          1	Packhorse Lane (Upper)
+          1	Paddocks Lane
+          5	Pairk Beg
+          3	Pairk Ollay
+          1	Palace Casino
+          1	Palace Cinema
+          1	Palace Health Club
+          1	Palace Hotel & Casino
+          2	Palace Road
+          1	Palace View Terrace
+          1	Palatine Health Centre
+          1	Palatine Road
+          1	Pandora
+          1	Paparazzi Pizza
+          2	Parade Street
+          1	Paradise Court
+          1	Paradise Lane
+          1	Paragon
+          1	Paramount City
+          1	Park Avenue
+          6	Park Close
+          1	Park Farm
+          1	Park Lewellyn
+          1	Park Mooar
+          3	Park Road
+          2	Park Way
+          1	Park-ne-earkan
+          1	Parliament Lane
+          5	Parliament Square
+          2	Parliament Street
+          1	Parr Street
+          2	Parsonage Road
+          1	Parville
+          1	Pascoes
+          1	Pat-a-Cake
+          1	Patchwork Cafe
+          1	Path to M.E.R. Museum
+          1	Path to Slieau Ruy
+          1	Patricia Wild Opticians
+          2	Patrick
+          1	Patrick Church
+          7	Patrick Road
+          3	Patrick Street
+          1	Paul Dedman Performance Ltd,
+          1	Pavilion Restaurant
+          1	Paws for Thought
+          1	Peacock's
+          2	Peel
+          2	Peel Association Football Club
+          1	Peel Bay
+          1	Peel Breakwater Kiosk
+          1	Peel Camping Park
+          2	Peel Castle
+          1	Peel Castle Hotel
+          1	Peel Cathedral
+          1	Peel Charity Shop
+          1	Peel Clothworker's School
+          1	Peel Fire Station
+          1	Peel Fisheries
+          1	Peel Golf Club
+          1	Peel Golf Course
+          1	Peel Hill
+          1	Peel Inner Harbour
+          1	Peel Kiosk
+          1	Peel Methodist Church
+          1	Peel Police Station
+          1	Peel Power Station
+         26	Peel Road
+          1	Peel Sailing and Cruising Club
+          1	Peel Skate Park
+          1	Peel Street
+          1	Peel Town Hall
+          1	Peel line
+          1	Penguins
+          1	Penny Bridge Stables
+          1	Penta Hotel
+          1	Pentwyn
+          1	Perfect Balance Chiropody
+          1	Peri Peri Chicken Victoria Grill
+          1	Permanent Bank International Ltd
+          4	Perwick Bay
+          1	Perwick Rise
+          1	Pet Shop
+          1	Peter Luis
+          2	Peter Norris Music
+          1	Peveril Avenue
+          1	Peveril Road
+          2	Peveril Square
+          1	Peveril Street
+          2	Peveril Terrace
+          1	Phildraw
+          6	Phildraw Road
+          1	Philip Christian Centre
+          1	Picadilly Court
+          3	Pickard Close
+          1	Pickwicks
+          1	Pigeon Stream
+          1	Pigeon Stream - Marine Drive
+          1	Pine Grove
+          2	Pine Hill
+          1	Pinehurst Avenue
+          1	Pinehurst Close
+          1	Pinehurst Glen
+          1	Pinfold Cottage
+          2	Pinfold Lane
+          1	Pitcairn
+          1	Pizza Hut
+          1	Pizza King
+          1	Pizza Pizza
+          1	Pizzaiolo
+          1	Plantation Road
+          1	Plough
+          1	Plumb Center
+          2	Poacher's Pocket
+          1	Point of Ayre
+          1	Police Headquarters
+          1	Polly Dub
+          1	Polly Road
+          1	Ponderosa
+          1	Pooil Vaaish Ltd
+          3	Pooil Vaaish Road
+          1	Pooil Villa Farm
+          1	Pooilvaaish
+          1	Poortown
+          1	Poortown Quarry
+          5	Poortown Road
+          4	Poplar Close
+          1	Poplar Road
+          1	Port Bravag
+          4	Port Erin
+          1	Port Erin Bay
+          1	Port Erin Beach
+          1	Port Erin Breakwater (remains)
+          1	Port Erin Commissioners
+          1	Port Erin Diner
+          1	Port Erin Fire Station
+          1	Port Erin Gaslight and Aerated Waters Co.
+          1	Port Erin Gospel Church
+          1	Port Erin Lifeboat Station
+          1	Port Erin Pets & Pals
+          1	Port Erin Post Office
+          1	Port Erin Railway Station
+          1	Port Erin Royal
+          1	Port Erin, Rheyrt y Chirk
+          1	Port Erin, Southlands
+          1	Port Grenaugh
+          1	Port Hair Inn
+          2	Port Jack
+          1	Port Jack Chippy
+          1	Port Jack Glen
+          1	Port Jack Halt
+          1	Port Lewaigue
+          1	Port Lewaigue Close
+          2	Port Saint Mary
+          1	Port Saint Mary Bay
+          1	Port Saint Mary Dental Practice
+          1	Port Saint Mary Golf Club
+          1	Port Saint Mary Methodist Church
+          1	Port Skillion
+          3	Port Soderick
+          2	Port Soderick Glen Road
+          1	Port Soderick National Glen
+          3	Port St Mary
+          1	Port St Mary Golf Links
+          3	Port Way
+          1	Port e Vullen
+          1	Port st. Mary Harbour
+          4	Port-E-Chee-Avenue
+          1	Portleven
+          1	Portofino
+          1	Ports of Call
+          1	Post Office Lane
+          1	Poulsom Park
+          1	Poyll Breinn
+          1	Poyll Dooey House
+          4	Poyll Dooey Road
+          2	Poylldooey Nature Reserve
+          1	Poyllvaaish Marble Quarry
+          1	Premier Road
+          1	Prenton Lheannee
+          2	Preston's Crossing
+          1	Prima donna
+          1	Primitive Methodist Chapel
+          1	Primrose Avenue
+          7	Prince Albert Road
+          1	Princes Avenue
+          2	Princes Road
+          1	Princes Street
+          1	Princes Street Lane
+          1	Princess Alexandra Pier
+          1	Pringle Law
+          1	Private Patient Unit, Ward 19
+          1	Promenade Back Lane
+          1	Promenade Cycleway
+          1	Promenade Methodist Church
+          1	Promenade Shirts
+          1	Promenade Shirts and Embrodiery Limited
+          1	Proposed Post Office
+          1	Proposed stable yard and equestrian arena
+          1	Prospect
+          2	Prospect Hill
+          1	Prospect Terrace
+          1	Psychological Therapies Service
+          1	Public Health Directorate
+          2	Pulrose - Saint Johns 33kV
+          1	Pulrose Bridge Shelter
+          1	Pulrose Methodist Church
+          1	Pulrose Post Office
+          1	Pulrose Power Station
+          6	Pulrose Road
+          2	Pulrose School
+          1	Pump Rod
+          1	Punch & Judy
+          1	Purt y Shee
+          2	Quakers Road
+          1	Qualtrough's Yard
+          1	Qualtroughs Lane
+          2	Quarry Road
+          1	Quarterbridge
+          3	Quarterbridge Road
+          1	Quay Barber
+          1	Quay Dental
+          1	Quay House
+          1	Quay Lane
+          1	Quay West
+          1	Quayle's Foodstore
+          3	Quayside
+          1	Quayside Tyre and Exhaust
+          1	Queen Elizabeth II High School
+          1	Queen Elizabeth II Quay
+          1	Queen Margaret Road
+          1	Queen Margaret Way
+          5	Queen Street
+          1	Queen's Drive
+          1	Queen's Drive East
+          1	Queen's Pier
+          5	Queen's Pier Road
+          1	Queens Apartments
+          1	Queens Avenue
+          4	Queens Drive
+          2	Queens Drive Halt
+          2	Queens Hotel
+          1	Queens Mansion
+          2	Queens Promenade
+          4	Queens Road
+          1	Queens Terrace
+          2	Queens Valley Crossing
+          1	Quids Inn
+          1	Quine & Cubbon Printers
+          1	Quine's Hill
+          1	Quines Close
+          1	Quines Corner
+          1	Quinn Legal
+          1	RBS International
+          1	RHS Jewellers
+          1	RUILLICK-NY-QUAKERYN
+          2	Raad Bridjeen
+          1	Raad Ny Foillan
+          1	Raad Ny Follan
+          2	Raad Ny Gabbil
+          2	Raad Yiarn House Crossing
+          1	Radcliffe Close
+          1	Radcliffes
+          1	Railway
+          1	Railway Inn
+          1	Railway Terrace
+          1	Rainbow's End
+          3	Ramsey
+          1	Ramsey A.F.C.
+          1	Ramsey Art Gallery
+          1	Ramsey Bakery
+          1	Ramsey Bay
+          1	Ramsey Bus Station
+          1	Ramsey Craft Centre
+          1	Ramsey DTC Training Field
+          1	Ramsey Fire Station
+          1	Ramsey Garden Centre
+          1	Ramsey Golf Club
+          1	Ramsey Golf Course
+          1	Ramsey Grammar School East
+          1	Ramsey Grammar School West
+          2	Ramsey Heritage Centre
+          1	Ramsey MER Station
+          1	Ramsey Methodist Centre
+          1	Ramsey Northern Swimming Pool
+          1	Ramsey Park Hotel
+          1	Ramsey Platform Crossover
+          1	Ramsey Police
+          1	Ramsey Power Station
+          9	Ramsey Road
+          1	Ramsey Rugby Club Community sports pavilion
+          1	Ramsey Shed Sidings
+          1	Ramsey Station Sidings
+          1	Ramsey Substation
+          1	Ramsey Swing Bridge
+          1	Ramsey Terminus
+          1	Ramsey Terminus Shunt Crossover
+          1	Ramsey Town Hall
+          1	Ramsey Town Library
+          1	Ramsey and District Cottage Hospital
+          1	Ramsey branch
+          1	Range Left Jagged Right Ltd
+          3	Raphael Road
+          1	Rasoi
+          1	Rathgar
+          1	Ravat & Ray Dental Care
+          1	Ravens Wharf
+          1	Ravensdale
+          2	Raymotors
+          1	Raymotors Volkswagon
+          1	Real Fairy Bridge
+          2	Rearyt Carnane
+          7	Reayrt Aalin
+          1	Reayrt Lhean
+          2	Reayrt Ny Sleityn
+          1	Reayrt Y Chrink
+          1	Reayrt Y Cronk
+          1	Reayrt ny Cronk
+          1	Reayrt ny Keylley
+          1	Recreation Hall
+          1	Rectory Court
+          1	Red Gap
+          2	Red Pier
+          1	Red box by The Crofts
+          1	Regaby
+          1	Regaby Mooar
+          2	Regaby Road West
+          1	Regaby Veg
+          1	Regency Hotel
+          1	Regency Travel
+          1	Regent House
+          4	Regent Street
+          1	Regent Street Post Office
+          1	Reginald Close
+          1	Renscault Cottage
+          1	Renscault Farm
+          1	Renshent
+          1	Rest and be Thankful
+          1	Revival Fashion
+          1	Reynolds & Turner
+          1	Rheabybeg
+          1	Rheabymoar
+          1	Rheast
+          4	Rheast Barrule
+          1	Rheast Bridson
+          2	Rheast Lane
+          2	Rheast Mooar Avenue
+          1	Rheast Mooar Close
+          2	Rheast Mooar Lane
+          1	Rheayrt ny Marrey
+          2	Rheligh
+          1	Rhenab
+          1	Rhenass Farm
+          1	Rhenass Waterfall
+          1	Rhencullen
+          1	Rhencullen House
+          1	Rhendhoo Farm
+          1	Rhennie Farm
+          1	Rhenny Moar
+          1	Rhenny Plantation
+          3	Rhenwyllan Close
+          1	Rhowin (Hibernia) Road
+          2	Richmond Close
+          1	Richmond Court
+          2	Richmond Grove
+          1	Richmond Hill
+          1	Richmond Road
+          1	Richmond Travel
+          1	Richmonnd Grove
+          1	Ridgeway Road
+          3	Ridgeway Street
+          3	River Dhoo
+          4	River Douglas
+         13	River Glass
+          1	River Island
+          4	River Meadow Land
+         19	River Neb
+          1	River Vale
+          1	River Walk
+          2	Riverbank Road
+          1	Riversdale
+          2	Riverside
+          2	Riverside Ceramics
+          1	Riverside Industrial Estate
+          2	Riverside Trading Estate
+          1	Riverside Walkway
+          1	Road and Track
+          1	Road and Track Motorcycles
+          1	Road of the Greenfarm
+          2	Road of the Grey Hill
+         10	Road of the Middle Farm
+          7	Road of the Scarffe's Ridge
+          3	Road of the Shallow Ford
+          3	Road of the Tail of Rocks
+          3	Robert Cubbon Close
+          1	Robert F. Corlett Doctor of Optometry
+          2	Robert Stephen Close
+          1	Robin Lane
+          1	Robins Croft
+          1	Robinson's
+          1	Robinsons
+          1	Rockmount
+          1	Rockville
+          1	Rods 'n' Reels
+          1	Rogers Hair Salon
+          2	Rome's Crossing
+          2	Romney Wynd
+          2	Ron Smith
+          2	Ronague
+          4	Ronague Road
+          1	Ronaldsway
+          1	Ronaldsway Aircraft Building
+          1	Ronaldsway Farm
+          1	Ronaldsway Halt
+          1	Ronaldsway Industrial Estate
+          1	Rose Cottage
+          1	Rose Gardens
+          4	Rosebank
+          1	Rosebank Court Apartments
+          1	Rosecroft
+          1	Rosedene Avenue
+          1	Rosedene Close
+          1	Rosehill Farm
+          4	Rosehill Mews
+          1	Rosemount
+          1	Rosewood Apartments
+          1	Rossborough Insurance
+          1	Round Table
+          1	Roundhouse
+          1	Route To Carraghan summit
+          2	Route to Slieau Ruy summit
+          1	Rover Ritz and Cosy Cattery
+          1	Rover's Return
+          3	Rowan Avenue
+          1	Rowan Gate
+          1	Rowany Brae
+          2	Rowany Drive
+          1	Rowany Golf Club
+          1	Rowany Golf Course
+          1	Rowany Villas
+          3	Royal Avenue
+          2	Royal Avenue West
+          1	Royal Bank of Scotland International
+          1	Royal Court
+          2	Royal Drive
+          1	Royal India
+          1	Royal Navy Surveillance Radar
+          3	Royal Terrace
+          3	Rushen
+          2	Rushen Abbey
+          1	Rushen Emergency Ambulance
+          2	Rushen Primary School
+          1	Rushen Scout and Guide Headquarters
+          1	Rushen United FC
+          1	Rushen Youth Centre
+          1	Ryehill
+          1	S & S Motors
+          1	S. & M. Harrison
+          1	SLS Optics
+          2	Saddle Mews
+          3	Saddle Road
+          1	Sadler & Vanderplank Opticians
+          1	Sailing Club
+          1	Saint Adamnan's Church
+          1	Saint Andrews
+          1	Saint Antony
+          1	Saint Antony's Church
+          1	Saint Barnabas Hill
+          1	Saint Bernards Car Rental
+          1	Saint Bridget's Church
+          1	Saint Catherine's Church
+          1	Saint Catherine's Terrace
+          4	Saint Catherines Close
+          1	Saint Catherines Drive
+          1	Saint Columba's Roman Catholic Church
+          1	Saint George's
+          1	Saint George's Walk
+          2	Saint Georges Crescent
+          1	Saint Georges Street
+          1	Saint German's Cathederal
+          1	Saint Germans Place
+          1	Saint Helier's
+          2	Saint James, Dalby
+          1	Saint John's Football Club
+          1	Saint John's Mill
+          1	Saint Johns School
+          1	Saint Joseph's Catholic Church
+          1	Saint Jude's
+          1	Saint Luke's Church
+          3	Saint Luke's to Brandywell Road
+          1	Saint Mark
+          1	Saint Marks
+          3	Saint Marks Road
+          1	Saint Mary of the Isle
+          1	Saint Mary the Virgin
+          1	Saint Mary's Church
+          1	Saint Mary's Meadow
+          1	Saint Mary's Road
+          1	Saint Mary's Roman Catholic Church
+          1	Saint Mary's Roman Catholic School
+          5	Saint Marys Glebe
+          2	Saint Marys Road
+          1	Saint Mary’s on the Harbour
+          1	Saint Michael's Chapel
+          1	Saint Michael's Isle
+          1	Saint Ninian's
+          1	Saint Ninian's High School
+          1	Saint Ninian's Road
+          1	Saint Ninians Lower School
+          3	Saint Olave's Close
+          2	Saint Parrick's View
+          1	Saint Patrick's (Jurby) Parish Church
+          1	Saint Patrick's Church
+          3	Saint Patrick's Close
+          1	Saint Patrick's Isle
+          1	Saint Paul's
+          1	Saint Paul's Hall
+          1	Saint Paul's Square
+          1	Saint Paul, Foxdale
+          2	Saint Peter's Church
+          1	Saint Peter's Church, Kirk Onchan
+          1	Saint Peter's Lane
+          1	Saint Runius Church
+          1	Saint Runius Way
+          1	Saint Sanctain
+          1	Saint Stephen Chapelry, Sulby
+          2	Saint Stephen's Meadow
+          1	Saint Thomas' Church of England School
+          1	Saint Thomas' Walk
+          1	Saint Trinian's
+          1	Salisbury Street
+          1	Salon 3
+          1	Sam Webb's
+          1	Samphire
+          1	Samuel Webb Crescent
+          1	Sandfield
+          1	Sandfield Elderly Persons Complex
+          1	Sandhouse Farm
+          1	Sandpipers
+          1	Sandringham Drive
+          1	Sandygate
+          1	Santander
+          5	Santon
+          3	Santon Burn
+          1	Santon Motel
+          2	Santon School
+          1	Sarah's Designer Flowers
+          1	Sartfell
+          1	Sartfell Plantation
+          1	Sartfell Road
+          1	Sartfield
+          1	Sartfield Farmhouse Restaurant
+          1	Sartfield Road
+          1	Savina's Secret Dance and Fitness
+          1	Savoy
+          1	Sayle Gallery
+          2	Scandia House Crossing
+          1	Scarff's Crossing Crossover
+          1	Scarffe's Crossing
+          1	Scarffe's Crossing Halt
+          1	Scarlett
+          2	Scarlett Close
+          1	Scarlett Farm
+          3	Scarlett Road
+          1	Scarlett Visitor Centre
+          1	Scholaby
+          2	School Close
+          4	School Hill Avenue
+          1	School House
+          4	School Lane
+          4	School Road
+          1	Schooner Bar
+          1	Scinscoe Farm
+          1	Scissor Sistaz
+          1	Scissors
+          1	Scoil Phurt le Moirrey
+          1	Scoill Vallajeelt
+          3	Scollag Road
+          1	Scooill Ree Gorry
+          1	Scoops Ice-Cream Parlour
+          1	Scotland
+          1	Scott Close
+          1	Scout Hut
+          2	Sea Cliff Road
+          1	Sea Cliff View
+          1	Sea Croft
+          1	Sea Front
+          1	Sea Lion Rocks
+          6	Sea Terminal
+          1	Sea View Road
+          1	Seacliff
+          3	Seafield
+          1	Seafield Avenue
+          4	Seafield Close
+          3	Seafield Crescent
+          1	Seafield Farm
+          1	Seaforth House Apartments
+          1	Seamount
+          2	Seamount Road
+          1	Seaview Hotel
+          3	Second Avenue
+          1	Securikey
+          1	Sefton Express
+          1	Selborne Drive
+          1	Selborne Road
+          1	Self Storage
+          2	Senna Road
+          1	Seven Kingdom Distillery
+          1	Seventy Seven
+          1	Sew What
+          1	Sewing & Sewing
+          1	Shamyr Hey
+          1	Shanoon Rhea
+          1	Sharragh Bane
+          1	Sharrow House
+          2	Shaw's Brow
+          1	Shellag (Cinerary Urn 1893) approx
+          1	Shellagh Vane
+          1	Shenharra
+          1	Shenondoah
+          1	Shenvalla
+          3	Shenvalley
+          1	Shimmin Wilson & Co
+          1	Shipyard Road
+          2	Shirragh Way
+          1	Shoe Zone
+          1	Shonest Farm
+          6	Shoprite
+          2	Shoprite Chalets
+          1	Shoprite Total
+          2	Shore Hotel
+         21	Shore Road
+          1	Shore Road/The Underway
+          1	Shoughlaigue-e-cain
+          2	Side mall
+          1	Signpost Corner
+          1	Silly Moos Campsite
+          1	Silly Moos Campsite Caravan
+          7	Silverburn
+          1	Silverburn Crescent
+          2	Silverburn Drive
+          1	Silverburn Farm
+          1	Silvercraigs
+          1	Silverdale
+          1	Silverdale Café and Restaurant
+          7	Silverdale Road
+          1	Simcocks Advocates
+          1	Simply Beautiful
+          1	Simpsons
+          1	Sir Norman's
+          1	Sir William Hillary
+          1	Site of Kilkillane
+          1	Site of pumping wheel
+          1	Skanco
+          1	Skeirrip
+          1	Skerrisdale Beg
+          1	Skerrisdale Moar
+          2	Skinscoe Halt
+          1	Skyhill Farm
+          1	Skyhill Keeill
+          1	Slegaby
+          1	Slieau Chiarn
+          1	Slieau Curn
+          4	Slieau Curn Park
+          1	Slieau Curn Plantation
+          2	Slieau Dhoo
+          1	Slieau Freoaghane
+          1	Slieau Lhean
+          1	Slieau Maggle
+          1	Slieau Meanagh
+          1	Slieau Mooar Plantation
+          1	Slieau Ouyr
+          1	Slieau Ree
+          2	Slieau Ruy
+          1	Slieau Whallian
+          1	Slieau Whallian Back Road
+          6	Slieau Whallian Park
+          1	Slieau Whallian Plantation
+          2	Slieau Whallian Road
+          1	Slieaumanagh
+          1	Slieumaggle Plantation
+          1	Sloc car park
+          1	Slurry Tank
+          1	Smeale Farm
+          1	Smeale Farm Cottages
+          1	Smeale Road
+          1	Smelt Memorial
+          1	Smetna Close
+          1	Smithy Corner
+          1	Snaefell
+          1	Snaefell Crescent
+          1	Snaefell House
+          1	Snaefell Mine Waterwheel
+          1	Snaefell Mountain Course
+          6	Snaefell Mountain Railway
+          1	Snaefell Mountain Railway depot
+          1	Snaefell Radio station
+          6	Snaefell Road
+          1	Snaefell Summit
+          3	Snaefell View
+          1	Snuff the Wind
+          1	Snugborough Close
+         10	Snugborough Trading Estate
+          1	Soalt Vooar I, Kerrowgarrow Farm Cottages
+          1	Soalt Vooar II, Kerrowgarrow Farm Cottages
+          1	Solomon's Corner
+          1	Solway Harvester
+          1	Solway Harvester Memorial
+          1	Somerset Road
+          1	Somerset Square
+          1	Sorting Office
+          1	Sound
+         13	Sound Road
+          1	South Barrule
+          1	South Barrule Hill Fort
+          1	South Barrule Plantation
+          1	South Barrule Quarry
+          1	South Bradda Mine
+          1	South Cape Halt
+          1	South Pier
+          1	South Promenade
+          8	South Quay
+          1	South Quay Industrial Estate
+          1	Southampton Cottage
+          1	Southampton Farn - dairy unit
+          1	Southcape Halt
+          1	Southcape Halt Shelter
+          2	Southcape Walkway
+          1	Southern 100
+          1	Southern 100 Competitor's Paddock
+          1	Southern Asia Chinese
+          1	Southern Civic Amenity Site
+          1	Southern Delivery Office
+          1	Southern Division Police Station
+          1	Southern Group Practice
+          1	Southerndown
+          2	Southlands
+          1	Southmpton Farmhouse
+          2	Spaldrick
+          3	Spaldrick Avenue
+          1	Spaldrick Cottage
+          1	Spanish Head
+          1	Spanish Head Slate Lintel Quarry
+          8	Spar
+          1	Sparks Electrical
+          1	Specsavers
+          1	Spectrum
+          1	Speke Farm
+          1	Spero
+          1	Spice
+          1	Spice of India
+          1	Spice of Isabella
+          1	Spill The Beans
+          1	Spinney Close
+          1	Splinters DIY Store
+          1	Spooyt Vane
+          1	Spring Gardens
+          1	Spring Valley Industrial Estate
+          7	Spring Valley Road
+          1	Spring Valley Terrace
+          4	Springfield Avenue
+          1	Springfield Court
+          2	Springfield Rise
+          2	Springfield Road
+          1	Springfield Terrace
+          1	Sprucewood View
+          1	Squeen Farm
+          1	Squeen Meadows
+          1	St Anthonies Grotto
+          1	St George’s Court
+          1	St Johns
+          1	St Johns Primary School
+          1	St Mary's Avenue
+          1	St Mary's Church
+          1	St Peter's Lane
+          1	St. Marks Road
+          1	St. Ninian's Lower School
+          1	Staarvey
+          1	Standard Bank
+          2	Stanley Crescent
+          1	Stanley Hotel
+          1	Stanley House
+          3	Stanley Mews
+          2	Stanley Mount
+          2	Stanley Mount East
+          1	Stanley Mount West
+          1	Stanley Place
+          3	Stanley Road
+          1	Stanley Terrace
+          1	Stansfield
+          1	Star Grill & Pizza
+          1	Star Wash
+          1	Starbucks Coffee
+          2	Station Garage
+          9	Station Park
+          1	Station Place
+         19	Station Road
+          1	Station Toad Car Park
+          2	Staward Farm
+          5	Steam Heritage Trail
+          1	Steam Packet Linkspan
+          1	Stena Lines
+          1	Stenning Place
+          4	Stevenson Way
+          1	Stile
+          1	Stockfield
+          1	Stockfield Crossroads
+          2	Stonecrop Grove
+          1	Stoneleigh
+          1	Stoney Mountain Plantation
+          1	Stoney Mountain Quarry
+          4	Stoney Road
+          2	Stowell Place
+          3	Strand Court
+          1	Strand Lane
+          5	Strand Road
+          1	Strand Shopping Centre
+          3	Strand Street
+          1	Strandhall
+          2	Strang
+          3	Strang Close
+          2	Strang Road
+          1	Strathallan Cliff
+          2	Strathallan Crescent
+          1	Strathallan Lane
+          1	Strathallan Park
+          2	Strathallan Road
+          1	Strathallan Suite
+          1	Strawberry Fields
+          1	Strawberry Meadows
+          1	Strenaby
+          1	Strix
+          1	Strix Ltd
+          1	Strooan Mooar
+          1	Strooan Ny Carlane
+          1	Strooan Ny Grogee
+          1	Strooan Ny Quill
+          1	Studio 1 Hair Design
+          1	Studio 42
+          1	Stugadoo
+          1	Sugarland Hotel
+          1	Sulbrick
+          1	Sulby
+          1	Sulby Claddagh
+          1	Sulby Community Hall
+          4	Sulby Glen Road
+          1	Sulby Methodist Church
+          1	Sulby Post Office
+          1	Sulby Primary School
+          1	Sulby Reservoir
+         22	Sulby River
+          1	Sulby Road
+          1	Sumark Avenue
+          1	Sumark Croft
+          4	Summer Hill
+          1	Summer Hill Grove
+          1	Summer Hill Place
+          4	Summerhill
+          1	Summerhill Glen
+          2	Summerland
+          1	Summerland & Derby Castle Substation
+          1	Summerland leisure centre
+          1	Summerlands Disaster Memorial
+          1	Summit Hotel
+          1	Sun 'n' Beauty Salon
+          2	Sunngingdale Drive
+          1	Sunny Bank
+          1	Sunny Croft
+          3	Sunnybank Avenue
+          2	Sunnycott Halt
+          1	Sunnycroft
+          7	Sunnydale Avenue
+          1	Sunnymeade Estate
+          1	Superdrug
+          1	Surby
+          3	Surby Road
+          1	Sure
+          1	Sure Strike
+          1	Suzanne's Flowers
+          1	Swagelok
+          1	Sweeny Todd
+          1	Sweets 'n' Treats
+          1	Swing Bridge
+          1	Swiss Chalet
+          1	Switzerland Road
+          1	Switzerland Road Gospel Hall
+          2	Sycamore Close
+          2	Sycamore Grove
+          1	Sydney Mount
+          2	Sydney Street
+          1	Synergy IT
+          1	T K Maxx
+          1	T. E. Brown Memorial Gardens
+          1	T.E. Cubbon Monumental Mason
+          1	TENT CITY OFFICE
+          1	TK Maxx
+          1	TT Access Road
+          1	TT Isle of Man
+          1	TTShirts.com
+          1	Taj Mahal
+          1	Talbot & Son
+          1	Tandoor
+          1	Tang Court
+          1	Tanroagan
+          1	Taste of India
+          1	Taubman Street
+          1	Taubman Terrace
+          1	TaylorClarke
+          1	Teare's Terrace
+          1	Telecabs
+          1	Telephone Exchange
+          1	Templar Terrace
+          1	Tenblairs
+          1	Tennis Road
+          1	Tent Road
+          1	Terence Avenue
+          1	Terrace Chippy
+          1	Terrace Chippy Diner
+          1	Tesco
+          1	Thalloo Mitchel Crossing
+          1	Thalloo Mitchel Halt
+          1	Thalloo Mitchell
+          1	Thalloo Mitchell Road
+          1	Thalloo Queen Farm
+          1	Thalloovell
+          1	The "Pet" Stop
+          1	The Abbey
+          1	The Abbey Wood
+          1	The Albert
+          1	The Alpine
+          1	The Arch
+          1	The Arches
+          2	The Ark
+          1	The Art Gallery
+          1	The Art Market
+          1	The Art Stores
+          1	The Ashton
+          1	The Avenue
+          1	The Ballanayre
+          1	The Baltic Inn
+          1	The Banks
+          1	The Barbary Coast
+          2	The Barber Shop
+          1	The Barn at Clyeen
+          1	The Bay Hotel
+          1	The Bay Room
+          1	The Beary
+          1	The Bethel Church
+          1	The Blossoms
+          1	The Boathouse
+          1	The Book Company
+          1	The Bowl
+          1	The Braaid
+          1	The Brambles
+          1	The Bridge Inn
+          1	The Bridge on the Quay
+          1	The British
+          1	The Broogh Fort
+          2	The Buchan School
+          1	The Buttery
+          1	The Caff
+          1	The Canvas Art Studio
+          2	The Cargo Centre
+          2	The Carrick
+          1	The Cashtal, Ballagawne
+          2	The Castleward Green
+          1	The Cat That
+          1	The Cat With No Tail
+          2	The Central
+          2	The Chase
+          1	The Chasms
+          3	The Cherry Walk
+          1	The Chesterhouse Hotel
+          1	The Children's Centre
+          1	The Chocolate Box
+          1	The Church Tower
+          1	The Clarum
+          1	The Cly Cur
+          2	The Co-operative
+          5	The Co-operative Food
+          1	The Co-operative food
+          1	The Colonade
+          2	The Colony
+          1	The Commercial
+          1	The Compass, Dental Surgery
+          1	The Convenience Shopping Centre
+         14	The Cooil Road
+          1	The Copyshop
+          1	The Corner Cafe
+          2	The Corony
+          1	The Cosmetic Medical Centre
+          1	The Courthouse
+          1	The Courtyard
+          1	The Creative Shop
+          1	The Creek Inn
+          1	The Creg
+          4	The Crescent
+          1	The Crescent East
+          1	The Crescent West
+          5	The Crofts
+          2	The Cronk
+          1	The Cronk Ballaugh
+          1	The Crosby
+          1	The Curragh
+          1	The Curraghs Wildlife Park
+          1	The Devonian
+          1	The Dhoon
+          1	The Dolly Blue
+          3	The Downs
+          1	The Edelweiss
+          1	The Edward Loades Buildings
+          1	The Empress
+          1	The Esplanade
+          2	The Fairway
+          1	The Falcons Nest Hotel
+          1	The Farmers Arms
+          1	The Fish House
+          1	The Floor Store
+          1	The Foot Health Clinic
+          1	The Gallery
+          1	The Garey
+          1	The Garey Crossover
+          1	The Garey Halt
+          1	The Garth
+          1	The Gate
+          1	The Gate House
+          1	The Glades
+          1	The Good Health Store
+          1	The Grange
+          1	The Great Laxey Mine Railway
+          1	The Grianagh
+          1	The Grosvenor
+          3	The Grove
+          1	The Groves
+          1	The Guilcaugh
+          1	The Gym
+          1	The Hairpin
+          1	The Hairport & Beauty Salon
+          1	The Haven
+          1	The Hawthorn
+          1	The Heron
+          1	The Hibernian
+          1	The Highwayman
+          1	The Hoggery
+          1	The Hop Garden
+          1	The Hope
+          2	The Howe
+          1	The Howe Pumping Station
+          1	The Italian Job
+          1	The Jobcentre
+          1	The Kew
+          1	The Laptop Shop
+          1	The Laundry Room
+          9	The Laurels
+          1	The Leece Museum
+          5	The Level
+          1	The Lhargan
+          1	The Lhen
+          1	The Lhergy
+          2	The Links
+          1	The Lunch Box
+          1	The Lynague
+          1	The Manor
+          1	The Mansion
+          1	The Manx Legion
+          1	The Market Hall
+          1	The Marketplace
+          7	The Meadows
+          1	The Meat Boutique & Delicatessen
+          1	The Milestone
+          1	The Mill
+          1	The Millenium Wood
+          1	The Mines
+          1	The Mines House
+          1	The Mitre
+          2	The Monks' Road
+          2	The Mount
+          1	The Nail Lounge
+          1	The Nappin
+          1	The Nautical Museum
+          1	The Nook
+          1	The Observatory
+          1	The Old Bonded Warehouse
+          1	The Old Church
+          1	The Old Courthouse
+          1	The Old Grammar School
+          1	The Old Parsonage
+          1	The Old School House
+          1	The Old Stable
+          3	The Old Vicarage
+          1	The Outback
+          5	The Paddocks
+          3	The Parade
+          1	The Parish Church of S. Olave. North Ramsey
+          1	The Parish Church of Saint Matthew
+          1	The Parish Church of Saint Thomas
+          3	The Park
+          1	The Peveril
+          1	The Phoenix
+          1	The Picnic Basket
+          1	The Pines
+          1	The Pinewood
+          1	The Point
+          7	The Promenade
+          1	The Prospect Hotel
+          1	The Puddle
+          1	The Quarterbridge
+          4	The Quay
+          1	The Quay substation
+          1	The Ragatt
+          1	The Railway Station
+          1	The Ramsey Trawlerman
+          1	The Raven
+          1	The Rheast
+          1	The Rhyne
+          1	The Road to the Mount
+          3	The Rocky Road
+          1	The Roost
+          1	The Rosemount
+          1	The Rowans
+          1	The Royal
+          1	The Royal British Legion
+          1	The Royal Chapel of Saint John the Baptist
+          1	The Royal George
+          1	The Rule
+          1	The Saddle Inn
+          1	The Sawmill
+          1	The Sefton
+          1	The Shed
+          1	The Ship Inn
+          1	The Shore
+          1	The Sidings
+          1	The Skoryn
+          1	The Sloping Road
+          1	The Smelt
+          1	The Smithy
+          1	The Snug
+          1	The Speaker's Garden
+          1	The Spectrum
+          1	The Stable at Glendown Farm
+          1	The Stables
+          2	The Stack
+          1	The Station
+          2	The Steps
+          1	The Sugarloaf
+          1	The Sulby Glen Hotel
+          1	The Swan
+          1	The Swiss Chalet
+          1	The Switchback
+          2	The Sycamores
+          1	The Tailor's Shop
+          1	The Tap Room
+          1	The Tardis
+          1	The Tea Junction
+          1	The Terminus Tavern
+          1	The Thirsty Pigeon
+          1	The Threshold
+          1	The Tiffin Tea Rooms
+          1	The Tongue
+          1	The Town House
+          1	The Trafalgar
+          1	The Tram Junction Shop
+          1	The Union
+          1	The VIP Store
+          1	The Victoria Mall of Ramsey
+          1	The Victoria Tavern
+          1	The Views Cottage
+          1	The Viking
+          1	The Village Cafe
+          1	The Village Pharmacy
+          1	The Vineyard
+          1	The Vollan
+          1	The Warren
+          1	The Waterfall Hotel
+          1	The Weaver's House
+          1	The Well Cafe
+          1	The Whistle Stop Coffee Shop
+          1	The White Lady
+          1	The Whitestone
+          1	The Willows
+          1	The Wine Bar
+          1	The Wine Cellar
+          1	The Woodbourne
+          1	The co-operative
+          1	Therhaa
+          1	Thie Ain
+          1	Thie Bee
+          1	Thie Meanagh
+          1	Thie Shielin
+          1	Thie y Ribbeyder
+          2	Third Avenue
+          2	Thirlmere Avenue
+          1	Thirtle Bridge
+          1	Tholt-e-Will Glen
+          1	Tholt-e-Will Plantation
+          1	Thomas Cook
+          1	Thomas Keig Lane
+          2	Thomas Keig Road
+          2	Thomas Street
+          1	Thompson Travel
+          3	Thornhill Close
+          5	Thornhill Park
+          1	Thornton Avenue
+          1	Thorntons
+          2	Thorny Road
+          1	Thousla Rock
+          1	Thurot Cottage
+          1	Thurot Cottage Road
+          1	Tia's Tearooms
+          1	Tiddley Winks Nursery Scool
+          1	Tinkers Cottage
+          3	Tip
+          1	To a little bridge
+          1	To summit of Slieau Freoaghane
+          1	Tommy Leonard Motorcycles
+          1	Top Banana
+          1	Top Of Yard Office
+          1	Topman
+          1	Topshop
+          1	Tosaby Road
+          1	Total
+          1	Totally Wicked
+          1	Tourist Trophy course start line
+          1	Tower Buffet & Restaurant
+          1	Tower House
+          1	Tower Insurance
+          3	Tower Road
+          1	Tower of Refuge
+          2	Town Hall
+          1	Town Pizza
+          1	Town Square
+          1	Toymaster
+          1	Tracey Bell
+          1	Tracy Bell Dental
+          1	Trade Distribution
+          1	Traders
+          1	Trafalgar Hotel
+          1	Trafalgar Memorial
+          1	Traie Meanagh Drive
+          2	Tramman Park
+          1	Tramman Rise
+          1	Tramway Stables
+          1	Transfer of Care (Discharge) Coordinator; Neurology Nurse S
+          1	Travel World Ramsey
+          1	Trend
+          1	Trinity Church
+          1	Trinity Methodist Church
+          1	Trollaby Farm
+          3	Trollaby Lane
+          1	Trollah Farm
+          2	Tromode Close
+          1	Tromode Estate
+          2	Tromode Green
+          1	Tromode Heights
+          4	Tromode Park
+          5	Tromode Road
+          1	Tromode Woods
+          1	Troutlodge Isle of Man
+          2	Truggan Close
+          1	Truggan Road
+          1	Tuck Inn
+          1	Tuckmill
+          1	Turkeyland Quarry
+          2	Turnberry Avenue
+          1	Twenty One Centre
+          2	Tynwald
+          8	Tynwald Close
+          1	Tynwald Grove
+          1	Tynwald Hill
+          1	Tynwald Hill Inn
+          1	Tynwald House Apartments
+          1	Tynwald Library
+          1	Tynwald Mills
+          1	Tynwald National Park
+          4	Tynwald Road
+          2	Tynwald Street
+          1	Tynwald View
+          1	Tyre Mann
+          1	UK-Ireland Interconnector
+          1	UK-Ireland Interconnector 2 (IC2)
+          2	Union Mills
+          1	Unite The Union
+          1	United Kingdom
+          1	University College
+          1	Unknown
+          1	Up & Running
+          1	Upper Ballachrink
+          1	Upper Ballaghennie
+          1	Upper Ballagrawe
+          2	Upper Billown
+          1	Upper Church Street
+          1	Upper Cordeman Farm
+          1	Upper Cronk Orry
+          1	Upper Derby Castle Crossover
+          1	Upper Douglas Cable Tramway
+          1	Upper Duke's Road
+          1	Upper Howe Farm
+          1	Upper Lambfell
+          1	Upper Lhergydhoo
+          1	Upper Lhergyvreck
+          1	Upper Light
+          1	Upper Rencell
+          1	Upper Scard
+          1	Upper Scard Holiday Cottages
+          1	Upper Sulby
+          1	Upper Tosaby
+          1	Urban Chaos
+          1	Urley Avenue
+          1	Urley Path
+          1	Urley Walk
+          1	Utopia Hair Care
+          1	Vaaish Moar Farm
+          1	Vacant
+          1	Vacant (old Post Office)
+          1	Vacant Police Station
+          1	Vaish Veg
+          1	Vanity Fur
+          1	Vehicle & Driving Test Centre
+          1	Venture Centre
+          1	Vernon Road
+          2	Vicarage Close
+          5	Vicarage Mews
+          9	Vicarage Park
+         14	Vicarage Road
+          1	Vicarage Wall Crossover
+          3	Victoria Avenue
+          1	Victoria Court
+          1	Victoria Crescent
+          1	Victoria House Nursery
+          2	Victoria Park
+          1	Victoria Pier
+          1	Victoria Place
+         13	Victoria Road
+          1	Victoria Road Primary School
+          1	Victoria Square
+          4	Victoria Street
+          2	Victoria Terrace
+          2	Viking Close
+          2	Viking Hill
+          1	Viking Road
+          1	Villa Gaiety
+          2	Villa Marina
+          1	Villa Marina Arcade
+          1	Villa Marina Gardens
+          1	Villa Marina Tower
+          1	Village Tea Rooms
+          1	Village Walk
+          1	Village Walk Health Centre
+          1	Village Walk Site Manager
+          1	Villier's Lane
+          1	Vino
+          1	Vintage Living
+          1	Virginia Farm
+          1	Visitors
+          2	Vollan Close
+          1	Vollan Crescent
+          2	WHSmith
+          1	Wagan Lane
+          1	Walberry
+          1	Waldick Hotel
+          1	Wallberry Hill
+          3	Wallberry Mews
+          1	Wallis
+          1	Walpole Avenue
+          1	Walpole Close
+          1	Walpole Drive
+          2	Walpole Drive Halt
+          3	Walpole Road
+          1	Waltons Digital World
+          1	War Memorial
+          1	Ward Public Library
+          1	Warwick Tower
+          1	Washfloor Crossover
+          1	Washfloor Siding
+          1	Water Lane
+          1	Water Margin
+          2	Water Street
+          1	Water Treatment Works
+          1	Waterfall
+          1	Waterfall Barn
+          1	Waterloo Road
+          1	Waters Edge
+          1	Waterstone Coffee
+          1	Waterstone's
+          1	Watertrough Park
+          2	Watson's Crossing
+          1	Watterson Lane
+          1	Waverley Apartments
+          1	Waverley Court
+          1	Welbeck Hotel
+          2	Well Road Hill
+          1	Well Road Lane
+          1	Wellington Street
+          3	Wentworth Close
+          1	Wesley Terrace
+          1	Wessex Garage
+          2	West Apron
+          1	West Aust Farm
+          1	West Baldwin Reservoir
+          6	West Baldwin Road
+          1	West Braust Farm
+          1	West Craig
+          3	West Drive
+          2	West Hill Avenue
+          1	West Kella
+          1	West Kimmeragh Farm
+          1	West Lodge
+          1	West Nappin
+          3	West Quay
+          1	West Street
+          1	West View
+          1	West View Dental Practice
+          1	West View Park
+          2	Westbourne Drive
+          2	Westbourne Road
+          2	Western Avenue
+          1	Western Civic Amenity Site
+          1	Western HVDC Link
+          1	Western Swimming Pool
+          1	Westfield Drive
+          1	Westham Lea
+          1	Westhill Farm
+          1	Westhill Village
+          2	Westlands
+          1	Westlands Avenue
+          2	Westlands Close
+          1	Westmead
+          2	Westminster Drive
+          1	Westminster Terrace
+          1	Westmoreland Court
+          1	Westmoreland Road
+          1	Westmount
+          1	Westview Lane
+          3	Westwood
+          1	What The Fork
+          1	Wheel Hill
+          1	Whilo's
+          1	Whistles
+          1	White Gables
+          1	White Hoe Adolescent Secure Unit
+          1	White Hoe Industrial Estate
+          1	White House
+          1	White House Farm
+          1	Whitebridge
+          1	Whitebridge Avenue
+          6	Whitebridge Road
+          1	Wicklow Hills
+          1	Wilkins
+          1	Willaston
+          3	Willaston Crescent
+          1	Willaston Police Station
+          1	Willaston School
+          1	William Hill
+          4	William Proctor Court
+          2	William Proctor Lane
+          3	Willow Close
+          1	Willow Court
+          1	Willow Grove
+          1	Willow Nook Cottages
+          1	Willow Terrace
+          2	Willowbrook Gardens
+          1	Winchester Court
+          1	Windermere Avenue
+          1	Windermere Drive
+          1	Windmill House
+          1	Windsor Grove
+          2	Windsor Mount
+          3	Windsor Road
+          1	Windsor Road Post Office
+          1	Windsor Terrace
+          1	Windy Common
+          1	Windy Corner
+          1	Winerite Extra
+          2	Witches Mill
+          1	Withington Road
+          4	Wood View Court
+          3	Woodbourne Road
+          1	Woodburne Square
+          1	Woodgate Aviation
+          1	Woodlands
+          2	Woodlands Avenue
+          1	Woodlands Close
+          2	Woodlands View
+          1	Woods Family Butcher
+          2	Woodside Terrace
+          1	Woodville
+          1	Woodville Terrace
+          2	Wybourn Drive
+          3	Wybourn Grove
+          2	Wybourn View
+          1	Wychwood
+          1	Wyndham
+          5	Y Vaarny Yiarg
+          1	Ye Olde Bakery
+          1	Yit Yong House Chinese Cusine
+          1	Yn Aittin Vooar
+          3	Yn Arrey
+          1	Yn Rheash
+          1	Yn Shenn Vaaiegh
+          6	York Road
+          1	Youth and Community Centre
+          1	Zero Three Gate
+          1	amber
+          1	appointment at 21
+          1	ballellin
+          1	bedco
+          1	bedco kids
+         20	bin
+          2	bin 240l
+          1	headROOM
+          2	isleofman.com
+          1	jürgens
+          3	litter bin
+          1	propertywise.co.im
+          1	small box by The Crots
+          2	tip

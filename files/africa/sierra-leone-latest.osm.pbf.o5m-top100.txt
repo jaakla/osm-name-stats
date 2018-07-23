@@ -1,0 +1,100 @@
+        147	unknown structure
+         75	kitchen
+         55	Baoma
+         48	Mano
+         47	Nyandehun
+         41	Madina
+         40	Sembehun
+         37	farmland
+         35	Petifu
+         32	Shop
+         29	Taninahun
+         29	Stream
+         29	Magburaka Road
+         28	Gondama
+         28	Farmland
+         27	Njala
+         27	Giehun
+         26	Rokel
+         26	Peninsular Road
+         25	Petema
+         25	Periwahun
+         24	Semabu
+         24	Bendu
+         24	Bandajuma
+         23	Senehun
+         23	Moa
+         23	Konta
+         22	Old Railway Line
+         21	shop
+         21	Vaama
+         20	Navaid, Green
+         20	Levuma
+         20	Giema
+         19	Regent Road
+         19	Naiagolehun
+         19	Foya
+         19	Blama
+         18	wall
+         18	Jaluahun
+         18	Jagbwema
+         17	Tokpombu
+         17	Benduma
+         16	Pujehun
+         16	Krios
+         16	Gendema
+         16	Gberi
+         15	Yema
+         15	Tisana
+         15	Sewa
+         15	Mosque
+         15	Manjama
+         15	Mabarta Road
+         15	Lunsar-Makeni Highway
+         15	Lungi
+         15	L Quarter
+         15	Komende
+         15	Kangama
+         15	Jopowahun
+         15	District Health Management Team (DHMT)
+         15	Common Area
+         15	Common
+         14	Wari
+         14	Tolobu
+         14	School
+         14	Kumrabai
+         14	Great Scarcies
+         14	Gorahun
+         14	Benguema Army Barracks
+         13	Sesay Drive
+         13	Masiaka-Yonibama Highway
+         13	Makump
+         13	Fulawahun
+         13	Building
+         13	Bo-Kenema Highway
+         13	Bandama
+         13	Bai Bureh Road
+         12	Youyi Highway
+         12	Thomas Street
+         12	SOS Children's Village
+         12	Robis
+         12	Malema
+         12	Makona
+         12	Kpetema
+         12	Kambia
+         12	Kailahun Government Hospital
+         12	Gangama
+         12	Gandorhun
+         12	Foindu
+         12	Ecobank
+         12	Connaught Hospital
+         12	Community Mosque
+         12	Cape Road
+         12	Bumbe
+         12	Bobobu
+         11	house?
+         11	Wunde
+         11	Sengema
+         11	Rural Education Committee Primary School
+         11	Rosint
+         11	Palima

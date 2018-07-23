@@ -1,0 +1,100 @@
+       1104	BLM
+        585	State Trust
+        270	Two Medicine River
+        212	Main Street
+        203	Middle Fork Flathead River
+        197	Cut Bank Creek
+        195	Spring Creek
+        190	Jeep Trail
+        177	Gallatin River
+        165	Cabin
+        158	Frontage Road
+        146	Veterans Memorial Highway
+        137	Laurel Subdivision
+        132	Milk River Subdivision
+        131	Birch Creek
+        122	Coal Creek
+        115	Glasgow Subdivision
+        110	North Fork Flathead River
+        108	Scobey Line
+        106	Quartz Creek
+        105	2nd Street
+        104	3rd Street
+        100	Bear Creek
+         99	Saint Mary River
+         99	Badger Creek
+         98	1st Street
+         97	Trail Creek
+         95	South Fork Two Medicine River
+         92	Dry Creek
+         90	Milk River
+         89	Boulder River
+         87	Willow Creek
+         87	Access
+         86	Hettinger Subdivision
+         82	Middle Fork Milk River
+         79	Sidney Line
+         77	Residence
+         77	Blacktail Creek
+         77	Airport Road
+         76	Rock Creek Road
+         76	Madison River
+         76	Helena Subdivision
+         74	The Church of Jesus Christ of Latter-day Saints
+         73	South Fork Milk River
+         72	Hi Line Subdivision
+         72	Camas Creek
+         71	4th Street
+         70	Shed
+         70	Logging Creek
+         70	Elk Creek
+         69	Nyack Creek
+         69	Montana Subdivision
+         69	Dupuyer Creek
+         69	5th Street
+         68	Central Avenue
+         66	Camp Creek
+         65	Otter Creek
+         64	Belly River
+         62	private drive
+         62	Sheep Creek
+         62	Dry Creek Road
+         61	3rd Avenue
+         60	Saint Mary Canal
+         60	2nd Avenue
+         58	Waterton River
+         58	Kootenai River Subdivision
+         58	Canyon Creek
+         57	Forsyth Subdivision
+         57	1st Avenue
+         56	cdt
+         56	Cottonwood Creek
+         56	Antelope Creek
+         55	Bowman Creek
+         55	Beaver Creek Road
+         54	Mill Creek
+         54	Casper Subdivision
+         54	1st Avenue North
+         53	Town Pump
+         53	Tepee Creek
+         53	North Main Street
+         52	6th Street
+         51	Willow Creek Road
+         51	Strawberry Creek
+         51	River Road
+         51	Red Eagle Creek
+         51	Railroad Avenue
+         51	Meadow Creek
+         51	Great Falls Subdivision
+         51	Fish Creek
+         50	Spring Creek Road
+         50	Hay Creek
+         50	Copper City Subdivision
+         49	Montana Avenue
+         49	Boulder Creek
+         48	North Fork Cut Bank Creek
+         48	Hyalite Creek
+         48	East Fork Armell Creek
+         47	Ole Creek
+         47	Lewis and Clark Trail
+         47	Big Creek

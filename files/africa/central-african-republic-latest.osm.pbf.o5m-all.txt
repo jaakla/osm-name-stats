@@ -1,0 +1,5537 @@
+          1	(Pong)
+          1	(ex) Maison Sous Prefet
+          1	09/27
+          1	1
+          1	14712
+          1	16530
+          1	16535
+          1	16552
+          1	2
+          2	25105
+          1	41
+          1	5 Fourchettes
+          1	A E B C de Yongossaba 2
+          1	A E B E C
+          1	A E B E C Ngamana
+          1	A N E B de Kipa
+          2	ACABEF
+          1	ACABEF Antenne Ouaka
+          1	ACATBA
+          1	ACF
+          1	ACFPE
+          3	ACTED
+          1	AIM
+          1	ALCATEL
+          1	AZUR
+          1	Abagba 1
+          1	Abagba 2
+          1	Abagba 3
+          1	Abakongo
+          1	Abakoumbou
+          1	Abatoire
+          1	Abba
+          1	Abo-Boguirma
+          1	Aboghi
+          1	Abou-Ndoulaf
+          1	Abrounda
+          1	Accés a l'école
+          1	Adamaoua
+          1	Adamawa
+          1	Adamou
+          1	Adikou
+          1	Adji
+          1	Adjimnassé
+          1	Administration & Bureau du Coordinateur Médical
+          1	Administration préfecturale
+          1	Adoum-Tarkaffé
+          2	Adventiste du 7eme jour
+          1	Afrika poluso de neatingebleco
+          1	Afrotcho
+          1	Agence du MinistÃ¨re des Eaux et ForÃªts
+          1	Agissore Sec
+          1	Agoua
+          1	Agoudou Manga
+          1	Agoumai
+          2	Agoumar
+          1	Agoumar 2
+          1	Agoutcha
+          1	Aguiné
+          1	Aguissor-Seck
+          1	Aifa
+          1	Aingbando
+          2	Air France
+          1	Akondo
+          1	Akossio
+          1	Akotcha
+          1	Akourousoulba
+          1	Akpa
+          1	Akpe 1
+          1	Akpe 2
+          1	Akpe 3
+          1	Akpe 4
+          1	Akpia
+          1	Alaga 1
+          1	Alaga 2
+          1	Alama
+          1	Alayou(mbéti)
+          1	Alhamdou
+          1	Ali Baba
+          1	Alim
+          1	Alindao
+          1	Alindao Airport
+          1	Aliou
+          1	Aliwali
+          1	Allayou
+          1	Allayou 1
+          1	Allayou 2
+          1	Allayou 3
+          1	Allayou 4
+          1	Alliance Voyages
+          1	Alliance française de Bangui
+          1	Allé
+          1	Am-Groumaye
+          1	Am-Sissia 1
+          1	Am-Sissia 3
+          1	Am-Sissia 4
+          1	Amada-Gaza
+          1	Amani
+          2	Amardjédjidé
+          1	Ambade
+          1	Ambassade de Cameroun
+          2	Ambassade de Chine
+          1	Ambassade de France
+          1	Ambassade de Nigeria
+          2	Ambassade de Russie
+          2	Ambassade de Yougoslavie
+          1	Ambassade des Etats-Unis
+          1	Ambassade du Liban
+          1	Ambassade du Republic du Congo
+          1	Ambassade du Tchad
+          1	Ambassilo
+          1	Amdaga 1
+          1	Amdaga 2
+          1	Amdaga 3
+          1	Amdaga 4
+          1	Aminagou
+          1	Amitié Sainte Famille
+          1	Anam
+          1	Ancien Bambelo
+          1	Andayé
+          1	Andjitolakri
+          1	Andjitoyo
+          1	Andjou
+          1	Aneb
+          1	Angara
+          1	Angara-kete
+          1	Angato 1
+          2	Angato 2
+          2	Angato 3
+          1	Ango
+          1	Angora
+          1	Aou
+          6	Aoukalé
+          1	Aouya
+          1	Apostolique
+          1	Apostolique 01
+          1	Apostolique De Bandougou1
+          1	Archévéché St Paul
+          1	Ardeb Safra
+          1	Ardes Safra
+          1	Ardéba
+          1	Aregue
+          1	Arindi
+          1	Army
+          1	Artisans
+          1	Artémis
+          1	Asa
+          1	Asoulémaka
+          1	Assa
+          1	Assana
+          1	Assemblee Chretienne Du Message Du Temps De La Fin
+          2	Assemblée Nationale
+          1	Atakosi
+          2	Atongo
+          1	Auberge
+          1	Auberge Angoubas
+          1	Auberge Bossa
+          1	Auberge Makumba
+          1	Auberge Pepe Bakouma
+          1	Auberge Residence Saimo "Diva"
+          7	Avenue Barthélemy Boganda
+          1	Avenue Monseigneur Grandin
+          4	Avenue de France
+          2	Avenue de Normandie
+          1	Avenue de l'Industrie
+          1	Avenue de l'Indépendance
+          1	Avenue de la Victoire
+          5	Avenue des Martyrs
+          3	Avenue du Colonel Conus
+          1	Avenue du Président Mobutu
+          1	Avenue du Tchad
+          1	Avindi
+          1	Avocat
+          1	Awalawa
+          1	Awatche
+          1	Axe Gbilingui O1
+          1	Axe Ndanda
+          1	Axe Ngaragba
+          1	Axe Sigbololo
+          1	Ayeba
+          1	Ayérokpo
+          1	Azande Plateau
+          1	Azené
+          1	Aérodrome de Bomassa
+          1	Aéroport International de Bangui M'Poko
+          1	Aéroport de Berbérati
+          1	Aéroport de Rafaï
+          1	Aéroport de Zémio
+          1	Aïngounda
+          1	BEAC
+          2	BEAL
+          1	BSIC
+          1	BUREAU ACF
+          2	Baba
+          1	Babadja
+          1	Babaka I
+          1	Babala
+          1	Babassoua
+          2	Babaza
+          1	Babolo
+          1	Babondo
+          1	Baboro
+          1	Baboudou
+          1	Baboungue
+          1	Babua
+          1	Bac Ouara
+          1	Bac-Lim
+          1	Bacham-Sher
+          1	Bachama 1
+          1	Bachama 2
+          1	Bachama 3
+          1	Bachama 4
+          1	Bachama 5
+          1	Bachama Mouraye 1
+          1	Bachama Mouroye
+          1	Bachama Mouroye 2
+          5	Bada
+          1	Badakou
+          1	Badali
+          1	Badama
+          1	Badane
+          1	Badawangue
+          1	Badi
+          1	Badia
+          1	Badion
+          2	Badja
+          1	Badjianda
+          1	Badjoli
+          1	Badjoliboto
+          1	Badok
+          1	Badokwa
+          1	Badoli
+          1	Badounali
+          1	Badza
+          1	Badé
+          1	Baele
+          1	Bafatoro
+          1	Bafio
+          1	Bafondo
+          1	Baga
+          1	Bagandou
+          1	Bagari
+          1	Bagawa
+          1	Bagaza-Kako
+          1	Bagbara
+          1	Bagboula
+          1	Bagnon
+          1	Bagnéré
+          2	Bago
+          1	Bagoro
+          1	Bagoro 2
+          1	Bagota
+          1	Baguela
+          1	Baguini
+          1	Bah-Bessar
+          1	Bahamo
+          1	Bahoyo
+         14	Bahr Aouk
+         17	Bahr Kameur
+          1	Bahr Sara
+          1	Bai
+          1	Baipo
+          2	Bak Niakari
+          2	Baka
+          2	Bakaba
+          1	Bakala
+          1	Bakandja
+          1	Bakanga
+          1	Bakingi
+          1	Bakombia
+          2	Bakoua
+          1	Bakouma
+          1	Bakouma Airport
+          1	Bakouma Centre de Santé
+          1	Bakouma, Les Abbes
+          1	Bakouma, Les Soeur
+          1	Bakouya
+          1	Bakuludu
+          1	Bakundudanga
+          1	Bakéléssapo
+          1	Balaba
+          1	Balahanda
+          1	Balalou
+          1	Balamba
+          1	Balanga
+          1	Balangba 2
+          1	Balango-Gbilinga
+          1	Balangoborgo
+          1	Balao
+          2	Baldi
+          3	Balego
+          1	Balembe
+          1	Bali-Fondo
+          2	Balikengué
+          1	Balingui
+          1	Balinguini
+          2	Baloua
+          1	Baloudou
+          1	Balteze
+          1	Balégbi 1
+          1	Balégbi 2
+          1	Baléka
+          1	Baléngogré
+          2	Bama
+          1	Bamado
+          1	Bamae
+          1	Bamag
+          1	Bamara
+          1	Bamara Kazai
+          1	Bamara-Kassai
+          1	Bamassara
+          1	Bamatra
+          2	Bamba
+          1	Bambala
+          1	Bambara
+          1	Bambarassa
+          1	Bambari
+          1	Bambari Airport
+          1	Bambelo
+          1	Bambenga
+          1	Bambia
+          1	Bambio
+          2	Bambouti
+          1	Bambouti Airport
+          1	Bamboyo
+         13	Bamingui
+          1	Bamingui basin (Chari)
+          2	Bamingui-Bangoran
+          1	Bamou
+          1	Bana-Dobe
+          1	Banabongo
+          1	Banan
+          1	Banangui
+          1	Banbgi
+          1	Banbito
+          5	Banda
+          1	Banda 2
+          1	Bandaboua
+          1	Bandagoli
+          1	Bandaka
+          2	Bandakpa
+          1	Bandani
+          1	Bandasi
+          1	Bandassi
+          1	Bandengué
+          1	Bandi
+          1	Bandi-Rive
+          1	Banding
+          1	Bandja
+          1	Bandjiro
+          1	Bandona
+          1	Bandoro
+          1	Bandoro Keté
+          1	Bandoufou
+          1	Bandougou
+          1	Bandé
+          1	Banengé
+          1	Bang
+          4	Banga
+          1	Banga 1
+          1	Banga 2
+          1	Bangaladeke
+          1	Bangaloko
+          1	Bangalu
+          1	Bangango
+          1	Banganzi
+          1	Banganzé
+          1	Bangao
+          1	Bangasou
+          1	Bangassou
+          1	Bangassou Airport
+          1	Bangassou Issa
+          1	Bangassou-Weigbo
+          1	Bangato
+          1	Bangay
+          2	Bangba
+          1	Bangba-Balingou
+          1	Bangbali
+          1	Bangbata
+          1	Bangbi II
+          4	Bango
+          1	Bangobo
+          1	Bangola
+          1	Bangondi
+          8	Bangoran
+          1	Bangoto
+          1	Bangoua
+          1	Bangowen
+          1	Banguera
+          3	Bangui
+          1	Bangui Int
+         28	Bangui Ketté
+          1	Bangui Kpoka
+          1	Bangui MPoko
+          2	Bangui Plage
+          1	Bangui-Banda
+          1	Banguidji
+          1	Banguifoutoula
+          1	Banguila
+          1	Banguinda
+          1	Banguiville
+          1	Bangué-Soulier
+          1	Banguémé
+          2	Bani
+          1	Bania
+          1	Banim
+          1	Banima
+          1	Banque Central de la Répubique Centraficaine
+          1	Banyao
+          1	Banyélé Zimbala
+          1	Banza 1
+          1	Banza 2
+          1	Banziti
+          1	Banzoum
+          1	Bao
+          2	Baoro
+          1	Baoulé-Basso
+          2	Bapoli
+          1	Baptiste Emmanuel
+          1	Bar Vatican
+          2	Bara
+          1	Baraima
+          1	Barama
+          1	Barama / Batama
+          1	Barassi
+          1	Bardé
+          1	Bargaza-Gbinza
+          1	Baringala
+          1	Barka Bongo
+          1	Barka-Basso
+          1	Barogo
+          1	Baroua
+          1	Barrage de Mobayi-Mbongo
+          1	Barthelmy Boganda
+          1	Bas-Uele
+          1	Base Résidentielle des Prêtres Catholiques
+          1	Basongo
+          1	Bassangai 1
+          1	Bassanguia
+          3	Basse-Kotto
+          1	Bassigbiri
+          1	Bassio
+          1	Basso
+          1	Basso-Kinga
+          2	Bata
+          1	Batanga
+          1	Batangafo
+          1	Batangafo Airport
+          1	Batibla
+          2	Batimbilika
+          1	Batobadja
+          1	Batouri
+          1	Batéré Samba
+          1	Bavara
+          1	Baw
+          1	Bawi
+          1	Bawi II
+          2	Baya
+          1	Bayama
+          1	Bayanga
+          1	Bayanga-Bodé
+          1	Bayanga-Didi
+          1	Bayanga-Kadei
+          1	Bayere
+          1	Bayiri-Ousmane
+          1	Bazoli
+          1	Bazoua
+          1	Bazouma
+          7	Baïdu
+          2	Bea
+          1	Bea-Aoussa
+          1	Beadama
+          1	Beakoumbo 5
+          1	Bebaoyo 1
+          1	Bebaoyo 2
+          1	Bebelem 1
+          1	Bebelem 2
+          1	Bebenguere 1
+          1	Bebenguere 2
+          1	Bebogda
+          1	Bebolo
+          1	Bebounda
+          1	Beboura
+          1	Bebouzawe
+          1	Bebouzoue
+          1	Beboy
+          1	Beboy 2
+          1	Beboy 3
+          1	Beby
+          1	Becondjo
+          1	Bedam-City
+          1	Bedamara
+          1	Bedamara II
+          1	Bedaya 2
+          1	Bede-Bobaye
+          1	Bedegbe
+          1	Bedegue
+          1	Bedere
+          1	Bedobake
+          1	Bedondili
+          1	Bedoua
+          1	Bedoua 1
+          1	Bedoua 2
+          1	Bedy
+          1	Begbaranga
+          1	Bego
+          1	Begomi
+          1	Begone
+          1	Begorbo
+          5	Begoue
+          1	Begouladi 3
+          1	Beh
+          1	Behili
+          1	Behili II
+          2	Beina
+          1	Beina-Doyemon
+          1	Bekadan
+          1	Bekadon 2
+          1	Bekaie
+          1	Bekia
+          1	Bekinga
+          1	Bekobia
+          1	Bekondjo
+          1	Bekonninga
+          1	Bekoro
+          1	Bekoro-Mission
+          1	Bekouna
+          1	Bele
+          1	Bele III
+          1	Belekombo
+          1	Belge
+          1	Belissambe
+          1	Belke
+          1	Belle Vie
+          1	Bellevue
+          1	Beloko
+          1	Belou
+          1	Beltonou 1
+          1	Beltonou II
+          1	Belé
+          1	Bemack-Sara
+          1	Bemaide
+          1	Bemakoro
+          1	Bemal 2
+          2	Bemandjingai
+          1	Bemankoua
+          1	Bembaidania
+          1	Bembaya 1
+          1	Bembaya 2
+          1	Bembe
+          1	Bembere
+          1	Bembo
+          1	Bembor 3
+          1	Bemouli
+          1	Benanh 1
+          1	Benanh 2
+          1	Benankor
+          1	Bendjangala
+          1	Bendongé
+          1	Bendou
+          1	Bendou-Moundou
+          2	Bendouba
+          1	Benerme
+          1	Bengamoundou
+          1	Bengatoko
+          1	Bengomar 1
+          1	Bengor
+          1	Bengues
+          1	Beni
+          1	Benine
+          1	Benine 1
+          1	Benine 2
+          1	Beninga
+          1	Benodjile
+          1	Benzvi
+          1	Beoungou
+          1	Bepal
+          1	Bepikasse
+          1	Bera-Boyere
+          2	Berbérati
+          1	Bereme
+          3	Bertoua-Garoua-Boulai
+          1	Besaledokou
+          1	Bessan
+          1	Bessantoa
+          1	Bessar
+          1	Besse
+          1	Besson
+          1	Beta 1
+          1	Beta 2
+          1	Betame
+          1	Betara
+          1	Betazi
+          1	Betein
+          1	Betel
+          1	Beteon 2
+          1	Betobainda I
+          1	Betobouinda
+          2	Betoko
+          1	Betoko 2
+          3	Betokomia
+          1	Bewiti
+          1	Beya
+          1	Beyele
+          1	Beyeré
+          1	Bezanwesse
+          1	Bezere
+          1	Bi
+          1	Bia
+          1	Biade
+          1	Biaka
+          1	Biami
+          1	Bianga
+          1	Bikoula
+          1	Bikouma
+          1	Bilakare
+          1	Bilengo
+          1	Bili
+          1	Biliengo
+          1	Bilio
+          1	Bilsem
+          2	Bimba
+          2	Bimbbi
+          2	Bimbo
+          1	Bimbélou
+          1	Bimo
+          1	Binda
+          1	Binengue
+          1	Bingakola
+          1	Binguede
+          1	Binguibanda
+          1	Binguimalé
+          1	Binguinendji
+          1	Binoumbi
+          1	Bir Matar
+          1	Bir-Batouma Moussa
+          3	Birao
+          1	Birao Airport
+          1	Birini
+          1	Bissangai
+          1	Bissango
+          1	Bissikibou
+          1	Bissingale
+          1	Bissio
+          1	Bissoula
+          1	Bitillifoundi
+          1	Bitoye?
+          1	Blakadja
+          1	Bloc opératoire
+          1	Blébanda
+          1	Bo
+          1	Boaka
+          1	Boakana
+          1	Boalere
+          2	Boali
+          1	Boali I Hydroelectric Power Plant
+          2	Boali falls
+          1	Boambélé
+          1	Boan
+          1	Boanga
+          1	Boani 1
+          1	Boaya
+          1	Bobabissa
+          1	Bobai-Kota
+          1	Bobakada
+          1	Bobandio
+          1	Bobandje
+          1	Bobandoro II
+          1	Bobanga
+          1	Bobangui
+          1	Bobanza
+          1	Bobara
+          1	Bobassa I
+          1	Bobassa II
+          1	Bobeke
+          1	Bobera
+          1	Bobere
+          1	Bobi
+          1	Bobili
+          2	Bobo
+          1	Bobolo
+          1	Bobongo
+          1	Boboua
+          1	Bobéti
+          1	Bocada
+          2	Bocaranga
+          1	Bocaranga 3
+          2	Boda
+          1	Bodala
+          1	Bodali
+          1	Bodalo 2
+          1	Bodanga
+          1	Bodanga II
+          2	Bodangui
+          1	Bodayo
+          1	Bode
+          1	Bodea
+          1	Bodengue
+          1	Bodere
+          1	Bodiki
+          1	Boding-Mon
+          1	Bodo
+          1	Bodo-Gombo
+          1	Bodoko 1
+          1	Bodole
+          1	Bodoli
+          1	Bodongofio
+          1	Bodoni
+          1	Bodore-Gassa
+          1	Bodoro
+          1	Bodouk
+          1	Bodoukpo
+          1	Bodoupa
+          1	Bodoupa II
+          1	Bodoupoua
+          1	Bodoué
+          1	Bodro
+          1	Boduna
+          1	Bodé
+          1	Bofango
+          1	Bofidoua
+          1	Bofile
+          1	Bofiota
+          1	Bofoui 2
+          1	Boféré
+          1	Bogala
+          1	Bogali 2
+          1	Bogama 1
+          1	Bogama 2
+          1	Bogang 3
+          1	Bogardou
+          1	Bogassa
+          1	Bogate
+          1	Bogaye
+          1	Bogba-Kete
+          1	Bogban
+          2	Bogbara
+          1	Bogbara 2
+          2	Bogbatoyo
+          1	Bogbaté
+          1	Bogbaya 1
+          1	Bogbayo
+          2	Bogbaza
+          1	Bogbom
+          2	Bogboto
+          1	Bogboua
+          1	Bogboyo
+          1	Bogdabé
+          1	Bogoin 1
+          1	Bogoini
+          1	Bogombé
+          1	Bogon
+          1	Bogone
+          1	Bogong 2
+          2	Bogoro
+          1	Bogoum
+          1	Bogouna
+          1	Bogourou
+          1	Boguela
+          1	Boguene
+          4	Boguila
+          1	Boguiti
+          1	Bogué
+          1	Boh
+          1	Boho
+          1	Bohong
+          1	Bohéré
+          2	Bokada
+          1	Bokaiwa
+          1	Bokambaye
+          1	Bokandi
+          1	Bokandji
+          1	Bokanga
+          1	Bokassi I
+          1	Bokassi II
+          1	Bokaya
+          1	Bokayan
+          2	Bokayanga
+          1	Bokazou
+          1	Bokaïoua
+          1	Bokengue
+          1	Bokindo
+          2	Bokini
+          1	Bokiné
+          4	Boko
+          1	Bokoba
+          1	Bokoete
+          1	Bokoin
+          2	Bokola
+          1	Bokolobo
+          1	Bokombissi
+          1	Bokomonga
+          1	Bokonfio
+          2	Bokongo
+          1	Bokongo 1
+          1	Bokongo 2
+          1	Bokote
+          1	Bokote-Sesse
+          1	Bokote-kete
+          1	Bokoudou
+          1	Bokoue
+          1	Bokouli
+          1	Bokouma
+          1	Bokoumo
+          1	Bokouté
+          1	Bokoyo
+          1	Bokoyo 2
+          1	Bokédé
+          1	Bokédé II
+          1	Bolangba
+          1	Bolara
+          1	Bolgue
+          1	Bolhom 1
+          1	Bolhom 2
+          1	Bolingué
+          1	Bollamba
+          1	Bolo
+          1	Bolo 1
+          1	Bologondjo
+          1	Bolokpaka
+          1	Bolondo
+          1	Bolowa
+          1	Bolélé
+          1	Bomanda
+          1	Bomanda 1
+          1	Bomandjokou
+          3	Bomango
+          1	Bomani
+          1	Bomantana-beti
+          1	Bomari 2
+          2	Bomassa
+          1	Bombalou
+          1	Bombara-kota
+          1	Bombi-Kéma
+          1	Bomboko
+          1	Bombong
+          1	Bombé
+          1	Bombélé
+          1	Bomentana 2
+          1	Bomia
+          1	Bomissi
+          1	Bomorotro
+          5	Bomu
+          1	Bon I
+          1	Bon II
+          1	Bon III
+          1	Bon IV
+          1	Bonabari
+          1	Bonasse 3
+          1	Bonasse-kota
+          1	Bondamba
+          1	Bondaro
+          1	Bondi-Kema
+          2	Bondia
+          1	Bondiba
+          1	Bondili
+          1	Bondio
+          1	Bondjio
+          1	Bondjomo
+          2	Bondo
+          1	Bondodi
+          1	Bondogé
+          1	Bondokpo
+          1	Bondoro-Kota
+          1	Bondoui
+          1	Bondélé
+          1	Bongam
+          1	Bongan
+          1	Bongangolo
+          1	Bonganou
+          1	Bongbotto
+          2	Bongo
+          1	Bongo Massif
+          1	Bongondofio
+          2	Bongono
+          1	Bongonon
+          1	Bongossi
+          1	Bongoto
+         16	Bongou
+          1	Bonguere
+          1	Bongueté
+          1	Bonguim
+          1	Bonguélé
+          1	Boningui
+          1	Bonini
+          1	Bopassi
+          1	Boraka
+         20	Border Central African Republic - Cameroon
+          1	Border Congo - Cameroon
+          3	Border Congo - Central African Republic
+          4	Border Ouham - Ouham-Pendé
+          6	Border South Sudan - Central African Republic
+          1	Bordou
+          1	Boresse
+          2	Bornou
+          1	Boro
+          1	Borobou
+          1	Borodoul
+          1	Borokota
+          2	Borom
+          1	Boromata
+          1	Borondo
+          1	Boroto
+          1	Borro
+          1	Borunu
+          1	Bosegbieni
+          1	Boso-Bwamongo
+          1	Bosongo I
+          1	Bossa
+          1	Bossabina
+          1	Bossabina 2
+          1	Bossabina Sokorta
+          1	Bossakou
+          1	Bossanda
+          1	Bossangoa
+          1	Bossangoa Airport
+          1	Bossao
+          1	Bossaro
+          1	Bosseke
+          2	Bosseli
+          1	Bossembali-Ngata
+          1	Bossembouio
+          1	Bossembélé
+          1	Bossembélé Airport
+          1	Bossemforo
+          1	Bossemptele
+          1	Bossemtele I
+          1	Bossewi
+          1	Bossio
+          1	Bossobo
+          1	Bossokpa
+          1	Bossongo II
+          1	Bossongo-Manoeuvres
+          1	Bossouamo
+          1	Bossoupé
+          1	Bossé
+          1	Bosélé
+          1	Botambi
+          1	Botcho
+          1	Boto
+          1	Botoguili
+          1	Botoko
+          1	Botokom
+          2	Botombo
+          1	Botoum
+          1	Botto
+          1	Botéké
+          1	Bouabouziki
+          1	Bouali
+          1	Bouambèm
+          1	Bouan
+          1	Bouani
+          1	Bouani 1
+          1	Bouansouma
+          2	Bouar
+          1	Bouar Airport
+          2	Bouassi
+          1	Bouassè
+          1	Bouba Yandim
+          1	Boubalia
+          2	Boubou
+          1	Bouboua
+          1	Bouboui
+          2	Bouca
+          1	Bouca Airport
+          1	Boudalou I
+          1	Boudou
+          1	Boudoumba
+          1	Boudoye
+          1	Boudélé
+          1	Bouforo
+          1	Bouforo Croisement
+          1	Boufoui
+          1	Bouga
+          1	Bougang I
+          1	Bougaye 1
+          1	Bougaye 2
+          1	Bougnou
+          1	Bougoudi
+          1	Bougourou 2
+          1	Bouguenemo
+          1	Boui
+          1	Bouikombo
+          1	Boukama
+          1	Boukaya I
+          1	Boukoua
+          1	Boukoui
+          1	Boukoussou
+          1	Boukéré
+          1	Boulakaba
+          1	Boulangba
+          1	Boulevard du Général de Gaulle
+          1	Bouli
+          1	Boulo
+          1	Boulouba
+          1	Boulouba 1
+          1	Boulougba
+          1	Boulouma Fabien
+          1	Boulouvou
+          1	Bouma
+          1	Boumari II
+          1	Boumba-et-Ngoko
+          1	Boumbabia
+          1	Boumbala
+          1	Boumou
+          1	Bounana-Elevage
+          1	Bounda I
+          1	Boundara
+          1	Boundo
+          1	Boundou
+          1	Boungo 2
+          2	Boungou
+          1	Boungou 1
+          1	Boungouziti
+          1	Bounguia
+          1	Bounguilé
+          1	Boura
+          1	Bouria
+          1	Bourma
+          1	Bournou
+          1	Bouronguel
+          1	Bourouma
+          1	Boussa
+          1	Boussemba
+          1	Boutane
+          1	Boutili
+          1	Boutilé
+          1	Bouyambé
+          1	Bouyangou
+          1	Bouyara
+          1	Bouyaré
+          2	Bouyay-Yade
+          1	Bouza
+          1	Bouzou
+          1	Bouékani
+          2	Bowan
+          2	Bowara
+          1	Bowaye
+          1	Bowe
+          1	Bowili
+          1	Bowing
+          1	Bowé
+          1	Boy Rabe
+          1	Boy-Kotto
+          1	Boya
+          1	Boya 1
+          1	Boya 2
+          1	Boyabane
+          1	Boyaka
+          3	Boyali
+          1	Boyali III
+          1	Boyali Yaho
+          1	Boyama
+          1	BoyamaII
+          1	Boyanga
+          1	Boyangéné
+          1	Boyapekam
+          1	Boyaram
+          1	Boyawan Tounou
+          2	Boyele
+          1	Boymassé
+          2	Boyo
+          1	Boyokette
+          1	Boyombo
+          1	Boyongo
+          1	Bozagba
+          1	Bozako
+          1	Bozamale
+          1	Bozamou
+          2	Bozanga
+          1	Bozena
+          1	Bozinga
+          1	Boznon
+          1	Bozomson
+          3	Bozoro
+          1	Bozoro II
+          1	Bozorou
+          1	Bozoue 1
+          1	Bozoue 2
+          1	Bozoum
+          1	Bozoum Airport
+          1	Bozégui
+          1	Bozélé-Boli
+          1	Bozéré Kala
+          1	Boésé
+          1	Brazza
+          3	Bria
+          1	Bria Airport
+          1	Brigade De Recherches Et D'Investigation
+          1	Brigade des mineurs
+          1	Brinda
+          1	Broto
+          1	Bubayo
+          1	Buda
+          1	Budua
+          1	Building administratif
+          1	Bukoko
+          1	Bungia
+          1	Buraka
+          1	Bureau des hygiénistes MSF
+          1	Buru-Gangu
+          1	Bussawane
+          1	Butombige
+          1	Buvette 1050
+          1	Buvette Cecile
+          1	Buvette Deux Cocotiers
+          1	Buvette Ewaton
+          1	Buvette Gao
+          1	Buvette Gare Routiere
+          1	Buvette Hubert
+          1	Buvette Kangba Zande
+          1	Buvette Landie
+          1	Buvette Maliko Lepreu
+          1	Buvette Marche Gambo
+          1	Buvette Roger
+          1	Buvette SM
+          1	Buvette Soso
+          1	Buvette Soungayokanawe
+          1	Buvette Sous Le Manguier
+          1	Buvette Sous Les Manguers
+          1	Buvette Stanstene
+          1	Buvette Zivondou
+          1	Buvette du Pont Zero
+          1	Bwabanza
+          1	Bwadow
+          1	Bwamandele
+          1	Bwamando
+          1	Bwambonu
+          1	Bé
+          1	Béa
+          1	Bébian/Gué
+          1	Bébidjo
+          1	Bébingui
+          1	Béboura I
+          1	Béboy 1
+          1	Béda
+          1	Bédam
+          1	Bédaya
+          1	Bédinguili
+          1	Bédoua
+          1	Bégangoro I
+          1	Bégatra
+          1	Bégou
+          1	Bégouladjé
+          1	Béguila
+          1	Béguézé
+          1	Békabindé
+          1	Békadili
+          1	Békandja
+          1	Békazénan
+          1	Békota
+          1	Béla
+          1	Bélakoutou
+          1	Béle-Kété
+          1	Bélé
+          1	Bélézé
+          1	Bémakourou
+          1	Bémal
+          1	Bémandja
+          1	Bénengué
+          1	Bénga
+          1	Bétara
+          1	Bétaré-Oya
+          1	Bézomo
+          1	C E B I
+          1	C E B I 01
+          1	C E B I De Labasso Ndousse
+          1	C E B I de Inlessiolo
+          1	C E B I de Koulassi
+          1	C E E C A Ï M de Zotte
+          1	C S Mission catholique
+          1	CBCA Western Union
+          2	CCC - Centre Culturel Catholic
+          1	CDS - Centre de Santé de Sosso Nakombo
+          1	CDS - Centre de Santé de Sosso Nakombo - Sale de Consultat
+          1	CDS Vougba
+          1	CEBI - Communauté des Eglise Baptiste Centre Ville Berbera
+          1	CEBI De Mabo
+          1	CEBI De Mongo
+          1	CEBI De Ngaba
+          1	CEBI De Panza
+          1	CEBI de Bangoula
+          1	CEBI de Batimbilika
+          1	CEBI de Samba Mbaguia
+          1	CEEC
+          2	CEMAC
+          1	CFAO
+          1	CICR
+          2	COOPI
+          1	COTONAF
+          1	CPI
+          2	CRS
+          1	CS ACABEF
+          1	CS Bokini
+          1	CS Bruxelle
+          1	CS Charles Luanga
+          1	CS Lakouanga
+          1	CS Ngaragba
+          1	CS Ngoutere
+          1	CS Ngouwe
+          1	CS Saidou
+          1	CS de Bata
+          1	CS de Markounda
+          1	CS de Pierre Djongobe
+          1	CS de Taley
+          1	CSB de Bossemptele
+          1	CSU de Ngouey
+          1	CSU de Paoua
+          1	Ca-Va
+          1	Ca-Va 1
+          1	Cadastre (map centre)
+          1	Cafe Depot
+          1	Cafrina
+          1	Cakada
+          1	Cameroun
+          1	Camp 9
+          1	Camp Bangui
+          1	Camp Cafe
+          1	Camp Commercial
+          1	Camp Gendarmerie
+          1	Camp Kpabo
+          1	Camp Leclerc
+          1	Camp Nagbara
+          1	Camp Napidi
+          1	Camp Nzango
+          1	Camp de Roux
+          1	Camp des refugiés
+          1	Campement des 3 riv
+          2	Campo de Futebol
+          1	Campo de futebol
+          1	Canal Saképé
+          1	Cantonnier
+          1	Capucin
+          3	Caritas
+          2	Carnot
+          1	Carnot Airport
+          1	Carrefour
+          1	Carré Gourmand
+          2	Carré de Ngamba
+          1	Carré de Togounda
+          1	Carré-Ngamba
+          1	Catali
+          2	Catedral
+          1	Catholique
+          1	Catholique 03
+          1	Catholique De Kpingon Kpingo
+          1	Catholique De Siolo
+          1	Catholique Ngaba
+          1	Catholique St Louis De Zidron
+          1	Catholique de Sana
+          1	Catholiques De Mbalazimé
+          1	Catholiques de Bandoufou
+          1	Catholiques de Bapoli
+          1	Catholiques de Labasso Ndoussé
+          2	Cathédrale
+          1	Cathédrale Notre-Dame de l’Immaculée Conception
+          1	Cathédrale Saint Joseph
+          1	Cathédrale Saint-Antoine-de-Padoue
+          1	Cathédrale Sainte Jeanne d'Arc
+          1	Cave Omega
+          1	Cds De Yongofongo
+          1	Cellule De Priere Fabien
+          1	Cellule De Priere Joseph
+          1	Cellule de priere Daniel
+          1	Centrafrique
+          2	Centre Administratif
+          1	Centre Bocaranga
+          1	Centre Catéchétique
+          1	Centre Culturel Catholique
+          1	Centre De Sante Baptiste Cezakoba
+          1	Centre De Sante Maliko
+          1	Centre De Sante Zime Fleuve
+          1	Centre Jean 23
+          2	Centre Maternel CETAC
+          1	Centre Medicale SOS VdE|
+          1	Centre Médical Padre Pio
+          1	Centre Médical de Boguila
+          1	Centre National Hospitalier Universitaire de Bangui
+          1	Centre Pedagogique regional CPR Berberati
+          1	Centre Régional Polyvalent de Recherche
+          1	Centre Sante Mbalazime
+          1	Centre Sante Ngoulapalo
+          1	Centre Sante Zotte
+          1	Centre Scieur
+          1	Centre Ville
+          1	Centre de Formation - ONG Thabita
+          1	Centre de Promotion Feminine
+          1	Centre de Sante Banabongo Pk50 Bssou
+          1	Centre de Sante Niakari
+          1	Centre de Santé Bavara
+          1	Centre de Santé Be-ngote
+          1	Centre de Santé CRPR
+          1	Centre de Santé De Gaulle
+          2	Centre de Santé E E B
+          1	Centre de Santé E. Baptiste
+          1	Centre de Santé EEB Gamboula
+          1	Centre de Santé EEB d'Amada-Gaza
+          1	Centre de Santé Elevage
+          1	Centre de Santé Emmanuel
+          1	Centre de Santé Evangélique
+          1	Centre de Santé Guitangola
+          1	Centre de Santé Herman
+          1	Centre de Santé Jean Paul II
+          1	Centre de Santé Kabo
+          1	Centre de Santé Le Samaritain
+          1	Centre de Santé Mbotoga
+          1	Centre de Santé Ngougbia
+          1	Centre de Santé Notre-Dame de la Victoire
+          1	Centre de Santé Pende
+          1	Centre de Santé Privé EEB
+          1	Centre de Santé Sabewa
+          1	Centre de Santé Saint-Jacques
+          2	Centre de Santé Sant Francis
+          1	Centre de Santé St. Jonas
+          1	Centre de Santé Tedoa
+          1	Centre de Santé Urbain Pi
+          1	Centre de Santé Urbain de Lakouanga
+          1	Centre de Santé Urbain de Ouango Bangui
+          1	Centre de Santé Urbain des Castors
+          1	Centre de Santé d'Abba
+          1	Centre de Santé d'Amada-Gaza
+          1	Centre de Santé d'Awatche
+          1	Centre de Santé de ADECOM
+          1	Centre de Santé de Atongo
+          1	Centre de Santé de Baboua
+          1	Centre de Santé de Bakala
+          1	Centre de Santé de Balego
+          1	Centre de Santé de Balembe
+          1	Centre de Santé de Bamba
+          1	Centre de Santé de Bangao
+          1	Centre de Santé de Bania
+          1	Centre de Santé de Baoro
+          1	Centre de Santé de Barka-Basso
+          1	Centre de Santé de Batobadja
+          1	Centre de Santé de Bayanga-Didi
+          1	Centre de Santé de Bera-Boyere
+          1	Centre de Santé de Besson
+          1	Centre de Santé de Bianga
+          1	Centre de Santé de Bohong
+          1	Centre de Santé de Bokolobo
+          1	Centre de Santé de Bouca
+          1	Centre de Santé de Bounsouma
+          1	Centre de Santé de Boy-Kotto
+          1	Centre de Santé de Boyo
+          1	Centre de Santé de Cantonnier
+          1	Centre de Santé de Dissikou
+          1	Centre de Santé de Djomo
+          1	Centre de Santé de Dombia
+          1	Centre de Santé de Dédé-Mokouba
+          1	Centre de Santé de Gadzi
+          1	Centre de Santé de Gallo
+          1	Centre de Santé de Gbambia
+          1	Centre de Santé de Gbangayanga
+          1	Centre de Santé de Gbazian-Bea
+          1	Centre de Santé de Gontikiri
+          1	Centre de Santé de Gouassi 2
+          1	Centre de Santé de Ippy
+          1	Centre de Santé de Jean-C
+          1	Centre de Santé de Kambakota
+          1	Centre de Santé de Kobadja
+          1	Centre de Santé de Kouango
+          1	Centre de Santé de Kounde
+          1	Centre de Santé de Kpocte
+          1	Centre de Santé de Liwa
+          1	Centre de Santé de Lokoti
+          1	Centre de Santé de Léré
+          1	Centre de Santé de Mamvoula
+          1	Centre de Santé de Mann
+          1	Centre de Santé de Marali
+          1	Centre de Santé de Mbangou
+          1	Centre de Santé de Mbe-Gote
+          1	Centre de Santé de Mboula
+          1	Centre de Santé de Mbouli
+          1	Centre de Santé de Mbrès
+          1	Centre de Santé de Nana-Bakassa
+          1	Centre de Santé de Nandobo
+          1	Centre de Santé de Ndim
+          1	Centre de Santé de Ndjoubissi
+          1	Centre de Santé de Ndomete
+          1	Centre de Santé de Ndongue
+          1	Centre de Santé de Ngakobo
+          1	Centre de Santé de Ngambi
+          1	Centre de Santé de Ngola 100 logements
+          1	Centre de Santé de Nguia-Bouar
+          1	Centre de Santé de Niem
+          1	Centre de Santé de Noufou
+          1	Centre de Santé de Sagani
+          1	Centre de Santé de Sangbanda
+          1	Centre de Santé de Seko
+          1	Centre de Santé de Siou
+          1	Centre de Santé de Tapourou
+          1	Centre de Santé de Tedoa
+          1	Centre de Santé de Wantiguere
+          1	Centre de Santé de Yenga
+          1	Centre de Santé de Zere
+          1	Centre de Santé de Zougougbada
+          1	Centre de Santé du 2e art
+          1	Centre de Santé du Camp de Ndassima
+          1	Centre de Santé du Camp de Réfugiés Soudanais
+          1	Centre de Santé du peuple
+          1	Centre de Santé privé EEB de Bania
+          1	Centre de formation Ikpirp
+          1	Centre de formation professionnel
+          1	Centre de la Petite Enfance
+          1	Centre de santé Bagolo
+          2	Centre de santé Niakari
+          1	Centre de santé Raoul Fol
+          1	Centre de santé Saint Luc
+          1	Centre de santé Shékina
+          1	Centre de santé Urbain de Petevo
+          1	Centre de santé communautaire Cité Jean XXIII
+          1	Centre de santé scolaire et universitaire de Bangui
+          1	Centre de vaccination
+          1	Centre mère et enfants
+          1	Centre médico-social (CMS) de Bangui
+          1	Centre ville
+          1	Centre-ville
+          6	Champs experimentaux
+          1	Chancellerie du DRC
+          1	Chantier Gbaké
+          1	Chantier Iramou
+          1	Chantier Velekougo
+          1	Chapelle C E B I
+          1	Chapelle du Centre
+          2	Chari
+          1	Chari شاري
+          1	Charité
+          1	Charpente Mixte de Carnot
+          1	Chateau D'eau
+          1	Chateau d'eau
+          1	Chef Du Quartier Gologoto
+          1	Chef Du Quartier Kobo
+          1	Chef Du Quartier Yapele
+          1	Chef Du Quartier Zoambalo
+          1	Chef Maliko 2 - Mballa Jean-Pierre
+          1	Chef Omo
+          7	Chef du quartier
+          1	Chef du quartier Gabrou
+          1	Chef du quartier Kaba
+          1	Chef du quartier Kembeligne
+          1	Chef du quartier Kobo
+          1	Chef du quartier Madagringbanda
+          1	Chef du quartier Maliko1
+          1	Chef du village Nabarka
+          1	Chef du village Nakala
+          1	Chegbolo
+          1	Chenda
+          1	Chimolo
+         21	Chinko
+          1	Chouatrie Mahassada
+          1	Church
+          1	Cissi
+          1	Cité airport
+          1	Cité-Geraard
+          6	Clearing
+          1	Clinique Centrafrique Assistance Santé
+          1	Clinique Chouaib
+          1	Clinique Endjitokowo
+          1	Clinique Mangapou
+          1	Code 24
+          1	College Technic
+          1	Commissariat / Immigration
+          1	Common
+          1	Compagnie Générale de Transport en Afrique Equatoriale
+          1	Complexe Pédagogique Béthaia
+          1	Complexe Scolaire Doaka
+          1	Complexe Scolaire Na kota nguia
+          1	Complexe Scolaire Évangélique EEB
+          1	Complexe pédiatrique
+          1	Compound Acted
+          1	Compound Minusca (UN)
+          1	Congo
+          1	Cooperation De Banganzi
+          1	Cooperation De Mbalazime
+          1	Coraid
+          1	Corail
+          1	Cordaid Bocaranga
+          1	Cordaid RCA
+          1	Coton-Oubangui 1
+          1	Coton-Oubangui 2
+          1	Couloir ouvert
+          1	Cour de Cassation
+          1	Croisement Benz-vi
+          1	Croisement Ngaba
+          1	Croix Rouge Espagnol
+          1	Cruz Vermelha Francesa
+          1	Ctro
+          2	Cuisine
+          2	DRC
+          1	Daba 1
+          1	Daba 2
+          1	Dabalaa
+          1	Dabizi
+          1	Dabouli
+          1	Dabéré
+          1	Dadouk-Kota
+          1	Dafourou
+          1	Daga
+          2	Dagalou 2
+          1	Dagaza
+          1	Dagrou 2
+          1	Daha
+          1	Dahal Amlas
+          1	Dahal Hadjar 1
+          1	Dahal Mouraye
+          1	Daho 1
+          1	Dahounga
+          1	Daigon
+          2	Dakabo
+          1	Dakatimonga
+          1	Dakawa
+          1	Dakpoutou
+          1	Dakéti
+          1	Dalakéra
+          1	Dalakéré
+          2	Dali
+          1	Dalikouba
+          1	Dama
+          1	Damalongo 1
+          1	Damalongo 2
+          1	Damandji
+          1	Damara
+          1	Dambe
+          1	Dambolo
+          1	Dambouyasi
+          1	Damissa
+          1	Damoussa
+          1	Dan Church Aid
+          1	Dana
+          1	Danamadja 2
+          1	Danay express
+          1	Dandouba
+          2	Danga
+          1	Dangavo
+          1	Dangbatro 2
+          1	Danglang
+          1	Dangoron
+          1	Dangta-Talia
+          1	Dangé
+          1	Danko Bira
+          1	Danmadja
+          1	Danzé
+          1	Dar Zaraf
+          1	Dare
+          1	Darin
+          1	Dario
+          1	Date
+          1	Datilati
+          1	Datoli
+          1	Dawe
+          1	Dazou
+          1	Daï
+          1	Ddebo
+          1	De Gaulle
+          1	Deagbourio
+          1	Debet
+          1	Debolo
+          1	Deboro
+          1	Decan
+          1	Degba
+          1	Deka
+          1	Deka-goula
+          1	Dekoa
+          1	Dekoa Airport
+          1	Dekofé
+          1	Dekoro
+          1	Demba Sayo
+          1	Dembia
+          1	Demi Batchi
+          1	Demon-Gbateké
+          1	Dengbe
+          1	Dengou
+          1	Depoint
+          1	Depot Pharmaceutique Barama CDES
+          1	Deptéré
+          1	Derbissaka
+          1	Dere
+          1	Dessi
+          1	Dewa
+          1	Diamont et Or - Sud Azur
+          1	Diare
+          1	Dibalo
+          1	Dibol
+          1	Dibono
+          1	Dibéret
+          1	Diel
+          1	Difonlo 1
+          1	Diguandigui
+          1	Digui
+          1	Dika
+          1	Dikofio
+          1	Dimbi
+          1	Dimbia
+          1	Dinda
+          1	Dinga
+          1	Dinga 2
+          1	Dingadigui
+          1	Dingiri
+          1	Dinguiro
+          1	Direction
+          1	Direction Provinciale Du Centre Et Des Douanes
+          1	Direction Regional des Impots
+          1	Direction Regionale Du Commerce
+          1	Direction Regionale N6 Inspection Forestiere Prefectorale
+          1	Direction de mines
+          1	Dispensaire
+          1	Dispensaire Saint-Jean de Galabadja
+          1	Dispensaire St Paul
+          1	Dissikou
+          1	Dissikou 2
+          1	Dissikou 4
+          1	Djabossinda
+          1	Djabrafo
+          1	Djabrona
+          1	Djagarou
+          1	Djallé 1
+          1	Djamassinda
+          1	Djambo
+          1	Djamous
+          1	Djaména
+          1	Djangala
+          1	Djangou
+          1	Djemah
+          1	Djemah Airport
+          1	Djembe
+          1	Djembé
+          1	Djilapoko
+          1	Djinakion
+          1	Djingao
+          1	Djioalamen
+          1	Djohong
+          1	Djomboro
+          2	Djomo
+          2	Djouda
+          1	Djouda 2
+          1	Djouda I
+          1	Djémbi
+          1	Do u Ambo
+          2	Doaka
+          1	Doba
+          1	Dobele
+          1	Dobere Katara
+          1	Dobéza
+          1	Dogba
+          1	Dogbia
+          1	Dogrou
+          2	Dohiya
+          1	Dok
+          2	Doko
+          1	Doko-Bodet
+          1	Dokofi
+          1	Dokpara
+          1	Dolao
+          1	Dollo
+          1	Dolo 1
+          1	Dolo 2
+          1	Doly lodge
+          1	Domba
+          1	Dombiti
+          1	Dombé
+          1	Domefara
+          1	Domisili
+          1	Domo
+          1	Domodo
+          1	Don
+          1	Don Bosco
+          1	Dongbatro 1
+          2	Dongo
+          1	Dongo-Kete
+          1	Dongola
+          1	Dongou
+          1	Donon
+          1	Donouma
+          1	Donzi
+          1	Dori
+          1	Doroko
+          1	Dorougou
+          1	Dote-Bokada
+          1	Douaka
+          1	Douakouna
+          1	Douala
+          1	Doualem
+          1	Doubanga
+          1	Dougbia
+          1	Dougouro
+          1	Doukou
+          1	Doukoulou
+          1	Doukouma
+          1	Doukoumbe
+          1	Douma
+          1	Doumba-Moundou
+          1	Doumdégué
+          1	Doumta
+          1	Doungba
+          1	Doungou 1
+          1	Doungou 2
+          1	Doungou 3
+          1	Doungouyangou
+          1	Dour-Dour
+          1	Dourdour
+          1	Dourgo
+          1	Dourou
+          1	Dourouf Amar
+          2	Douya
+          1	Douzi
+          1	Douzoungourou
+          1	Dramassa
+          1	Drekapou
+          1	Drobane
+          1	Drouaza
+          1	Duane Kabo
+          2	Duane Regional - Berberati
+          1	Dula
+          1	Duret
+          1	Dzanabanzi
+          1	Dzanga sector
+          1	Dzanga-Ndoki National Park
+          1	Dzouyamba
+          1	Déde-Mokouba
+          1	Dédé
+          1	Dégbé-Maina
+          1	Déko-Dakpa
+          1	Dékolo
+          1	Dékoul
+          1	Délembé
+          1	Délé
+          1	Délébama
+          1	Délédé 1
+          1	Délédé 2
+          1	Délédé 3
+          1	Délégation de l’Union européenne
+          1	Dépa
+          1	Dévo
+          1	ELIM
+          1	ENAM
+          1	ENI
+          1	Ebou
+          1	EcloeCentrafricano-turque / Galaxy
+          3	Ecobank
+          1	Ecole Associe Daniel Broti de Kpetene Niakari
+          1	Ecole Bakandja
+          1	Ecole Bamassara
+          1	Ecole Barama
+          1	Ecole Baria
+          1	Ecole Bavara
+          1	Ecole Bebenguere1
+          1	Ecole Bebenguere2
+          1	Ecole Beboy
+          1	Ecole Beboy 3
+          1	Ecole Bedaya
+          1	Ecole Bedaya 1
+          1	Ecole Bedaya 2
+          1	Ecole Bedere
+          1	Ecole Bedobake
+          1	Ecole Bedoua 2
+          1	Ecole Begatra
+          1	Ecole Beh
+          1	Ecole Bekaie
+          1	Ecole Bemaide
+          1	Ecole Bemal
+          1	Ecole Bembere
+          1	Ecole Bembo
+          1	Ecole Bendjangala
+          1	Ecole Bendouba
+          1	Ecole Bepikasse
+          1	Ecole Betoko
+          1	Ecole Betokomia
+          1	Ecole Betokomia 2
+          1	Ecole Binengue
+          1	Ecole Boani 1
+          1	Ecole Bode
+          1	Ecole Bogbatoyo
+          1	Ecole Boguila-Kette
+          1	Ecole Bohong
+          1	Ecole Bokaya
+          1	Ecole Bokiné
+          1	Ecole Bokote-Sesse
+          1	Ecole Bokouté
+          1	Ecole Bomari 2
+          1	Ecole Borodoul
+          2	Ecole Bossabina
+          1	Ecole Bosseke
+          1	Ecole Boubou
+          1	Ecole Bozou 3
+          1	Ecole Centre Filles
+          1	Ecole Charles Luanga
+          1	Ecole Danko Bira
+          1	Ecole De Vougba
+          1	Ecole Dibono
+          1	Ecole Douaka
+          1	Ecole Douya
+          1	Ecole Fondamental 1
+          1	Ecole Forte
+          1	Ecole Gadoulou
+          1	Ecole Gamou
+          1	Ecole Garcon
+          1	Ecole Gazouiene
+          1	Ecole Gbado
+          1	Ecole Gbama
+          1	Ecole Gbazian-Bea
+          1	Ecole Gouze
+          1	Ecole Hang-Zoung
+          1	Ecole Herba
+          1	Ecole IDPs
+          1	Ecole Kadi
+          1	Ecole Kake
+          1	Ecole Kepa 2
+          1	Ecole Kounde
+          1	Ecole Kounmbam 1
+          1	Ecole Letele
+          1	Ecole Liberté
+          1	Ecole Mabo
+          1	Ecole Manga
+          1	Ecole Mann
+          2	Ecole Maternelle
+          1	Ecole Mayolara
+          1	Ecole Mbangui-Ngoro
+          1	Ecole Mbere
+          1	Ecole Mbindali
+          1	Ecole Mbinga
+          1	Ecole Mbotoga
+          1	Ecole Michel Parbel
+          1	Ecole Mixe Sandigui
+          1	Ecole Mixte 2 Paoua
+          1	Ecole Mixte Baya
+          1	Ecole Mixte Carrière
+          1	Ecole Mixte Dangsi
+          1	Ecole Mixte Maliko
+          1	Ecole Mixte Pont-Ouham
+          1	Ecole Mixte Sangoldo
+          1	Ecole Mixte Unité-Ouassi
+          1	Ecole Mixte d'Ibi Paul
+          1	Ecole Mixte de Badama
+          1	Ecole Mixte de Balanga
+          1	Ecole Mixte de Bangba
+          1	Ecole Mixte de Bangba2
+          1	Ecole Mixte de Bekondjo
+          1	Ecole Mixte de Bele
+          1	Ecole Mixte de Beltonou 2
+          1	Ecole Mixte de Bemal 1
+          1	Ecole Mixte de Bemal 2
+          1	Ecole Mixte de Bera
+          1	Ecole Mixte de Betazi
+          1	Ecole Mixte de Beyongo
+          1	Ecole Mixte de Boani 1
+          1	Ecole Mixte de Boaya
+          1	Ecole Mixte de Bobai-kota
+          1	Ecole Mixte de Bobate
+          1	Ecole Mixte de Bobera
+          1	Ecole Mixte de Bobo
+          2	Ecole Mixte de Bodali
+          1	Ecole Mixte de Boding-Mon
+          1	Ecole Mixte de Bodore-Gassa
+          1	Ecole Mixte de Bofango
+          1	Ecole Mixte de Bofondo
+          1	Ecole Mixte de Bogama
+          1	Ecole Mixte de Bogbali
+          1	Ecole Mixte de Bogboto
+          1	Ecole Mixte de Bogoum
+          1	Ecole Mixte de Bogouna
+          1	Ecole Mixte de Boguene
+          1	Ecole Mixte de Boguila-Kete
+          2	Ecole Mixte de Bokini
+          2	Ecole Mixte de Bokongo
+          1	Ecole Mixte de Bokote kete
+          1	Ecole Mixte de Bolgue
+          1	Ecole Mixte de Bolhom 2
+          1	Ecole Mixte de Bomantana-beti
+          1	Ecole Mixte de Bomentana
+          1	Ecole Mixte de Bomigui
+          1	Ecole Mixte de Bomissi
+          1	Ecole Mixte de Bonasse
+          1	Ecole Mixte de Bondadi
+          1	Ecole Mixte de Bondaro
+          1	Ecole Mixte de Bondjomo
+          1	Ecole Mixte de Bongbotto
+          1	Ecole Mixte de Bongono
+          1	Ecole Mixte de Bonguere
+          1	Ecole Mixte de Boro
+          1	Ecole Mixte de Bossokpa
+          2	Ecole Mixte de Bouassi
+          1	Ecole Mixte de Boufoui
+          1	Ecole Mixte de Bougourou 2
+          1	Ecole Mixte de Bouli
+          1	Ecole Mixte de Boulo
+          1	Ecole Mixte de Bourouma
+          2	Ecole Mixte de Bowan
+          1	Ecole Mixte de Bowe
+          1	Ecole Mixte de Bowili
+          1	Ecole Mixte de Bozoli
+          1	Ecole Mixte de Bozoro
+          1	Ecole Mixte de Dadouk-Kota
+          1	Ecole Mixte de Deke 2
+          1	Ecole Mixte de Djioalamen
+          1	Ecole Mixte de Dombiti
+          1	Ecole Mixte de Farazara
+          1	Ecole Mixte de Gayo
+          1	Ecole Mixte de Gbadoma
+          1	Ecole Mixte de Gbakara
+          1	Ecole Mixte de Gbakaya
+          1	Ecole Mixte de Gbakera
+          1	Ecole Mixte de Gbangara
+          1	Ecole Mixte de Gbapo-Kota
+          1	Ecole Mixte de Gbatang-Bea
+          1	Ecole Mixte de Gbazara
+          1	Ecole Mixte de Gbazian Bea
+          1	Ecole Mixte de Gbinza
+          1	Ecole Mixte de Gbounou
+          1	Ecole Mixte de Gofo-Mission
+          1	Ecole Mixte de Gozengue
+          1	Ecole Mixte de Kaboro
+          1	Ecole Mixte de Kadera
+          1	Ecole Mixte de Kadjama
+          1	Ecole Mixte de Kakobo
+          1	Ecole Mixte de Kakouda-dimon
+          1	Ecole Mixte de Kamba-Kota
+          1	Ecole Mixte de Kana
+          1	Ecole Mixte de Kangama
+          1	Ecole Mixte de Kango
+          1	Ecole Mixte de Kangoue
+          1	Ecole Mixte de Kaoue
+          1	Ecole Mixte de Karoumba
+          1	Ecole Mixte de Keleclaire
+          1	Ecole Mixte de Kollo-Gassa
+          1	Ecole Mixte de Kongoyeye
+          1	Ecole Mixte de Korakouri
+          1	Ecole Mixte de Kosso
+          1	Ecole Mixte de Kouki
+          1	Ecole Mixte de Lando
+          1	Ecole Mixte de Lenga-kota
+          1	Ecole Mixte de Lia
+          1	Ecole Mixte de Loungougba
+          1	Ecole Mixte de Mara
+          1	Ecole Mixte de Mbai
+          1	Ecole Mixte de Mbali
+          1	Ecole Mixte de Nanga
+          1	Ecole Mixte de Ndoumbou
+          1	Ecole Mixte de Ndow-Kota
+          1	Ecole Mixte de Ngbawele
+          1	Ecole Mixte de Ngonikra
+          1	Ecole Mixte de Ouin
+          1	Ecole Mixte de Panga
+          1	Ecole Mixte de Pawa
+          1	Ecole Mixte de Pounambo
+          1	Ecole Mixte de Poungaro
+          1	Ecole Mixte de SOMICA
+          1	Ecole Mixte de Samon
+          1	Ecole Mixte de Sarki
+          1	Ecole Mixte de Sido
+          1	Ecole Mixte de Sokodo
+          1	Ecole Mixte de Songbafo
+          1	Ecole Mixte de Taley
+          1	Ecole Mixte de Tatia 2
+          1	Ecole Mixte de Vafio
+          1	Ecole Mixte de Vona
+          1	Ecole Mixte de Wangue 1
+          1	Ecole Mixte de Yalingui-Botombo
+          1	Ecole Mixte de Yarabang
+          1	Ecole Mixte de Zamboutou
+          1	Ecole Mixte de Zougbanga
+          1	Ecole Mixte deBoyanga
+          1	Ecole Ndakaya
+          1	Ecole Ndanga
+          1	Ecole Ndjim
+          1	Ecole Ndjondjom
+          1	Ecole Ndonga
+          1	Ecole Ngaba
+          1	Ecole Ngbazza
+          1	Ecole Ngouboye
+          1	Ecole Niakari
+          1	Ecole Nicolas Bare
+          1	Ecole Normale Superieure
+          1	Ecole Nzakoun
+          1	Ecole Nzole
+          1	Ecole Ouaki 1
+          1	Ecole Paoua Elian
+          1	Ecole Pende
+          1	Ecole Peulh
+          1	Ecole Pierre Wanfio
+          1	Ecole Plateau
+          1	Ecole Pont-Ouham
+          1	Ecole Poubati
+          1	Ecole Poumbadji
+          1	Ecole Privée Catholique ECAC
+          2	Ecole Privée Sainte Marie
+          3	Ecole Préfectorale Mixte A
+          1	Ecole Préfectorale Mixte A & B
+          1	Ecole Préfectorale Mixte B
+          1	Ecole S-P de garçons et filles de Sosso-Nakombo
+          1	Ecole SOS VdE
+          1	Ecole Saint-Michel
+          1	Ecole Saint-Paul
+          1	Ecole Sainte-Thérèse
+          1	Ecole Samba
+          1	Ecole Sanguere Pende
+          1	Ecole Sica
+          1	Ecole Sous-Prefectorale
+          1	Ecole Sous-Prefectorale mixte
+          3	Ecole Sous-Préfectorale Mixte
+          1	Ecole Sous-Préfectorale Mixte de Baoro
+          1	Ecole St Kisito
+          1	Ecole Ste Rossello
+          1	Ecole Toktodo
+          2	Ecole Tole
+          1	Ecole Toulara Mixte
+          1	Ecole Vallée
+          1	Ecole Valo Foulbe
+          1	Ecole Villageoise de Bokongo
+          1	Ecole Voudou
+          1	Ecole Vouin Foulbe
+          1	Ecole Yade
+          1	Ecole Yibi -Samba
+          1	Ecole Yombandji
+          1	Ecole Yongossaba
+          1	Ecole Zamboutou
+          1	Ecole Zana
+          1	Ecole application
+          1	Ecole d'application Madagringbanda
+          1	Ecole de Balao
+          1	Ecole de Banda
+          1	Ecole de Bata
+          1	Ecole de Bele
+          1	Ecole de Bilakare
+          1	Ecole de Bogala
+          1	Ecole de Bogouna
+          1	Ecole de Boh
+          1	Ecole de Bokomonga
+          1	Ecole de Bombalou
+          1	Ecole de Bondia
+          1	Ecole de Bongam
+          1	Ecole de Bongonon
+          1	Ecole de Bouforo
+          1	Ecole de Boyabane
+          1	Ecole de Boyali 1
+          1	Ecole de Boyali Yaho
+          1	Ecole de Carrefour Pende
+          1	Ecole de Donon
+          1	Ecole de Gani 1
+          1	Ecole de Gani 2
+          1	Ecole de Gbadali 4
+          1	Ecole de Gbakera
+          1	Ecole de Gbazian-Bea
+          1	Ecole de Herba
+          1	Ecole de Kadera
+          1	Ecole de Kagomon
+          1	Ecole de Kakosso
+          1	Ecole de Kangatou
+          1	Ecole de Kibo
+          1	Ecole de Kounpo1
+          1	Ecole de Kpare
+          1	Ecole de Mbikanga
+          1	Ecole de Mere
+          1	Ecole de Ngoubou
+          1	Ecole de Ngoutere
+          1	Ecole de Ouogo
+          1	Ecole de Pala
+          1	Ecole de Poukao
+          1	Ecole de Poukone 1
+          1	Ecole de Taley 2
+          1	Ecole de Toumi
+          1	Ecole de Zara
+          1	Ecole de Zoutale
+          1	Ecole de boundou
+          1	Ecole des Filles
+          1	Ecole des Martyrs
+          1	Ecole maternelle Charles Luanga
+          1	Ecole maternelle Komboni
+          1	Ecole metiers d'art
+          1	Ecole mixte
+          1	Ecole mixte de Gbatara
+          1	Ecole primaire Nika
+          1	Ecole privee Komboni
+          1	Ecole sous-préfectorale
+          1	Ecole villageoise de Bayanga-Bodé
+          1	Ecoles des filles musulmanes
+          1	Ecolest Bakita
+          1	Eglise
+          1	Eglise AEBEC Kembeli
+          1	Eglise AEBEC Madagerengbanda
+          1	Eglise AEBEC Yapele
+          1	Eglise ANEB Tokoyo
+          1	Eglise Apostolique Maliko 1
+          1	Eglise Apostolique Mbangui-Ngoro
+          1	Eglise Baptiste Sayo
+          2	Eglise CEBI
+          1	Eglise CEBI Barama
+          1	Eglise CEBI Maliko
+          1	Eglise CEBI Samba Gamade
+          1	Eglise CEBI Yongossaba
+          1	Eglise CEEC
+          3	Eglise Catholique
+          1	Eglise Catholique Gbando
+          1	Eglise Catholique Mabo
+          1	Eglise Catholique de Loungougba
+          1	Eglise Christianisme Prophetic de Afrique
+          1	Eglise EBEC Gambo
+          1	Eglise ELIM
+          1	Eglise ELIM Maliko
+          1	Eglise Elim Mabo
+          1	Eglise MEA Gamou
+          1	Eglise MSEP
+          1	Eglise Philadelphia
+          1	Eglise UEB
+          1	Eglise UFEB Maliko
+          1	Eglise apostolique Tokoyo
+          1	Eglise catholique
+          1	Eglise mission de la Bonne Nouvelle Mahanaim cyber college
+          1	Eglise pontecote
+          1	Ekawo
+          1	Electricity Transmitting Station
+          4	Elevage
+          1	Elim
+          1	Elim De Mongo
+          1	Elim De Raison
+          1	Elim Gbongo
+          1	Elim de Banabongo
+          1	Elim de Batimbilika
+          1	Elim de Yongossaba 2
+          1	Elim de Zotte
+          1	Elime De Bambarassa
+          2	Elimes de Bangui
+          1	Emelia
+          1	Emergency
+          2	Emmanuel Lutheran Healthcare
+          1	Enerca
+          1	Enfant Jésus Yole
+          1	Erbir
+          1	Erdongo
+          1	Eremandje
+          4	Eréké
+          1	Essé 1
+          1	Est
+          1	Estacionamento Mont Fleury
+          1	Estacionamento Motel Lamerveille
+          1	Etat-major de l'armée - Camp des roux
+          1	Evangelique Lutherienne
+          1	Ezo
+          1	Ezo-Nagasi
+          1	Ezo-Yangiri
+          1	Ezo-Yubo
+          1	Ezzé 1
+          1	Ezzé 2
+          1	Ezzé 3
+          1	FAO
+          1	FIDA - Projet PREVES
+          1	Faculté de la Théologie Biblique
+          2	Fada
+          2	Fadama
+         17	Fafa
+          1	Fafara
+          1	Fagbagbo
+          1	Fah village
+          1	Falanzé
+          1	Fambele
+          1	Fango
+          1	Fangoukota
+          1	Fapilote
+          1	Farazara
+          1	Faya
+          1	Ferick Maya فريك مايا
+          2	Ferme Sarki
+          1	Ferry Bangui-Zongo
+          1	Fiba
+          1	Filoye
+          1	Finn Church Aid
+          1	Finzane
+          1	Floh
+          1	Fnac
+          1	Fodé
+          1	Foh
+          1	Foko
+          2	Fola
+          1	Fondation de Recherches et d'Actions pour le Développement
+          1	Foroboya
+          1	Forte
+          1	Fouka
+          1	Foupio
+          1	Fouta
+          2	Frères Castors
+          1	Fulu
+          1	Féré
+          1	GSEM
+          1	GSP
+          1	Gada-Kelle
+          1	Gade-Gassa
+          1	Gadoulou
+          1	Gadzi
+          1	Gaga
+          1	Gaige 2
+          1	Gaigo
+          1	Galabourma
+          1	Galezou
+          1	Gallo
+          1	Galé
+          1	Gambara
+          1	Gambatouré
+          3	Gambo
+          1	Gambo-Sambia
+          2	Gambongo
+          2	Gamboula
+          1	Gamboula Airport
+          1	Gamou
+          2	Ganai
+          1	Ganai 1
+          3	Ganai 2
+          1	Gandakokoti
+          1	Gandakotto
+          1	Gandao
+          1	Gandong
+          1	Ganganday-Deke
+          1	Gangui
+          1	Gani
+          1	Ganli
+          1	Gaou
+          1	Gapia
+          1	Gara
+          2	Garaba
+          1	Garage and depot
+          1	Garapa
+          1	Garba
+          1	Gare Routiere Maliko
+          1	Garga Boutou
+          1	Garga-Bongo
+          1	Garga-Mbongo
+          2	Gari-Gombo
+          1	Garo
+          3	Garoua-Bolai-Ngaoundéré
+          2	Garoua-Boulaï
+          1	Garoua-Soungbede
+          1	Gassibala
+          2	Gawa
+          1	Gayo
+          1	Gazao
+          1	Gazouwène
+          1	Gba
+          1	Gba-Kete
+          1	Gbabiro
+          4	Gbada
+          1	Gbadabuku
+          1	Gbadali 4
+          1	Gbade
+          1	Gbade 2
+          1	Gbadene
+          1	Gbadi
+          1	Gbadock
+          1	Gbadoma
+          1	Gbadrou-Kandjia
+          1	Gbadélé
+          2	Gbafio
+          1	Gbaga-Bokou
+          2	Gbagara
+          1	Gbagbi
+          1	Gbagiri
+          1	Gbago
+          1	Gbagou
+          1	Gbaguera
+          1	Gbakara
+          1	Gbakaya
+          2	Gbakera
+          1	Gbakomalekpa
+          1	Gbakonzo
+          1	Gbakouma
+          1	Gbakoungbangou
+          1	Gbalamo
+          1	Gbalia
+          1	Gbalikapé
+          1	Gbaling
+          2	Gbama
+          1	Gbambia
+          2	Gbana
+          2	Gbandi
+          1	Gbando
+          1	Gbandélé
+          1	Gbanfili
+          1	Gbanga
+          1	Gbanga 1
+          1	Gbanga 2
+          1	Gbanga 3
+          1	Gbanga-Yanga
+          1	Gbangai
+          1	Gbangayanga
+          1	Gbangbalu
+          1	Gbangi
+          1	Gbango
+          1	Gbango I
+          1	Gbango II
+          1	Gbangola
+          1	Gbangou
+          1	Gbangue
+          1	Gbanguela
+          1	Gbanguila
+          1	Gbanou
+          1	Gbaoro
+          1	Gbapo-Kota
+          1	Gbaraga
+          1	Gbareu
+          1	Gbasongo
+          1	Gbasso
+          1	Gbassore
+          1	Gbassounou
+          1	Gbatara
+          1	Gbatchongbolo 1
+          1	Gbatchongbolo 2
+          1	Gbatogo
+          1	Gbatoguéné
+          1	Gbatoko
+          1	Gbaton
+          1	Gbatong-Bea
+          1	Gbatoua
+          1	Gbavougba
+          1	Gbawe
+          1	Gbawi-Boya
+          1	Gbaya 2
+          1	Gbayapo
+          1	Gbayou
+          1	Gbazang
+          1	Gbazara
+          1	Gbazi
+          1	Gbaïdou
+          1	Gbelaka
+          1	Gbele-Kota
+          1	Gbemoro
+          1	Gbiakota
+          1	Gbiangora
+          1	Gbiassango
+          1	Gbiato
+          1	Gbiatogbo
+          1	Gbili
+          1	Gbitti
+          1	Gbogbo
+          1	Gbohwanet
+          1	Gbokila
+          1	Gbokolou
+          1	Gbom
+          1	Gbombé
+          1	Gbongo
+          1	Gbongo 1
+          1	Gbongo 2
+          1	Gbope
+          1	Gbougbourou
+          1	Gbougougbala
+          1	Gbounda
+          1	Gbozogoue Biri
+          1	Gbozou
+          1	Gele
+          1	Geme
+          2	Gendarmerie
+          1	Gendarmerie Kabo
+          1	Gendarmerie Nationale Brigade De Bangassou
+          1	Gendje
+          2	Gerdamerie Nacional Brigade Gamboula
+          1	Giako
+          1	Gigi
+          1	Ginidagini
+          1	Gisibanda
+          1	Glyky
+          1	Gnalida
+          1	Gnilo 1
+          1	Gobongo
+          1	Godawa
+          1	Godo
+          1	Godo-Boymandja
+          3	Goffo
+          1	Gofo
+          1	Gofo-Village
+          1	Gofou
+          1	Gogbafio
+          1	Gogo-Mission
+          1	Gogortah
+          1	Gogourtakoro
+          2	Gola
+          1	Gologoto
+          1	Golongo
+          2	Gomba
+          1	Gombala
+          1	Gomoka
+          1	Gonda
+          1	Gondava
+          1	Gongourou
+          2	Goni
+          1	Gonobimbi
+          1	Gontikiri
+          1	Gopala
+          1	Gorbessé
+          2	Gordil
+          1	Gordil Airport
+          1	Goro
+          1	Goropada
+          1	Gossa
+          1	Gotchélé
+          1	Gou 1
+          1	Gou 2
+          1	Gouada
+          1	Gouassi
+          1	Gouassi 1
+          1	Gouassi 2
+          1	Gouassi 3
+          1	Goubali
+          3	Gouga
+          1	Gougbéré-Bazima
+          4	Goula
+          1	Goulaba
+          1	Gouleniero
+          1	Goum
+          1	Gouma
+          1	Goumba
+          1	Goumissi
+          6	Gounda
+          1	Goundou
+          1	Goungere Sayo
+          1	Gouni
+          1	Gounouman
+          1	Gounté
+          1	Gounza
+          1	Goussema
+          1	Goussou
+          1	Goussou Banda
+          1	Gouzara
+          1	Gouze
+          1	Gouzou
+          1	Gouzoura
+          1	Gowe-Poungaro
+          1	Goya
+          1	Goz Amar
+          1	Goz Beida قوز بيدا
+          1	Goz Mahmat
+          1	Gozobangui
+          1	Gozolo
+          1	Gpt Bowila
+          1	Graho 1
+          1	Graho 2
+          1	Graho 3
+          1	Gralendji
+          1	Grand Café
+          3	Grand Séminaire Saint Marc de Bimbo
+          1	Grande mosquée
+          6	Grande-Sido
+          1	Grande-Sido سيدو الكبير
+          1	Grapou
+          1	Grebado
+         11	Gribingui
+          1	Gribingui basin (Bamingui)
+          2	Gribizi 1
+          1	Grimari
+          1	Grimari Airport
+          1	Groupe Elite Formation
+          1	Groupement d'Assistance
+          1	Guarada
+          1	Guen
+          1	Guereki
+          2	Guerengou
+          1	Gueze
+          1	Gugungba
+          1	Guibéré
+          1	Guila
+          1	Guimba
+          1	Guimoudo
+          1	Guinigo
+          1	Guizore
+          1	Guruse
+          1	Guédimba
+          1	Guédé
+          1	Guémbo
+          1	Guémé
+          1	Guénékoumba
+          1	Guénékoumba 1
+          1	Guénékoumba 2
+          1	Guérékindo
+          2	Guéréngou 1
+          1	Guéréngou 2
+          1	Guéyoro
+          1	Gwakaki
+          1	Gwara II
+          2	Générateur
+          1	HP Bozoum
+          1	HP de Paoua
+          1	HURB
+          1	Hama
+          1	Han-Hou
+          1	Handja
+          1	Hang-Zoung
+          1	Hangar
+          2	Haut-Mbomou
+          1	Haut-Uele
+          2	Haute-Kotto
+          1	Helipad
+          2	Herba
+          1	Hetman
+          1	Hobé
+          1	Hopital de district de Begoua
+          1	Hotel De Tourisme
+          1	Hotel Ledger Plaza
+          1	Hotel Levy's
+          1	Hotel Mont Fleury
+          2	Hotel du Centre
+          1	Hourindi
+          3	House
+          1	Houssem
+          3	Hut
+          1	Hélé
+          1	Hôpital Communautaire
+          1	Hôpital MSF-B
+          1	Hôpital Maman Elisabeth Domitien
+          1	Hôpital Préfectoral
+          1	Hôpital Préfectoral de Batangafo
+          1	Hôpital Préfectoral de Carnot
+          1	Hôpital Préfectoral de Kaga-Bandoro
+          1	Hôpital REgional de de Berbérati
+          1	Hôpital Régional de Berbérati
+          1	Hôpital Régional de Bossa
+          1	Hôpital Universitaire Régional de Bambari
+          1	Hôpital de Bétoko
+          1	Hôpital de l'Amitié
+          1	Hôtel Azimuth
+          1	Hôtel Oubangui
+          1	Hôtel de Ville
+          1	Hôtel de ville de Garoua Boulai
+          1	IDP Camp A
+          1	IDP Camp B
+          1	IDP Camp C
+          1	IDP Camp D
+          1	IFRC Global Fund office
+          1	IPHD (International Partnership for Human Development)
+          1	IRC
+          1	ITFC
+          1	Ibi Paul
+          1	Ibingui
+          1	Idamo
+          1	Idjama
+          1	Idongo
+          1	Ifourou
+          1	Ikoumba
+          1	Ikoumba I
+          1	Ikpiro
+          1	Ile Bongossoua
+          1	Imila
+          1	Immeuble Saheli
+          1	Immigration
+          1	Imohoro
+          1	Inadi
+          2	Ingboupou
+          1	Ingonda
+          1	Ingwinda I
+          1	Inlé-Siolo
+          1	Inspection Prefectural
+          1	Institut New Tech
+          1	Institut Pasteur
+          1	International Rescue Committee
+          1	Inzia
+          1	Ippy
+          1	Irabanda
+          1	Iramou 1
+          1	Irma Baro
+          1	Issa-Mandja
+          1	J. M. Résidence
+          1	JUPEDEC
+          1	Jardin D'enfants Maliko
+          2	Jardin d'Enfants
+          1	Jardin de Mairie
+          1	Jetty for Bomandjokou
+          1	Jojo
+          1	Joli Soir
+          1	KFC
+          1	KOCHO
+          2	Kaba
+          1	Kaba Roangar
+          1	Kabadou
+          1	Kabaye
+          1	Kabo
+          1	Kabo 3
+          1	Kabo 4
+          1	Kabo 5
+          1	Kabo Airport
+          1	Kabo II
+          2	Kaboro
+          1	Kabou
+          1	Kadera
+          1	Kadey
+          1	Kadi
+          1	Kadi 2
+          1	Kadi II
+          1	Kadja
+          1	Kadjaka
+          2	Kadjama
+         13	Kadéï
+          1	Kafa-Bobani
+          1	Kafargada
+          1	Kaffao
+          1	Kaga Banara
+          1	Kaga-Bandoro
+          1	Kaga-Bandoro Airport
+          1	Kaga-Eyi Koyanga
+          1	Kagaya
+          1	Kagoe
+          1	Kagomon
+          1	Kagoro 2
+          1	Kagoue
+          1	Kagoué
+          1	Kahon
+          1	Kai
+          1	Kaimba
+          3	Kaita
+          1	Kaita-Kpogwan
+          1	Kakosso
+          1	Kakouda
+          1	Kakouda-Bede
+          1	Kakouda-Dimon
+          1	Kakovo
+          1	Kakuda-Dimon
+          1	Kaké
+          1	Kalandao
+          1	Kalapo
+          1	Kalaye
+          1	Kamagbou
+          1	Kamanga
+          1	Kamangbague
+          1	Kamaye
+          2	Kamba
+          1	Kamba-Kota
+          1	Kambadjiki
+          1	Kambakota
+          1	Kambalégué
+          1	Kambamba
+          1	Kambe
+          1	Kamoun
+          1	Kana
+          1	Kanda
+          1	Kandanga
+          1	Kandji-Mara
+          1	Kandjia
+          3	Kanga
+          1	Kangama
+          1	Kangatou
+          1	Kango
+          1	Kangomo
+          2	Kangou
+          1	Kanguela
+          1	Kankan
+          1	Kanza
+          1	Kaogbi
+          1	Kaouadja
+          1	Kaoue
+          1	Kaouna
+          1	Kaoussa
+          1	Kaoussoungou
+          1	Kapabanga
+          1	Kapou
+          1	Kapou II
+          1	Kara & Taaisha
+          1	Karafara
+          1	Karagoua
+          1	Karakandji
+          1	Karang
+          2	Karaza
+          1	Karmador
+          1	Karoua
+          1	Karoumba
+          1	Karé
+          1	Kasa
+          2	Kassa
+          1	Kassa-Mboubé
+          1	Kassagon
+          1	Kassai 2
+          1	Kassamoumbé
+          1	Kassoumba
+          1	Katcharabo
+          1	Kate
+          1	Kava
+          1	Kava II
+          1	Kavadja
+          1	Kawa
+          1	Kaya
+          1	Kazangba
+          1	Kazima
+          1	Kaïmba
+          1	Keche
+          2	Kedja
+          1	Keleclaire
+          1	Kella Goffi
+          2	Kella Moelle
+          1	Kella-Bokpane
+          1	Kemba
+          1	Kembe
+          1	Kembe Ligne
+          1	Kembé
+          1	Kembé Airport
+          1	Kembé-Ketté
+          1	Kemgoyeye
+          1	Kenderogo
+          1	Kendo
+          1	Kendé
+          2	Kengar
+          1	Kengougba
+          1	Keningué
+          1	Kentzou
+          1	Kia
+          1	Kia II
+          1	Kiagué
+          1	Kiangar
+          1	Kiba
+          1	Kibo
+          1	Kidigra
+          1	Kidjidji
+          1	Kidjidji 2
+          1	Kidjipala
+          1	Kikindi
+          1	Kimkaba I
+          1	Kimkaba II
+          1	Kinga
+          1	Kipa 1
+          1	Kipa 2
+          1	Kippa
+          1	Kirigbo
+          1	Kitchen
+          1	Kitessa
+          1	Kitika
+          1	Ko
+          1	Kobadja
+          1	Kobo
+          1	Koddo
+          1	Kodi
+          1	Kodji
+          1	Kodjo
+          1	Kodjou
+          1	Kodrongué
+          1	Kogba
+          1	Kogbi
+          1	Kogo
+          1	Kogomalé
+          1	Kogé
+          1	Kohiri
+          2	Kokol
+          1	Koliko
+          1	Kollo-Gassa
+          1	Kolo
+          1	Kolobo
+          1	Kologbota
+          1	Kologo
+          1	Kolombala
+          3	Kolongo
+          1	Koma
+          1	Komali
+          1	Komba
+          1	Kombala
+          1	Kombelet
+          1	Kombelé
+          1	Kommanda
+          1	Komo-Bombo
+          1	Konaguila
+          1	Konakini
+          1	Kondara
+          2	Kondo
+          1	Konendji
+          1	Konga
+          1	Konga Litos
+          1	Kongandembo
+          1	Kongaro
+          1	Kongbo
+          1	Kongo
+          1	Kongolobadjia
+          1	Kongué
+          1	Konnoworon
+          1	Konombo
+          1	Konvi
+          1	Konvi 1
+          1	Konéngbé 2
+          1	Konéngué 1
+          1	Kopia
+          1	Korakouri
+          1	Kore
+          1	Korndamon
+          1	Korondo
+          1	Korossiri
+          1	Kossamba
+          1	Kosse
+          1	Kossio
+          1	Kosso
+          1	Kota-Makondji
+          1	Kotangombé
+          1	Kotanguindji
+          1	Kotchenguélé
+          1	Kotiyo
+         33	Kotto
+          1	Kotto 2
+          1	Kotto 3
+          1	Kotto 4
+          1	Kouango
+          3	Koubou
+          1	Koui Na Lo
+          1	Kouki
+          1	Kouki 2
+          1	Kouki 3
+          1	Koukoulou
+          1	Koukourou
+          1	Koulamandja
+          1	Koulassi
+          1	Kouleou
+          1	Kouloungou I
+          1	Kouloungou II
+          1	Kouma
+          1	Koumadessé
+          1	Koumala Airport
+          1	Koumbal
+          1	Koumbanga
+          1	Koumou
+          1	Kouna
+          1	Kounang
+          1	Kounapapaya
+          1	Kounboli
+          2	Kounde
+          1	Koundi
+          1	Koundjili
+          1	Koundou
+          1	Koundé
+          1	Kounga Luto
+          1	Kounmbam 1
+          1	Kounmbam 2
+          1	Kouno
+          2	Kounpala
+          2	Kounpo
+          1	Kounpode
+          1	Koupou 1
+          1	Koupou 2
+          1	Koupé
+          1	Kouroussou
+          2	Koursou
+          2	Koussa Baguira
+          1	Koutchou
+          1	Koutou 1
+          1	Koutou Bemaka
+          2	Kouvougo
+          1	Kouzoukougbo
+          1	Kouzoundji
+          1	Kowone
+          1	Koyardé
+          1	Koyassi 2
+          1	Koyiri
+          1	Koyola
+          1	Koyé
+          1	Kozoro 2
+          1	Kpakawa 1
+          1	Kpakawa 2
+          1	Kpakaya
+          1	Kpakpa
+          1	Kpakpalé
+          1	Kpalongo
+          1	Kpama 1
+          1	Kpama 2
+          1	Kpamgba 2
+          1	Kpanga 3
+          1	Kpangba I
+          1	Kpangba II
+          1	Kparaka
+          1	Kparangbanda
+          1	Kparatio
+          1	Kpare
+          1	Kpata
+          1	Kpatamonzo (Bloc Mbalazime)
+          1	Kpatamoto
+          1	Kpava
+          1	Kpegbele
+          1	Kpetene
+          1	Kpetene Maison Du Chef
+          1	Kpiarou
+          1	Kpignon
+          1	Kpingo Kpingo
+          1	Kpingoyangui
+          1	Kpockwane1
+          1	Kpocte
+          1	Kpokolita
+          1	Kpokorta
+          2	Kpokpo
+          1	Kpokpo 1
+          1	Kpokpo 2
+          1	Kpongo
+          1	Kpongwan
+          1	Kpopo
+          1	Kpwetene
+          1	Kpégbia
+          1	Kpésséra
+          1	KpétFnF
+          1	Kpétènè
+          1	Kpété
+          1	Kradé
+          1	Krakondji
+          1	Krambo
+          1	Krandja
+          1	Kungu
+          1	Kéché
+          1	Kémba
+          1	Kémbé-Gbéssoré
+          2	Kémo
+          1	Kéndé
+          1	Kéota
+          5	Kéré
+          2	Kétté
+          1	Ködörösêse tî Bêafrîka - République Centrafricaine
+          1	L'Escale
+          1	La Belle Forêt
+          1	La Brasserie
+         12	La M'Poko
+          1	La Mairie De Vougba
+          1	La Mairie Niakari
+          1	La Tourrangel
+          1	La Vallée
+          1	La Wan
+          1	La cave de la Paix
+          2	Labakézé
+          1	Labasso
+          1	Labasso Ndoussé
+          1	Lac Bomboro
+          1	Lady
+          1	Lafi
+          1	Lafolo
+          1	Lagba I
+          1	Lagos-Mombasa Highway
+          1	Lakandja
+          1	Lakoti
+          1	Lakotto-Sandiba
+          3	Lakouanga
+          1	Lakouetene
+          1	Lama
+          1	Lamaha
+          2	Lambi
+          1	Lambla
+          1	Lambrayé
+          1	Lamy-Bony
+          1	Lando
+          1	Lando I
+          1	Lando II
+          1	Lanome Suite
+          1	Lanomé
+          1	Laou
+          1	Lapa
+          1	Lapago
+          1	Lapi
+          1	Latamy
+          1	Latrines
+          1	Layaka
+          1	Layangba
+          1	Le Balafon
+          1	Le Gouverneur Lamblin
+          1	Le Samaritain
+          1	Le bon coin
+          1	Le couscoucier
+          1	Lebada
+          1	Lebo
+          1	Legbobanga
+          1	Lekpa
+          1	Lembo
+          1	Lemia
+          1	Lemona
+          1	Lendje
+          1	Lenga-kota
+          1	Lengo
+          1	Lengou
+          1	Leouango Tirailleur
+          1	Lepourou
+          1	Letele
+          1	Lewa
+          1	Lia
+          1	Libanga
+          1	Libenge
+          1	Libenge Airport
+          2	Libongo
+          1	Libongui
+          1	Lidjombo I
+          1	Lidjombo II
+          1	Ligandonga
+          1	Ligoua-Zéwia
+          1	Ligouna
+          1	Ligui
+          1	Likaya
+          1	Likibala
+          1	Likouala
+          1	Likoundou
+          1	Lilantou
+          1	Limbio
+          1	Limbo
+          1	Limite
+          1	Limite Mbalazime 2
+          1	Limougou
+          1	Lindi
+          1	Linga
+          1	Lingaô
+          1	Lingomba
+          1	Lingoubanda
+          1	Lingui-Riouande
+          1	Liotto
+          1	Liou
+          1	Lipia
+          1	Lisala-Gbadolite
+          1	Lissio
+          1	Liton
+          1	Litro
+          2	Liwa
+          1	Liwa I
+          1	Lobai
+         10	Lobaye
+          4	Lobeiye
+          1	Local Beafrika
+          2	Logement du personnel
+          1	Logone Oriental لوقون الشرقية
+          1	Logote
+          1	Lokoti
+          1	Lokoti Yéléwéné
+          1	Lokotoumala
+          5	Lom
+          1	Lom-et-Djérem
+          1	Lomi 2
+          1	Longo
+          1	Longoade
+          1	Lopo
+          2	Lora
+          1	Louagba
+          1	Loukondja
+          1	Louma
+          1	Loumbé
+          2	Loungba
+          2	Loungougba
+          1	Loussaye
+          1	Louzia
+          1	Low
+          1	Lutheran Maternity Clinic
+          1	Lycee B. Bogansa
+          1	Lycee Boganda
+          1	Lycée Bocaranga
+          1	Lycée Caron
+          1	Lycée Don Bosco
+          1	Lycée Français
+          1	Lycée M.J. Caron
+          1	Lycée Sant Marcellin Champaghat
+          1	Lycée Technique Feminin
+          1	Lycée d'Etat des Rapides
+          1	Lycée des Martyrs
+          1	Lycée privé catholique
+          1	Lycée technique
+          1	Légo
+          1	Léména
+          1	Léré
+          1	M E A De Banabongo
+          1	M E A De Limbio
+          1	M E A De Zotte
+          1	M E A Ngaragba
+          1	M'Bapia
+          1	M'Bata
+          1	M'Blebanda
+          1	M'Boki
+          1	M'Boki Airport
+          1	MASSI CHARLES
+          1	MENTOR
+          4	MINUSCA
+          1	MSA 18/04 au 21/04
+          2	MSF
+          1	MSF France
+          1	MSFH
+          2	Mabo
+          1	Mabou
+          1	Maboussou
+          1	MadaBanda
+          1	Madabazouma
+          1	Madagrengbanda
+          1	Madigui
+          1	Madija
+          1	Madingar
+          1	Madja
+          1	Madjoro
+          1	Madou
+          1	Madougou
+          1	Madoukou
+          1	Madoundji
+          1	Magamba
+          1	Magaza
+          2	Magazani
+          1	Magbazia
+          1	Mahama Pika
+          1	Mahango
+          1	Maigaro
+          2	Maikolo
+          1	Maikoutou ميكوتو
+          1	Mainon
+          1	Maipoutchou
+          1	Maire de Bangassou
+          1	Maison Asie
+          1	Maison Blanche
+          1	Maison Catholique
+          1	Maison Darret
+          1	Maison Maire Niakari
+          1	Maison Micheline
+          1	Maison de Vins
+          1	Maison de l'Évêque
+          1	Maison des jeunes et de la culture Etienne Ngounio de 1er a
+          1	Maka 2
+          1	Maka 3
+          1	Maka1
+          1	Makandji
+          1	Makele
+          1	Makemba
+          1	Makembé
+          1	Makeu
+          2	Makili
+          1	Makobo
+          1	Makondji-Wali
+          1	Makoulou
+          1	Makémbé
+          1	Malagamba
+          1	Malangamba
+          1	Maliba
+          1	Maligou
+          1	Maliki
+          1	Malikidza
+          3	Maliko
+          1	Maliko 1
+          1	Maliko 2
+          1	Maliko Lepreux
+          1	Maliko Sandingi
+          1	Maloum
+          1	Malé
+          1	Mamado Bah
+          1	Mambéllé
+          8	Mambéré
+          2	Mambéré-Kadéï
+          1	Mamou
+          1	Mamvoula
+          1	Mandamourou
+          1	Mandja
+          1	Mandjadjara
+          1	Mandjo
+          1	Mandouko
+          1	Mandoul
+          1	Mandoul ماندول
+          1	Maneyo
+          1	Manga
+          1	Mangayassi
+          1	Mango
+          1	Mangolo
+          1	Mangou
+          1	Mangoupa
+          1	Mangouyé
+          1	Mangué
+          1	Mann
+          1	Manou
+          1	Manza
+          1	Manzinga
+          1	Manégoto
+          1	Maoroka
+          1	Mapido
+          1	Mapé
+          1	Mara
+          1	Maragoundi
+          1	Marali
+          1	Maraze
+          1	Marba
+          1	Marche Gambo
+          1	Marche Maliko
+          1	Marche Niakari
+          1	Marche central
+          1	Marche de Sandigui
+          3	Marché
+          1	Marché Central
+          1	Marché Miskine
+          1	Marché artisanat
+          1	Marché central
+          1	Marché de Bangui Ville
+          1	Marché de Niem
+          1	Mardara
+          2	Marie
+          1	Markounda
+          1	Maroma 2
+          1	Maromba
+          1	Masse
+          2	Massini
+          1	Massona
+          2	Matala
+          1	Matari
+          1	Matchéka
+          1	Maternelle St Paul
+          1	Maternité
+          2	Maternité du CDS Sosso Nakombo
+          1	Maternité du Camp Henri Izamo / Gendarmerie
+          1	Matiti
+          1	Matoua
+          1	Matoungaye
+          1	Maya مايا
+          2	Mayaka
+          1	Mayo-Lara
+          1	Mayo-Rey
+          1	Mazala
+          1	Mazoumbou
+          1	Maïbo
+          1	Maïbéré
+          1	Maïko
+          1	Maïndou 1
+          1	Maïndou 2
+          1	Maïninga
+          1	Maïssou
+          1	Maïta
+          1	Maïtama
+          1	Maïtikoulou
+          1	Mbabasso
+          1	Mbadrou-Kèdja
+          1	Mbadéla
+          1	Mbagoro
+          1	Mbagué
+          1	Mbala
+          1	Mbalagbolo
+          1	Mbalangao
+          1	Mbalapa
+          1	Mbalazime
+         15	Mbali
+          1	Mballé
+          1	Mbambalé
+          1	Mbamina
+          1	Mbandi
+          1	Mbandje-Lokoto
+          1	Mbandjifolo
+          1	Mbangana 1
+          1	Mbangana 2
+          1	Mbango
+          1	Mbangou
+          1	Mbangui
+          1	Mbangui-Ngoro
+          1	Mbankoé
+          1	Mbaoba
+         18	Mbari
+          1	Mbaringada
+          1	Mbartoua
+          1	Mbartoua-Ndenga
+          1	Mbata
+          1	Mbatibla
+          1	Mbatoka
+          1	Mbaye
+          1	Mbaïki
+          1	Mbaïndo
+          1	Mbelengo
+          1	Mbella
+          1	Mbengou
+          1	Mbengou 1
+          1	Mbengou 2
+          1	Mbere
+          1	Mbereguili
+          1	Mberewock
+          1	Mbetikandjan
+          1	Mbi
+          1	Mbiandogo
+          1	Mbianlou
+          1	Mbidanga
+          1	Mbidowe
+          1	Mbihi
+          1	Mbikanga
+          1	Mbilika
+          1	Mbilinga
+          3	Mbima
+          2	Mbimang
+          1	Mbimba
+          1	Mbindali
+          1	Mbipourou
+          1	Mbiro
+          1	Mbissi Langa
+          1	Mbiti-Bamala
+          1	Mbo
+          1	Mbogole
+          1	Mboko 1
+          1	Mboko 2
+          1	Mboko 3
+          1	Mboko 4
+          1	Mboko-Tatali
+          1	Mbolo
+          1	Mbolo Abetlanga
+          5	Mboma
+          1	Mbombale
+          1	Mbombete
+          1	Mbombo
+         39	Mbomou
+          1	Mbongote
+          1	Mbongui
+          1	Mbonziriri
+          1	Mbormo
+          2	Mbororo
+          1	Mbororo 1
+          1	Mboto
+          1	Mbotoga
+          1	Mbou
+          1	Mbouatoa
+          2	Mboufo
+          1	Mboula
+          1	Mbouli
+          1	Mboulou
+          1	Mboum-Yeme
+          3	Mboutou
+          1	Mboya-Yanguere
+          1	Mboyo
+          1	Mbrayé
+          1	Mbrepou
+          1	Mbringa
+          1	Mbringa-Dette
+          1	Mbrougbaga
+          1	Mbroulli
+          2	Mbrès
+          1	Mbrès 2
+          1	Mbrès 3
+          1	Mbèngou
+          1	Mbékéré
+          2	Mbéli
+          2	Mbélé
+          3	Mbéré
+          2	Mbéré امبيري
+          1	Mea de Bondeli
+          1	Meiganga
+          1	Mengue-Bokengue
+          1	Mentor Initaitive
+          1	Mercado de Amada-Gaza
+          1	Mercado de Berberati
+          1	Mercado de Gamboula
+          2	Mercy Corps
+          1	Mere
+          1	Meré Bodetoro
+          1	Meskine
+          1	Metengrebanda
+          1	Methodiste
+          1	Metto
+          1	Meudeu
+          1	Meye
+          1	Mgara
+          1	Mia-Pendé
+          1	Midé
+          1	Mingala
+          1	Mingui
+          1	Mini ميني
+          1	Minister de la Fontin Public du Travaille
+          1	Ministere de l'eau et forets
+          1	Ministere des Affaires Etrangeres
+          1	Ministere des Mines
+          1	Ministry of Agriculture
+          1	Ministère
+          1	Ministère de la Defense
+          1	Ministère de la Justice et des Droits de l'Homme
+          1	Ministère de la santé
+          1	Ministère des Finances et du Budget
+          1	Ministère du Transport
+          1	Ministère secretarie général gouvernement
+          1	Ministére des affaires étrangères
+          1	Mirni
+          1	Mision Carmel
+          1	Mision Soeurs
+          2	Mission Catholique
+          2	Mission catholique
+          1	Mission catholique Bohong
+          1	Mission du plein évangile
+          1	Mobaye
+          1	Mobaye Mbanga Airport
+          1	Mobayi Mbongo General Reference Hospital
+          1	Mobayi-Mbongo
+          1	Modale 1
+          1	Modigi
+          1	Modomale
+          1	Modoué
+          1	Modélé
+          1	Mogba
+          1	Mogo-Kota
+          1	Mogoro
+          1	Mokpoto I
+          1	Mokpoto II
+          1	Mokélo
+          1	Mollaye
+          1	Moléba
+          1	Mon Bebe
+          1	Monastère Boy Rabe
+          1	Monboï
+          1	Mondika
+          3	Mondji
+          1	Mondoli
+          1	Mondonga
+          1	Mondélé
+          1	Monenge
+          1	Mongangou
+          3	Mongo
+          1	Mongossi
+          1	Mongoumba
+          1	Mono
+          1	Mono 2
+          1	Mont Ngaoui
+          1	Moov
+          1	Mopoi
+          1	Moro
+          2	Morouba
+          1	Moroubanda
+          1	Mosque Centrale
+          1	Mossabio
+          1	Motala
+          1	Motel Chinko Bakouma
+          1	Motel Lamerveille
+          1	Motel Simbanza
+          1	Motel Sossy
+          1	Motel le Kadey
+          1	Motouka
+          1	Moudiele
+          1	Moudou
+          2	Moudou 1
+          2	Mouka
+          1	Mouloundou
+          1	Moundi
+          1	Mounyara
+          1	Mourou
+          1	Mourou 4
+          1	Mouskouman
+          1	Moussa
+          1	Moussagoe 1
+          1	Moussoumba
+          1	Moyen-Chari شاري الأوسط
+          1	Moyenne Sido
+          1	Mozan
+          1	Msep
+          1	Mssion catholique
+          1	Musee Regional
+          1	Museé National Barthelemy Boganda
+          1	Myaro
+          1	Médecine interne et tuberculose
+          1	Mélé
+          1	Méson Latin
+          7	M’Pama
+          1	N'Délé
+          1	N'Délé Airport
+          1	NGounzé
+          1	Na-Binmon
+          2	Nabarka
+          1	Nabondo
+          1	Nabélé
+          2	Nagati
+          1	Nagbarka/Nagbaraka
+          1	Nagéso
+          1	Nakala
+          1	Nakando
+          1	Nakingélé
+          1	Nakonmbo
+          1	Nalimo
+          1	Nambena
+          1	Nambona
+          1	Namlé
+          1	Nana
+          9	Nana Bakassa
+         14	Nana Barya
+          1	Nana نهر نانا
+          1	Nana-Bakassa
+          1	Nana-Barya
+          2	Nana-Grébizi
+          2	Nana-Mambéré
+          1	Nana-Outa
+          1	Nanabaria
+          1	Nandobo
+          1	Nanga
+          1	Nangba
+          1	Nangoko
+          1	Nangoto
+          1	Nanjipo
+          1	Nanzembe
+          1	Nao
+          1	Narme
+          1	Nassouri
+          1	National Hôtel
+          1	Natural - Forest
+          1	Nawande
+          1	Nawandé
+          1	Naya
+          2	Ndabala
+          1	Ndabanga
+          1	Ndahili
+          1	Ndakara
+          1	Ndala 2
+          1	Ndale
+          1	Ndaleche
+          1	Ndambi II
+          1	Ndambissoua
+          1	Ndamounou
+          1	Ndanda
+          1	Ndanga
+          1	Ndangala
+          1	Ndao
+          1	Ndassima
+          1	Ndazingoua
+          1	Ndeba
+          1	Ndege Douma
+          1	Ndemagofo
+          1	Ndenga
+          1	Ndengue
+          1	Ndepou
+          1	Ndia
+          2	Ndiba
+          1	Ndiffa
+          2	Ndim
+          1	Ndimba
+          1	Ndimba 2
+          1	Ndimba I
+          1	Ndimba II
+          1	Ndinguiri
+          1	Ndjadé
+          1	Ndjala
+          1	Ndjanga
+          1	Ndjangala
+          1	Ndji
+          1	Ndjokpan
+          1	Ndjomidi
+          1	Ndjondjom
+          1	Ndjoubissi
+          1	Ndobo
+          2	Ndogba
+          1	Ndoki sector
+          1	Ndokora 1
+          1	Ndokora 2
+          1	Ndoké
+          3	Ndol Bassai
+          1	Ndomande
+          1	Ndomboloye
+          1	Ndomete
+          1	Ndong
+          3	Ndonga
+          1	Ndongaké
+          1	Ndongue
+          1	Ndongue Bodomon
+          1	Ndongue-Yoyo
+          2	Ndoro
+          1	Ndoro-Zaïre
+          1	Ndouboure
+          1	Ndouli
+          1	Ndoulou
+          2	Ndoumbou
+          2	Ndounga
+          1	Ndounga Sayo
+          1	Ndouzou
+          1	Ndoué
+          1	Ndow-Kota
+          1	Ndozi
+          1	Ndrassa
+          1	Ndé-Bo
+          1	Ndébo
+          1	Ndéké
+          1	Ndélélé
+          1	Ndéma
+          1	Ndéngué
+          1	Ndénikipa
+          1	Nembi
+          1	Ngaba
+          1	Ngaboua
+          1	Ngadja
+          1	Ngagna
+          1	Ngagoua
+          2	Ngaidoa
+          1	Ngaidoua
+          1	Ngakobo
+          1	Ngakolako
+          1	Ngakoua
+          1	Ngakoulapou
+          1	Ngaké
+          3	Ngalakpa
+          1	Ngalia 3
+          1	Ngaloa
+          1	Ngam
+          1	Ngam-Ngam
+          2	Ngama
+          2	Ngamana
+          1	Ngamana Bondo
+          1	Ngambi
+          1	Ngandio
+          1	Ngandjatoko
+          1	Ngandou
+          1	Nganemandji
+          1	Ngangbari
+          1	Nganito
+          1	Nganzi
+          1	Ngao
+          1	Ngaoubanda
+          3	Ngaoui
+          1	Ngaoukala
+          2	Ngaoundaye
+          1	Ngaoupou
+          1	Ngapele
+          2	Ngapélé
+          2	Ngaragba
+          1	Ngarangba
+          1	Ngarangba 1
+          1	Ngarangba 2
+          1	Ngassa
+          1	Ngassa 2
+          1	Ngatoua
+          1	Ngatungu II
+          1	Ngavoro
+          1	Ngbabola
+          1	Ngbada
+          1	Ngbadegba
+          1	Ngbadrou-Kèdja
+          1	Ngbafio
+          1	Ngbaina-Bondjo
+          1	Ngbaka
+          1	Ngbako
+          1	Ngbalabingui
+          1	Ngbama
+          1	Ngbanba
+          2	Ngbanda
+          1	Ngbanda Gonga
+          1	Ngbandjawara
+          1	Ngbari
+          1	Ngbati
+          1	Ngbawele
+          1	Ngbawele 2
+          1	Ngbazza
+          1	Ngbeda
+          1	Ngbengbe
+          1	Ngbinda
+          1	Ngbo
+          1	Ngbondobéketté
+          1	Ngboro
+          1	Ngbota
+          1	Ngboundou
+          1	Ngiako
+          1	Ngobana
+          1	Ngobo
+          1	Ngodjo
+          1	Ngola
+          1	Ngolia
+          1	Ngolomanda
+          1	Ngombala
+          3	Ngombe
+          2	Ngombi
+          1	Ngombo
+          2	Ngombé
+          1	Ngongboundou
+          1	Ngongo
+          1	Ngonikira II
+          1	Ngopo
+          1	Ngora
+          1	Ngoro
+          1	Ngorom
+          2	Ngoto
+          1	Ngotto
+          1	Ngou
+          1	Ngouaka
+          1	Ngouakouzou
+          1	Ngoualo
+          1	Ngouassa
+          1	Ngoubadja
+          1	Ngoubi
+          1	Ngoubi 1
+          1	Ngoubi 2
+          1	Ngoubou
+          1	Ngouboye
+          1	Ngoubé
+          1	Ngoudjaka
+          1	Ngougaza
+          1	Ngougnon
+          1	Ngouhoro
+          1	Ngoukou
+          1	Ngoukoumba
+          1	Ngoukoumba 2
+          1	Ngoukpra
+          1	Ngoula
+          1	Ngoulekpa
+          1	Ngoulekpa 2
+          1	Ngoulekpa 3
+          1	Ngoulinga
+          1	Ngoulo
+          1	Ngoulya 1
+          1	Ngoulya 2
+          1	Ngoulékpa 1
+          1	Ngoulékpa 2
+          1	Ngoumbala
+          1	Ngoumindou
+          1	Ngoumourou 1
+          1	Ngoumourou 2
+          1	Ngoumé
+          1	Ngouna
+          2	Ngounapalo
+          1	Ngoundji 1
+          1	Ngoundji 2
+          1	Ngoungoua
+          1	Ngouroundou
+          1	Ngoutere
+          1	Ngoutou
+          1	Ngouvota
+          1	Ngouya-Kotamale
+          1	Ngouyali
+          1	Ngouyo 1
+          1	Ngouyo 2
+          1	Ngouyo 3
+          1	Ngouyo 4
+          1	Ngrevaï
+          1	Ngribingui
+          1	Ngréngou
+          1	Nguagueno
+          1	Nguerengou
+          1	Nguerepayo
+          1	Ngui 1
+          1	Nguia-Bouar
+          1	Nguimalet
+          1	Nguinbamba
+          1	Nguinda Gbagui
+          1	Nguindere 2
+          1	Nguinze
+          1	Nguiringuiri
+          1	Nguélé
+          1	Nguéngué
+          1	Nguéné
+          1	Nguéringou
+          2	Nguéréfara
+          1	Nguéréngou
+          2	Niada
+          1	Niada 2
+          1	Niada 3
+          1	Niada 4
+          1	Niakari
+          1	Nian
+          1	Niem
+          1	Niémélé
+          1	Nodji Boro
+          1	Nokessé
+          1	Nola
+          1	Nonbandja
+          1	Nord
+          1	Nord-Ubangi
+          1	Normal superieure
+          1	Notre Dame de Fatima
+          1	Notre dame d'afrique
+          1	Noua
+          1	Nouabalé Ndoki National Park
+          1	Noudou II
+          1	Noufou
+          1	Noukouana
+          1	Noukoussa
+          1	Nouvelle Base
+          1	Nvouna
+          1	Nya
+          1	Nydou
+          1	Nyémélé
+          1	Nzagba Sayo
+          1	Nzakaba
+          1	Nzakasso
+          3	Nzako
+          1	Nzakoun
+          1	Nzakoundou
+          1	Nzamba
+          1	Nzambe
+          1	Nzambi
+          1	Nzango 2
+          1	Nzapoye
+          1	Nzereke
+          1	Nziriri
+          1	Nzole
+          1	Nzongo
+          1	Nzonzo
+          2	Nzoro
+          1	Nzounapaye
+          1	Nzénziri
+          1	O S Bagari
+          1	O S Camp Cafe
+          1	O S Doko-Bodet
+          1	O S Ndoké
+          1	O S Ndongake
+          1	O S Sagani
+          1	O S de Dare
+          1	O S de Ngorom
+          1	O S de Sarpande
+          2	OCHA
+          1	OCRB
+          1	ORANGE
+          1	Obalo
+          1	Obo
+          1	Observatoire
+          1	Oda-Kota
+          1	Oda-kete
+          1	Oda-kota
+          1	Office block
+          1	Ogbalet
+          1	Ogounda
+          1	Omba
+          2	Ombella M'Poko
+          1	Ongo
+          1	Orange
+          1	Orchidées
+          1	Organisation Africaine de la Propriété Intellectuelle
+          1	Orhelinat Ndrès
+          1	Orientale
+          1	Orombia
+          1	Orombiya
+          1	Orongou
+          1	Orongou II
+          1	Orphelinat de Bercail
+          1	Ouadda
+          1	Ouadda Airport
+          4	Ouadi Tiwal
+          1	Ouadimi
+          1	Ouafa
+          1	Ouago
+         21	Ouaka
+          1	Ouakara
+          1	Ouakombo
+          1	Ouali Mingui
+          1	Ouama
+          1	Ouanda
+          1	Ouanda Djallé
+          1	Ouanda Djallé Airport
+          1	Ouanda-Djallé
+          1	Ouandago
+          6	Ouandija
+          1	Ouandja
+          1	Ouandja 1
+          1	Ouando
+          1	Ouangaye
+          2	Ouango
+          1	Ouango 1
+          1	Ouango 2
+          1	Ouangombé
+          1	Ouanza-Bilengo
+          6	Ouara
+          7	Ouarra River
+          1	Ouassérégué
+          1	Ouata 1
+          1	Ouaté
+          1	Ouazoua
+          1	Ouazzoua
+          1	Oubi
+          1	Ouda-Kète
+          1	Oudandi
+          1	Ouga
+          1	Ouguenze
+         33	Ouham
+          1	Ouham Pendé
+          1	Ouham River
+          1	Ouham-Pendé
+          1	Ouhimba
+          1	Ouihi
+          1	Ouin
+          2	Ouli
+          1	Oult
+          1	Oumar
+          1	Oumet
+          1	Ouogo
+          1	Ouorodonga
+          1	Ourou
+          1	Ourou 2
+          1	Ourougbou
+          1	Oussia
+          1	Oussounou
+          2	Ouyé
+          1	Ouza
+          1	Ouésso
+          1	Ouétélé
+          1	Owou 2
+          1	Oxfam GB
+          1	Oyo
+          1	Oyé
+          1	Ozo
+          1	P D S De Raison
+          1	PDS MSF Farazala
+          1	PDS MSF Gbazara
+          1	PDS de Imila
+          1	PK0
+          1	PK12
+          2	PK5
+          2	PS Bodouk
+          1	PS Bouforo-Croisement
+          1	PS Boyanga
+          1	PS Gazouiene
+          1	PS Gbade
+          1	PS Gbazara
+          1	PS Gouze
+          1	PS Herba
+          1	PS Koursou
+          1	PS Ngaidoa
+          1	PS Pende
+          1	PS de Beh
+          1	PS de Belé
+          1	PS de Bondjomo
+          1	PS de Bongono
+          1	PS de Boyabane
+          1	PS de Boyali Yaho
+          1	PS de Kadjama
+          1	PS de Ndonga
+          1	PS de Oda-Kete
+          1	PS de Patcho
+          1	PS de Sido
+          1	PS de Tolle
+          1	Padou
+          1	Padre Pio
+          1	Pago 3
+          1	Pagonendji
+          1	Pagwa
+          1	Pakale
+          1	Pakam
+          1	Pakambala
+          1	Pala
+          1	Palais De Justice
+          1	Palais Présidentiel
+          1	Palais de Berengo
+          1	Palais presidentiel
+          1	Palambo Dam
+          1	Palangue
+          1	Palanque cívico
+          1	Palao
+          1	Palingou
+          1	Pama
+          1	Pamba
+          1	Pamenaba
+          1	Panawa
+          1	Pande
+          1	Pandoko
+          1	Pandu
+          2	Panga
+          1	Pangba
+          1	Pangbaka
+          1	Pangoula
+          1	Pani
+          1	Panokoula
+          1	Pantecote
+          2	Panza
+          1	Panzi
+          1	Paoua
+          1	Paoua Airport
+          1	Paradis
+          1	Parc National Nouabalé-Ndoki
+          1	Parc National de Lobéké
+          1	Partie Renascence Centre Afrique
+          1	Passoro
+          1	Passoro 2
+          1	Patcho
+          1	Pate
+         15	Path
+          1	Patisserie Dieu et Grande
+          1	Patro
+          1	Paté
+          1	Pds Mabo
+          2	Pende
+          1	Pendere-Bafogo
+          3	Pendé
+          1	Pendé بيندي
+          1	Pentecote de Bangoula
+          1	Petit Marché Bakouma
+          2	Petit Pont
+          1	Petit Séminaire de Mbaïki
+          1	Petit lac
+          1	Petite Marché de Gamboula
+          1	Pfad
+          1	Pharmacie Awa
+          1	Pharmacie La Paloma
+          1	Pharmacie MSF
+          1	Pharmacie du Centre
+          1	Pharmacie, ANC/PMC/PMTCT
+          1	Piangou
+          1	Pierlat
+          1	Pimbikassaï
+          1	Pindao
+          1	Pingo Iangi
+          1	Pipeline Tchad-Cameroun
+          1	Pipeline Tchad-Cameroun خط أنابيب تشاد-الكا
+          1	Pipi
+          1	Piste d'atterissage Nzako
+          1	Pitou
+          1	Piya
+          1	Place (rond-point) des Martyrs
+          1	Place Marabena (rond-point colombe)
+          1	Place de la République
+          1	Place des Nations unies (rond-point Boganda)
+          1	Place du Cinquantenaire
+          1	Point D'eau
+          1	Point D'eau Quartier Kobo
+          1	Point D'eau Quartier Yapele
+          1	Point D'eau Quartiet Kobo 2
+          1	Point D'eau Yongossaba
+         14	Point d'eau
+          1	Point d'eau Asegna
+          1	Point d'eau eglise CEBI Samba Gamade
+          1	Police Nzako
+          2	Pombolo
+          1	Pombolo-Madima
+          1	Pon De Bawo
+          2	Pont Bozingade
+          1	Pont Hio
+          1	Pont Kolo
+          1	Pont Oubangui
+          2	Pont Saképé
+          2	Pont Sengué
+          1	Pont Sur Riviere Sandigui
+          1	Pont de Nakando
+          1	Pont-Ouham
+          1	Popongo
+          1	Port Mbomou
+          1	Port Zinga
+          1	Possel
+          1	Possible stream in forest???
+          2	Poste Airport
+          1	Poste De Sante Batimbilika
+          1	Poste De Sante Eglise Apostolique
+          1	Poste De Sante Ndanda
+          1	Poste De Sante Nganzi
+          1	Poste De Sante Oudandi
+          1	Poste De Sante Yongossaba
+          1	Poste Sante Aou 2
+          1	Poste Sante Diguandigui
+          1	Poste de Control de Yamando
+          1	Poste de Gazouwène
+          1	Poste de Santé Arche de Noé
+          1	Poste de Santé Bogang 1
+          1	Poste de Santé Boukayan
+          1	Poste de Santé Catholique
+          1	Poste de Santé Danko Bira
+          1	Poste de Santé Forte
+          1	Poste de Santé Kounang
+          1	Poste de Santé Maikolo
+          1	Poste de Santé Ndongue
+          1	Poste de Santé Saint Charles Lwanga (inactive)
+          1	Poste de Santé Yalingui-Botombo
+          1	Poste de Santé Zaguindi
+          1	Poste de Santé communautaire de Fambe
+          1	Poste de Santé d'Azené
+          1	Poste de Santé de Abo-Boguirma
+          1	Poste de Santé de Akpa
+          1	Poste de Santé de Assana
+          1	Poste de Santé de Badia
+          1	Poste de Santé de Bang
+          1	Poste de Santé de Bangba
+          1	Poste de Santé de Banziti
+          1	Poste de Santé de Bea-Nana
+          1	Poste de Santé de Beboye
+          1	Poste de Santé de Beboye 3
+          1	Poste de Santé de Bedaya 2
+          1	Poste de Santé de Beina
+          1	Poste de Santé de Binguenendji
+          1	Poste de Santé de Blakadja
+          1	Poste de Santé de Bobo
+          1	Poste de Santé de Bodangui
+          1	Poste de Santé de Bode
+          1	Poste de Santé de Boding-Mon
+          1	Poste de Santé de Bodora
+          1	Poste de Santé de Bofiota
+          1	Poste de Santé de Bogali 2
+          1	Poste de Santé de Bogbatoyo
+          1	Poste de Santé de Bokini
+          1	Poste de Santé de Bokiné
+          1	Poste de Santé de Boko
+          1	Poste de Santé de Bokongo
+          1	Poste de Santé de Bombalou
+          1	Poste de Santé de Bonanse
+          1	Poste de Santé de Bondiba
+          1	Poste de Santé de Bongo
+          1	Poste de Santé de Borodoul
+          1	Poste de Santé de Bossa
+          1	Poste de Santé de Bossio
+          1	Poste de Santé de Boukayan
+          1	Poste de Santé de Bouyangou
+          1	Poste de Santé de Bouzou
+          1	Poste de Santé de Boya
+          1	Poste de Santé de Boyaram
+          1	Poste de Santé de Bédam
+          1	Poste de Santé de Bédaya
+          1	Poste de Santé de Bégouladjé 1
+          1	Poste de Santé de Chegbolo
+          1	Poste de Santé de Dilapoko
+          1	Poste de Santé de Doko
+          1	Poste de Santé de Domodo
+          1	Poste de Santé de Dongo
+          1	Poste de Santé de Donzi
+          1	Poste de Santé de Doukouma
+          1	Poste de Santé de Doukoumbe
+          1	Poste de Santé de Farazara
+          1	Poste de Santé de Gamboula
+          1	Poste de Santé de Gazao
+          1	Poste de Santé de Gbadali 4
+          1	Poste de Santé de Gbade
+          1	Poste de Santé de Gbadene
+          1	Poste de Santé de Gbakaya
+          1	Poste de Santé de Gbangola
+          1	Poste de Santé de Gbangou
+          1	Poste de Santé de Godawa
+          1	Poste de Santé de Gondava
+          1	Poste de Santé de Goussema
+          1	Poste de Santé de Goya
+          1	Poste de Santé de Herba
+          1	Poste de Santé de Irma-Baro
+          1	Poste de Santé de Kaita
+          1	Poste de Santé de Kakouda
+          1	Poste de Santé de Kakouda-Bede
+          1	Poste de Santé de Kando
+          1	Poste de Santé de Kango
+          1	Poste de Santé de Kollo-Gassa
+          1	Poste de Santé de Komo-Bombo
+          1	Poste de Santé de Kopia
+          1	Poste de Santé de Kossamba
+          1	Poste de Santé de Kosse
+          1	Poste de Santé de Kouki
+          1	Poste de Santé de Koukourou
+          1	Poste de Santé de Kounde
+          1	Poste de Santé de Kounmbam 1
+          1	Poste de Santé de Kounmbam 2
+          1	Poste de Santé de Koutchou
+          1	Poste de Santé de Kowone
+          1	Poste de Santé de Krakondji
+          1	Poste de Santé de Lafolo
+          1	Poste de Santé de Lakandja
+          1	Poste de Santé de Lambla
+          1	Poste de Santé de Lemona
+          1	Poste de Santé de Letele
+          1	Poste de Santé de Makondji-Wali
+          1	Poste de Santé de Maloum
+          1	Poste de Santé de Maoroka
+          1	Poste de Santé de Maraze
+          1	Poste de Santé de Maromba
+          1	Poste de Santé de Mayo-Lara
+          1	Poste de Santé de Mbalangao
+          1	Poste de Santé de Mbali
+          1	Poste de Santé de Mbandje-Lokoto
+          1	Poste de Santé de Mbartoua
+          1	Poste de Santé de Mbereguili
+          1	Poste de Santé de Mbiti-Bamala
+          1	Poste de Santé de Mboko-Tatali
+          1	Poste de Santé de Morouba
+          1	Poste de Santé de Moroubanda
+          1	Poste de Santé de Nana-Outa
+          1	Poste de Santé de Ndakara
+          1	Poste de Santé de Ndanga
+          1	Poste de Santé de Ndenga
+          1	Poste de Santé de Ndiba-Bouassa
+          1	Poste de Santé de Ndinguiri
+          1	Poste de Santé de Ndoro
+          1	Poste de Santé de Ndouboure
+          1	Poste de Santé de Ndoumbou
+          1	Poste de Santé de Ndow-Kota
+          1	Poste de Santé de Ngadja
+          1	Poste de Santé de Ngakobo
+          1	Poste de Santé de Ngaoundaye
+          1	Poste de Santé de Ngatoua
+          1	Poste de Santé de Ngbaina-Bondjo
+          1	Poste de Santé de Ngbako
+          1	Poste de Santé de Ngbawele
+          1	Poste de Santé de Ngolomanda
+          1	Poste de Santé de Ngorom
+          1	Poste de Santé de Ngrevaï
+          1	Poste de Santé de Nguinze
+          1	Poste de Santé de Nzakoun
+          1	Poste de Santé de Nzakoundou
+          1	Poste de Santé de Nzapoye
+          1	Poste de Santé de Nzole
+          1	Poste de Santé de Nzoro
+          1	Poste de Santé de Nzounapaye
+          1	Poste de Santé de Outa
+          1	Poste de Santé de Ouza
+          1	Poste de Santé de Pougol
+          1	Poste de Santé de Poumayassi
+          1	Poste de Santé de Ramadane
+          1	Poste de Santé de Rendekouzou
+          1	Poste de Santé de Saboyombo
+          1	Poste de Santé de Sah
+          1	Poste de Santé de Sangame
+          1	Poste de Santé de Sogbafo
+          1	Poste de Santé de Tagbara
+          1	Poste de Santé de Togo
+          1	Poste de Santé de Wangue 1
+          1	Poste de Santé de Wapo
+          1	Poste de Santé de Yamissi
+          1	Poste de Santé de Yekétché
+          1	Poste de Santé de Yongoro
+          1	Poste de Santé de Zabo
+          1	Poste de Santé de Zaorossongou
+          1	Poste de Santé de Zotoua
+          1	Poste de Santé de Zoubingui
+          1	Poto-Poto
+          1	Poubadji
+          1	Poubati
+          1	Poubelé
+          1	Poubol
+          1	Pougabara
+          1	Pougol
+          1	Pougol 1
+          1	Pougoro
+          1	Pouka
+          1	Poukabara
+          1	Poukao
+          1	Pouko
+          1	Poukone
+          1	Poukou
+          1	Poulao-Gentil
+          1	Poumalé
+          1	Poumayassi
+          1	Poumbaidi II
+          1	Poumbaindji
+          1	Poumbari
+          1	Pounambo
+          1	Poundo
+          1	Pounembale
+          1	Poungakola
+          1	Poungbando
+          1	Poupou
+          1	Poussende
+          1	Pouyamba
+          1	Prama
+          1	Prefecture Du Mbomou
+          1	President de la jeunesse musulmane
+          1	Primaire de Mandaba
+          1	Primature
+          1	Prison
+          1	Privée catholique
+          1	Prouazo Kalambour
+          1	Pundungu
+          1	Pédiatrie
+          1	Pékéto
+          1	Pékéyo
+          1	Pélopambou
+          1	Pélé
+          1	Pélémongo
+          1	Péndé 1
+          1	Péndé 2
+          1	Pésséré
+          1	Quartier Arabe
+          1	RCA
+          1	RD Congo - Congo-Brazzaville
+          9	RD Congo - République centrafricaine
+          1	RD Congo - South Sudan
+          1	RD Congo - anciennes provinces (avant mi-2015)
+          1	RD Congo - provinces
+          1	RJDH / Internews
+         23	RN 10
+          3	RN 11
+         18	RN 2
+          1	RN 5
+          7	RN 8
+          4	RN10
+         78	RN2
+          7	RN8
+          5	RN9
+          4	RR 1
+          3	RR 10
+          3	RR 12
+          3	RR 26
+          1	RR1
+          5	RR11
+          1	RR12
+         10	RR13
+          3	RR14
+          5	RR15
+          1	RR22
+          6	RR26
+          1	Rabi
+          1	Radio Ndela Luka
+          1	Rafaï
+          1	Raison
+          1	Ramadane
+          1	Rayan
+          1	Redebo
+          1	Rehondji
+          2	Relais des Chasses
+          1	Remandji
+          1	Rendekouzou
+          1	Residence RDC
+          1	Residence de Cameroun
+          1	Residência do Chefe de CDS
+          2	Restaurant Mont Fleury
+          2	Restaurant chinois
+          1	Restaurante
+          1	Ribo
+          1	Riviere Banguila Pk 17
+          1	Riviere Dingao
+          1	Riviere Goundou
+          1	Riviere Kale
+          1	Riviere Kapi
+          1	Riviere Nvoulou-ndigui
+          1	Riviere Pk 36
+          1	Riviere Sangia
+          1	Riviere Tamba
+          1	Riviere mbari
+          1	Roboringa
+          1	Rock Club
+          1	Rokone al Arab
+          1	Rond-point Abel Goumba (serpent)
+          1	Rond-point Boganda
+          1	Rondpoint Monument Des Martyrs
+          1	Rondpoint Monument Du Sultan
+          1	Rondpont Barama
+          1	Rouhou
+          1	Rounga
+          1	Route Bokote-kete - Bombara-kota
+          1	Route Borodoul - De Gaulle
+          4	Route Djembé - Abba
+          1	Route Gbade - Bobili
+          1	Route Godawa - Komo-Bombo
+          1	Route Zoulouma - Akpia
+          1	Route a Balamba
+          6	Route de Bafio à Date
+          1	Route de Boubougou
+          3	Route de Carnot à Yoro
+          1	Route de Kaga-Bandora à Kotangombé
+          3	Route de Ndim à Nzounapaye
+          1	Route nationale 23
+          1	Route nationale 24
+          1	Route nationale 4
+          1	Route nationale 6
+          1	Routes Nationales Congo Kinshasa
+          1	Rue 2128
+          1	Rue Charles Rognon
+          1	Rue Durand Ferre
+          1	Rue Foureau Lamy
+          1	Rue Gamal Abd el Nasser
+          1	Rue Joseph Degrain
+          1	Rue Liotard
+          1	Rue Martin Luther King Jr.
+          4	Rue d'Uzès
+          1	Rue de Brazza
+          2	Rue de Flandre
+          1	Rue de Navarre
+          1	Rue de l'Université
+          1	Rue de la Kouanga
+          1	Rue de la Moyenne Corniche
+          1	Rue des Missions
+          3	Rue du Docteur Cureau
+          3	Rue du Languedoc
+          1	Rue du Port
+          1	Réfectoire
+          1	République démocratique du Congo
+          1	SADC 10 (eastbound)
+          1	SADC 10 (westbound)
+          1	SC de Grimari
+          1	SMI Bohong
+          1	SODECA
+          1	SOS VdE
+          1	SOS VdE Direction
+          1	SOS village d'enfants
+          1	Sabanga
+          1	Sabayanga 1
+          1	Sabayanga 2
+          1	Sabewa
+          1	Sabo
+          1	Sabongo
+          1	Sabou
+          1	Saboyombo
+          1	Sadjar
+          1	Safari Ht Chinko
+          1	Safou
+          1	Sagani
+          1	Sagon
+          1	Sah
+          1	Sahara
+          1	Sahoro
+          1	Saint-Joseph
+          1	Saint-Maurice
+          1	Saint-Michel
+          1	Sainte Alexendrine
+          1	Sainte Famille des Banziris
+          1	Sainte Jeanne d'Arc
+          1	Sakai I
+          1	Sakai II
+          1	Sakai III
+          1	Sakai IV
+          1	Sakalongo
+          1	Sakasa
+          1	Sakpa
+          1	Sala
+          2	Sala de Observação de Adultos
+          1	Salamat سلامات
+          1	Salanga
+          1	Salapoumbé
+          1	Sale de Observación du CDS - Sosso Nakombo
+          1	Salebo
+          1	Salle d'Observation - CDS Sosso Nakombo
+          1	Salle omnisports
+          1	Salo
+          1	Salé Sucré
+          2	Sam-Ouandja
+          1	Sam-Ouandja Airport
+          1	Samanzai
+          1	Samanzay
+          5	Samba
+          1	Samba Gamade
+          1	Samba Mbaguia
+          1	Samba-Bougoulou
+          1	Samba-Mbaguia
+          1	Sambaouandja
+          1	Sambi
+          1	Sambia-Nganda
+          1	Sambora
+          1	Samon
+          1	Sana
+          1	Sandere
+          1	Sandigui
+          1	Sandjimba
+          1	Sangame
+          1	Sanganakonzi
+          1	Sangarigou
+          1	Sangbanda
+          1	Sangbo
+          7	Sangha
+          2	Sangha-Mbaéré
+          1	Sango 2
+          1	Sangoldo
+          1	Sangouguia
+          1	Sangria
+          1	Sanguere 3
+          2	Sanguere Lim
+          1	Sanguere Pende
+          1	Sans-Souci
+          1	Sao
+          1	Saoua
+          1	Sapoua
+          1	Sara
+          1	Saragba-Borokota
+          1	Saramadji
+          1	Saratumba
+          1	Sarki
+          1	Sarki Bogong 4
+          1	Sarpande
+          1	Sassélé
+          1	Satema
+          1	Satoulou
+          1	Sattio
+          1	Save the Children
+          1	Sawa
+          1	Scieur
+          1	Secteur
+          2	Sekia
+          1	Seko
+          1	Sengélé
+          1	Sergobo
+          1	Serpendé
+          1	Service Kollo
+          1	Service VIH
+          1	Service de chirurgie
+          1	Seyango
+          1	Seye-Mokeni
+          1	Shop
+          1	Sia
+          1	Sibut
+          1	Sibut Airport
+          1	Sibé
+          2	Sidi
+          1	Sido
+          1	Siembo
+          1	Sigbololo
+          1	Sikiked
+          1	Sikikédé
+          1	Sikou
+          1	Sikoum
+          1	Sila سيلا
+          1	Simbi
+          1	Simindou
+          1	Sinda
+          1	Sindi
+          2	Singa
+          2	Singe
+          1	Singuélé
+          2	Siolo
+          1	Sioléba
+          1	Siou
+          1	Sioua
+          1	Sirikotta
+          1	Site IDPs Alternatif
+          1	Site IDPs PK8
+          1	Site IDPs Sangaris
+          1	Site Réfugiés Congalais
+          1	Site de deplacés A/1
+          1	Site de deplacés B/2
+          1	Soa Zanganda
+          1	Sobo
+          1	Socada
+          1	Sodi
+          1	Sodinga
+          1	Soh 1
+          1	Sokodo
+          1	Sokorta-Abba
+          1	Sokoumba
+          1	Sokoy yakoma
+          1	Solidarites International
+          1	Solé
+          1	Somboke
+          1	Sombolola
+          1	Somica
+          1	Songba
+          1	Songbafo
+          2	Songo
+          1	Soroma
+          1	Sosso-Nakombo
+          1	Soulémaka
+          1	Souma
+          1	Soumassoum
+          1	Soumbé
+          1	Soumo
+          1	Soumousou
+          1	Sounda
+          1	Soungbe-Gozengue
+          1	Soupe
+          1	Souri
+          1	Sourou
+          1	Sous-Préfecture
+          1	Sous-Préfecture de Sosso-Nakombo
+          1	Sous-préfecture de la Ouaka
+          1	Sous-préfet
+          1	Soussoungou
+          1	South Sudan
+          1	South Sudan - Central African Republic
+          1	Soya
+          1	St Antoine de Padoue
+          1	St Bernard
+          1	St Charles
+          1	St Christophe
+          1	St Jacques de Kpeténé
+          1	St Jean
+          1	St Jean Colomb
+          2	St Jean de Gabaladja
+          1	St Joseph de Mukassa
+          1	St Marc Bimbo
+          1	St Michel de Bazanga
+          2	St Paul
+          2	St Sauveur
+          1	St Trinité des Castors
+          1	Stade Bonga Bonga
+          1	Stade Complexe Barthélémy Boganda
+          1	Stade De Bangassou
+          1	Staff accomodation 1
+          1	Staff accomodation 2
+          1	Station Missionnaire
+          1	Station Total
+          1	Station meteo Bangassou
+          2	Stock
+          1	Stock UNHCR ?
+          1	Stock médical
+          3	Stream???
+          1	Sub-Prefecture de Berberati
+          1	Sub-Prefeitura de Amada-Gaza
+          1	Sub-prefecture de Sosso Nakombo
+          1	Sud-Ubangi
+          1	Sébala
+          1	Sébokélé
+          1	Séfikala
+          1	Sékimote
+          2	Sélim
+          1	Séoundou
+          1	Sépéré
+          1	Sérao
+          1	TELECEL
+          1	TOTAL
+          1	TOURISTIQUE EXPRESS
+          1	Tabané
+          1	Tabané 2
+          1	Tagaradé
+          1	Tagbara
+          1	Tagnagna
+          1	Tagoua
+          1	Taibo
+          1	Takamala
+          1	Takandja
+          1	Takara Gribinzi
+          1	Takaya
+          1	Takobanda
+          1	Takou
+          1	Tala
+          1	Taley
+          1	Talo
+          1	Tamba
+          1	Tamboula-Langba
+          1	Tamboura
+          1	Tambura-Yubo
+          1	Tandomazouma
+          1	Tangara
+          1	Tangonda
+          1	Tanguite
+          1	Tao
+          1	Tapourou
+          1	Tarman
+          1	Tatakpain II
+          1	Tatia
+          1	Tawangé
+          1	Tawi
+          1	Tayoyo
+          1	Tchabanda
+          1	Tchad تشاد
+          1	Tchia-Tchia 1
+          1	Tchingoto
+          2	Tchola
+          1	Tchola 2
+          1	Tchola 5
+          1	Tchola 6
+          1	Tchola 7
+          1	Tchola-Gbadja
+          1	Tedoa
+          1	Tegbadou
+          2	Telecommunications tower
+          1	Television
+          1	Temple Jérusalem De Yigbo Mboyo
+          1	Temple Sion
+          1	Tent 1
+          1	Tent 2
+          1	Tere
+          1	Terfelle 2
+          1	Terfélé
+          1	Terminal Nord
+          1	Terminal du aéroport de Zémio
+          1	Terrain de Football
+          1	Terrain de football
+          1	Terrain football
+          1	Test
+          1	Tiaka
+          1	Tikembé
+          1	Tikémbé
+          1	Tima-Rive
+          1	Tinguere-Mandja
+          1	Tipaguéné
+          1	Tipoye
+          3	Tiringoulou
+          1	Tiroungoulou
+          1	Tissi
+          1	Tissi 1
+          1	Tissi 2
+          1	Tissi 3
+          1	Tissi 4
+          1	Tissi Lake
+          1	Titi
+          1	Tobalé
+          1	Togo
+          1	Togounda
+          1	Tohombi
+          1	Toko
+          3	Tokoyo
+          1	Toktoyo
+          1	Tolle
+          1	Tomba
+          1	Tondo
+          1	Tondomazouma
+          1	Tongolo
+          1	Toque
+          2	Toro
+          1	Torombo
+          1	Toruma
+          4	Total
+          1	Touaka
+          1	Touazon
+          1	Toubanco2
+          1	Toubangko2
+          1	Toubanko1
+          1	Touboro
+          1	Touga
+          1	Touiguede
+          1	Toulara
+          1	Toulmbao
+          1	Toumba
+          1	Toumi
+          1	Toumo
+          1	Toumori
+          1	Toumou
+          1	Touristique express Garoua - boulaï
+          1	Towé
+          1	Tradex
+          1	Transport a Mbaiki et la direction Sud-Ouest
+          1	Tresor
+          1	Tresor De Bangassou
+          1	Triagem, Consultas e Sala de Observação Pediátricas.
+          1	Triagem, Consultas e Sala de Observação Peiátricas.
+          1	Tribunal
+          1	Tribunal de Grandes Instances
+          1	Trippel-Divide
+          1	Troupou 2
+          1	Tsanaga Soya
+          1	Tékipandé
+          1	Télévision Centrafricaine
+          1	Témounga
+          1	Tépéré
+          1	UNESCO
+          3	UNHCR
+          1	UNICEF
+         10	Ubangi
+          2	Uele
+          1	Union Européenne
+          1	Université de Bangui
+          2	Unknown
+          1	Urgences, Admissions, Laboratoire
+          1	Usine SODECA de Bambari
+          1	Vafio
+          6	Vakaga
+          1	Vakap
+          1	Vallee du Mbere
+          1	Valo Foulbe
+          2	Vami
+          1	Vange
+          1	Vassako
+          1	Vassako ou Bangalélé
+          1	Vianda
+          1	Village AIM
+          1	Village Bagou
+          1	Village SOS
+          1	Voh
+          1	Vondo
+          1	Votovo
+          1	Voudou I
+          1	Voudou III
+          1	Vougba
+          1	Vouh
+          1	Voula
+          1	Voulgoe
+          1	Vouloubé
+          1	Vrémaï
+          4	WFP
+          1	Waddai
+          2	Wakassao
+          1	Wambo
+          1	Wampo
+          1	Wanbaki
+          1	Wanbanbasa
+          1	Wandalondo
+          1	Wanenga
+          1	Wanga
+          1	Wangala
+          1	Wango Kotta
+          1	Wangué
+          1	Wanmbio
+          1	Wantiguere
+          1	Wantiguira
+          1	Wapali
+          1	Wapo
+          1	Wapongo
+          1	Watoro
+          1	Wazangba
+          1	Western Bahr el Ghazal
+          1	Western Equatoria
+          1	Wikamo
+          1	Wilsary
+          1	Wollo
+          1	Wolongo
+          1	Worobe
+          1	Wotoro
+          1	Wouro Baabaari
+          1	Woya
+          1	Wuye
+          1	Yabada-Bakaba
+          1	Yabaka
+          1	Yabendoko
+          1	Yabita
+          1	Yaboko
+          1	Yacpa
+          1	Yafaragouva
+          1	Yagarandji
+          2	Yagbé
+          1	Yagongue
+          1	Yagou
+          1	Yagoussou
+          1	Yaka
+          1	Yakamalé
+          1	Yakete-Baye
+          1	Yakidji
+          1	Yako
+          1	Yakoamba
+          1	Yakoli
+          1	Yakoma
+          1	Yakomba
+          1	Yakoro
+          1	Yakwa
+          1	Yaligaza
+          1	Yalinga
+          1	Yalinga Airport
+          1	Yalingueré
+          1	Yaloke
+          1	Yamale
+          1	Yamalé
+          1	Yamaye
+          1	Yamba
+          1	Yambassa
+          1	Yambourou
+          1	Yamissi
+          1	Yananguéré
+          1	Yandoba
+          1	Yanede
+          1	Yangana
+          1	Yangba
+          1	Yangba Gbenou
+          1	Yangbanga
+          1	Yangmon-Ndere
+          1	Yangoasso
+          1	Yangoforo
+          1	Yangoro
+          1	Yangou 1
+          1	Yangou Hoda
+          1	Yangou-Angouba
+          1	Yangou-Bamada
+          1	Yangou-Diamant 1
+          1	Yangou-Samba
+          1	Yangou-Wassa
+          1	Yangou-Zénda
+          1	Yangouakora
+          1	Yangoubanda
+          1	Yangoudongo
+          1	Yangoudroundja
+          1	Yangouko
+          1	Yangoumaka
+          1	Yangoungba
+          1	Yangoungongué
+          1	Yangoussago
+          1	Yangouta-Mbour
+          1	Yangouya
+          1	Yangoya
+          1	Yangéré
+          1	Yao I
+          1	Yao III
+          1	Yapara
+          1	Yapele
+          1	Yapondo
+          1	Yarangba
+          1	Yarangbang
+          3	Yasa
+          1	Yassézo
+         11	Yata
+          1	Yatagba
+          1	Yatigandza
+          1	Yatimbo
+          1	Yawa
+          1	Yazi
+          1	Yaénikao
+          1	Yebe
+          1	Yekétché
+          2	Yelewa
+          1	Yene
+          2	Yenga
+          1	Yengou
+          1	Yengué
+          1	Yenzia
+          1	Yerombonde
+          1	Yibi-Samba
+          1	Yobe
+          1	Yogbo Mboyo
+          1	Yogbo-Mbouyo
+          1	Yokadouma
+          1	Yolomale-Godo
+          1	Yoloungou
+          1	Yombandji
+          1	Yombo
+          1	Yombo-Bac
+          1	Yongo
+          1	Yongofongo
+          2	Yongoro
+          1	Yongoro Betima
+          2	Yongossaba
+          1	Yongou
+          2	Yoro
+          1	Yota
+          1	Yotto
+          1	Youngofongo 1
+          1	Youngofongo 2
+          1	Youzora
+          1	Yovoungou 1
+          1	Yovoungou 2
+          1	Yubo
+          1	Yégbé
+          1	Yérima
+          1	Yétizou
+          1	ZEBEC de Batimbilika
+          1	Zabo
+          1	Zabo-Mambé
+          1	Zaboutou
+          1	Zabé
+          1	Zacko 3
+          2	Zacko 4
+          1	Zacko 5
+          1	Zacko 7
+          1	Zacko 8
+          1	Zacko 9
+          1	Zado
+          1	Zagarou
+          1	Zai
+          1	Zakcko 2
+          1	Zallo
+          1	Zaloua
+          1	Zam-Ali
+          1	Zamara
+          1	Zamazan
+          1	Zambe
+          1	Zana
+          1	Zando
+          1	Zanengbede
+          1	Zangaïnga
+          1	Zaoranya
+          1	Zaoro-Dana
+          1	Zaorodono
+          1	Zaoroguima
+          1	Zaoropata
+          1	Zaorossongou
+          1	Zaouissi
+          2	Zara
+          1	Zarabanda
+          1	Zarami
+          1	Zarapéyin
+          1	Zaromadjia
+          2	Zawa
+          1	Zawara
+          1	Zawélé
+          1	Zefio
+          1	Zegbe
+          1	Zegonta
+          1	Zemio Airport
+          1	Zenian
+          1	Zere
+          1	Zerewere
+          1	Zeridao
+          2	Ziangba
+          1	Zidro
+          1	Ziendi
+          1	Ziguili
+          1	Zikiti
+          2	Zila
+          1	Zima
+          2	Zimango
+          1	Zime
+          1	Zime Fleuve
+          1	Zimé
+          1	Zinda
+          1	Zindi
+          2	Zinga
+          1	Zipo
+          1	Zoambalo
+          1	Zobé-Mbari
+          1	Zoko
+          1	Zokombo
+          1	Zolémo
+          1	Zomié
+          1	Zondo
+          1	Zone de stockage des déchets et incinérateur
+          3	Zongo
+          1	Zotoua
+          2	Zotte
+          1	Zou
+          1	Zoubingui
+          1	Zoubourou
+          1	Zougo
+          1	Zougougbada
+          1	Zoukombo
+          1	Zoukoutouniala
+          1	Zoukoutouniala I
+          1	Zoukouzou
+          1	Zouldengam
+          1	Zoulouma
+          1	Zoumako
+          2	Zoumanga
+          1	Zoumangwa
+          1	Zoundoukou
+          1	Zounede
+          1	Zoungbe-Nassala
+          1	Zounoubaya
+          1	Zoutale
+          1	Zémi
+          1	Zémio
+          1	Zémoyé
+          1	```````````````````````````````````````````````````````````
+          8	animal pens
+          1	bas-fonds aménagé
+          1	border of low-res Bing image as of june 26 2013
+          2	border of low-res Bing-island as of 2013-04-26
+          1	border of low-res Bing-island as of 2013-09-21
+          1	border of low-res island as of 2013-04-26
+          1	buil
+          1	capitol patisserie
+          1	chemin
+          1	dépôt de tabac (Inactif)
+          1	football
+          1	guest 6
+          1	house
+          1	hut
+          1	looks like a well
+          1	low res Bing image border as of june 26 2013
+          1	meskine
+          1	pandu
+          1	parco
+          1	parcours d'obstacles
+          1	paroisse sacree coeur
+          1	path
+          1	posts de sante so no jean I
+          1	prairie
+          1	puits
+          1	restaurant Azimuth
+          1	route de cheval
+          1	shed/some kind of biulding
+          1	station radio communautaire Zoukpana
+          1	terrain foot Kassai
+          1	way to Alindao Airport
+          1	ÉCHELLE
+          1	École Ali-Baba
+          1	École Anita Sahlin
+          1	École Assana
+          1	École Associée de Bata
+          1	École Bamba
+          1	École Banabongo
+          1	École Baria
+          1	École Bego ndongue
+          1	École Bomague
+          1	École Boue
+          1	École Bouyangou
+          1	École Bouzou
+          1	École Boyawan Tounou
+          1	École Catholique Associée
+          1	École Catholique Associée Sainte Famille
+          1	École Catholique Pietro-Pedroli
+          1	École Centre 1 de Garçons
+          1	École Centre 2 de Filles
+          1	École Communautaire de Date
+          1	École Communautaire de Kandji-Mara
+          1	École De Gaulle
+          1	École Della
+          1	École Djambala de Filles
+          1	École Djambala de Garçons
+          1	École Dohiya
+          1	École F1 Annexe CET Maigaro
+          3	École Fondamentale 1
+          1	École Fondamentale 1 de Dikofio
+          1	École Fondamentale de Kamba
+          1	École Gaigo
+          1	École Gobouyo
+          1	École Gogo
+          1	École Herman A&B
+          1	École Immaculée Conception (ECAC)
+          1	École Jardin d'enfants
+          1	École Ka´ta
+          1	École Kella Moelle
+          1	École Korndamon
+          1	École Kounpala
+          1	École Kpockwane1
+          1	École Leclerc
+          1	École Low
+          1	École Maikolo
+          1	École Maloum Mele
+          1	École Mamadou Sara
+          1	École Maternelle
+          1	École Maternelle d'Ippy
+          1	École Maternelle de Bakala
+          1	École Maternelle de Ndomete
+          1	École Maternelle du CTRO
+          1	École Mberewock
+          1	École Mbrès-Centre
+          1	École Menessia
+          1	École Mere
+          1	École Mixte Bagga
+          1	École Mixte Haoussa A&B
+          1	École Mixte SOGEMCA de Likaya
+          1	École Mixte Sainte Claire
+          1	École Mixte d'Adamou
+          1	École Mixte d'Orongou
+          1	École Mixte d'Ouin
+          1	École Mixte de Alim
+          1	École Mixte de Angara-kete
+          1	École Mixte de Assa
+          1	École Mixte de Babaza
+          1	École Mixte de Badawangue
+          1	École Mixte de Balego
+          1	École Mixte de Balembe
+          1	École Mixte de Banda
+          1	École Mixte de Bangui-Banda
+          1	École Mixte de Bania
+          1	École Mixte de Bardé
+          1	École Mixte de Bayama
+          1	École Mixte de Beina
+          1	École Mixte de Beina-Doyemon
+          1	École Mixte de Belalou
+          1	École Mixte de Belissambe
+          1	École Mixte de Beltounou
+          1	École Mixte de Bera
+          1	École Mixte de Binoumbi
+          1	École Mixte de Bode
+          1	École Mixte de Bofidoua
+          1	École Mixte de Bofile
+          1	École Mixte de Bofoui
+          1	École Mixte de Bogboto
+          1	École Mixte de Bogoro
+          1	École Mixte de Bokaiwa
+          1	École Mixte de Bokoue
+          1	École Mixte de Bolélé
+          1	École Mixte de Bomanda
+          1	École Mixte de Bomanda 1
+          1	École Mixte de Bombara-kota
+          1	École Mixte de Bonanse
+          1	École Mixte de Bondili
+          1	École Mixte de Bongo
+          1	École Mixte de Borokota
+          1	École Mixte de Bossa
+          1	École Mixte de Bosseli
+          1	École Mixte de Botongo
+          1	École Mixte de Bouabouziki
+          1	École Mixte de Bouansouma
+          1	École Mixte de Bouria
+          1	École Mixte de Bowara
+          1	École Mixte de Bowaye
+          1	École Mixte de Bowing
+          1	École Mixte de Boya
+          1	École Mixte de Bozoro
+          1	École Mixte de Dengbe
+          1	École Mixte de Dessi
+          1	École Mixte de Djilapoko
+          1	École Mixte de Doko
+          1	École Mixte de Dongo
+          1	École Mixte de Donzi
+          1	École Mixte de Dori
+          1	École Mixte de Fada
+          1	École Mixte de Fambele
+          1	École Mixte de Gbafio
+          1	École Mixte de Gbagaza (Kpongo)
+          1	École Mixte de Gbambia
+          1	École Mixte de Gbango
+          1	École Mixte de Gbangola
+          1	École Mixte de Gbangou
+          1	École Mixte de Gbassounou
+          1	École Mixte de Gbatogo
+          1	École Mixte de Gbazi
+          1	École Mixte de Gbede
+          1	École Mixte de Gbedene
+          1	École Mixte de Gbom
+          1	École Mixte de Godawa
+          1	École Mixte de Gontikiri
+          1	École Mixte de Houssem
+          1	École Mixte de Kaba
+          1	École Mixte de Kagoe
+          1	École Mixte de Kakouda-Bede
+          1	École Mixte de Kakuda-Dimon
+          1	École Mixte de Kamadjiki
+          1	École Mixte de Kamanga
+          1	École Mixte de Kangomo
+          1	École Mixte de Kankan
+          1	École Mixte de Komo-Bombo
+          1	École Mixte de Kore
+          1	École Mixte de Korondo
+          1	École Mixte de Kosse
+          1	École Mixte de Kozoro
+          1	École Mixte de Kpokolita
+          1	École Mixte de Lady-Banga
+          1	École Mixte de Léré
+          1	École Mixte de Mandela
+          1	École Mixte de Marali
+          1	École Mixte de Maraze
+          1	École Mixte de Mbali
+          1	École Mixte de Mbanjifolo
+          1	École Mixte de Mbartoua Ngaguene
+          1	École Mixte de Mboula
+          1	École Mixte de Mboya Yanguere
+          1	École Mixte de Modélé
+          1	École Mixte de Nagati
+          1	École Mixte de Nandobo
+          1	École Mixte de Nangoko
+          1	École Mixte de Nanzembe
+          1	École Mixte de Nassole
+          1	École Mixte de Ndafourou
+          1	École Mixte de Ndiba
+          1	École Mixte de Ndiba-Ngangué
+          1	École Mixte de Ndombo
+          1	École Mixte de Ndomete
+          1	École Mixte de Ndongue-Yoyo
+          1	École Mixte de Ngapele
+          1	École Mixte de Ngatoua
+          1	École Mixte de Ngbada
+          1	École Mixte de Ngbako
+          1	École Mixte de Ngobana
+          1	École Mixte de Ngoumourou
+          1	École Mixte de Ngouyali
+          1	École Mixte de Nzako
+          1	École Mixte de Oda-kete
+          1	École Mixte de Oda-kota
+          1	École Mixte de Ouaki
+          1	École Mixte de Patcho
+          1	École Mixte de Pimbikassaï
+          1	École Mixte de Sagbanda
+          1	École Mixte de Sangamini
+          1	École Mixte de Soumbe-BDPA
+          1	École Mixte de Tapourou
+          1	École Mixte de Tawi
+          1	École Mixte de Tedoa
+          1	École Mixte de Vakap
+          1	École Mixte de Wapo
+          1	École Mixte de Yakoma
+          1	École Mixte de Yamissi
+          1	École Mixte de Yenga
+          1	École Mixte de Yoro
+          1	École Mixte de Zando
+          1	École Mixte de Zere
+          1	École Mixte de Zoubanda
+          1	École Ndakobo Guizore
+          1	École Ngana
+          1	École Ngaoukala
+          1	École Nicola Bara
+          1	École Notre-Dame de Liesse
+          1	École Ouandama
+          1	École Padre Pio
+          1	École Pakam
+          1	École Plateau A et B
+          1	École Primaire Mixte de Bissingale
+          1	École Privée Brita Caline
+          2	École Privée Catholique
+          1	École Préfectorale Mixte
+          1	École Préfectorale Mixte A et B
+          1	École Préfectorale de Filles et Garçons de Berbérati
+          1	École Publique
+          1	École SP de Bakala
+          1	École Safou
+          1	École Saint Beris
+          1	École Saint Daniel de Yanguekota
+          1	École Saint Gabriel
+          1	École Saint-Antoine de Padoue
+          1	École Sainte Cécile
+          1	École Sainte Famille
+          1	École Sainte Therese de l'Enfant Jesus
+          1	École Sainte-Thérèse Enfant Jésus
+          1	École Sanguere 3
+          1	École Sanguere Lim
+          1	École Sokorta Abba
+          1	École Sous-Prefectoral de Garçons
+          1	École Sous-Préfectorale
+          1	École Sous-Préfectorale Centre 1 de Baboua
+          1	École Sous-Préfectorale Centre 2 de Baboua
+          1	École Sous-Préfectorale Mixte
+          1	École Sous-Préfectorale Mixte 1 de Bossemptele
+          1	École Sous-Préfectorale Mixte d'Amada-Gaza
+          1	École Sous-Préfectorale Mixte de Bouca
+          1	École Sous-Préfectorale Mixte de Nana-Bakassa
+          1	École Sous-Préfectorale de Carnot
+          1	École Sous-Préfectorale de Dédé-Mokouba
+          1	École Sous-Préfectorale de Gadzi
+          1	École Sous-Préfectorale de Gamboula
+          1	École Ste Lucie
+          1	École Toubanko
+          1	École Toubanko1
+          1	École Valentin Betalain
+          1	École Villageoise de Bokayan
+          1	École Vouin Foulbe
+          1	École Yassarandji
+          1	École Yelewa
+          1	École Zai
+          1	École Zouldengam
+          1	École d'Abba
+          1	École d'Abo-Boguirma
+          1	École d'Atongo
+          1	École d'Awatche
+          1	École d'Azené
+          1	École d'Ouandago
+          1	École de Afrotcho
+          1	École de Agoudou Manga
+          1	École de Akpa
+          1	École de Andjitolakri
+          1	École de Andjou
+          1	École de Atongo-Bakari
+          1	École de Bac-Lim
+          1	École de Badia
+          1	École de Badé
+          2	École de Bagaza-Kako
+          1	École de Balamba
+          1	École de Bamado
+          1	École de Bamatra
+          1	École de Bambala
+          1	École de Bandiba
+          1	École de Bang
+          1	École de Banga 1
+          1	École de Bangao
+          1	École de Banyao
+          1	École de Barka
+          1	École de Batobadja
+          1	École de Bawi
+          1	École de Bayiri-Ousmane
+          1	École de Bea
+          1	École de Bebelem
+          1	École de Bebouzave
+          1	École de Beboy
+          1	École de Bedam
+          1	École de Bedinguili
+          1	École de Bedoua 1
+          1	École de Begouladje 1
+          1	École de Beina
+          1	École de Beloko
+          1	École de Bembor 3
+          1	École de Benanh 1
+          1	École de Benanh 2
+          1	École de Benankor
+          1	École de Beni
+          1	École de Bera-Boyere
+          1	École de Bessan
+          1	École de Besson
+          1	École de Betein
+          1	École de Beyele
+          1	École de Biade
+          1	École de Bianga
+          1	École de Bilsem
+          1	École de Bissikibou
+          1	École de Blakadja
+          1	École de Bodangui
+          1	École de Bogali 2
+          1	École de Bogang 3
+          1	École de Bogong 2
+          1	École de Boguila 1
+          1	École de Boko
+          1	École de Bokolobo
+          1	École de Bokombaye
+          1	École de Bokopele
+          1	École de Bolokpaka
+          1	École de Bongoro
+          1	École de Bonini
+          1	École de Botokom
+          1	École de Bouan
+          1	École de Boufolo
+          1	École de Bowara
+          1	École de Boy-Kotto
+          1	École de Boyaram
+          1	École de Boymandja
+          1	École de Boyo
+          1	École de Bozinga
+          1	École de Bébingui
+          1	École de Bébogda
+          1	École de CARITAS
+          1	École de Chenda
+          1	École de Chimbolo
+          1	École de Daï
+          1	École de Demon-Gbateké
+          1	École de Dissikou
+          1	École de Djabrafo
+          1	École de Djembé
+          1	École de Djomo
+          1	École de Doaka
+          1	École de Dobere Katara
+          1	École de Dolao
+          1	École de Doroko
+          1	École de Doualem
+          1	École de Doukouma
+          1	École de Doukoumbe
+          1	École de Filles Notre Dame de la Victoire
+          1	École de Galabourma
+          1	École de Gallo
+          1	École de Garga-Mbomgo
+          1	École de Garoua-Soungbede
+          1	École de Gawa
+          1	École de Gazao
+          1	École de Gbada
+          1	École de Gbagbi
+          1	École de Gbakomalekpa
+          1	École de Gbalamo
+          1	École de Gbangue
+          1	École de Gbaraga
+          1	École de Gbassore
+          1	École de Gbawe
+          1	École de Gbazang
+          1	École de Gbozou
+          1	École de Godo 2
+          1	École de Gofou
+          1	École de Golongo
+          1	École de Gondava
+          1	École de Goro
+          1	École de Gotchélé
+          1	École de Gouassi Yangba
+          1	École de Goubali 2
+          1	École de Goussema
+          1	École de Goya
+          1	École de Gralendji
+          1	École de Kanga
+          1	École de Kare
+          1	École de Katcharabo
+          1	École de Kate
+          1	École de Kella Goffi
+          1	École de Kella-Bokpane
+          1	École de Kiba
+          1	École de Kobadja
+          1	École de Kombelet
+          1	École de Konvi 1
+          1	École de Kopia
+          1	École de Kossamba
+          1	École de Kotangombé
+          1	École de Kotchenguele
+          1	École de Kounang
+          1	École de Kounde
+          1	École de Koundjili
+          1	École de Kounmbam 2
+          1	École de Koutchou
+          1	École de Kowone
+          1	École de Koyardé
+          1	École de Kpakaya
+          1	École de Kpangawan
+          1	École de Kpocte
+          1	École de Kpokpo
+          1	École de Kradé
+          1	École de Krakondji
+          1	École de Lakandja
+          1	École de Lakouetene
+          1	École de Lamy-Bony
+          1	École de Laou
+          1	École de Lapago
+          1	École de Lebada
+          1	École de Lekpa
+          1	École de Lemona
+          1	École de Letele
+          1	École de Lingoubanda
+          1	École de Lingui-Riouande
+          1	École de Liotto
+          1	École de Liwa
+          1	École de Lokoti Bangui
+          1	École de Madoundji
+          1	École de Maigaro
+          1	École de Makandji
+          1	École de Makele
+          1	École de Makondji-Wali
+          1	École de Maloum
+          1	École de Mambere
+          1	École de Mandouko
+          1	École de Maneyo
+          1	École de Mann
+          1	École de Maoroka
+          1	École de Maromba
+          1	École de Matchika
+          1	École de Mayaka
+          1	École de Mazoumbou
+          1	École de Mbadéla
+          1	École de Mbalangao
+          1	École de Mbangou
+          1	École de Mbartoua-Ndenga
+          1	École de Mbelengo
+          1	École de Mbere
+          1	École de Mbereguili
+          1	École de Mbidowe
+          1	École de Mbiti-Bamala
+          1	École de Mboko-Tataley
+          1	École de Mbormo
+          1	École de Mbouatoa
+          1	École de Mbouli
+          1	École de Mboum-Yeme
+          1	École de Mbrougbaga
+          1	École de Meudeu
+          1	École de Mgara
+          1	École de Mixte de Ndenga 3
+          1	École de Modomale
+          1	École de Morouba
+          1	École de Moroubanda
+          1	École de Na-Binmon
+          1	École de Nana-Outa
+          1	École de Nao
+          1	École de Ndafourourou
+          1	École de Ndakara
+          1	École de Ndassima
+          1	École de Ndazingoua
+          1	École de Ndemagofo
+          1	École de Ndjadé
+          1	École de Ndjanga
+          1	École de Ndjinguiri
+          1	École de Ndjoubissi
+          1	École de Ndongue
+          1	École de Ndoro
+          1	École de Ndouboure
+          1	École de Ndouzou
+          1	École de Ngaboua
+          1	École de Ngadja
+          1	École de Ngakobo
+          1	École de Ngam-Ngam
+          1	École de Ngandjatoko
+          1	École de Nganemandji
+          1	École de Ngbanda
+          1	École de Ngolomanda
+          1	École de Ngongboundou
+          1	École de Ngougaza
+          1	École de Ngoulinga
+          1	École de Ngrevaï
+          1	École de Ngribingui
+          1	École de Nguagueno
+          1	École de Nguerepayo
+          1	École de Nguia-Bouar
+          1	École de Nguimalet
+          1	École de Nguinze
+          1	École de Nguiwa-Blio
+          1	École de Nguéréfara
+          1	École de Niem
+          1	École de Nzakoundou
+          1	École de Nzapoye
+          1	École de Nzereke
+          1	École de Nzoro
+          1	École de Nzounapaye
+          1	École de Ouadimi
+          1	École de Ouakara
+          1	École de Pagonendji
+          1	École de Pakale
+          1	École de Pangoula
+          1	École de Pende
+          1	École de Pendere-Bafogo
+          1	École de Pougol
+          1	École de Poulao
+          1	École de Poumalé
+          1	École de Poumayassi
+          1	École de Poungakola
+          1	École de Ramadane
+          1	École de Redebo
+          1	École de Rendekouzou
+          1	École de Sabewa
+          1	École de Sah
+          1	École de Samba-Bougoulou
+          1	École de Sango 2
+          1	École de Sapoua
+          1	École de Sarki Bogong 4
+          1	École de Sassélé
+          1	École de Service Kollo
+          1	École de Sioua
+          1	École de Somboke
+          1	École de Souri
+          1	École de Tagbara
+          1	École de Togo
+          1	École de Vami
+          1	École de Vrémaï
+          1	École de Wantiguere
+          1	École de Wantiguira
+          1	École de Wazangba
+          1	École de Yagarandji
+          1	École de Yaligaza
+          1	École de Yamale
+          1	École de Yamalé
+          1	École de Yangba
+          1	École de Yangoubanda
+          1	École de Yangouko
+          1	École de Yangoya
+          1	École de Yarangbang
+          1	École de Yekétché
+          1	École de Yombo-Bac
+          1	École de Yongoro-Boulaye
+          1	École de Zam-Ali
+          1	École de Zaoropata
+          1	École de Zaorossongou
+          1	École de Zegonta
+          1	École de Zotoua
+          1	École de Zoubingui
+          1	École de Zougougbada
+          1	École de Zoumako
+          1	École de l'Église Évangélique EEB
+          1	École de Çava de Filles et Garçons
+          1	École du CRPR
+          1	École du Camp de Réfugiés Soudanais
+          1	Équateur
+          1	Île Pala
+          1	Île de Bétou
+          1	Île de Yambe
+          2	أم دافوق
+          1	السودان
+          2	السودان - Central African Republic
+          1	السودان - South Sudan
+          1	بندي Pendé
+          1	تشاد - Central African Republic
+          1	تشاد - السودان
+          2	تشاد - جمهورية أفريقيا الوسطى
+          3	طريق ساره-وسط سيدو
+          1	مايا
+          1	ميكوتو
+          1	ميني
+          1	نهر شاري Chari River
+          1	نهر لوغون Logone River
+          1	ولاية جنوب دارفور
+          1	ولاية وسط دارفور

@@ -1,0 +1,97 @@
+        203	Pargi
+        195	Tallinna mnt
+        193	Kooli
+        189	Jaama
+        185	Põllu
+        180	Pärnu mnt
+        158	Võhandu jõgi
+        150	Aia
+        143	Tallinn — Pärnu — Ikla
+        142	Metsa
+        136	Tartu mnt
+        135	Kalda
+        132	Kase
+        130	Pikk
+        129	Tallinn — Rapla — Türi
+        126	Uus
+        125	Mäe
+        124	Nurme
+        118	Raudtee
+        118	Jõe
+        117	Ringtee
+        115	Pärna
+        112	Tamme
+        109	Keila jõgi
+        107	Tartu — Viljandi — Kilingi-Nõmme
+        104	Tööstuse
+        104	Piiri
+        103	Kesk
+        102	Tiigi
+        101	Liiva
+        100	Narva mnt
+         97	Piusa jõgi
+         94	Järve
+         92	Tehnika
+         92	Tallinna ringtee
+         92	Karja
+         91	Jõhvi — Tartu — Valga
+         88	Veski
+         88	Põltsamaa jõgi
+         88	Koidu
+         88	Ehitajate tee
+         87	Saare
+         87	Pae
+         86	Peterburi tee
+         86	Oja
+         84	Männi
+         83	Viljandi mnt
+         83	Pirita jõgi
+         83	Paldiski mnt
+         81	Oru
+         79	Kuuse
+         79	Jägala jõgi
+         79	Aasa
+         78	Valgejõgi
+         78	Kaukvere jõgi
+         78	Kasari jõgi
+         78	Allika
+         77	Risti — Virtsu — Kuivastu — Kuressaare
+         77	Männiku
+         75	Raja
+         75	Mustjõgi
+         75	Kadaka tee
+         74	Vahtra
+         73	Navesti jõgi
+         72	Tartu
+         72	Männiku tee
+         70	Vigala jõgi
+         70	Pihlaka
+         69	A. H. Tammsaare tee
+         68	Kopli
+         67	Vainupea jõgi
+         67	Tallinna
+         67	Sauga jõgi
+         66	Kaare
+         65	Pedja jõgi
+         65	Paju
+         65	Kastani
+         65	Kargaja jõgi
+         63	Nõmme
+         63	Leevi jõgi
+         63	Laagna tee
+         63	Kunda jõgi
+         62	RMK
+         62	Laane
+         61	Tammiku
+         61	Sepa
+         61	Lille
+         60	Turu
+         60	Soo
+         60	Imavere — Viljandi — Karksi-Nuia
+         60	Elva jõgi
+         59	Rahu
+         59	Pärnu jõgi
+         59	Jõelähtme jõgi
+         58	Niidu
+         58	Loobu jõgi
+         58	Kaasiku

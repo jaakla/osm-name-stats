@@ -1,0 +1,100 @@
+        311	Main Street
+        171	New England Central Railroad
+        158	I 91
+        125	River Road
+        111	School Street
+         96	Church Street
+         92	State Route 100
+         89	Vietnam Veterans Memorial Highway
+         87	Maple Street
+         85	<different> Boat Ramp
+         73	Elm Street
+         71	Bridge Street
+         63	Depot Street
+         63	Cross Road
+         62	Long Trail
+         60	Pleasant Street
+         58	North Main Street
+         58	Lamoille Valley Rail Trail
+         56	River Street
+         56	North Road
+         56	Mill Street
+         55	North Street
+         54	West Hill Road
+         54	Park Street
+         51	Shelburne Road
+         51	Meadow Lane
+         50	South Main Street
+         49	High Street
+         47	Bennington Bypass
+         45	South Street
+         44	Cemetery Road
+         42	West Street
+         42	Roosevelt Highway
+         41	State Route 30
+         41	Prospect Street
+         40	East Street
+         39	Mountain Road
+         39	Dorset Street
+         38	Pearl Street
+         37	Middle Road
+         37	Lake Road
+         37	Brook Road
+         37	Beaver Brook
+         36	Quarry Road
+         35	Potash Brook
+         35	Pine Street
+         34	Airport Road
+         33	East Hill Road
+         32	Union Street
+         32	Sunset Drive
+         32	Mill Road
+         32	First Branch White River
+         31	Ethan Allen Highway
+         31	East Main Street
+         30	Trail Around Middlebury
+         30	Railroad Street
+         30	Lakeview Cemetery Path
+         29	West Road
+         29	Ridge Road
+         29	Hoosic River
+         29	East Allen Street
+         29	Cross Street
+         28	Highland Avenue
+         27	Center Street
+         26	Treetop Way
+         26	State Route 15
+         26	Center Road
+         26	Camp Road
+         25	Town Farm Road
+         24	State Route 14
+         24	Spring Street
+         24	Connecticut River
+         23	Third Branch White River
+         23	Smith Road
+         23	Second Branch White River
+         23	Reservoir Road
+         23	Pond Road
+         23	Old County Road
+         23	Mountain View Road
+         23	Clark Road
+         23	Brookside Drive
+         22	White River
+         22	Parker Road
+         22	Overlook Drive
+         22	Mountain View Drive
+         22	McDonald's
+         22	Loop Road
+         22	Johnson Road
+         21	Woodstock Road
+         21	Winooski River
+         21	Wheeler Road
+         21	Western Avenue
+         21	Schoolhouse Road
+         21	Old Stage Road
+         21	Kennedy Drive
+         21	Hillside Road
+         21	East Road
+         21	Davis Road
+         21	County Road
+         21	Black River

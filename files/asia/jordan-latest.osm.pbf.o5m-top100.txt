@@ -1,0 +1,98 @@
+         64	1949 Armistice Line
+         63	King's Highway
+         61	الخط الحديدي الحجازي
+         58	Plot 10
+         51	Plot 11
+         48	Plot 12
+         42	Plot 13
+         40	King Abdullah Bin Al-Hussein II
+         40	Al Karak Street
+         36	Plot 5
+         36	Plot 4
+         36	Plot 3
+         36	Plot 2
+         36	Plot 1
+         36	Plot 08
+         36	Plot 07
+         36	Plot 06
+         36	Plot 05
+         36	Plot 04
+         35	unknown
+         35	Plot 8
+         35	Plot 7
+         35	Plot 6
+         35	Plot 14
+         35	Plot 03
+         35	Plot 02
+         35	Plot 01
+         32	Office
+         31	Plot 9
+         31	Plot 09
+         30	Plot 15
+         29	Queen Alia Airport Road
+         28	International Train
+         26	شارع الأردن
+         25	شارع زهران
+         25	Red Sea
+         25	Desert Highway
+         22	15
+         19	شارع الأمير هاشم بن الحسين
+         19	Queen Noor
+         19	Mecca St.
+         16	King Hussein Street
+         15	Cairo Amman Bank
+         15	Border Israel - Jordan
+         14	موقف باص
+         14	الثورة العربية الكبرى
+         14	Ring Road
+         13	Border Israel - Lebanon
+         12	Tabarbour Street
+         12	Registration
+         11	مسجد
+         11	Ziyad Bin Ka'b Street
+         11	Prince Hashim Ben Al Hussein
+         11	Khaled Bin Al Waleed Street
+         11	Al Quds
+         10	نهر الزرقاء
+         10	طريق بيرين
+         10	شارع الملكة رانيا العبد الله
+         10	Yajouz Street
+         10	KFC
+         10	Child Friendly Space
+         10	Al Hashemiyeen Street
+          9	شارع مكة
+          9	University Apartments
+          9	Total
+          9	Madaba Street
+          9	Jordan River
+          9	Burger King
+          9	Ash Sharif Al-Husayn Bin Ali
+          9	65
+          8	طريق المطار
+          8	شارع الأقصى
+          8	بيرين - شفا بدران
+          8	بهاء الدين عبد الله
+          8	ישראל - לבנון
+          8	Tariq Street
+          8	McDonald's
+          8	Al-Madina Al-Munawwara Street
+          8	Al-Madina Al-Munawwara
+          8	Al Umawiyeen Street
+          8	Al Hurriyah Street
+          7	مدرسه
+          7	الشهيد طه إبراهيم الضمور
+          7	السلط
+          7	الإمام البخاري
+          7	أ
+          7	former Hejaz railway
+          7	Waiting tent
+          7	Prince Faisal Bin Al Hussein Street
+          7	Orange
+          7	Naltshek street
+          7	Mekkah 36th Street
+          7	King Al-Hussein Street
+          7	Border Jordan - Saudi Arabia
+          7	Bank of Jordan
+          7	Arab Bank
+          7	Amman - Zarqa Highway
+          7	Al Hada'iq Street

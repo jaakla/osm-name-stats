@@ -1,0 +1,100 @@
+        490	Dwight D. Eisenhower Highway
+        355	Union Pacific Railroad
+        197	North-South Freeway
+        183	Bruce Woodbury Beltway
+        144	South Las Vegas Boulevard
+        141	Veterans Memorial Highway
+        139	Reno Highway
+        135	West Charleston Boulevard
+        131	North McCarran Boulevard
+        123	Willow Creek
+        119	Cottonwood Creek
+        105	South Virginia Street
+        104	South McCarran Boulevard
+        100	Nevada Subdivision
+        100	Boulder City Parkway
+         92	East Tropicana Avenue
+         88	Paradise Road
+         87	North Lamb Boulevard
+         83	Wall Creek
+         81	West Tropicana Avenue
+         81	South Decatur Boulevard
+         80	Russell Road
+         80	Main Street
+         80	Keystone Avenue
+         74	West Desert Inn Road
+         74	7-Eleven
+         73	West Flamingo Road
+         72	South Jones Boulevard
+         72	South Carson Street
+         69	Starbucks
+         69	McDonald's
+         69	Frontage Road
+         68	South Durango Drive
+         67	South Fort Apache Road
+         66	West Sahara Avenue
+         66	West 4th Street
+         66	Steamboat Ditch
+         64	Sunset Road
+         63	East Desert Inn Road
+         63	Duck Flat Wash
+         61	5th Street
+         60	West Lake Mead Boulevard
+         60	Buffalo Drive
+         60	6th Street
+         60	3rd Street
+         59	West Russell Road
+         59	South Eastern Avenue
+         59	Smoke Creek
+         59	Mill Street
+         58	Boulder Creek
+         56	South Rancho Drive
+         55	Rancho San Rafael Townhomes
+         55	Pyramid Way
+         55	Great Basin Highway
+         55	Buffalo Creek
+         54	Veterans Parkway
+         53	Subway
+         53	East 2nd Street
+         52	Red Mountain Creek
+         52	Dry Valley Creek
+         52	Carson City Deputy Sheriff Carl Howell Memorial Freeway
+         51	River Mountains Loop Trail
+         51	North Decatur Boulevard
+         50	West Cheyenne Avenue
+         50	USA Parkway
+         50	North Tenaya Way
+         49	Pyramid Highway
+         49	North Durango Drive
+         49	East Flamingo Road
+         49	4th Street
+         48	hanger
+         48	West Warm Springs Road
+         48	West Horizon Ridge Parkway
+         48	North Virginia Street
+         48	Kietzke Lane
+         48	High Rock Creek
+         48	East Sahara Avenue
+         48	Cheyenne Avenue
+         47	Roseville Subdivision
+         47	Mount Rose Highway
+         47	Morris Creek
+         47	East Creek
+         47	7th Street
+         47	1st Street
+         46	Wall Canyon Creek
+         46	Koval Lane
+         46	Chevron
+         46	2nd Street
+         45	South Wells Avenue
+         45	Alta Drive
+         44	West Ann Road
+         44	Spring Mountain Road
+         44	Sparks Boulevard
+         44	East Lake Mead Boulevard
+         43	West Centennial Parkway
+         42	South Nellis Boulevard
+         42	North Fifth Street
+         42	Fairview Drive
+         41	North Fork Buffalo Creek
+         41	Maryland Parkway

@@ -1,0 +1,100 @@
+        438	Goud
+        372	Gold
+         29	Commissaris Weythingweg
+         27	Lawa
+         22	Zandafgraving
+         21	Tout Lui Faut Kanaal
+         20	Sir Winston Churchillweg
+         19	Shell
+         16	Maroni
+         13	Van 't Hogerhuysstraat
+         13	Indira Gandhiweg
+         12	Suriname
+         12	Oost West Marowijne
+         12	Coesewijnestraat
+         11	logroad
+         11	Digicel
+         10	Zr Jensenweg
+         10	Telesur
+         10	Manjadam
+          9	Weg Naar Peperpot
+          9	Suriname - France
+          9	Sol
+          9	Slangenhoutstraat
+          9	Magentakanaal
+          9	Haul road
+          9	Drambrandersgracht
+          9	Commissaris Thurkowweg
+          8	Wilhelminastraat
+          8	Republic Bank
+          8	Oost west Verbinding Commewijne
+          8	Harisingweg
+          8	Grankreek
+          7	Tapanahony
+          7	Oost West Verbinding Saramacca
+          7	Oost West Verbinding Nickerie
+          7	Martin Luther Kingweg
+          7	Gladiolenstraat
+          7	Courantyne River
+          7	Coermotibo river
+          7	Cambio
+          7	Bakkerij
+          7	Awaradam
+          6	\
+          6	Zonnebloemstraat
+          6	Zinniastraat
+          6	Willem Campagnestraat
+          6	Tomahawk
+          6	Titicacastraat
+          6	Ronald Koorndijkweg zuid
+          6	Road to Suhoza (unnamed)
+          6	Picoletstraat
+          6	Or
+          6	Livorno Beekhuizenweg
+          6	Kanangalaan
+          6	Iduweg
+          6	Goud\
+          6	Flustraat
+          6	De Surinaamsche Bank
+          6	De Boerbuitenweg
+          6	Commewijne
+          6	Border Guyana - Suriname
+          5	Zwartenhovenbrugstraat
+          5	Tiberiusstraat
+          5	Sikkimweg
+          5	Roopram
+          5	Oost West Verbinding Coronie
+          5	Nieuw Weergevondenweg
+          5	Mahonylaan
+          5	Magentakanaalweg
+          5	Loangstraat
+          5	Litani
+          5	Landingstraat
+          5	Kwattaweg
+          5	Krakkaweg
+          5	Kirpalani
+          5	Historex
+          5	Herman D. Benjaminstraat
+          5	Hakrinbank
+          5	Gravenberchstraat
+          5	Graderweg
+          5	Gemenelandsweg
+          5	Gardenstraat
+          5	Frederikshoopweg
+          5	Ephraimszegenweg
+          5	Dr. Sophie Redmondstraat
+          5	De Kerk van Jezus Christus van de Heiligen der Laatste Dage
+          5	Centre Délocalisé de Prévention et de Soins (CDPS)
+          5	Brownsweg
+          4	École Maternelle "Les petits Maripas 2"
+          4	gold
+          4	boropassi
+          4	Wirantalaan
+          4	Wilhelminaweg
+          4	Welgedacht C weg
+          4	Weg naar " De Tunnel"
+          4	Tyronneweg
+          4	Toekomstweg
+          4	Suribet
+          4	Soekaredjoweg
+          4	Siriusstraat

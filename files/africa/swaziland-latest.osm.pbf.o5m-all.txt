@@ -1,0 +1,1018 @@
+          2	1
+          2	10
+          1	10th Street
+          2	11
+          1	11th street
+          2	12
+          1	12th Street
+          1	12th street
+          2	13
+          1	13th Street
+          2	14
+          1	1896 Cafe @ Spar
+          1	1st Avenue
+          2	1st Street
+          2	1st avenue
+          3	1st street
+          2	2
+          1	2nd Street
+          2	3
+          1	3rd Street
+          2	4
+          1	4th Avenue
+          2	5
+          2	5th Avenue
+          1	5th Street
+          1	5th avenue
+          2	6
+          1	6th Avenue
+          2	7
+          1	7th Avenue
+          1	7th Street
+          1	7th avenue 7th avenue
+          2	8
+          1	8th Street
+          2	9
+          1	9th Street
+          1	9th street
+          1	ATM
+          1	Adelaide Lake
+          2	Adventure Sports Bike Shop
+          1	African Fairy Tale
+          1	Africash
+          1	Albert Luthuli Local Municipality
+          1	Albert Luthuli Ward 1
+          1	Albert Luthuli Ward 12
+          1	Albert Luthuli Ward 19
+          1	Albert Luthuli Ward 3
+          1	Albert Luthuli Ward 6
+          1	Albert Luthuli Ward 8
+          1	Albert Luthuli Ward 9
+          1	Apex Preschool
+          1	Arthur Street
+          2	Assegaai River
+          1	Assembly Hall
+          1	Auto Zone
+          1	B. Stewart Street
+          1	BP
+          1	Baker's Delight
+          1	Bar
+          1	Baring High School
+          1	Bed and Breakfast
+          1	Ben Dunn St
+          1	Bhubesi Camp
+          1	Bhubesi camp road
+          1	Bhunu Mall
+          1	Bhunya
+          1	Bhunya Airfield
+          1	Bhunya Airport
+          1	Big Bend
+          1	Big Bend Conservancy
+          1	Big Bend Matata Airport - CLOSED
+          1	Big Bend Station
+          1	Big Bend Substation
+          1	Big Bend Sugar Estate - CLOSED
+          1	Bigbend Street
+          1	Bilharzia & Intestinal worm Control Program
+          1	Bird Pool
+          1	Bird's Eye
+          1	Bishop Watts Crescent
+          1	Black Mamba
+          1	Blossom House
+          1	Blue Star
+          1	Bonkhe
+          1	Border Cave Archaeological SITE , Tent WHS
+          1	Bothashoop Border Control
+          1	Bottle Shop
+          2	Bowls
+          2	Boxer
+          1	Boxer Shop
+          1	Boxer Shopping Store
+          1	Bridal Wedding Store
+          1	Buhle Lane
+          1	Building Under Construction
+          1	Bulding
+          1	Bulembu
+          1	Bulembu Border Post
+          1	Bulembu Closed Mine
+          1	Bulembu Country Lodge
+          1	Bulembu Lodge
+          1	Bulembu Lodge Restaurant
+          1	Bulembu Lodge backpackers
+          1	Bulembu Museum
+          2	Bus Station
+          1	Bus station
+          1	Buy Cash Hardware
+          5	CASA
+          1	CCLD
+          2	Caltex
+          1	Campo de Futbol
+          1	Canopy Tour base
+          1	Cantonese
+          1	Car park Engwenyameni Falls
+          1	Carl Grant St
+          1	Carson
+          1	Carson Motors
+          1	Castle Hotel
+          1	Cathmar Cottages
+          1	Catholic
+          1	Cellar
+          1	Cemetery
+          1	Central Bank of Swaziland
+          1	Change in terrain? Landslide? Erosion? Exposed rock face?
+          1	Checkpoint
+          1	Chesa Nyama
+          1	Chillas Liquor Store
+          1	Christian Books
+          1	Church
+          1	Church in Zion
+          1	City Council Mbabane
+          1	Classroom Block
+          3	Clicks
+          1	Clinic
+          1	Coca-Cola Swaziland (Conco)
+          1	ComServe/Development Office
+          1	Common Room
+          1	Corner Plaza Mall
+          1	Corridors
+          1	Corronation park
+          1	Crisovik Guesthouse
+          1	Croydon
+          1	Cubanora
+          1	Cuddle Puddle - Hot Springs
+          1	Cultural Village Entrance
+          1	D1837
+          1	D1839
+          1	D1842
+          1	D1884
+          2	D1912
+          1	D2034
+          2	Dabede Street
+          1	Debonnair's Pizza
+          1	Diepgezet
+          1	Dinabantu Street
+          1	Dining Hall
+          1	Diplomat Swaziland
+          1	Diplomat Swaziland Lane
+          2	Dirt Road
+          1	Diyane Junior Primary School
+          1	Dlanubeka building (Offices)
+          1	Dobson Road
+         13	Doctor Sishayi Road
+          1	Dombeya Game Reserve
+          1	Dream Land
+          4	Du Toit Street
+          1	Dubekeni River
+          1	Durban–Golela
+          1	E-dish cafe
+          1	EBC
+          3	EDIFICIO
+          1	Ebutsini
+          1	Ecumenial House
+          1	Edlangeni
+          1	Edwaleni Substation
+          1	Ehlanzeni
+          1	Ekhaya
+          1	Elangeni - New Hostel (Female)
+          1	Elangeni - New Hostel (Male)
+          1	Electronic Centre
+          1	Emahlatini Border Control
+          1	Emantini Game Reserve
+          1	Embassy of the United States in Swaziland
+          1	Emgcwebheni
+          1	Emhlabeni Hostel
+          1	Emlembe
+          1	Emsebentini
+          3	Engen
+          1	Enjabulweni
+          1	Escola Secundária de Namaacha
+          1	Esibayeni Lodge
+          1	Esiyalwini Street
+          1	Esselen Street
+          1	Eswatini Kitchen
+          1	Eswatini butchery (fresh meat)
+          2	Etjebovu School
+          1	Etjebovu view point
+          1	Evangelical Church
+          1	Eveni
+          1	Eveni Guesthouse
+          1	Eveni Shops
+          1	Execution Hill
+          1	Exel
+          1	Ezulwini
+          2	FNB
+          1	Farm Barn
+          1	Finesse
+          1	Fire and Emergency Assembly Point
+          1	First National Bank
+          1	First National Bank ATM
+          1	First National Bank ATMs
+          1	First National Bank Bhunu Mall Agency
+          1	First National Bank Manzini Main Branch
+          1	Fish & Chip Take Away
+          1	Fonteyn Road
+          1	Food Den
+          1	Foot & Mouth Control Zone
+          1	Foresters Arms
+          1	Fresh Water
+          1	Friar Tuck's
+          1	G&L Complex
+          1	GM
+          7	Galp
+          1	Galp Tankstelle Abzweigung
+          1	Galp petrol station
+          1	Gandolf Ceramics
+          1	Garden
+          1	Gcina Street
+          1	Gege Border Control
+          1	Gert Sibande
+          1	Gigi Place
+          1	Gilgal
+          2	Gilson Road
+          1	Ginger Jazz Club
+          1	Global Sales Distributors
+          1	Global Village
+          1	Goba
+          1	Goba–Mpaka
+          1	Gobholo Cave
+          4	Golela Border Control
+          1	Golela–Komatipoort
+          2	Golome
+          1	Gone Rural
+          1	Good Shepherd high school
+          1	Good shepherd hospital
+          1	Grannies Bottle Store
+          1	Great Usuthu
+          1	Green Cross Pharmacy
+          1	Guard
+          1	Gucuka
+          8	Gwamile Street
+          1	Happy Valley Hotel
+          1	Happy Valley resort and casino
+          1	Hawane Resort
+          1	Healing Place Church
+          1	Health Care
+          1	Heavy Plant Centre
+          1	Hhamu ST
+          1	Hhohho
+          1	Hholoshini Trail
+          1	Hiking Trail Lower Mbuluzi to Ndzindza
+          3	Hiking trail
+          1	Hillside High School
+          1	Hippo Haunt Restaurant & Bar
+          1	Hippo Pool
+          3	Hippo Trail
+          1	Hippo pool
+          2	Hlane Royal National Park
+          1	Hlangabeza Crescent
+          2	Hlanganani Road
+          1	Hlatikulu
+          1	Hluti
+          1	Holy Resurrection church
+          1	Hope House
+          1	Horse Shoe Farm
+          1	Horseshoe trail
+          1	Hot Springs
+          1	Hotel Sollibombos
+          1	House on Fire
+          1	Hungry Lion
+          1	Hyundai
+          1	I.T. Centre
+          1	IDM Hostels
+          1	IDM Laundry Facility
+          1	IDM Sports Emporium
+          1	IDM Swaziland
+          1	IYSIS
+          1	Ice Baby Brothel
+          1	Illova Sugar Refinery
+          1	Imvelo Eswatini
+          1	Inclusive furniture Shop
+          1	Indingilizi Art & Craft Gallery
+          1	Indingilizi Road
+          1	Inhlaba Road
+          1	Inhlangwane Street
+          1	Injakazana Primary School
+          1	Inkhundla Dvokodvweni
+          1	Inkhundla Ekukhanyeni
+          1	Inkhundla Gege
+          1	Inkhundla Hhukwini
+          1	Inkhundla Hlane
+          1	Inkhundla Hosea
+          1	Inkhundla Kubuta
+          1	Inkhundla Kwaluseni
+          1	Inkhundla Lamgabhi
+          1	Inkhundla Lobamba
+          1	Inkhundla Lobamba Lomdzala
+          1	Inkhundla Lomahasha
+          1	Inkhundla Lubuli
+          1	Inkhundla Ludzeludze
+          1	Inkhundla Lugongolweni
+          1	Inkhundla Madlangempisi
+          1	Inkhundla Mafutseni
+          1	Inkhundla Mahlangatja
+          1	Inkhundla Mangcongco
+          1	Inkhundla Manzini
+          1	Inkhundla Maphalaleni
+          1	Inkhundla Maseyisini
+          1	Inkhundla Matsanjeni
+          1	Inkhundla Mayiwane
+          1	Inkhundla Mbabane
+          1	Inkhundla Mbangweni
+          1	Inkhundla Mhlambanyatsi
+          1	Inkhundla Mhlangatane
+          1	Inkhundla Mhlume
+          1	Inkhundla Mkhiweni
+          1	Inkhundla Motjane
+          1	Inkhundla Mpolonjeni
+          1	Inkhundla Mthongwaneni
+          1	Inkhundla Mtsambama
+          1	Inkhundla Ndzingeni
+          1	Inkhundla Ngudzeni
+          1	Inkhundla Ngwempisi
+          1	Inkhundla Nhlambeni
+          1	Inkhundla Nkhaba
+          1	Inkhundla Nkilongo
+          1	Inkhundla Nkwene
+          1	Inkhundla Ntfonjeni
+          1	Inkhundla Ntondozi
+          1	Inkhundla Piggs Peak
+          1	Inkhundla Sandleni
+          1	Inkhundla Shiselweni
+          1	Inkhundla Sigwe
+          1	Inkhundla Siphofaneni
+          1	Inkhundla Sithobela
+          1	Inkhundla Somntongo
+          1	Inkhundla Tikhuba
+          1	Inkhundla Timpisini
+          1	Inkhundla Zombodze
+          1	Institute for Health and Development
+          1	Inyanga lane
+          1	Inyoni Lane
+          1	J.S.M Matsebula St
+          1	Jabula
+          1	Jakaranda Avenue
+          1	Jeppe's Reef Border Control
+          1	Jet Mart Store
+          1	Jikanilambu Medical Centre
+          2	Jojo Street
+          1	Josefsdal
+          1	Josefsdal Border Control
+          1	Jozini Local Municipality
+          1	Jozini Ward 14
+          1	Jozini Ward 15
+          1	Jozini Ward 16
+          1	Jozini Ward 18
+          1	Jozini Ward 9
+          1	Jubela Street
+          4	KFC
+          1	KaNgubani ( fisherman's homestead)
+          1	Kalwerskraal
+          1	Kamdala General Dealer
+          1	Kamhlaba Road
+          1	Kaphunga village
+          2	Kashile Road
+          1	Kelly
+          1	Kelly Street
+          1	Kfc
+          1	Khelekhele Riverside Camp
+          2	Kholwane Road
+          1	Khopho Camp
+          1	Khopho Rock Lodge
+          1	Kia Motors
+          1	Kids Academy
+          1	King George Street
+         14	King Mswati II Highway
+          1	King Mswati III Avenue West
+          1	King Mswati III avenue East
+          2	King Pie
+          1	King Sobhuza II Avenue
+          2	Kingdom Hall of Jehovah's Witnesses
+         11	Komati River
+          2	Kombi Eveni
+          2	Kombi Mbabane-Mhlabanyatsi
+          1	Kraft Foods Swaziland
+          1	Kubuta Airport
+          2	KwaZulu-Natal
+          1	LUVE (EKUTSIMLENI) MANZINI
+          1	Lavumisa
+          1	Lavumisa Border Control
+          1	Leech Lake
+          2	Legend Backpackers
+          1	Legwababa Road
+          1	Leites Toyota
+          2	Libandla Street
+          1	Libetse
+          1	Libhetse
+          1	Library
+          1	Lidwala Lodge
+          1	Lidwala Street
+          1	Light Primary School
+          2	Ligumbi Road
+          1	Ligusha Street
+          1	Likhemisi Chinese Medicine
+          1	Likhwane Lane
+          1	Lilunga Offices
+          1	Lion Cave
+          1	Little cave
+          1	Livestock?
+          3	Lobamba
+          1	Lobamba Filling Station
+          1	Lobamba Police Station
+          1	Lobomba Butcher's
+          1	Logwaja Viewpoint
+          1	Logwatsha start point
+          1	Lomadvokola Street
+          2	Lomati
+          1	Lomavivane Trail
+          1	London Fish & Chips
+          1	Louw Street
+          2	Lower Usuthu
+          2	Lozitha
+          1	Lozitha High School
+          1	Lozitha Palace
+          1	Lubombo
+          1	Lubovane
+          1	Lubovane Feeder Canal
+          1	Ludzidzini
+          1	Lugalo Crose
+          1	Lugogo Sun
+          1	Luju Lane
+          1	Lulwimi Lane
+          1	Lundzi Border Control
+          1	Luphohlo dam
+          1	Luphohlo reservoir
+          1	Luphondvo Lane
+          3	Lusushwana
+          2	Lusutfu
+          1	Lutheran
+          1	Lutsi Lane
+          1	MATSU MSF
+          1	MR1
+          4	MR103
+          1	MR3 (eastbound)
+          1	MR3 (westbound)
+          1	MR8 (northbound)
+          1	MR8 (southbound)
+          1	MTN
+          1	MTN Driving Range
+          1	MTN Swaziland Head Office
+          2	Mabandla Street
+          1	Mabhengu Road
+          1	Mabuda Farm B&B
+          1	Mabuda Guest Farm B&B, Backpacker
+          1	Madlangempisi
+          1	Madlenya
+          1	Madlenya St
+          2	Maguga Dam
+          1	Maguga Lodge
+          1	Maguta Road
+          1	Mahala Street
+          1	Mahamba
+          2	Mahamba Border Control
+          2	Mahamba Gorge Community Project
+          3	Mahlokohla Street
+          1	Main Bus Rank
+          1	Makhosini Drive
+          2	Malalotja Nature Reserve
+          1	Malandela's B & B
+          1	Malandela's Restaurant
+          1	Malindi Grocery
+          1	Malindza Supermarket
+          1	Malkerns
+          1	Malolotja Campsite
+          1	Malolotja Canopy Tour
+          1	Malolotja River
+          1	Malolotsha Falls View
+          1	Maloma
+          1	Manaini Bus Rank Police Post
+          2	Mananga Border Control
+          1	Mananga Yacht Club
+          1	Mancishane Street
+          1	Mandanda Lane
+          1	Mandela St
+          1	Mantenga Drive
+          1	Mantenga Nature Reserve
+          4	Mantsholo Road
+          2	Manzini
+          1	Manzini Central High School
+          1	Manzini Club
+          1	Manzini Golf Course
+          1	Manzini Police Headquarters
+          1	Manzini Police Station
+          2	Mapheka Street
+          1	Maphevu Lane
+          1	Maputo
+          1	Maputo River
+          1	Maputo–Goba
+          1	Maqalf signs & plates
+          1	Martins Street
+          1	Masabasaba Avenue
+          1	Masamketini
+          1	Masengula
+          1	Matata
+          2	Matenga Falls
+          1	Mathendele
+          1	Matsamo Border Control
+          1	Matsapa Inn
+          1	Matsapha
+          1	Matsapha Airport
+          2	Matsapha Auto Services
+          1	Matsapha Civic Centre
+          1	Matsapha Clinic
+          2	Matsapha Crescent
+          1	Matsapha Dry Port
+          1	Matsapha Pharmacy
+          1	Matsapha airport terminal
+          1	Matsapha central park bottle store
+          1	Matsapha central warehouse
+          1	Matsapha health care centre
+          1	Matsapha police college
+          1	Matsapha police station
+          1	Matsapha–Ngwenya
+          1	Matutuíne
+          1	Mavuso Trade Fair
+          1	Mbabane
+          1	Mbabane Bus Rank
+          2	Mbabane Centre
+          1	Mbabane Government Hospital
+          1	Mbabane Market
+          2	Mbabane Police Station
+          1	Mbabane River
+          1	Mbabane Shopping Mall
+          1	Mbandzeni Offices
+          1	Mbhilibhi St
+          1	Mbhilibhi street
+          1	Mbijana Lane
+          1	Mbilini Crescent
+          2	Mbovane Street
+          1	Mbuluzana
+          1	Mbuluzi
+          1	Mbuluzi G.R. - Camp
+          7	Mbuluzi River
+          1	Mbuluzi River Bridge
+          1	Mdlebe Street
+          2	Mdzimba Avenue
+          1	Meat Market
+          1	Medisun Clinic
+          1	Methodist
+          1	Metropolitan Church
+          1	Mganu Road
+          1	Mgobo Street
+          3	Mhlabanyatsi
+          1	Mhlabeni Camp
+          1	Mhlabeni Wilderness Hut
+          1	Mhlakuvane Street
+          2	Mhlathuzane
+          1	Mhlathuze River
+          1	Mhlosinga Nature Reserve
+          1	Mhlume
+          1	Mhlume Airport
+          1	Miladys
+          1	Millennium Bim
+          1	Millennium Fashion
+          1	Millers's Offices
+          1	Mimosa
+          1	Ministry of Agriculture
+          1	Ministry of Home Affairs
+          1	Mkbabes
+          2	Mkhaya
+          2	Mkhaya Game Reserve
+          1	Mkhaya Pick-up point
+          1	Mkhondo
+          1	Mkhondo Ward 19
+          1	Mkhondo Ward 6
+          1	Mkhondo Ward 8
+          1	Mkhondo Ward 9
+          1	Mkhondvo
+          1	Mkhondvo River
+          4	Mkhonubovu Road
+          1	Mlawula Nature Reserve
+          1	Mlawula Station
+          1	Mliba
+          1	Mliba Kop
+          3	Mlilwane Wildlife Sanctuary
+          1	Mlilwane Wildlife sanctuary
+          1	Mlondozi
+          2	Mnjoli Dam
+          1	Mololotsha-Logwatsha
+          1	Mona Residential Flats
+          1	Mondi
+          2	Moonlight
+          2	Mortimer's Dam
+          3	Motjane
+          1	Motruck
+          1	Mountain Inn
+          1	Movie Zone
+          1	Mozambique High Comission
+          1	Moçambique
+          1	Moçambique Hotel
+          1	Mpaka
+          1	Mpaka Station
+          1	Mpolonjeni
+          1	Mpuluzi River
+          1	Mpumalanga
+          1	Mpumalanga Drive
+          1	Msakato Street
+          1	Msauli
+          1	Mshengu Street
+          1	Mt Emlembe Tower
+          1	Mt Emlembe highest point
+          2	Mt Emlembe hiking
+          1	Mt Emlembe hiking trail
+          1	Mtimane River
+          1	Mtsindzekwa
+          1	Mugg & Bean @ The Gables
+          1	Multi Hyper
+          1	Multi Purpose Hall
+          1	MultiSave
+          1	Musical Instruments
+          1	Muzi Lane
+          1	Muziyabantu Trai
+          1	Mvemve st
+          1	Mvimbi Trail
+          1	Mvithiza
+          1	Mvithiza Waterfall
+          1	Mvubu Falls Lodge
+          1	Myxo's place Backpackers
+          1	N.K.S. Restaurant & take-away food
+          1	N17 (eastbound)
+          1	N17 (westbound)
+          1	N2 (eastbound – northbound)
+          1	N2 (eastbound)
+          1	N2 (southbound – westbound)
+          1	N2 (westbound)
+          1	NASTC Professional Institute
+          1	Nagra Motors
+          1	Nando's
+          2	Naserine
+          1	National Library
+          1	National TB Hospital
+          1	Ncame Lane
+          1	Ncele grocery
+          1	Ncoboza Street
+          1	Ndwande Avenue
+          1	Ndzindza Outpost
+          3	Nedbank
+          1	Needil
+          1	Nerston Border Control
+          1	New Elangeni Common Room
+          1	New Leaf
+          1	New Mall
+          1	New Street
+          1	New York building
+          1	Ngcamane River
+          1	Ngonini
+          1	Ngubhela Cave
+          1	Ngwane Street
+          1	Ngwavuma River
+          1	Ngwempisi Hiking Trails reception
+          3	Ngwempisi River
+          2	Ngwenya Border Control
+          3	Ngwenya Glass
+          1	Ngwenya Viewpoint
+          1	Nhlalakahle Road
+          1	Nhlangano
+          1	Nhlangano Airport
+          1	Nhlangano Casino Royale
+          1	Nhlangano Health Center
+          1	Nhlangano High Court
+          1	Nhlangano Mall
+          1	Nhlangano Market
+          1	Nhlangano Police Department
+          1	Nisela Game Reserve
+          1	Njelwane st
+          1	Nkhosie Yeluhlaza Street
+          1	Nkomati Viewpoint
+          1	Nkomazi
+          1	Nkomazi Ward 12
+          1	Nkomazi Ward 13
+          1	Nkomazi Ward 14
+          1	Nkomazi Ward 15
+          1	Nkomazi Ward 16
+          1	Nkomazi Ward 18
+          1	Nkomazi Ward 28
+          1	Nkomazi Ward 30
+          1	Nkomazi Ward 31
+          1	Nkomazi Ward 32
+          1	Nkonyeni
+          1	Nkonyeni Residential Golf Estate
+          1	Nkose'luhlaza Street
+          1	Nsalitshe Kop
+          1	Nsangwini Rock Art
+          1	Nsangwini Rock Art Reception
+          1	Nsoko
+          1	Nsoko Airfield
+          1	Nukwase St
+          1	Nyagato
+          1	Ocean Basket
+          1	Ocean Cuisine
+          1	Office Park
+          1	Old Elangeni + Teacher's Cottage
+          1	Old Jeep Track
+          1	Old Trade Fair Grounds
+          1	Onverwacht Border Control
+          2	Oshoek Border Control
+          1	Palm Cascades
+          1	Panata Ranch
+          1	Park for Kopholo
+          1	Pep
+          1	Petrol station
+          1	Petromoc
+          1	Phongola Nature Reserve
+          1	Phongolapoort Nature Reserve
+          1	Phonjwane
+          1	Phophonyane Falls
+          2	Phophonyane Falls Ecolodge
+          1	Phophonyane River
+          1	Phumelea Clinic
+          1	Phuzumoya–Matsapha
+          2	Pick n Pay
+          1	Pick n Pay Matsapha
+          1	Pick'n'Pay
+          1	Pick'n'pay
+          1	Pigg's Peak Bus Rank
+          1	Piggs Peak
+          1	Piggs Peak Airport
+          1	Piggs Peak Police Station
+          1	Piggs Peak Public Hospital
+          1	Pine Valley Road
+          1	Plaza Tandoori
+          1	Poacher's Point
+          1	Police College Road
+          1	Police College road
+          1	Police Post
+          3	Polinjane River
+          2	Polinjane Street
+         11	Pongolapoort Dam
+          3	Pongolo
+          1	Poor resolution photo
+          1	Post office
+          1	Poultry
+          1	Power Fashion Factory
+          1	Prince Mnisi st
+          1	Prof.G.Guma Road
+          1	Prostitute Hot Spot
+          1	Prostitute Hot spot
+          1	Public Service Pension Fund
+          5	Puma
+          1	Python pond road
+          1	Queen house
+          1	R40 (northbound)
+          1	R40 (southbound)
+          1	Ramblas
+          1	Reception
+          2	Reception Mlawula Nature Reserve
+          1	Regional government offices
+          1	Reilly's Rock Hilltop Lodge
+          2	Restaurant
+          1	Ridge Street
+          1	Ridge Trail
+          1	Rio Umbeluzi
+          1	River
+          1	River crossing
+          1	Riverside Crescent dr
+          1	Riverstone Mall
+          1	Road
+          1	Rontanya Flats
+          2	Rosecraft
+          1	Royal Jozini Big 6 Private Estate
+          1	Ruchi Supermarkey
+          1	Ruchi Wholesalers
+          1	Ruyi 1 Supermarket
+          1	S.E.C buildings
+          1	S.O.S School
+          1	S.t Paul's Methodist High School
+          1	S.t Paul's Methodist Primary School
+          1	SADC 421 (eastbound)
+          1	SADC 421 (westbound)
+          1	SADC 422 (northbound)
+          1	SADC 422 (southbound)
+          1	SADC 423 (eastbound)
+          1	SADC 423 (westbound)
+          1	SADC 425 (eastbound)
+          1	SADC 425 (westbound)
+          1	SCU
+          1	SOS Childrens Village Pre-school
+          1	SRA Passeport Control
+          1	Salesian Primary & High School
+          1	Salitje Border Control
+          1	Salt 'n Pepper Club
+          1	Samora Machel Streel
+          2	Samsung
+          1	Sand River Reservoir
+          1	Sandlane Border Control
+          1	Sandlane Street
+          1	Saunders Lake
+          2	Save Mor (Spar)
+          1	SaveMor
+          1	Saving Center - Groceries
+          1	School for the Deaf
+          1	Scot Dining Hall
+          1	Secretary
+          1	Service Road
+          1	Shabobbooowaddywaddy
+          1	Sheba Weavers
+          1	Shewula Mountaincamp
+          1	Shiselweni
+          1	Shop
+          6	Shoprite
+          1	Shoprite Shop
+          1	Shoprite Usave
+          1	Short St
+          1	Shwula-Mbuluzi trail
+          1	Sibebe Cave
+          1	Sibebe Hills
+          1	Sibebe Rock
+          1	Sibhimbi Road
+          1	Sicunusa Border Control
+          1	Sidvokodvo
+          1	Signal Tower
+          1	Sigwili St
+          1	Sikhuphe International Airport
+          1	Sililo Avenue
+          1	Silotfwane Viewpoint
+          1	Simunye
+          1	Simunye Airport
+          1	Simunye Street
+          1	Sina Rock
+          2	Siphefu St
+          1	Siphetfo Road
+          1	Siphofaneni
+          1	Sir D. Honey Crescent
+          1	Sir D.Honey
+          1	Sir Robert Coryndon Avenue
+          1	Siteki
+          1	Siteki Airfield
+          1	Siteki Bus Rank
+          2	Siteki Nazarene High
+          1	Siteki hotel
+          1	Sithobela
+          1	Siyakhula Private School
+          1	Skonkwane Street
+          1	Sobantu guest farm backpacker
+          1	Sobhuza Building
+          1	Solanis
+          1	Sololo Road
+          9	Somhlolo Road
+          1	Somnjalose High School
+          1	Sondzela Backpackers
+          1	South Africa
+          1	South Africa (land mass)
+          1	South African High Commission
+          1	Southern Distributor
+          2	Spar
+          1	Spar Store
+          1	Spur
+          1	Spurs
+          1	Squash
+          1	Squash Court
+          1	St George's Barracks
+          1	St Philips
+          1	St Phillips Catholic Church
+          1	St. Marks High School
+          1	St. Marks Primary School
+          1	St. Marks School
+          1	Staff House
+          1	Staff House 3
+          1	Staff house 2
+          1	Standard Bank
+          1	Steer
+          1	Strange field in the forest
+          1	Sugarcane Museum
+          1	Summerfield botanical gardens and resort
+          1	Summit Trail
+          1	Sundowners Backpackers
+          1	SuperSpar
+          1	Supermarket
+          1	Swazi Aircraft Services
+          1	Swazi Candles
+          1	Swazi Cultural Village
+          1	Swazi Pak
+          1	Swazi Plaza
+          1	Swazi Post
+          1	Swazi Trac
+          1	Swaziland Broadcasting and Information Services
+          1	Swaziland College of Technology
+          1	Swaziland Earthmoving Equipment
+          1	Swaziland Flying Club
+          1	Swaziland National Church
+          2	Swaziland National Fire and Emergency Service
+          1	Swaziland National Museum
+          1	Swaziland Red Cross
+          1	TWR
+          1	Tambankulu Airport
+          1	Tambuti
+          1	Tambuti Airport
+          1	Tambuti Street
+          1	Tambuti street
+          2	Tenbergen Street
+          1	Tennis
+          1	The Alfred Millin
+          1	The Chocolate Shop
+          1	The Fitness Zone
+          1	The Gables
+          1	The Great Taipei
+          1	The Pub & Grill
+          1	The Redeemed Christian - Church of God
+          1	The Royal Villas
+          2	Thyme @TheMall
+          1	Tickets office - Combis for Durban
+          1	Tikhuba Street
+          1	Timbali Lodge
+          1	Tinkers Filling Station
+          1	Tintsaba
+          1	Tip-top butchery
+          1	Titanic building
+          1	Tjaneni
+          1	Toilet/Out house
+          1	Tom
+         13	Total
+          1	Tower
+          1	Townhouses
+          1	Toyota
+          1	Track to swim spot
+          1	Trail to view Malolotsha falls
+          1	TransMagnific
+          1	Transmagnific - Go Swaziland
+          1	Transmagnific Buses to Johannesburg
+          1	Truck Area
+          1	Truworths
+          1	Tsekwane st
+          1	Tshaneni Airport
+          1	Tums water world
+          1	Tío Ze
+          1	Ubombo Ranches Airport
+          1	Umgamba Close
+          1	Umgamba Street
+          1	Umjindi Local Municipality
+          1	Umjindi Ward 8
+          1	Umkhanyakude District Municipality
+          1	Umphako Street
+          3	Umphohlo Street
+          1	Under COnstruction
+         67	Under Construction
+          1	Under Construction3
+          1	Under construction
+          1	UnderConstruction
+          1	University
+          1	University of Swasiland - Luyengo Campus
+          1	University of Swaziland
+          1	Usuthu Crescent
+          2	Usutu Road
+          1	View Point Restaurant
+          1	Village Chicken
+          1	VisionCare
+          1	Vumi & Tibo Investments
+          1	Vusumuzi B. St
+          2	Warner Street
+          1	Water and Electricity Services
+          1	Waterfall to Ndzindza
+          1	Waterfall top
+          1	Waterford Kamhlaba United World College of Southern Africa
+          1	Waterways
+          1	Waverley Border Control
+          1	William Pitcher College
+          2	Willows Lodge
+          1	Women and Childrens Hospital
+          2	Woolworths
+          1	Work number 2
+          1	Worship Centre
+          1	Zululand District Municipality
+          1	bridge?
+          6	casa
+          1	casettau
+          1	christ the king high school
+          1	computer centre
+          1	eDladleni Swazi Restaurant
+          2	eSwatini
+          1	edificio
+          2	farm
+          2	footpath
+          1	galp
+          1	guglielmo city
+          1	iDonga Obsticle Route
+          1	kagogo
+          1	king Moshoeshoe II st
+          1	millsite 
+          1	police station
+          1	quazi design
+          3	reception
+          1	ruin/casco
+          1	s
+          1	ss
+          1	tex-ray Swaziland
+          1	the African Touch
+          1	uPhongolo Local Municipality
+          1	uPhongolo Ward 10
+          1	uPhongolo Ward 11
+          1	uPhongolo Ward 12
+          1	uPhongolo Ward 13
+          1	uPhongolo Ward 14
+          1	uPhongolo Ward 4
+          1	uPhongolo Ward 5
+          1	uPhongolo Ward 7
+          1	umgamba Street
+          1	water tank
+          2	water well
+          1	workshop
+          1	zandweg

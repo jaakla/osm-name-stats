@@ -1,0 +1,100 @@
+        176	Bakı-Ələt-Qazax-Gürcüstan yolu
+        135	Bakı-Quba-Rusiya yolu
+         76	Kür
+         65	Bakı-Şamaxı-Yevlax yolu
+         65	Azərbaycan Beynəlxalq Bankı  ASC-nin bankomatı
+         62	Bakı-Ələt-Astara-İran yolu
+         57	Nəriman Nərimanov
+         49	Həsən Əliyev küçəsi
+         48	Heydər Əliyev prospekti
+         44	Yevlax-Zaqatala-Gürcüstan yolu
+         44	Səngəçal Neft Terminalı
+         44	Heydər Əliyev
+         43	Nizami
+         41	Հյուսիս-հարավ մայրուղի
+         41	Aptek
+         40	Səməd Vurğun küçəsi
+         38	Border Azerbaijan - Russia
+         38	Azərbaycan Beynəlxalq Bankı ASC-nin bankomatı
+         37	Məşədi Əzizbəyov
+         36	Səməd Vurğun
+         35	Moskva prospekti
+         35	Minimarket
+         34	Վարդենիս - Մարտակերտ մայրուղի
+         34	Ziya Bünyadov prospekti
+         32	Xətai
+         32	Market
+         32	Kapital Bank  ASC-nin bankomatı
+         30	Border - Iran - Azerbaijan
+         30	Azadlıq prospekti
+         29	Uşaq bağçası
+         28	Çayxana
+         28	Ağa Nemətulla küçəsi
+         27	Üzeyir Hacıbəyov
+         27	Məscid
+         27	2 saylı Məktəb
+         26	Qəndov-Xaçmaz-Yalama R.F. sərhədi
+         26	Mirzə Ələkbər Sabir
+         25	Yuxarı Şirvan kanalı
+         25	Yenikənd
+         25	Koroğlu Rəhimov küçəsi
+         25	Bakı Dairəvi Avtomobil Yolu
+         24	Zabrat şosesi
+         24	Təbriz küçəsi
+         24	Kafe
+         23	Yeni Günəşli
+         23	Təzəkənd
+         23	Qəbələ-Ağdaş yolu
+         23	Border Azerbaijan - Armenia
+         22	Binəqədi şossesi
+         22	Akademik Şəfaət Mehdiyev
+         21	Qəbristanlıq
+         21	Hüseyn Cavid prospekti
+         21	Cəfər Cabbarlı
+         21	Azpetrol
+         21	Azadlıq
+         20	Salyan Highway
+         20	Məktəb
+         20	Meyvə Bağı
+         20	Araz
+         19	Şıxlar
+         19	Uşaq bağçasi
+         19	Həsən bəy Zərdabi prospekti
+         18	Əhməd Rəcəbli küçəsi
+         18	Yol
+         18	Mikayıl Müşfiq
+         18	Mehdi Hüseynzadə
+         18	Heydər Əliyev Parkı
+         18	Atelye
+         18	Abbasqulu ağa Bakıxanov küç.
+         17	İnternetklub
+         17	Xanlar
+         17	Park
+         17	Kapital Bank ASC-nin bankomatı
+         17	Həzi Aslanov
+         17	Fətəli Xan Xoyski prospekti
+         17	3 saylı Məktəb
+         17	2
+         17	1 saylı Məktəb
+         16	Təzəkənd yolu
+         16	Rüstəm Rüstəmov küçəsi
+         16	Petrol
+         16	Nobel prospekti
+         16	Neftçilər Prospekti
+         16	Mehdi Hüseyn küç.
+         16	Heydər Əliyev pr.
+         16	Ceyhunbəy Hacıbəyli küçəsi
+         16	Bərbərxana
+         16	Buzonva-Şüvəlan şosesi
+         16	Bayan
+         16	Bash Shirvan Canal
+         16	Aeroport şosesi
+         15	Əziz Əliyev
+         15	İstiqlaliyyət
+         15	Tbilisi prospekti
+         15	Ruhulla Axundov
+         15	Qara Qarayev küçəsi
+         15	M-12
+         15	General Akim Abbasov küçəsi
+         15	Garegin Nzhdeh street
+         15	Border Azerbaijan - Iran

@@ -1,0 +1,100 @@
+        175	Boutique
+         91	Télécentre
+         57	Porcherie
+         55	common
+         53	Bar
+         52	Atelier de couture
+         49	House
+         45	Kiosque
+         43	Garage Moto
+         42	hut
+         38	Boulangerie
+         38	Bar Café
+         36	Cuisine
+         36	Atelier de Menuiserie
+         34	Pharmacie
+         31	Magasin
+         30	Boutique de divers articles
+         29	Total
+         28	Mosquée
+         27	Menuiserie
+         27	Diani
+         26	Shell
+         26	Machine à Pileuse
+         26	Autoroute Fidel Castro
+         24	Boutique avec Divers Articles
+         23	Makona
+         23	Guinée - Sénégal
+         22	Salon de Coiffure
+         22	Côte d'Ivoire - Guinée
+         21	Madina
+         21	Guinée - Liberia
+         20	Restaurant
+         19	Hangar
+         19	Bafing
+         18	Le Niger
+         17	Tinkisso
+         17	TMI
+         17	Mani
+         17	Kiosque de Guinée Games
+         16	Vidéo Club
+         16	Latrines
+         16	Koumba
+         16	Habitation
+         16	Gargote
+         16	Garage Automobile
+         16	BICIGUI
+         15	arrêt
+         15	Kogon
+         14	Péla - Diécké
+         14	Dion
+         14	Autoroute le Prince
+         13	Route Niger
+         13	N'zérékoré-Macenta
+         13	Hamdallaye
+         13	Great Scarcies
+         13	Fadougou
+         12	Route de Café
+         12	Oulé
+         12	N.1
+         12	Loffa
+         12	Gbangban
+         12	BTN
+         11	cité bamban
+         11	Yomadou
+         11	Road
+         11	Milo
+         11	Mali - Guinée
+         11	Guinée - Guiné-Bissau
+         11	Garage
+         10	Soudure
+         10	Possible Road
+         10	Pileuse
+         10	Pellel
+         10	Niandan
+         10	N'zérékoré - Lola
+         10	Lola - Danané
+         10	Konkouré
+         10	Huilerie
+         10	Guinée - Sierra Leone
+         10	Gambie
+         10	Boussoura
+         10	Banankoro
+         10	Balandougou
+         10	#UVM
+          9	Sandia
+          9	SGBG
+          9	Peace Hut
+          9	Orange
+          9	Moussaya
+          9	Missira
+          9	Marché
+          9	Machine à piler
+          9	Koba
+          9	Hafia
+          9	Farako
+          9	Fadou
+          9	Ecobank
+          9	Balé
+          9	Ateliers de Couture
+          8	transvervale 5

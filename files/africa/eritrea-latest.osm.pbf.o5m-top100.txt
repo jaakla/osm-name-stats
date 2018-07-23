@@ -1,0 +1,100 @@
+         41	Asmara - Massawa Road
+         35	Eiraeiro
+         32	Ethiopia - إريتريا
+         23	Teseney - Barentu road
+         21	Teseney - Sebderat road
+         17	Gash
+         15	Asmara - Massawa Road طريق أسمرة - مصوع
+         13	مسجد
+         13	Barentu - Ak'ordat road
+         12	Tamoil تام أويل
+         12	Comaile River
+         12	Asmara - Massawa Road طريق أسمرة-مصوع
+         11	Border Sudan - Eritrea
+          9	Gulf of Tadjoura
+          8	قرية Village
+          8	Total توتال
+          8	Massawa - Asseb highway
+          8	Keren - Asmara Road / طريق كرن - أسمرة
+          7	طريق أغوردات - كرن
+          7	Nakfa Avenue شارع نقفة
+          7	Asmara-Massawa Road طريق أسمرة-مصوع
+          7	Annesley Bay
+          6	كنيسة
+          6	طريق أسمرة - مصوع
+          6	Village
+          6	Sematat Avenue شارع الشهداء
+          6	Ethiopia - جيبوتي
+          5	طريق كرن - أسمرة
+          5	شارع ساحل
+          5	تسني - أغوردات / Teseney - Ak'ordat
+          5	Sahil Avenue شارع ساحل
+          5	Dahlak Kebir
+          5	Barentu - Ak'ordat road / طريق بارنتو - أغور�
+          5	Aligedhe River
+          4	ويما Ouéima
+          4	شارع ميا بيلا
+          4	خليج تاجورة Gulf of Tadjoura
+          4	بيشا Bisha
+          4	Rahayta Street شارع راهيتا
+          4	Piste d'Adgueno
+          4	Om Hajer - Teseney road
+          4	Old railway Asmara-Keren
+          4	Masswaw - Asseb highway
+          4	Harnet Avenue شارع الحرية
+          4	Ghoubet Kharab
+          4	Ethiopia - إرتريا
+          4	Commercial Bank of Eritrea البنك التجاري لإر
+          4	Asmara -Dekemhare road
+          4	Asmara - Massawa Road / طريق أسمرة - مصوع
+          4	Al Lafa Road
+          3	واد وكئرو
+          3	كارورا
+          3	طريق مصوع - عصب
+          3	طريق أم هاجر - تسني
+          3	شارع ماي بيلا
+          3	شارع بولونيا Bologna Street
+          3	دهلك كبير Dahlak Kebir
+          3	Sawa Street شارع ساوا
+          3	Old railway Asmara-Keren سكة حديدية قديمة أ�
+          3	Muna
+          3	Mata Street شارع ماتئا
+          3	Mai Bela ماي بيلا
+          3	Imbaderoh Street شارع امباديرو
+          3	Hday Street شارع هدي
+          3	Hamlet
+          3	Eritel إريتل
+          3	Denden Street شارع ديندين
+          3	Covered Market السوق المغطى
+          3	Commercial Bank of Eritrea
+          3	Border Djibouti - Eritrea حدود جيبوتي - إريت�
+          3	Bar and Restaurant حانة ومطعم
+          3	Asseb - Ethiopian Border Highway
+          3	Assab - Djibouti Border Highway / طريق سريع الح�
+          3	Arr Street شارع آر
+          3	Ak'ordat - Keren road
+          2	ኤርትራ إرتريا
+          2	هاليب مينتل Halib Mentel
+          2	نهر أليجيده Aligedhe River
+          2	منتجع الجزيرة دهلك Dahlak Island Resort
+          2	مك إركا
+          2	مطار Airport
+          2	فورو Foro
+          2	طريق قديم أسمرة - مصوع
+          2	طريق أم هاجر - الحمرا
+          2	شارع نفاقا
+          2	شارع مريم غمب Maryam Gmbi Street
+          2	شارع كاريبوسا
+          2	شارع ايمباهاع
+          2	دامس Damas
+          2	جيبوتي - الصومال
+          2	جوندت Dogali
+          2	Zoba Maekel Court House
+          2	Wekiro وكئرو
+          2	Village قرية
+          2	Total
+          2	Teseney - Ak'ordat
+          2	Tanks Cemetery مقبرة الدبابات
+          2	Stadium
+          2	Setit نهر سيتيت
+          2	Senhit Street شارع سينهيت

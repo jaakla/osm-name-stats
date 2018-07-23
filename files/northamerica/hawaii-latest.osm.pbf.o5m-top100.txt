@@ -1,0 +1,100 @@
+        189	Mamalahoa Highway
+        148	Hana Highway
+        117	Kuhio Highway
+        108	Kamehameha Highway
+        105	Farrington Highway
+         91	Kanoelehua Avenue
+         83	Queen Ka'ahumanu Highway
+         71	Piilani Highway
+         69	Kaahumanu Avenue
+         68	Old Mamalahoa Highway
+         68	Honoapiilani Highway
+         63	Queen Kaahumanu Highway
+         59	Makakilo Drive
+         57	Waikoloa Road
+         50	Kaumualii Highway
+         47	Waikoloa Beach Drive
+         46	Kamehameha Avenue
+         45	Wailea Alanui Drive
+         42	McDonald's
+         41	Subway
+         41	Kilauea Avenue
+         41	John A. Burns Freeway
+         38	Keaʻau-Pāhoa Bypass Road
+         36	State Highway 83
+         35	Starbucks
+         32	Halekii Street
+         31	Longs Drugs
+         31	Kalākaua Avenue
+         31	Kahului Beach Road
+         31	Ka Haku Road
+         31	Haleakala Highway
+         31	Cane Haul Road
+         31	Akoni Pule Highway
+         30	Seaview Road
+         29	Nimitz Highway
+         29	Kuakini Highway
+         29	Kahekili Highway
+         29	Hapuu Road
+         29	Anahola Stream
+         28	South Kihei Road
+         28	Fort Weaver Road
+         28	First Hawaiian Bank
+         27	Pali Highway
+         27	Kaunakakai Road
+         27	Bank of Hawaii
+         26	Paniolo Avenue
+         25	Hawaiian Electric Power Plant (1950's)
+         25	Hamakua Ditch
+         25	Bayfront Highway
+         24	Kingdom Hall of Jehovah’s Witnesses
+         24	7-Eleven
+         23	Mauna Lani Drive
+         23	Makalea Street
+         23	Kuihelani Highway
+         23	Henry Street
+         22	building
+         22	Meheula Parkway
+         22	Kula Highway
+         22	Kapiolani Boulevard
+         22	Interstate H-1
+         22	Hualalai Road
+         22	Emmalani Drive
+         21	Terminal Drive
+         21	Shell
+         21	Railroad Avenue
+         21	Poipu Road
+         21	Lahaina Bypass
+         21	Kapuna Road
+         21	Kaiwiki Road
+         21	Foodland
+         20	Waiahi Stream
+         20	Mamane Street
+         20	Kapule Highway
+         20	Kaieie Homestead Road
+         19	Waialae Avenue
+         19	Puainako Street
+         19	Piikoi Street
+         19	Mauna Kea Road
+         19	Kalaniana’ole Highway
+         19	Kailua Road
+         18	Waikoloa Stream
+         18	Waianuenue Avenue
+         18	Wahine Pio Avenue
+         18	Wahiawa Stream
+         18	Palani Road
+         18	Okolani Drive
+         18	North Kihei Road
+         18	Lunalilo Home Road
+         18	Kalaniana'ole Highway
+         18	Burger King
+         17	Wailea Ike Drive
+         17	U.S. Contiguous Zone
+         17	South King Street
+         17	Pizza Hut
+         17	Keaau-Pahoa Road
+         17	Kaohe Road
+         17	Hale Laa Boulevard
+         17	ABC Store
+         17	76
+         16	Spencer Road

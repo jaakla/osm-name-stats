@@ -1,0 +1,5466 @@
+          1	( مسجد مجمع الفتح الاسلامي ( مسجد 
+          1	(331m)
+          1	(بركات)مدينة الشوال
+          1	05/23
+          5	1
+          1	1 Hay Almatar
+          5	10
+          5	100
+          4	11
+          5	12
+          1	12th Street
+          6	13
+          5	14
+          1	1438
+          1	148
+          5	15
+          4	16
+          4	17
+          1	17th Street
+          3	18
+          1	18/36
+          4	19
+          5	2
+          1	2 Hay Almatar
+          5	20
+          5	21
+          5	22
+          5	23
+          5	24
+          1	24 Bus Station
+          5	25
+          5	26
+          5	27
+          5	28
+          1	28 squire road
+          5	29
+          1	2nd Avenue
+          1	2nd Floor
+          1	2nd Street
+          5	3
+          5	30
+          1	30th Street
+          5	31
+          1	31st Avenue East
+          5	32
+          5	33
+          1	33th Avenue East
+          5	34
+          1	34 Squire Residential street
+          4	35
+          1	35th Avenue
+          1	35th Avenue E
+          5	36
+          5	37
+          5	38
+          5	39
+          1	3D Scan Radiology Center
+          1	3bdalla Corner
+          1	3rd Avenue
+          3	4
+          5	40
+          5	41
+          1	41 ايس كريم
+          5	42
+          4	43
+          5	44
+          5	45
+          1	45th Street
+          5	46
+          5	47
+          5	48
+          4	49
+          1	4th Avenue
+          1	4th Street
+          7	5
+          4	50
+          4	51
+          5	52
+          6	53
+          5	54
+          5	55
+          6	56
+          6	57
+          4	58
+          4	59
+          1	5M
+          1	5m
+          1	5th Avenue
+          4	6
+          4	60
+          5	61
+          1	613 m
+          4	62
+          5	63
+          5	64
+          4	65
+          5	66
+          1	667 m
+          5	67
+          5	68
+          5	69
+          1	6N08
+          1	6N09
+          1	6th Street
+          7	7
+          2	7 محطة
+          5	70
+          5	71
+          4	72
+          6	73
+          5	74
+          5	75
+          4	76
+          5	77
+          5	78
+          1	789
+          3	79
+          6	8
+          5	80
+          5	81
+          1	816 m
+          5	82
+          5	83
+          5	84
+          5	85
+          5	86
+          5	87
+          4	88
+          5	89
+          1	8th Street
+          6	9
+          5	90
+          4	91
+          5	92
+          5	93
+          5	94
+          5	95
+          5	96
+          5	97
+          5	98
+          5	99
+          1	???
+          1	A
+          1	A.A.Taha.secondary school
+          7	A1
+          1	ABASHIR HOTEL
+          1	ACTIC ENGINEERING
+          1	AFI for Industry Co. Ltd
+          1	AGC- Club
+          1	AICS Khartoum
+          1	AL Nuba Village
+          1	ARC Cmpd Restaurant
+         19	ATM
+          1	AU Shop
+          1	Ab Jahal Market
+          1	Abarra
+          1	Abassiya East
+          1	Abassiya West
+          1	Abbas Island
+          1	Abd sid Ibrahim( home)
+          2	Abdallah Al Tayeb Street
+          1	Abder Rafi
+          1	Abdin Centre
+          1	Abdul Qaum Gate
+          1	Abdulmoneim School
+          1	Abdurrahman Ali Taha House
+          1	Abo Alshakh
+          1	Aboud
+          1	Aboud Gim & Swimming Pool
+          1	Aboud Sports Compund
+          1	Aboud Theme Park
+          8	Abrouv Road
+          1	Abu 'Ushar
+          1	Abu Ajala
+          1	Abu Ajura
+          1	Abu Baker As-Siddig Basic School
+          1	Abu Bakr Elsiddeeg Mosque
+          1	Abu Bard Mine
+          1	Abu Bard mine
+          1	Abu Dahiya
+          1	Abu Dhabi Islamic Bank
+          1	Abu Gaw
+          1	Abu Ghirban Station
+          1	Abu Gudul
+          1	Abu Hamad - Barbar
+          1	Abu Hamad Station
+          1	Abu Hamad Substation
+          2	Abu Haraz
+          1	Abu Haraz Station
+          1	Abu Humayrah
+          1	Abu Jalfa
+          1	Abu Jood (Syrian Restuarant) Kassala, Sudan.
+          1	Abu Mina  -  ابو مينا 
+          1	Abu Oudeyna
+          1	Abu Ramla
+          1	Abu Sellala
+          1	Abu Shouk
+          1	Abu Sibaa Bridge
+          2	Abu Sin Street
+          1	Abu Sufyan
+          1	Abu Takia
+          1	Abu Ushar Market
+          1	Abu Zabad
+          1	Abu Zid Mosque
+          4	Abu_Gebiha-Athidway
+          1	Abubakar al-Sadiq Mosque
+          1	Abugabra Restaurant
+          2	Abulgasim Hashim Street
+          1	Aburouf North
+          1	Aburouf South
+          1	Abusalik
+          1	Abusiid Alsafa
+          1	Abusiid Block 1
+          1	Abusiid Block 10
+          1	Abusiid Block 11
+          1	Abusiid Block 13
+          1	Abusiid Block 14
+          1	Abusiid Block 15
+          1	Abusiid Block 16
+          1	Abusiid Block 17
+          1	Abusiid Block 18
+          1	Abusiid Block 19
+          1	Abusiid Block 2
+          1	Abusiid Block 20
+          1	Abusiid Block 22 - Bank Agari
+          1	Abusiid Block 23
+          1	Abusiid Block 24
+          2	Abusiid Block 3
+          1	Abusiid Block 30 and 31
+          1	Abusiid Block 32
+          1	Abusiid Block 37
+          1	Abusiid Block 4
+          1	Abusiid Block 5
+          1	Abusiid Block 53
+          1	Abusiid Block 55
+          1	Abusiid Block 6
+          1	Abusiid Block 7
+          1	Abusiid Block 8
+          1	Abusiid Block 9
+          1	Abusiid Electricity Office
+          1	Abusiid Water Corp. Office
+          1	Abusiids Cemetery
+          1	Abvbarci Trading Company
+          1	Abyei Masjid
+          1	Abyei New Market سوق أبيي الجديد
+          1	Abyei-Ajackwac
+          1	Acropole Hotel
+         14	Ad Damazin Kurmuk Road
+          2	Ad Dinder
+          1	Ad-Damazin Airport
+          6	Ad-Damazin-Sennar Road
+          1	Ad-Damir
+          1	Addis Alem
+          1	Adila
+          1	Adila Military Camp
+          1	Adoriz cafe
+          1	Afaaq Printing house
+          1	Afra Mall
+          1	Africa City Of Technology
+          1	Africa Hospital
+          1	Africa Hotel
+          1	Africa pharmcy
+          1	African Paints
+          1	Agbaat Church
+          1	Ageida
+          1	Agok Hospital
+          1	Agok market
+          1	Agrab Square
+          1	Agriculture Research & Development Center
+          3	Ah mar
+          1	Ahmad Qasem Hospital for Children
+          1	Ahmed & Abu Baker Ujool Office
+          1	Ahmed Hafez Elbarbary Co. Ltd.
+          2	Ahmed Khair Street
+          1	Ahmed Mousa Guesthouse
+          1	Ahmed Sayed Abdu IMP & EXP ENT.
+          1	Ahmed Sharfi
+          1	Ahmed's Store
+          1	Aidaj
+          1	Ainy Ala Sayga Bakery
+          1	Airkateib Gold miners camp
+          1	Airport
+          1	Airport Departure Street
+          2	Airport Mosque
+          1	Ajmal
+          1	Akadabi Steel Manufacturing
+          1	Akako
+          1	Akasha
+          1	Akur
+          2	Al 'Aylafun
+          1	Al Abrar Mosque
+          1	Al Ahli Football Club
+          1	Al Ahmar
+          1	Al Akhdar
+          1	Al Amal Hospital
+          1	Al Amīn
+          1	Al Anfal Supermarket
+          1	Al Arak
+          1	Al Asfia
+          1	Al Awaida
+          1	Al Baha Cafeteria (Restaurant)
+          1	Al Baih
+          1	Al Bakri
+          2	Al Balabel Street
+          1	Al Baraka
+          1	Al Baraka Restaurant
+          1	Al Borg Laboratory
+          1	Al Bosta North
+          1	Al Bosta South
+          1	Al Busta South
+          1	Al Cardinal Farm
+          1	Al Daffaf
+          1	Al Dium West
+          1	Al Ereibab
+          1	Al Ezayba
+          1	Al Fakee Osman
+          1	Al Farajab
+          1	Al Fifi
+          1	Al Firdos North
+          1	Al Firdos South
+          1	Al Fouad Hospital
+          1	Al Fula Power Plant
+          1	Al Fulah
+          1	Al Goaz
+          1	Al Haj Yousif
+          4	Al Haj Youssef Street
+          1	Al Hamadab
+          1	Al Hamid Supermarket
+          1	Al Hasahisa
+          1	Al Hashmab
+          1	Al Hawatah
+          1	Al Hawsh
+          1	Al Hibeika
+          1	Al Hibeika Akoud
+          1	Al Hilaliyah
+          1	Al Ibn
+          4	Al Imam Al Mahdi Road
+          1	Al Ingaz
+          1	Al Islamiah (Women)
+          2	Al Jami Street
+          1	Al Jazirah الجزيرة
+          1	Al Jufrah الجفرة
+          1	Al Junayd
+          1	Al Kamal Bakery
+          1	Al Khatmiya
+          1	Al Kheir Wal Baraka PrivateSchool
+          2	Al Kufrah الكفرة
+          1	Al Kuraynik
+          4	Al Lafa Road
+          1	Al Lamab
+          1	Al Lamab Nasir
+          1	Al League
+          1	Al Madina School
+          1	Al Mahdi Avenue
+          1	Al Mak Nimur Av.
+          1	Al Mak Nimur Avenue
+          1	Al Malaga
+          1	Al Malwi
+          1	Al Mamura
+          1	Al Manshiya
+          2	Al Manshiya Bridge
+          1	Al Marwahah
+          1	Al Masalma
+          1	Al Masid
+          1	Al Matammah
+          1	Al Matar South
+          1	Al Mek Nimir Avenue
+          6	Al Mek Nimir Circle
+          1	Al Miseiktab
+          1	Al Mogran
+          1	Al Mokhtabar Laboratory
+          1	Al Mugald
+          1	Al Muglad airfield
+          1	Al Mujahdeen
+          1	Al Mutakamil Clinic
+          1	Al Omda
+          1	Al Qadarif State القضارف
+          1	Al Qadisiya
+          1	Al Rashedin Laundretteمغسلة ثياب
+          1	Al Rasheed
+          1	Al Rawdah
+          1	Al Rayan Clinic Centre
+          1	Al Rayan Street
+          1	Al Rikabiya
+          1	Al Rimailah
+          1	Al Riyadh Family Park
+          1	Al Rowad Residential Compund - Smart Housing
+          3	Al Safa
+          1	Al Safia
+          1	Al Said Ali St.
+          1	Al Salaam
+          1	Al Salam Cement Factory
+          1	Al Salluab
+          1	Al Samrab
+          1	Al Sawahli Street
+          1	Al Sawahly Mosque
+          2	Al Sawahly Pharmacy
+          1	Al Sewedy Pediatric Charity Hospital
+          1	Al Shaabiya Road
+          1	Al Shajara
+          1	Al Shamil House
+          1	Al Shargi Police Station
+          1	Al Shargi Street
+          1	Al Shargi turn محطة الشرقي
+          1	Al Shifa Pharmaceutical Factory
+          1	Al Shimt
+          2	Al Shuada Park
+          1	Al Shukaba
+          1	Al Souq Al Afrangi
+          1	Al Taif
+          1	Al Taif Typical Basic School for Girls
+          1	Al Tasamooh
+          1	Al Tayer Izzedin Street
+          1	Al Thawra 1
+          1	Al Thawra 10
+          2	Al Thawra 11
+          2	Al Thawra 12
+          2	Al Thawra 13
+          1	Al Thawra 14
+          2	Al Thawra 15
+          1	Al Thawra 19
+          1	Al Thawra 2
+          2	Al Thawra 22
+          1	Al Thawra 23
+          1	Al Thawra 24
+          1	Al Thawra 3
+          1	Al Thawra 4
+          2	Al Thawra 5
+          1	Al Thawra 60
+          1	Al Thawra 7
+          1	Al Uk
+          1	Al Waad Samsung Mobiles Store
+          1	Al Wagha Street
+          1	Al Wihda Cinema سينما الوحدة
+          1	Al Wusa
+          1	Al Zahabia Hall
+          1	Al Zubeir Pasha Street
+          1	Al haj Yousif South
+          1	Al ‘Aţrūn
+          1	Al- Faisal Cultural Center
+          1	Al- Mohajir Basic School
+          1	Al-Aboudab
+          1	Al-Ahliya School & Education Offices
+          1	Al-Akhlas School
+          1	Al-Amarat Center 2
+          1	Al-Ansari Exchange
+          9	Al-Arbaeen Road
+          2	Al-Azhari Road
+          1	Al-Doha St
+          1	Al-Dubaseen
+          2	Al-Esra Wa Al Dowa
+          1	Al-Faisal Culutral Center
+          1	Al-Faragin
+          2	Al-Firdous Street
+          1	Al-Haj Ahmad Mohmoud El-Tom
+          2	Al-Halfaia Bridge
+          1	Al-Hasahisa Stadium
+          1	Al-Horya Field
+          1	Al-Housh Restaurant
+          2	Al-Imam Al-Mahdi Rd.
+          3	Al-Imam Al-Mahdi Road
+          1	Al-Imam al-Mahdi
+          1	Al-Imtiyaz Integrated for Korean Parts
+         56	Al-Junaynah - Nyala road
+          1	Al-Kadaro
+          1	Al-Khaleel Wedding Hall
+          1	Al-Khojlab
+          1	Al-Madina Arab
+          1	Al-Mahdi Mosque
+          4	Al-Maouna Street
+          3	Al-Mazad Road
+          1	Al-Muhandiseen
+          4	Al-Muraba't Street
+          2	Al-Murada
+          2	Al-Nahla Fuel Station
+          1	Al-Nahla Petrol Station
+          4	Al-Nos Road
+          1	Al-Nozha Diagnostic Center
+          1	Al-Omda
+          1	Al-Qadarif Airport
+          1	Al-Riyad Mall
+          1	Al-Riyad Optics
+          1	Al-Saraj Broast
+          1	Al-Sawaqi Ganoubia Street
+          1	Al-Sharg Cables Factory
+          3	Al-Shingiti Road
+          1	Al-Tahreer
+          1	Al-Talha
+          1	Al-Tarajmah
+          4	Al-Tayeb Saleh Street
+          1	Al-Ubayyid Airport
+          1	Al-Wadi Road
+          5	Al-Wali Street
+          1	Al-Wali Supermarket
+          1	Al-Watanya Cinema
+          1	Al-Zaeem for Communication
+          1	Al-amal Mosque
+          1	Al-lkhlass Basic School
+          1	Al-safia
+          1	AlHakamab West
+          1	AlHudaybah
+          1	AlHuqnah
+          1	AlMagharba
+          1	AlMasudiyah
+          1	AlMatama
+          1	AlNuba
+          1	AlNukhaylah
+          1	AlQuweiz
+          1	AlSahati Park
+          1	AlSayyal
+          1	AlShahyda Nada
+          1	AlShami
+          1	AlTekeina
+          7	AlWadi Road
+          1	AlZumah
+          1	Alamara Algadida
+          1	Alami Supermarket
+          1	Alandalus High school
+          2	Alanfal
+          1	Alanfal Supermarket
+          1	Alaraish
+          1	Alatish National Park
+          1	Albalabel turn (Lafat Albalabel)
+          2	Albaldia Street
+          1	Alfadil Plaza
+          1	Algodoss Bakery
+          1	Alhana Fatair
+          1	Alhawi
+          2	Alhijaz Plaza
+          1	Alhoriyaa Yard
+          1	Ali Abdel Latif Avenue
+          1	Alien Affairs Department
+          1	Aljunaid Sugar Factory
+          1	Alkamlin East
+          1	Alkhamsa Boys School
+          1	Alkhamsa Girls School
+          1	Alkhatmia Mosque
+          1	All In One
+          1	Almahal-Sudan Border road
+          1	Almanar school
+          1	Almasara Mosque
+          1	Almazad Bus Station
+          1	Almazroub
+          1	Almazroub Military Camp
+          1	Almerghani Property
+          1	Almujahdeen
+          1	Alnasr Neighborhood Residential Street
+          1	Alnasr Road extension leads to the Market
+          1	Alneel hotel
+          2	Alnour Islamic Complex
+          1	Alourbab
+          1	Alpraa
+          2	Alqawz
+          1	Alquba AlKhadraa Mosque
+          1	Alradmiya turn (Lafat AL-radmiya)
+          1	Alragaa hospital for obstetrics and gynecology
+          2	Alsafwa Parking Lot
+          1	Alsafwa Supermarket
+          1	Alsafwa Volkswagon & Audi Dealer
+          1	Alsalama Insurance Company
+          1	Alsalha
+          1	Alsawahly DIY
+          1	Alsayfonat ( Afona ) Amar
+          1	Alshaheed Park
+          1	Alshamal Islamic Bank
+          1	Alshukaba Alwihda
+          1	Alshukri Grocery
+          1	Alsidaira
+          1	Alsidaira West
+          1	Alsideiqa Girls Elementary School
+          1	Alsoug Al Arabi
+          1	Alsouq Alshaby -Main Bus Station Road
+          1	Althiqa Butcher
+          1	Alti
+          1	Aluba
+         10	Alwadi Road
+          1	Alwafa
+          1	Alwaseela Transport
+          1	Alwasfa Pharmacy
+          1	Alwatanya Cinema
+          1	Alwihda Cinema
+          1	Alyamama Hospital
+          1	Alzaeem Alzhri
+          1	Alzahabia Private Hall
+          1	Alzariba town crossing road leads to Elobied Highway road
+          1	Alzarqa Industries
+          1	Alzuada
+          1	Alzuada Park
+          1	Amarat 1 Basic Level School (Boys)
+          1	Amasena Supermarket
+          1	Amasi Alneel Events Hall
+          1	American School
+          1	Amhara - Tigray
+          1	Ammara Qaseer
+          1	Amr Ibn AlAs Mosque
+          1	Amri Island
+          1	Amwaj
+          1	Anatolia
+          2	Ancient mine
+          1	Angarab Wenz ?
+          1	Anobetindu River
+          1	Ansam International School
+          1	Ansar Al-Suna
+          1	Ansar Mosque
+          3	Apron
+          1	Arab Bank
+          1	Arab Bank ATM
+          1	Araj Island
+          1	Arbaji hospital
+          1	Archaeological Sites of the Island of Meroe
+          1	Archeologists house
+          2	Arda North
+          2	Arda South
+          1	Ardeba / Marenji
+          1	Arkaweet
+          1	Armed Forces Bridge
+          1	Armed Forces Radio Station
+          1	Army Road
+          1	As Salamat
+          1	As Sultan
+          1	As Sumayh
+          1	As Suweigat
+          1	Asabrab
+          1	Ashishi khoar
+          1	Ashmeag
+          1	Asmara Restaurant
+          1	Asosa
+          1	Asosa - Guba Road
+          1	Aspawa restaurant
+          1	Assaf
+          1	Assaha
+          1	Assaha Lebanese Village
+          1	Aswan - Wadi Halfa
+          1	Atbara
+          3	Atbara - Barbar
+          2	Atbara - Port Sudan
+          3	Atbara - Shendi
+          1	Atbara Airport | مطار عطبرة
+          1	Atbara Trains Cemetery
+         22	Atbara-Port Sudan Highway
+         10	Atbarah River
+          1	Atoia
+          1	Atrun salt lake
+          1	Audi & Volkswagon
+          1	Avenue 39
+          1	Aviation Sciences College
+          1	Awalat Hamed
+          1	Awlad Omdurman
+          1	Azhari House
+          1	Azhari Roundabout
+          1	Azoom River
+          1	BBQ place
+          1	BHM Legal & Consultancy
+          1	BK5
+          1	BOK ATM
+          1	Baasher Palace Hotel
+          1	Baba Hussein Resturant
+          1	Babanusa
+          9	Babanusa-Wau railway
+          1	Babilon - مطعم بابليون
+          1	Badi
+          1	Badr Street
+          1	Badr airlines office
+          1	Bager Recordings
+          1	Baggari
+          1	Bahar-Abyad Hospital
+          5	Bahr Azoum
+          1	Bahr Azoum بحر أزوم
+         18	Bahr al 'Arab
+          1	Bahr al 'Arab ?
+          1	Bahr al 'Arab بحر العرب
+          1	Bahri
+          1	Bahri Centeral Market
+          1	Bahri Central Market
+          1	Bahri Central Station
+          1	Bahri Grand Mosque
+          1	Bahri Hospital
+          1	Bahri Locality
+          1	Bahri Train Station
+          1	Bait Al Mal Compensations
+          1	Bait Al Mal Compensations - North
+          1	Baleela Base Camp
+          1	Balinga
+          1	Balos
+          1	Baluul
+          1	Banaat Street
+          1	Banasu
+          1	Banat
+          1	Banat Cinema
+          1	Banat East
+          1	Banat Market
+          1	Banat Road
+          2	Banat Street
+          1	Banat West
+          1	Bank of Khartom branch
+          3	Bank of Khartoum
+          1	Bank of Khartoum ATM
+          1	Bank of Khartoum- Kosti
+          1	Banners Spanduk
+          1	Baqayr AlWarrani
+          1	Baqayr al Quddami
+          1	Bara
+          1	Barah city مدينة بارا
+          1	Baraha Hospital New Extension
+          2	Barakat Supermarket
+          1	Barankwa
+          1	Barattolo cotton plantation
+          1	Barbar Substation
+          1	Barbari
+          1	Barber shop (Indian citizen)
+          1	Barcelos
+          1	Barista Café
+          3	Barka
+          1	Baroney
+          1	Bartazuga
+          1	Basao
+          2	Bashaer
+          1	Bashaer Car Wash
+          1	Bashair
+          1	Bashair Hotel
+          1	Bashair mechanic garage
+          1	Bashaqra East
+          1	Bashaqra West
+          1	Bashir Elnefeidi St
+          1	Bashir Moh. Bashir House
+          1	Bashir al-Nefeidi Street
+          1	Basketball Ground
+          1	Basunda
+          2	Battle of Omdurman
+          1	Battle of Omdurman Memorial
+          1	Bazora
+          1	Bebnis
+          1	Bed
+          4	Bee
+          1	Bee Petroleum
+          1	Beit al-Mal
+          1	Belad Deroz
+          1	Belatuma
+          1	Bereket
+          1	Berenike Panchrysos
+          1	Big & Tall Store
+          1	Bikri Farm
+          1	BioPharmacy
+          1	Bir Bahay
+          1	Bir Bahaï
+          2	Bir Bamina
+          2	Bir Djouad
+          1	Bir Keles
+          1	Bir Lo
+          1	Bir Magarini
+          1	Bir Messouan
+          1	Bir Sogoni
+          1	Bir Umm Kheglig
+          2	Birkat Saira
+          1	Birti Island
+          1	Biryab
+          1	Blue Belt (Wrack)
+          5	Blue Nile
+          2	Blue Nile Bridge
+          1	Blue Nile Cinema
+          1	Blue Nile Mashreg Bank, Kassala (Main Branch)
+          1	Blue Nile Sailing Club
+          1	Blue Nile Sailing club
+          2	Blue bell
+          1	Bolbole Wenz
+          1	Bon Appetit
+          2	Boni Island (middle part)
+          1	Boni Island (northern part)
+          1	Boni Island (southern part)
+          2	Bookshop
+          1	Boost Plus smoothies
+          2	Border Bir Tawil - Sudan
+          1	Border Control
+          2	Border Egypt - Bir Tawil
+          1	Border Egypt - Hala'ib Triangle
+          2	Border Egypt - Libya
+          1	Border Egypt - Libya الحدود الليبيه-المصر
+          4	Border Egypt - Sudan
+          2	Border Hala'ib Triangle - Sudan
+          3	Border South Sudan - Central African Republic
+         11	Border Sudan - Eritrea
+         17	Border Sudan - South Sudan
+          1	Borida
+          1	Borni
+          1	Botanical Garden
+          1	Bouchra hotel
+          1	Bougainvilla Guesthouse
+          1	Bowac
+          1	Boys Elementary School
+          2	Boys Secondary School
+          2	Braha Street
+          1	Brankaw
+          1	British Council
+          1	Brotherhood Supermarket
+          1	Bsu station
+          1	Bugaya
+          1	Buk
+          1	Bumbode
+          1	Bur Sudan Pilot Tower
+          1	Burger Joint
+          1	Burger joint
+          1	Buri Family Park
+          1	Buri al Shariff Cemetery
+          2	Buri farma land
+          1	Buri green
+          1	Burri Sports Club
+          1	Burri cemetery مقابر برى
+          3	Bus Station
+          2	Bus terminal
+          1	Bus ticket offices
+          1	Bus tickets
+          1	Bus to Gallabat
+          1	Bus to Kadougli
+          1	Bus to Karima
+          1	Bus to galabat
+          1	Bus to meroe pyramid
+          1	Buses & Heavy Trucks Sales
+          2	Bush Camp
+          1	Bush Camp Es Sufeiya
+          1	Bush Camp Meroe Pyramides
+          1	Bush Camp Meroe Pyramids
+          1	Bush Camp Wadi Remli
+          1	Bush Camp Windy Camel
+          1	Bush camp
+          1	Bush camp Khashm el-Girba
+          1	Bush camp Metema
+          1	Bustan Family Park
+          1	Butri
+          1	Byblos Bank
+          1	Bābikri
+          1	Bān
+          1	Bīnshangul-Gumuz Kilil
+          1	CIVIL dept.
+          2	CNPC
+          1	CNPC El Obeid
+          1	CNPC Gas Station
+          1	CNPC Port Sudan Refinery
+          1	COR Office Kilo-27
+          1	COR Office in Shagarab Refugee Camp-1
+          1	COR Office in Shagarab-1 Refugee Camp, Kassala, Sudan.
+          1	CTC Complex
+          1	CVS PHARMACY
+          1	Cafe
+          1	Cafe Crepe
+          5	Cafeteria
+          1	Cafeteria Riyyan
+          1	Café Tamam
+          1	Cairo-Cape Town Highway
+          1	Cambridge
+          1	Cambridge School
+          1	Camel Bones
+          1	Camel market
+          1	Can Coolai
+          1	Canadian Embassy
+          3	Canal
+          1	Canal 15
+          1	Canal 16
+          1	Canal 17
+          1	Canal 18
+          1	Cangan Hotel
+          1	Cap Draa
+          3	Car Accessories
+          1	Car Accessories Outlets
+          4	Car Sales
+          1	Car Sales Showroom
+          1	Car Wash
+          1	Car rental
+          1	Casa
+          1	Casciangaro
+          1	Case Construction
+          1	Cataracts of the Nile
+          1	Catholic Language Institute Khartoum (C.L.I.K)
+          1	Cedars
+          1	Cementerie
+          1	Central Hotel / Hosteling International
+          3	Centre d'études et de documentation économiques, juridiqu
+         13	Changtong Company Road
+          1	Checking Point
+          2	Checkpoint
+          1	Chelkou Game Reserve
+          1	Chemistry Lab
+          1	Chicken For You
+          1	Chicken Hut
+          1	Chicken Xpress
+          1	China Embassy
+          1	Christian cemetery
+          1	Church
+          1	Cinema Coliseum
+          1	Cinema Sharqia Street
+          1	Cinema Watania
+          1	Circle Electronics
+          1	City Power Station
+          1	Clarks
+          1	Club
+          1	Coffee shop
+          1	Cold drinks available
+          1	College of Physical Education & Sports, SUSTECH
+          1	Collit
+          1	Coma
+          1	Comboni College
+          1	Command Mosque
+          1	Commissioner Of Refugee (COR) Office Wad Sherifey, Kassala
+          1	Commonwealth Cemetery
+          3	Compound residential villas
+          1	Confluence of the two Niles
+          1	Consulate of the Arab Republic of Egypt
+          2	Controle de Fronteira
+          1	Coptic Church
+          1	Copts Club
+          1	Coral Port Sudan
+          1	Corinthia Hotel
+          1	Courts Comlex
+          2	Courts Complex
+          2	Crimson Lights
+          1	Crystal Drinks Factory
+          1	Crystial Drinks Factory
+          1	DAIHATSU MOTORS (S) LTD
+          1	DAL EC Parking
+          1	DAL Food Coca Cola Factory
+          1	DAL Foods Factory
+          1	DAL Group Excellence Center
+          1	DAL Group HQ
+          1	DAL MotorsCo.
+          1	DANQAVI Restuarant
+          1	DEBONAIRS PIZZA AZHARY STREET
+          1	DHL
+          1	DHL office
+          1	DK LAB
+          1	DOWNLOAD IT SHOP
+          1	Dabak
+          1	Dagarti
+          1	Daghfeli Station
+          1	Dajjaji
+          1	Dalas Generators
+          1	Dalil Babikir
+          1	Dalil Dokhry
+          1	Dallami
+          1	Dam Workers Residential Area
+          1	Dam Workers Town
+          1	Damas
+          1	Damazin Airport Terminal
+          1	Damrat Dowa
+          1	Dams Implementation Unit
+          1	Dar Al Salam
+          1	Dar Al Salam North
+          1	Dar Al Salam South
+          1	Dayat Labour Hospital الدايات
+          1	Dean office
+          1	Debba
+          1	Degna Hospital
+          1	Delak Pizza
+          1	Delami
+          1	Delice
+          1	Delolo No 1
+          1	Demansour
+          1	Dentals Center
+          1	Department of Animal
+          1	Department of Botany
+          1	Department of Chemistry
+          1	Department of Foreign Affairs
+          1	Departure Terminal
+          1	Deponeers
+          1	Dereisa
+          1	Deriba Caldera
+          1	Dhopu
+          1	Diamond Blue For Trading Company
+          2	Dibaga Street
+          1	Dibbis
+          1	Dinder National Park
+          1	Dinder National Park Boundary Gate- Al Sineit
+          1	Dinder Safari Camp - Galago
+          1	Dirbi Island
+          1	Djibouti
+          1	Djibouti Embassy
+          2	Dodi
+          1	Doha
+          1	Doha Omdurman
+          1	Dongola
+          1	Dongola - Merowe
+          1	Dongola - Nuri
+          3	Dongola - Wawa
+          1	Dongola Airport | مطار دنقلا
+          2	Dongola Bridge
+          1	Dongola Mosque
+          1	Dontāy
+          1	Dooba
+          1	Doukki Gel
+          1	Dr. Hamada Farm
+          1	Dream Hospital
+          1	Dream Ice Cream
+          1	Dream Pizza and Ice Cream, Port Sudan
+          1	Drinking water point
+          1	Dubai Food Factory
+          1	Duha Pharmacy
+          2	ELF
+          1	East Darfur State ولاية شرق دارفور
+          1	East Khartoum Locality
+          1	East Nile Model Hospital
+          1	Eastern Deffufa
+          1	Eastern Sqaure
+          1	Ecole française de Khartoum
+          1	Ed Al Fursan
+          1	Ed Dabba
+          1	Ed Daein
+          1	Ed Debab
+          1	Ed Debba
+          1	Ed Dom
+          1	Egyptian Fox Border Point
+          1	Egyptian House
+          1	Egyptian Sudanese Bank
+          1	Eirtiga Private School
+          1	Eizba Elementary Boys
+          1	Eizba Elementary Girls
+          1	El Aburu
+          1	El Amarin
+          1	El Ameid Pharmacy
+          1	El Ban Station
+          1	El Baragub
+          1	El Barbary Workshop Bahrey Center
+          1	El Barun
+          1	El Basaber
+          1	El Begaiya
+          1	El Fasher Airport
+          1	El Fasher for Shopping
+          1	El Fil
+          1	El Fula
+          1	El Fula North West
+          1	El Fuwela/Bueda
+          1	El Gash
+          1	El Ghadoora
+          1	El Girba
+          1	El Guni
+          1	El Haraz
+          1	El Harm hotel
+          1	El Harraz
+          1	El Heibah
+          1	El Heleiba
+          1	El Kab
+          1	El Kab Station
+          1	El Kararir
+          1	El Kawther
+          1	El Kora
+          1	El Kuhula
+          1	El Kurru
+          1	El Kushi Island
+          1	El Madina Hotel
+          1	El Midaimir
+          1	El Nahud
+          1	El Sahab
+          1	El Saheib Agrictulture Project
+          1	El Seriha
+          1	El Sewedy Pediactric Charity Hospital's Parking
+          1	El Taibar
+          1	El Tayer Zulfu Street
+          1	El-Ban JAdeed Hospital مستشفى البان جديد
+          1	El-Boroosh Market
+          2	El-Fasher Airport
+          1	El-Habib private basic school
+          1	El-Hibir's Building/Apartments for rent
+          1	El-Neil Petrol station
+          1	El-Sheikh Hospital
+          1	El-Tasamoh Supermarket
+          1	Elbarbary Engineering Co. Ltd
+          1	Elbarbary Engineering Co. Ltd.
+          1	Electricity coorpoation- White Nile
+          1	Elhassan Mausoleum
+          1	Elkhabir Honda Dealership
+          1	Elkumor
+          1	Elshabeia Pharmacy
+          1	Embassy of Egypt
+          1	Embassy of Indonesia
+          1	Embassy of United States
+          1	Embassy of the Federal Republic of Germany
+          1	Embassy of the Repulic of Turkey
+          1	Emtidad nasir
+          1	Emtitode
+          1	En Nahud Airport
+          1	Eng .library
+          1	Eng.Tower
+          1	English School
+          1	Ennedi Est إنيدي الشرقية
+          1	Er Roseires
+          1	Esam Abbas 2nd Wife house
+          1	Escape Resort
+          1	Eshket
+          1	Essajani
+          1	Estaila Resturant
+          1	Ethetica Dental Center
+          1	Ethiopia - إرتريا
+          1	Ethnological Museum
+          1	Ethoipian Restaurant
+          1	Etimad Brost
+          1	Evinglical School
+          1	Export Development Bank
+          1	FENTI DAL Golf Course
+          1	FLAG Europe-Asia
+          1	Factory for ID documents
+          1	Faculty of Architecture
+          1	Faculty of Economics
+          1	Faculty of Education, University of Khartoum
+          1	Faculty of Engineering
+          1	Fadasi
+          1	Fadl
+          1	Fagus Abri
+          1	Fair of Khartoum
+          1	Faisal Bank Elmunshia Bransh
+          1	Faisal Bank Window
+          1	Faisal Bank window - Macaa street
+          3	Faisal Islamic Bank
+          2	Faisal Islamic Bank ATM
+          1	Fal Al-Gamar for Shopping
+          1	Fal Algamar Supermarket
+          1	Famaka
+          1	Fanga
+          1	Farid Foul
+          1	Farm?
+          1	Farmale
+          1	Farmer's Bank Adminstration
+          1	Farmer's Comercial Bank
+          1	Farouq Buildimg
+          1	Farouq Mosque
+          1	Fash Shār
+          1	Fast Food BLACK&WHITE
+          1	Fatima Abdelrahim School
+          1	Feioghni
+          1	Ferish
+          1	Firsib Island
+          1	Fish Market
+          1	Fish Resort
+          1	Fitaihab Block 12
+          1	Fitaihab Shigla East
+          1	Fitaihab Shigla West
+          3	Fitehab Road
+          1	Flood discharge
+          1	Football Yard (Khomasiat)
+          1	For Baranga
+          1	Forage
+          1	Foreigner permits
+          2	Former UNMIS Headquarter
+          1	Former UNMIS Sector Headquarters
+          1	Former cathedral
+          1	Forrest Restaurant
+          1	Fox
+          1	Friendship Conference Hall قاعة الصداقة
+          1	Friendship Hall
+          1	Friendship Hotel
+          1	Frisan
+          1	Fruit,Vegetable and Meat Market
+         13	Fuel Station
+          1	Funu
+          1	Futaha
+          1	Future University
+          2	GALP
+          1	GREEN HALL
+          1	Gabal Al Owyinat
+          1	Gabal Tulia
+          1	Gabati
+          1	Gabra North
+          1	Gabrab
+          1	Gad
+          1	Gadara al Petrol
+          1	Galaat Abgir
+          1	Galego
+          1	Gali home
+          1	Ganeberri
+          1	Gangara
+          1	Ganneb
+          2	Gapco
+          2	Garden City
+          1	Garden Hotel
+          1	Garden Park
+          1	Gardner Denver Camp
+          1	Garfaur
+          1	Garri
+         11	Garri Ring Road
+          1	Gas station 1
+          1	Gas station 2
+          4	Gash
+          1	Gash Barka riverside picnic spot
+          1	Gash نهر القاش
+          1	Gasr-Alneel Hotel
+          1	Gebel Belesagado
+          1	Gebel Kamil
+          1	Gedabiet
+          1	Gedid
+          1	Geigar
+          1	Gemoeia
+          1	General Industries Complex
+          1	General Prosecution Office
+          1	Gereida
+          1	German Guesthouse
+          1	Ghaba Plumbing Soug
+         11	Ghaba Street
+          1	Ghaliya
+          1	Gharama
+          1	Ghaza Residential Compound
+          1	Ghenga
+          1	Gherb Elgash Cemetery
+          1	Gheza
+          1	Gifts store
+          2	Ginawi
+          2	Girls Elementary School
+          1	Girls Elementary Scool
+          1	Gizmo
+          1	Gnalida
+          1	Gobe
+          1	Gobush Substation
+          1	Gogrial Airport
+          1	Gold miner's camp
+          1	Golei
+          5	Gonder - Metema Road
+          1	Good view on pyramids
+          1	Gooz
+          1	Gooz Cemetery
+          1	Gorashi Garden Roundabout
+          1	Goreisho
+          1	Gorlambei
+          1	Goshabi Resettlement Area
+          1	Goz Nafisah
+          1	Grand Alex Café
+          1	Grand Mosuque
+          1	Grand Villa Hotel
+          1	Grar Wihai
+          1	Great Wall Hotel
+         10	Greater Nile Oil Pipeline
+          2	Greater Nile Oil pipeline
+          1	Greek Athletic Club
+          1	Green Park
+          1	Green Yard
+          1	Grils Secondary School;Girls Secondary School
+          8	Grocery
+          1	Guarada
+          1	Guba(قباء )Mosqu
+          4	Guelta Oasis
+          1	Guineeid
+          1	Guli main mosque
+          1	Guluberi
+          1	HANDSA Cafe
+          1	HCR Headquarter
+          1	Habab Grocery
+          1	Habib Allah
+          1	Habiba
+          2	Habila
+          1	Hadiqat Alkhamsa
+          1	Hadjer Déyné Korabé
+          1	Hadjer Erméni
+          1	Hadjer Naga
+          1	Hadjer Ogona
+          1	Hadjer Tamali
+          1	Hag Nour Mosque
+          1	Hai Al-Arab Road
+          1	Hai Al-Arab Street
+          1	Hai Al-Omal Street
+          1	Haj Alsafii Hospital
+          1	Haj Saeed House
+          1	Haja Bakar
+          1	Hajar Tama
+          1	Hajar al Asal
+          1	Haje sid ahmed
+          2	Hajjar Road
+          1	Hala's House
+          1	Hala's House in Port-Sudan
+          2	Halanga Bus Station
+          2	Halanga Street
+          1	Halfaya Cinema
+          1	Hamad Alnil
+          1	Hamad al-Nil Cemetery
+          1	Hamada Family Farm
+          1	Hamburg Workshop
+          1	Hamdab
+          2	Hamdab High Dam
+          2	Hamid
+          1	Hamid Ali Elkhir Branch Street
+          1	Hamlet
+          1	Hamouda
+          1	Hamrat El Sheikh
+          1	Hamshkorieb
+          1	Hamteb
+          1	Hamza Plaza Hotel
+          1	Hantoob
+          1	Happy time
+          2	Haro
+          1	Hashim Bey Street
+          1	Hassad - Abu Hamad
+          1	Hassad Substation
+          2	Hassai
+          1	Hassan Abdelrahim & Sons
+          1	Hassan Bashier Naser
+          1	Hassan Malik complex
+          1	Hassanein peak
+          1	Haute-Kotto
+          1	Havana Café
+          1	Hawaja
+          1	Hawawit East
+          1	Hawawit West
+          1	Hay Al Arab
+          1	Hay al Arab
+          1	Hay al-Safa
+          1	Haykota Street
+          1	Head master office
+          1	Health Caare Pharma Limited
+          1	Health Care Center
+          1	Health care Hospital
+          1	Heart Centre Hospital
+          1	Heavy truck Spare Parts Co.
+          1	Heglig
+          1	Heiban
+          1	Herguanga
+          1	Hiba Pharmacy
+          1	High Commission of the United Kingdom of Great Britain and 
+          1	High council for Environment & Rural Development
+          1	Highway Collection Point
+          1	Higlig-Bentiu
+          1	Hilat Abbas
+          1	Hilat Hamad Cemetery
+          1	Hilat Hassan
+          1	Hilat Khojali
+          1	Hillat Al Sifayah
+          1	Hillat Qeli
+          1	Hillat Rerah
+          1	Hillat al Sheikh Al Tayiq
+          1	Hillat al-Jadida
+          1	Hillat ed Dareisa
+          1	Hillat ed Darqab
+          1	Hillat el Karada
+          1	Hillat el Mashaykha
+          1	Hip Hop Store
+          1	Hippodrome
+          2	Hipton Hotel
+          1	Historical El-Said Alhassan Mosque
+          1	Hog Yousif
+          1	Holy Quran Society جمعية القران الكريم
+          1	Home
+          1	Home Care
+          1	Home Clinic of a Physiotherapist, Kassala, Sudan
+          1	Horizon Hotel
+          1	Hospital
+          1	Hotel Almuallem
+          1	Hotel Almuallen
+          1	Hotel Cleopatra
+          1	Hotel Halfa
+          1	Hotel Salam Rotana
+          1	Hotel al Nasser
+          2	House
+          1	House 84
+          1	Huge Tree
+          1	Huria Bridge
+          2	Huria Street
+          1	Hurria Bridge
+          1	Hyundai heavy industry
+          1	Ibad Al-Rahman for Services
+          1	Ibeid Khatim Street
+          4	Ibra
+          1	Ibrahim Shams El-din
+          1	Id Babiker
+          1	Idwa
+          1	Immigration
+          1	Immigration headquarters
+          1	In and out
+          1	Industrial Area
+          1	Industrial Area Secondary Road leads to the Big Market
+          1	Industrial Development Bank
+          4	Ingaz Road
+          1	Injaaz German-Sudanese Specialized Hospital
+          1	International Hospital
+          1	International University of Africa
+          1	Internet cyber cafe
+          1	Ior
+          1	Iranian Cultural Center
+          1	Iraqi Embassy
+          1	Irgie
+          1	Irmi
+          1	Ishashi Island
+          1	Ishlag Mudaraat
+          2	Ishreen Road
+          1	Islamic cultural center
+          4	Island
+          1	Italian corporation
+          2	Italy Pizza
+          1	Italy Pizza Center
+          1	Italy pizza
+          1	Italy pizza center
+          1	Ivory Restaurant
+          1	JAGUAR COFFE SHOP
+          1	JK Electrcity
+          1	Jabal Fash Shār
+          1	Jabal Guli
+          1	Jabal Jammām
+          1	Jabal Jirewa
+          1	Jabal Manga
+          1	Jabal MizemÄ«m
+          1	Jabal Oss
+          1	Jabal Qaysan
+          1	Jabal Qumur
+          1	Jabal San
+          1	Jabal Tawil
+          1	Jabal T‘umos
+          1	Jabal Um Arada
+          1	Jabal Wad Al Mak
+          1	Jabal al Bitkallam
+          1	Jabra
+          1	Jabrona
+          1	Jackson Bus Station
+          1	Jadid AlAtsha
+          1	Jadidah
+          1	Jamal Abdulnasir
+          1	Jamhuriya Avenue
+          1	Jammām
+          1	Japanese residence
+          1	Jbel Erba
+          1	Jbel Gurad
+          1	Jebel Abbud
+          1	Jebel Abu Remla
+          1	Jebel Ahmar
+          1	Jebel Angari
+          1	Jebel Aryu
+          1	Jebel Aulia Dam
+          1	Jebel Barkal
+          1	Jebel Barq es Samun
+          1	Jebel Beida (381m)
+          1	Jebel Belangashe
+          1	Jebel Boni (398m)
+          2	Jebel Daldu
+          1	Jebel Dar el Humar (345m)
+          1	Jebel Dirbi (322m)
+          1	Jebel Dosha
+          1	Jebel Eriai
+          1	Jebel Fanga
+          1	Jebel Gamendu
+          1	Jebel Gelli
+          1	Jebel Hillat Bilul (322m)
+          1	Jebel Hillat Bilul el Fuqani (324m)
+          2	Jebel Kagara
+          1	Jebel Kalidob (307m)
+          1	Jebel Kowia
+          1	Jebel Kulgeila (318m)
+          1	Jebel Kurrie
+          1	Jebel Mafluh
+          1	Jebel Musa (330m)
+          1	Jebel Orra
+          1	Jebel Qubbat Selim
+          1	Jebel Ruma
+          1	Jebel Samm
+          1	Jebel Shoba
+          2	Jebel Sira
+          1	Jebel Sis (342m)
+          1	Jebel Sunsu
+          1	Jebel Taal
+          1	Jebel Tawri
+          1	Jebel Telim
+          1	Jebel Tonga Rainyo
+          1	Jebel Turra
+          1	Jebel Umm Gieiwa (310m)
+          1	Jebel Umm Gleiti (309m)
+          1	Jebel Umm Kheglig (374m)
+          1	Jebel Umm Rahau (357m)
+          1	Jebel Uri
+          1	Jebel Us
+          1	Jebel el Asfar (321m)
+          1	Jebel el Bagdan
+          1	Jebel el Shawafat (343m)
+          1	Jeref East
+          2	Jeref Turn
+          1	Jeref West
+          1	JibelÄt an NÅ«r
+          1	Jibāl Rāru
+          1	Jibāl et Tarabel
+          1	Jidad
+          1	Jimeza Nabakaya
+          1	Jinaina Airport Terminal
+          1	Jiraif East
+          1	Jiraif West
+          1	Jirewa
+          1	Johnistan
+          1	Joint Procedures Center
+          5	Juba Street
+          1	Jubba turn (Lafat Jubba)
+          3	Julud
+          3	Juref Turn
+          1	Justice HQ
+          1	KICS stables
+          1	KSA airlines
+          1	Kab Algidad
+          1	Kabashi
+          3	Kabashi - Garri
+          3	Kabashi - Hog Yousif
+          1	Kadugli Hilal Stadium
+          1	Kadugli-Higlig
+          1	Kaduqli Airport
+          1	Kaduqli Hospital
+          1	Kafran Kualah
+          1	Kaguro
+          1	Kairi
+          1	Kak broast
+          1	Kalakla Road
+          1	Kalogi
+          1	Kamlin Stadium
+          1	Kanon Hotel
+          1	Kanon Hotel Suites
+          1	Kantara Theme Park
+          1	Karaibitar mine
+          1	Karari
+          1	Karari (Girls) Secondary
+          1	Karima Guest House
+          1	Karima Station
+          1	Karkade Tea House
+          1	Karkar
+          1	Karkoj
+          1	Karkoug Bekery
+          1	Kasakana
+          1	Kasambar
+          1	Kasanjar islands
+          1	Kasha
+          1	Kashouma Mosque
+          2	Kassala
+          1	Kassala (unofficial camping)
+          1	Kassala Airport Terminal
+          1	Kassala Educational Hospital
+          1	Kassala Grand Mosque
+          1	Kassala HigherSecondary School For Boys
+          1	Kassala Hospital Street
+          1	Kassala Hotel
+          2	Kassala International Airport
+          1	Kassala Locality
+         10	Kassala PortSudan Highway
+          1	Kassala State كسل
+          1	Kassala University - College of Education
+          1	Kassala Vegtables & Fruits Center
+         95	Kassala-Port Sudan Highway
+          1	Kassinger Station
+          1	Katayla
+          1	Katla
+          1	Kauda
+          1	Kawaleeb
+          1	Kawali
+          1	Kaweina
+          1	Kaya
+          1	Kebab / Falafel
+          1	Keheili Station
+          2	Keilak-Abyei
+          1	Kel Madmar
+          2	Kenana
+          1	Kenana Sugar Factory
+          1	Kenana Technicological college Compound
+          1	Kenisa Mesih Sudani
+          1	Kenya embassy
+          1	Kereeker
+          1	Kereiti
+          1	Kerma period cemetery
+          1	Khalifa Museum
+          1	Khalifa Square
+          1	Khalil Farah House
+          1	Khamdi
+          1	Khansa High School For Girls
+          1	Khartoum
+          1	Khartoum - Atbarah - Wadi Haifa National Highway
+          4	Khartoum - Shendi Road
+          1	Khartoum - Wad Medani National Highway
+          1	Khartoum Academic Hospital
+          1	Khartoum Bank
+          1	Khartoum Breast Care center
+          1	Khartoum Bus Station
+          1	Khartoum Hospital
+          1	Khartoum International Airport lounge
+          1	Khartoum International Airport/run way
+          1	Khartoum International Community School KICS
+          2	Khartoum International Preparatory School (K.I.P.S)
+          1	Khartoum International School Alfayha branch
+          1	Khartoum North train station
+          1	Khartoum Post Office
+          1	Khartoum Refinary Road
+          1	Khartoum South
+          1	Khartoum State Survey
+          1	Khartoum University: Faculty of Arts
+          1	Khartoum Youth Hostel
+          1	Khartoum bank
+          1	Khartoum diplomatic school
+          4	Khartoum-Kosti
+          2	Khartoum-Wad Madani Road
+          1	Khashm el-Girba Reservoir
+          1	Khatmiya Steet
+          1	Khatmiya Street
+          1	Khayr Wajih
+          1	Khider Bashier Theatre
+          1	Khor Abu Hamdal
+          1	Khor El Boval
+          1	Khor Elm El Ahdar
+          1	Khor Shungui
+          1	Khumera
+          1	Kibeida International School
+          1	Kidr
+          1	Kidr Island
+          1	Kiir Adem
+          1	Kilo Bus Station
+          1	Kimeir
+          2	King Abdelaziz Street
+          1	King Al-Mango
+          1	Kirayat
+          1	Kirkir
+          1	Kiteiyab
+          1	Klilabia
+          1	Kobar Bus Station
+          1	Kobar Prison
+          1	Kober
+          2	Kober Bridge
+          1	Kober North
+          1	Komesha Shet'
+          1	Konda
+          1	Kongi
+          1	Kongyo Hills
+          1	Kook Door
+          1	Kookak
+          1	Kookie Burger
+          1	Kordofan Nights Hotel
+          1	Korma
+          1	Kortala
+          1	Kosti Great Mosque
+          1	Kosti Hospital Round About
+          1	Kosti Teaching Hospital Compound
+          1	Kosti Town Stadium
+          1	Kosti Train Station
+          7	Kosti-Sennar Road
+          1	Kosti-al-Ubayyid Road
+          1	Koya
+          1	Kronga
+          1	Ku. 1
+          1	Kubbi
+          1	Kudaada
+          1	Kudu
+          1	Kuek
+          1	Kujur
+          1	Kuka
+          1	Kuku
+          1	Kunjari
+          1	Kurgi
+          2	Kurmuk
+          2	Kurmuta Road
+          1	Kuro
+          1	Kurra
+          1	Kytra
+          1	Ködörösêse tî Bêafrîka - République Centrafricaine
+          1	LIWA Hall
+          1	Lado
+          1	Lafa HajAldaly لفة حاج الدالى
+          1	Lake Abiad (Jau)
+          2	Lake Deriba
+          1	Lake Kerrita
+          1	Lan Tian International Hotel
+          1	Latif Super Market
+          1	Layali
+          1	Lazeez - مطعم لزيز
+          1	Laziz / Delicious Restaurant
+          1	Lebanese Embassy
+          1	Lesamin Travel & Torist
+          1	Levanzo (Wrack)
+          1	Liberty Steel
+          1	Limak for Integrated solutions
+          1	Limousine
+          1	Limozen car
+          1	Lisamin Safari
+          1	Liseiwi mInes 2
+          1	Liseiwi mines
+          1	Live Stock Market
+          1	Local hotel guesthouse
+          1	Locality Road crossing and linking Rural Villages
+          1	Locality Road crossing rural villages
+          1	Lokanda (20SDP)
+          1	Lokanda guesthouse
+          1	Looli
+          1	Lord
+          1	Loual
+          1	Lovely
+          1	Lulu HyperMarket
+          1	Lulua
+          1	Luna Park
+          1	Lutfi School
+          1	Luxury
+          1	MACLEASE
+          1	MG
+          2	MTN
+          1	MY HOME 2
+          1	Maamoura
+          1	Maban County
+          1	Mabrouka
+          1	MacLease
+          1	Madani - Gadarif Highway
+         25	Madani-Qadarif Highway
+          1	Madi
+          1	Madīnat al Masna’a
+          1	Maersk Shipping Co. LTD
+          1	Mafluh
+          1	Magzub Nubian guesthouse
+          1	Mahala
+          1	Mahas Kutrang
+          1	Mahasin House
+          1	Mahatat Al-sihreej محطة السهريج
+          1	Main Library
+          3	Main Track
+          1	Main Traffic Signal
+          1	Makkah Eye Complex
+          1	Makkah Opthalmic Technical College
+          1	Maktab Ziraai
+          1	Malha Wells
+          1	Malual
+          3	Malualkon-Sumeih
+          1	Mambo مامبو
+          1	Mamoon Behairi Street
+          4	Mamoon Beheiri Street
+          1	Mamoon al Berar Street
+          1	Manasis
+          1	Mandi
+          1	Mangarsa
+          1	Manshiya
+          1	Marafy Hotel
+          1	Mare d'Oumdour
+          1	Marhaba Hotel
+          1	Mari
+          1	Marinjan
+          1	Mariyam
+          3	Market
+          1	Marrah
+          1	Martyr Salah's Middle School
+          1	Marwa
+          1	Marwaco Commercial Enterprise
+          1	Marwaco for Construction
+          1	Masalama
+          1	Mashra Hamadok
+          1	Mashriq College
+          2	Mashtal Street
+         10	Masjid
+          1	Masjid Ansar as-Sunna
+          1	Masjid al-Fakie al-Khair
+          1	Masmaja
+          1	Mastora Street
+          1	Matama
+          2	Matthew Petroleum
+          1	Maugif al-'aam
+          2	Mawrada Road
+          1	May Gardens
+          1	Mayo
+          1	Mc Nimir Pharmacy
+          1	Mecca Street
+          1	Medani Alem Church
+          1	Medieval Church ruins
+          1	Meheisa Station
+          1	Meidob Volcanic Field
+          1	Meina Al Mak
+          1	Mellit
+          2	Menawashei
+          1	Merghani Footballl Club
+          2	Meriam
+          2	Meroe
+          1	Meroe Royal Baths
+          1	Meroe camp
+          1	Merowe
+          2	Merowe Airport Road
+          1	Merowe-Hamdab High Dam Hydroelectric power plant
+          1	Mesheitir
+          1	Metekel
+          1	Metema Border Post (Ethiopia)
+          1	Metema Customs Office
+          1	Metema Genda Wuha
+          1	Metema መተማ
+          1	Miam
+          1	Mideini
+          1	Midre Genet
+          1	Milano Cafe
+          1	Military Academy
+          1	Military Armory Complex
+          1	Military Camps
+          2	Military Compound
+          1	Military Museum
+          1	Military hospital
+          1	Milk Shake
+          1	Mina Faiz Shop
+          1	Mina al-Bari
+          1	Mina al-Berri Bus Station
+          1	Ministry Of Interior: Passort & Civil Registration Corporat
+          1	Ministry of Education
+          1	Ministry of Foreign Affairs
+          1	Ministry of Higher Education
+          1	Ministry of Tourism Antiquities and Wildlife
+          1	Ministry of Tourism Antiquities and Wildlife - Travel and P
+          1	Miss Claude Saloon
+          1	Mistariha
+          1	Mo"men
+          1	Moauia Elbrair
+          1	Mobi Mart
+          1	Model curtains
+          1	Modelest curtains
+          1	Modern Syrian Workshop for Car Painting
+          1	Mogran
+          1	Mogran Gas Station
+          1	Moh. El Tahir House
+          1	Moh. Motassim House
+          1	Mohamed Khatim Al-Haj Spare Parts
+          1	Mohammed Munawer's house
+          1	Money Changer
+          1	Monguri
+          1	Monjar
+          1	Montagaa alsmek
+          1	Monte Amzanaghir
+          1	Monte Dagalisc
+          1	Monte Giafra
+          1	Monti ya samah
+          1	Moon
+          1	Moony Hotel
+          4	Morada Road
+          1	Moris Showroom
+         10	Mosque
+          1	Mosque Abdallah bin Rouaha
+          1	Mosque Gadim
+          1	Mosque HANDSA
+          1	Mosque Street 31
+          1	Mosque of Ibn Masood
+          1	Mubarak Gismalla
+          1	Mugdeit
+          1	Muglad
+          3	Muhandiseen
+          1	Muhandiseen Market
+          1	Muhandiseen Military Compound
+          1	Muhandiseen Mosque
+          1	Muhandiseen North
+          1	Muhandiseen Police Station
+          8	Muhandiseen South
+          1	Mulazmin
+          1	Mulook
+          1	Murnei
+          1	Museo
+          1	Museum Kerma
+          1	Mustaghfirin Mosque
+          1	Mut Temple
+          1	Muwani Hospital
+          1	Muzan Parking
+          1	Muzbat
+          2	Muzdalafa Road Hajyousef
+          1	Muzn Beach
+          1	My home
+          1	My house
+          1	My office
+          1	MyPlace
+          1	Mīrāw
+          1	NEC sales office- Jabra
+          1	NEPTA
+          1	NGO Compound
+          1	NGO Mercy Corps
+          1	NGO Save the Children
+          1	NP
+          1	Naas Café
+          2	Naas Pizza
+          1	Nabagok
+          1	Nabta
+          7	Nahir ad Dindar
+          1	Nakhela Battle April 8th 1898
+          1	Nasia Grocery
+          1	Nasir
+          1	Natioanl Electric Corperation
+          2	National Camping
+          1	National Center for Research/Remote Sensing and Seismology 
+          1	National Congress
+          1	National Electric Company (NEC)
+          1	National Electricity Corporation
+          1	National Inteligence Security
+          1	National Intelligence and Security Service
+          1	National Paints
+          1	National Petroleum
+          1	National Security HQ
+          1	National club
+          1	National communication Corporation
+          1	National congress
+          1	National congress youth
+          1	Nazar Oumdurman
+          1	Nazila
+          1	Ndjamena-Djibouti Highway
+          1	Nepta
+          1	Nesmah Convenience Store
+          1	New Downtown Khartoum Project (Al-Sunut)
+          1	New Halfa Airport
+          1	New Jerif High School
+          1	New Jerif High School Mosque
+          1	New Khartoum International Airport Project
+          1	New bus station
+          1	Newspaper Kiosk
+          1	Ngongo
+          1	Nibl & Nosh
+          2	Nigeria Embassy
+          3	Nil
+          3	Nile
+          1	Nile 2nd. Cataract
+          1	Nile 3rd. Cataract
+          1	Nile 4th. Cataract
+          1	Nile 5th. Cataract
+          1	Nile Fuel Station
+          1	Nile Paints Factory
+          1	Nile Petrol Station
+          7	Nile Petroleum
+          1	Nile Station
+          1	Nile Street
+          1	Nilein Cinema
+          1	Nimuly
+          1	Niser
+          1	Nissan
+          1	Nissan Dealer
+          1	Niyama
+          1	Nora international hotel
+          1	North CAC
+          1	North Darfur State شمال دارفور
+          1	North Gonder
+          1	North Halanga Street
+          1	North Kurdufan State شمال كردفان
+          1	North Street
+          1	North entree for Dinder National Park
+          1	Northern Bahr el Ghazal
+          1	Nouba church
+          1	Nour al-Yemen
+          1	Nowra
+          1	Nuba
+          1	Nubian Guest House
+          1	Nubian Hotel
+          1	Nubian club النادي النوبي
+          1	Nukhaylah
+          1	Nuri
+          1	Nuri - Merowe
+          1	Nuzha Street
+          1	Nyakima
+          1	Nyala
+          1	Nyala Airport
+          1	Nyala Educational Hospital
+          1	Nyala Grand Mosque
+          1	Nyala Railway Station
+          1	Nyala Stadium
+          1	Nyala cinema
+         46	Nyala to Al-Fashir
+          4	Nyamlell-South_Darfur
+          2	Nyertete
+          1	O Zone
+          1	OILIBYA
+          1	OK
+          1	ORKIDA
+          1	OTC DOORS
+          3	Oasis
+          1	Obaid Al Khatim St.
+          3	Obeid al Khatim Street
+          1	Obied Water reservoir
+          1	Octogon Cafe
+          1	Officers club -kosti
+          1	Oil Energiy Station
+          3	Oil Libya
+          1	Oil Lybia;Oil Libyia Fuel Station
+          1	OilLibya
+          1	Oilibya Gas Station
+          1	Old Dongola
+          1	Old Dongola - Correct Location
+          1	Olla Hotel
+          1	Om Doum
+          1	Om Mongar
+          2	Om Sarieh
+          1	Ombada Ashra Street
+          1	Omdurman
+          1	Omdurman Alkobra
+          1	Omdurman Central Library
+          2	Omdurman Indian Club
+          1	Omdurman Indian School
+          2	Omdurman Industrial District
+          1	Omdurman Islamic University
+          1	Omdurman Islamic University Port Sudan Branch
+          1	Omdurman National Bank
+          1	Omdurman National Bank Branch
+          1	Omdurman Natonal Bank Branch
+          1	Omdurman Traffic police Headquarter
+          1	Omedla
+          1	One mart
+          1	Open Showroom
+          1	Origin of mango
+          1	Orthodox Church - كنيسة الشهيدين
+          1	Osama Bakery
+          1	Osama Supermarket
+          1	Osaylat
+          1	Osman Digna Port (Sawakin)
+          1	Osman Khogali
+          1	Othman Digna Avenue
+          1	Ouaddaï وداي
+          1	Ouaddis Narkouma
+          4	Ouadi Tiwal
+          1	Ouadis Boba
+          4	Ouadis Tiné وديان تيني
+          1	Ozak
+          1	Ozak Grocery
+          1	Ozone
+          1	Ozone - مطعم اوزون
+          1	Ozone Roundabout
+          1	PANDA RESTURENT
+          1	PINCI COFFEE
+          1	PX
+          1	Paintshop Audi & Volkswagon
+          1	Palace Mosque
+          1	Palace Museum
+          1	Palm Flats
+          1	Pank
+          1	Papa Costa
+          1	Paradise Hotel
+          1	Parista
+          1	Parmigiana
+          1	Passports and Immigration Department
+          1	Pavillon 1
+          1	Pavillon 2
+          1	Pavillon 3
+          1	Pavillon 4
+          1	Pavillon 5
+          1	Peacelight
+          1	Pepsi Cola
+          1	Pepsi T Junction
+          1	Pergola
+          1	Petrodar
+          1	Petrodar Oil Pump Station
+          6	Petronas
+          1	Petronas (بيتروناس )
+          4	Petronas Fuel Station
+          2	Petronas Gas Station
+          1	Petronas Gas station
+          1	Picnic
+          1	Pink & blue
+          2	Pizza Corner
+          1	Pizzeria
+          1	Plan International Sudan Office
+          1	Plus Cafe
+          3	Police
+          1	Police Academy
+          1	Police Club
+          1	Police Hospital
+          1	Police Housing
+          1	Police Residence Complex
+          1	Police checkpoint
+          1	Police parik دار الشرطة
+          1	Police station
+          1	Policia
+          2	Ponk's mosque
+          1	Port Sudan Air Base
+          1	Port Sudan Breach
+          1	Port Sudan New International Airport
+          1	Port Sudan Stadium
+          1	Presidental Palace
+          1	Prestige Clinic
+          1	Prestige Hall
+          1	Primary School
+          1	Primary and Secondary School
+          1	Primary and secondary boy school
+          1	Prince
+          1	Public parking Port Sudan
+          1	Public parking Suakin
+          1	Puits MGRD022
+          1	Pyramids of Meroe
+          1	Qabas school
+          1	Qabsheen
+          9	Qadarif-Kassala Highway
+          1	Qal`At Az Zaraf
+          1	Qalat Luban
+          1	Qal‘at Takārīr
+          1	Qaryah Ahada ‘Ashar
+          1	Qaryah Arba‘ah wa ‘Ishrūn
+          1	Qaryah Ithnā ‘Ashar
+          1	Qaryah Ithnān
+          1	Qaryah Ithnān wa ‘Ishrūn
+          1	Qaryah Khamsah
+          1	Qaryah Sab‘ah
+          1	Qaryah Sittah
+          1	Qaryah Sittah Arab
+          1	Qaryah Sittata ‘Ashar
+          1	Qaryah Thalāthan
+          1	Qaryah Thamānīyah
+          1	Qaryah Tis‘ah
+          1	Qaryah Wāhid
+          1	Qaryah Wāhid wa ‘Ishrūn
+          1	Qaryah ‘Asharah
+          1	Qaryah ‘Ishrūn
+          1	Qasr Ibrim
+          1	Qatar Society Mosque
+          1	Qatari Embassy
+          1	Qawz Burra
+          1	Qerri
+          1	Qindil
+          1	Qoz
+          1	Quarry
+          1	Quli
+          1	Qumur
+          1	Qurashi Hall
+          1	Quraywid
+          1	Qurein
+          1	Qustul
+          1	REX
+          1	Race Track Entrance
+          1	Rachid Diab Arts Centre
+          1	Radio & TV Theatre
+          1	Rafeef For Supplements Nutrition,Sudan / رفيف للمك�
+          1	Ragag
+          1	Ragife
+          1	Rahad al-Bardi
+          1	Rahad-Angatu
+          1	Rahma Restaurant - Marawi
+          2	Raiba Street
+          1	Railway
+          1	Railway Museum Atbara
+          1	Railway market cross
+          1	Rainbow restaurant (Fast Food)
+          1	Ranya Hotel
+          1	Ras A’amir
+          1	Ras el Jezira
+          1	Rashid
+          1	Rauiyan-Shet
+          1	Recycle Dump
+          1	Red Sea High School
+          1	Red Sea State البحر الأحمر
+          1	Regency Hotel
+          1	Registration
+          9	Renk-Kosti
+          1	Repulic Square
+          1	Resettlement Area
+          3	Resettlement Village
+          1	Rest
+          1	Restaurant 15 Cha'abi
+          1	Resturant
+          1	Resturant;Alarabi Resturant
+          1	Reval Pharmacy
+          4	Ridge
+          1	River Bank surrounding the community
+          1	River Nile State ولاية نهر النيل
+          1	River Nile's former Course
+          1	Riviera
+          2	Riyadh
+          1	Riyadh Modern Private School
+          1	Riyadh Omdurman
+          1	Riyadh Police Sation
+          1	Roa United Company
+          1	Robin burger
+          1	Rockero
+          1	Roman Catholic cathedral
+          1	Romani Hotel
+          1	Rosa Park (RP) Hotel
+          1	Roseires DAM
+          1	Roseires Dam Power Station
+          1	Roufa'a
+          1	Roufa'a Bridge
+          1	Roufayada
+          1	Royal Ancient City
+          1	Royal Broast
+          1	Royal Care International Hospital
+          1	Royal Pond
+          1	Royal care Hospital
+          1	Ruby Border lines
+          1	Ruby Building
+          4	Rufaa Main Road
+          1	Rufaa Stadium
+          1	Rufaah Hospital
+          1	Rufaah Karket
+          1	Rufaah Teaching Hospital
+          1	Rumaker market
+          1	Rumaker p school
+          1	Rumiela
+          1	Rumoh Saleh Markas
+          1	Ryeel Pharmacy
+          1	Rūru
+          1	SAYGA Flour Mill Extension
+          1	SAYGA Flour Mills
+          1	SETCO
+          1	SHOPERAP
+          1	SULMARA INTERNATIONAL SCHOOL
+          1	SUTRAC Co.
+          1	Saad Abu Elala
+          1	Sabaa Fast food Restaurant
+          1	Sabihat Transportation
+          1	Sadam مونوير
+          1	Saddle Dam
+          1	Saeed Food Factory
+          1	Safia Cinema
+          1	Safia Park
+          1	Safia Police Station
+          1	Sahafa Cemetery
+          1	Sahara
+          1	Sahari Stationary
+          1	Sai New Kingdom city
+          1	Saint Peter and Paul's Catholic Church
+          1	Sajana Street
+          1	Sajana Youth Center
+          1	Sala
+          1	Salam Mosque
+          1	Salawa
+          1	Saleem
+          1	Saleh Motel
+          1	Saleh Pasha el Mek Street
+          1	Salha East
+          7	Salha Road
+          1	Sali
+          1	Salimah
+          1	Sama Dubai Boutique
+          1	Samah Video Center
+          1	Samaha
+          1	Samara
+          1	Samrab Street
+          1	Sana Supermarket
+          1	Sanam
+          1	Sangir
+          1	Saoudi Sudanese Bank
+          1	Saraf `Umrah
+          1	Saras
+          2	Saray Timintay
+          1	Saudi
+          1	Saudi Hospital
+          1	Saudi Hospital Street
+          1	Saudi Supermarket
+          1	Savinga
+          1	Savola Sudan
+          1	Sawakin
+          1	Sawani
+          1	Sawdiri
+          1	Sayed Yagoub, Community Basic Schools
+          1	School
+          1	Schools Street
+          1	Science's Cafeteria
+          1	Sean Flour Mills (س)
+          1	Secodary Girls School
+          1	Secondary main road to kosti town
+          1	Security
+          1	Security Office
+          2	Security office
+          1	Security ofice
+          1	Sedeinga
+          1	Sei
+          1	Seledor German Paints
+          1	Sena Hypermarket سناء مول
+          1	Sendo
+          2	Sennar Dam
+          1	Sennar State سنار
+          1	Sesibi
+          1	Setit نهر سيتيت
+          1	Sha'bia Road
+          1	Shagara Abu Bakr
+          1	Shalal Almadina Family Restaurant
+          1	Shambat
+          2	Shambat Bridge
+          1	Shambat Girls High School
+          1	Shambat Studium
+          8	Shandi - Atbara Road
+          1	Shaq El Leyoun
+          1	Sheikh Idris
+          1	Shekuk Island
+          1	Shell
+          4	Shendi
+          1	Shendi - Atbara Road
+          3	Shendi - Garri
+          1	Shendi Airport
+          1	Shendi Christian Church
+          1	Shendi New Bus Station
+          1	Shendi Station
+          1	Sherab
+          1	Sherari Island
+          1	Shergeila
+          1	Sherifa
+          1	Shetta
+          1	Shirgi Mosque
+          1	Shiri Island
+          1	Shirouq Paints
+          1	Shoba
+          1	Shorta Hodpital
+          1	Showroom Audi &Volkswagon
+          1	Shuhadaa Bus Station الشهداء
+          2	Shulgami Pharmacy
+          1	Siblings House for Printing and Publishing
+          1	Sideon
+          1	Sidon?
+          1	Sidr
+          1	Siedlung
+          1	Sifaita Al-Ghanoumab
+          1	Sigili
+          2	Sika Haded Road
+          1	Sila سيلا
+          1	Silea
+          2	Simiat
+          1	Simit
+          1	Simsim
+          1	Sindibad City
+          2	Sindibad Hall
+          2	Sinkat Street
+          1	Sira
+          1	Siraj
+          1	Sisi
+          1	Sister's School
+          2	Sixth Cataract
+          4	Small cafe
+          2	Small shop
+          1	Snorkeling boats
+          1	Soba East
+          1	Soba Medical Campus
+          1	Soba West
+          1	Social Insurance
+          1	Soher home
+          1	Soleb
+          1	Solitaire
+          1	Solow
+          1	Somalia embassy
+          1	Sondos Major
+          1	Sondos Major 3
+          1	Sondos Major 5
+          1	Songo
+          1	Sonki
+          1	Sony Safary
+          2	Soriba Steet
+          1	Soug Alkhamsa
+          1	Souk el Shabi
+          1	Souq
+          1	Souq 4
+          1	Souq 6
+          1	Souq Dinka
+          1	Souq Faranji
+          1	Souq Kalaka
+          1	Souq Kosti
+          2	Souq Libya
+          1	Souq Mayo
+          1	Souq Merkazi
+          1	Souq Moheli
+          1	Souq Navaisha
+          2	Souq Omdurman
+          1	Souq Saad Gishra
+          1	Souq Sajana
+          1	Souq Shendi
+          1	Souq Steet
+          1	Souq Street
+          1	Souq Tuti
+          1	Souq al-Deim
+          1	Souq ash-sha'abi
+          1	Souq chaabi
+          2	South CAC
+          1	South Darfur State جنوب دارفور
+          1	South Kordofan Hotel
+          1	South Kurdufan State جنوب كردفان
+          1	South Road
+          1	South Sudan
+          1	South Sudan - Central African Republic
+          1	South Sudan - Ethiopia
+          1	South Sudan - السودان
+          1	Southerners Refugees Camp
+          1	Spring
+          1	Squire 1
+          1	Squire 1 Kindergarden
+          1	Squre1 Emtidad Shambat
+          1	Sreet 65
+          1	St. Matthew's Roman Catholic Church
+          1	St.George Orthodox Church الكنيسة القبطية ب�
+          1	Star Cafe
+          1	Starbocks
+          1	State Of Qatar Embassy
+          1	Station
+          1	Station 10
+          2	Station 7 Road
+          1	Station Nr. 10 - Karima
+          8	Station de pompage
+          1	Steers
+          2	Street 1
+          1	Street 10
+          1	Street 117
+          1	Street 131
+          1	Street 15
+          1	Street 19
+          4	Street 21
+          4	Street 25
+          2	Street 27
+          2	Street 29
+          4	Street 31
+          2	Street 33
+          4	Street 35
+          1	Street 37
+          2	Street 39
+          2	Street 41
+          1	Street 41 Mosque
+          1	Street 43
+          1	Street 45
+          2	Street 46
+          1	Street 47
+          1	Street 48
+          4	Street 49
+          1	Street 50
+          4	Street 51
+          1	Street 53
+          1	Street 54
+          3	Street 55
+          3	Street 57
+          5	Street 59
+          2	Street 61
+          2	Street 63
+          1	Street 65
+          1	Street 67
+          2	Street 69
+          1	Students Residential Building
+          9	Sudan - Ethiopia
+          1	Sudan Catholic Conference
+          1	Sudan Central Bank
+          1	Sudan Open University
+          1	Sudan Red Sea Resort
+          1	Sudan University
+          1	Sudan Vision
+          1	Sudanese Egyptian Bank
+          1	Sudanese French Bank
+          2	Sudanese Islamic Bank
+          1	Sudanese Turkish School
+          1	Sudani
+          1	Sudapost
+          1	Sudapost Mailing Office
+          1	Sudatel
+          1	Sudd
+          1	Sukai mine
+          1	Sumayah
+          1	Sumeet
+          1	Sunot
+          1	Supermarket Elmoshtara
+          1	Sur Island
+          1	Surk'Ele Wenz
+          1	Survey Authority Offices
+          1	Surya Trading Ent
+          1	Suug Shaabi
+          1	Syrian Castle 24/7
+          1	Syrian Fresh Foods
+          1	Syrian Goods
+          1	Syrian Resturant
+          1	Syrian Resturant (البيت السوري )
+          1	Syrian Sweets ( البيت السوري )
+          1	Syrian Sweets Shop
+          1	Syyalah
+          1	TATA COMPANY
+          1	TIBRI Marbles and Toils
+          1	TNT Furniture Building
+          1	Tabari
+          1	Tabbat
+          1	Tabbat Road
+          1	Tagabo Hills
+          1	Taha al-Roubi Road
+          1	Tahrir Stadium
+          1	Tajalei
+          1	Tajmala
+          1	Tajooj Theater
+          1	Taka Football Club
+          1	Taka Football Training Ground
+          1	Takala
+          1	Takoupi 2
+          1	Talab Building
+          1	Tamazgha ⵜⴰⵎⴰⵣⵖⴰ تمازغا
+          1	Tambool Hospital
+          1	Tambool Stadium
+          1	Tangal
+          1	Tanoor Inn
+          1	Tappco
+          1	Tara heavy equipment show room
+          1	Taragma
+          1	Tarboosh
+          1	Tarma
+          1	Tasamuh Bakery Omac مخبز التسامح
+          1	Tawang
+          1	Taxi Station
+          1	Tayba Hospital
+          1	Taza
+          1	Tchad تشاد
+          1	Tejo
+          1	Tekezé River نهر سيتيت
+          1	Temple of the Sun
+          4	Teseney - Sebderat road
+          1	Thamaa Hospital
+          1	The Belgian Vocational School
+          1	The Big Market
+          1	The Indian community
+          1	The Sendyan Hotel
+          1	The Teacher Basic
+          1	The golden gym
+          1	Thoura Steet
+          1	Thuma
+          1	Thur
+          1	Tigray
+          1	Tikailat
+          2	Tilat Abda mine
+          1	Tilmawi
+          1	Tiné-Djagaraba تينا
+          1	Tishwin
+          1	Tissi 4
+          1	Tissi Lake
+          1	To Elsaid Elhassan Archaelogical Mosuque
+          1	To Said Al-hassan Archaelogical Mosque
+          1	Todhoro
+          1	Togaro
+          1	Tolape
+          1	Toman Restaurant
+          1	Tomat
+          1	Tomb of "Mahdi"
+          2	Tombak
+          1	Tombos
+          1	Tongo SW
+          1	Top Gallery
+          1	Top Hotel
+          1	Topalla
+          1	Topkapi Restaurant
+          1	Tora Tonga
+          1	Tosari
+          1	Toteil Mountain Park
+          1	Toteil Natural Mountain Park
+          1	Toteil Natural Well aqueous
+          1	Toteil Well aqueous
+          1	Totiel Rocks/Mountains
+          1	Tourism & Wildlife (Tourist Registration)
+          1	Town Hall
+          1	Toy Shop
+          3	Toyota
+          1	Toyota Golden Arrow
+          1	Toyota Street
+          2	Track
+          1	Traffic Police Department
+          1	Traffic Police Signs Factory
+          1	Traffic Police-Vehicles Licence Department
+          1	Transit Camp Restaurant
+          1	Trippel-Divide
+          1	Tulus
+          1	Tundaro
+          1	Tundosa
+          1	Tungaru
+          1	Turaa Street
+          1	Turalei-Ajackwac
+          1	Turkish Engineering Workshop
+          1	Turkish Style
+          1	Turkish Tombs
+          1	Turra
+          1	Tuti
+          1	Tuti - Stadium
+          4	Tuti Bridge
+          2	Tuti Island
+          1	Tuti Island North Tip
+          1	Tuti Northern Fort
+          1	Tutti Bridge
+          1	Tutti Frutti
+          1	Tuwal
+          1	Twin Dove Factory
+          1	U.S.A embassy
+          1	UNDP برنامج الأمم المتحدة الإنمائ�
+          2	UNHCR Office, Gedaref, SUDAN
+          1	UNHCR Sub Office, Kassala, Sudan
+          1	UNHCR office- Kosti
+          1	UNI OF BAHRI
+          1	UNICEF
+          1	UNISFA Camp معسكر يونميس
+          1	UNISFA قوة الأمم المتحدة الأمنية ال
+          1	UNIVERSE PHARMACY
+          1	UNMIS Kauda Headquarters
+          1	UNMIS Kurmuk camp
+          1	UNOPS Sudan
+          1	Ubai Ibn Ka'ab Mosque
+          1	Ubayid Airport Terminal
+          1	Um AlHasan Cafe
+          1	Um Algura
+          1	Um Bagara Village
+          1	Um Barona Park
+          1	Um Dagarsi
+          1	Um Danga
+          1	Um Dawaban
+          1	Um Dawan Ban Hospital
+          1	Um Duwainib
+          1	Um Gargour refugee camp
+          1	Um Hajar
+          1	Um Hajlijah
+          1	Um Haraz Telecommunication Station
+          1	Um Hashīma
+          1	Um Hujailijah
+          1	Um Inderaba
+          1	Um Maghat
+          1	Um Sangamti
+          1	Um Sunut
+          1	Uma Cocab
+          1	Umara
+          7	Umbadda Front Street
+          1	Umbelasha
+          1	Umbria
+          1	Umderman Alwatani ATM
+          1	Umm Baddah
+          3	Umm Baddah Street
+          1	Umm Baddah al Sabeel Street
+          1	Umm Belgi
+          1	Umm Cuhl
+          1	Umm Digulgulaya
+          1	Umm Dueima
+          1	Umm Dul
+          1	Umm Duras Island
+          1	Umm Ghafur
+          1	Umm Kumbatut Island
+          1	Umm Rahau Station
+          1	Umm Saiyal
+          1	Umm Sowneyta
+          1	Umm Ḩujayrah
+          1	Umma Party Headquarter
+          1	Umtajok
+          1	United for Heavy Machines Parts
+          1	Unity
+          1	Universal Cafe
+          1	Universal coffee
+          1	University of Gezira
+          1	University of Khartoum Farm Administration
+          2	University of Khartoum Farmland
+          1	University of Kordofan - Faculty of Medicine and Health Sci
+          1	University of Medical Sciences and Technology - مأمون 
+          1	University of Sennar
+          1	University of Sennar Agriculture Faculty- Pascasarjana
+          1	University swimming pool
+          7	Unknown
+          1	Uno Furniture
+          1	Upper Atbara and Setit Dam Complex
+          1	Upper Nile
+          2	Uri
+          1	Us Island
+          1	Ushara Omdurman
+          1	Usra Club Road
+          1	VIP Hotel
+          1	VTech Residence
+          1	Vakaga
+          1	Vicrorinox: PC Shop
+          1	Villa Marina Beauty
+          1	Villa Marina salon
+          3	Village
+          1	Virgin
+          1	WFP
+          1	WTN SERVICE CAR WASH
+          1	Wad AlBasal
+          1	Wad AlNour
+          1	Wad Alfadul
+          1	Wad Alhabil
+          1	Wad Alkireil
+          1	Wad Azraq
+          1	Wad Badr Mosque
+          1	Wad Belal
+          1	Wad Dakin Island
+          1	Wad Elasha
+          1	Wad Garad snuffed
+          1	Wad Hamid
+          7	Wad Madani-Sennar Road
+          6	Wad Medani Highway
+          1	Wad Morah Cafeteria
+          2	Wad Nubawi
+          1	Wad Rahoom
+          1	Wad Rawah
+          1	Wad Shaeer
+          1	Wad Sharefay Road
+          1	Wad al Hulaywah
+          2	Wad al-Bana
+          1	Wad at Turabi
+          1	Wad Ḩamadnā Allāh
+          1	Wadega
+          1	Wadi Al-Malik
+          2	Wadi Allaqi
+          4	Wadi Amu
+          1	Wadi Bala
+          6	Wadi Bergo
+          2	Wadi Buei
+          1	Wadi Dari
+          1	Wadi Dilligdillig
+          1	Wadi Dor
+          1	Wadi Fira وادي فيرا
+          1	Wadi Fu
+          1	Wadi Gagait mines
+          1	Wadi Gimri
+          5	Wadi Golol
+          1	Wadi Hagar ez Zerqa
+          3	Wadi Halfa
+          1	Wadi Halfa/Nuba Lake Airport
+          1	Wadi Helbub
+          8	Wadi Hesmet Omar
+          1	Wadi Ibairig
+          1	Wadi Kirbekan
+          1	Wadi Kora Fatta
+          3	Wadi Korolilla
+          2	Wadi Kullia
+          7	Wadi Kutum
+          1	Wadi Laua
+          1	Wadi Nyala
+          1	Wadi Orra
+          2	Wadi Saiku
+          1	Wadi Seidna Air Base
+          1	Wadi Sirfu
+          3	Wadi Sura
+          1	Wadi Tauro
+          2	Wadi Tawil
+          1	Wadi Urenga
+          5	Wadi Uri
+          3	Wadi Wanna
+          1	Wadi Welget
+          1	Wadi el Geirfulka
+          1	Wadi el Hwad
+          1	Wadood Pharmacy
+          1	Walad Sabir
+          1	War Guit
+          1	Wardar restuarant (A good fresh fried meat place)
+          1	Warrap
+          1	Waste Disposal Area
+          2	Water Corporation
+          1	Water Corportation
+          1	Water Street
+          1	Watsani
+          1	Wawa
+          5	Wawa - Wadi Halfa
+          1	Wd zalem ود زالم
+          1	Wed El Sayih High School For Boys
+          1	Wed El Sayih School For Girls
+          1	Wed Ibrahim
+          1	Wedabok
+          1	Wedia
+          1	West Darfur State غرب دارفور
+          1	Western Bahr el Ghazal
+          1	Western Deffufa
+          1	Western Tigray
+          1	Wheata Flour Mills
+          3	White Nile
+          1	White Nile / النيل الأبيض
+          1	White Nile College
+          1	White Nile college branch
+          1	White Nile النيل الأبيض
+          1	Wilāyat Gharb Kurdufān
+          1	Wireless Station
+          1	Wrappista
+          6	Yabus
+          1	Yabus Gaba
+          1	Yamama money changer
+          1	Yarmouk Military Complex
+          1	Yasir
+          1	Ya‘qūb
+          1	Yoltkerf Wenz
+          1	Yorpower
+          1	Youth and Sports Center
+          1	Youth and community
+          1	Yunis
+          1	Za3mataصالون
+          1	Zad Oil Petroleum Company
+          1	Zain company
+          1	Zair
+          1	Zakat Office
+          1	Zariba
+          1	Zayed Alkhaier Project
+          1	Zaytoona hospital
+          1	Ze`Ilan Wenz
+          1	Zeenam Specialized Hospital
+          2	Zeidab East
+          1	Zeidab North
+          1	Zero
+          1	Zero9
+          1	Zinc
+          1	Zubeid Haj al Amin Avenue
+          1	Zuma
+          1	abooda
+          1	ad-Damir
+          1	al Jazar Street
+          1	al Mufti Street
+          1	al Nakheel Street
+          1	almanshiah mosque
+          1	alshawal city
+          1	altayef club
+          1	archeologist house
+          1	aslal company
+          1	b nakhmah
+          1	baed nas Iltaf neighbour
+          1	baed nas Sara
+          1	barcelona
+          1	bashaer gas station
+          1	bashier
+          1	bir Keles
+          1	bnboni restaurant
+          1	buri thermal power supply station
+          1	bus terminal
+          1	car park
+          1	china embassy
+          1	cloud
+          1	club Dar Sudatel
+          1	comboni college
+          1	community guest house
+          1	el wagiha gas station
+          1	el-Multaga
+          1	el-Multaga Resettlement Area
+          1	estela
+          1	ethi border
+          1	fish wok
+          1	from church to home
+          1	garri ring road
+          1	gerl primary chool
+          1	gravure de Djebel Docha
+          2	grocery
+          1	guest house de Soleb
+          1	hamad mosque
+          2	happy family
+          1	hear
+          1	heritage restaurant
+          2	home
+          4	huria Street
+         22	island
+          1	italy Pizza
+          1	jamal mazeh
+          1	kafouri 11 كفوري مربع ١١
+          1	kayky broast
+          1	khalifa fool & fatta
+          1	khandagawi workshop
+          1	khartoum air port arrival terminal
+          1	lilyan
+          1	local
+          1	local park
+          1	magaber shoperab
+          1	marhalah asas
+          1	me
+          1	medan salama
+          1	mhmd Haider
+          1	mine village
+          1	mure
+          1	natgile factory
+          2	nice valley
+          3	nil
+          1	north harbor
+          1	npc
+          1	oazis
+          1	omdurman children's hospital
+          1	phh1
+         10	piste
+          1	plastine road
+          2	police academy
+          1	police club
+          1	portsudan militry air base
+          1	presidential terminal
+          8	private
+          1	ps3
+          1	railway Wadi Halfa - Khartoum
+          1	resort
+          2	rock paintings
+          1	rumah 16
+          1	rumah 18
+          1	rumah 3
+          1	rumah 4
+          1	rumah 6
+          1	rumah 7
+          1	rumah dua
+          1	rumah10
+          1	rumah11
+          1	rumah12
+          1	rumah14
+          1	rumah17
+          1	rumah19
+          1	rumah5
+          1	rumah8
+          1	rumah9
+          1	sanabel lebanon bakery
+          1	saydah sanhouri mosque
+          1	school
+          1	sea land
+          1	sedeinga
+          1	shabakat MTN
+          2	shanaab
+          1	shanaab entrance
+          1	share3
+          1	share3 bet
+          1	small cafe
+          1	small-Mini community health point
+          1	snorkeling Shanaab
+          1	soccer
+          1	souq
+          1	south harbor
+          1	sport city
+          1	station 1
+          1	station 2
+          1	station 20
+          1	station 3
+          1	station 4
+          1	station 5/6
+          1	station 6
+          1	station 7
+          1	station 7/8
+          1	station 8
+          4	station de pompage
+          1	street 41
+          1	sudan airways headquarter
+          1	sufi dancing
+          1	sugar
+          1	sunrise
+          1	syria phone
+          1	tea spots
+          1	temple d'Amon
+          1	temple de Tiyi
+          1	temple of Amun
+          1	the church
+          1	towlan hotel
+          1	trav
+          1	ukabrabiya
+          1	unkown
+          1	villa furniture factory
+          1	wawa
+          1	white house
+          1	yasir
+          1	ç
+          1	آيات للعديل و الزين
+          1	آيس كريم دريم
+          1	آيسكريم دريم
+          1	أبسالم بلازا
+          3	أبشي - الحدود السودانية - الجنينة
+          1	أبعاد للإنتاج الإعلامي
+          1	أبو جبيهة
+          3	أبو حمد
+          1	أبو دليق
+          1	أبو عشر
+          1	أبو نعامة
+          1	أبوراقة
+          2	أبيي
+          2	أبيي - دفرا Abyei - Diffra
+          1	أبيي Abyei
+          1	أدري
+          2	أرارا
+          2	أرودين
+          1	أروما
+          1	أزهري عبد الحليم للألمونيوم
+          1	أساسية المعلم الخاصة
+          1	أشكيت
+          1	أشيمتو
+          1	أعمال أرمينيا التجارية
+          2	أكوك Agok
+          1	أم المؤمنين الأساسية بنات
+          1	أم بادر
+          1	أم جخخين
+          1	أم حجار
+          1	أم حريزات
+          2	أم دافوق
+          1	أم دخن
+          1	أم درمان
+          1	أم روابة
+          1	أم كدادة
+          1	أنقرة للستائر التركية
+          1	أواديس أبتيناي Ouadis Abténay
+          1	أواديس أبوسنيت Ouadis Abousnet
+          1	أواديس أمين بيكيبي Ouadis Amin Béykibé
+          1	أواديس باكونا Ouadis Bakouna
+          1	أواديس تينا Ouadis Tiné
+          1	أواديس دجياغالابا Ouadis Djiagalaba
+          1	أواديس ديبيا Ouadis Débia
+          1	أواديس سالمكي Ouadis Salémkéy
+          2	أواديس غيريغوي Ouadis Guérégui
+          1	أواديس كيربوغي Ouadis Kerbougui
+          1	أواديس ليكويما Ouadis Likoyma
+          1	أواديس موستوي Ouadis Mostouy
+          4	أواديس ميبا Ouadis Mayba
+          2	أواديس هوار
+          1	أواسيس براغا Ouadis Lraga
+          1	أوديس مودهو Ouadis Moudhou
+          1	أويل انرجي
+          1	أيمن والنزير
+          1	إبراهيم عبد الله
+          1	إدارة الشؤون العلمية
+          1	إدارة تقانة وشبكة المعلومات
+          1	إذاعة الابيض
+          1	إرو
+          2	إم تي إن
+          1	إم شديده
+          1	إمارات بلازا
+          1	إمداد باك
+          1	اب كورة
+          1	ابابا
+          1	ابراهيم عبد الله
+          1	ابقالة بوحمزة
+          1	ابن الحاج
+          1	ابناء حسين ود المهدي
+          1	ابو الشباب
+          1	ابو حمامة
+          1	ابو دوم
+          1	ابو زعيمة
+          1	ابو فارس
+          1	ابو فاطمة
+          1	ابوالجود للعقارات
+          1	ابوجعرين
+          1	ابوعاقلة
+          1	ابوعلي للعقارات
+          1	ابوعمر للبيع المخفض
+          1	ابوعوض لقطع غيار اللوادر
+          1	ابوياسين للمناسبات
+          1	اتحاد الفنانين السودانين
+          1	احمد ابوجارة
+          1	احمد اسماعيل
+          1	احمد التوم
+          1	احمدواب راس
+          1	اخر محطة - جبرة شمال
+          1	اخر محطة القديمة
+          1	اخر محطه في شارع 15 القبه شمال
+          1	ادارة السجل المدني والجوازات
+          1	ادارة المرحلة الثانوية
+          2	ادارة جامعة الخرطوم
+          1	ادارة حماية المنشآت الحكومية
+          1	ادوات رياضية - حديد
+          1	ادوات نظافة
+          1	ارتدي
+          1	ارتموقة
+          1	ارقو
+          1	ارقي
+          1	ارقين
+          1	اركويت
+          1	اركويت عمارة غازي
+          1	ارنب
+          1	اس
+          1	اساسية الانقاذ بنين
+          1	اساسية صهيب بن سنان بنين
+          1	اسبيرات
+          1	استاد الابيض
+          1	استاد البركة
+          1	استاد الخرطوم
+          2	استاد المريخ
+          1	استاد المصارعة الشعبية
+          1	استاد المناقل
+          2	استاد الهلال
+          1	استاد كريمة
+          1	استاد كسلا
+          1	استادة الموردة
+          1	استديو بج بن
+          1	استديو بسمه
+          1	استديو تصوير
+          1	استراحة الطالبات
+          1	اسماء سنتر
+          1	اسماعيل حسن
+          1	اسماك الموردة
+          1	اسواق الدوحة
+          5	اشارع البدية
+          1	اشرف لتصليح زجاج السيارات
+          1	اشو
+          1	اطارات نوفل
+          1	اقترى
+          2	اقدي
+          1	اكاديمية الشرطة العليا
+          1	اكاديمية العلوم الهندسية
+          1	اكد
+          1	ال ابراهيم البشير
+          1	ال السني الفكي الضو
+          1	ال الصديق محمد فضل الله
+          1	ال العوض كوكو
+          1	ال المك
+          1	ال بابكر
+          1	ال حسن وحسين محمد فضل الله
+          1	ال صديق بشير
+          1	ال محمد احمد عمر
+          1	ال محمد الحاج
+          1	ال مصطفى محمد الحاج
+          1	ال ياسين للحوم
+          1	ال يوسف ابصريمة
+          1	الأبيض
+          1	الأبيض - Al-Ubayyid
+          1	الأركي
+          1	الإدارة
+          1	الإدارة العامة للجمارك - جمهورية
+          1	الاتحاد السوداني لكرة القدم
+          1	الاحسان
+          1	الادارة العامة للمرور
+          1	الاراك
+          1	الاراكة
+          1	الازهري
+          1	الاستقبال
+          1	الاسرة للخبز البلدي
+          1	الاميري
+          1	الامين
+          1	الباجا
+          1	البار
+          1	الباسا
+          1	الباقر
+          1	البان
+          1	الباو
+          1	الباوقة
+          1	البحر الأحممر
+          1	البر الشرقي بورتسودان
+          1	البر الغربي بورتسودان
+          1	البرج العثماني
+          1	البرصة
+          1	البرقيق
+          1	البسفور
+          1	البطانة
+          1	البقالة
+          1	البلابل
+          1	البلوشي للبيع المخفض
+          1	البنك الزراعي السوداني
+          1	البنك السوداني الفرنسي
+          3	البنك السوداني المصري
+          1	البنك العربي
+          1	البوابة السورية
+          1	البوادي
+          2	البورصة
+          1	البيارة الجنوبية
+          1	البيارة الشرقية
+          1	البيارة الشمالية
+          1	البيارة الغربية
+          1	البيت
+          2	البيضاء‎‎
+          1	البينية القوات المسلحة ق م
+          1	الترعه
+          1	التفتيش
+          1	التلبناب
+          1	التيتي
+          1	الثورة 7
+          1	الثورة الحارة الثلاثين
+          1	الثورة الحارة ٦٠
+          1	الجابرية
+          1	الجامعة العربية المفتوحة
+          1	الجبلية
+          1	الجبلين
+          1	الجخيس - اخر محطه
+          2	الجديدة
+          1	الجزيرة إسلانج
+          1	الجزيرة للبصريات
+          1	الجـــامع الكــــبير - بورتسـود�
+          2	الجنينة
+          1	الحارة 72
+          1	الحارة الثلاثين
+          1	الحارة71
+          1	الحارة75
+          2	الحافلات إلى الخرطوم
+          1	الحامداب الجديدة القرية 2
+          1	الحامداب الجديدة القرية 3
+          1	الحاوي سوبر ماركت
+          1	الحبيب الأساسية الخاصة
+          1	الحجاجاب
+          1	الحجير
+          2	الحديقة العالمية
+          1	الحريزاب
+          1	الحريف المصري
+          1	الحصاحيصا
+          1	الحفير
+          1	الحلة البيضاء
+          1	الحلة الجديدة
+          1	الحماداب
+          2	الحواتة
+          1	الحي الشرقي
+          1	الحياة للتسوق
+          1	الخارتوم كلوب
+          1	الخدمة الوطنية 61
+          3	الخرطوم
+          3	الخرطوم 2
+          1	الخرطوم 3
+          1	الخرطوم ١
+          1	الخناق
+          1	الخندق
+          1	الدالي
+          1	الدامر
+          1	الدبة
+          1	الدبة اشراقة
+          1	الدبيبة
+          1	الدخيري والزعيم
+          1	الدفاع الشعبي المحلية
+          1	الدلالة
+          1	الدلنج
+          2	الدمازين
+          1	الدندر
+          1	الدندر ,القويسي
+          1	الدهيسيرة
+          1	الدوار للشقق الفندقية
+          1	الدوم
+          1	الدونكي الجنوبي
+          1	الدويم
+          1	الديار القطرية
+          1	الديم شرق
+          1	الديوم
+          1	الرابطة التعليمية الثقافية بحي �
+          1	الراحه للشقق الفندقيه
+          1	الراشدين الثانوية الخاصة
+          1	الراوات
+          1	الرحاب سوبر ماركت
+          1	الركابية
+          1	الرهد
+          1	الروتروتايا
+          2	الروصيرص
+          1	الروماني
+          1	الرومي
+          2	الري المصري
+          1	الريان
+          1	الزبير باشا
+          2	الزهراء
+          1	الزهرة الجديده
+          1	الزورات
+          1	الزومة
+          1	الزيتونة سوبر ماركت
+          3	الساحة الشعبية
+          1	الساحه الخضراء
+          1	السايفونات عفن شديد .. يجب ازالته
+          1	الستين سنتر
+          2	السجانة
+          1	السجل المدني
+          1	السجل المدني المعلمين
+          1	السدر
+          1	السفارة التشادية
+          1	السفارة التونسية
+          1	السفارة الروسية
+          1	السفارة السعودية
+          1	السفارة السويدية
+          1	السفارة السويسرية
+          1	السفارة الفرنسية
+          1	السفارة الكندية
+          1	السفارة اللبنانية
+          1	السفارة الليبية بالخرطوم
+          1	السفاره الجيبوتيه
+          1	السكة حديد
+          1	السلمه السوق
+          1	السليم
+          2	السموأل
+          1	السهم الذهبي
+          2	السودان
+          2	السودان - Central African Republic
+          3	السودان - Ethiopia
+          3	السودان - South Sudan
+          1	السودان - إريتريا
+          1	السودان - تشاد
+          2	السودان - ليبيا
+          1	السوق
+          2	السوق الشعبي
+          1	السوق الشعبي الخرطوم
+          1	السوق الصغير/ سوق كوستي
+          1	السوق الكبير
+          2	السوق المركزي
+          1	السوق المركزي بحري
+          1	السوق المركزي للخضر و الفاكهة
+          1	السوكي
+          1	السوكي هاوس
+          1	السيالة القديمة
+          1	السير
+          1	الشبيراب - الفريجاب
+          1	الشبيراب ---- الفريجاب
+          1	الشبيراب الخوالدة
+          1	الشبيك
+          1	الشبيك -- الشبيراب
+          1	الشبيك- النويلة - الشبيراب
+          1	الشراع الذهبي لإكسسوارات السيار
+          1	الشرطة الشعبية
+          2	الشرقية الثانوية بنات
+          2	الشركة التعاونية للتأمين
+          1	الشريف سوبرماركت
+          1	الشعبي عربي، العربي
+          1	الشـــيف
+          1	الشلال السادس
+          1	الشليخة
+          1	الشمالية Northern State
+          1	الشمالية الثانوية بنين
+          1	الشهداء، الثورة، الميناء البري
+          1	الشهيده ندى
+          1	الشيخ اليعقوب
+          1	الشيخ محمد زين
+          1	الصالحة
+          1	الصالون الماسي
+          1	الصحابه
+          1	الصحافة
+          1	الصحافة زلط اخر محطة
+          1	الضعين
+          1	الطائف
+          1	الطاهر للشقق
+          1	الطريق الدائري
+          1	الطريقة البرهانية
+          1	الطريقة الختمية
+          1	الطيب ود العاقب
+          2	العباسية
+          1	العبيدية
+          1	العتيق
+          1	العفاض
+          1	العمارات
+          1	العمارات Amarat
+          1	العمارات سنتر
+          1	العوالي
+          1	العوني
+          2	الغابة
+          1	الغابة الجديدة
+          1	الغابة القديمة
+          1	الغابه المتحجره
+          1	الغريبة
+          1	الفاتح بروست
+          1	الفاشر
+          1	الفاو
+          1	الفحص الالي جبرة
+          1	الفخامة للشقق الفندقية
+          1	الفرات
+          1	الفراش الحائر
+          1	الفردوس اخر محطة
+          1	الفريجاب حلة الشيخ
+          1	الفشقة
+          1	الفكي هاشم
+          1	القاش
+          1	القاش Gash
+          1	القاش وبركا ጋሽ-ባርካ
+          1	القاعات الجديدة
+          1	القاعات القديمة
+          1	القدار
+          1	القدس الحديثة
+          1	القرابين
+          1	القراصة
+          1	القرية 13
+          1	القرية 14
+          1	القرية 18
+          1	القرير
+          1	القسم الجنوبي
+          1	القصر الجديد
+          1	القصر الجمهوري
+          1	القضارف
+          1	القضارفي
+          1	القضارفي /Al-Qadarif
+          1	القطينة
+          2	القلابات
+          1	القنطرة
+          1	القولد
+          1	القيادة العامة لقوات الدفاع الش�
+          1	الكاسورة
+          2	الكاملين
+          1	الكرد
+          1	الكرد البيت
+          1	الكرسني للحلويات
+          1	الكرفاب
+          2	الكرمك
+          2	الكرو
+          1	الكفرة
+          1	الككر
+          1	الكلاكلة القبة
+          1	الكلية الحربية السودانية
+          1	الكلية العالمية
+          1	الكنيسة الإنجيلية امدرمان - المخ
+          1	الكنيسة الإنجيلية بحري
+          1	الكنيسة الانجيلية بالخرطوم
+          1	الكنيسة القبطية بالخرطوم
+          1	الكنيسة الكاثوليكية
+          1	الكوثر
+          1	الكوني بروست
+          1	اللجنة القومية لمكافحة المخدرات
+          1	اللعوج... 24 القرشي
+          1	اللعيت جارالنبى
+          1	اللورد
+          1	الليوان الدمشقي
+          1	المؤسسة
+          1	المتمة
+          1	المثلث الجريف بالنص
+          1	المجلد
+          1	المجلس الافريقي للتعليم الخاص - �
+          1	المجلس التشريعي لولاية الخرطوم
+          1	المجلس الوطنى
+          1	المجمع
+          1	المجمع الذهبي للمواد الغذائية
+          1	المجمع الطبي - جامعة افريقيا الع�
+          1	المحاميد
+          1	المحرك الذهبي للفضائيات
+          1	المحطة 5
+          2	المحكمة
+          1	المختار للاسبيرات
+          1	المدينة الرياضية
+          1	المركز الثقافي
+          1	المركز الثقافي الايراني
+          1	المركز العام الدفاع الشعبي
+          1	المركز القومي للمعلومات
+          1	المزموم
+          1	المستشفى التركي
+          1	المستشفى السعودى للولادة
+          1	المستشفى الكويتي
+          1	المستقبل للمناسبات
+          1	المسجد الجديد
+          2	المسجد العتيق
+          1	المسجد القديم
+          2	المسجد الكبير
+          1	المسعودية
+          1	المشتل
+          1	المصري
+          1	المصري للسمكرة
+          1	المصلى
+          1	المصنع التركي
+          1	المصورات الصفراء
+          1	المعالي
+          1	المعبد الروماني
+          1	المعلم
+          1	المعمورة اخر محطة
+          1	المعهد الأمريكي
+          1	المعهد الكوري للتدريب المهني
+          1	المغتربين
+          1	المفوضية العليا لجمهورية الهند
+          1	المقابر غرب
+          1	المقل
+          1	المناقل
+          1	المنزل
+          1	المنشية سنتر للتسوق
+          2	المنطقة الصناعية
+          2	المنطقة الصناعية الخرطوم
+          1	المنطقة الصناعية سوبا
+          1	المهاجر الأساسية بنين
+          1	المهداوي
+          1	الموناليزا
+          1	الميدان الغربي
+          1	الميناء البري
+          1	النابلسي
+          1	النادي الدبلوماسي
+          1	النادي السوري
+          1	النادي القبطي
+          1	النافعاب
+          1	النالة
+          1	الناله للثياب
+          2	النحلة
+          1	النقعة
+          1	النمير
+          1	النهود
+          1	النواجي
+          1	النوبة
+          1	النوراية
+         33	النيل
+          1	النيل Nile
+          3	النيل الأبيض
+         16	النيل الأزرق
+          1	النيل الأزرق Blue Nile State
+          1	النيل للبترول
+          1	النيل محمد حمد
+          1	الهئية السودانية للمواصفات والم
+          1	الهلال الاحمر
+          1	الهمك
+          1	الهو
+          1	الهيئة العامة للإمدادات الطبية �
+          1	الهيئة القومية للاتصالات
+          1	الواجهه للبترول
+          1	الوادي الجديد
+          1	الوالده
+          1	الوداد نادي القضاة ليدا بارك
+          1	الورشة
+          1	الوطنية للبترول
+          1	الولاية الشمالية
+          1	ام جركي
+          1	ام دبيكرات
+          1	ام دوانة
+          1	ام روابة - Um Rawaba
+          1	ام روبه
+          1	ام عقرب
+          1	ام عقول
+          1	ام قرفة
+          1	ام كرابيج
+          1	ام مليحة
+          1	اماريج للعطور
+          1	امام
+          1	امانة المؤتمر الوطني
+          1	امبوكول
+          1	امبيريال
+          1	امتداد معروف 2
+          1	امتداد ناصر
+          1	امدرمان الشنقيطي
+          1	امروبه
+          1	امري الجديدة القرية 2
+          1	امري الجديدة القرية 3
+          1	امري الجديدة القرية 4
+          1	امري الجديدة القرية 5
+          1	امنتجو
+          1	امين احمد العاقب
+          1	ان آي لخدمات السيارات
+          1	انور
+          1	اهرامات جبل البركل
+          1	اهرامات نوري
+          1	اوربي
+          1	اورنارتي
+          1	اوسلي
+          1	اولاد ام درمان للحوم
+          1	اولاد امدرمان
+          1	اولادالباشا
+          1	ايماني
+          1	بئر البهائي Bir Bahay
+          1	بئر حسمة عمر
+          1	بئر سنيمو
+          2	بئر طويل
+          1	بابكر المبارك
+          3	بابنوسة
+          2	بارا
+          1	بارا - الابيض
+          1	باستري الجانتينا
+          1	باشدار
+          1	بامينا Bamina
+          1	بانور للمناسبات
+          1	باهأي Bahaï
+          1	باو
+          2	بتروناس
+          1	بجيجة
+          6	بحر أزوم
+          1	بحر العرب Bahr al 'Arab
+          1	بحري
+          1	بحيرة كارياري
+          1	بحيرة كيلك
+          1	بحيرة ناصر
+          1	بخورات المرشد
+          1	بخيت
+          1	بربر
+          1	برج الاتصالات
+          1	برج البركة
+          1	برج الفاتح - فندق كورنثيا
+          1	برج سوداتل
+          1	برقة‎‎
+          1	بركية
+          1	بروس
+          1	برى المحس بنات
+          1	بري
+          1	بري الحرارية
+          1	بري اللاماب
+          1	بسط الامن الثورة الحاره 9
+          2	بشائر
+          1	بشاير
+          3	بشاير للبترول
+          2	بشير النفيدي
+          1	بصريات الفال
+          1	بطاريات
+          1	بطة للجبنة
+         14	بقالة
+          1	بقالة أبو أنس
+          1	بقالة أنــور
+          1	بقالة ابوسعاده
+          1	بقالة ابومصعب
+          1	بقالة الإحسان
+          1	بقالة الجيلي
+          1	بقالة الزبير
+          1	بقالة الطيبات
+          1	بقالة الفتح المبين
+          1	بقالة القدس
+          1	بقالة الملتقى
+          1	بقالة اولاد النوراب
+          1	بقالة سبأ
+          1	بقالة سيف
+          1	بقالة سيف وي
+          1	بكبول
+          1	بكري العقاريه
+          1	بلدية أم درمان
+          1	بلو ري
+          1	بنشر بشري
+          2	بنشر سيارات
+          1	بنشر واسبيرات
+          1	بنقنارتي بحري
+          1	بنقنارتي قبلي
+          1	بنك البركة فرع السجانة
+          1	بنك الجزيرة السوداني الأردني
+          1	بنك الجزيرة السوداني الاردني
+          6	بنك الخرطوم
+          1	بنك الخرطوم - فرع الهدى
+          1	بنك الخرطوم - فرع سعد قشره
+          1	بنك الساحل و الصحراء
+          3	بنك السودان المركزي
+          1	بنك الشمال فرع السجانة
+          1	بنك المال المتحد
+          1	بنك المزارع
+          1	بنك النيل
+          1	بنك النيل الأزرق المشرق
+          1	بنك النيلين فرع السجانة
+          1	بنك امدرمان الوطني
+          1	بنك امدرمان الوطني فرع السجانة
+          1	بنك فيصل
+          1	بنك فيصل - فرع الموردة
+          1	بنك فيصل الإسلامي السوداني فرع ح
+          4	بنك فيصل الاسلامي
+          2	بنك فيصل الاسلامي السوداني
+          1	بنك فيصل فرع الجامعة
+          1	بنك فيصل فرع السجانة
+          1	بوابة النشاط
+          1	بوابة حظيرة الدندر (راس الفيل)
+          1	بوابة شارع المين
+          1	بوابة علوم
+          1	بوتيك
+          2	بور سودان
+          1	بورام
+          1	بورتسودان
+          1	بوزي
+          1	بوط
+          1	بيت الدكتور فدوى
+          1	بيت امبدة
+          1	بيت خالد عادل
+          1	بيت سيد أحمد
+          1	بيت سيف الدولة
+          1	بيت صابرين
+          1	بيت صفاء
+          1	بيت عمر ٨٠٠ متر
+          1	بيت مؤيد
+          1	بيت مهند عكود
+          1	بيت ناس اخلاص
+          1	بيتزا ماك
+          1	بيتلز
+          1	بيتنا
+          1	بيتنا اركويت مربع ٤٥
+          1	بيتنا السودان
+          1	بيتنا كافوري مربع ٥
+          2	بيتي
+          1	بيرطويل (Bir Tawil)
+          1	بيكة
+          1	ت
+          1	تاركو اير
+          1	تانا للشقق الفندقية
+          1	تبج
+          2	تحصيل ودمدني
+          1	تحصيل ودمدني شمال
+          5	ترعة
+          1	تشاد - Central African Republic
+          3	تشاد - السودان
+          2	تشاد - ليبيا
+          1	تعاون
+          1	تفاؤل للتسوق
+          1	تفتيش
+          1	تفتيش جبل اوليا
+          1	تقاطع الاسكان
+          1	تقاطع البيبسي جبرة
+          1	تقاطع الصديق مصطفى
+          3	تقاطع المقابر
+          1	تقاطع جبرتينا
+          1	تقاطع سوق كوبر
+          2	تقاطع معروف
+          1	تلودي
+          1	تلي زين
+          1	تمبس
+          2	تمبول
+          1	تمنار
+          1	تندلتي
+          1	تنقاسي
+          1	تنقاسي الرويس
+          1	تنقسي الجزيرة
+          1	توتيل للشقق الفندقيه
+          1	توداج Todaj
+          1	توشكى
+          1	تومالا
+          1	توندي
+          1	تويتي
+          1	تينا
+          1	ثانوية الملك فهد كوبر
+          1	ثلاجة أسامة خليفة للخضر والفاكه�
+          1	جامع الركيني
+          1	جامع العتيق
+          1	جامع بلال
+          1	جامع سيف
+          1	جامع فاروق
+          1	جامعة أمدرمان الإسلامية-فرع أمب�
+          1	جامعة افريقيا - كلية الاداب
+          1	جامعة البحر الأحمر
+          3	جامعة الخرطوم
+          2	جامعة الخرطوم_مجمع شمبات_كلية ال
+          1	جامعة الرباط
+          1	جامعة الرباط القرأنية - Faculty of Abdu 
+          1	جامعة السودان - كلية المحاسبة
+          1	جامعة السودان العالمية
+          1	جامعة السودان العمادة
+          1	جامعة السودان الغربي
+          2	جامعة السودان القسم الجنوبي كلي�
+          1	جامعة السودان كلية علوم الاشعة ا
+          1	جامعة السودان للعلوم والتكنولوج
+          1	جامعة الضعين
+          1	جامعة العلوم والتقانة
+          1	جامعة القران الكريم
+          1	جامعة المستقبل
+          1	جامعة المغتربين
+          1	جامعة النيلين
+          2	جامعة ام درمان الاسلامية
+          1	جامعة امدرمان الاهلية
+          1	جامعة سنار
+          1	جامعة كردفان
+          1	جامعة كسلا كلية الطب
+          1	جامعه السودان العماده
+          1	جبال النمر
+          1	جبال الياسمين
+          3	جبرة الشيخ
+          1	جبرة شعبي الخرطوم
+          1	جبره طه الماحي
+          1	جبري للعماري السوبر
+          1	جبل أولياء
+          1	جبل ابن عوف
+          1	جبل الأنصاري
+          2	جبل البركل
+          1	جبل الدالي
+          2	جبل العوينات
+          1	جبل الفعال
+          1	جبل اولياء
+          1	جبل بوزي
+          1	جبل حجر الزرقاء
+          1	جبل دوشة
+          1	جبل عبري
+          1	جبل عدو
+          1	جبل علي
+          1	جبل فريق
+          1	جبل نوري
+          3	جبيت
+          1	جدة - سواكين
+          1	جرا
+          1	جراده
+          1	جرتود
+          1	جزارة
+          1	جزيرة آرتمري
+          1	جزيرة اردوان
+          1	جزيرة ارس
+          1	جزيرة ارنتى
+          1	جزيرة بدين
+          2	جزيرة بلنارتي
+          1	جزيرة بنا
+          1	جزيرة سالى
+          1	جزيرة سواكن (السودان)
+          1	جزيرة صاي
+          1	جزيرة فريق
+          1	جزيرة مساوي
+          1	جزيرة مقاصر
+          1	جزيرة مقرات
+          1	جزيرة مقرسم
+          1	جزيرة نولتي
+          1	جزيرة ود دكين
+          1	جسر ابو زعيمة
+          2	جسر توتي
+          1	جلابية الأحبلاب
+          1	جلاس
+          1	جمال المبارك
+          1	جمعية القران الكريم
+          1	جمعية رجال الاعمال و الصناعيين ا
+          1	جميع القديسين كاتدرائية
+          1	جنرال موتورز
+          1	جنس
+          1	جواري
+          1	جوهرة الستين
+          1	حامد نارتي
+          5	حدائق السلام
+          1	حدود ولاية برقه
+          1	حديقة اشراقة
+          1	حديقة الصبابي
+          1	حديقة القرشي
+          1	حديقة الكلاكلات الكبرى
+          2	حديقة النخيل
+          1	حديقة بدر
+          1	حديقه حيوانات بورتسودان
+          1	حذيفة مولود
+          1	حزب المؤتمر الوطني المقر الرئيس�
+          1	حزب منبر السلام العادل
+          1	حزيمة
+          1	حسام للإطارات
+          1	حسن خليفة
+          1	حسن عبدالباسط اساس بنين
+          1	حسينارتي
+          1	حكيم للاثاث
+          1	حلايب
+          1	حلة حمد
+          2	حلة كوكو
+          1	حلة يونس
+          1	حلفا الجديدة
+          1	حلوانى العبد
+          1	حلواني
+          1	حلواني البحيرة
+          1	حلواني الغزالي
+          1	حلواني المخبز التركي
+          1	حلواني ايلاف
+          2	حلواني ود الباشا
+          1	حمد الجعيص
+          1	حمد النيل
+          1	حمدنالله
+          1	حمرة الشيخ
+          1	حمور
+          1	حنتوب للمواد الغذائية
+          1	حواشة 11
+          1	حواشة 6
+          1	حواشة 7
+          1	حوش الدلم
+          1	حوش السمك
+          1	حى الزهور
+          1	حي 36
+          1	حي الامتداد
+          1	حي الدسيس
+          1	حي الصبابي
+          1	حي الطرايين
+          1	حي العشرة
+          1	حي الكلاكلة
+          1	حي المحافظ
+          3	حي المطار
+          1	حي المطار بورتسودان
+          1	حي النزهة
+          1	حي النصر
+          1	حي الهدى
+          1	حي كشكوش
+          1	حي ود نفيع
+          1	خال احمد
+          1	خال محمد احمد
+          1	خالتو اماني
+          1	خالتي كوثر
+          1	خشم القربة
+          1	خلوة السجانة
+          1	خلوة الشيخ الكيال
+          1	خليفة
+          2	خور ابو عنجة
+          1	خور كلاب
+          1	خياطة ملابس
+          1	خيري ليموزين
+          1	د. مصطفي يعقوب للعيون
+          1	د.اسنان
+          2	داخلية
+          1	داخلية جامعة افريقيا العالمية
+          1	داخلية حسيب
+          1	دار أبناء نوري
+          1	دار إتحاد خريجي جامعة الخرطوم
+          1	دار ابناء الصفر
+          1	دار الحماية للأولاد
+          1	دار الخارجية
+          1	دار الرياضة
+          1	دار الشرطة
+          1	دار الصيادلة
+          1	دار العجزة والمسنين بالسجانة
+          1	دار العوضه
+          1	دار القضاة
+          1	دار المايقوما لرعاية الاطفال مج�
+          1	دار المحامين
+          1	دار المهندسين
+          1	دار فلاح لتطوير الاغنية الشعبية
+          1	دال
+          1	دانفوديو التجارية المحدودة
+          1	دايهاتسو (صينيه بري-الستين)
+          1	دبة الفقراء
+          1	دجاج كوكاك
+          1	دربات
+          1	درماس
+          1	دريم
+          1	دريم لاند
+          1	دعاش
+          1	دفرا Diffra
+          1	دفوي
+          1	دقرتي
+          7	دكان
+          1	دكان الصديق مصطفى
+          1	دكان الهادي
+          1	دكان اونور
+          1	دكان عوض
+          1	دلالة اثاثات الازهري
+          1	دلقو
+          2	دمبو
+          1	دندرو
+          1	دنقلا
+          1	دنقلا العجوز
+          2	دنقناب
+          1	دهانات الجزيرة
+          1	دوران الإنقاذ
+          1	دوران السلام
+          1	دوكة
+          1	دولي سنتر للتسوق
+          1	دونا فون
+          1	دونكي الإنقاذ
+          1	ديار
+          1	ديار القطرية
+          2	ديبونيرز
+          1	دير الغزالى
+          1	ديوان
+          1	ديوان الزكاة
+          1	ديوان الزكاه
+          1	رأس سانت آنا
+          1	رئاسة الدفاع المدني
+          1	رئاسة ام تي إن
+          1	رئاسة شرطة شرق النيل
+          1	رئاسة شرطة ولاية الجزيرة
+          1	رئاسة محمية الدندر الطبيعية
+          2	رابطة الكلاكلة القبة
+          1	رابطة المايقوما
+          1	رادوم
+          2	ربك
+          1	ربل
+          1	ربي
+          1	رتاج للاثاث
+          1	رشاد
+          1	رفاعة
+          1	رهد أبو جلكة
+          1	رهد النوبة
+          1	روائع جمال للحلاقة
+          1	روضة إبن الهيثم
+          1	روضة جامعة الخرطوم
+          1	روضة سارة
+          1	روضة ماما نور
+          1	رومي البكري
+          1	ريل بيرقر/ بيتزا
+          1	ريمو فوود
+          1	زادنا
+          1	زالنجي
+          1	زاوية
+          1	زاوية التجانية
+          1	زاوية الصحافة مربع 25
+          1	زاوية الصحافة مربع 27
+          1	زريبة الاخشاب
+          1	زنجبيل بروست
+          1	زنقاحة
+          1	زين
+          1	زيورخ
+          1	سابنتود بحري
+          1	ساتي نصر
+          1	سادر
+          1	ساردية الشقالوة
+          2	سالي
+          1	سامسون
+          1	سامسونغ
+          1	سامي للاسماك
+          1	سبديرات Sebderat
+          1	سته بيوت
+          1	سجن امدرمان
+          1	سد مروي
+          1	سدرة ابو علي
+          1	سروج
+          1	سعدنكورتي
+          1	ســـمــــســــم
+          1	سفارة إثيوبيا
+          1	سفارة إريتريا
+          1	سفارة الجمهورية الإيطالية
+          2	سفارة الجمهورية العربية السورية
+          1	سفارة السويد
+          1	سفارة اليمن
+          1	سفارة دولة لبنان
+          1	سفارة ماليزيا في الخرطوم
+          1	سفارة هولندا
+          1	سفريات الفاشر
+          1	سكن الندوة العالمية للشباب الاس�
+          1	سكن طلابي
+          1	سكنات العاملين بالشركه السوانيه
+          1	سكند اسبير
+          1	سلب
+          1	سلقي
+          1	سماني محمد احمد
+          1	سمعريت
+          1	سمكنا
+          1	سميت
+          2	سنار
+          2	سنجة
+          1	سنقنيب
+          4	سنكات
+          1	سواكن
+          1	سوبا اللعوتة
+          1	سوبر الستين سيتي سنتر
+          2	سوبر ماركت
+          1	سوبر ماركت الخيمة
+          1	سوبر ماركت العطا
+          1	سوبر ماركت المجد
+          1	سوبر ماركت المنى
+          1	سوبر ماركت جدو
+          1	سوبرماركت الإحسان
+          1	سوبرماركت الاحسان
+          1	سوبرماركت الرضا
+          1	سوبرماركت الواحة
+          1	سوبرماركت اليحيى
+          1	سوبرماركت دريم
+          1	سودا بوست
+          1	سوداتل
+          1	سوداكاد
+          1	سودانيز فويسس
+          2	سودري
+          1	سورتود
+          1	سورى
+          1	سوفت وير هاوس
+          1	سوق
+          1	سوق 6
+          1	سوق البروش
+          2	سوق الجمعة
+          1	سوق الجوهرة
+          1	سوق الخيمة
+          1	سوق الدبة
+          1	سوق الرشايده
+          1	سوق الرشايده الحفاير
+          1	سوق الرواسي
+          1	سوق السمك
+          1	سوق الشجرة
+          1	سوق الصحافة مربع 26
+          1	سوق الطواحين
+          1	سوق الطوب
+          1	سوق الفور
+          1	سوق اللفة
+          1	سوق المناقل الكبير
+          1	سوق الندى
+          1	سوق خضار
+          1	سوق شارع واحد
+          1	سوق صابرين أمدرمان
+          1	سوق لكيليك
+          1	سوق مدني
+          1	سيتي بلازا
+          1	سيتيت Setit
+          1	سيد الشهداء اساس بنين
+          1	سيدي بيه
+          1	سيدي بيه / sedy beh
+          1	سيري مالقة
+          1	سيسة
+          1	سينما قاعة الصداقة
+          1	سِوَدِاتْلُ
+          1	شارع 1
+          1	شارع 11
+          1	شارع 25 العشرة
+          3	شارع 39
+          1	شارع 4
+          1	شارع 41
+          3	شارع 43
+          4	شارع 45
+          1	شارع 47
+          1	شارع 5
+          1	شارع 53
+          1	شارع 6
+          1	شارع 6 أبريل
+          1	شارع 67
+          1	شارع 8
+          1	شارع آل البيت
+          1	شارع ابشلة
+          1	شارع ابنعوف
+          1	شارع ابو القاسم الشيخ
+          1	شارع احمد حاج علي
+          1	شارع احمد خير
+          1	شارع اسماعيل سالم
+         25	شارع افريقيا
+          2	شارع الإمام المهدي
+          1	شارع الابيض - النهود
+          5	شارع الازهري
+          1	شارع الاسبتالية
+          2	شارع الامتداد
+          1	شارع الامين الشاعر
+          1	شارع الامين سعيد
+          1	شارع الانقاذ
+          1	شارع البدوي
+          3	شارع البرلمان
+          1	شارع البطري
+          1	شارع البلال
+          5	شارع البلدية
+          8	شارع البوابة
+          2	شارع البوستة السجانة
+          1	شارع الجامع الجديد
+          2	شارع الجامع القديم
+          3	شارع الجامعة
+          1	شارع الجبل
+          1	شارع الجزيرة
+          1	شارع الجمارك
+          1	شارع الجمهورية
+          1	شارع الحاج يوسف
+          4	شارع الحرية
+          1	شارع الحلة بالنص
+          1	شارع الحواشات
+          3	شارع الخرطوم - كوستي
+          1	شارع الخرطوم - مدني
+          1	شارع الخليفة
+          5	شارع الخور
+          3	شارع الدروشاب جنوب
+          1	شارع الدروشاب شمال
+          2	شارع الدكاترة
+          1	شارع الرشيد
+          1	شارع الرضي
+          1	شارع الزبير باشا
+          8	شارع الزعيم الازهري
+          2	شارع الستين
+          1	شارع السجانة بالنص
+          2	شارع السلام
+          1	شارع السليماب
+          4	شارع السوق
+          1	شارع السوق قدة
+          1	شارع السيد عبد الرحمن
+          2	شارع السيد علي
+          1	شارع الشريف صديق
+          1	شارع الشهداء
+          1	شارع الشيخ النذير
+          2	شارع الصحافة زلط
+          1	شارع الصديق مصطفى جنوب
+          1	شارع الصديق مصطفى شرق
+          1	شارع الصديق مصطفى شمال
+          1	شارع الطيار جميل
+          1	شارع العرش
+          1	شارع العرش غرب
+          2	شارع العرضة
+          1	شارع الغلاماب
+          1	شارع الفرنساوي
+          1	شارع الفلاتة
+          1	شارع القاش شرق
+          2	شارع القصر
+          2	شارع القيادة
+          4	شارع الكلاكلة القبة
+          1	شارع المدارس
+          1	شارع المدارس شمال
+          1	شارع المرضي
+          1	شارع المركز الثقافي
+          1	شارع المزاد
+          1	شارع المزرعة
+          1	شارع المستشفي التركي
+          1	شارع المستودع
+          1	شارع المسيد
+          1	شارع المطبك
+          2	شارع المعرض
+          1	شارع المعونة
+          1	شارع المقابر
+          1	شارع المقبر شمال
+          2	شارع المك نمر
+          3	شارع الموسيقار إبراهيم عوض
+          6	شارع الميرغنية
+          2	شارع المين
+          1	شارع النجوم
+          1	شارع النجومي
+          2	شارع النشاط
+          1	شارع النص
+          1	شارع النص غرب
+          1	شارع النويلة
+          6	شارع النيل
+          1	شارع النيل جنوب
+          1	شارع النيل شمال
+          1	شارع النيل ود مدني
+          5	شارع الوادي
+          1	شارع بابكر مصطفى
+          1	شارع بحرى الصناعات
+          1	شارع برهان
+          1	شارع بري
+          2	شارع بري بالنص
+          1	شارع بشير صديق
+          2	شارع بورتسودان - عطبرة
+          1	شارع بورتسودان - كسلا
+          2	شارع بيويوكوان
+          3	شارع جبرة العام
+          3	شارع جبل أولياء
+          2	شارع جوادة
+          1	شارع جوادة 3
+          1	شارع حاج ابراهيم
+          1	شارع حاج المامون
+          2	شارع حلة حمد
+          1	شارع حي العمال
+          1	شارع حياتي
+          1	شارع خوجلي
+          1	شارع خورطقت
+          1	شارع زنقاحة ودالجمل ودربيعة
+          1	شارع ساريا
+          1	شارع سجابة
+          2	شارع سليمان البشير
+          2	شارع سنما الوطنية
+          1	شارع سوداتل
+          2	شارع شرفت
+          1	شارع شيكان
+          1	شارع عبد الله هاشم
+          3	شارع عبد المنعم محمد
+          2	شارع عبيد ختم
+          1	شارع عطبرة
+          6	شارع عطبرة بورسودان
+          1	شارع علي دينار
+          1	شارع علي عبد اللطيف
+          1	شارع عمر ود بشيرة
+          1	شارع عوض الجيد اب شلخ
+          3	شارع غرب القاش
+          5	شارع غزة
+          2	شارع فرحات
+          1	شارع كترينا الخرطوم
+          1	شارع كدوك
+         19	شارع كسلا - بورسودان
+          1	شارع كمبو سجابة
+          1	شارع كوستي الابيض
+          1	شارع كوفي
+          4	شارع ليبيا
+          3	شارع مامون بحيري
+          1	شارع مبارك الامين
+          1	شارع محمد الو عاقلة
+          2	شارع محمد صلاح الدين
+          1	شارع محمد علي
+          8	شارع محمد نجيب
+          1	شارع مدني - القضارف
+          1	شارع مدني - سنار
+          1	شارع معروف
+          1	شارع معروف جنوب
+          1	شارع معروف شمال
+          1	شارع نصر الدين سالم
+          1	شارع نيالا - الفاشر
+          1	شارع ود الجاك
+          1	شارع ود الشيطان
+          2	شارع ودرعية
+          1	شارع ودمدني المناقل
+          1	شارع يعقوب
+          1	شارع يوسف ابصريمة
+          1	شارع يوسف التريتيري
+          1	شارع يوسف ود ابراهيم
+          1	شارع ١
+          1	شارع ١١
+          1	شارع ١٣
+          2	شارع ١٥
+          3	شارع ١٧
+          1	شارع ١٩
+          1	شارع ٢٠
+          1	شارع ٢١ أكتوبر
+          1	شارع ٣
+          1	شارع ٤
+          1	شارع ٥
+          1	شارع ٧
+          2	شارع ٩
+          1	شاطئ وادي هاشم
+          1	شاليه الكيلو بورتسودان
+          1	شاي بلبن
+          1	شباب 20
+          1	شبتوت
+          1	شبشة
+          1	شبعانه
+          1	شجرة السر
+          1	شجرة المعاشين
+          1	شذرات للإنتاج الفني shazarat media
+          1	شرطة
+          1	شرطة المرور
+          1	شرطة جوازات الاجانب
+          1	شرطة مرور
+          1	شرفت الخوالدة
+          1	شرفت النويلة
+          1	شرفت فلاتة
+          1	شرفت ودرعية
+          1	شركة أرياب للتعدين المحدودة
+          1	شركة أوريكس
+          1	شركة ازال للادوية
+          1	شركة التامينات العامة سودان
+          1	شركة الدرب الاخضر للسيراميك
+          1	شركة الصمغ العربي
+          1	شركة الصويتي الرشيدي الدوليهSDLG
+          1	شركة الهدف
+          1	شركة الوداد للتنمية والخدمات ال�
+          1	شركة بتروناس
+          1	شركة جابكو
+          1	شركة جياد الصناعية
+          1	شركة دانفوديو
+          1	شركة زين
+          1	شركة سارب الطبية المحدودة
+          1	شركة سكر كنانة
+          1	شركة سوداتل
+          1	شركة صالانكو للتنمية المحدودة
+          1	شركة صالح عبد الرحمن يعقوب
+          1	شركة قباني للكمبيوتر
+          1	شركة كرستال
+          1	شركة كمبال العالمية
+          1	شركة كنار للاتصالات
+          1	شركة مواصلات ولاية الخرطوم
+          1	شركة ميكو للدواجن
+          1	شركة هايلايت للإنتاج الفني
+          1	شركة يسلم تكنولوجي
+          1	شركةRPالمحدوده
+          1	شعبي امدرمان
+          1	شقق شريف
+          1	شقق هبار الفندقية
+          1	شقلبان
+          1	شلال دال
+          2	شنداوي
+          1	شندي
+          1	شنون كورنر
+          1	شواية
+          1	شواية أولاد البادية
+          1	شوايةاولاد امدرمان
+          1	شيخ السني 1
+          1	شيخ شريف
+          1	شيخ ود الجاك
+          1	صابرين
+          1	صالة أمسيتي
+          1	صالة الدوحة للمناسبات
+          1	صالة القرشي
+          1	صالة المعلم
+          1	صالة المنتصر
+          1	صالة بلاس
+          1	صالة سبارك سيتي
+          1	صالة سندريلا
+          1	صالة سوبر الرياضية
+          1	صالة شداد
+          1	صالة ليلة العمر
+          1	صالة مارينا
+          1	صالة نسيم شبال
+          1	صالة هاشم ضيف الله
+          1	صالح للمناسبات
+          1	صالحة هجليجة
+          1	صاله كوينز
+          1	صالون
+          1	صالون البحيرة
+          1	صالون الحتانة
+          1	صالون السنبلاية
+          1	صالون النجومي
+          1	صالون رويال بالم
+          1	صالون سليم
+          1	صالون سمعه
+          1	صالون شندي
+          1	صالون ظافر تركي
+          1	صالون فاني
+          1	صالون لمسة
+          1	صالون ليون التركي
+          1	صالون مونتي للاناقة
+          1	صحة و عافية
+          1	صدلية أبو المغداد
+          1	صراف آلي الخرطوم
+          1	صلب
+          1	صواردة
+          1	صيدلية A to Z
+          1	صيدلية أبو المقداد
+          1	صيدلية أوزون
+          1	صيدلية إينورا
+          1	صيدلية ابن خلدون
+          1	صيدلية ابو المغداد
+          1	صيدلية ابوالمقداد
+          1	صيدلية ابوبيان
+          1	صيدلية اسد الله
+          1	صيدلية الأحلام
+          1	صيدلية الاخلاص
+          1	صيدلية الانتصار
+          1	صيدلية الانجاز
+          1	صيدلية الاول
+          1	صيدلية الحكيم ٢
+          1	صيدلية الدوثر
+          1	صيدلية الرميساء
+          1	صيدلية الرواد
+          1	صيدلية الرياض الحديثة
+          1	صيدلية الزعيم
+          1	صيدلية السجاد
+          1	صيدلية السماح
+          1	صيدلية السواحلي
+          1	صيدلية الشريف الهندي
+          1	صيدلية الشهيد د. أحمد حسن
+          1	صيدلية الصفوة
+          1	صيدلية الطائف
+          1	صيدلية العروبة
+          1	صيدلية العريفي
+          1	صيدلية العنبر
+          1	صيدلية الفاروق
+          1	صيدلية الفجر الحديث
+          1	صيدلية الفلاح
+          1	صيدلية القصواء
+          1	صيدلية المؤيد
+          1	صيدلية المبرة
+          1	صيدلية المشرق
+          1	صيدلية الملاك
+          1	صيدلية المنشية
+          1	صيدلية الهرم
+          1	صيدلية الهلالي
+          1	صيدلية الهيثم
+          1	صيدلية الوالدة
+          1	صيدلية باكتوتة
+          1	صيدلية بايونير
+          1	صيدلية بله الفكي
+          1	صيدلية بيت الحمد
+          2	صيدلية تباشير
+          1	صيدلية تبد
+          1	صيدلية حمدي
+          1	صيدلية دايموندكير
+          1	صيدلية دكتورة ريم
+          1	صيدلية ذات الصواري
+          1	صيدلية سبأ
+          1	صيدلية سماح
+          1	صيدلية سمر بلس
+          1	صيدلية سهيلة
+          1	صيدلية سيفوي
+          1	صيدلية شهد
+          1	صيدلية طيبة2
+          1	صيدلية عشميق خليفة
+          2	صيدلية علياء
+          1	صيدلية علياء شارع الستين
+          1	صيدلية فارما سيرف
+          1	صيدلية قزمان ودميان
+          1	صيدلية كير زون
+          1	صيدلية مارفل
+          1	صيدلية محمد سعيد
+          1	صيدلية محمود سعيد
+          1	صيدلية مركزصلاح الطبي
+          1	صيدلية مريم الحديثة
+          1	صيدلية مكة
+          1	صيدلية مكة ٦
+          1	صيدلية منهل الفردوس
+          1	صيدلية ميراي
+          1	صيدلية نعم
+          1	صيدلية نوف
+          1	صيدلية وي كير
+          1	صيدليه الفريق
+          1	صيدليه سلامات
+          2	صيصاب
+          1	صينية الحلة
+          1	صينية المنصوره
+          1	طاحونة
+          1	طاحونة ابو راس
+          1	طاحونة قوز فيل
+          1	طرمبات موية
+          1	طرمبة حجازي
+          1	طرمبة نبته للبترول
+          6	طريق أبشي - الحدود السودانية - ال�
+          1	طريق الجنينة - نيالا
+          2	طريق الدمازين‎-سنار‎
+          1	طريق سنجة -الدبكرة
+          6	طريق كوستي‎-سنار‎
+          3	طريق مدني-القضارف
+          1	طلعت فريد
+          1	طلمبة النيل
+          1	طلمبة النيل - محطة بلال
+          1	طلمبة بشائر
+          2	طلمبة بشاير
+          1	طلمبه بشائر
+          4	طوكر
+          1	طويلة
+          1	طيران ناس
+          1	عابدين
+          1	عابور الابيض
+          1	عبد السميع التوم
+          1	عبد الله بن رواحة
+          1	عبد الله هاشم
+          1	عبد النور
+          1	عبدالحليم
+          1	عبدالسميع التوم أحمد
+          1	عبري
+          1	عبود
+          1	عبور سنار
+          1	عتباي
+          1	عثمان دقنة
+          1	عثمان وعمر عبيد
+          1	عرب حاج
+          1	عزازة
+          1	عصائر البرعي
+          1	عصام الشيخ
+          1	عصام عباس
+          1	عصام للفضائيات
+          1	عصير البطيخ
+          1	عطارة كارتيلا
+          1	عطب
+          2	عطبرة
+          1	عطيشة
+          1	عقارات عروس الرمال
+          1	عكاشة
+          1	علي غدير Aligider
+          1	علي مبارك
+          1	عمارة
+          1	عمارة الاصيل
+          1	عمارة البرير
+          1	عمارة الذهب
+          1	عمارة السلام
+          1	عمارة المشرف
+          1	عماره النخيل للشقق الفندقية
+          1	عمتو آمال
+          1	عمر بن الخطاب - عيادة محولة
+          1	عمي الحاج
+          1	عنسبا Anseba
+          1	عنسبا ዞባ ዓንሰባ
+          1	عنيكر للبترول
+          1	عوص المبارك
+          1	عوض عديل النيل
+          1	عوفينا
+          1	عيادات عبد المنعم محمد
+          1	عيادة
+          1	عيادة احمد ابشر
+          1	عيادة اسنان
+          1	عيادة الجراحة الدقيقة والأعصاب
+          1	عيادة جامعة الخرطوم
+          1	عيادة حمور لطب الأسنان
+          1	عيادة دكتور بشرة للعيون
+          1	عيادة سعودي لطب الاسنان
+          1	عيدروس
+          2	عَدُو
+          1	غابة السنط
+          1	غابة الشبيراب
+          1	غرب بن
+          1	غزالي
+          1	غزالي عباس
+          1	غسال ملابس
+          2	غسيل ملابس
+          1	فاروق
+          1	فتنة
+          1	فديمين القبلية
+          1	فرجي
+          1	فرفوجيا الهندسية
+          1	فرولاتو
+          1	فريق
+          1	فقير ام كتي
+          1	فنار سنقنيب
+          1	فندق اراك الخرطوم
+          1	فندق الرياض
+          1	فندق السودان
+          1	فندق المرفأ
+          1	فندق دبي
+          1	فندق كورال
+          1	فولو
+          1	فيزا كارد السودانVisa4Sudan
+          1	قادرة
+          1	قاسم لبن
+          1	قاعة الامتحانات الكبرى
+          1	قاعة الزبير محمد صالح
+          1	قاعة الشارقة
+          1	قاعة القذافي
+          1	قاعة حسن بليل
+          1	قبة الخليفة الشيخ إدريس على الرض
+          1	قبة سليم
+          1	قرطاسية 41
+          1	قرقود
+          1	قرقود شمال
+          1	قرنتى
+          1	قرنفلة
+          1	قرية الحفاير
+          1	قرية الرشايده ابوطلحه
+          1	قرية الرشايده الحفاير
+          1	قرية الرشايده ام لويه
+          2	قرية السمك
+          1	قرية الكريبة
+          1	قرية النويلة
+          1	قرية كبري البطانه
+          1	قريه الاحيمر
+          2	قريه البروالتقوي
+          3	قريه الطرايين
+          1	قريه طرايين
+          1	قسم الجريف غرب
+          1	قسم جبرة
+          3	قسم شرطة
+          1	قسم شرطة السوق المحلي
+          1	قسم شرطة الصحافةس
+          1	قسم شرطة امتداد الدرجة الثالثة
+          2	قسم شرطة بحرى شرق
+          1	قسم شرطة جبل أولياء
+          1	قسم شرطة سوق السجانة
+          1	قسم علم الجيولوجيا
+          1	قصر الزمردة
+          1	قصر الشباب والاطفال
+          1	قلابات
+          1	قناة طيبة الفضائية
+          1	قنتي
+          1	قنطرة حسن
+          1	قنطرة هلال
+          1	قواريرا ١
+          2	قواريرا ٣
+          1	قوشابي
+          1	قولى
+          1	قيسان
+          1	كابتود
+          1	كابري الشام
+          1	كاجاناغول
+          1	كاجاناغول Kajabagul
+          2	كادقلي - هجليج
+          1	كادوقلي‎
+          2	كارثاغو
+          1	كارفور
+          3	كارورا
+          1	كاس
+          1	كافتريا
+          1	كافتريا دنانا
+          1	كافتريا راجي
+          1	كافتيريا الاستاد
+          1	كافتيريا الشعبي
+          1	كافتيريا الميدان الشرقي
+          1	كافتيريا طاعم
+          1	كافتيريا و حلويات ارابيسك
+          1	كافوري
+          1	كافيا كنجي
+          1	كافيا كنجي-رادوم
+          1	كاك
+          1	كاكي بروست و ايس كريم
+          1	كاودة
+          1	كبدي
+          3	كبري الانقاذ
+          2	كبري الدباسين
+          1	كبري الدسيس
+          1	كبري الدويم
+          1	كبري القاش
+          1	كبري القاش القديم
+          1	كبري القنطرة الثاني
+          5	كبري المك نمر
+          1	كبري المنشية
+          1	كبري المنشيه
+          1	كبري النيل الأزرق
+          2	كبري النيل الابيض
+          1	كبري امدرمان
+          1	كبري توتي
+          1	كبري رفاعة
+          1	كبري كوبر
+          2	كبكابية (Kebkabiya)
+          1	كبم لإنتاج وتسويق منتجات النحل
+          1	كبوشية
+          1	كتم
+          1	كجبار
+          1	كجمر
+          1	كداي الجموعية
+          1	كدكول
+          1	كرشي
+          1	كركار
+          1	كركور طلح Karkour Talh
+          1	كرمة
+          1	كرمة Kerma
+          1	كرمكول
+          1	كرمه النزل
+          1	كريم استور
+          1	كريمة
+          2	كسلا
+          1	كشك للتسويق الإلكتروني
+          1	كفتريا حاتيكم
+          1	كفوري مربع ١٢
+          1	كفوري مربع ١٤
+          1	كفوري مربع ٩
+          1	كلبُس
+          1	كلنكاكول,جبل الصلاح
+          1	كلي Goli
+          1	كلية الإمارات التقنية
+          1	كلية الادآب - جامعة التيلين
+          2	كلية الاداب
+          1	كلية الاعلام جامعة امدرمان الاس�
+          1	كلية الانتاج الحيواني
+          1	كلية التجارة
+          1	كلية الجريف شرق التقنية
+          1	كلية الجزيرة للتقنية
+          1	كلية الخرطوم التطبيقية
+          1	كلية الدراسات الاسلامية
+          1	كلية الدراسات الاقتصادية والاجت
+          1	كلية الدراسات العليا
+          1	كلية الشرطة
+          1	كلية الصيدلة جامعة الخرطوم
+          1	كلية الطب جامعة الخرطوم
+          1	كلية العلوم
+          1	كلية القانون
+          1	كلية القران الكريم
+          1	كلية اللاهوت الإنجيلية
+          1	كلية النصر التقنية
+          1	كلية النفط
+          1	كلية النهضة
+          1	كلية النيل
+          1	كلية الهندسة والدرسات التقنية ج�
+          1	كلية اليرموك
+          1	كلية بن سيناء
+          1	كلية جبرة العلمية - طالبات
+          1	كلية جبرة العلمية - طلاب
+          1	كلية دراسات العليا جامعة أمدرما�
+          1	كلية طب الأسنان جامعة الخرطوم
+          1	كلية علوم البصريات جامعة النيلي�
+          1	كلية علوم الجغرافية والبيئية
+          1	كلية علوم الحاسوب و تقانة المعلو
+          1	كلية علوم الطيران
+          1	كلية هندسة الطيران
+          1	كلية هندسة الكهرباء
+          1	كلية هندسة الميكانيكية
+          1	كمبال العالميه المكتب العلمي
+          1	كمبو ود العجوز
+          1	كنكلاب
+          1	كنيسة الشهيد العظيم مارجرجس
+          1	كنيسة الضعين
+          1	كنيسة العذرا مريم
+          1	كنيسة القديس إستفانوس
+          1	كهرباء الخرطوم وسط
+          1	كهرباء المناقل
+          1	كورتي
+          1	كورنيش بورتسودان
+          1	كوري
+          1	كوريا للمكنكه جميع السيارات
+          2	كوستي
+          1	كوشة
+          1	كوفير ريفال
+          1	كوكا
+          1	كولب
+          1	كومي
+          1	كوني النجمة للتجميل
+          1	كوية
+          1	كويكة
+          1	كيرا لايف
+          1	كيلك
+          1	لؤلؤة معاذ
+          1	لبادة
+          1	لبب شرق
+          1	لبب غرب
+          1	لتي
+          1	لجنة الاختيار للخدمة المدنية ال�
+          2	لفة الجريف
+          1	لفة الحاج يوسف
+          1	لفة السهريج
+          1	لفة الوالي
+          1	لفة شارع الردمية
+          1	لفة شارع الكلس
+          1	لفة شارع واحد
+          1	لفة كارث
+          1	لفة مايو الحاج يوسف
+          2	لقاوة
+          1	للبببلل
+          1	ليالي الشام
+          1	ليالي كردفان
+          1	ليبيا
+          1	ليبيا - مصر
+          2	ليموزين
+          1	لينك للحلول المتكاملة
+          1	ماثيو
+          1	مارينا للشقق الفندقية
+          1	ماستر كي لطباعة المفاتيح
+          1	ماكو
+          2	ماكينة الصراف الآلي
+          1	مبنى الأمم المتحدة الانمائي
+          1	مبنى الادارة
+          1	مبنى المساحة والتخطيط
+          1	مبنى وزارة النفط
+          1	متحف التاريخ الطبيعي
+          1	متحف السودان
+          1	مثلث حلايب‎
+          1	مثلث حلة كوكو
+          1	مجرب
+          1	مجلس اداره مشروع الجزيرة - بركات
+          1	مجمع أبو أية التجاري
+          1	مجمع البشير لسكن الضباط
+          1	مجمع الرحمة الاسلامي
+          1	مجمع الرشيد موسي
+          1	مجمع الزومة الاسلامى
+          1	مجمع الكنائس ومدرسة الكتاب المق�
+          1	مجمع النصر السكني
+          1	مجمع النور
+          1	مجمع خدمات الجمهور
+          1	مجمع ساريا السكني
+          1	مجمع ساريا الصناعي
+          1	مجمع طبي نوباتيا
+          1	مجمع عيادات التوم
+          1	مجمع عيادات ود الحسين
+          1	مجمع لميس الطبي
+          1	مجمع محاكم الخرطوم شمال
+          1	مجمع محاكم شرق النيل و تسجيلات ا�
+          1	مجمع محطة سبعه
+          1	مجمع مدارس
+          1	مجمع مشيخة السودان الإنجيلي
+          1	مجمع معاوية البرير الاسلامي
+          1	مجمع مكة التجاري
+          1	مجمع يشفين الطبي
+          1	محافظة أسوان
+          1	محروس
+          1	محطة 3
+          1	محطة 4
+          1	محطة 5
+          1	محطة 6
+          1	محطة 7
+          1	محطة البقالة
+          1	محطة التقاطع - المظلة
+          1	محطة التلفاز
+          1	محطة الخياري
+          1	محطة الزريبة
+          1	محطة الغالي
+          1	محطة المثلث
+          1	محطة المدارس
+          2	محطة المشتل
+          1	محطة المظلة
+          1	محطة ام بادوبة الركشات
+          1	محطة بيع كهرباء الكلاكلة
+          1	محطة جيمي
+          1	محطة حلة كوكو
+          1	محطة سبعة ونص
+          1	محطة صابرين
+          1	محطة عزيز كفوري
+          1	محطة غاز قادرة
+          1	محطة قطار الخرطوم
+          1	محطة قطارات
+          1	محطة كهرباء الحلفايا
+          1	محطة ماثيو للوقود
+          1	محطة مياه المقرن النيلين
+          1	محطة نبتة للبترول
+          1	محطة ود السوكي
+          1	محطة وقود
+          1	محطة ١٣
+          1	محطة ٧
+          1	محطه اللودر
+          1	محكمة
+          1	محكمة امتداد الدرجة الثالثة الج�
+          1	محل لبيع مواد البناء
+          1	محلية الصحافة و جبرة
+          1	محلية المناقل
+          1	محليه شرق النيل
+          1	محمد سجنيني
+          1	محمد عبدالكريم ابوبكر
+          1	محمدين محمد
+          2	مخبز
+          1	مخبز آلي
+          1	مخبز ابو تيسير
+          2	مخبز ابوالحسن
+          1	مخبز الانصاري
+          1	مخبز السويبة الالي
+          1	مخبز العطا
+          1	مخبز النعمه
+          1	مخبز الواحة الآلي
+          1	مخبز بلدي
+          1	مخبز رزاز الالي
+          1	مخبز سحر العيون
+          1	مخبز طيبة
+          1	مخبز عشي
+          1	مخبز عمر
+          1	مخبز كارفور
+          1	مخبز مجمع جبرة الاستهلاكي
+          1	مخبز مسجد ابوزيد
+          1	مخبز و سوبرماركت الفاروق
+          1	مخرج
+          1	مخزن البيبسي
+          1	مخطط الجوهرة
+          2	مخيم
+          1	مدارس الامام الطبري
+          1	مدارس التعليم البريطاني
+          1	مدارس التعليم البريطاني القسم ا�
+          1	مدارس الحبيب الأساسية الخاصة
+          1	مدارس القبس الإنجليزيه
+          1	مدارس القوز
+          1	مدارس المجلس الافريقي للتعليم ا�
+          1	مدارس المعالي الثانوية الخاصة
+          1	مدارس كرري القرآنية الأساسية
+          2	مدارس محمد ساتي
+          2	مدخل
+          1	مدخل المنشية
+          4	مدرجات
+          1	مدرسة أبوبكر الصديق الأساسية بن�
+          1	مدرسة أمدرمان الفنية بنات
+          1	مدرسة أنس بن مالك أساس
+          1	مدرسة ابو بكر الصديق الابتدائية 
+          1	مدرسة ابو ذر الغفاري
+          1	مدرسة اسماء بنت ابي بكر الصديق ا�
+          1	مدرسة الإخلاص الأساسية بنات
+          1	مدرسة الازهري الثانوية الحكومية
+          1	مدرسة الام الثانويه بنات
+          1	مدرسة الامتداد الثانوية
+          1	مدرسة البروف عبدالله كريم الدين 
+          1	مدرسة الجريف3
+          1	مدرسة الحميراء أساس بنات
+          1	مدرسة الخرطوم التجارية
+          2	مدرسة الخرطوم الجديدة بنات
+          1	مدرسة الخرطوم الجديدة بنين
+          1	مدرسة الخرطوم النموذجية
+          1	مدرسة الخوجلاب اساس بنات
+          1	مدرسة الخوجلاب الثانوية للبنات
+          1	مدرسة الدكتور الثانوية
+          1	مدرسة الديم شرق 1
+          1	مدرسة الديم شرق 5
+          1	مدرسة الديم غرب
+          2	مدرسة الديوم الثانوية بنات
+          1	مدرسة الديوم الثانوية بنين
+          1	مدرسة الزبير ابن العوام الابتدا�
+          1	مدرسة الزهراء - طالبات
+          1	مدرسة الزهور الثانوية بنات
+          1	مدرسة السجانة
+          1	مدرسة الشهيد
+          1	مدرسة الشهيد أبوبكر شيخو الثانو�
+          1	مدرسة الشهيد عبيد ختم بنات
+          1	مدرسة الشهيد عبيد ختم بنين
+          1	مدرسة الشهيد فتح الرحمن السر
+          1	مدرسة الشيخ مصطفى الأمين
+          1	مدرسة الشيخ مصطفى الامين الثانو�
+          1	مدرسة العروبة
+          1	مدرسة العلوم الادارية جامعة الخ�
+          2	مدرسة العلوم الرياضية
+          1	مدرسة العمدة الثانوية بنين
+          1	مدرسة العميد الثانوية بنات
+          1	مدرسة الفتح الثانوية بنات
+          1	مدرسة القدس الثانوية
+          1	مدرسة الكلاكلة الثانوية الجديدة
+          1	مدرسة المؤتمر الثانوية
+          1	مدرسة المعلم الثانوية الخاصة
+          1	مدرسة النجاح الثانوية بنين
+          1	مدرسة النور الأساسية الخاصة
+          1	مدرسة النور خضر
+          1	مدرسة الواحة الثانوية
+          1	مدرسة ام المؤمنين الثانوية بنات
+          1	مدرسة ام حريزات الابتدائية
+          1	مدرسة امدرمان الاهلية
+          1	مدرسة بحري الإنجيلية
+          1	مدرسة بنات الابتدائية
+          1	مدرسة تمبس
+          1	مدرسة حذيفة بن اليمان
+          1	مدرسة حلويات سعد الثانوية
+          1	مدرسة حمور - الانجليزيه
+          1	مدرسة دار السلام المغاربة الاسا�
+          1	مدرسة سمارت العالمية
+          1	مدرسة سمية بنت الخياط
+          1	مدرسة صديق التوم الثانوية الحكو�
+          1	مدرسة عباد الرحمن
+          1	مدرسة عبد الله بن رواحة الثانوية
+          1	مدرسة عبدالله الثانوية بنات
+          1	مدرسة عركي
+          1	مدرسة كلية السلام الإنجيلية
+          2	مدرسة مأمون البرير للبنات
+          1	مدرسة مبارك زروق
+          1	مدرسة ود نفيع اساس بنات
+          1	مدرسة ود نفيع اساس بنين
+          1	مدرسة ود نفيع الثانوية بنات
+          1	مدرسه المناقل الثانويه بنين
+          1	مدرسه جبيت
+          1	مدرسه عمر بن الخطاب
+          1	مدرسه كمبونى
+          2	مدينة الطفل
+          1	مدينة المعلم الطبية | El Moa'lem Medical C
+          1	مدينة جياد الصناعية
+          2	مدينة قلي
+          1	مراغه
+          1	مرتضي
+          1	مرسم معمار
+          1	مرسى الفاشر للعماري
+          1	مركاتو نت
+          1	مركز التنمية و السياسات العامة
+          1	مركز الحارث للحوم الطازجة
+          1	مركز الحكمة الطبي
+          1	مركز الخرطوم تطوير الكرة الطائر�
+          1	مركز السودان لطب العيون
+          1	مركز الصحي الفرعي
+          1	مركز الصفوة التجاري
+          1	مركز المازن لطب و زراعة الأسنان
+          1	مركز الماسه لطب الأسنان (اطفال)
+          1	مركز المعلم الصحي
+          1	مركز النيلين الطبي
+          1	مركز الهرم التجارى
+          1	مركز الهيئة القومية للمياه للتد�
+          1	مركز بلجا لخدمات الكمبيوتر
+          1	مركز بلسم الصحي
+          1	مركز بيع مخفض
+          1	مركز تدريب الايتصالات سوداكاد
+          1	مركز جبرونه
+          1	مركز حياة للإستشارات الاجتماعية
+          1	مركز خدمات المشتركين زين
+          1	مركز خدمات المشتركين كنار
+          1	مركز دافنشي للاسنان
+          1	مركز روان الصحي
+          1	مركز سك العملة السودانية
+          1	مركز سمير للمواد الغذائية
+          1	مركز شرطة
+          1	مركز شرطة الكلاكلات
+          1	مركز شرطة والمحكمة المحلية مفرق 
+          1	مركز صحي السجانة
+          1	مركز صحي الشهيد خالد
+          1	مركز صحي الصبابي
+          1	مركز صحي الكلاكلة القبة
+          1	مركز صحي المايقوما
+          1	مركز صحي ام بادوبا
+          1	مركز صحي جبرة
+          1	مركز صحي سمير
+          1	مركز عبدو
+          1	مركز قزح التجاري
+          1	مركز ميكو للدجاج فرع أوماك
+          1	مركز هند للتسوق
+          1	مركزبيع مخفض
+          1	مركول تبج
+          1	مروة سنتر سوبرماركت
+          1	مروي
+          1	مريم وجورجيوس
+          1	مزايا
+          1	مزرعة دجاج ومتجر كاك
+          1	مزرعة علي الصديق
+          1	مزرعة مدني
+          1	مزن
+          1	مساوي
+          1	مسبح الشرطة
+          1	مسبح نادي الاسرة
+          1	مستشفى أبراهيم مالك
+          1	مستشفى أم درمان التعليمي
+          1	مستشفى أم درمان للولادة
+          1	مستشفى ابن سينا
+          1	مستشفى ابو عنجة
+          1	مستشفى اسيا
+          1	مستشفى الابيض التعليمي
+          1	مستشفى الاربعين
+          1	مستشفى التاهيل
+          1	مستشفى التجاني الماحي
+          1	مستشفى الخرطوم
+          1	مستشفى الدوحة التخصصي للانف و ال
+          1	مستشفى السلاح الطبي
+          1	مستشفى الصداقة الصيني
+          1	مستشفى العيون
+          1	مستشفى القضارف التعليمي
+          1	مستشفى الكلية الحربية
+          1	مستشفى المقرن الجامعي
+          1	مستشفى المناقل
+          1	مستشفى النيل الازرق
+          1	مستشفى الوداد
+          1	مستشفى امدرمان التعليمي
+          1	مستشفى بست كير
+          1	مستشفى بشائر التعليمي
+          1	مستشفى بشائر الخاص ٢
+          1	مستشفى جبل أولياء, السودان
+          1	مستشفى جرش التخصصي
+          1	مستشفى حراء
+          1	مستشفى حوداث الخرطوم جنوب
+          1	مستشفى سنار
+          1	مستشفى فضيل التخصصي
+          1	مستشفى كسلا التعليمي
+          1	مستشفى مكة
+          1	مستشفى مهيره Mehaira Hospital
+          1	مستشفي الأسنان الأكاديمي
+          1	مستشفي الاسنان
+          1	مستشفي الانجاز
+          1	مستشفي الخرطوم
+          1	مستشفي الدسوقي التخصصي
+          1	مستشفي الكويتي للاطفال
+          1	مستشفي الوالدين للعيون
+          1	مستشفي دار العلاج
+          1	مستشفي نور العيون
+          2	مستشفي ود مدني
+          1	مستشفي يستبشرون
+          2	مستشفی الأطباء
+          1	مستشفی الشرطة
+          1	مستشفی طه بعشر التعليمي للطب الن
+          1	مستشفی مدينة البراحة الطبية
+          1	مستودع الغاز
+          1	مستودعات الشجرة
+          1	مستوصف الجودة
+          1	مستوصف الحكمة
+          1	مستوصف المنورة
+         16	مسجد
+          1	مسجد أبو يمامة
+          1	مسجد أنصار السنة السجانة
+          1	مسجد ابراهيم مالك
+          1	مسجد اربجي العتيق
+          1	مسجد اسحاق
+          1	مسجد اقتصاد
+          1	مسجد الأحمدي
+          2	مسجد الإحسان
+          1	مسجد الإمام مسلم
+          1	مسجد الاخوه للوالد الشيخ ابراهي�
+          1	مسجد البحيرة السلمة
+          1	مسجد البرعي
+          1	مسجد البرهانية
+          1	مسجد التوفيق
+          1	مسجد الجامعة
+          1	مسجد الجعليين
+          1	مسجد الجمارك
+          1	مسجد الحارة الثالثة العتيق
+          1	مسجد الحيف
+          1	مسجد الخوجلاب العتيق
+          1	مسجد الدبكرة
+          1	مسجد الرضوان حي الدوحة
+          1	مسجد السجانة
+          1	مسجد السجانة الجديدة حجازي
+          3	مسجد السلام
+          1	مسجد السيد المحجوب
+          1	مسجد الشكرتاب
+          1	مسجد الشهيد
+          1	مسجد الشهيد ابراهيم شمس الدين
+          1	مسجد الصبابي
+          1	مسجد الضرير
+          1	مسجد الطائف جنوب
+          1	مسجد الغفران
+          1	مسجد الفتح مربع 7
+          1	مسجد الفرقان
+          1	مسجد الفرقان - الصحافة مربع 22
+          1	مسجد الفقير
+          1	مسجد الفكي علي
+          1	مسجد الفيحاء
+          1	مسجد الفيحاء العتيق
+          1	مسجد القاضي عياض
+          1	مسجد الكميتراب
+          1	مسجد المجمع الاسلامى القلعة
+          1	مسجد المحس
+          1	مسجد المدينة الخيرية
+          1	مسجد المسره
+          1	مسجد المعراج
+          1	مسجد المعمورة
+          1	مسجد الملتقى
+          1	مسجد الميناء البري
+          1	مسجد النيلين
+          1	مسجد النيه
+          2	مسجد الوالدين
+          1	مسجد الياسمين
+          3	مسجد انصار السنة
+          1	مسجد حجة حكيمة
+          1	مسجد حديقة القرشي
+          1	مسجد حسن متولي
+          1	مسجد ديم التعايشة
+          1	مسجد سوق السجانة
+          1	مسجد سوق الفور
+          1	مسجد سيف
+          1	مسجد شروني
+          1	مسجد شهداء الأقصى
+          1	مسجد طيفور
+          1	مسجد عبد المنعم
+          1	مسجد كوبر العتيق
+          1	مسجد محطة 6
+          1	مسجد محمد
+          1	مسجد مربع 6
+          1	مسجد مربع 8
+          1	مسجد مربع ٦
+          1	مسجد مربع ٧ الكبير
+          1	مسجد منظمة المشكاة
+          1	مسجد هيئة الدعوة الاسلامية
+          1	مسجد وخلاوي الشيخ محمد الخوجلاب�
+          1	مسجد ود الحسين
+          1	مسجد ود نفيع
+          1	مسجدابوبكر الصديق
+          1	مسرح حديقة القرشي
+          1	مسرح عثمان حسين
+          1	مسرح عروس الرمال
+          1	مسرح مركز شباب السجانة
+          1	مسرح نادي الضباط
+          1	مسيدة
+          1	مشروع مطري-مروي
+          1	مشو
+          1	مصر
+          1	مصر - السودان
+          1	مصر - ليبيا
+          1	مصرف المزارع التجاري
+          1	مصطفى وحميدة
+          1	مصعب بن عمير
+          2	مصفاة الخرطوم
+          1	مصلى العيدين
+          1	مصلى نساء جامع 26
+          1	مصنع اسمنت التكامل
+          1	مصنع اسمنت عطبرة
+          1	مصنع اسمنت عطبرة القديم - ماثبيو
+          1	مطار الابيض الدولي
+          1	مطار الجنينة
+          1	مطار الخرطوم
+          1	مطار الخرطوم الدولي
+          1	مطار الدبة
+          1	مطار الدلنج
+          1	مطار خشم القربة
+          1	مطار زالنجي الدولي
+          1	مطار كارثاغو
+          1	مطار كسلا
+          1	مطار مروي
+          1	مطاعم ابراهيم عبد الله
+          1	مطعم
+          1	مطعم الامتياز
+          1	مطعم الانصاف الشعبي
+          1	مطعم الشلال للأسماك
+          1	مطعم الصاج الاطالي Italian grill
+          2	مطعم الطازج
+          1	مطعم العامر
+          1	مطعم الغالي
+          1	مطعم النجمة
+          1	مطعم الوفاق
+          1	مطعم انس شاورما
+          2	مطعم بابا حسين
+          1	مطعم ساريج
+          1	مطعم سنتر الستين
+          1	مطعم شعبي
+          1	مطعم كابيلا للأسماك - سمك
+          1	مطعم كوة للأسماك
+          1	مطعم كوة للأسماك - سمك
+          1	مطعم مأرب السياحي
+          1	مطعم مأرب السيارحي
+          1	مطعم مأكولات برشلونة
+          1	مطعم و مشويات أبن الشام
+          1	مطعم وايسكريم دريم
+          1	مطعم وكافيه ريليش
+          1	مطعم وكفترياالحرمين
+          2	معاوية
+          1	معبد اباداماك
+          1	معبد امون
+          3	معبر ارقين
+          1	معتصم للاثاثات
+          1	معتمدية اللاجئين
+          1	معرض الجليدي الرشيدي للسيارات
+          1	معرض الخرطوم
+          1	معرض الرائد للملابس الرجالية
+          1	معرض جياد السيارات
+         11	معروف الصديق
+          1	معروف الصديق 2
+          1	معسكر الشجراب 1
+          1	معسكر الشجراب 2
+          1	معسكر الشجراب 3
+          1	معمل استاك
+          1	معمل الترا لاب
+          1	معهد الدراسات والبحوث الإنمائية
+          1	معهد القرش الصناعي
+          1	معهد جيت
+          1	معهد سلتي للغات
+          1	معهد عائشة لذوي الاحتياجات الخا�
+          1	مغاسل اصبح الصبح
+          1	مغسلة اصول الأتوماتيكية غسيل و ت
+          1	مغسلة الصفا
+          1	مغسلة المتكامل للسيارات
+          1	مغسلة زينة
+          2	مغسلة سيارات
+          2	مغسلة ملابس
+          1	مغلق
+          1	مغلق التاج
+          2	مغلق التوحيد
+          1	مغلق التيسير
+          1	مغلق الكلس
+          1	مغلق فتح العارفين
+          1	مفرق سنار
+          1	مقابر الجريف شرق
+          1	مقابر الشجرة
+          1	مقابر الشيخ علي ود نفيع
+          2	مقابر القبة
+          2	مقابر فاروق
+          1	مقابر ود نفيع
+          1	مقاشي
+          1	مقاوده,المقاوده
+          1	مقبرة الصبابي
+          1	مقسم الخرطوم جنوب
+          1	مقسم سوداتل-الصحافة مربع 26
+          1	مقهي شعبي
+          1	مكتب القبول
+          1	مكتب الندوة العالمية للشباب الا�
+          1	مكتب الهجرة
+          1	مكتب توزيع الكهرباء الامتداد
+          1	مكتب توزيع الكهرباء السجانة
+          1	مكتب ضرائب السجانه
+          1	مكتب كهرباء
+          1	مكتب كهرباء الرياض
+          1	مكتب كهرباء العمارات
+          1	مكتب كهرباء جبرة
+          1	مكتب محامي
+          1	مكتب مدير الجامعة
+          2	مكتبة
+          1	مكتبة إحصاء
+          1	مكتبة اسامة ساتي
+          1	مكتبة الامل
+          1	مكتبة الشامل
+          1	مكتبة القيروان
+          1	مكتبة النشاط إحصاء
+          2	مكتبة علوم
+          1	مكتبة قصر الهدايا
+          1	مكتبتي
+          1	ملاعب وائل للخماسيات
+          1	ملحمة السحلى حديثةه
+          1	ملحمة اولاد يوسف للحوم الحمراء
+          1	ملحمة و شواية اولاد العبيد
+          1	ملعب اكاديمية كرة القدم
+          1	ملعب الاهلي
+          1	ملعب الرابطة الصغري
+          1	ملعب الشعلة
+          1	ملعب العالمين
+          1	ملعب العلم
+          1	ملعب النيل
+          1	ملعب خماسيات نادي جبرة
+          1	ملعب رابطة ناشئي الصحافة وسط
+          1	ملعب فرع الرياضة العسكري
+          1	ملعب فريق السجانة
+          1	ملعب نادي التحرير
+          1	ملعب نادي المريخ المناقل
+          1	ملعب نادي الموردة
+          1	ملعب نادي الهلال
+          1	ملعب ود نفيع
+          1	ملك الطعمية
+          1	ملك الكوارع
+          2	ملك المنقة
+          1	ملواد
+          1	مليط
+          1	ممشى شارع النيل
+          1	منتجع الرميله السياحي
+          1	منتجع الرهد السياحي
+          1	منتجع السيارات
+          1	منتحع السمك
+          1	منتره القنطره
+          1	منتزه الدوحة العائلي
+          1	منتزه المقرن العائلي
+          1	منتزه المناقل
+          1	منتزه راما RAMA
+          1	منجم وادي الزراف
+          1	منزل
+          1	منزل آل موسي
+          1	منزل أبو القاسم الرشيد
+          1	منزل أحمد الطيب العبيد صالح
+          1	منزل أحمد عجول
+          1	منزل أيمن أبو عبد الله
+          1	منزل إبراهيم الفكي خالد
+          1	منزل ابوقرون
+          1	منزل اسماعيل ابراهيم
+          1	منزل الزعيم الأزهري
+          1	منزل السر محمد يوسف
+          1	منزل السيد أحمد الطيب
+          1	منزل الشريف تازورة
+          1	منزل الصديق مصطفى
+          1	منزل المرحوم ابراهيم احمد ارصد
+          1	منزل المرحوم ابراهيم بدر الدين
+          1	منزل المرحوم الحاج محمد بدر الدي
+          1	منزل المرحوم حسن بدر الدين محمد
+          1	منزل المرحوم عباس السيد
+          1	منزل المرحوم عبدالرحمن جعفر
+          1	منزل المرحوم عثمان محمد حضرة
+          1	منزل المرحوم محمد فرح احمد ارصد
+          1	منزل النيل
+          1	منزل حاتم عجول
+          1	منزل حميدة عبد الرحمن ود الغرب
+          1	منزل خالد فوكس
+          1	منزل د. أمين حسين إبراهيم
+          1	منزل د. عبد الله
+          1	منزل د.أحمد عبدالقادر
+          1	منزل سام خميس
+          1	منزل صديق عبد الجبار عجول
+          1	منزل صلاح ابراهيم مصطفي و اولاده
+          1	منزل طارق
+          1	منزل طه
+          1	منزل عادل الطاهر
+          1	منزل عبد الباسط احمد الطاهر
+          1	منزل عبداللطيف قسم الله
+          1	منزل عثمان عبد الواحد
+          1	منزل عوض الجاز
+          1	منزل قسم الله محمد توم
+          1	منزل مأمون حسن كرم الله
+          1	منزل محمد ابراهيم ارصد
+          1	منزل محمد المصطفي
+          1	منزل ياسر عجول
+          2	منزل يوسف عكاشه
+          3	منسقية الخدمة الوطنية
+          1	منسقية الدفاع الشعبي
+          1	منصوركوتي
+          1	منطقة البحر الأحمر الشمال ዞባ ሰ�
+          1	منظمة تنمية الاطفال
+          1	منظمة حسن الخاتمة
+          1	منفذ جدو للبيع المخفض
+          1	منقاش للعماري الجيد
+          1	منهاتن بيوتي للتجميل
+          1	منير الرماح
+          1	مهلب العبيد
+          1	مهند خوجلي للتسويق العقاري
+          1	مواصلات الجريف شرق
+          1	موبيل
+          1	مورة
+          2	موركة
+          1	موسنارتي
+          1	موقف الاستاد
+          1	موقف البورصة
+          1	موقف السكه حديد
+          1	موقف السلمه
+          1	موقف الشبيراب
+          1	موقف الصحافة شرق
+          1	موقف الكلاكلات الداخلي
+          1	موقف الكلاكلة شرق و جبرة
+          1	موقف امدرمان القديم
+          1	موقف حافلات الستين
+          1	موقف حافلات المركز الاسلامي
+          1	موقف رقشات - شارع الوالي
+          1	موقف ساريا
+          1	موقف شروني
+          1	موقف شعبي بحري شعبي امدرمان
+          1	موقف مواصلات العشرة - الخرطوم
+          1	موقف مواصلات الميناء البري
+          1	موقف مواصلات جبل اولياء
+          1	موقف موصلات مايو
+          1	مول الواحة
+          1	مولود
+          1	ميار للتسوق
+          1	مياس هايبر ماركت
+          1	ميدان الاسود
+          1	ميدان التضامن
+          1	ميدان الشبيبة
+          1	ميدان الطلائع
+          1	ميدان الفيحاء
+          1	ميدان الكوكب
+          1	ميدان المشترى
+          2	ميدان المولد
+          1	ميدان المولد الخرطوم
+          1	ميدان الوحدة
+          1	ميدان جبرة مربع 15
+          1	ميدان رابطة ناشئي الصحافة غرب
+          1	ميدان زحل
+          1	ميدان ناشئين جبرة
+          1	ميدان نجوم افريقيا
+          1	ميس .ض
+          1	ميسم ماركت
+          1	ميعة الدبكرة
+          1	ميناء برى راس حدربة Ras Haderba Land Port
+          1	ميناس بيتزا
+          1	ناب
+          1	نادى اجتماعى
+          1	نادى اركويت
+          1	نادى الاتحاد
+          1	نادى ديم التعايشة
+          1	نادي - نايل جيم Nile Gym
+          1	نادي ابناء الباسا
+          1	نادي ابناء حلفا
+          2	نادي الاسرة
+          1	نادي الاهلي
+          1	نادي الاهلي الخرطوم
+          1	نادي البرصة
+          1	نادي التحرير
+          1	نادي الحارة الاولي
+          1	نادي الخرطوم 3
+          1	نادي الخرطوم جنوب
+          1	نادي الخوجلاب الاجتماعي
+          1	نادي الدفاع
+          1	نادي الشعلة
+          2	نادي الصبابي
+          1	نادي الصحافة مربع 23
+          1	نادي الصحافة مربع 25
+          1	نادي الصحافة مربع 27
+          1	نادي العلمين
+          1	نادي المحس
+          1	نادي المريخ
+          1	نادي المهندسين الرياضي
+          1	نادي النسر الرياضي
+          1	نادي النهضه
+          2	نادي الهلال
+          1	نادي برشلونه
+          1	نادي جبرة
+          1	نادي كفوري
+          1	نادي ود نفيع
+          1	نافذة كهرباء اركويت
+          1	نافذةكهرباء العمارات
+          1	ناما -دفرا Nama-Difra
+          1	ناوا
+          1	نبتة
+          1	نجيلة اداب
+          1	ندي العنبر
+          1	نسمه فلاي
+          1	نشاط علوم
+          1	نصب الهدرينة
+          1	نصب علي عبد الفضيل
+          1	نعمة
+          1	نفق بري
+          1	نقابة تكسي كسلا
+          1	نقطة بسط الامن الشامل
+          1	نلوة
+          1	نما الخيرية
+          2	نمرة 11
+          2	نمرة 2
+          2	نمرة 3
+          1	نمرة 4
+          1	نمرة 5
+          1	نمرة 6
+          2	نمرة 7
+          1	نمرة6
+          1	نهر الدندر
+         21	نهر النيل
+          2	نهر عطبرة
+          1	نوبي تلاجه
+          1	نور الدائم
+          1	نورالجليل
+          1	نورايا
+          1	نوراييت
+          1	نوره للتسوق
+          1	نوري
+          1	نيابة الخرطوم شمال
+          1	نيالا
+          1	نينه كافي
+          1	هابي تاني
+          1	هارفيست
+          1	هاشم حاج ابراهيم
+          1	هاشم محجوب
+          2	هبيلة
+          1	هجرة
+          1	هجليج
+          1	هدايا هدايا
+          1	هشام
+          1	همشكوريب
+          1	هنك
+          1	هيئة اذاعة وتلفزيون ولاية كسلا
+          1	هيئة التأمين الصحي ولاية الخرطو�
+          1	هيئة توصيل المياه
+          1	هيئة جامعة الخرطوم الاستشارية
+          1	هيئة سكك حديد السودان
+          1	هيا
+          1	واحة سليمة
+          1	واد طويل
+          1	وادي الصحابة
+          1	وادي المقدم
+          2	وادي الملك
+          2	وادي حسمة عمر
+          2	وادي حلفا
+          1	وادي خديجة
+          5	وادي درام
+          2	وادي شعير
+          1	وادي طويل
+          4	وادي هور
+          1	واوا
+          1	وبمي
+          1	وجبات سريعة
+          1	وجبة محظوظ
+          1	وحدة الشمال
+          1	ود أبوك
+          1	ود إمام لخدمات السيارات
+          1	ود الجمل
+          2	ود العبيد
+          1	ود الفكي اقاشي
+          1	ود النيل
+          1	ود بدر للمناسبات
+          1	ود بندة
+          1	ود دفع الله عقارات
+          1	ود رملي
+          1	ود شريف
+          1	ود مدني
+          1	ود مزمل
+          1	ود نميري
+          1	ودربيعة
+          1	ودرعية
+          1	ورشة
+          2	ورشة سيارات
+          1	ورشة قرجاج كويك سيرفس لاعمال وحل
+          1	ورشة قرجاج لأعمال وحلول النجارة
+          2	وزارة التخطيط العمراني
+          1	وزارة التربية و التعليم
+          1	وزارة الثروة الحيوانية
+          1	وزارة الرعاية الاجتماعية
+          2	وزارة الصحة ولاية الخرطوم
+          1	وزارة الصناعة
+          1	وزارة العدل
+          1	وزارة العمل
+          1	وزارة المالية
+          1	وسط مدينة
+          1	وكالة السودان للأنباء سونا
+          1	وكالة باعبود السعيدة
+          2	وكيل غاز
+          1	ولاية البحر الأحمر
+          1	ولاية الجزيرة
+          1	ولاية الخرطوم
+          1	ولاية القضارف
+          1	ولاية النيل الأبيض
+          1	ولاية النيل الأزرق
+          1	ولاية جنوب دارفور
+          1	ولاية جنوب كردفان
+          1	ولاية سنار
+          1	ولاية شرق دارفور
+          1	ولاية شمال دارفور
+          1	ولاية شمال كردفان
+          1	ولاية غرب دارفور
+          1	ولاية غرب كردفان
+          1	ولاية كسلا
+          1	ولاية نهر النيل
+          1	ولاية وسط دارفور
+          1	يابوس / Yabus Kubri
+          1	ياسر
+          1	يوناميد
+          1	ِAl-Baih
+          1	١٥
+          1	ሉግዲ ቤት ቁርሲ
+          1	ማይካድራ
+          1	ሽመለ ጋራ
+          1	ቃሮራ Karora
+          1	አማራ
+          1	ኢትዮጵያ
+          1	ኤርትራ إرتريا
+          1	ከለላ
+          1	ድንበር
+          1	ግራር ውሃ

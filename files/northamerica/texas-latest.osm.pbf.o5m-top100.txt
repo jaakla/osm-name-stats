@@ -1,0 +1,100 @@
+       1164	Main Street
+        741	Lyndon B Johnson Freeway
+        675	Whataburger
+        633	DART
+        630	2nd Street
+        605	1st Street
+        570	3rd Street
+        567	Preston Road
+        530	McDonald's
+        528	4th Street
+        518	5th Street
+        503	Shell
+        500	North Main Street
+        459	South Main Street
+        434	6th Street
+        404	North Freeway
+        398	Walmart Supercenter
+        397	Elm Street
+        385	Subway
+        385	7th Street
+        380	East Main Street
+        378	Central Expressway
+        365	Mason Road
+        363	Eastex Freeway
+        359	At and Sf Railway
+        358	Interstate Highway 10 Frontage Road
+        346	Anderson Loop
+        345	President George Bush Turnpike
+        338	Airport Freeway
+        335	North Stemmons Freeway
+        332	Valero
+        329	Starbucks
+        329	Fry Road
+        329	8th Street
+        326	West Road
+        321	Glidden Subdivision
+        319	Pine Street
+        318	Exxon
+        317	Cypresswood Drive
+        313	Sonic
+        311	West Main Street
+        310	Westheimer Road
+        310	Pecan Street
+        310	Bellaire Boulevard
+        308	Walgreens
+        305	South 1st Street
+        302	North Eldridge Parkway
+        297	Lakeview Drive
+        290	Oak Street
+        288	Gulf Freeway
+        286	West Little York Road
+        286	Pickle Parkway
+        283	Eastex Freeway Frontage Road
+        280	Katy Freeway Frontage Road
+        280	Connally Loop
+        280	Avenue B
+        279	H-E-B
+        277	Barker Cypress Road
+        274	Southwest Freeway
+        274	Avenue A
+        274	9th Street
+        272	Interstate Highway 35 Frontage Road
+        268	Northwest Freeway
+        266	Avenue C
+        263	Walnut Street
+        263	Memorial Drive
+        262	Houston Street
+        260	Private Road
+        258	Taco Bell
+        258	Katy Freeway
+        255	Beechnut Street
+        253	Church Street
+        252	Southwest Freeway Frontage Road
+        251	Jones Road
+        251	H-E-B Pharmacy
+        248	Palestine Subdivision
+        247	Richmond Avenue
+        244	Dallas North Tollway
+        243	Chick-fil-A
+        241	Louetta Road
+        240	Mockingbird Lane
+        240	Frontage Road
+        239	Airport Boulevard
+        235	East Freeway Frontage Road
+        235	10th Street
+        234	Northwest Freeway Frontage Road
+        233	Avenue D
+        232	Cypress Creek Parkway
+        231	Lakeside Drive
+        229	Midway Road
+        228	Sam Rayburn Tollway
+        227	T C Jester Boulevard
+        224	Dallas Subdivision
+        224	Coit Road
+        223	Legacy Drive
+        222	North Freeway Frontage Road
+        220	Gulf Freeway Frontage Road
+        218	Cedar Street
+        216	Schlotzsky's Deli
+        216	Clay Road

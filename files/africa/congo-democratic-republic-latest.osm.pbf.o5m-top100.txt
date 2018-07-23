@@ -1,0 +1,100 @@
+        150	?
+        137	foutain
+         86	Inga–Shaba HVDC
+         81	Hut
+         71	Lomami
+         67	Semliki
+         60	fountain
+         57	Kamina - Ilebo
+         52	Elila
+         52	Boulevard Lumumba
+         48	Lwalaba
+         46	Salonga
+         46	Lula
+         45	Lukenie
+         44	RD Congo - Rwanda
+         43	Lufira
+         40	Ulindi
+         40	RD Congo - Congo-Brazzaville
+         40	Lubudi
+         40	Loandji
+         39	Ishasha
+         38	Mbomou
+         38	Kwilu
+         38	Boma - Tshela
+         37	Congo
+         36	Chemin public
+         35	Yenge
+         35	Lubue
+         35	Avenue Circulaire
+         34	Wamba
+         34	School
+         33	Bomokandi
+         32	Tshuapa
+         32	Lido-Golf
+         31	RD Congo - Zambia
+         31	RD Congo - Angola
+         31	Maringa
+         31	Lokoro
+         30	Luka
+         29	Lwembe
+         28	Plage de pêcheurs
+         28	Lulua
+         27	Église Catholique
+         27	Luapula
+         26	Lwama
+         26	Lupori
+         26	Kampemba
+         25	Kawama
+         25	Kasaï
+         25	Avenue Lumumba
+         24	RD Congo - Uganda
+         24	Lugulu
+         24	Avenue de la Libération
+         24	Avenue Kasa-Vubu
+         23	Lokolo
+         23	Lisala-Gbadolite
+         23	Kafubu
+         22	Unknown
+         22	Lukula
+         22	Katanga
+         22	Avenue Inga
+         21	Église Méthodiste Libre
+         21	ruins
+         21	Lomela
+         21	Avenue du Marché
+         20	Rue 6
+         20	Naviundu
+         20	Mbuji-Mayi
+         20	Lubilash
+         20	Lubi
+         20	Kisanga
+         20	Kama
+         20	Centre de santé
+         20	Avenue de la Victoire
+         19	Rue 2
+         19	Nsele
+         19	Mampala
+         19	Luano
+         19	Lowa
+         19	Lobaye
+         19	Lindi
+         19	Kwango
+         19	Kigoma
+         19	Bolombo
+         18	Uele
+         18	TMB
+         18	Rue 1
+         18	Oso
+         18	Ngiri
+         18	Avenue du Commerce
+         17	Rue 3
+         17	Rue 12
+         17	Lwilaka
+         17	Luwowoshi
+         17	Lubishi
+         17	Loli
+         17	Chaussée de Kasenga
+         17	Avenue des Ecoles
+         17	Avenue de la Paix
+         16	landuse-residential

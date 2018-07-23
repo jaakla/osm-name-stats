@@ -1,0 +1,100 @@
+        717	Forest Road
+        223	Farm Road
+        190	Main Street
+        177	Oak Street
+        157	North Main Street
+        156	Elm Street
+        150	West Main Street
+        140	East Main Street
+        132	South Main Street
+        127	Pine Street
+        111	2nd Street
+        108	Shreveport Subdivision
+        108	3rd Street
+        104	Walnut Street
+        101	Little Rock Subdivision
+        100	Missouri and Northern Arkansas Railroad
+         98	Church Street
+         94	Pine Bluff Arsenal
+         93	Maple Street
+         89	Cedar Street
+         86	1st Street
+         85	Memphis Subdivision
+         84	West 3rd Street
+         84	Airport Road
+         84	4th Street
+         83	Interstate Highway 49
+         82	Circle Drive
+         82	Church of Christ
+         82	Arkansas and Missouri Railroad
+         80	Vilonia Bypass
+         80	School Street
+         79	Walmart Supercenter
+         76	West 2nd Street
+         76	First Baptist Church
+         75	East 2nd Street
+         72	Thayer South Subdivision
+         72	McDonald's
+         72	County Line Road
+         70	Hickory Street
+         67	Cherry Street
+         65	South 4th Street
+         65	East 3rd Street
+         64	River Road
+         63	Spring Street
+         63	South 3rd Street
+         62	South 2nd Street
+         62	Sheridan Bypass
+         62	Park Street
+         62	East 4th Street
+         61	Washington Street
+         61	East 6th Street
+         61	Ash Street
+         60	Mockingbird Lane
+         60	5th Street
+         59	Main
+         58	6th Street
+         56	Pecan Street
+         56	North 7th Street
+         55	West 4th Street
+         54	West 1st Street
+         54	Skyline Drive
+         54	North 1st Street
+         54	Center Street
+         53	South University Avenue
+         53	Hoxie Subdivision
+         53	East 9th Street
+         53	Dogwood Drive
+         53	Camp Joseph Robinson
+         52	Shady Lane
+         52	North 2nd Street
+         52	Mount Zion Church
+         52	Cemetery Road
+         51	West 7th Street
+         51	West 6th Street
+         51	Front Street
+         51	Country Club Road
+         50	West 8th Street
+         50	South 1st Street
+         50	Ridge Road
+         50	Pine Bluff Subdivision
+         50	Jackson Street
+         48	South 6th Street
+         48	Sonic
+         48	Lakeview Drive
+         47	Willow Street
+         47	South Pine Street
+         47	North Oak Street
+         47	North 6th Street
+         46	Round Mountain
+         46	North Street
+         46	Joe N Martin Expressway
+         46	Fulbright Expressway
+         46	East Grand Avenue
+         46	East 1st Street
+         46	East 10th Street
+         45	West Elm Street
+         45	West 5th Street
+         45	Vine Street
+         45	South Oak Street
+         45	South 5th Street

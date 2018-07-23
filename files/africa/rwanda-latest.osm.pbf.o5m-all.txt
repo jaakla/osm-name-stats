@@ -1,0 +1,5185 @@
+          2	-1
+          1	-13
+          1	-14
+          1	-17
+          1	-18
+          1	-19
+          1	-20
+          1	-24
+          1	-25
+          1	-26
+          1	-3
+          3	-37
+          2	-38
+          2	-39
+          2	-40
+          1	-41
+          1	-42
+          1	-8
+          1	101 CBD → Remera
+          1	101 Remera → CBD
+          1	103 CBD → Rubilizi
+          1	103 Rubilizi → CBD
+          1	105 Nyabugogo → Kacyiru → Remera
+          1	105 Remera → Kacyiru → Nyabugogo
+          1	106 Ndera → Remera
+          1	106 Remera → Ndera
+          1	107 Masaka → Remera
+          1	107 Remera → Masaka
+          1	108 Nyanza → Remera
+          1	108 Remera → Nyanza
+          1	109 Bwerankoli → Remera
+          1	109 Remera → Bwerankoli
+          1	113 Remera → Rubilizi
+          1	113 Rubilizi → Remera
+          1	114 Kanombe → Remera
+          1	114 Remera → Kanombe
+          1	15
+          1	1660 m
+          1	1840 m
+          1	201 CBD → St. Joseph
+          1	201 St. Joseph → CBD
+          1	203 CBD → Gatenga → Nyanza
+          1	203 Nyanza → Gatenga → CBD
+          1	205 Bwerankoli → CBD
+          1	205 CBD → Bwerankoli
+          1	213 Kimironko → Nyanza
+          1	213 Nyanza → Kimironko
+          1	215 Bwerankoli → Kimironko
+          1	215 Kimironko → Bwerankoli
+          1	302 CBD → Kimironko
+          1	302 Kimironko → CBD
+          1	303 Batsinda → CBD
+          1	303 CBD → Batsinda
+          1	304 CBD → Kacyiru
+          1	305  Nyabugogo → Kimironko
+          1	305 Kimironko → Nyabugogo
+          1	308 CBD → Zindiro
+          1	308 Zindiro → CBD
+          1	309 Kimironko → Kinyinya
+          1	309 Kinyinya → Kimironko
+          1	310 Batsinda → Nyabugogo
+          1	310 Nyabugogo → Batsinda
+          1	311 Kagugu → ULK → Nyabugogo
+          1	311 Nyabugogo → ULK → Kagugu
+          1	313 CBD → ULK → Kagugu
+          1	313 Kagugu → ULK → CBD
+          1	314 Kimironko → Kibagabaga → Nyabugogo
+          1	314 Nyabugogo → Kibagabaga → Kimironko
+          1	315 Kinyinya → Nyabugogo
+          1	315 Nyabugogo → Kinyinya
+          1	316 Kimironko → Zindiro
+          1	316 Zindiro → Kimironko
+          1	318 Batsinda → Kimironko
+          1	318 Kimironko → Batsinda
+          1	322 Kimironko → Masaka
+          1	322 Masaka → Kimironko
+          1	325 Kabuga → Kimironko
+          1	325 Kimironko → Kabuga
+          1	4 Blooms
+          1	401 CBD → Rya Nyuma
+          1	401 Rya Nyuma → CBD
+          1	402 CBD → Nyabugogo → Rya Nyuma
+          1	402 Rya Nyuma → Nyabugogo → CBD
+          1	403 CBD → Nyacyonga
+          1	403 Nyacyonga → CBD
+          1	404 Bishenyi → Nyabugogo
+          1	404 Nyabugogo → Bishenyi
+          1	7th Day Adventist church
+          1	A-G2
+          1	A-L1
+          1	A-S1
+          1	A-S2
+          1	A-S3
+          1	A-S4
+          1	ABBA House
+          1	ACCESS Bank
+          1	ADB Football field
+          1	ADB High School
+          3	ADEPR
+          1	ADEPR Kabeza
+          1	ADEPR Kimihurura
+          1	ADPR Rutobwe
+          1	AEBR Buberuka
+          1	AEBR Bugesera
+          1	AEBR Bugesera (Nyabagadwa Parish)
+          1	AEBR Bumba
+          2	AEBR Bumbogo
+          1	AEBR Butare Parish
+          1	AEBR Byahi
+          1	AEBR Cyinyanzovu
+          1	AEBR Gikongoro
+          1	AEBR Gikongoro, Musebeya Parish
+          1	AEBR Gikumbi
+          1	AEBR Gisenyi
+          2	AEBR Gitwe
+          1	AEBR Head Office
+          1	AEBR Kacyiru
+          1	AEBR Kagano
+          1	AEBR Kibuye
+          1	AEBR Kigusa
+          1	AEBR Kigusa Primary School
+          1	AEBR Kijote
+          1	AEBR Mahama
+          2	AEBR Murindi
+          1	AEBR Musanze
+          1	AEBR Musanze School
+          1	AEBR Nyabagandwa Elementary School
+          1	AEBR Nyangahinika
+          1	AEBR Nyarusange
+          1	AEBR Rubungo
+          1	AEBR Ruhengeri
+          1	AEDPR Mahama
+          1	AGS Country Club
+          1	ALPHA PALACA HOTEL
+          2	AMIR House
+          1	APAPER Primary School
+          1	APARTMENTS
+          1	APEDDH
+          1	APEDDH (Action Pour l’Education et la Défense des Droits
+          1	APEDDH (Human Rights Defenders)
+          1	APEKA college school
+          1	APPAPE College
+          1	APPAPEC IREBERO School
+          1	APRFC, Football Club
+          1	AS&SS
+          1	AS-10
+          1	AS-8
+          1	AS-9
+          1	ASSEMBLY DE DIEU
+          1	AUCA Masters Program
+          1	AZ IMPEX
+          1	Acacia book cafe
+          1	Access Bank Remera
+          1	Active Social Architecture
+          1	Administration Building
+          1	Adventist Church
+          1	Adventist Dental Clinic
+          1	Adventist Medical Clinic
+          1	Adventist University of Central Africa
+          1	Adventist University of Central Africa…
+          1	Africa Bite
+          1	Africa Moses House
+          1	African Bite
+          1	African Muslim Agency Kigali(AMA)
+          1	Africana Bistro
+          1	Agaciro
+          1	Agaciro Lodge
+          1	Agaciro Restaurant
+          1	Agahozo-Shalom Youth Village
+          3	Agasasa
+          4	Agatare
+          4	Agatobwe
+          1	Agatorove
+          1	Agriculture Product Market
+          1	AgroVet
+          1	Aigle Blanc
+          2	Airtel
+          2	Akaboti
+          1	Akagali ka Nyagatovu
+         22	Akagera
+          2	Akagera Game Lodge
+          1	Akagera National Park
+          1	Akagera National Park Visitor Centre
+          1	Akagera Park Welcome Centre
+          1	Akagera River
+          1	Akagogo
+         31	Akanyaru
+          1	Akavuguto
+          1	Akazi Kanoze. Youth Livelihood Project
+          1	Al mannu
+          1	Alex
+          1	Alimentation shop
+          1	All Business Offices
+          1	Alpha Palace
+          1	Amafu Restaurant
+          1	Amahoro
+          2	Amajvepfo
+          1	Amaris Hotel and Restaurant
+          1	Amashya
+          1	Ambassade de France
+          1	Ambassade de la Confédération suisse
+          1	Ambassade de la Fédération de Russie
+          1	Ambassade de la République de l'Ouganda
+          1	Ambassade de la République française
+          1	Ambassade de la République fédérale d'Allemagne
+          1	Ambassade de la République populaire de Chine
+          1	Ambassade du Royaume de Belgique
+          1	Amizero lodge
+          1	Anglican Cathedral
+          1	Any Cafe
+          2	Apartment
+          1	Apostolic. Original Building
+          1	Ardek village
+          1	Ariho Nursery And Primary School
+          1	Army Base
+          1	Aromas Coffee
+          1	Asia Kitchen
+          1	Asoferwa: Association de Solidairite des Femmes Rwandaises
+          2	Atraco Bus
+          1	Auberge Bel Angle
+          1	Auberge De Gisenyi
+          1	Auberge La Caverne
+          1	Auditoire
+          1	Aurore House
+          1	Auto Track Garage
+          1	AutoXpress
+          1	Aux Délices Éternels
+          1	Auxiliary Parish Buildings
+          2	Avega Est Administration
+          2	Avega Guest House
+          1	Avenue Accasias
+          1	Avenue Bougainvilliers
+          2	Avenue Chantal
+          1	Avenue Genevieve
+          1	Avenue Hecq
+          1	Avenue Lieutenant Lange
+          1	Avenue Lushoze
+          5	Avenue Mikeno
+          1	Avenue Muhumba
+          1	Avenue Orchidée
+          1	Avenue Orchidées
+          2	Avenue Patrice Emeri Lumumba
+          1	Avenue Paysage
+          2	Avenue President Mobutu
+          2	Avenue de Golfe
+          1	Avenue de La Montagne
+          1	Avenue de La Ruzizi
+          2	Avenue de l'Universite
+          4	Avenue de l'indépendance
+          2	Avenue de la Corniche
+          1	Avenue de la Nutrition
+          1	Avenue des Grevilleas
+          1	Avenue du Kahuzi
+          1	Avenue du Lac
+          1	Avenue du Plateau
+          1	Avenue du Tanganyika
+          1	Aziz
+          3	Aéroport International de Goma
+          1	Aéroport de Gisenyi
+          1	B-1
+          1	B-10
+          1	B-11
+          1	B-12
+          3	B-13
+          3	B-14
+          1	B-15
+          1	B-16
+          1	B-17
+          1	B-17W
+          1	B-2
+          1	B-21
+          1	B-23
+          1	B-26
+          1	B-27
+          1	B-28
+          3	B-29
+          1	B-3
+          1	B-31
+          3	B-32
+          1	B-34
+          1	B-35
+          2	B-36
+          1	B-38
+          1	B-41
+          1	B-42
+          2	B-43
+          3	B-44
+          3	B-45
+          1	B-46
+          1	B-47
+          1	B-5
+          1	B-53
+          1	B-6
+          2	B-7
+          4	B-8
+          1	B-9
+          1	B-G5
+          1	B-L1
+          1	B-L8
+          1	B-S12
+          1	B-S13
+          1	B-S4
+          1	B-S5
+          1	B-S6
+          1	B1
+          2	BANDAG
+          1	BANK POPULAIRE
+          1	BC-1
+          1	BCR Nyamirambo Branch
+          1	BCR remera Branch
+          2	BFU Bank
+          1	BG-4
+          1	BIRYOGO
+          1	BK ATM Cashpoint
+          1	BL-9
+          1	BNR (National Bank of Rwanda)
+          1	BS-2
+          3	BUiiding house
+          1	Babab
+          8	Bahimba
+          3	Bakokwe
+          1	Bakonrwe
+          1	Bamboo Rooftop Restaurant
+          1	Bambou Nest Hotel
+          1	Banana Bar
+          1	Banda Community Campsite
+          1	Bank Of Kigali Remera 1
+          1	Bank Populaire du Rwanda, Kacyiru Branch
+         12	Bank of Kigali
+          1	Bank of Kigali - Kacyiru
+          1	Bank of Kigali Butaro branch
+          1	Bank of Kigali-Kimironko Branch
+          1	Bank of kigali remera
+          1	Banque Commerciale du Rwanda
+          1	Banque Populaire Rwanda
+          1	Banque Populaire du Rwanda
+          1	Banque Populaire du Rwanda-Kimironko Branch
+          1	Bar
+          1	Bar Chez Hirwa
+          1	Bar Umucyo
+          2	Baramba
+          1	Bare
+          2	Barobo
+          1	Barrage Ruzizi
+         15	Base
+          1	Basesakazi
+          1	Basket E.S. St. Marcel Rukara
+          1	Basketball Court
+          3	Basketball Terain
+          1	Batsinda
+          3	Bayombe
+          1	Bazirette
+          1	Beauséjour
+          1	Beer Garden
+          1	Beijing Tangren Restaurant
+          1	Belgian Soldiers' Memorial
+          1	Bella Villa Appartments
+          1	Bergium Common TVE T
+          1	Best View Hotel
+          1	Bethany Hotel
+          1	Bethany Investment Group EPR Hostel
+          1	Bethsaida Ministries International
+          1	Bicycle shops
+          1	Bigaaga Primary School
+          4	Bigaga
+          2	Bigogwe
+          1	Bihari
+          5	Bihongora
+          1	Bikini Tam Tam
+          1	Bilikana
+          1	Biology&Chemestry Labaratory
+          2	Birambo
+          1	Birarabikenyeye
+          1	Bird Watchtower
+          1	Birembo
+          1	Biryogo
+          1	Biryogo Market
+          1	Bisesero Genocide Memorial
+          1	Bishenyi
+          4	Bishya
+          1	Bisogi
+          1	Bisoke Crater Lake
+          2	Bizi
+          1	Bizitire
+          1	Black & White
+          1	Block A'Level
+          1	Block O'Level
+          1	Blooming Buds
+          1	Blue Building
+          1	Blue Star House
+          1	Blue star House
+          1	Boat Lake Nyagafunzo
+          1	Bojo
+          1	Bona Fide Law Chambers
+          1	Boneza
+          2	Bookshop Caritas
+          2	Border Bugarama - Muganza
+         37	Border Burundi - Rwanda
+          1	Border Control
+          1	Border Gashonga - Nkungu
+          1	Border Gashonga - Nyakarenzo
+          2	Border Gikundamvura - Butare
+          1	Border Gikundamvura - Nyakabuye
+          1	Border Gitambi - Gashonga
+          1	Border Gitambi - Nkungu
+          1	Border Gitambi - Nyakabuye
+         10	Border Iburengerazuba - Amajyepfo
+          1	Border Muganza - Gikundamvura
+          1	Border Muganza - Gitambi
+          1	Border Muganza - Nyakabuye
+          1	Border Nzahaha - Bugarama
+          1	Border Nzahaha - Gashonga
+          1	Border Nzahaha - Muganza
+          1	Border Nzahaha - Rwimbogo
+         12	Border Rusizi - Nyamasheke
+          1	Border Rwimbogo - Gashonga
+          1	Border Rwimbogo - Gitambi
+          1	Border Rwimbogo - Muganza
+          1	Boulevard de L'abattoire
+          1	Boulevard de Nyabugogo
+          1	Boulevard de l'OUA
+          3	Boulevard de l'OUA - African Union Boulevard
+          2	Bourbon Cafe
+          1	Bourbon Coffee
+          1	Boutique Karibu
+          1	Brachetto
+          1	Bralirwa Brewery
+          1	Bralirwa Sales & Marketing
+          1	Brioche
+          1	British Embassy
+          1	British High Commission
+          1	Brood
+          1	Brood!
+          3	Budibi
+          1	Bufindi
+          1	Bugabira
+          1	Buganda - Adventiste
+          2	Buganya
+          1	Bugarama
+          1	Bugesera
+          1	Bugesera International Airport
+          1	Buguna
+          1	Bugushi
+          1	Buhabwa
+          1	Buhaga
+          1	Buhanda
+          2	Buhande Village
+          1	Buhinga
+          3	Buhoro
+          1	Buhumba
+          1	Bukavu
+          1	Bukomero Primary School
+          1	Bukongora
+          1	Bukure
+          1	Bulenggia
+          6	Bulimba
+          1	Bulinga
+          2	Bumba
+          1	Bumba basecamp
+          1	Bumbogo
+          1	Bungeshi Mukuru
+          2	Bungwe
+          1	Bupfune
+          1	Burambira
+          1	Burega
+          1	Burehe
+          1	Burera
+          1	Burigi Forrest Reserve
+          1	Buruhukiro
+          1	Burundi
+          1	Burundi Border Offices
+          1	Bus Station
+          1	Busamana
+          1	Busanze
+          2	Busasamana
+          1	Busengo
+          1	Bushekeri
+          3	Bushenge
+          1	Bushenyi
+          1	Bushoki
+          1	Busiga
+          2	Busogo
+          1	Busoni
+          1	Busora
+          2	Busoro
+          1	Butamwa
+          1	Butanda Primary School
+          1	Butanda Secondary School
+          2	Butare
+          1	Butare Airport
+          1	Butare primary school
+          1	Butaro
+          1	Butaro Cancer Centre of Excellence Infusion Centre
+          1	Butaro Health Centre
+          3	Butaro Hospital
+          1	Butaro Primary School
+          2	Butezi
+          2	Buyanja secondary road
+          6	Buyanja tertiary road
+          1	Buye avenue
+          1	Buyoga
+          1	Buyongwe
+          1	Buyonza Village
+          1	Buyungu
+          1	Buziragahama
+          1	Bwerama
+          1	Bwerankoli
+          1	Bweya
+          1	Bweyeye
+          1	Bwira
+          1	Bwishyura
+          1	Bwisige
+          2	Bwongera
+          1	Bwuje
+          1	Byangabo
+          1	Byanone
+          3	Byimana
+          1	Byimana School of Sciences
+          2	Byumba
+          1	C.G.F.K Classes block
+          2	CAR WASH
+          1	CBD
+          1	CD1
+          1	CD2
+          1	CDS BUZIRAGAHAMA
+          1	CDS CAMAKOMBE
+          1	CDS IZERE
+          1	CDS RUHORORO;Ruhororo
+          1	CDS RYAMUKONA
+          1	CECA 40 Nguba
+          1	CEMERWA
+          1	CESTRAR
+          1	CGFK School
+          1	CGIS Centre - National University of Rwanda
+          1	CHUK
+          1	CHUK KN3
+          1	CHUK Maternité
+          2	CMF Abagore Farming Cooperative
+          1	CMU Rwanda
+          1	COSMOS HOUSE
+          1	CSS ZIgama HQ Building
+          2	CSS Zigama HQ Building
+          1	CTC Gabiro
+          1	Cabaret Bar
+          1	Cactus
+          1	Cactus restaurant
+          1	Cafe Connexion
+          1	Cafe Neo
+          2	Cafe de Gikondo
+          1	Cafe de Nyamata
+          2	Caiman
+          1	Caiman Swimming Pool
+          1	California Restarurant
+          1	Camp Kigali
+          1	Camping Bethanie
+          1	Camping One Love Club
+          1	Campus Head Office
+          1	Campus Library
+          1	Campus Main Auditorium
+          1	Cana Notre dame des anges
+          1	Canon dealer
+          1	Canopy Walkway
+          1	Canteen good and cheap
+          1	Caplaki Crafts Market
+          1	Car Parking
+          2	Car Wash
+          1	Car Wash (Ku babibikira)
+          1	Car wash
+          1	Career Center
+          1	Carnegie Mellon University in Rwanda
+          1	Carrefour supermarket
+          1	Carreful Polyclinic
+          1	Carrier
+          1	Casa Keza
+          1	Casa hotel
+          1	Catholic Church Kicukiro
+          2	Catholic Primary School
+          1	Catholic University of Rwanda
+          1	Cathédrale Saint-Michel
+          2	Cefe Restaurant Olympiade
+          1	Centenary Building
+          1	Center d'Accueil Saint François Xavier
+          1	Center of shops
+          1	Centre Bethanie
+          1	Centre Culturel Franco Rwandais
+          1	Centre National Pastorale
+          1	Centre Saint-André
+          1	Centre Socio Administrative - Umuryango wa abasoma Bibiliya
+          1	Centre Socio Culturel Twese Hamwe
+          1	Centre d'accueil de l'Eglise Presbyterienne
+          1	Centre de Formation de l’Eglise Anglicaine
+          1	Centre de Sante Street
+          1	Centre de Santé
+          1	Centre de Santé et Maternité de Nyagasambu
+          1	Centre de jeunesse
+          1	Centre d’Accueil Mater Boni Consilii
+          3	Centre for Champions
+          1	Century Parks
+          3	Cercle Sportif
+          1	Cercle Sportif de Kigali
+          1	Cerena motel
+          1	Chahafi
+          1	Chahi
+          1	Chap Chap
+          1	Chez Camarade
+          1	Chez Cishahayo
+          1	Chez John
+          1	Chez Lando
+          1	Chez Robert
+          1	Chez Venant
+          1	Chez Wendy
+          3	Children Might Foundation
+          2	Chinese Restaurant
+          1	Christ Church of Rwanda
+          1	Christian Life Assembly
+          1	Church
+          1	Church Catholic St. Francisco Xavier
+          1	Church Ntarama - Genocid Memorial
+          1	Church Pentecontist
+          1	Church of Edwin
+          1	Cibitoke
+          1	Cidasa
+          1	Cinestar
+          1	Ciné Elmay (Kwa Mayaka)
+          1	City Arts. Performing Arts School
+          1	City Blue Hotel
+          1	City market
+          1	Cité de la miséricorde
+          1	Civitas Hotel
+          1	Classes
+         10	Classrooms
+          1	Clinique Bien Naitre
+          1	Clinique Solamer de Kimihurura
+          1	Cloud 9
+          1	Coco Lodge
+          1	Cocobean
+          1	Cogebanque
+          1	Coko
+          1	Collège St André
+          1	Collége Alfajiri
+          1	Computer Lab
+          1	Congebanque
+          1	Congo Nil Center
+          1	Congo Nile Trail
+          1	Congoli
+          1	Conseille Pharmacy
+          1	Consolate of the Democratic Republic of Congo
+          1	Controle Technique
+          1	Convenience Store
+          1	Convention Center
+          1	Cool Garden
+          1	Cooperatives buildings
+          1	Corina K
+          1	Cormoran Lodge
+          1	Corniche de Nia-Lukemba
+          2	Cosmos
+          1	Cow
+          1	Cow house
+          1	Craft Market Zone "Rapesh"
+          1	Craft Shop
+          1	Creamery - Milk Production
+          1	Creative Eye Designs
+          1	Crema Coffee Shop
+          1	Crescendo
+          1	Crete Zaire-Nil
+          1	Croix -Rouge Nguba
+          1	Crystal Market
+          1	Cumbati
+          1	Customs & Immigration
+          1	Customs and Border Police
+          1	Cyabakamyi
+          1	Cyabakamyi Genocide Memorial
+          1	Cyabakamyi Sector Office
+          1	Cyabakamyi Sector SACCO
+          3	Cyabariza
+          2	Cyabingo
+          4	Cyacika
+          1	Cyagara
+          2	Cyahan
+          3	Cyahinda
+         39	Cyahinda Secondary School
+          5	Cyahinda primary school
+          1	Cyamabuye
+          1	Cyamudongo Tourism Promotion Cooperative
+          1	Cyamutara
+          1	Cyangugu
+          6	Cyanika
+          1	Cyanika A
+          1	Cyanika B Primary School
+          1	Cyanyarwe
+          4	Cyarumbo Coffee Washing Station
+          1	Cyato
+          2	Cyber Cafe
+          1	Cyeru
+          3	Cyeza
+          1	Cyihene
+          1	Cyihinda cyarwa road
+          1	Cyili
+          2	Cyimbiri basecamp
+          1	Cyimbiri water falls
+          1	Cyinzuzi
+          1	Cymbiri Baptist Bible School and Health Center
+          1	Cyogo
+          7	Cyohoha
+          1	Cyome
+          6	Cyonyonyo
+          1	Cyprien
+          1	Cyrzanye
+          1	Cyugaro
+          1	Cyumba
+          1	Cyungo
+          2	Cyunuzi
+          3	Cyunyu
+          2	Cyuve
+          1	DELWAT
+          1	DHL head office
+          1	DHM
+          2	DR 66
+          1	DUHAMIC-ADRI BUREAU ANTENNE SUD
+          1	Dash-s Technologies Inc
+          1	Davis & Shirtliff
+          1	Delistore
+          1	Delta Petrol / Gas Station
+          1	Denys
+          1	Denys2
+          1	Deutsche Welle
+          1	Dian Fossey Grave
+          1	Dian Fossey Hut
+          1	Diane Fossey Rutsiro
+          1	Diane Fossey Site - Bisoke Crater Lake
+          2	Diesel Centre
+          2	Discentre
+          2	Discover Rwanda
+          1	Discover Rwanda Ecolodge
+          1	Discover Rwanda Youth Hostel (new location)
+          1	Dispensaire Umushumba
+          1	Dispensary
+          1	District Rutsiro Office
+          1	Dmall
+          1	Dolce Pizzeria
+          1	Don Bosco
+          2	Dortaire for Gills
+          1	Dortoire for Boys
+          2	Douche
+          1	Downtown
+          1	Drain
+          1	Driving School
+          1	Dusaidi hostels
+          1	Dutch Embassy
+          1	Duterimbere
+          5	E.A.V. K
+          1	E.A.V.Kabutare
+          1	E.P. Cyabakamyi
+          1	E.P. Gatongati
+          1	EAR Kacyiru
+          1	EAV Kivumu
+          1	ECD1
+          1	ECD2
+          1	ECOLE ISLAMIQUE - KACYIRU
+          1	EGECOR
+          1	EGLISE St MARIE
+          1	EMALA'US HOSTEL
+          1	EMUJECO
+          1	ENDP Karubanda
+          1	ENGEN
+          1	ENGEN Petrol Station
+          1	ERP
+          1	ES Cyinzovu
+          1	EWSA Kimisagara
+          1	Earth and Child
+          2	Eastern Province Administrative Block
+          1	Eastgate Supermarket
+          2	Ebenezer House
+          1	Ebenezer Junior Academy
+          1	Eco Bank Kimironko
+          7	Ecobank
+          1	Ecole Francaise Antoine de Saint Exupery
+          1	Ecole International de Kigali
+          1	Ecole Maternelle St. Josepha Rossello
+          1	Ecole Primaire Saint Famille
+          1	Ecole Primaire de Kimihurura
+          1	Ecole Primaire de Mburabuturo
+          1	Ecole Primaire de Nyagasambu
+          1	Ecole Secondaire Islamique(ESSI NYAMIRAMBO)
+          1	Ecole Secondaire St. Marcel de Rukara
+          1	Ecole Techique de Formation Professionnelle
+          1	Ecole Technique Nyamata
+          1	Ecole de Buziragahama
+          1	Ecole des Sciences
+          1	Ecole international Des Parents Des Butare
+          1	Ecole primaire 3é Cbk Ibinja
+          1	Ecole primaire Ibinja
+          1	Ecole primaire Kadutu
+          1	Ecole primaire Lubiri
+          1	Ecole primaire Nguba
+          1	Ecole primaire Nyamukandagwe
+          1	Ecole primaire Tuendelee
+          1	Ecole secondaire Inst Ibinja
+          1	Ecolodge
+          1	Eglise Adventiste du 7ème jours Nyamirambo
+          1	Eglise Methodiste de Gikondo
+          1	Eglise Presbyterianne du Rwanda
+          1	Eglise Saint Michel
+          1	Eglise St Etienne
+          1	Eglise Vivante de Jesus Christ
+          1	Egypt Embassy
+          1	Elena Guerra
+          1	Elite Hotel Rwanda
+          1	Elite motel
+          1	Embassy of Burundi
+          1	Embassy of Egypt
+          1	Embassy of France
+          1	Embassy of Japan
+          1	Embassy of Kenya
+          1	Embassy of Libya
+          1	Embassy of Sweden
+          1	Embassy of The Netherlands
+          1	Embassy of Uganda
+          1	Emeraude Kivu Resort
+          1	Emmaus Hostel
+          1	Emujeco
+          1	Energy Kiosk
+          2	Energy Water and Sanitation Authority
+          1	Energy Water and Sanitation Authority head office
+          6	Engen
+          1	Engenl
+          1	Equity Bank
+          1	Equity Bank (HQ)
+          3	Escaf Primary School
+          1	Esperanza Motel
+          1	Esri Rwanda Ltd.
+          1	Ethiopian Airlines
+          1	Ethnographic Museum of Rwanda
+          1	Evangelical Restoration Church
+          1	Excel Daycare and Nursery School
+          1	Excel Nursery Primary School
+          1	FANTASTIC RESTAURANT
+          1	FARG Rwanda
+          1	FINA BANK
+          1	FOTOLAB DIGITAL
+          1	FXB Rwanda Country Coordination Office
+          1	Fancy Saloon
+          1	Faradja Hotel
+          2	Farm
+          1	Fat Mama's Kitchen
+          1	Fatinkanda
+          1	Fawe Girls School
+          1	Ferry Port
+          1	Fina Bank
+          1	Fishing Village
+          1	Fishing traps
+          1	Five Volcanoes Boutique Hotel
+          1	Five to Five Hotel
+          1	Flag
+          1	Food Court
+          1	Football Ground
+          1	Forest Garden Hotel
+          1	Four Seasons Hotel
+          1	Four Seasons Residence
+          1	Four Square Church
+          1	Foyer de Charité
+          1	Foyette des Sacres Coeurs
+          1	Free Trade Zone
+          1	Freedom Hotel
+          1	Fresh & Easy Ltd. Grocery Store
+          2	Friends Church
+          1	Fromagerie
+          1	Frontier RWANDA DRC
+          1	Frulep
+          1	Fuchsia
+          1	Fumbwe
+          1	Futtern bei Papa (first floor)
+          1	Future Supermarket
+          1	G.S Kimironko I
+          1	G.S. Kadaho
+          1	G.S. Nyabinyenga
+          1	G.S. Nyagisozi
+          1	G.S. Rubona
+          1	G.S.Gatagara
+          1	G.S.O.B( Indatwa n'Inkesha school)
+          1	G.S.St Justin Nyaruteja
+          1	GEREZA YA KIGALI 1930
+          1	GRACE HOTEL
+          1	GS St. Bonaventure Nkanka
+          1	GSM tower
+          2	GT Bank
+          1	GTZ Storage
+          1	Gabiro Airport
+          1	Gacaca
+          1	Gacaca road
+          1	Gacurabwenge
+          2	Gacuriro
+          1	Gagaca
+          1	Gahanga
+          3	Gahara
+          2	Gahengeri
+          1	Gahini Hospital
+          1	Gahishyi
+          1	Gahunga
+          5	Gakenke
+          1	Gakenke Bus Stop
+          1	Gakenyeri
+          1	Gakeri
+          2	Gakinjiro
+          1	Gakirarugo
+          1	Gako Village
+          2	Gakoma
+          2	Gakoni
+          1	Gakoro
+          2	Gapco
+          1	Gaporo
+          1	Garage Sebalex
+          1	Garbage Hill Kigali
+          1	Gardens for Health International
+          1	Gas Oil
+          2	Gasabo
+          1	Gasabo District Office
+          1	Gasaka
+          1	Gasange
+          1	Gasave
+          1	Gasave Primary School
+          1	Gasayo
+          4	Gaseke
+          1	Gasenyi
+          1	Gashaki
+          1	Gashanda
+          1	Gashangara
+          1	Gasharara
+          1	Gashari
+          1	Gashashi
+          1	Gashenyi
+          1	Gashonga
+          3	Gashonge
+          2	Gashora
+          1	Gasimo
+          1	Gasiza
+          1	Gasiza Village
+          1	Gasoro
+          2	Gasuma
+          1	Gasumbashyama Road
+          1	Gatabe
+          2	Gatagara
+          1	Gataka
+          1	Gataraga
+         12	Gatare
+          1	Gatega
+          1	Gatenga
+          1	Gatete
+          1	Gatimbazi
+          3	Gatoki
+          1	Gatonde
+          1	Gatongati
+          2	Gatore
+          1	Gatovu
+          1	Gatsata / Karuruma
+          2	Gatsibo
+          1	Gatua Borderpost
+          1	Gatubozi
+          1	Gatuk 1
+          1	Gatuk 2
+          1	Gatumba
+          1	Gatuna
+          1	Gatunda
+          1	Gaçaça Restaurant
+          1	Gender Based Violence Service
+          1	Gender Monitoring Office
+          1	Generator house
+          2	Genocide Memorial
+          1	Genocide Memorial Museum
+          1	Genocide-Memorial Butare
+          1	Genocide-Memorial Kibuye
+          1	Geology and Mines Department
+          1	Gereza garage
+          1	Gereza ya Kigali
+          1	German Butchery
+          1	German Cooperation
+          9	Giciye
+          2	Gicumbi
+          1	Gihamba
+          1	Gihanga
+          1	Gihango
+          1	Gihara
+          1	Giheke
+          3	Gihimbi
+          3	Gihinga
+          1	Gihingai
+          1	Gihombo
+          1	Gihugo
+          1	Gihundwe
+          1	Gikeli
+          1	Gikondo Catholic church
+          1	Gikondo Expo Ground
+          1	Gikondo Market
+          1	Gikondo Police Station
+          2	Gikondo Primary School
+          1	Gikondo Primary school
+          2	Gikonko
+          5	Gikoro
+          1	Gikuba
+          2	Gikuma
+          1	Gikundamvura
+          1	Giraffe Area
+          3	Gisagara
+          1	Gisakura
+          1	Gisakura Family Hostel
+          1	Gisakura Guesthouse
+          1	Gisakura Ranger Station
+          2	Gisaya
+          1	Gisaze
+          3	Giseke
+          2	Gisenyi
+          1	Gisenyi Urbain
+          1	Giserore
+          1	Gishamvu
+          3	Gisharara
+          1	Gishubi
+          2	Gishushu
+          1	Gishwati Natural Reserve
+          1	Gishyiata
+          1	Gisoro
+          1	Gisovu Tea Estate Guesthouse
+          1	Gisozi
+          5	Gisuma
+          1	Gisunzu
+          6	Giswi
+          2	Gisyita
+          1	Gitaba
+          2	Gitakuzi
+          1	Gitambi
+          1	Gitarama
+          1	Gitebe
+          1	Gitega
+          1	Giteranyi
+          1	Gitesi
+          1	Giti
+          1	Gitisi
+          1	Gitogonyore
+          1	Gitoki
+          2	Gitovu
+          1	Gituza
+          2	Gitwe
+          1	Gitwe Hospital
+          1	Gladden coffee buffet
+          1	Glory House
+          1	Goethe-Institut
+          1	Golden Hills Hotel
+          1	Golden Monkey Hotel
+          1	Golden Tulip La Palisse
+          1	Golf Eden Rock
+          1	Golf Hills Residence
+          1	Goma
+          1	Goma Urbain
+          2	Goodyear
+          1	Gorilla Doctors
+          1	Gorilla Graveyard
+          1	Gorilla Safaris
+          1	Gorillas Golf
+          1	Gorillas Lake
+          1	Grand Bar du Rond Point
+          1	Grand Insurance Plaza
+          1	Grand Jardin
+          1	Grand Legacy Hotel
+          1	Grand Pension Plaza
+          1	Green Garden
+          1	Green Hills Academy
+          1	Green Hills Soccer/Rugby Field
+          1	Green Hills indoor Basketball courts
+          1	Green Scarf Salon
+         14	Group Scolaire Muhambara
+          1	Groupe Scholaire APE Rugunga
+          1	Groupe Scolaire Musasa
+          1	Groupe Scolaire Muzizi
+          1	Groupe Scolaire Rambura Garcons
+          1	Groupe Scolaire Rambura-Fille
+          1	Groupe Scolaire St Raphael Rambura
+          1	Groupe Scolaire des Parents
+          1	Guriro
+          1	Gusiga
+          1	HCR Bukavu
+          1	HE
+          1	HIV
+          1	HOPE church
+          1	HOTEL MUSANTO GISENYI
+          1	HOTEL SAINT ANNE
+          1	Habesha Ethiopian Restaurant
+          1	Habibi
+          1	Habyarimana
+          1	Hairdresser
+          1	Hakekuba
+          1	Hanika
+          1	Happy Day Restaurent
+          1	Happy Hearts Daycare
+          1	Happy Hour
+          2	Hashi Energy
+          1	Headmaster's Accomodation
+          1	Headmaster's Office
+          1	Health Center
+          1	Heaven
+          1	Hello World
+          1	High commission of Tanzania, office
+          1	Higiro
+          1	Hillside Nursery School
+          2	Hindiro
+          2	Holiday Hotel
+          1	Home INES
+          1	Home Inn Hotel
+          2	Home St Jean
+          1	Home St. François
+          1	Honorary Consulate of the Czech Republic
+          1	Hope Guest House
+          1	Hope Guesthouse
+          1	Hospital
+          1	Hospital Surgery
+          1	Hot Springs
+          1	Hotal Le Printemps
+          1	Hotel Barthos
+          1	Hotel Beausejour
+          1	Hotel Beaux Arts
+          1	Hotel Chez Lando
+          1	Hotel Chez Lando Restaurant
+          1	Hotel Chez Lando VIP Restaurant
+          1	Hotel Credo
+          1	Hotel Faucon
+          1	Hotel Horizon
+          1	Hotel Ibis
+          1	Hotel Malahide Paradis
+          1	Hotel Muhabura
+          1	Hotel Panafrique
+          1	Hotel de Chutes
+          1	Hotel des Pyrénées
+         17	House
+          1	House for Cows
+          4	Huye
+          1	Huye (Butare) Bus Station
+          1	Huye Conference Center Ltd.
+          1	Huye District Office
+          3	Huye Tinnery
+          1	Huye market
+          1	Hydrogene
+          1	Hyundai
+          1	Hôpital Général de Référence de Panzi
+          1	Hôtel des Mille Collines
+          1	I & M Bank
+          1	I&M
+          1	I&M Bank
+          1	I.P.S.
+          1	IBIS Hotel
+          1	IMVAHO NSHYA - RPPC LTD
+          1	INES Restaurant
+          1	INES-Ruhengeri
+          1	INILAK
+          1	ININD HOUSE
+          1	INTEGRATED POLYTECHNIC REGIONAL CENTER (IPRC )
+          1	IPS
+          1	IPS Gas Station
+          1	ISANO GUEST HOUSE
+          1	ISKR
+          1	IT Consulting Group
+          1	IW'ABAGENI
+          2	Ibanda
+          1	Ibanda Game Reserve
+          2	Ibinja
+          1	Iburasirasuba
+          2	Iburengerazuba
+          1	Iby'iwacu Cultural Village
+          1	Icyerekezo
+          2	Icyizere
+          1	Idigiri
+          1	Idjwi
+          1	Igihuru Road
+          2	Igishigishigi Trail
+          1	Ignite Power
+          1	Ihoka
+          1	Ihusi
+          2	Ikirezi
+          1	Ikirezi Bookstore
+          1	Ikirezi Shop
+          1	Illu-me
+          2	Immigration Office
+          1	Impact Hub Kigali
+          1	Impala Hotel
+          1	Impuyaho
+          1	Indatua Street
+          1	Indatwa swimming pool
+          1	Indian Chef
+          1	Inema Arts Center
+          1	Inilak football, volley ball basket ball
+          1	Inkononshya
+          1	Inkuru Nziza
+          1	Inside Africa Boutique Hotel
+          1	Institut Baptiste de Buberuka (I.B.B.)
+          1	Institut Supérieure Pédagogique de Gitwe
+          1	Institute for Policy Analysis and Research, Rwanda
+          1	Insurance
+          1	Intermadiate Court (Musanze)
+          2	Internal Medecine
+          1	International Criminal Tribunal for Rwanda - Kigali Liaison
+          1	International Criminal Tribunal for Rwanda - UNICTR
+          1	International Medical Corps (IMC)
+          1	Intersec Security Head Office
+          5	Intwali Primary School
+          1	Inyange Industry
+          1	Inyange Milk Bar
+          1	Inzora
+          1	Inzozi
+          1	Inzu Lodge
+          1	Ipaafu
+          3	Iposita
+          1	Iposita Musanze
+          1	Iris Guest House
+          1	Irnoire for boys
+          1	Isange Guesthouse
+          1	Ishara beach motel
+          1	Ishovu
+          1	Isimbi
+          1	Isingiro
+          1	Isuku
+          2	Isumo
+          1	Itorero
+          1	Ituze lodge‎
+          1	J Lynn's
+          1	JOC Kigali
+          1	JSI Office
+          1	JSK Trading Ltd
+          1	JUMELAGE
+          1	Jambo Beach Camp
+          1	Janja
+          2	Jarama
+          6	Jari
+          2	Jenda
+          1	Joli Logis
+          2	Jomba
+          1	Jp Kigali
+          1	Junction Road sign
+          3	Junction road sign
+          1	Junction road signs
+          1	Juru
+          1	K 28 St
+          1	K 365 St
+          1	K-Club
+          1	KACYIRU MOSQUE
+          1	KACYIRU PRIMARY SCHOOL
+          1	KAGARAMA SECTOR OFFICE
+          1	KAMUHOZA PRIMARY SCHOOL
+          1	KARISIMBI Restaurant, Bar & Catering Services
+          2	KBC
+          1	KBC Roundabout
+          1	KCB Kayonza Branch
+          1	KCB Remera Branch
+          1	KCCEM Guesthouse
+          1	KCT (Kicukiro College of Technology
+          3	KG 1 Av
+          3	KG 1 St
+          1	KG 10 Av
+          1	KG 10 St
+          3	KG 100 St
+          1	KG 101 St
+          1	KG 103 St
+          1	KG 106 St
+          1	KG 108 St
+          3	KG 109 Street
+          7	KG 11 Av
+          1	KG 110 St
+          1	KG 111 Street
+          1	KG 112 St
+          1	KG 113 St
+          1	KG 114 St
+          1	KG 115 St
+          1	KG 116 St
+          1	KG 117 St
+          1	KG 118 St
+          1	KG 119 St
+          3	KG 12 Av
+          1	KG 12 St
+          1	KG 120 St
+          1	KG 121 St
+          1	KG 122 St
+          1	KG 123 St
+          1	KG 124 St
+          1	KG 125 St
+          1	KG 126 St
+          1	KG 127 St
+          1	KG 128 St
+          1	KG 129 St
+          2	KG 13 Av / Nyarutarama Avenue
+          1	KG 13 St
+          1	KG 130 St
+          1	KG 131 St
+          1	KG 132 St
+          1	KG 133St
+          1	KG 134 St
+          1	KG 135 St
+          1	KG 137 St
+          1	KG 138 St
+          1	KG 139 St
+          5	KG 14 Av
+          1	KG 14 St
+          1	KG 140 St
+          1	KG 141 St
+          1	KG 142 St
+          1	KG 143 St
+          1	KG 144 St
+          1	KG 145 St
+          1	KG 146 St
+          1	KG 147 St
+          1	KG 148 St
+          1	KG 149 St
+          2	KG 15 Av
+          1	KG 15 St
+          1	KG 150 St
+          1	KG 151 St
+          1	KG 152 St
+          2	KG 153 St
+          1	KG 154 St
+          3	KG 155 St
+          1	KG 156 St
+          1	KG 157 St
+          1	KG 158 St
+          1	KG 159 St
+          2	KG 16 Av
+          1	KG 160 St
+          1	KG 161 St
+          3	KG 162 St
+          1	KG 163 St
+          1	KG 165 St
+          2	KG 167 St
+          1	KG 168 St
+          3	KG 169 St
+          1	KG 17 Av
+          1	KG 17 St
+          4	KG 170 St
+          1	KG 171 St
+          1	KG 172 St
+          2	KG 173 St
+          1	KG 174 St
+          1	KG 175 St
+          1	KG 176 St
+          1	KG 177 St
+          1	KG 178 St
+          1	KG 18 Av
+          1	KG 18 St
+          1	KG 180 St
+          1	KG 181St
+          1	KG 182 St
+          2	KG 183 St
+          1	KG 184 St
+          1	KG 186 St
+          1	KG 188 St
+          1	KG 189 St
+          1	KG 19 Av
+          1	KG 19 St
+          1	KG 190 St
+          2	KG 192 St
+          1	KG 193 St
+          4	KG 194 St
+          1	KG 195 St
+          1	KG 196 St
+          1	KG 198 St
+          1	KG 199 St
+          4	KG 2 Av
+          1	KG 2 St
+          1	KG 20 Av
+          1	KG 20 St
+          1	KG 200 St
+          1	KG 201 St
+          1	KG 202 St
+          1	KG 203 St
+          1	KG 204 St
+          1	KG 205 St
+          1	KG 206 St
+          1	KG 207 St
+          2	KG 208 St
+          1	KG 209 St
+          1	KG 21 Av
+          3	KG 21 St
+          1	KG 210 St
+          1	KG 211 St
+          1	KG 212 St
+          1	KG 213 St
+          1	KG 214 St
+          3	KG 215 St
+          1	KG 216 St
+          1	KG 217 St
+          1	KG 218 St
+          1	KG 219 St
+          1	KG 22 Av
+          1	KG 22 St
+          1	KG 220 St
+          1	KG 221 St
+          1	KG 222 St
+          1	KG 223 St
+          1	KG 224 St
+          1	KG 225 St
+          1	KG 226 St
+          1	KG 227 St
+          1	KG 229 St
+          1	KG 23 Av
+          1	KG 23 St
+          2	KG 230 St
+          1	KG 231 St
+          1	KG 232 St
+          1	KG 233 St
+          1	KG 234 St
+          1	KG 235 St
+          3	KG 236 St
+          1	KG 237 St
+          1	KG 238 St
+          1	KG 239 St
+          3	KG 24 Av
+          1	KG 24 St
+          1	KG 240 St
+          1	KG 241 St
+          1	KG 242 St
+          2	KG 243 St
+          1	KG 244 St
+          1	KG 245 St
+          1	KG 246 St
+          1	KG 247 St
+          1	KG 248 St
+          1	KG 249 St
+          1	KG 25 Av
+          1	KG 25 St
+          1	KG 254 St
+          1	KG 255 St
+          1	KG 256 St
+          1	KG 257 St
+          1	KG 259 St
+          1	KG 26 Av
+          1	KG 26 St
+          1	KG 261 St
+          1	KG 263 St
+          1	KG 265 St
+          1	KG 267 St
+          1	KG 268 St
+          1	KG 269 St
+          3	KG 27 Av
+          1	KG 27 St
+          1	KG 270 St
+          1	KG 271 St
+          1	KG 275 St
+          1	KG 277 St
+          1	KG 278 St
+          1	KG 279 St
+          2	KG 28 Av
+          1	KG 28 St
+          1	KG 280 St
+          1	KG 281 St
+          1	KG 287 St
+          1	KG 289 St
+          1	KG 29 Av
+          1	KG 29 St
+          1	KG 290 St
+          1	KG 292 St
+          1	KG 293 St
+          1	KG 294 St
+          2	KG 295 St
+          1	KG 296 St
+          2	KG 297 St
+          1	KG 298 St
+          2	KG 299 St
+          1	KG 3 Av
+          1	KG 3 St
+          1	KG 30 St
+          1	KG 300 St
+          1	KG 301 St
+          1	KG 302 St
+          1	KG 303 St
+          2	KG 305 St
+          1	KG 306 St
+          1	KG 307 St
+          1	KG 308 St
+          2	KG 31 Av
+          1	KG 31 St
+          1	KG 310 St
+          1	KG 311 St
+          1	KG 313 St
+          1	KG 315 St
+          1	KG 316 St
+          1	KG 317 St
+          1	KG 318 St
+          1	KG 319 St
+          1	KG 32 St
+          1	KG 320 St
+          1	KG 321 St
+          1	KG 322 St
+          1	KG 323 St
+          1	KG 325 St
+          1	KG 326 St
+          1	KG 327St
+          1	KG 328 St
+          1	KG 329 St
+          1	KG 33 Av
+          1	KG 33 St
+          1	KG 330 St
+          1	KG 331St
+          1	KG 333 St
+          1	KG 335 St
+          1	KG 338 St
+          1	KG 34 St
+          1	KG 341 St
+          1	KG 342 St
+          1	KG 346 St
+          1	KG 347 St
+          1	KG 348 St
+          1	KG 349 St
+          1	KG 35 Av
+          1	KG 35 St
+          1	KG 350 St
+          1	KG 351 St
+          1	KG 352 St
+          2	KG 354 St
+          1	KG 355 St
+          1	KG 356 St
+          1	KG 357 St
+          1	KG 358 St
+          1	KG 36 St
+          1	KG 360 St
+          1	KG 361 St
+          1	KG 362 St
+          1	KG 364 St
+          1	KG 365 St
+          1	KG 366 St
+          1	KG 367 St
+          1	KG 368 St
+          1	KG 369 St
+          1	KG 37 Av
+          1	KG 37 St
+          1	KG 370 St
+          1	KG 371 St
+          1	KG 372 St
+          1	KG 373
+          1	KG 374 St
+          1	KG 375 St
+          1	KG 376 St
+          1	KG 378 St
+          1	KG 379 St
+          1	KG 38 St
+          1	KG 381 St
+          2	KG 382 St
+          1	KG 383 St
+          1	KG 384 St
+          1	KG 388 St
+          1	KG 389 St
+          2	KG 39 St
+          1	KG 390 St
+          1	KG 391 St
+          1	KG 392 St
+          1	KG 394 St
+          2	KG 395 St
+          1	KG 396 St
+          1	KG 397 St
+          1	KG 399 St
+          3	KG 4 Av
+          1	KG 4 St
+          1	KG 40 St
+          1	KG 400 St
+          1	KG 401 St
+          1	KG 402 St
+          1	KG 403 St
+          1	KG 404 St
+          1	KG 406 St
+          1	KG 408 St
+          1	KG 41 St
+          1	KG 410 St
+          1	KG 412 St
+          1	KG 413
+          1	KG 414 St
+          1	KG 415 St
+          1	KG 416 St
+          1	KG 417 St
+          1	KG 418 St
+          1	KG 42 St
+          2	KG 420 St
+          1	KG 421 St
+          1	KG 422 St
+          1	KG 423 St
+          1	KG 424 St
+          1	KG 426 St
+          2	KG 428 St
+          1	KG 43 St
+          1	KG 431 St
+          1	KG 433 St
+          2	KG 435
+          1	KG 436 St
+          1	KG 437
+          1	KG 438 St
+          1	KG 439 St
+          1	KG 44 St
+          1	KG 440 St
+          1	KG 441 St
+          1	KG 444 St
+          1	KG 446 St
+          1	KG 447 St
+          1	KG 449 St
+          1	KG 45 St
+          1	KG 450 St
+          1	KG 451 St
+          1	KG 452 St
+          1	KG 453 St
+          1	KG 454 St
+          1	KG 455 St
+          1	KG 456 St
+          1	KG 457 St
+          1	KG 458 St
+          1	KG 459 St
+          1	KG 46 St
+          1	KG 460 St
+          1	KG 462 St
+          1	KG 463 St
+          1	KG 465 St
+          1	KG 466 St
+          1	KG 467 St
+          1	KG 468 St
+          1	KG 469 St
+          1	KG 47 St
+          1	KG 470 St
+          1	KG 471 St
+          1	KG 472 St
+          1	KG 473 St
+          1	KG 474St
+          1	KG 475 St
+          1	KG 476 St
+          1	KG 477 St
+          1	KG 478 St
+          1	KG 479 St
+          1	KG 48 St
+          1	KG 481 St
+          1	KG 483 St
+          2	KG 485 St
+          1	KG 486 St
+          2	KG 487 St
+          1	KG 488 St
+          1	KG 489 St
+          1	KG 49 St
+          1	KG 490 St
+          1	KG 491 St
+          1	KG 492 St
+          1	KG 493 St
+          1	KG 494 St
+          1	KG 497St
+          1	KG 498 St
+          1	KG 499 St
+          3	KG 5 Av
+          3	KG 5 St
+          1	KG 50 St
+          7	KG 501 St
+          1	KG 503 St
+          1	KG 504 St
+          1	KG 505 St
+          1	KG 506
+          2	KG 507 St
+          1	KG 508 St
+          1	KG 509 St
+          1	KG 510 St
+          1	KG 511 St
+          1	KG 512 St
+          2	KG 513 St
+          1	KG 514 St
+          1	KG 515 St
+          1	KG 516 St
+          1	KG 517 St
+          1	KG 518 St
+          1	KG 519 St
+          1	KG 521 St
+          1	KG 522 St
+          1	KG 523 St
+          1	KG 525 St
+          1	KG 526 St
+          1	KG 527 St
+          4	KG 529 St
+          2	KG 53 St
+          1	KG 530 St
+          1	KG 531 St
+          1	KG 532 St
+          1	KG 533 St
+          1	KG 534 St
+          1	KG 535 St
+          1	KG 536 St
+          1	KG 539 St
+          1	KG 54 St
+          1	KG 540 St
+          2	KG 541 St
+          1	KG 542 St
+          2	KG 543 St
+          3	KG 544 St
+          1	KG 545 St
+          4	KG 546 Street
+          1	KG 547 St
+          4	KG 548 St
+          1	KG 549 St
+          3	KG 550 St
+          1	KG 551 St
+          1	KG 552 St
+          1	KG 553 St
+          1	KG 554 St
+          1	KG 555 St
+          1	KG 556 St
+          1	KG 557 St
+          2	KG 558 St
+          1	KG 559 Street
+          2	KG 56 St
+          1	KG 560 St
+          1	KG 561 St
+          1	KG 561 Street
+          1	KG 562 St
+          1	KG 563 St / Solace Way
+          1	KG 564 St
+          2	KG 565 St
+          1	KG 566 St
+          2	KG 567 St
+          2	KG 568 St
+          1	KG 569 St
+          1	KG 57 St
+          1	KG 570 St
+          1	KG 571 St
+          2	KG 572 St
+          1	KG 573 St
+          4	KG 574 St
+          1	KG 575 St
+          1	KG 576 St
+          1	KG 577 St
+          1	KG 578 St
+          1	KG 58 St
+          1	KG 580 St
+          1	KG 582 St
+          1	KG 583 St
+          1	KG 584 St
+          2	KG 585 St
+          1	KG 586 St
+          1	KG 587 St
+          1	KG 588 St
+          1	KG 589 St
+          1	KG 59 St
+          1	KG 590 St
+          1	KG 592 St
+          1	KG 593 St
+          1	KG 593 St;KG 591 St
+          1	KG 594 St
+          2	KG 595 St
+          1	KG 596 St
+          1	KG 597 St
+          1	KG 598 St
+          1	KG 599 St
+          3	KG 6 Av
+          1	KG 6 St
+          1	KG 600 St
+          1	KG 601 St
+          1	KG 602 St
+          1	KG 603 St
+          1	KG 604 St
+          1	KG 605 St
+          1	KG 606 St
+          1	KG 607 St
+          1	KG 608 St
+          2	KG 609 St
+          1	KG 61 St
+          1	KG 610 St
+          1	KG 610 Street
+          1	KG 611 St
+          2	KG 612 St
+          1	KG 613 St
+          1	KG 615 St
+          1	KG 617 St
+          1	KG 618 St
+          2	KG 619 St
+          1	KG 620 St
+          1	KG 621 St
+          1	KG 622 St
+          1	KG 623 St
+          3	KG 624 St
+          1	KG 625 St
+          1	KG 626 St
+          1	KG 627 St
+          2	KG 629 St
+          1	KG 63 St
+          2	KG 630 St
+          1	KG 631 St
+          1	KG 632 St
+          1	KG 633 St
+          1	KG 634 St
+          1	KG 635 St
+          1	KG 636 St
+          1	KG 637 St
+          1	KG 638 St
+          1	KG 639 St
+          1	KG 64 St
+          1	KG 640 St
+          1	KG 641 St
+          1	KG 642 Street
+          1	KG 643 St
+          3	KG 644 St
+          1	KG 645 St
+          1	KG 646 St
+          1	KG 647 St
+          1	KG 648 St
+          1	KG 649 St
+          1	KG 65 St
+          1	KG 650 St
+          1	KG 651 St
+          1	KG 652 Street
+          1	KG 653 St
+          1	KG 654 St
+          1	KG 655 St
+          1	KG 656 St
+          1	KG 657 St
+          1	KG 658 St
+          1	KG 66 St
+          1	KG 660 St
+          1	KG 661 St
+          2	KG 662 St
+          1	KG 663 St
+          1	KG 664 St
+          1	KG 665 St
+          1	KG 666 St
+          1	KG 667 St
+          1	KG 668 St
+          1	KG 669 St
+          3	KG 67 St
+          1	KG 670 St
+          1	KG 671 St
+          3	KG 672 St
+          1	KG 673 St
+          1	KG 674 St
+          1	KG 675 St
+          1	KG 676 St
+          1	KG 677 St
+          1	KG 678 St
+          1	KG 679 St
+          2	KG 68 St
+          1	KG 680 St
+          1	KG 681 St
+          1	KG 682 St
+          1	KG 683 St
+          2	KG 684 St
+          1	KG 685 St
+          1	KG 686 St
+          1	KG 687 St
+          1	KG 688 St
+          1	KG 689 St
+          1	KG 69 St
+          1	KG 690 St
+          1	KG 691 St
+          1	KG 692 St
+          2	KG 694 St
+          1	KG 696 St
+          1	KG 697 St
+          1	KG 698 St
+          1	KG 699 St
+          9	KG 7 Av
+          5	KG 7 Avenue
+          1	KG 7 St
+          1	KG 70 St
+          1	KG 700 St
+          1	KG 701 St
+          1	KG 702 St
+          1	KG 703 St
+          1	KG 704 St
+          1	KG 705 St
+          1	KG 706 St
+          1	KG 707 St
+          1	KG 708 St
+          1	KG 709 St
+          2	KG 71 St
+          1	KG 710 St
+          1	KG 711 St
+          1	KG 712 St
+          1	KG 713 St
+          1	KG 714 St
+          1	KG 715 St
+          1	KG 716 St
+          1	KG 717 St
+          1	KG 718 St
+          1	KG 719 St
+          1	KG 720 St
+          1	KG 721 St
+          1	KG 722 St
+          1	KG 723 St
+          1	KG 724 St
+          1	KG 725 St
+          1	KG 727 St
+          1	KG 728 St
+          1	KG 73 St
+          1	KG 730 St
+          2	KG 731 St
+          1	KG 732 St
+          1	KG 733 Street
+          2	KG 735 Street
+          1	KG 736 St
+          1	KG 737 Street
+          1	KG 738 St
+          1	KG 74 St
+          1	KG 740 St
+          1	KG 741 St
+          1	KG 743 St
+          1	KG 744 St
+          1	KG 745 St
+          1	KG 746 St
+          1	KG 747 St
+          1	KG 748 St
+          1	KG 749 St
+          1	KG 75 St
+          1	KG 750 St
+          1	KG 751 St
+          1	KG 752 St
+          1	KG 753 St
+          1	KG 754 St
+          1	KG 755 St
+          1	KG 756 St
+          1	KG 757 St
+          1	KG 758 St
+          1	KG 759 St
+          1	KG 76 St
+          1	KG 760 St
+          1	KG 761 St
+          1	KG 762 St
+          1	KG 763 Street
+          1	KG 765 Street
+          1	KG 766 St
+          1	KG 768 St
+          1	KG 77 St
+          1	KG 770 St
+          1	KG 772 St
+          1	KG 774 St
+          1	KG 778 St
+          1	KG 78 St
+          1	KG 780 St
+          1	KG 782 St
+          1	KG 784 St
+          1	KG 786 St
+          1	KG 788 St
+          1	KG 79 St
+          1	KG 790 St
+          1	KG 792 St
+          1	KG 794 St
+          1	KG 796 St
+          1	KG 798 St
+          2	KG 8 Av
+          1	KG 8 St
+          2	KG 80 St
+          1	KG 800 St
+          2	KG 804 St
+          2	KG 808 Street
+          1	KG 81 St
+          1	KG 810 Street
+          1	KG 812 Street
+          1	KG 814 Street
+          1	KG 816 Street
+          1	KG 818 Street
+          1	KG 82 St
+          1	KG 820 Street
+          1	KG 822 Street
+          1	KG 826 St
+          1	KG 828 St
+          1	KG 830 Street
+          1	KG 832 Street
+          1	KG 834 Street
+          1	KG 836 St
+          1	KG 838 St
+          1	KG 84 St
+          1	KG 840 St
+          1	KG 842 St
+          1	KG 844 St
+          1	KG 846 St
+          1	KG 848 St
+          1	KG 850 Street
+          1	KG 852 St
+          1	KG 854 St
+          1	KG 856 Street
+          1	KG 86 St
+          1	KG 87 St
+          1	KG 88 St
+          1	KG 89 St
+          4	KG 9 Av
+          1	KG 90 St
+          1	KG 91 St
+          1	KG 92 St
+          2	KG 94 St
+          3	KG 95 St
+          1	KG 96 St
+          2	KG 97 St
+          1	KG 98 St
+          1	KG 99 St
+          1	KG179 St
+          1	KG197 St
+          1	KG309 St
+          1	KG726 St
+          1	KGL
+          1	KHI
+          1	KHI Hostels
+          1	KICUKIRO DISTRICT OFFICE
+          3	KIE
+          1	KIGOMA
+          1	KIM
+          1	KIMISAGARA Market
+          1	KIST
+          1	KIST 1 Building
+          1	KIST 2 Building
+          1	KIST Lab
+          1	KIST Muhabura
+          1	KIST Restaurant
+          2	KK 1 Av
+          1	KK 1 St
+          1	KK 10 Av
+          1	KK 10 St
+          1	KK 100 St
+          1	KK 101 St
+          6	KK 104 St
+          1	KK 105 St
+          3	KK 106 St
+          1	KK 107 St
+          1	KK 108 St
+          1	KK 109 St
+          1	KK 11 Av
+          1	KK 11 St
+          2	KK 110 St
+          1	KK 111 St
+          2	KK 112 St
+          1	KK 113 St
+          2	KK 114 St
+          1	KK 115 St
+          2	KK 116 St
+          1	KK 117 St
+          2	KK 118 St
+          1	KK 119 St
+          1	KK 12 Av
+          1	KK 12 St
+          1	KK 120 St
+          1	KK 121 St
+          1	KK 122 St
+          1	KK 123
+          1	KK 124 St
+          2	KK 125 St
+          1	KK 126 St
+          2	KK 127 St
+          1	KK 128 St
+          3	KK 129 St
+          1	KK 13 Av
+          1	KK 13 St
+          1	KK 130 St
+          3	KK 131 St
+          1	KK 132 St
+          4	KK 133 St
+          1	KK 134 St
+          1	KK 135 St
+          1	KK 136 St
+          1	KK 137 St
+          2	KK 138 St
+          1	KK 139 St
+          1	KK 14 Av
+          1	KK 14 St
+          1	KK 140 St
+          1	KK 141 St
+          1	KK 142 St
+          1	KK 143 St
+          1	KK 144 St
+          2	KK 145 St
+          1	KK 146 St
+          1	KK 147 St
+          1	KK 148 St
+          1	KK 149 St
+          3	KK 15 Av
+          5	KK 15 Rd
+          1	KK 15 St
+          1	KK 150 St
+          3	KK 151 St
+          2	KK 152 St
+          2	KK 153 St
+          1	KK 154 St
+          1	KK 155 St
+          2	KK 156 St
+          1	KK 157 St
+          1	KK 158 St
+          1	KK 159 St
+          1	KK 16 Av
+          1	KK 16 St
+          1	KK 160 St
+          3	KK 161 St
+          1	KK 162 St
+          1	KK 163 St
+          1	KK 164 St
+          1	KK 165 St
+          1	KK 166 St
+          1	KK 167 St
+          1	KK 168 St
+          1	KK 169 St
+          1	KK 17 Av
+          1	KK 17 St
+          2	KK 170 St
+          1	KK 172 St
+          1	KK 173 St
+          1	KK 174 St
+          1	KK 175 St
+          2	KK 176 St
+          1	KK 177 St
+          1	KK 178 St
+          1	KK 179 St
+          4	KK 18 Av
+          1	KK 18 St
+          1	KK 180 St
+          1	KK 181 St
+          1	KK 182 St
+          1	KK 183 St
+          1	KK 184 St
+          1	KK 185 St
+          2	KK 186 St
+          1	KK 187 St
+          1	KK 188 St
+          1	KK 189 St
+          1	KK 19 Av
+          1	KK 19 St
+          1	KK 190 St
+          1	KK 191 St
+          2	KK 192 St
+          1	KK 193 St
+          1	KK 194 St
+          1	KK 195 St
+          1	KK 196 St
+          1	KK 197 St
+          1	KK 198 St
+          1	KK 199 St
+          2	KK 2 Av
+          1	KK 2 St
+          2	KK 20 Av
+          1	KK 20 St
+          1	KK 200 St
+          2	KK 201 St
+          1	KK 202 St
+          1	KK 203 St
+          1	KK 204 St
+          2	KK 205 St
+          1	KK 206 St
+          1	KK 207 St
+          1	KK 208 St
+          1	KK 209 St
+          3	KK 21 Av
+          1	KK 21 St
+          1	KK 210 St
+          2	KK 211 St
+          1	KK 212 St
+          2	KK 213 St
+          1	KK 214 St
+          2	KK 215 St
+          1	KK 216 St
+          2	KK 217 St
+          1	KK 218 St
+          1	KK 219 St
+          1	KK 22 Av
+          1	KK 22 St
+          2	KK 220 St
+          1	KK 221 St
+          1	KK 222 St
+          2	KK 223 St
+          1	KK 224 St
+          3	KK 225 St
+          1	KK 226 St
+          2	KK 227 St
+          4	KK 228 St
+          2	KK 229 St
+          1	KK 23 Av
+          1	KK 23 St
+          1	KK 230 St
+          2	KK 231 St
+          1	KK 232 St
+          1	KK 233 St
+          1	KK 234 St
+          1	KK 235 St
+          1	KK 236 St
+          1	KK 237 St
+          1	KK 238 St
+          1	KK 239 St
+          1	KK 24 Av
+          1	KK 24 St
+          1	KK 240 St
+          1	KK 241 St
+          1	KK 242 St
+          1	KK 243 St
+          1	KK 244 St
+          1	KK 245 St
+          2	KK 246 St
+          1	KK 247 St
+          1	KK 248 St
+          1	KK 249 St
+          1	KK 25 Av
+          1	KK 25 St
+          1	KK 250 St
+          1	KK 251 St
+          1	KK 252 St
+          1	KK 253 St
+          1	KK 254 St
+          1	KK 255 St
+          1	KK 256 St
+          1	KK 257 St
+          1	KK 258 St
+          1	KK 259 St
+          1	KK 26 Av
+          1	KK 26 St
+          1	KK 260 St
+          1	KK 261 St
+          2	KK 262 St
+          1	KK 263 St
+          1	KK 264 St
+          1	KK 265 St
+          3	KK 266 St
+          1	KK 267 St
+          2	KK 268 St
+          1	KK 269 St
+          1	KK 27 Av
+          1	KK 27 St
+          2	KK 270 St
+          1	KK 271 St
+          1	KK 272 St
+          2	KK 273 St
+          2	KK 274 St
+          1	KK 275 St
+          1	KK 276 St
+          1	KK 277 St
+          1	KK 278 St
+          1	KK 279 St
+          1	KK 28 Av
+          1	KK 280 St
+          1	KK 281 St
+          2	KK 282 St
+          1	KK 283 St
+          1	KK 284 St
+          1	KK 285 St
+          1	KK 286 St
+          1	KK 287 St
+          1	KK 288 St
+          1	KK 289 St
+          1	KK 29 Av
+          1	KK 29 St
+          1	KK 290 St
+          3	KK 291 St
+          1	KK 292 St
+          1	KK 293 St
+          2	KK 294 St
+          1	KK 295 St
+          1	KK 296 St
+          1	KK 297 St
+          1	KK 298 St
+          1	KK 299 St
+          3	KK 3 Av
+          5	KK 3 Rd
+          1	KK 3 St
+          1	KK 30 Av
+          2	KK 30 St
+          1	KK 301 St
+          1	KK 302 St
+          1	KK 303 St
+          1	KK 304 St
+          3	KK 305 St
+          1	KK 306 St
+          1	KK 307 St
+          1	KK 308 St
+          2	KK 309 St
+          8	KK 31 Av
+          1	KK 31 St
+          2	KK 310 St
+          1	KK 311 St
+          1	KK 312 St
+          1	KK 313 St
+          1	KK 314 St
+          1	KK 315 St
+          1	KK 316 St
+          1	KK 317 St
+          1	KK 318 St
+          1	KK 319 St
+          1	KK 32 Av
+          1	KK 32 St
+          1	KK 320 St
+          1	KK 321 St
+          1	KK 322 St
+          1	KK 323 St
+          1	KK 324 St
+          1	KK 325 St
+          1	KK 326 St
+          1	KK 327 St
+          1	KK 328 St
+          1	KK 329 St
+          1	KK 33 Av
+          1	KK 33 St
+          1	KK 330 St
+          1	KK 331 St
+          1	KK 332 St
+          1	KK 333 St
+          1	KK 334 St
+          1	KK 335 St
+          1	KK 336 St
+          1	KK 337 St
+          1	KK 338 St
+          1	KK 339 St
+          1	KK 34 Av
+          1	KK 34 St
+          1	KK 340 St
+          1	KK 341 St
+          1	KK 342 St
+          1	KK 343 St
+          1	KK 344 St
+          1	KK 345 St
+          2	KK 346 St
+          1	KK 347 St
+          2	KK 348 St
+          2	KK 349 St
+          1	KK 35 Av
+          1	KK 35 St
+          2	KK 350 St
+          2	KK 351 St
+          1	KK 352 St
+          1	KK 353 St
+          1	KK 354 St
+          1	KK 355 St
+          1	KK 356 St
+          2	KK 357 St
+          1	KK 358 St
+          3	KK 359 St
+          2	KK 36 Av
+          1	KK 36 St
+          1	KK 360 St
+          3	KK 361 St
+          1	KK 362 St
+          1	KK 363 St
+          1	KK 364 St
+          1	KK 366 St
+          1	KK 367 St
+          1	KK 368 St
+          1	KK 369 St
+          2	KK 37 Av
+          1	KK 37 St
+          1	KK 370 St
+          1	KK 371 St
+          1	KK 372 St
+          1	KK 373 St
+          1	KK 374 St
+          1	KK 375 St
+          1	KK 376 St
+          1	KK 377 St
+          1	KK 378 St
+          1	KK 379 St
+          1	KK 38 Av
+          1	KK 38 St
+          1	KK 380 St
+          1	KK 381 St
+          1	KK 382 St
+          1	KK 383 St
+          1	KK 384 St
+          1	KK 385 St
+          1	KK 386 St
+          1	KK 387 St
+          1	KK 388 St
+          1	KK 389 St
+          2	KK 39 Av
+          1	KK 39 St
+          1	KK 390 St
+          1	KK 391 St
+          1	KK 392 St
+          1	KK 393 St
+          1	KK 394 St
+          1	KK 395 St
+          1	KK 396 St
+          1	KK 397 St
+          1	KK 398 St
+          1	KK 399 St
+          6	KK 4 Ave
+          2	KK 4 St
+          1	KK 40 Av
+          1	KK 400 St
+          1	KK 401 St
+          1	KK 402 St
+          1	KK 403 St
+          1	KK 404 St
+          1	KK 405 St
+          1	KK 406 St
+          1	KK 407 St
+          1	KK 408 St
+          1	KK 409 St
+          1	KK 41 Av
+          1	KK 41 St
+          1	KK 410 St
+          1	KK 411 St
+          1	KK 412 St
+          1	KK 413 St
+          1	KK 414 St
+          1	KK 415 St
+          1	KK 416 St
+          1	KK 418 St
+          1	KK 419 St
+          1	KK 42 Av
+          2	KK 42 St
+          1	KK 420 St
+          1	KK 421 St
+          3	KK 422 St
+          1	KK 423 St
+          1	KK 424 St
+          1	KK 425 St
+          1	KK 426 St
+          1	KK 427 St
+          1	KK 428 St
+          1	KK 429 St
+          1	KK 43 Av
+          1	KK 43 St
+          1	KK 430 St
+          2	KK 431 St
+          1	KK 432 St
+          1	KK 433 St
+          1	KK 434 St
+          1	KK 435 St
+          1	KK 436 St
+          1	KK 437 St
+          1	KK 438 St
+          1	KK 439 St
+          2	KK 44 Av
+          1	KK 44 St
+          1	KK 440 St
+          2	KK 441 St
+          1	KK 443 St
+          2	KK 444 St
+          1	KK 445 St
+          1	KK 446 St
+          1	KK 447 St
+          2	KK 448 St
+          1	KK 449 St
+          1	KK 45 St
+          1	KK 450 St
+          1	KK 451 St
+          1	KK 452 St
+          1	KK 453 St
+          1	KK 454 St
+          1	KK 455 St
+          1	KK 456 St
+          1	KK 457 St
+          1	KK 458 St
+          1	KK 459 St
+          1	KK 46 Av
+          1	KK 46 St
+          1	KK 460 St
+          1	KK 462 St
+          1	KK 463 St
+          1	KK 464 A St
+          2	KK 464 St
+          1	KK 465 St
+          2	KK 466 St
+          2	KK 467 St
+          1	KK 468 St
+          1	KK 469 St
+          1	KK 47 St
+          1	KK 470 St
+          2	KK 471 St
+          1	KK 472 St
+          1	KK 473 St
+          1	KK 474 St
+          1	KK 475 St
+          1	KK 476 St
+          1	KK 477 St
+          1	KK 478 St
+          1	KK 479 St
+          1	KK 48 St
+          1	KK 480 St
+          1	KK 481 St
+          1	KK 483 St
+          2	KK 484 St
+          1	KK 485 St
+          1	KK 486 St
+          1	KK 487 St
+          1	KK 488 St
+          1	KK 49 St
+          3	KK 490 St
+          1	KK 492 St
+          1	KK 493 St
+          2	KK 494 St
+          1	KK 495 St
+          1	KK 496 St
+          1	KK 497 St
+          1	KK 498 St
+          1	KK 499 St
+          1	KK 5 Av
+          1	KK 5 St
+          1	KK 50 St
+          1	KK 500 St
+          1	KK 501 St
+          1	KK 502 St
+          1	KK 503 St
+          1	KK 504 St
+          2	KK 505 St
+          1	KK 506 St
+          3	KK 507 St
+          1	KK 508 St
+          1	KK 509 St
+          1	KK 51 St
+          1	KK 510 St
+          1	KK 511 St
+          1	KK 512 St
+          1	KK 513 St
+          2	KK 514 St
+          2	KK 515 St
+          1	KK 516 St
+          1	KK 517 St
+          1	KK 518 St
+          1	KK 519 St
+          1	KK 52 St
+          1	KK 520 St
+          1	KK 521 St
+          1	KK 522 St
+          1	KK 523 St
+          2	KK 524 St
+          1	KK 525 St
+          1	KK 526 St
+          1	KK 527 St
+          2	KK 528 St
+          1	KK 529 St
+          1	KK 53 St
+          1	KK 530 St
+          1	KK 531 St
+          1	KK 532 St
+          1	KK 533 St
+          1	KK 534 St
+          1	KK 535 St
+          1	KK 536 St
+          1	KK 537 St
+          1	KK 538 St
+          1	KK 539 St
+          1	KK 54 St
+          1	KK 540 St
+          1	KK 541 St
+          1	KK 542 St
+          1	KK 543 St
+          1	KK 544 St
+          1	KK 545 St
+          1	KK 546 St
+          1	KK 547 St
+          1	KK 548 St
+          1	KK 549 St
+          1	KK 55 St
+          1	KK 550 St
+          1	KK 551 St
+          1	KK 552 St
+          2	KK 553 St
+          1	KK 554 St
+          1	KK 555 St
+          1	KK 556 St
+          1	KK 557 St
+          1	KK 558 St
+          1	KK 559 St
+          1	KK 56 St
+          1	KK 560 St
+          1	KK 561 St
+          1	KK 562 St
+          1	KK 563 St
+          1	KK 564 St
+          1	KK 565 St
+          1	KK 566 St
+          1	KK 567 St
+          1	KK 568 St
+          1	KK 569 St
+          1	KK 570 St
+          2	KK 571 St
+          1	KK 572 St
+          1	KK 573 St
+          1	KK 574 St
+          1	KK 575 St
+          1	KK 576 St
+          1	KK 577 St
+          1	KK 578 St
+          2	KK 579 St
+          1	KK 58 St
+          1	KK 580 St
+          1	KK 581 St
+          1	KK 582 St
+          1	KK 583 St
+          1	KK 584 St
+          1	KK 585 St
+          1	KK 586 St
+          1	KK 587 St
+          1	KK 588 St
+          1	KK 589 St
+          1	KK 59 St
+          1	KK 590 St
+          1	KK 591 St
+          1	KK 592 St
+          1	KK 593 St
+          1	KK 594 St
+          1	KK 595 St
+          1	KK 596 St
+          1	KK 597 St
+          1	KK 598 St
+          1	KK 599 St
+          4	KK 6 Av
+          1	KK 6 St
+          1	KK 60 St
+          1	KK 600 St
+          2	KK 601 St
+          1	KK 602 St
+          1	KK 603 St
+          1	KK 604 St
+          1	KK 605 St
+          1	KK 606 St
+          1	KK 607 St
+          1	KK 608 St
+          1	KK 609 St
+          1	KK 61 St
+          1	KK 610 St
+          1	KK 611 St
+          1	KK 612 St
+          1	KK 613 St
+          1	KK 614 St
+          1	KK 615 St
+          1	KK 616 St
+          1	KK 617 St
+          1	KK 618 St
+          1	KK 619 St
+          1	KK 62 St
+          1	KK 620 St
+          2	KK 621 St
+          1	KK 622 St
+          1	KK 623 St
+          1	KK 624 St
+          1	KK 625 St
+          1	KK 626 St
+          1	KK 627 St
+          1	KK 628 St
+          1	KK 629 St
+          1	KK 63 St
+          1	KK 630 St
+          2	KK 631 St
+          1	KK 632 St
+          1	KK 633 St
+          1	KK 634 St
+          1	KK 635 St
+          1	KK 636 St
+          2	KK 637 St
+          1	KK 638 St
+          1	KK 639 St
+          1	KK 64 St
+          1	KK 640 St
+          1	KK 641 St
+          1	KK 642 St
+          1	KK 643 St
+          1	KK 644 St
+          1	KK 645 St
+          1	KK 646 St
+          1	KK 647 St
+          1	KK 648 St
+          1	KK 649 St
+          1	KK 65 St
+          1	KK 650 St
+          1	KK 651 St
+          1	KK 652 St
+          1	KK 653 St
+          1	KK 654 St
+          1	KK 655 St
+          1	KK 656 St
+          1	KK 657 St
+          1	KK 658 St
+          1	KK 659 St
+          1	KK 66 St
+          1	KK 660 St
+          1	KK 661 St
+          2	KK 662 St
+          1	KK 663 St
+          1	KK 664 St
+          1	KK 665 St
+          1	KK 666 St
+          1	KK 667 St
+          1	KK 668 St
+          1	KK 669 St
+          1	KK 67 St
+          1	KK 670 St
+          1	KK 671 St
+          1	KK 672 St
+          1	KK 673 St
+          1	KK 674 St
+          1	KK 675 St
+          1	KK 676 St
+          1	KK 677 St
+          1	KK 678 St
+          1	KK 679 St
+          1	KK 68 St
+          1	KK 680 St
+          2	KK 681 St
+          1	KK 682 St
+          2	KK 683 St
+          1	KK 684 St
+          1	KK 685 St
+          1	KK 686 St
+          1	KK 687 St
+          1	KK 688 St
+          1	KK 689 St
+          1	KK 69 St
+          1	KK 690 St
+          1	KK 691 St
+          1	KK 692 St
+          1	KK 693 St
+          1	KK 694 St
+          2	KK 695 St
+          1	KK 696 St
+          3	KK 697 St
+          1	KK 698 St
+          1	KK 699 St
+          1	KK 7 Av
+          2	KK 7 St
+          1	KK 70 St
+          1	KK 700 St
+          1	KK 701 St
+          1	KK 702 St
+          1	KK 703 St
+          2	KK 704 St
+          1	KK 705 St
+          1	KK 706 St
+          1	KK 707 St
+          1	KK 708 St
+          1	KK 709 St
+          1	KK 71 St
+          2	KK 710 St
+          1	KK 711 St
+          1	KK 712 St
+          1	KK 713 St
+          2	KK 714 St
+          1	KK 715 St
+          1	KK 716 St
+          1	KK 717 St
+          1	KK 718 St
+          1	KK 719 St
+          1	KK 72 St
+          1	KK 720 St
+          1	KK 721 St
+          2	KK 722 St
+          1	KK 723 St
+          2	KK 724 St
+          2	KK 725 St
+          1	KK 726 St
+          1	KK 727 St
+          3	KK 728 St
+          1	KK 729 St
+          1	KK 73 St
+          1	KK 730 St
+          2	KK 731 St
+          2	KK 732 St
+          1	KK 733 St
+          1	KK 734 St
+          1	KK 735 St
+          1	KK 736 St
+          2	KK 737 St
+          1	KK 738 St
+          1	KK 739 St
+          1	KK 74 St
+          1	KK 740 St
+          1	KK 741 St
+          1	KK 742 St
+          1	KK 743 St
+          1	KK 744 St
+          1	KK 745 St
+          1	KK 746 St
+          1	KK 747 St
+          1	KK 748 St
+          1	KK 749 St
+          1	KK 75 St
+          1	KK 750 St
+          1	KK 751 St
+          1	KK 752 St
+          1	KK 753 St
+          1	KK 754 St
+          1	KK 755 St
+          1	KK 756 St
+          1	KK 757 St
+          1	KK 758 St
+          1	KK 759 St
+          1	KK 76 St
+          1	KK 760 St
+          1	KK 761 St
+          1	KK 762 St
+          2	KK 763 St
+          1	KK 764 St
+          1	KK 765 St
+          1	KK 766 St
+          1	KK 767 St
+          1	KK 768 St
+          1	KK 769 St
+          1	KK 770 St
+          1	KK 771 St
+          1	KK 772 St
+          1	KK 773 St
+          1	KK 774 St
+          1	KK 775 St
+          1	KK 776 St
+          1	KK 777 St
+          1	KK 778 St
+          1	KK 779 St
+          1	KK 78 St
+          1	KK 780 St
+          1	KK 782 St
+          1	KK 784 St
+          1	KK 785 St
+          1	KK 786 St
+          1	KK 787 St
+          1	KK 788 St
+          2	KK 789 St
+          1	KK 79 St
+          1	KK 790 St
+          1	KK 791 St
+          1	KK 792 St
+          1	KK 793 St
+          1	KK 794 St
+          1	KK 795 St
+          1	KK 796 St
+          1	KK 797 St
+          1	KK 798 St
+          1	KK 799 St
+          2	KK 8 Av
+          1	KK 8 St
+          2	KK 80 St
+          1	KK 800 St
+          1	KK 801 St
+          1	KK 802 St
+          1	KK 803 St
+          2	KK 804 St
+          1	KK 806 St
+          1	KK 808 St
+          1	KK 81 St
+          1	KK 810 St
+          1	KK 812 St
+          1	KK 814 St
+          1	KK 816 St
+          1	KK 818 St
+          2	KK 82 St
+          1	KK 820 St
+          1	KK 822 St
+          1	KK 83 St
+          2	KK 84 St
+          1	KK 85 St
+          1	KK 86 St
+          1	KK 87 St
+          1	KK 88 St
+          1	KK 89 St
+          1	KK 9 Av
+          1	KK 9 St
+          1	KK 90 St
+          1	KK 91 St
+          2	KK 92 St
+          1	KK 93 St
+          3	KK 94 St
+          1	KK 95 St
+          1	KK 96 St
+          1	KK 97 St
+          1	KK 98 St
+          1	KK178 St
+          5	KN 1 Av
+          8	KN 1 Rd
+          1	KN 1 Road
+          1	KN 1 Street
+          1	KN 10 Av
+          1	KN 10 St
+          1	KN 100 St
+          1	KN 101 St
+          1	KN 102 St
+          1	KN 103 St
+          1	KN 104 St
+          1	KN 105 St
+          1	KN 106 St
+          1	KN 107 St
+          1	KN 108 St
+          2	KN 109 St
+          1	KN 11 St
+          1	KN 110 St
+          1	KN 111 St
+          1	KN 112 Street
+          1	KN 113 St
+          2	KN 114 St
+          1	KN 115 St
+          1	KN 116 St
+          1	KN 117 St
+          1	KN 118 St
+          1	KN 119 St
+          1	KN 12 Av
+          2	KN 12 St
+          1	KN 120 St
+          1	KN 121 St
+          1	KN 122 St
+          2	KN 123 St
+          1	KN 124 St
+          1	KN 125 St
+          1	KN 126 St
+          1	KN 127 St
+          1	KN 128 St
+          1	KN 129 St
+          1	KN 13 St
+          1	KN 130 St
+          1	KN 131 St
+          1	KN 132 St
+          1	KN 133 St
+          1	KN 134 St
+          1	KN 135 St
+          1	KN 136 St
+          1	KN 137 St
+          1	KN 138 St
+          1	KN 139 St
+          2	KN 14 Av
+          2	KN 14 St
+          1	KN 140 St
+          1	KN 141 St
+          1	KN 142 St
+          1	KN 143 St
+          1	KN 144 St
+          1	KN 145 St
+          1	KN 146 St
+          1	KN 147 St
+          1	KN 148 St
+          1	KN 149 St
+          2	KN 15 St
+          2	KN 150 St
+          1	KN 151 St
+          1	KN 152 St
+          1	KN 153 St
+          1	KN 154 St
+          1	KN 155 St
+          1	KN 156 St
+          1	KN 157 St
+          1	KN 158 St
+          2	KN 159 St
+          1	KN 16 Avenue
+          1	KN 16 St
+          1	KN 160 St
+          1	KN 161 St
+          1	KN 162 St
+          1	KN 163 St
+          1	KN 164 St
+          1	KN 165 St
+          1	KN 166 St
+          1	KN 168 St
+          1	KN 169 St
+          1	KN 17 St
+          1	KN 170 St
+          1	KN 171 St
+          2	KN 172 St
+          1	KN 173 St
+          2	KN 174 St
+          1	KN 175 St
+          2	KN 176 St
+          1	KN 177 St
+          1	KN 178 St
+          1	KN 179 St
+          4	KN 18 Av
+          1	KN 180 St
+          1	KN 181 St
+          1	KN 182 St
+          1	KN 183 St
+          1	KN 184 St
+          1	KN 185 St
+          1	KN 186 St
+          1	KN 187 St
+          1	KN 188 St
+          1	KN 189 St
+          1	KN 19 St
+          1	KN 190 St
+          1	KN 191 St
+          2	KN 192 St
+          1	KN 193 St
+          1	KN 194 St
+          1	KN 195 St
+          1	KN 196 St
+          1	KN 197 St
+          3	KN 198 St
+          1	KN 199 St
+          3	KN 2 Av
+         12	KN 2 Avenue
+          1	KN 2 St
+          2	KN 20 Ave
+          1	KN 20 St
+          3	KN 200 St
+          2	KN 201 St
+          3	KN 202 St
+          1	KN 203 St
+          1	KN 204 St
+          1	KN 205 St
+          1	KN 206 St
+          1	KN 207 St
+          3	KN 208 St
+          1	KN 209 St
+          1	KN 21 St
+          3	KN 210 St
+          1	KN 211 St
+          1	KN 212 St
+          1	KN 213 St
+          1	KN 214 St
+          1	KN 215 St
+          1	KN 216 St
+          1	KN 217 St
+          1	KN 219 St
+          1	KN 22 Av
+          1	KN 22 St
+          1	KN 220 St
+          1	KN 222 St
+          1	KN 223 St
+          1	KN 224 St
+          1	KN 225 St
+          1	KN 226 St
+          1	KN 227 St
+          1	KN 228 St
+          1	KN 229 St
+          1	KN 230 St
+          1	KN 231 St
+          1	KN 232 St
+          1	KN 233 St
+          1	KN 234 St
+          2	KN 235 St
+          1	KN 236 St
+          1	KN 237 St
+          1	KN 238 St
+          1	KN 239 St
+          1	KN 24 St
+          2	KN 240 St
+          1	KN 241 St
+          1	KN 242 St
+          1	KN 243 St
+          1	KN 244 St
+          1	KN 245 St
+          1	KN 246 St
+          1	KN 247 St
+          1	KN 248 St
+          1	KN 249 St
+          1	KN 25 Street
+          1	KN 250 St
+          1	KN 251 St
+          1	KN 252 St
+          1	KN 253 St
+          3	KN 254 St
+          1	KN 255 St
+          2	KN 256 St
+          1	KN 257 St
+          1	KN 258 St
+          1	KN 259 St
+          1	KN 26 Street
+          1	KN 260 St
+          1	KN 261 St
+          1	KN 262 St
+          1	KN 263 St
+          1	KN 264 St
+          1	KN 265 St
+          1	KN 266 St
+          1	KN 267 St
+          1	KN 268 St
+          1	KN 269 St
+          1	KN 27 Street
+          1	KN 270 St
+          1	KN 271 St
+          1	KN 273 St
+          1	KN 275 St
+          1	KN 277 St
+          1	KN 278 St
+          1	KN 279 St
+          1	KN 28 St
+          1	KN 280 St
+          1	KN 281 St
+          1	KN 282 St
+          1	KN 283 St
+          1	KN 284 St
+          1	KN 285 St
+          1	KN 286 St
+          1	KN 287 St
+          1	KN 288 St
+          1	KN 289 St
+          1	KN 29 Street
+          1	KN 290 St
+          1	KN 291 St
+          1	KN 292 St
+          1	KN 293 St
+          1	KN 294 St
+          1	KN 295 St
+          1	KN 296 St
+          1	KN 297 St
+          1	KN 298 St
+          1	KN 299 St
+          6	KN 3 Avenue
+         11	KN 3 Rd
+          4	KN 3 Road
+          2	KN 3 St
+          2	KN 30 Street
+          1	KN 301 St
+          1	KN 302 St
+          1	KN 303 St
+          1	KN 304 St
+          1	KN 305 St
+          1	KN 306 St
+          1	KN 307 St
+          1	KN 308 St
+          1	KN 309 St
+          1	KN 31 Street
+          1	KN 311 St
+          1	KN 312 St
+          1	KN 313 St
+          1	KN 314 St
+          1	KN 315 St
+          1	KN 316 St
+          1	KN 317 St
+          1	KN 318 St
+          1	KN 319 St
+          1	KN 32 Street
+          1	KN 320 St
+          1	KN 321 St
+          1	KN 322 St
+          1	KN 323 St
+          1	KN 324 St
+          1	KN 325 St
+          1	KN 326 St
+          1	KN 327 St
+          1	KN 328 St
+          1	KN 329 St
+          1	KN 33 Street
+          1	KN 330 St
+          1	KN 331 St
+          1	KN 332 St
+          1	KN 333 St
+          1	KN 334 St
+          1	KN 335 St
+          1	KN 336 St
+          1	KN 338 St
+          1	KN 34 Street
+          1	KN 340 St
+          1	KN 342 St
+          1	KN 344 St
+          1	KN 346 St
+          1	KN 348 St
+          1	KN 35 Street
+          1	KN 36 Street
+          1	KN 37 Street
+          1	KN 38 St
+          1	KN 39 St
+          2	KN 4 Av
+          5	KN 4 Avenue
+          1	KN 40 St
+          1	KN 41 Street
+          1	KN 43 St
+          1	KN 44 St
+          1	KN 45 Street
+          1	KN 46 St
+          1	KN 47 Street
+          1	KN 48 St
+          1	KN 49 St
+          1	KN 5 Av
+          1	KN 5 Avenue
+         21	KN 5 Rd
+         14	KN 5 Road
+          1	KN 5 Street
+          1	KN 50 St
+          1	KN 51 St
+          1	KN 52 St
+          1	KN 53 St
+          1	KN 54 St
+          1	KN 56 St
+          3	KN 57 Street
+          1	KN 58 St
+          1	KN 59 Street
+          1	KN 6 Av
+          1	KN 6 Avenue
+          2	KN 60 St
+          1	KN 61 St
+          1	KN 62 St
+          2	KN 63 St
+          1	KN 64 St
+          1	KN 65 Street
+          5	KN 67 Street
+          1	KN 68 St
+          1	KN 69 Street
+          1	KN 7 Av
+          1	KN 70 St
+          1	KN 71 Street
+          1	KN 72 St
+          1	KN 73 Street
+          2	KN 74 Street
+          2	KN 75 St
+          3	KN 76 Street
+          1	KN 77 St
+          2	KN 78 St
+          3	KN 78 Street
+          1	KN 79 St
+          9	KN 8 Av
+          1	KN 8 St
+          1	KN 80 Street
+          1	KN 81 St
+          2	KN 82 Street
+          1	KN 83 Street
+          3	KN 84 Street
+          1	KN 85 Street
+          1	KN 86 Street
+          1	KN 87 St
+          1	KN 87 Street
+          1	KN 88 St
+          1	KN 89 St
+          1	KN 9 Av
+          1	KN 9 St
+          1	KN 90 St
+          1	KN 91 St
+          1	KN 92 Street
+          2	KN 93 St
+          2	KN 94 Street
+          1	KN 95 St
+          1	KN 96 Street
+          1	KN 97 Street
+          1	KN 98 Street
+          1	KN 99 St
+          1	KN Hospital
+          1	KN Music
+          1	KN PO
+          1	KN School
+          1	KN Sport
+          1	KN Supermarket
+          1	KN Warehouse office
+          3	KN3 Rd
+          9	KN7 Road
+          1	KNB
+          1	KOBIL
+          1	KUBISIMA
+          1	KWA MUREMBA
+          1	Kaato Primary School
+          1	Kaato Technical School
+          1	Kabacuzi
+          2	Kabagali
+          1	Kabahanga
+          1	Kabakobwa
+          1	Kabale
+          1	Kabale - Katuna - Kigali Road
+          2	Kabarashi
+          3	Kabare
+          1	Kabare (chefferie)
+          9	Kabare School
+          4	Kabarondo
+          1	Kabarondo A
+          1	Kabarondo Vision Junior School
+          1	Kabarore
+          1	Kabatwa
+          1	Kabatwa Health Center
+          2	Kabavu
+          2	Kabaya
+          1	Kabere Primary School
+          2	Kabeza Market
+          1	Kabeza Modern Market
+          2	Kabgayi
+          3	Kabilzi
+          1	Kabingo
+          1	Kabingo Primary School
+          1	Kabinzi
+          4	Kabogobogo
+          2	Kaborogota
+          1	Kabuga
+          1	Kabuga Bus Station
+          1	Kabuga Ka Musha
+          1	Kabujenje
+          2	Kaburantwa
+          1	Kabutare
+          2	Kabuye
+          1	Kacyiru
+          1	Kacyiru Bus Station
+          1	Kacyiru Executive Apartment
+          1	Kacyiru Hospital
+          1	Kadahenda
+          1	Kadaho
+          1	Kaderaho
+          2	Kadigadiga
+          1	Kadobogo
+          4	Kaduha
+          2	Kadwidimba
+          1	Kafunzo
+          1	Kaganda
+          2	Kagano
+          3	Kagarama
+          2	Kagarama High School
+          2	Kagarama Primary School
+          1	Kagebya
+          2	Kagende
+          3	Kagera
+          4	Kageyo
+          1	Kageyo Peninsula
+          4	Kagina
+          1	Kagina Primary School
+          3	Kagogo
+          1	Kagogo Sector Office
+          1	Kagoma Primary School
+          1	Kagona
+          1	Kagona Primary School
+          1	Kagoro
+          1	Kagugu
+          1	Kagugu Health Center
+          1	Kagugu Primary School
+          2	Kagwa
+          1	Kagyezi
+          1	Kagyezi Primary School
+          1	Kahandakamwe
+          1	Kahondo Primary School
+          1	Kahondo Secondary School
+          1	Kajevuba
+          1	Kajumbura Lookout
+          1	Kamabuye
+          1	Kamembe
+          1	Kamembe Airport
+          1	Kamembe-Kibuye-Gisenyi ferry departure point
+          1	Kamena
+          1	Kameregi
+          6	Kamicanz
+          1	Kamiko
+          1	Kamiranama
+          4	Kamiranzovu
+          1	Kamombo
+          3	Kamonyi
+          1	Kampanga
+          1	Kamubuga
+          3	Kamunanda
+          1	Kamwezi
+          1	Kanama
+          1	Kanazi
+          1	Kandt Residence
+          1	Kandt's Source of the Nile
+          1	Kaniga
+          1	Kanjongo
+          1	Kanogo
+          1	Kanombe
+          2	Kansi
+          1	Kanyanza
+          1	Kanyeganyegye Primary School
+          1	Kanyinya
+          2	Kanzenze
+          1	Karaba
+          1	Karago
+          1	Karago Primary School
+          1	Karagwe
+          5	Karama
+          1	Karama Adventist Church
+          1	Karama Cell Office
+          6	Karambi
+          1	Karambi road
+          1	Karambi secondary school
+          2	Karambo
+          1	Karangazi
+          2	Karaungeri
+          7	Karazanga
+          1	Karembo
+          1	Karenge
+          4	Karengera
+          1	Karibu
+          1	Kariramugezi
+          1	Karisoke Exhibition
+          2	Karisoke Research Camp
+          1	Karoli-Lwanga
+          1	Karondo
+          4	Karongi
+          1	Karubamba
+          1	Karubamba forest
+          1	Karubamba's Market
+          1	Karujanga Catholic Church
+          1	Karujanga Market Play Ground
+          1	Karujanga Parish Offices
+          1	Karujanga Primary School
+          1	Karujanga Protestant Church
+          2	Karujanga Road
+          1	Karumbamba
+          1	Karumuna
+          5	Karundura
+          1	Karungeri
+          3	Karuruma
+          2	Kashasha
+          1	Kashasha Future Primary School
+          1	Kashasha Primary School
+          1	Katabagemu
+          1	Katabuvuga
+          1	Katarara Primary School
+          3	Kato
+          1	Katojo Primary School
+          1	Katuna
+          1	Katuna International School
+          1	Katuna Market place (akensiyona)
+          1	Katuna Primary School
+          2	Kavili
+          1	Kavu Primary School
+          1	Kavumu
+          3	Kavungu
+          1	Kavure
+          1	Kavuwo 1
+          1	Kavuwo 2
+          3	Kawangire
+          1	Kayanza
+          1	Kayave
+          1	Kayemzi
+          1	Kayenzi
+          6	Kayihenda
+          1	Kayitaba Road
+          2	Kayonza
+          1	Kayonza District
+          1	Kayove
+          2	Kayumba
+          1	Kayumbo Centre
+          3	Kayumbu
+          1	Kazabe
+          4	Kaziba
+          1	Kazo
+          1	Kebab House
+          1	Kenya Commercial Bank (KCB) - Kimironko
+          1	Kenyan High Commission
+          1	Ketchen
+          1	Keva gusthouse
+          1	Keza Nyungwe Guesthouse
+          1	Khana Khazana
+          1	Kiaka Busstation
+          1	Kibagabaga Cell/Akagali
+          1	Kibagabaga Hospital
+          1	Kibango
+          1	Kibangu
+          4	Kibaya
+          3	Kibeho
+          1	Kibenga
+          1	Kibihekani
+          5	Kibilizi
+          3	Kibingo
+          1	Kibinja
+          2	Kibirizi
+          1	Kiboga
+          2	Kibogora Health Center
+          1	Kibogora Hospital
+          1	Kibugazi
+          1	Kibumbwe
+          3	Kibungo
+          2	Kibuye
+          1	Kibuza Cell Office
+          1	Kichen
+          2	Kicukiro
+          2	Kicukiro Center
+          1	Kicukiro College of Technology Hostel
+          1	Kicukiro College second football ground
+          8	Kicukiro Health Centre
+          2	Kicukiro Market
+          1	Kicukiro Market (isoko)
+          1	Kicukiro Pension Plaza
+          1	Kicukuro Center
+          1	Kigabiro
+          4	Kigaga
+          2	Kigali
+          1	Kigali Business Centre (under construction)
+          1	Kigali City Hall
+          1	Kigali City Tower
+          2	Kigali Convention Center
+          1	Kigali Diplomat Hotel
+          1	Kigali Golf Club
+          2	Kigali Heights
+          1	Kigali Independent University (ULK)
+          1	Kigali Independent University ULK
+          1	Kigali Institute of Education (KIE)
+          2	Kigali International Airport
+          1	Kigali International Christian School (KICS)
+          1	Kigali International Community School
+          1	Kigali International Community School (KICS)
+          1	Kigali Marriott
+          1	Kigali Special Economic Zone
+          1	Kigali park
+          1	Kigali zoo for Moussa
+         10	Kigali-Gatuna Road
+          1	Kigando Nursery School
+          1	Kigarama
+          1	Kigembe
+          1	Kigeme
+          1	Kigeme Facility
+          2	Kigeyo
+          1	Kigina
+          1	Kigogo
+          2	Kigogoma
+          4	Kigoma
+          2	Kigoya
+          1	Kijot
+          1	Kilala Plain
+          2	Kilimbi
+          1	Kilinda
+          1	Kimi Gourmand Creperie
+          3	Kimihurura
+          1	Kimihurura Assemblies of God
+          1	Kimihurura Ibiro
+          1	Kimihurura Seventh Day Adventist Church
+          1	Kimihurura sector (Umurenge)
+          1	Kimironko
+          1	Kimironko II Primary School
+          1	Kimironko Market
+          1	Kimironko Taxi Park
+          1	Kimironko car wash
+          2	Kimironko pub
+          1	Kimisagara Catholic Parish
+          1	Kimisagara Restauration Church
+          2	Kimonyi
+          1	Kinamba
+          4	Kinazi
+          1	Kindeko
+          1	Kindness Pharmacy
+          1	Kinetherapie
+          2	King Faisal Hospital
+          1	Kingdom Hall Jehova's Witnesses
+          1	Kingfisher Journeys
+          1	Kings Island
+          2	Kinigi
+          1	Kinigi Guest House
+          1	Kinigi, Vulcanoes NP
+          2	Kinihira
+          1	Kinini
+          2	Kinini Village
+          1	Kinkanga
+          3	Kinnyogo
+          4	Kinoni
+          1	Kintobo
+          1	Kinunga primary school
+          2	Kinunu
+          1	Kinunu basecamp
+          1	Kinyaba
+          1	Kinyamari Primary School
+          1	Kinyanja
+          1	Kinyegenyege
+          1	Kinyinya
+          1	Kinyinya Bus Station
+          2	Kiraga
+          1	Kirambo
+          1	Kiraro
+          1	Kirdengarden Mil Colinas
+          2	Kirehe
+          1	Kirehe District Hospital
+          1	Kirengeli
+          1	Kirihura
+          1	Kirimbi
+          1	Kirinda
+          1	Kiruhua
+          3	Kiruhura
+          2	Kirundo
+          4	Kiruruma
+          2	Kiryango
+          9	Kisaro
+          1	Kiseki Authentic Japanese Restaurant
+          1	Kisibo Primary School
+          1	Kisibo Road
+          1	Kisimenti
+          1	Kisoro
+          1	Kisoro - Cyanika Road
+          1	Kitabagarwa Road
+          2	Kitabi
+          1	Kitabi visitor center
+          4	Kitchen
+          1	Kitichyinoni
+          1	Kivu
+          4	Kivumu
+          1	Kivumu Friary
+          1	Kivumu Road
+          2	Kivuruga
+          1	Kivuye
+          1	Kiyombe
+          1	Kiyovu
+          1	Kiyumba
+          2	Kiziguro
+          1	Kiziguro Hospital
+          1	Kiziguro School
+          4	Kizinga
+          1	Kizinga Primary School
+         22	Kobil
+          1	Kobil Fuel station
+          2	Kobil Gas Station
+          1	Kobil Kacyiru
+          1	Kobil Petrol Station
+          1	Kobo
+          5	Koko
+          1	Komera
+          1	Komonyi
+          1	Kopolo close
+          4	Kora
+          1	Kubingo
+          1	Kubitiro
+          1	Kukinyanda
+          1	Kukirnenge
+          1	Kumusanze
+          1	Kuri Arrete
+          1	Kuri Kariyeri
+          1	Kurusozi
+          2	Kuvumu
+          1	Kwamukecuru Parking 2KM
+          1	Kwankoro Island
+          1	Kwashuni
+          1	Kwikombe
+          1	Kwishusho
+          1	Kyonza
+          1	LA BONNE ADDRESS
+          1	LA PAILLOTTE
+          1	La Bella Lodge
+          1	La Bella campsite
+          1	La Benevolencys Grands Lacs
+          1	La Colombière Secondary School
+          1	La Corniche
+          1	La Fleur cuisine
+          1	La Fontaine Primary School
+          1	La Galette (German Bakery&Butchery)
+          1	La Palloitte Gorilla Place
+          1	La Palme Hotel
+          1	La Source
+          1	La Vedette
+          1	La caverne de Nyamirambo
+          1	Labo. and external consultation
+          1	Lac Bihinga
+          1	Lac Birara
+          1	Lac Bulera
+          1	Lac Cohoha
+          1	Lac Cyambwe
+          1	Lac Cyohoha
+          1	Lac Gaharwa
+          1	Lac Gashariga
+          1	Lac Karaba
+          2	Lac Karago
+          1	Lac Kidogo
+          1	Lac Kilimbi
+          1	Lac Kivu
+          1	Lac Miravi
+          1	Lac Mpanga
+          1	Lac Muhazi
+          1	Lac Nasho
+          1	Lac Nyabugongwe
+          1	Lac Ruhondo
+          1	Lac Rumira
+          1	Lac Rweru
+          1	Lac Sake
+          1	Lac de Rwegura
+          1	Laika Supermarket
+          1	Lake
+          1	Lake Birengero
+          1	Lake Chahafi
+          1	Lake Cyabatanzi
+          1	Lake Cyohoha
+          1	Lake Cyohoha North
+          1	Lake Ihema
+          1	Lake Kajarama
+          1	Lake Kivu Viewpoint (2026m)
+          1	Lake Mujunju
+          1	Lake Murambi
+          1	Lake Murambya
+          1	Lake Shakani
+          1	Lake Shore Road
+          1	Lake View Guesthouse
+          1	Lake View Hotel
+          1	Lalibela
+          1	Land Start Hotel
+          1	Le Bambou Gorillas Lodge
+          1	Le Petit Village de l'Artisannat
+          1	Le Prestige House
+          1	Le Printemps
+          1	Le sanitas
+          1	Lebanese Resto & Bar
+          1	Legal Aid Forum (LAF)
+          2	Lemigo
+          1	Lemigo Hotel
+          1	Lenima Coffee Shop
+          1	Les Mini Pousses
+          2	Library
+          1	Libre Voyage
+          1	Libyan Embaasy
+          1	Light & Spacious Haven
+          1	Light House Hotel
+          1	Light International Nursery
+          1	Liqour Store
+          1	Little Angel's Nursery School
+          1	Little Bears School
+          2	Little Gems Academy
+          1	Local fast food
+          1	Locksmith
+          1	Logemets Barthos
+          1	Lubirizi
+          1	Lushoze
+          1	Luxury Hotel
+          1	Lycee de Kigali Gymnasium
+          1	M. Peace Plaza
+          1	MAGERWA COMPOUND
+          1	MAGERWA HQ
+          1	MAGERWA PARKING
+          1	MAGERWA RESIDENTIAL AREA
+          1	MAGERWA WAREHOUSE 1
+          1	MAGERWA WAREHOUSE 2
+          1	MAGERWA WAREHOUSE 3
+          1	MAGERWA WAREHOUSE 4
+          1	MINAFET
+          1	MINAGRI (Ministry of Agriculture)
+          1	MINALOC
+          1	MINECOFIN
+          2	MINEDUC
+          1	MINIJUST
+          2	MININFRA
+          1	MININTER
+          1	MNDA
+          1	MONUC
+          1	MONUSCO
+          1	MONUSCO SK Bde HQ
+          1	MONUSCO SK HQ
+          1	MP Travel & Tours Ltd
+          1	MPPD Warehouse, Kigali
+          1	MSF-Hollande
+          1	MSH Rwanda
+          1	MTN
+          1	MTN (Technical) Center, Remera
+          1	MTN Airtime Kiosk
+          1	MTN Centre
+          1	MTN Customer Parking
+          1	MTN Employees
+          1	MTN Service Centre
+          1	MTN phones
+          1	MUNGA DISTRIBUTORS
+          1	Mabungo Primary School
+          5	Macadamia Hotel
+          1	Macuba
+          1	Madjengo Mosque
+          1	Magasin Kajal (Furmitur Shop)
+          1	Magda Cafe
+          1	Magerwa
+          1	Magongwe
+          1	Mahama
+          1	Mahembe
+          1	Mahoko
+          1	Mahoko Market
+          1	Main Hall
+          1	Maison Dorcas
+          1	Maison St. Benoît
+          1	Maison de Jeunes Kimisagara Basketball
+          2	Maison de Missionnaires des Sacres Coeurs
+          2	Maison de Soeurs des Sacrees Coeurs
+          1	Maison des Missionnaires des Sacres Coeurs
+          1	Maison des jeunes Kimisagara Football
+          1	Majyaruguru
+          1	Makambazi
+          1	Makera
+          1	Makoumba Bar
+          1	Malahide Paradise
+          1	Malaika
+          1	Maman Mwilu
+          1	Mamba
+          3	Mamba Club
+          1	Man Truck Showroom
+          1	Mangaza
+          1	Manihira
+          2	Manor Hotel
+          1	Manor Hotel Pool
+          1	Manyagiro
+          1	Maraba
+          1	Maraba Coffee Co-operative
+          5	Marais Murago
+          1	Maranatha Church
+          1	Marangara
+          1	Marasa Umubano Hotel
+          1	Marché de Ririma
+          1	Mareba
+          1	Marenge
+          1	Marters secondary school
+          2	Masaka
+          2	Masango
+          1	Mashyiga
+          1	Masizi
+          1	Masoro
+          8	Mass Grave
+          2	Mata
+          1	Mataba
+          1	Matalasserie
+          1	Maternal Newborn and Child Health Project in Rwanda
+          1	Maternity Neonatology
+          1	Matimba
+          3	Matyazo
+          1	Maxi
+          1	Maxi Center
+          2	Mayange
+          1	Mayengo Primary School
+          1	Mazatukura
+          1	Mazimeru
+          2	Mbazi
+          3	Mbinurume
+          3	Mbogo
+          1	Mbonayombi
+          1	Mbuga
+          2	Mbunganzeru
+          1	Mburabuturo Football field
+          1	Mburabuturo Mountain
+          1	Mbuye
+          1	Mbwirandumva Initiative
+          1	Mbyo
+          1	McMillan English Rwanda
+          1	Medal's House
+          1	Mediheal Diagnostics & Fertility Centre - Kigali
+          1	Mekingo
+          2	Mer du Verbe
+          1	Merama
+          3	Merez
+          1	Merez 2
+          1	Merez Super market
+          1	Metalic Doors
+          1	Metron Houses
+          1	Meze Fresh
+          1	Mgahinga Gorilla National Park
+          2	Mibilizi
+          2	Migano
+          2	Migendo
+         11	Migina
+          2	Miguramo
+          3	Mihingo
+          1	Mijo Hostel
+          1	Military Court
+          1	Millenium Bar
+          1	Millenium Supermarket
+          2	Mimuli
+          2	Minazi
+          1	Mini Bus Station
+          1	Minoga
+          1	Miracle center church Remera
+          3	Mirayi
+          1	Mironko stadium
+          2	Misegwibili
+          2	Mitungo Village
+          1	Mitungo street 3
+          1	Miyove
+          1	Mkamira
+          2	Mobile Phone Mast
+          1	Mobisol
+          1	Mogas
+          1	Mohana Plain
+          1	Mon Jardin
+          1	Monmartse
+          1	Mont Hehu
+          1	Montana
+          1	Montana Vista Hotel
+          1	Moriah Hill Hotel
+          2	Mosque
+          3	Mosquee
+          1	Motel Eden Garden
+          1	Mothers' Union Gift Shop
+          1	Motley Healthcare ltd
+          1	Mount Bisoke
+          1	Mount Karisimbi
+          1	Mount Kenya University Campus / Gitega
+          1	Mount Meru Petro Station
+          1	Mount Mgahinga
+          1	Mount Muhabura
+          1	Mount Sabinyo
+          1	Mount Sabinyo Trail
+          1	Mount Sabyinyo 1st Peak
+          1	Mount Sabyinyo 2nd Peak
+          1	Mount Sabyinyo 3rd Peak
+          1	Mountain Gorilla Nest
+          1	Mpanga
+          5	Mpazi Kimisagara
+          1	Mpenge
+          1	Mpombori
+          1	Mr Chips
+          1	Mt Karasimbi
+          1	Mu Gisaza lodge
+          1	Mubanza
+          1	Mubitaba
+          4	Mubuga
+          1	Mucubira
+          1	Mucubira Catholic Church
+          1	Mucubira Health Center
+          1	Mudende
+          1	Mugano
+          4	Muganza
+          1	Mugariza
+          1	Mugataraga
+          3	Mugembero
+          1	Mugera
+          1	Mugesera
+          4	Mugina
+          1	Mugobore
+          2	Mugombwa
+          1	Mugonero
+          1	Mugumbwa
+          1	Mugunero
+          1	Mugwato
+          1	Muhama
+          1	Muhanda
+          5	Muhanga
+          1	Muharangye Catholic church
+          1	Muhazi
+          1	Muhazi Beach Hotel
+          1	Muhe
+          1	Muhe Bridge
+          5	Muhembe
+          2	Muhima Primary School
+          1	Muhirwa
+          1	Muhirwa free parking
+          1	Muhondo
+          3	Muhororo
+          1	Muhoza
+          1	Muhungu CELPA
+          1	Muhungu Diocesain
+          3	Muhura
+          1	Muhuroro
+          1	Mukabya
+          1	Mukama
+          2	Mukamira
+          1	Mukamira Bus Station
+          1	Mukarang
+          2	Mukarange
+          1	Mukarangye C.O.U Road
+          1	Mukebera
+          1	Mukerarugendo
+          1	Mukina
+          1	Mukindo
+          2	Muko
+          1	Mukoce Primary School
+          1	Mukoto Village
+          1	Mukoyoyo
+          1	Mukungu
+          7	Mukunguri
+          9	Mukungwa
+          1	Mukunzi's Residence
+          3	Mukura
+         11	Mulindi
+          3	Mumuri
+          1	Mumuri Dam
+          1	Mumuri's road
+          1	Munege
+          1	Munini
+          3	Munyaga
+          1	Munyiginya
+          4	Munzanga
+          1	Murabu
+          4	Murama
+          1	Muramba
+          7	Murambi
+          1	Murambi Genocide Memorial
+          1	Murambi Health Centre
+          1	Murambo market
+          4	Muregeya
+          1	Murehe
+          1	Muremure
+          1	Murindi
+          1	Muringa
+          3	Murondwe
+          2	Murongoa
+          1	Murongozi
+          2	Murtumba
+          1	Murubaya Hospital rwanda
+          1	Murubaya Road
+          1	Murubilizi
+          1	Murugo Rwanda
+          3	Murunda
+          3	Murundi
+          1	Murundi road
+          1	Mururu
+          3	Musambira
+          1	Musangabo viewpoint
+          1	Musange
+          6	Musanze
+          1	Musanze Agricultural products markets
+          1	Musanze Bus Park
+          1	Musanze Caves, main entrance
+          1	Musanze Caves, second entrance
+          1	Musanze District Office
+          1	Musanze Hospital
+          2	Musasa
+          1	Musasa Genocide Memorial
+          2	Musasa Homestay
+          1	Musasa basecamp
+          1	Musaza
+          4	Musebeya
+          1	Musenyi
+          4	Musha
+          1	Mushaduka
+          2	Mushaka
+          1	Musheli
+          1	Mushikiri
+          2	Mushishiro
+          7	Mushogoro
+          1	Mushonyi
+          2	Mushubati
+          3	Mushubi
+          3	Mutandi
+          1	Mutender
+          1	Mutete
+          4	Mutojo
+          2	Mutovu
+          3	Mutukura
+          1	Mutumba Hills
+          1	Mutumba Ranger Post
+          1	Mutuntu
+          3	Muvuguto
+         14	Muvumba
+          1	Muwoga
+          1	Muyaba Azira
+          1	Muyange
+          6	Muyanza
+          1	Muyinga
+          1	Muyira
+          1	Muyongwe
+          1	Muyumba
+          1	Muyumbu
+          1	Muyumbu Loop
+          1	Muyunzwe
+          2	Muzizi Village
+          1	Muzo
+          4	Mwambu
+          1	Mwamikazi
+          9	Mwange
+          1	Mwendo
+          5	Mwesa
+          2	Mwezi
+          1	Mwibu
+          1	Mwili
+          1	Mwiyanike
+          4	Mwogere
+          5	Mwogo
+          1	Mwulire
+          1	Mwumba
+          1	Myange
+          1	Myiha
+          1	Mère du verbe
+          1	NIYO Arts Gallery
+          1	NKanka
+          1	NNyakimama
+          2	NPD Cotraco
+          4	NR 25
+          1	NR 6
+          1	NR19
+          1	NR25
+          2	NR7
+          1	NSPA (Nile Source Polytechnic of Applied Arts)
+          2	NSTC
+          1	NUR
+          2	NUR SCHOOL OF PUBLIC HEALTH
+          1	Nacihembe
+          1	Nadia
+          1	Nakumatt
+          1	Nakumatt Kagugu
+          1	Nakumatt Supermarket
+          1	Namba's Bar
+          1	Napoleon Island's peak
+          2	Nasho
+          1	Natarabana
+          1	National Bank of Rwanda
+          1	National Electoral Commission
+          1	National Institute of Statistics of Rwanda
+          1	National Museum of Rwanda
+          1	National Police College
+          5	National Speciality Coffee Quality Laboratory & Training Ce
+          1	National University of Rwanda
+          1	Natural History Museum
+          1	Nayrurema
+          1	Nazarene Church
+          1	Ndaro
+          1	Ndatemwa
+          1	Ndega
+          1	Ndego
+          1	Ndera
+          1	Ndolis Supermarket
+          1	Ndora
+          1	Negam Nursery School
+          1	Nelson Mandela Education Center
+          1	Nelson Mandela Peace Village
+          4	Nemba
+          1	Nemba Airport
+          1	Nemba Primary School
+          1	New Artel
+          1	New Cactus
+          1	New Kigali Designers
+          1	New Life & Nutrition
+          1	New Panorama
+          1	New Times
+          2	New Vision Electronic
+          1	New center market
+          1	Ngamba
+          4	Nganzo
+          1	Ngara
+          3	Ngara-Rusumo road
+          3	Ngarama
+          1	Ngarama Rock
+          4	Ngendombi
+          1	Ngera
+          1	Ngeruka
+          4	Ngiryi
+         24	Ngoma
+          1	Ngoma Playground
+          4	Ngororero
+          1	Ngororero Market
+          1	Ngozi
+          1	Ngweshe (chefferie)
+          1	Niyamabuye
+          1	Njambwe
+          1	Nkanka
+          1	Nkanka Parish
+          2	Nkomane
+          1	Nkombo
+          6	Nkora
+          2	Nkoro
+          2	Nkotsi
+          1	Nkubi
+          3	Nkungu
+          2	Nkurubundi
+          1	No Valu Valu
+          1	No Valu Valu Pub
+          1	Nobilis Appartments
+          1	Nobilis Pharmacy
+          1	Nobleza
+          3	Nobleza Hotel
+          1	Norbi's viewpoint Kibuye
+          1	Nord-Kivu
+          1	Now Now Rolex
+          1	Nr. 12 - Diane Fossey Room
+          1	Nsanga
+          2	Nshili
+          4	Nsinda School
+          1	Nstinda
+          1	Ntambuka (chefferie)
+          1	Ntangara
+          2	Ntarama
+          4	Ntaruka
+          1	Ntaruko
+          2	Ntebe
+          1	Ntega
+          4	Ntende
+          1	Ntendezi
+          2	Ntondwe
+          1	Ntongwe
+          1	Ntunga
+          1	Ntungamo
+          1	Ntunimba
+          1	Ntyazo
+          1	Nursery Block
+          1	Nursing office
+          2	Nvmoudu
+          1	Nyabagendwa
+          3	Nyabahanga
+         52	Nyabarongo
+          1	Nyabarongo River
+          1	Nyabihake Refugee Camp
+          3	Nyabihu
+          1	Nyabimata
+          1	Nyabinoni
+          1	Nyabinyenga
+          1	Nyabinyenga Cell Office
+          1	Nyabinyenga Parish
+          1	Nyabirasi
+          1	Nyabitekeri
+          1	Nyabubare School
+          1	Nyabugogo
+          1	Nyabugogo Bus Station
+          1	Nyabugogo Market
+          1	Nyabugogo; c
+          4	Nyabuvomo
+          3	Nyabwoma
+          1	Nyabyungo
+          2	Nyacyonga
+          3	Nyagafunzo
+          2	Nyagahanga
+          3	Nyagako
+          3	Nyagashomba
+          3	Nyagatare
+          1	Nyagatare Diplomat Hotel
+          1	Nyagatsinda
+          1	Nyagihanga
+          1	Nyagisambu
+          7	Nyagisenyi
+          3	Nyagisozi
+          1	Nyakabingo
+          1	Nyakabuye
+         10	Nyakagezi
+          1	Nyakahanga Primary School
+          1	Nyakajuli
+          1	Nyakarambi
+          1	Nyakarenzo
+          2	Nyakayaga
+          1	Nyakibanda
+          1	Nyakiliba
+          1	Nyakimama
+          1	Nyakiziba
+          2	Nyakiziga
+          3	Nyakora
+          2	Nyamabuye
+          2	Nyamagabe
+          1	Nyamagabe Bus station
+          1	Nyamagana
+          1	Nyamahembe
+          3	Nyamasheke
+          1	Nyamaswi
+          2	Nyamata
+          6	Nyamata - Rilima
+          1	Nyamata Church - Genocide Memorial
+          1	Nyamata Hospital
+          1	Nyamata Secondary School
+          3	Nyamigogo
+          1	Nyamiheno
+          3	Nyamirama
+          1	Nyamirambo
+          1	Nyamirambo Market Place
+          1	Nyamirambo Police Station
+          1	Nyamirambo Road
+          1	Nyamirambo Women’s Center
+          1	Nyamiryango Primary School
+          3	Nyamiyaga
+          1	Nyamotoro
+          1	Nyampiki Peninsula
+          1	Nyamugali
+          2	Nyamukumba
+          1	Nyamulindi
+          1	Nyamumba
+          1	Nyamurenza
+          1	Nyamusanze
+          4	Nyamutera
+          2	Nyamyumba
+          4	Nyange
+          1	Nyange memorial
+          1	Nyangezi
+          1	Nyangihinika
+          1	Nyankenke
+          1	Nyankora
+          1	Nyantende
+          5	Nyanza
+          1	Nyanza Bus Station
+          1	Nyanza Memorial Genocide
+          1	Nyanzali
+          1	Nyarrutovu
+          1	Nyarubaka
+          2	Nyarubandwa
+          4	Nyarubogo
+          2	Nyarubuye
+          2	Nyarugenge
+          1	Nyarugenge Primary Court
+          2	Nyaruguru
+          1	Nyaruhuru
+          1	Nyarumana
+          1	Nyarungenge
+          1	Nyarurama
+          1	Nyarurama Cell Office
+          4	Nyarusange
+          1	Nyaruteja
+          2	Nyarutovu
+          1	Nyarutunga
+          1	Nyarwunmbu
+          1	Nyaushura
+          1	Nyawera
+          1	Nyayumba
+          2	Nyenyeri
+          2	Nyenyeri Bar
+          1	Nyinamuronzi Road
+          1	Nyinarushengye Primary School
+          4	Nyinya
+          1	Nyinyari
+          4	Nyirabidbili
+          2	Nyirahindwe
+          1	Nyiramakabura
+          1	Nyiramisago
+          2	Nyiramurongi
+          2	Nyirangarama
+          1	Nykariro
+          1	Nyokousi
+          1	Nyove
+          1	Nyumba
+          3	Nyundo
+          1	Nyundo Cathedral
+          1	Nyundo School
+          1	Nyungwe Forest Lodge
+          1	Nyungwe Forest National Park
+          1	Nyungwe National Park
+          1	Nyungwe Office
+          1	Nyungwe Ranger Post
+          1	Nyungwe Top View Hill Hotel
+          1	Nzabonimpa
+          1	Nzahaha
+          1	Nzavu
+          1	Nzige
+          1	O'Brian's Pub
+          4	OCIR Cafe
+          1	OIL Petrol Station
+          1	ORINFOR
+          1	ORTPN
+          1	Ocir the
+          1	Office of the Auditor General
+          1	Ogopogo
+          1	Okapi Hotel
+          1	Old Classrooms
+          1	Old grave site
+          1	Onatracom Mosque
+          1	One Acre Fund Office
+          1	One Family Health
+          1	One Love Club
+          2	One Stop Shopping Supermarket
+          1	One&Only Nyungwe House
+          1	Onomo Hotel
+          1	Oper. Theater
+          1	Orange Courts Hotel
+          1	Osaka
+          1	Oxygen Restaurant & Bar
+          1	Oxygene
+          1	PIASS
+          1	PIASS (Protestant Institute of Arts and Social Sciences)
+          1	PRINTFAST RWANDA LTD
+          1	PSF COMPOUND
+          1	PSF MAIN BUILDING
+          1	Padri Vjeko VTC
+          1	Pakistani
+          1	Palais de Nyanza
+          1	Palm Garden Resort
+          1	Palotin press
+          1	Pan China Restaurant and Bar
+          1	Panzi
+          1	Papyrus
+          1	Paradise Medal
+          1	Parc National des Virunga
+          1	Parc National des Volcans
+          2	Parc national de la Kibira
+          1	Parish of Rambura
+          1	Park View Courts
+          2	Parking
+          1	Parking for DRC Consolate
+          1	Parking of National Museum of Rwanda
+          1	Parliament
+          1	Paroisse Karoli Lwanga
+          1	Pasadena Snack Bar
+          1	Pastor's House, AEBR Kibuye
+          1	Patel
+          2	Path
+          1	Pathway to Success
+          1	Peace Corps/Rwanda
+          1	Peace Guest House
+          1	Peace Saloon
+          1	Pediatrie
+          2	Penstock Canal
+          1	Pentecotist church
+          1	Petit Barriere
+          1	Petit Bassan Hotel
+          2	Petit Prince
+          1	Petron House
+          5	Pfunda
+          1	Pfunda Tea Factory
+          1	Pharmacie Continentale
+          1	Pharmacie Iraguha
+          1	Pharmacy
+          1	Phoenix Metal
+          1	Phone Shop[MTN]
+          1	Physics Labaratory
+          1	Pindura
+          1	Pineda
+          1	Pizzeria Italiano Al Lago Kivu
+          1	Place de l'Indépendance
+          8	Place de l'Unité Nationale
+          3	Place de la Constitution
+          1	Plant and Flower shop
+          1	Plateau Clinic
+          1	Point to book an island tour
+          1	Poivre Noir
+          1	Police Station
+          1	Police Station Street
+          1	Police Station of Taba
+          1	Police training playground
+          1	Policlinique de Musanze
+          1	Post Office
+          1	Poste de Santé Butare
+          1	Poste de Santé Mariba
+          1	Potential campsite
+          1	Preet Fast Food ( Indian Vegetarian Restaurant)
+          1	Presbyterian Church, Kiyovu Diocese
+          1	Presibyterian Church
+          1	President's Office
+          1	Presidental Palace Museum
+          1	Prestor House
+          1	Prima 2000
+          1	Primary School
+          1	Primary School Myange
+          1	Primary school Shangi
+          2	Prince House
+          1	Printing and other Appliances
+          2	Prison
+          1	Private Residential Pool
+          1	Procure
+          1	Promota Creations Ltd
+          1	Public Library
+          1	Pères Xavériens
+          2	Péage
+          2	Qiang Brother
+          1	Question Coffee
+          1	Quick Star service Rwanda
+          1	RAINBOW HOTEL
+          1	RD Congo - Burundi
+         44	RD Congo - Rwanda
+          1	RD Congo - Uganda
+          1	RD Congo - anciennes provinces (avant mi-2015)
+          1	RD Congo - provinces
+          1	RDB Briefing Point
+          1	RDF Command and Staff College
+          1	REMERA Taxi Park
+          1	REsidance charles test
+          1	RMCC Office
+          1	RMCC. Parking Area
+          1	RN
+          1	RN 1
+          1	RN14
+          1	RNP HQ
+          1	RRA RSSB One Stop Collection Center
+          1	RSSB
+          1	RSSB Nyarugenge Plaza
+          1	RTUC Restaurant
+          1	RUKOMO Market
+          1	RURA HQ
+          1	RWACOF COMPOUND
+          1	RWACOF MAIN
+          1	RWACOF WAREHOUSE
+          1	RWAHAMA
+          1	RWANDA MOTORS
+          1	RWANDA-DRC Frontier
+          1	RWANDAFOAM
+          1	Rachel's Saloon
+          1	Radiant Insurance Company
+          1	Radio Flash
+          1	Radisson Blu Hotel
+          1	Radisson Hotel
+          2	Rafiki
+          1	Rafiki Club
+          3	Rambura
+          1	Ramiro
+          1	Ranger Post
+          1	Rangiro
+          1	Real Contractors
+          1	Red Rocks Campsite
+          1	Red Rocks Guesthouse
+          1	Regency Indian Restaurant
+          1	Regideso Hydroelectric Plant
+          1	Regional Jesuits Home
+          7	Remera
+          1	Remera Catholic I
+          1	Remera Modern Market
+          1	Republika Lounge
+          1	Residence
+          1	Residence PRIMA 2000
+          1	Residence of US Ambassador
+         18	Residential
+          1	Residential, or a barn, or living quarters whilst farming
+          1	Rest Area
+          1	Rest Hut
+          1	Restaurant
+          1	Restaurant Hellenique
+          1	Restaurant Icyaylamata
+          1	Restaurant Unique
+          1	Restaurante Epicurien
+          1	Restauration church Remera
+          1	Restoration church
+          5	Rice
+          3	Ridge Road
+          1	Right to Play, Rwanda
+          1	Rigina Pacis
+          2	Rilima
+          1	Rise And Shine Primary School
+          1	River
+          2	Rivière Rusizi
+          1	Road 1
+          1	Roko Construction Ltd.
+          1	Rolex
+          1	Rongi
+          1	Rotary Library
+          1	Route nationale 2
+          1	Route nationale 5
+          1	Routes Nationales Congo Kinshasa
+          1	Row 1
+          1	Row 2
+          1	Row 3
+          1	Row 4
+          1	Row 5
+          1	Royal Garden Restaurant
+          1	Rubaba
+          2	Rubagabaga
+          1	Rubagambavu
+          1	Rubaneura's Luxuries, Apartments
+          1	Rubanga
+          1	Rubangura
+          2	Rubavu
+          2	Rubavu-Karongi
+          1	Rubaya
+          1	Rubenga (chefferie)
+          2	Rubengera
+          2	Rubilizi
+          5	Rubona
+          1	Rubona Cell Office
+          2	Ruboroga
+          1	Rubumba Primary School
+          4	Rubyiro
+          1	Rucikiri
+          5	Ruderanigozi
+          2	Rue Muhabura
+          1	Rue du Commerce
+          1	Rue du Marche
+          1	Rue du Pyrethre
+          1	Rufrabu
+          1	Rufungo
+          4	Rugabano
+          1	Rugalika
+          4	Ruganda
+          1	Rugando
+          1	Rugango
+          1	Ruganzu
+          2	Rugarama
+          1	Rugaramg
+          6	Rugazi
+          1	Rugenda
+          2	Rugendabari
+          1	Rugengabari
+          2	Rugera
+          2	Rugerero
+          1	Rugobagoba
+          1	Rugogwe
+          5	Rugozi
+          1	Rugunga
+          1	Rugwaga
+          1	Ruhama
+          5	Ruhango
+          1	Ruharambuga
+          1	Ruhashya
+          2	Ruhengeri - Gisenyi Road
+          1	Ruhengeri Airport
+          1	Ruhengeri-Gisenyi Road
+          1	Ruheru
+          2	Ruhondo
+          1	Ruhondo Beach Resort
+          1	Ruhororo
+          2	Ruhuha
+          1	Ruhunde
+          1	Ruhundo
+          4	Ruhwa
+          3	Rukara
+          1	Rukara Sector
+          1	Rukara cementary
+          1	Rukara's Sector Building
+          1	Rukara's Sector Courthouse
+          1	Rukara's Sector Police Station
+          1	Rukara's Teacher's College
+         10	Rukarara
+          3	Rukeli
+          2	Rukira
+          1	Rukoko
+          1	Rukoli
+          1	Rukoma
+          5	Rukomo
+          1	Rukopfu
+          1	Rukoro Primary School
+          1	Rukozo
+          1	Rukuma
+          2	Rukumberi
+          2	Ruli
+          1	Ruliba
+          1	Ruliba Brick Works
+          2	Rulindo
+          1	Runaba
+          2	Runda
+          3	Rungu
+          1	Runukangoma
+          1	Runwaga
+          1	Runyinya
+          1	Ruragwe
+          1	Ruramba
+          3	Ruramira
+          1	Ruranga
+          1	Rurembo
+          1	Rurenge
+          2	Rurongora
+          1	Rusaki
+          1	Rusanze
+          1	Rusarabuge
+          1	Rusaro
+          5	Rusasa
+          2	Rusatira
+          1	Rusebeya
+          2	Rusenge
+          2	Rushaki
+          1	Rushaki Italia Solidale Primary School
+          1	Rushaki-Mushenyi Road
+          2	Rushashi
+          1	Rushel Kivu Lodge
+          1	Rusiga
+          7	Rusine
+          5	Rusizi
+          1	Rusizi Bus Station
+          1	Rusuli
+          5	Rusumo
+          1	Rusumo Falls
+          1	Rusumo Primary School
+          1	Rutansinda
+          1	Rutare
+          1	Rutenderi
+          1	Rutobwe
+          1	Rutobwe Cell Office
+          1	Rutobwe EPR Church
+          2	Rutobwe Primary School
+          1	Rutongo
+          1	Rutsiro
+          5	Ruvomo
+          2	Ruvubu
+          1	Ruvune
+          2	Ruvuvu
+          1	Ruvuzo
+          5	Ruyenzi
+          1	Ruyenzi Station Service
+          1	Ruzigo
+          6	Ruzizi
+          1	Ruzizi I and II
+          1	Ruzizi International Bridge
+          1	Ruzizi Tented Lodge
+          3	Rwabakaazi
+          1	Rwabara Primary School
+          1	Rwabicuma
+          1	Rwabira
+          1	Rwabutazi
+          1	Rwabuye
+          1	Rwafandi
+          3	Rwagitima
+          9	Rwagitugasa
+          5	Rwakaganza
+          2	Rwamagana
+          2	Rwamagana Hospital
+          1	Rwamagana Solar Power Station
+          1	Rwamagana Supermarket
+          1	Rwamagana-Kayonza Road
+          1	Rwamagashwa
+          1	Rwambeho Primary School
+          2	Rwamiko
+          1	Rwamweni
+          1	Rwancerere Primary School
+          3	Rwanda
+          1	Rwanda Border Offices
+          1	Rwanda Bureau of Standards (RBS)
+          1	Rwanda Development Board
+          1	Rwanda Development Board (RDB)
+          1	Rwanda Directorate General of Immigration
+          1	Rwanda Directorate General of Immigration and Emigration
+          1	Rwanda Education Board
+          1	Rwanda Girl Guides Association
+          1	Rwanda Governance Board
+          1	Rwanda Housing Authority
+          1	Rwanda Institute of Evangelical Theology (RIET)
+          1	Rwanda Military Academy
+          2	Rwanda National ID Project
+          2	Rwanda National Police
+          1	Rwanda National Police Headquarters
+          1	Rwanda Peace Academy
+          1	Rwanda Plastic Industry
+          1	Rwanda Police Headquaters
+          1	Rwanda Revenue Authority
+          2	Rwanda Social Security Board
+          1	Rwanda Social Security Board (RSSB)
+          1	Rwanda Trading Company
+          1	Rwandafoam industry
+          2	Rwandan Adventures
+          1	Rwandan Parliament Grounds
+          2	Rwandex
+          3	Rwangunda
+          1	Rwaniro
+          1	Rwankari
+          1	Rwankeli
+          2	Rwankuba
+          1	Rwanteru
+          1	Rwarnugina
+          2	Rwasave Fish farm
+          1	Rwashambura
+          4	Rwaza
+          2	Rwebeya
+          1	Rwempasha
+          1	Rwene
+          1	Rwene Primary School
+          1	Rwentobo Primary School
+          2	Rwerere
+          1	Rweru
+          1	Rwesero
+          1	Rwimbogo
+          3	Rwimishinya
+          1	Rwimishinya forest
+          1	Rwimiyaga
+          3	Rwinkwavu
+          1	Rwintare Village
+          1	Rwisirabo Ranger Post
+          1	Rwisirabo Road
+          1	Rwiza Village Guest House
+          1	Rwoga
+          4	Rwondo
+          1	Rwuya
+          3	Rwuya rwa muzinga
+          1	Rya Nyuma
+          1	Ryakarimira
+          2	Ryakirenzi road
+          4	Ryamanyoni
+          2	Ryamukona
+          1	Rz Manna
+          1	République démocratique du Congo
+          1	Résidence de l'Ambassade de Suisse
+          1	S-2
+          1	S-4
+          1	S.P.
+          1	S.P.I.
+          1	SADC 05 (northbound)
+          1	SADC 05 (southbound)
+          1	SADC 10 (eastbound)
+          1	SADC 10 (westbound)
+          1	SANITAS
+          1	SECTOR
+          1	SGM Shan-Grilla Motel
+          1	SHBT
+          1	SIGMA COATS PAINT
+          1	SOCIETE ALPHAT CONSTRUCTION COMPANY LTD
+          2	SONARWA
+          1	SONARWA ESTATE
+          1	SORAS
+          1	SOS Kacyiru Village d'enfants
+          7	SP
+          2	SP gas station
+          1	ST DOMINIQUE
+          1	SURF Survivor's Fund. Supporting Survivors of Genocide Agai
+          1	Sabinyo Gorge Trail
+          1	Sacco Umucyo Rukara
+          1	Sagarara
+          1	Saint Konrad Integrated Vocational College
+          1	Saint Lawrence Primary School
+          1	Saint Vicent de Paul
+          1	Saint Vincent Palotti Hospital
+          1	Sakae
+          4	Sake
+          1	Sake Market
+          1	Saloon de coffeure
+          1	Sammelschacht Quellen Krankenhaus
+          1	Sanja
+          1	Sanzire
+          1	Sashwara
+          9	Satinsyi
+          1	Savana restaurant
+          8	Save
+          1	Sawa City
+          1	Sawa City Kisimenti
+          1	Scheduled for Demolition
+          1	School Canteen
+          1	School Kitchen
+          1	School centre scolaire Elena Guerra
+          1	Seating palce
+          9	Sebeya
+          1	Secoko
+          1	Secondary School
+          1	Sector Gisozi office
+          1	Sector Office
+          1	Select Boutique Hotel
+          1	Select Restaurant
+          2	Serena Hotel
+          1	Serenity Spa
+          1	Seth's Store
+          1	Seven Eleven Supermarket
+          1	Seventh Day Adventist
+          1	Shaba
+          1	Shadow House
+          1	Shakani
+          1	Shalom Guest House
+          1	Shaloom House
+          1	Shangasha
+          3	Shangazi
+          3	Shangi
+          1	Sharama J Ltd (Furniture & Electronics )
+          1	Sharma Supermarket
+          1	Shekinah
+          2	Shell
+          1	Shelter and potential campsite
+          1	Shilngton
+          1	Shingiro
+          1	Shobobo
+          1	Shocola Mediteranian Cafe
+          1	Shokola Cafe
+          1	Shokola Lite
+          1	Shokola Restaurant
+          1	Shop
+          1	Shrine St. Marie
+          2	Shyara
+          2	Shyira
+          1	Shyogwe
+          4	Shyorongi
+          1	Simba
+          1	Simba Supermarket
+          1	Simba Supermarket and Cafe
+          2	Simbi
+          1	Simbuka
+          1	Sind Gérard Urwibutso Enterprises guest house
+          4	Sièges nationaux des témoins de Jéhovah
+          1	Skat Consulting Rwanda
+          1	Skat Consulting Rwanda: PROECCO and PEPP projects
+          1	Sky Hotel
+          1	Small Park
+          1	Small shop
+          2	Smart Library
+          1	Smart inn
+          1	Snow Hotel
+          1	Social Affairs
+          1	Societe Petroliere
+          1	Soeurs Oblates du saint Esprit
+          1	Soeurs de la Vierge Marie du Mont Carmel
+          1	Soeurs franciscaines du Règne de Jésus Christ Kavumu
+          1	Sofar
+          1	Sofaru Quincaillerie
+          1	Software Center of Excellence
+          1	Sol e Luna
+          2	Solace Ministries
+          1	SolarKiosk
+          1	Solution Center Celebration Church
+         11	Sonatubes
+          1	Sonatubes-Saint Joseph
+          1	Sopetrad
+          1	Sotra Bus
+          1	South Africa High Commission
+          1	Spa-soul space
+          1	Spectra
+          1	SportView Hotel in Kicukiro
+          2	Sports Club
+          1	Sportsview Hotel
+          1	Spring Gisovu
+          1	St Mary of Angels Church
+          1	St Peters
+          1	St Vincent
+          1	St. Barnabas Senior Secondary School Karujanga
+          1	St. Benois Convent and Guest House
+          1	St. Joseph
+          1	St. Jude Mushenyi Catholic church
+          1	St. Paul - Centre National de Pastorale
+          1	Stade Amahoro
+          1	Stade Huye
+          1	Stade Malaria
+          1	Stade Muhanga
+          1	Stade Regional
+          1	Stade Ubworoherane
+          2	Stadium
+          1	Station Kobil
+          1	Station Merez
+          1	SteelRwa
+          1	Stella Matutina
+          1	Step Town Motel
+          1	Stipp Hotel
+          1	Stipphotel
+          1	Stock&kitchen
+          1	Stone House
+          1	Storage
+          5	Streets Ahead Childrens Centre
+          1	Student Office
+          1	Studio Electronic Dukora
+          1	Studio Photo Express
+          1	Sud-Kivu
+          3	Sumo
+          1	Sun City Hotel
+          1	Sun.n.Sand
+          1	Sundowner
+          1	Sunrise Highschool
+          1	Super Delux
+          3	Susa
+          1	Sustainable Harvest Rwanda
+          1	Suvo
+          1	Swimming Pool
+          1	Swiss Cooperation Office SDC (Great Lakes)
+          1	T-1B
+          1	T-4B
+          1	T-5B
+          1	T2000
+          1	THE SALVATION ARMY
+          1	THINK
+          1	TIGO HEAD QUARTERS
+          1	TIGO Service Center
+          1	TR Companion
+          2	TRCompanion I B&B - Campsite - Mountain Bike
+          1	Tabagwe
+          1	Talapia pond
+          1	Talent Contractors
+          1	Talent Contractors Office
+          1	Tanzania
+         27	Tanzania - Rwanda
+          4	Tapis Rouge
+          2	Tare
+          2	Taxi Moto Stop
+          1	Taxi Park
+          3	Taxipark
+          1	Tchegera
+          1	Tea House B&B
+          1	Teabarra
+          1	Tele 10 Building
+          1	Telecom House
+          1	Temoins de Jehovah
+          1	Tennis Courts
+          1	Tennis club
+          1	Tharcisse
+          1	The Dian Fossey Gorilla Fund International
+          1	The Earth School
+          1	The Garden Place Hotel
+          1	The Hut
+          1	The Kiosk
+          1	The Office
+          1	The Selesians of Don Bosco
+          1	The Shop Kigali - Expad Bike Repairs (Bicycle and motorbike
+          1	The promise Motel
+          1	Theatre Verdure
+          1	Tiani's Resto & Pizzaria
+          2	Tigo
+          1	Toddle Care
+          4	Toilet
+          1	Toilet,bathing room
+          1	Toilets
+          1	Tolirwa
+          1	Topsec Security. Head Office
+          3	Total
+          1	Total Main Center
+          1	Tourism Bar
+          1	Tourist Information Centre
+          1	Touristic Bar
+          1	Touristic Bar & Restaurant
+          1	Touristic Restaurant
+          1	Town View Guest House
+          1	Toyota
+          5	Track
+          1	Tracker Hut
+          1	Trade Mark East Africa
+          2	Tumba
+          1	Tumba-Butare
+          1	Twumba
+          1	UKOD OIL
+          3	ULK
+          1	UN OCHA
+          1	UNECA Sub-Regional Office for Eastern Africa
+          1	UNHCR
+          1	UPHLS: Umbrella of Persons with Disabilities Against HIV & 
+          1	US Embassy
+          1	USAID. Private Sector Driven Agriculture Growth Project
+          1	Ubudehe
+          1	Ubumenyi
+          2	Ubumwe
+          1	Ubumwe Center Kigeme
+          1	Ubumwe Community Center
+          2	Ubumwe Grande
+          1	Ubumwe House
+          1	Ubuyumbu
+          1	Ubworoherane
+          1	Uganda
+          1	Uganda Embassy
+          1	Uganda Police
+          1	Uganda Revenue Authority
+          1	Ugandan Restaurant
+          1	Umbrella Pine Guesthouse
+          1	Umubano
+          1	Umuco
+          1	Umudugudu wa Bwiza
+          1	Umujyanjoro
+          2	Umujyi wa Kigali
+          1	Umunyinya Hotel
+          1	Umurava
+          1	Umurenge
+          1	Umurenge Wa Kacyiru
+          1	Umurenge wa Kimironko
+          1	Umurenge wa Remera
+          1	Umusozi Rubona
+          1	Umusozi Twinyoni
+          1	Umusyoli
+          1	Umut
+          2	Umuyove Trail
+          4	UnNamed
+          1	Unicorn Petroleum Equipment Ltd
+          1	Union Trade Centre
+          1	United Christian Church (UCC)
+          1	Universite Evangelique en Afrique
+          1	Universite Evangelique en Afrique - Faculte de Medecine
+          1	University Hospital
+          1	University Restaurent
+          1	University Stadium
+          1	University Teaching Hospital of Kigali
+          1	University of Global Health Equity
+          1	University of Kigali
+          1	University of Rwanda College of Business and Economics
+          1	University of Tourism,Technology and Business Studies(UTB)
+          7	Unknown
+          1	Unknown Building
+          1	Unwinka Visitor's Centre
+          1	Urubohero
+          2	Urugarama
+          1	Urugo Women's Opportunity Center
+          1	Urugondo
+          2	Ururumanza
+          1	Urusiyo
+          1	Urwego Opportunity Bank (UOB)
+          2	Utexrwa
+          1	Uwinka
+          1	Uwinka Campsite
+          1	Uwinka Visitors Center
+          1	Uwinkingi
+          1	VIP Clinique
+          1	VOXIVA Office
+          1	Veteranarian Council of Rwanda
+          1	VietteA
+          1	VietteB
+          1	VietteC
+          1	View of Nyabarongo and Mukungwe river
+          1	Village Farm
+          1	Village Urugwiro
+          1	Viro center market
+          1	Virunga Hotel
+          1	Virunga Lodge
+          1	Vision 2020 Community
+          1	Volcana Lounge
+          1	Volcanoes Hotel
+          1	Volcanoes National Park
+          1	Volcanoes National Park Headquarters
+          1	Volleyball court
+          1	W-02
+          1	W-04
+          1	W-06
+          1	W-07
+          1	W-08
+          1	W-13
+          1	W-25
+          1	W-27
+          1	W-28
+          1	W-29
+          1	W-30
+          1	W-32
+          1	W-33
+          1	W-34
+          1	W-35
+          1	W-38
+          1	W-41
+          1	WP-19
+          1	WP-21
+          1	WP-22
+          1	Walungu
+          1	Warehouse
+          1	Warehouse Cafeteria
+          2	Warufu
+          1	Wasserverbraucher
+          1	Water Tanks
+          1	Waterfall
+          2	Waterfall trail
+          1	Waterpipeline Outlet
+          1	Welcome
+          1	Welcome Supermarket
+          1	Welt Hunger Hilfe
+          1	Western Region
+          1	Western Union
+          1	Wetland Mumuri
+          3	White Dove School
+          1	White Horse
+          1	White Stone Apartments
+          1	Wines and More
+          1	Women Foundation Minitries
+          1	Women for Women
+          1	Woodland Hotel
+          1	Woodlands
+          2	Woodlands Parking Lot
+          1	World Vision Head Office
+          1	Worldbank
+          4	Yanzi
+          1	ZIGAMA CSS Head Office
+          2	Zaza
+          1	Zen Oriental Cuisine
+          1	Zenith Hotel
+          1	Zenora Wellness Center
+          1	Zigama Credit and Savings Bank
+          1	Zindiro
+          1	Zingana Restaurant
+          1	Zion Temple Church
+          1	Zuri
+          1	\
+          1	alimantation shop
+          1	alimentation shop dalslma
+          1	amahoro rstreet
+          1	amani's home
+          1	anglican evangelist rwanda
+          1	animal market
+          2	boucher
+          1	boundary
+          2	boutique
+          2	building
+          1	buyanja viillage
+          1	cantine
+          1	center of shops
+          1	chapelle
+          1	chapelle&bibliothèque
+          1	chez VINCENT
+          3	church
+          1	classes
+          1	classes building 2&3
+          1	cogebanque
+          1	commercil center
+          1	congo-nile trail
+         16	convent
+          1	cooperative
+          1	couvent
+          1	cow house
+          1	cows' Farm
+          1	crashed plane
+          1	cyahinda secondary school
+          2	dormitories
+          1	electrical transforming station
+          1	elis supermarket
+          1	evt. Krankenhaus
+          1	excella school
+          1	factory
+          1	farm
+          1	faustin
+          1	ferry?
+          1	football pitch
+          4	forest
+          2	fuel
+          1	gasharu roag
+          1	gatekeeper house
+          1	grocery shop
+          1	hallelujah
+          1	high noon
+         50	house
+          1	iPOSITA
+          1	igonde road
+          1	ihuriro
+          1	immunization center
+          2	infini
+          1	jonathan's home
+          1	jovia's home
+          1	kLab
+          1	kacyiru secondary school
+          1	kagwisage's home
+          1	kamisave
+          2	karubamba road
+          2	kibagabaga
+          1	kibagabaga hospital
+          1	l esperance
+          1	laboratories & classes
+          1	majyaruguru
+          2	market (isocko)
+          1	market (isoko)
+          1	nat@com
+          1	new jerusalem church
+          1	nkusi basile
+          1	nur CGIS
+          1	nusary & Primary school
+          1	office
+          1	old Ruhengeri-Gisenyi Road
+          1	parking Susa Group
+          1	path
+          1	pathway
+          1	pharmacie à gaz
+          1	pili pili
+          1	primary school
+          1	providence house
+          1	quartier
+          1	remera market(isoko)
+          1	res/barn
+          2	residential
+          1	residential area
+          1	residential houses
+          2	road to rwasave
+          1	road/track to paths leading to properties
+          1	rwinkuba bucher
+          1	rwinkuba kiosk
+          2	rwinkuba primary school
+          1	rwinkuba secondary road
+          1	rwinkuba village
+          1	sabyinyo silver back lodge
+          1	saints Andre
+          1	salon de cofeure
+          1	same where in rwinkuba road
+          1	secondary school
+          1	small toillet
+          1	sportcenter
+          1	staff sopem
+          1	stocks
+          1	street road
+          1	supermaket
+          1	talapia farm
+          1	tax rank
+          1	terminus supermarket
+          1	the way that pass in primary school
+          1	tiers of joy
+          1	traditional overshipping
+          1	tradtitional overshipping
+          1	unknown modern building complex with lawns
+          1	vulgusi
+          1	warehouses
+          1	water Tank
+          1	way to birambo
+          1	way to gitarama
+          1	worship
+          1	x
+          1	x ray
+          1	École belge
+          1	Église de la Sainte Famille
+          1	Île
+          1	Île Akayoba
+          1	Île Gisimba
+          1	Île Gombo
+          1	Île Ireba
+          1	Île Ite
+          1	Île Iwawa
+          1	Île Iwinja
+          1	Île Kigwa
+          1	Île Kikaya
+          1	Île Kinyabalanga
+          1	Île Kumenye
+          1	Île Mishungo
+          1	Île Mohembe
+          1	Île Nyamisi
+          1	Île Tembabagoye
+          1	île Bugarura
+          1	île Ika

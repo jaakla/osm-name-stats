@@ -1,0 +1,100 @@
+        397	Chemins de fer Abidjan-Niger
+        185	Ecole primaire
+        126	Séguénéga Kalsaka - Yako
+         91	Concession
+         82	Ecole
+         80	Ouahigouya to Séguénéga
+         61	Forage publique
+         49	Unknown
+         47	Mosquée
+         41	Le Mouhoun
+         35	Mali - Burkina Faso
+         34	Nazinon
+         31	Nakembé
+         30	Marché
+         27	Parc de vaccination
+         26	mosquée
+         23	Total
+         23	Bouli
+         22	Avenue du Yatenga
+         20	Ghana - Burkina Faso
+         20	CSPS
+         19	Rue 25.02
+         17	Niger - Burkina Faso
+         17	Koulpélogo
+         17	Echangeur de l´Est
+         16	Puits profond
+         15	école
+         15	Piste
+         15	Côte d'Ivoire - Burkina Faso
+         15	Boulevard Muammar Kaddafi
+         15	Boulevard Charles de Gaulle
+         14	savane
+         14	Kongoussi - Kossouka - Séguénéga
+         14	Boucle du Mouhoun - Hauts-Bassins
+         14	Avenue Kadiogo
+         13	fibre optique
+         13	Vranso
+         13	Le Banifing
+         13	Ecobank
+         13	Avenue du Colonel Jamot
+         12	orpaillage
+         12	SONABEL
+         12	Route Ouessa - Léo
+         12	Route Nebbou à Pô
+         12	OTAM
+         12	Gendarmerie
+         12	Fleuve Houet
+         12	Cours d'eau
+         12	Centre - Plateau-Central
+         12	Cascades - Hauts-Bassins
+         12	Avenue de l'Indépendance
+         11	puits
+         11	Tapoa
+         11	Shell
+         11	Rue Dr. Kone Moussa
+         11	Le Pendjari
+         11	Le Mouhoun / Mouhoun River
+         11	Kossouka-Bouga
+         11	Centre-Ouest - Centre-Sud
+         11	Avenue de la Liberté
+         11	Avenue de l'Independance
+         11	Avenue Conseil de l'Entente
+         10	École
+         10	ONEA
+         10	Le Mékrou
+         10	Départementale 39
+         10	Comoé
+         10	Boulkiemdé - Sanguié
+         10	Bougouriba
+         10	Barrage
+         10	Avenue du Gouverneur Binger
+         10	Avenue de la Nation
+         10	Avenue Père Joseph Wresinski
+         10	Avenue Kanazoe
+         10	Avenue Boulmiougou
+          9	Sandana
+          9	Rue 19.41
+          9	Rue 14.09
+          9	Route de Sabou
+          9	R26
+          9	Plateau-Central - Centre-Ouest
+          9	D35
+          9	Centre-Est - Est
+          9	Boucle du Mouhoun - Nord
+          9	Boucle du Mouhoun - Centre-Ouest
+          9	Avenue Nelson Mandela
+          8	Yargo
+          8	Sissili - Ziro
+          8	Sirba
+          8	Rue Nongremasson
+          8	Rond Point des Nations Unis
+          8	Rakieta
+          8	Petrofa
+          8	Ouagadougou-Bobo Dioulasso road
+          8	Mairie
+          8	Kona
+          8	Centre-Ouest - Nord
+          8	Centre-Nord - Sahel
+          8	Burkina Faso - Togo
+          8	Boulevard des Tensoba

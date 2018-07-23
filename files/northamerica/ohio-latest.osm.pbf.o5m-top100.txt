@@ -1,0 +1,100 @@
+        970	Main Street
+        604	Ohio Turnpike
+        487	East Main Street
+        434	High Street
+        427	West Main Street
+        423	James A. Rhodes Appalachian Highway
+        421	Elm Street
+        412	Walnut Street
+        389	South Main Street
+        381	North Main Street
+        376	Chicago Line
+        350	2nd Street
+        321	McDonald's
+        316	Subway
+        316	Oak Street
+        311	3rd Street
+        301	Montgomery Road
+        301	Center Street
+        293	Maple Street
+        289	North Street
+        283	Vine Street
+        274	Reading Road
+        271	Church Street
+        271	1st Street
+        263	Water Street
+        256	South Street
+        245	Cincinnati By-Pass
+        239	4th Street
+        238	Mill Street
+        232	Buckeye Trail
+        228	Washington Street
+        224	Colerain Avenue
+        224	BP
+        223	Speedway
+        215	Park Avenue
+        212	Cherry Street
+        205	Cleveland Short Line Subdivision
+        201	Dixie Highway
+        199	Hamilton Avenue
+        198	Tylersville Road
+        198	Railroad Street
+        196	Marathon
+        196	Front Street
+        195	West Street
+        192	Wendy's
+        192	Burger King
+        185	5th Street
+        178	East Street
+        176	Market Street
+        176	Highland Avenue
+        175	Central Avenue
+        172	Jackson Street
+        172	Columbus District
+        171	Riverside Drive
+        170	Jefferson Street
+        165	Sycamore Street
+        163	Park Street
+        160	Winton Road
+        158	Dayton District
+        155	Taco Bell
+        154	Union Street
+        151	River Road
+        149	Toledo Subdivision
+        148	North High Street
+        147	Northern Subdivision
+        147	Lakeland Freeway
+        145	Walmart Supercenter
+        145	Shell
+        144	Arby's
+        144	6th Street
+        142	South High Street
+        142	Short Street
+        142	Monroe Street
+        136	East Kemper Road
+        135	Sunset Drive
+        135	Spring Street
+        134	Princeton Glendale Road
+        134	Madison Road
+        133	Ridge Road
+        131	Ohio & Erie Canal Towpath Trail
+        129	New Castle Subdivision
+        129	Maple Avenue
+        129	Lincoln Avenue
+        129	Chestnut Street
+        128	Liberty Street
+        127	Glendale Milford Road
+        126	Starbucks
+        126	Lake Erie District
+        125	Park Drive
+        125	Harrison Avenue
+        125	Circle Drive
+        124	Pearl Street
+        124	Lakeview Drive
+        121	Grant Street
+        120	Smith Road
+        120	Locust Street
+        119	Sunoco
+        119	Ohio Street
+        119	Meadow Lane
+        119	Dollar General

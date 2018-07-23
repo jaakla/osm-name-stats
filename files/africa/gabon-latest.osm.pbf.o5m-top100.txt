@@ -1,0 +1,100 @@
+         68	Transgabonais
+         38	Border Congo - Gabon
+         32	Logement des enseignants
+         24	Ogooué
+         23	Onal
+         22	Voie Express
+         19	Ivindo
+         16	Boulevard Léon Mba
+         15	Border Gabon - Guinea Ecuatorial
+         14	Onal Coucal
+         13	préfabriqué
+         13	Ngounié
+         13	Boulevard du Président Léon Mba
+         11	Route de Ntchengué
+         11	Border Gabon - Congo
+         10	Boulevard du Président Léon M'ba
+         10	Avenue du Président Bongo
+          9	Nyanga
+          9	Ntem
+          9	Maroc
+          9	Boulevard de l'Indépendance
+          8	Rue Pauline Izouwa
+          8	Omko
+          8	Djoua
+          7	SEEG
+          7	Route des Maroc
+          7	Ogoulou
+          7	Boulevard Monseigneur Bessieux
+          6	Total
+          6	Offoué
+          6	Mosquée
+          5	Woleu
+          5	Salles de classe
+          5	Route Forestiere
+          5	Mvoung
+          5	Missanga
+          5	Likoni
+          5	Liboumba
+          5	Komo
+          5	Ecobank
+          5	Dilo
+          4	Zadié
+          4	Yard
+          4	Tribune
+          4	School
+          4	Rue Pierre Auguste Avaro
+          4	Rue Jean Vigouroux
+          4	Route de Sogara
+          4	Reservation scolaire
+          4	Onal-900
+          4	Okano
+          4	Lolo
+          4	La Poste
+          4	Grand Village
+          4	Gabon Telecom
+          4	EZNI
+          4	Church
+          4	Boulevard Triomphal Omar Bongo Ondimba
+          4	Border Gabon - Cameroon
+          4	BICIG
+          4	Avenue de la Mosquée
+          4	Abanga
+          3	Union Gabonaise
+          3	Total Gabon SA
+          3	Terrain de basket-ball
+          3	Sablier
+          3	Rue Émile Rashiwa
+          3	Rue du Révérend Père Barreau
+          3	Rue du Marquis de Compiègne
+          3	Rue René Paul Sousate
+          3	Rue Paul Sidia
+          3	Rue Onoyi Pandjo
+          3	Rue Joseph Ambourouet
+          3	Rue Ivazza Jean-Marie
+          3	Rue Emmanuel Sipamio Berre
+          3	Rue Député Marc Ziza
+          3	Rue Bord du Fleuve
+          3	Route de Sindara
+          3	Route Grand Village
+          3	Piste Militaire
+          3	Petro Gabon
+          3	Onal-700
+          3	Ndendé
+          3	Mont
+          3	M-400
+          3	Lebiyou
+          3	Lara
+          3	Impasse Laure Malonga
+          3	Cité
+          3	CP
+          3	Boutique
+          3	Boulevard du Gouverneur Pelieu
+          3	Boulevard Rogombe Impolo Passol
+          3	Border Cameroon - Gabon
+          3	Avenue du Général de Gaulle
+          3	Avenue du Grand Village
+          3	Avenue Général Leclerc
+          2	école Saint-Martin
+          2	École
+          2	terrain de handball

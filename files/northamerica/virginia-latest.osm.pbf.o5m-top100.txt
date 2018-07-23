@@ -1,0 +1,100 @@
+        465	Roanoke River
+        428	7-Eleven
+        421	Leesville Road
+        405	Lee Highway
+        370	Wards Road
+        364	Brookneal Highway
+        357	Leesburg Pike
+        348	Nottoway River
+        336	Mill Creek
+        333	Blackwater River
+        291	McDonald's
+        277	Red House Road
+        270	Wards Road North
+        262	Main Street
+        250	Subway
+        243	New River
+        233	Jefferson Davis Highway
+        226	Long Branch
+        214	Richmond-Petersburg Turnpike
+        214	RF&P Subdivision
+        213	Blue Ridge Parkway
+        211	Virginia Avenue
+        211	Columbia Pike
+        210	Banister River
+        207	Starbucks
+        206	Bear Creek Road
+        203	Waterlick Road
+        191	Reed Creek
+        188	Exxon
+        186	Meherrin River
+        184	Sandy Creek
+        184	Dan River
+        178	Shell
+        178	Gladys Road
+        177	Colonial Highway
+        173	West Main Street
+        173	Food Lion
+        169	Sugar Hill Road
+        169	Hampton Roads Beltway
+        168	Duke Street
+        165	James Madison Highway
+        164	Marysville Road
+        164	Fairfax County Parkway
+        160	Custis Memorial Parkway
+        158	Spring Mill Road
+        158	Crooked Creek
+        156	Long Island Road
+        155	Washington District
+        155	Hat Creek Road
+        155	Chain Bridge Road
+        154	Smith River
+        154	Pigg River
+        154	Goose Creek
+        153	Sunnymeade Road
+        152	Wells Fargo
+        152	Courthouse Road
+        152	Church Street
+        151	Wendy's
+        150	Stony Creek
+        149	King Street
+        145	Rainbow Forest Drive
+        145	East Main Street
+        144	Richmond Highway
+        143	Reedy Creek
+        142	River Road
+        140	Three Creek
+        137	George Washington Memorial Parkway
+        137	CVS
+        136	Ridge Road
+        136	Arlington Boulevard
+        135	Washington Boulevard
+        135	Burger King
+        133	Cypress Swamp
+        131	Lawyers Road
+        131	Gallows Road
+        130	Skyline Drive
+        130	Braddock Road
+        130	BB&T
+        129	Buffalo Creek
+        128	North Main Street
+        128	Little River Turnpike
+        128	Back Creek
+        127	Elk Creek
+        126	Great Creek
+        125	Village Highway
+        124	Blackwater Swamp
+        123	North Lee Highway
+        122	Trail of the Lonesome Pine
+        122	Lewis Ford Road
+        122	2nd Street
+        121	Suburban Road
+        121	New Chapel Road
+        120	South Main Street
+        119	East Ferry Road
+        118	Virginia Beach-Norfolk Expressway
+        116	Clarks Road
+        116	Bedford Highway
+        114	Pigeon Run Road
+        114	Dearborn Road
+        114	Bethany Road

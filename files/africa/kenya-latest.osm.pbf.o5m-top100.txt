@@ -1,0 +1,100 @@
+        268	toilet
+        166	s
+        148	Mombasa-Nairobi Standard Gauge Railway
+        120	New House
+         78	Toilet
+         75	plot toilet
+         75	Nairobi-Nakuru Road
+         68	Shell
+         65	Thika Road
+         61	Total
+         57	Shop
+         56	homestead
+         54	drainage system
+         48	Mosque
+         41	resident house
+         41	Ngong Road
+         39	Siaya
+         35	adopt a light
+         34	house
+         34	Security light
+         33	House
+         32	honey harvesting tree
+         32	Border Kenya - Uganda
+         31	Adopt alight
+         30	Riana River
+         29	Langata Road
+         28	Tana River
+         28	Equity Bank
+         27	road
+         27	General Building
+         26	Water tank
+         26	Soccer
+         26	Chemist
+         25	general building
+         25	SIAYA
+         25	Namanga Road
+         25	Industry
+         25	Eldoret Road
+         24	M-PESA
+         24	Bypass Highway
+         23	Prof. Wangari Maathai Road
+         23	Northern Bypass
+         23	National Oil
+         23	Mombasa Road
+         22	water point
+         22	Nairobi - Mombasa Road
+         22	Masai village
+         22	DT Dobie Company
+         21	Water Tank
+         21	Tanzania - Kenya
+         21	School
+         21	Mewa Manyatta
+         20	plot-toilet
+         20	Limuru Road
+         20	Barclays
+         19	chemist
+         19	Path
+         19	Kenya Commercial Bank
+         19	Garissa Road
+         19	Church
+         18	borehole
+         18	State House Road
+         18	Hot spot zone
+         17	agricultural land
+         17	Jogoo Road
+         17	Enterprise Road
+         16	TL
+         16	Safaricom
+         16	Oilibya
+         16	Nzoia River
+         16	Moi Avenue
+         16	Kobil
+         16	Endebess village route
+         16	B8
+         15	plot
+         15	borehole field
+         15	Water point
+         15	Water Point
+         15	Unclassified
+         15	Murang'a Road
+         15	Kenol
+         15	Java House
+         14	Water tap
+         14	Uhuru Highway
+         14	Kenya railway slum upgrading program
+         14	Juja Road
+         14	Eastern Bypass
+         14	Black spot
+         13	unknown building
+         13	unclasified
+         13	path
+         13	adapt a light
+         13	Water kiosk
+         13	Tennis
+         13	Ring Road Ngara
+         13	Outer Ring Road
+         13	Kenyatta Avenue
+         13	Kamiti Road
+         13	Class Block
+         13	Barclays Bank

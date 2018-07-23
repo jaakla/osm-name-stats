@@ -1,0 +1,1241 @@
+          1	"A Competidora" de António de Almeida
+          1	"Kala Boka"
+          1	14 de Novembro
+          1	2° Avenida de Cintura
+          1	A Mercearia
+          1	A Padeira Africana
+          1	A Ratinha
+          1	ADER-LEGA - Associação para o Desenvolvimento Regional
+          1	AFAIBO - Associação dos Filhos e Amigos da Ilha de Bolama
+          1	AMI
+          2	Abu
+          1	Abulzinho
+          1	Acarabe
+          1	Acesso a Canogo
+          1	Acuntue
+          1	Administração
+          1	Aeroporte de Bafatá
+          1	Aeroporto de Cufar
+          1	Aeroporto de Pitche
+          1	Aeroporto internacional Osvaldo Vieira
+          1	Afia
+          1	Agumpa
+          1	Agência Consular Cabo Verde
+          1	Aldeia
+          1	Alentejo
+          2	Alfândega
+          2	Aliança Seguradora
+          1	Allouch
+          1	Alto Bandim
+          1	Alto Crim
+          2	Alvalade
+          1	Ambanha
+          1	Ambeno
+          1	Ambuduco
+          2	Amburco
+          2	Amedalai
+          1	American Embassy
+          1	Ampucut
+          2	Ancadjedje
+          1	Ancadona
+          1	Ancaguen
+          3	Ancalho
+          1	Ancamona
+          1	Ancanam
+          1	Ancanho
+          1	Ancaquea
+          1	Anchurupe
+          1	Ancobem
+          1	Andebe
+          1	Angane
+          1	Angaura
+          1	Angudjiga
+          1	Angumba
+          1	Anhara
+          1	Anhimangu
+          1	Antiga Alfândega
+          1	Antiga Casa Gouveia
+          1	Antiga ponte-cais de Bissau (1910s)
+          1	Antiga porta das muralhas da vila de Bissau
+          1	Antigo Grande Hotel?
+          1	Antigo mercado (1910s)
+          1	Apart-Hotel Jordani
+          1	Arame
+          1	Arco-Iris
+          1	Areia Branca
+          1	Armanti Hussein Farhat
+          1	Armazéns da Casa Gouveia
+          1	Armazéns do Povo
+          1	Arquipélago dos Bijagós
+          1	Arquivos Historicos
+          1	Arranja a Vida de Baixo
+          1	Arranja a Vida de Cima
+          1	Associação Nacional dos Agricultores da Guiné - Sede Reg
+          1	Associação Pró-Bolama
+          1	Associação de Comércio e Indústria de Bafatá
+          1	Assomada
+          1	Augusto d'Oliveira
+          1	Avenida 14 de Novembro
+          3	Avenida 3 de Agosto
+          1	Avenida Agostnho Coelho
+          1	Avenida Almirante Cândido dos Reis
+          7	Avenida Amilcar Cabral
+          3	Avenida Amílcar Cabral
+          1	Avenida Cidade de Lisboa
+          6	Avenida Domingos Ramos
+          3	Avenida Francisco Mendes
+          5	Avenida Pansau Na Isna
+          1	Avenida Principal
+          1	Avenida da Guiana
+          3	Avenida da Unidade Africana
+          1	Avenida de Bissau
+          2	Avenida do Brasil
+         19	Avenida dos Combatentes da Liberdade da Pátria
+          1	B D U
+          3	BAO
+          1	BAO - Agência de Bandim
+          1	BCEAO Bissau
+          1	BDU
+          1	BMDS
+          1	Babul
+          1	Bafatá
+          2	Bagango
+          1	Bairro Ajuda II Phase
+          1	Bairro COOPERAÇÃO PORTUGUESA
+          1	Bairro Joli
+          1	Bairro Militar
+          1	Bairro de Ajuda
+          1	Bairro de Ministros
+          1	Baixos de Pedro ÁLvares
+          1	Balambai
+          1	Balanca
+          1	Balanta
+          1	Baluarte da Balança
+          1	Baluarte da Onça
+          1	Baluarte da Puana
+          1	Bambadinca
+          1	Bamboo
+          1	Banco Nacional Ultramarino / Hotel de Turismo
+          1	Bandim
+          1	Banhima
+          3	Banjara
+          1	Bantaja Cuta
+          1	Bantanfor
+          1	Bar Bom Ambiente
+          1	Bar Dalilann
+          1	Bar Fogo
+          1	Bar Funcionário
+          1	Barancam
+          2	Barro
+          1	Barro Grande
+          1	Basseor
+          1	Batanzu
+          1	Bate Papo
+          1	Bayana
+          1	Baía das Prainhas
+          1	Bedanda
+          1	Beli
+          1	Benfica - Papa Loca
+          1	Benhife
+          1	Benjamim Corrêa
+          1	Bentem
+          1	Bessari
+          1	Biblioteca Publica
+          1	Biblioteca do Centro Cultural Português
+          1	Biblioteca do Centro Cultural do Brasil
+          2	Bieu
+          1	Bigene
+          1	Bijana
+          2	Bijante
+          1	Bijine
+          1	Binar
+          1	Bindoro
+          1	Binham
+          1	Binta
+          1	Bisailão
+          1	Bissabur
+          1	Bissai
+          1	Bissalanca
+          2	Bissante
+          2	Bissau
+          1	Bissau - Enxude
+          1	Bissau - Ilha do Rei
+          2	Bissau - Kamsar
+          2	Bissau Velho
+          1	Bissau-Bubaque
+          1	Bissorã
+          1	Bistro
+          1	Blansar
+          1	BlimBlim
+          1	Bloco Operatório
+          1	Blom
+          1	Boké
+          4	Bolama
+          1	Bolama - Uno
+          1	Bolama Nova
+          2	Bolama de Baixo
+          1	Bolola
+          1	Bombeiros Voluntários de Bolama
+          1	Bombeiros de Bissau
+          2	Bonjours
+          1	Bor
+          1	Boutique Darvy
+          1	Boé
+          1	Brandão
+          1	Brasil
+          1	Bruce
+          1	Brufa
+          2	Brusso
+          1	Brá
+          1	Buba
+          3	Bubaque
+          1	Bubaque Airport
+          1	Bucandi
+          1	Bucaur
+          1	Budo
+          1	Bujin
+          1	Bula
+          1	Bulol
+          1	Bunak
+          1	Buncoi
+          1	Bunquilim
+          1	Burunioni
+          1	Buruntuma
+          1	Busto de Amílcar Cabral
+          1	Bélem
+          1	C A & F
+          1	CCIAS - Câmara de Comércio, Industria, Agricultura e Serv
+          1	CIFAP : Centro de Instrução Formação Artesanal e Profis
+          1	CO
+          1	Cabaceira Calui
+          1	Cabane
+          1	Cabedu
+          1	Cabicunda
+          1	Caboca
+          1	Cabodo
+          1	Caboupa Aguiar
+          1	Caboupa Cabral
+          1	Caboupa Mendonça
+          1	Cabune
+          1	Cacheu
+          1	Cachôbar
+          4	Cacine
+          1	Cacumba
+          1	Cadique
+          1	Cafia
+          1	Café do Bento
+          1	Cais
+          1	Cais dos hidroviões
+          1	Caió
+          2	Cajegute
+          1	Cajegute - Ilha de Pecixe
+          2	Calege
+          1	Calmancunda
+          1	Calupa
+          1	Camassirá
+          1	Cambadju
+          1	Cambaja
+          1	Camboido
+          1	Caminho da Granja
+          1	Caminho do Cemitério
+          1	Camião abandonado
+          1	Campada
+          1	Campará
+          1	Campo Sueco
+          1	Campo de Aviação de Lala
+          1	Campo de andebol
+          1	Campo de aviação
+          1	Campo de aviação de Bolama
+          1	Campáta
+          2	Canal de Bolama
+          2	Canal de Cajegute
+          3	Canal de Jata
+          1	Canal de Mantabua
+          1	Canal de Melo
+          1	Canal de Pedro Álvares
+          1	Canchungo
+          1	Cancumba
+          1	Candem
+          1	Candembel
+          1	Candocoli
+          1	Canducure
+          1	Cane
+          1	Canema
+          1	Canema Bijagó
+          2	Canja
+          1	Canjadude
+          1	Canquelifá
+          1	Cantacunda
+          1	Canturé
+          1	Canturê
+          1	Capal
+          1	Capebonde
+          1	Capela de Bambadinca
+          1	Capela do Cemitério
+          1	Capitania do Porto de Bolama
+          1	Cara Nova
+          1	Carabanedim
+          1	Carbanol
+          1	Carbanolzinho
+          1	Carracol
+          1	Carracol market
+          1	Carrene Tours
+          1	Carungo
+          1	Casa Abreu
+          1	Casa Cadogo
+          1	Casa Carlos Gomes "Cadongo"
+          1	Casa Daridibó office
+          1	Casa Direitos
+          1	Casa Dora
+          1	Casa Fernandes
+          2	Casa Gouveia
+          1	Casa Guedes / Sociedade Comercial Ultramarina
+          1	Casa Lourenço Marques Duarte
+          1	Casa Manuel Simões Marcelino
+          1	Casa Nuba Sabi
+          1	Casa Pinto
+          1	Casa Saad
+          1	Casa Soller
+          1	Casa da Guarda e Prisão
+          1	Casa da família Nunes Correia
+          1	Cassagá
+          2	Casseque
+          2	Cassucai
+          2	Castelo
+          1	Catedral Católica de Nossa Senhora da Candelária
+          1	Catedral de Bafatá
+          1	Catió
+          2	Cemetery
+          1	Cemitério de Bolama
+          1	Central eléctrica
+          1	Centre Culturel Franco-Bissau Guinéen
+          1	Centro Commercial Bodem
+          1	Centro Cultural Francês
+          1	Centro Cultural Português
+          1	Centro Cultural do Brasil
+          1	Centro da Cidade
+          1	Centro de Formação Pesqueira de Bolama
+          1	Centro de Meteorologia
+          1	Cervejaria A. Mateus dos Santos
+          1	Chapa
+          1	Charlotte
+          1	Cheuel
+          1	Chez Octavio
+          1	Chez Paul
+          1	Chicamiel
+          1	China
+          1	Chitoli
+          1	Christian Cross
+          1	Chão de Papel
+          1	Ché Ché
+          1	Cieu e Terra
+          1	Cine Bolama
+          1	Cine Mané
+          1	Cine W...
+          1	Coaina
+          1	Cobumba
+          1	Coimbra
+          1	Colebe
+          1	Colicumbel
+          1	Comercial Santy
+          1	Companhia Francesa da África Ocidental
+          1	Comuda
+          1	Comudo
+          1	Comura
+          1	Concuna
+          1	Conlumo
+          1	Consulado & Embaixada Brasil
+          1	Consulado Portugal
+          1	Consulado dos Estados Unidos
+          1	Consulado Índia
+          1	Contabane
+          1	Contuba
+          1	Contuboel
+          1	Cooperação Internacional
+          1	Coquieros Bissau
+          1	Coreto
+          1	Corombol
+          1	Correios
+          1	Corubal
+          2	Cozinhas
+          1	Crescimo
+          1	Cristo Redentor
+          1	Cufar
+          1	Cumeré
+          1	Cunaia
+          1	Cunconhome
+          1	Cuntanga
+          1	Cuntuba
+          2	Cuntum
+          1	Cuntum Madina
+          1	Cupedo
+          1	Cybercafe
+          1	Câmara Municipal de Bissau
+          1	Có
+          1	Cúmura
+          1	DHL
+          1	DaKosta Island Beach Camp
+          1	Dando
+          1	Dangol Gubaum
+          1	Dangol Sidi
+          1	Dara
+          2	Darling
+          1	Darsalame
+          1	Darsaleime IBaiol
+          1	Daru Salam
+          1	Deba
+          1	Demba Taicó
+          1	Dembacunda
+          1	Dentária
+          1	Dinga Bantanguel
+          1	Dinga Ioba
+          1	Dinguirai
+          1	Directoria Nacional de Policia Judiciaria
+          1	Direcção Geral Impostos
+          1	Direcção Regional da Educação de Bafatá
+          1	Direcção Regional dos Serviços da Educação de Bolama B
+          1	Don Bifanas
+          1	Dorce
+          1	Dua
+          1	Département de Goudomp
+          1	Département de Ziguinchor
+          1	ELTON
+          1	Eco Canthanez
+          3	Ecobank
+          1	Edifício da Administração de Bafatá
+          1	Edifício de colmo
+          1	Egin Church
+          1	Ehlalab
+          1	Ehlalab Church
+          1	Ejaten
+          1	Ejin
+          1	Elaque Bajane
+          1	Elia
+          3	Elia's school
+          1	Elle
+          1	Emas SARL
+          1	Embaixada d'Angola
+          1	Embaixada de Nigeria
+          1	Embaixada de Portugal
+          1	Empada
+          1	Empreendimento Luso-Guineense
+          1	Empresa Fambé - Loja Roguisilva Lda.
+          1	Enchumene
+          1	Endoja
+          1	Enen
+          1	Enfermaria
+          1	Ensalma
+          1	Enxalé
+          2	Enxude
+          1	Eossor
+          1	Escola 19 de Setembro
+          1	Escola Católica
+          1	Escola J. Sérgio Vieira de Melo
+          1	Escola Nacional de Saúde
+          1	Escola Portuguesa Bissau
+          1	Escola SOS "Hermann Gmeiner"
+          1	Escola Superior de Educação - Unidade de Ensino Amílcar 
+          1	Escola Ulysses Grant
+          1	Escola católica Maria Montessari
+          1	Escola de São Paulo
+          1	Escola de Verificação Ambiental - Bolama
+          1	Espanha
+          1	Espelho de água dos hidroviões
+          2	Essukujak
+          1	Estadio Lino Correia
+          1	Estado Maior Força Aérea
+          1	Estado Maior Marinha
+          1	Estação Metereológica
+          1	Esteiro Gã Pessoa
+          1	Esteiro de Incali
+          1	Esteiro de Intachá
+          1	Esteiro de Pau da Marca
+          4	Estrada Granja do Pessube
+          1	Estrada da Volta de Bissau
+          2	Estrada de Bandim
+          1	Estrada de Santa Luzia
+          1	Estrada para a Ponta Oeste
+          1	Estádio Nacional 24 de Setembro
+          1	Estátua de Ulysses Grant
+          1	Etablissements Ch. Peyrissac
+          1	Etimbato
+          1	Etinguene
+          1	Euros
+          1	Faculdade de Direito
+          1	Família Tico Tico
+          1	Fangor
+          1	Faraba
+          1	Faralo
+          1	Farancunda
+          3	Farim
+          1	Farina
+          1	Farmácia Amílcar Cabral
+          1	Farmácia Central
+          1	Farmácia Moderna
+          1	Farmácia Moçambique
+          1	Farmácia Rama Ii
+          1	Farmácia Sadibò
+          1	Farmácia Salah-Din
+          1	Farmácia Salvador
+          1	Farmácia Simão Mendes
+          1	Farol da Ilha das Cobras
+          1	Farol da Ilha das Galinhas
+          1	Farol da Ilha do Rei
+          1	Farol da Ponta Bernafel
+          1	Farol de Pedro Álvares
+          1	Farol do Ilhéu dos Pássaros
+          1	Feira de Artesanato e Ateliers / Mercado dos Coqueiros
+          1	Felo Pachare
+          1	Felo Sare Andebe
+          1	Figuera Matchu
+          2	Fly
+          2	Fonda Huuwa ecotourism camp
+          1	Fontainha
+          1	Forno
+          1	Fortaleza Português de Cacheu
+          1	Fortaleza de São José da Amura
+          1	Foto Rapido
+          1	França
+          3	Fulacunda
+          1	Fulamansa
+          1	Fábrica de cerveja "Pampa"
+          1	Fábrica de compota Titina Silá
+          1	GALP Energia - Petromar
+          1	GGRDR
+          1	GRDR
+          1	Gabinete da Embaixada de Alemanha
+          1	Gabú
+          1	Gam Crioulo / Casa de António dos Santos Teixeira
+          1	Gam Major
+          1	Gambana
+          1	Gandemba (Dembaiunda)
+          1	Ganduá
+          1	Ganfate
+          1	Ganguiro
+          1	Ganhala
+          1	Ganhegina
+          1	Ganture
+          1	Garagem dos bombeiros
+          1	Geba
+          1	Gin Bar
+          1	Gobije
+          1	Goiaba
+          1	Granja
+          1	Grupo Mais
+          1	Guarita
+          1	Guelajau
+          1	Guileje
+          1	Guinea-Bissau high point
+          1	Guiné Libanês
+          1	Guiné Portugal
+          2	Guiné-Bissau
+          1	Guiné-Kerala
+          1	Guiné-Metal
+          1	Guinée
+          4	Guinée - Guiné-Bissau
+          1	Guinée maritime
+          1	Gunal
+          1	Gundaguê Beafada
+          1	Gã Beafada
+          1	Gã Carafá
+          1	Gã Nafa
+          1	Gã Soares
+          1	Gã-Basse
+          1	Gã-Mamudo
+          1	Gã-Muria
+          1	HOTEL VISIOM
+          1	HPR - Henrique Rosa - Sede Regional
+          1	Hafia
+          1	Hospital 3 de Agosto
+          1	Hospital Militar
+          1	Hospital Militar e Civil
+          2	Hospital Nacional Simão Mendes
+          1	Hospital Raoul Follereau
+          1	Hospital de Bafatá
+          1	Hotel 24 de Septembro
+          1	Hotel Amazonia
+          1	Hotel Ancar
+          1	Hotel Andorinha
+          1	Hotel Coimbra & Spa
+          1	Hotel Império
+          1	Hotel Kalliste
+          1	Hotel Ledger Plaza Bissau
+          1	Hotel Lisboa Bissau
+          1	Hotel Lodge Ponta Anchaca
+          1	Hotel Malaika
+          1	Hotel New Neguen
+          1	Hotel Portugal
+          1	Hotel Sol-Mar
+          1	Hotel Ta-Mar
+          1	Hotel Turismo - Edifício Principal
+          1	Hotel da Praia de Ofir
+          1	Hotel-Residência Proquil
+          1	Hôpital de Cumura (lèpre et tuberculose)
+          1	INEP - Instituto Nacional de Estudos e Pesquisa
+          1	Iau
+          1	Ida
+          1	Igreja Assembleia de Deus
+          1	Igreja São Antonio
+          1	Igreja São Antonio de Bandim
+          1	Igreja São José
+          1	Igreja de Geba
+          1	Igreja de São José
+          1	Igreja do Carmo
+          1	Ilha Bubaque
+          1	Ilha Carache
+          1	Ilha Caravela
+          1	Ilha Cute
+          1	Ilha Edana
+          1	Ilha Eguba
+          1	Ilha Enu
+          1	Ilha Formosa
+          1	Ilha Maio
+          1	Ilha Ponta
+          1	Ilha Rubane
+          1	Ilha Soga
+          1	Ilha Unhocomo
+          1	Ilha Unhocomozinho
+          1	Ilha Uno
+          1	Ilha Uracão
+          2	Ilha da Flecha
+          1	Ilha das Areias
+          3	Ilha das Cobras
+          1	Ilha das Galinhas
+          1	Ilha de Bolama
+          1	Ilha de Caiar
+          1	Ilha de Como
+          1	Ilha de Jata
+          1	Ilha de Lisboa
+          1	Ilha de Mantambua
+          1	Ilha de Melo
+          1	Ilha de Orangozinho
+          1	Ilha de Paz
+          1	Ilha de Paz - formação de carpintaria e mecânica
+          1	Ilha de Pecixe
+          5	Ilha do Rei
+          1	Ilha dos Mosquitos
+          1	Ilhéu da Cabaceira
+          1	Ilhéu das Palmeiras
+          1	Ilhéu do Mancebo
+          1	Ilhéu dos Pássaros
+          1	Ilondé
+          1	Imprensa Nacional
+          1	Império
+          1	Indaia
+          1	Indendem
+          1	Indjone
+          1	Ingorezinho
+          1	Ingoré
+          1	Inhoda
+          1	Injafo
+          2	Injante
+          1	Inorei
+          1	Inspeção Geral Finanças
+          1	Instituto da Biodiversidade e das Áreas Protegidas
+          1	Intachá
+          1	Intaxá - Abastecimento de Águas
+          1	Intim
+          1	J.B. Monteiro de Macedo (1920)
+          1	JOMAV
+          1	Jabadá
+          1	Jai Juli
+          1	Jamba
+          1	Jambacunda
+          1	Jardim Honório Barreto
+          1	Jardim Teixeira Pinto
+          1	Jate
+          1	Jet Set
+          1	Jihunk
+          1	Jobel
+          1	Jugudul
+          2	K
+          1	Kais
+          1	Kasa Afrikana
+          1	Kassolol
+          1	Katon
+          1	Katon Church
+          1	Kayanga
+          1	Kissir
+          1	Kofi Peças
+          1	Kolajer
+          1	Kolda
+          1	La Tabua
+          1	Lala
+          1	Lala Balanta
+          1	Largo D. Luís I
+          1	Largo Governador Carlos Pereira
+          1	Largo das F.A.R.P.
+          1	Lenox
+          1	Libari
+          1	Libreria Coimbra
+          1	Liceu Samora Machel
+          1	Limane
+          1	Lipasa Lda.
+          1	Lodge les Dauphins
+          1	Loja Chinês
+          1	Loja Pneus
+          1	Loureiro
+          1	Luanda
+          1	Lugajole
+          2	Lulú
+          1	Lântar
+          2	Maca
+          2	Madina
+          1	Madina Colhida
+          1	Madrugada
+          2	Mael Bane
+          2	Mael Jaubè
+          1	Mafanco
+          1	Maggi
+          1	Malandim
+          1	Mampata
+          1	Mampatas
+          1	Mandem
+          1	Manpata
+          1	Mansaba
+          1	Mansacunda
+          1	Mansaine
+          1	Mansambo
+          1	Mansidi
+          1	Mansôa
+          1	Mar Azul
+          1	Marcel
+          1	Marcenaria e carpintaria
+          1	Maria
+          1	Marsasse
+          1	Marsasso
+          1	Mata de Cufongo
+          1	Matador
+          1	Materiais Construção
+          1	Maternidade
+          1	Mato de Cão
+          1	Mauritânia
+          1	Mavegro
+          1	Meneque
+          1	Mercado
+          1	Mercado Bandin
+          2	Mercado Central
+          1	Mercado Central de Bolama
+          1	Mercado Municipal de Bafatá
+          1	Mercado de Bandim
+          1	Mercearia Bar Cantinho da Pedra
+          1	Mesquita da Agência Kuwait
+          1	Mesquita de Attadamun
+          1	Messe dos Oficiais
+          1	Messe e dormitório de sargentos
+          1	Mezec
+          1	Michael Holdings
+          1	Mindara
+          1	Mini Mercado Joud
+          1	Ministerio de Justiça
+          1	Ministério Administração Interna
+          1	Ministério Administração Pública Trabalho
+          1	Ministério Comércio
+          1	Ministério Educação
+          1	Ministério Negócios Estrangeiros
+          1	Ministério Público
+          1	Ministério Transportes
+          1	Ministério da Função Pública,Trabalho e Modernização 
+          1	Ministério da Justiça
+          1	Ministério das Finanças
+          1	Mission PIME
+          1	Missirá
+          1	Missra
+          1	Missão Evangélica
+          1	Miuità
+          1	Monumento a Diogo Gomes
+          1	Monumento a Honório Barreto
+          2	Monumento a Teixeira Pinto
+          1	Monumento aos Aviadores Italianos
+          1	Monumento aos Heróis da Independência
+          1	Morabeza
+          1	Moyenne-Guinée
+          1	Munhini
+          1	Muno
+          1	Museo Ethnográfico
+          1	Museu Etnográfico
+          1	M´batonha
+          1	Mãe de Água
+          1	Mão de Timba
+          1	Naja
+          1	Nam
+          1	Nações Unidas PNUD
+          1	Ndena Grande
+          1	Ndena Sinhu
+          1	Nematabá
+          1	Neneco
+          1	Nerompe (Wato Mancanha)
+          1	Nhacra
+          1	Nhanaia
+          1	Nightclub San-Bras / Som das Ilhas
+          1	Nigéria
+          1	Nova Sintra
+          1	O Porto
+          1	Obras Públicas
+          1	Oco Maunde
+          1	Oficinas
+          1	Oficinas Navais
+          1	Ondame
+          1	Ongoro
+          1	Orange Bissau D. Technique
+          1	Orange SIM cards
+          1	Orango Grande
+          2	Oriente
+          1	Osvaldo Vieira
+          1	Oásis
+          1	P A I G C
+          1	PO DI TERRA
+          1	Pai Ai Gai
+          1	Paiama
+          1	Painel de Augusto Trigo
+          1	Paiol
+          1	Palmeira
+          1	Palácio Colinas de Bóe
+          1	Palácio Presidencial
+          1	Palácio de Bolama
+          1	Palácio do Governador
+          1	Palácio do Governo
+          1	Panta
+          1	Pantazinha
+          1	Papia
+          1	Parada
+          1	Paragem "Biombo"
+          1	Paragem Central
+          1	Parque Europa - Lagoa de M´batonha
+          1	Parque Natural das Lagoas de Cufada
+          1	Parque infantil
+          1	Partido da Renovação Social
+          1	Passagem do Furinho
+          1	Pataque
+          1	Pate Embalo
+          1	Patu
+          1	Pau da Marca
+          1	Pavilhão
+          1	Paz e Bem
+          1	Peceté
+          1	Pediatria
+          1	Pefiné
+          1	Pelicano
+          1	Pelundo
+          1	Penha-Bor
+          2	Pensão Central
+          1	Pensão Creola
+          1	Pescarte - Centro de Pesca Artesanal
+          1	Pharmacia Salvador
+          4	Picada
+          2	Pidjunguto
+          1	Pinhanço
+          1	Pintozinho
+          1	Pirada
+          1	Piscina Municipal
+          1	Pitche
+          1	Plack
+          1	Plack II
+          1	Plage Brousse
+          1	Plaque
+          1	Poilau Grande
+          1	Policia de Migração
+          1	Polícia de Ordem Pública
+          1	Pombal
+          2	Ponta Biombo
+          1	Ponta Blanchará
+          1	Ponta Cabaceira
+          1	Ponta Caió
+          1	Ponta Cali
+          2	Ponta Comba
+          1	Ponta Cumeré
+          1	Ponta Doce
+          1	Ponta Doce Balanta
+          2	Ponta Doce Mancanha
+          1	Ponta Gardele
+          2	Ponta Isidoro
+          1	Ponta Mansega
+          3	Ponta Nova
+          1	Ponta Oeste
+          1	Ponta Papel
+          1	Ponta Tombali
+          1	Ponta Varela
+          1	Ponta da Areia Branca
+          1	Ponta de Bandim
+          1	Ponta de Calmancunda
+          1	Ponta do Mangal
+          1	Ponta do Preço Leve
+          1	Ponte-cais de Bolama
+          1	Pontia
+          1	Ponto Encontro
+          1	Ponto Fresco
+          1	Ponto do Ingles
+          1	Porta de Armas
+          1	Porte Augusta
+          1	Porte Fanado
+          1	Porto Gole
+          1	Porto Pidjiguiti
+          1	Porto Sidja Biombo
+          1	Porto de Bafatá
+          1	Porto de Bissau
+          2	Portugal
+          1	Portugal guest house
+          2	Portão
+          1	Posto de Inorei
+          1	Prabis
+          1	Praia de Bolama de Baixo
+          1	Praia de Gaimoreia
+          1	Praia de Ofir
+          1	Praia de Ponta Oeste
+          1	Praia do Biombo
+          1	Praça
+          1	Praça Che Guevara
+          1	Praça Infante D. Henrique
+          1	Praça Jardim Teixeira Pinto
+          1	Praça Ulysses S. Grant
+          1	Praça da Alfândega
+          1	Praça de Bafatá
+          1	Praça dos Herois Nacionais
+          1	Preço Leve
+          3	Prite
+          1	Provincia Leste
+          1	Provincia Norte
+          1	Provincia Sul
+          1	Prédio de Manuel Pinho Brandão / Loja Júlio Lopes Pereir
+          1	Préfecture de Gaoual
+          1	Préfecture de Koundara
+          1	Príncipe
+          1	Punta Canapá
+          1	Quartel General
+          1	Quebo
+          1	Quebo aeroporto
+          1	Quecuta
+          1	Quelêle
+          1	Queruane
+          1	Quetubo
+          1	Quinchana
+          2	Quinhámel
+          1	Quinta de António Silva Gouveia
+          1	Quinta experimental
+          1	Quitaiá
+          1	Quéré
+          1	R T P
+          1	Radio Sol Mansi
+          1	Radiodifusão Nacional
+          1	Rama II
+          1	Refeitório
+          1	Região de Bafatá
+          1	Região de Biombo
+          1	Região de Bolama
+          1	Região de Cacheu
+          1	Região de Gabu
+          1	Região de Oio
+          1	Região de Quinara
+          1	Região de Tombali
+          1	Reino
+          1	Repartição de Finanças de Bolama-Bijagós
+          1	Residencial DJARAMA
+          1	Residência Angola
+          1	Residência Cônsul Honorário Bélgica
+          1	Residência Portugal
+          1	Residência dos alunos
+          1	Residência dos médicos
+          1	Residência paroquial
+          2	Residências
+          2	Restaurante Kalliste
+          1	Restaurante Larosa
+          1	Restaurante Lisboa
+          1	Restaurante Pelicano
+          1	Restaurante Samba
+          1	Restaurante Ta-Mar
+          1	Restaurante-Bar Gã-Muria
+          3	Rio Armada
+          1	Rio Bicore
+          3	Rio Bidigor
+          1	Rio Bijemita
+          1	Rio Buba
+          1	Rio Budace
+          1	Rio Buduco
+         12	Rio Cacheu
+          2	Rio Cacine
+          4	Rio Campanto
+          5	Rio Cana
+          1	Rio Cancantel
+          1	Rio Canhaia
+          1	Rio Caré
+          1	Rio Changolesteli?(Bunquerel)
+          1	Rio Chibo
+          1	Rio Cocoli
+          5	Rio Colufi
+          3	Rio Combidjam
+          1	Rio Como
+         13	Rio Corubal
+          1	Rio Cundegali
+          1	Rio Gam Tomé
+          1	Rio Gambiel
+          6	Rio Geba
+         11	Rio Grande de Buba
+          1	Rio Iaia
+          1	Rio Jago
+          2	Rio Jata
+          1	Rio Mabani
+         10	Rio Mansoa
+          2	Rio Melo
+          3	Rio Pefiné
+          2	Rio Petu
+          1	Rio Pobreza
+          4	Rio Probreza
+          1	Rio Quinora
+          2	Rio Safim
+          2	Rio Sanjota
+          2	Rio Seli
+          2	Rio Tombali
+          2	Rio Uaniama
+          1	Rio Undaúma
+          1	Rio de Abul
+          1	Rio de Arranja a Vida
+          1	Rio de Burunioni
+          1	Rio de Gundaguê
+          1	Rio de Gã Carafá
+          1	Rio de Gã-Muria
+          1	Rio de Mampata
+          3	Rio de Mansabandim
+          1	Robalo
+          4	Rua 1
+          1	Rua 12 de Setembro
+          1	Rua 19 de Setembro
+          2	Rua 2
+          1	Rua 3
+          1	Rua 31 de Janeiro
+          2	Rua 4
+          2	Rua 5
+          1	Rua 5 de Outubro
+          1	Rua 6
+          4	Rua 7
+          1	Rua 8
+          1	Rua Alferes Malheiro
+          1	Rua António José de Almeida
+          1	Rua António N'bana
+          4	Rua Areolino Cruz
+          2	Rua Cacheu
+          9	Rua Eduardo Mondlane
+          1	Rua Governador Albuquerque
+          1	Rua Governador Sequeira
+          7	Rua Guerra Mendes
+          1	Rua Gábu
+          1	Rua Honório Barreto
+          5	Rua José Carlos Schwarz
+          1	Rua João Chagas
+          1	Rua João Marques de Barros
+          1	Rua Justino Lopes
+          1	Rua Latino Coelho
+          1	Rua Machado dos Santos
+          1	Rua Magalhães Lima
+          2	Rua Osvaldo Vieira
+          1	Rua Rui Djassi
+          1	Rua Teófilo Braga
+          1	Rua Vitorina Costa
+          1	Rua de Angola
+          3	Rua de Bafatá
+          1	Rua de Bissau
+          3	Rua de Bolama
+          2	Rua de Boé
+          1	Rua de Cascais
+          1	Rua de Faro
+          2	Rua de São Tomé
+          1	Rua do Fosso
+          1	Ruinas de casa comercial
+          1	Ruinas de pavilhão hospitalar - Internamento
+          1	Russia
+          1	Rádio Mulher de Bafatá
+          1	Rádio Pró-Bolama
+          1	Région de Kolda
+          2	Río Corubal
+          8	Río Geba
+          1	SITEC
+          1	SK Guiné
+          1	SNLS
+          1	SY Traders
+          1	Sabor Brasil
+          1	Sabor das Ilhas
+          1	Sabores
+          1	Safim
+          1	Saiamcutoto
+          1	Sal do Mar
+          1	Salamca
+          1	Saliquinhé
+          1	Salu Salam
+          1	Samba Silate
+          1	Sambana
+          1	Sancoma
+          1	Sangonha
+          1	Sanou
+          1	Sansão
+          1	Santa Ana
+          1	Santa Maria
+          1	SanÃº
+          1	Sare Amadi
+          1	Sare Bambe
+          1	Sare Ganà
+          1	Sare Ganá Duló
+          1	Sare Geba (Leria)
+          1	Sare Jobo
+          1	Sare Ura
+          2	Sarube
+          1	Saré Canhã
+          1	Satecuda
+          1	Saxô Válère
+          1	Secretaria,centro-cripto e radiotelegrafistas
+          1	Sector autónomo de Bissau
+          1	Sede Pró-Bolama
+          1	Sede da TAP
+          1	Sejo
+          1	Selim
+          1	Senegal
+          1	Senquerem
+          2	Senta
+          1	Setor de Bafatá
+          1	Setor de Bambadinca
+          1	Setor de Bedanda
+          1	Setor de Bigene
+          1	Setor de Bissorã
+          1	Setor de Bolama
+          1	Setor de Buba
+          1	Setor de Bubaque
+          1	Setor de Bula
+          1	Setor de Cacheu
+          1	Setor de Cacine
+          1	Setor de Caió
+          1	Setor de Canghungo
+          1	Setor de Caravela
+          1	Setor de Catió
+          1	Setor de Empada
+          1	Setor de Farim
+          1	Setor de Fulacunda
+          1	Setor de Gabú
+          1	Setor de Galomaro
+          1	Setor de Gamamundo
+          1	Setor de Madina do Boé
+          1	Setor de Mansaba
+          1	Setor de Mansoa
+          1	Setor de Nhacra
+          1	Setor de Pirada
+          1	Setor de Pitche
+          1	Setor de Prabis
+          1	Setor de Quebo
+          1	Setor de Quinhámel
+          1	Setor de Safim
+          1	Setor de Sonaco
+          1	Setor de São Domingos
+          1	Setor de Tite
+          1	Setor de Uno
+          1	Setor de Xitole
+          1	Sibane
+          1	Sija
+          1	Sincha Bebo
+          1	Sincha Mamadu
+          1	Sincha Mamudo
+          1	Sinchá
+          1	Sinchá ...
+          1	Sinchã Boído
+          1	Sinchã Báquel
+          1	Sinchã Dembel
+          1	Sinchã Dulá
+          1	Sinchã Famora
+          1	Sinchã Fouco
+          1	Sinchã Iero demori
+          1	Sinchã Mussa
+          1	Sinchã Nacalá
+          1	Sinchã Ouedá
+          1	Sinchã Seluel
+          1	Sindina
+          1	Sintchã Sutu
+          1	Sintra
+          1	Sobrado dos funcionários
+          1	Sociedade Comercial Ultramarina
+          1	Société Comerciale de l' Ouest Africain
+          1	Sport Bissau e Benfica
+          1	Sport Lisboa e Bolama
+          1	Suar
+          1	Sucuta (Madina Fali)
+          1	Sucuto
+          1	Sunu Keur
+          1	Suná
+          1	Supremo Tribunal Justiça
+          1	Suranse
+          1	Suzana
+          1	Suzana Catholic Church
+          1	São Belchior
+          1	São Domingos
+          3	São João
+          1	São João - Bolama
+          1	São Paulo
+          1	São Vicente
+          1	Sédhiou
+          1	Sénégal
+          7	Sénégal - Guiné-Bissau
+          1	Tabanca
+          1	Tabanca Grande
+          1	Tabanca Nova
+          1	Tabanca Nova (Mansaba)
+          1	Tabandinto
+          2	Taibatá
+          1	Taliuará
+          1	Tambacruto
+          1	Tangali
+          1	Tanta Cossè Bacari
+          1	Tassilima
+          1	Tchada
+          1	Tcharo
+          1	Tchico Té
+          1	Telegra
+          1	Terráto
+          1	The West African Telegraph Company
+          1	Tiankounboye
+          1	Tidingal
+          1	Tite
+          1	Tominé
+          1	Tominé - Rio Corubal
+          1	Toro
+          1	Trans-West African Coastal Highway
+          1	Travessa do Mercado
+          1	Tribunal regional
+          1	Tritón
+          1	Tubo
+          1	Tór
+          1	UE PAANE
+          1	UNIOGBIS
+          1	UNIPIAGET
+          1	Uaje Fula
+          1	Uaná
+          1	Uasiado (Curral)
+          1	Uelingara
+          1	Uerechole
+          1	Unconche
+          1	Unhal
+          1	Unidade de Apoio Pedagógico - Polo de Língua Portuguesa
+          1	Unidade de Crime Transnacionais
+          1	Universidade Lusofona
+          1	Uélia
+          1	Varela
+          1	Vendu Leidi
+          1	Vendu Tchiamu
+          1	Wato
+          1	Wato Balanta
+          1	Wato Fula
+          1	Wato Mandinga
+          1	Western Union
+          1	Xerife
+          1	Xime
+          1	Yacine Diallo
+          1	Yal
+          1	Ziguinchor
+          1	Zona Sete
+          1	casa dos prisioneiros
+          2	clearing
+          1	edifício dos sargentos casados
+          1	guinea consulate
+          1	house
+          1	imbondeiro
+          1	immigration office bissau
+          1	lha de Pecixe
+          1	open garace
+          1	rasoi resturant
+          1	yasin home
+          1	Área de Instrução
+          1	Índia-Guiné

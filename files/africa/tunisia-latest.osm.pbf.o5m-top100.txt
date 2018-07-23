@@ -1,0 +1,100 @@
+        455	Route Nationale 1
+        320	A1
+        169	الطريق السريعة تونس - سوسة - صفاق�
+        138	الطريق الوطنية تونس - رأس جدير - ل
+        137	الطريق الوطنية تونس - طبرقة - الج�
+        136	Route Nationale 3 Tunis - Hazoua - Algérie
+        129	Ligne du Grand Sud
+         99	Autoroute Tunis - Sousse - Sfax
+         91	Route Nationale 2 Enfidha - Skhira
+         86	المترو الخفيف لمدينة تونس
+         84	الطريق الوطنية تونس - رأس الجدير 
+         80	الطريق الوطنية تونس - بنزرت
+         79	Avenue Habib Bourguiba
+         67	شارع محمد البوعزيزي
+         63	شارع الحبيب بورقيبة
+         63	شارع البيئة
+         61	الطريق الوطنية رقم 1
+         54	الطريق الوطنية صفاقس القصرين
+         53	الطريق الوطنية مدنين - رمادة - لي�
+         52	Route Nationale 14 Sfax - Gafsa
+         51	تونس حلق الوادي المرسى
+         50	شارع جودة الحياة
+         46	الطريق الوطنية ماطر - بنزرت
+         45	الطريق السريعة تونس - بنزرت
+         40	طريق وطني ١
+         39	Route Regionale 82 Sfax - Chebba - Mahdia
+         36	شارع حبيب بورقيبة
+         36	Boulevard de l'Environnement
+         35	Shell
+         35	Agil
+         34	Boulangerie Patisserie
+         33	Epicerie
+         32	Rocade n° 4
+         32	La Galite - جالطة
+         32	Frontières Tataouine-Medenine
+         32	Autoroute Tunis - Bousalem
+         31	شارع الجمهورية
+         29	Route Nationale 15 Gafsa - Algérie
+         29	Route Manzel Chaker
+         28	مسجد
+         28	Route Regionale Sfax - Chebba - Mahdia
+         27	Frontières Kef-Siliana
+         26	مونوبري
+         26	مجردة
+         26	شارع قرطاج
+         26	Rocade n° 11
+         26	Frontières Kasserine-Sidi Bouzid
+         26	Frontières Jendouba-Beja
+         25	شارع المنجي سليم
+         25	Oilibya
+         24	شارع 14 كانون الثاني
+         24	maison
+         24	Route de Gabès
+         24	Frontières Siliana-Kairouan
+         23	Frontières Ariana-Tunis
+         22	un
+         22	Gare de péage de Mornag
+         22	Frontières Tunis-Ben Arous
+         22	Frontières Sidi Bouzid-Kairouan
+         22	Autoroute Tunis - Bizerte
+         21	شارع الطيب المهيري
+         21	الطريق الوطنية تونس - المرسى
+         21	Sidi Youssef - Attaya
+         21	Route de Tunis
+         21	Frontières Siliana-Beja
+         21	Frontières Monastir-Sousse
+         21	Frontières Mahdia-Monastir
+         21	Frontières Beja-Bizerte
+         21	Avenue de la République
+         20	شارع محمد الخامس
+         20	شارع الزعيم ياسر عرفات
+         20	UBCI
+         20	Route El Aïn
+         20	Frontières Sidi Bouzid-Sfax
+         20	Frontières Medenine-Gabès
+         20	Frontières Mahdia-Sfax
+         20	Frontières Kairouan-Sousse
+         20	Avenue du 14 Janvier 2011
+         19	شارع جامعة الدول العربية
+         19	Frontières Kasserine-Kef
+         19	Avenue Farhat Hached
+         19	Autoroute Tunis - Boussalem
+         18	واد الرمل
+         18	الطريق الحزامية
+         18	Rue Ibn Khaldoun
+         18	Garde Nationale
+         18	Frontières Gafsa-Sidi Bouzid
+         18	Frontières Beja-Mannouba
+         17	الطريق السريعة تونس - بوسالم
+         17	Amen Bank
+         16	طريق قرمدة
+         16	شارع عليسة
+         16	شارع الحرية
+         16	التجاري بنك
+         16	Total
+         16	Staroil
+         16	Rue Ibn Charaf
+         16	Route Regionale Sfax - Kairouan
+         16	Rocade
+         16	Pharmacie de nuit

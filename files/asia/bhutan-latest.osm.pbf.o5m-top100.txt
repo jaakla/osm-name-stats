@@ -1,0 +1,100 @@
+        127	Farm Road
+         53	Border Bhutan - China
+         29	Thimphu to Phuentsholing Highway
+         27	main hole
+         25	Gelephu-Thimphu Highway
+         25	Border Bhutan - India
+         21	under construction building
+         21	Pension Colony
+         20	Wangchhu Lam
+         17	Traditional House
+         16	Residence
+         16	Footpath
+         14	footpath
+         13	Zimdra Zam
+         13	Chuzom-Haa Highway
+         13	Chorten
+         12	Residential
+         11	Stall
+         10	disputed border (BT-CN)
+         10	Tsantsanpokpa Lhakhang
+         10	Thori Lam
+         10	Thimphu Gelephu Highway
+         10	Ruling
+         10	Dungkar Choeje Nagtshang
+         10	Dungkar Choeje
+         10	ATM
+          9	disputed border (BT-CN) -Bhutan
+          9	Thimphu Expressway
+          9	Samten Lam
+          9	Daga Town, Below Road
+          8	shop
+          8	house
+          8	RBA Colony
+          8	Public Toilet
+          8	Lhakhang
+          8	Kilikhar Lower Secondary School
+          8	Chhugò Lam
+          7	措美河?
+          7	康布麻曲
+          7	kilikhar satelite town
+          7	Zimdra Automobile Workshop
+          7	Staff Residence
+          7	Resident
+          7	Pension Building
+          7	NHDCL Colony
+          7	Kelki Higher Secondary School
+          7	Bus Stop
+          6	ལྷ་ཁང
+          6	taxi stand
+          6	Staff quarter
+          6	Nganglam to Pemagatshel highway
+          6	Jangchu Lam
+          6	Doebum Lam
+          6	Chang Lam - III
+          6	Bhutan Post
+          5	wet land
+          5	footpart
+          5	Wangchu
+          5	Torsa
+          5	Termalingka resort
+          5	Taxi stand
+          5	Po Chu
+          5	Jorphel - Lam
+          5	EDB
+          5	Chagchen Lam
+          5	Bangdu Lam - 1
+          4	Ólakha Lam
+          4	zebra cross
+          4	project staff house
+          4	Taxi Parking
+          4	Path to Tigers Nest
+          4	Paro Chhu
+          4	Parking Lot
+          4	Pagladia
+          4	Natural Resources Development Corporation Limited (NRDCL)
+          4	NHDCL building
+          4	Màphö Lam
+          4	Lecturer's Quarter
+          4	Kunzang Lam
+          4	Jungshi Lam
+          4	Hejo Lam
+          4	Haa-Samtse Highway
+          4	Enclave
+          4	City bus stop
+          4	Chorten Lam
+          4	Bàpi Lam
+          4	Building Under Construction
+          4	Bank of Bhutan
+          4	BOD
+          4	BHU
+          4	Archery Ground
+          4	ATM Bank of Bhutan
+          3	鲁绒曲
+          3	西巴霞曲
+          3	康布麻曲 Torsa
+          3	库鲁河
+          3	wetland
+          3	greenhouse
+          3	forest
+          3	football ground

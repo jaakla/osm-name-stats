@@ -1,0 +1,100 @@
+        729	Chippewa National Forest
+        651	Mississippi River
+        606	Canadian Pacific Railway
+        592	Burlington Northern Santa Fe R
+        542	Hay Creek
+        541	Union Pacific Railroad
+        453	Main Street
+        429	Minnesota River
+        373	Dakota Minnesota & Eastern RR
+        333	Superior Hiking Trail
+        330	Spring Creek
+        330	Bear Creek
+        315	Sauk River
+        305	1st Street
+        294	North Branch Root River
+        289	3rd Street
+        276	2nd Street
+        272	Wild Rice River
+        256	North Fork Crow River
+        246	Snake River
+        232	4th Street
+        227	Saint Louis River
+        227	Pomme de Terre River
+        224	Des Moines River
+        218	Cannon River
+        213	Minneapolis Skyway
+        211	South Branch Root River
+        207	Willow Creek
+        202	Duluth Missabe & Iron Range Ry
+        200	Pine Creek
+        199	Subway
+        199	Kawishiwi River
+        198	Silver Creek
+        194	5th Street
+        187	Mud Lake
+        184	Rum River
+        180	Rice Creek
+        179	Holiday
+        178	Redwood River
+        176	Kettle River
+        176	Beaver Creek
+        174	Stony Creek
+        173	I & M Rail Link
+        172	Leaf River
+        171	170th Street
+        170	Red River of the North
+        170	Little Fork River
+        170	2nd Avenue
+        168	Rainy River
+        167	Deer Creek
+        164	110th Street
+        163	2nd Street Southwest
+        163	160th Street
+        162	Mud Creek
+        162	McDonald's
+        161	Coon Creek
+        160	Cottonwood River
+        160	150th Street
+        159	1st Street South
+        159	180th Street
+        157	340th Street
+        156	Rice River
+        156	Lost River
+        156	Elm Creek
+        155	Saint Francis River
+        155	Oak Street
+        155	Mustinka River
+        154	1st Avenue
+        153	Willow River
+        152	Wing River
+        152	Swan River
+        152	Rush Creek
+        152	Pine River
+        149	Pelican River
+        149	120th Street
+        148	Moose River
+        148	Ash River
+        147	Clearwater River
+        145	Staples Subdivision
+        145	2nd Street Northwest
+        144	Kwik Trip
+        144	Crow Wing River
+        143	Rat Root River
+        143	Cloquet River
+        142	Sturgeon River
+        142	Cedar Creek
+        142	290th Street
+        141	Elk River
+        140	Root River
+        140	Buffalo River
+        140	6th Street
+        140	3rd Street Northeast
+        140	190th Street
+        139	South Branch Wild Rice River
+        139	Sand Creek
+        139	Big Fork River
+        139	200th Street
+        138	South Fork Crow River
+        138	220th Street
+        137	Knife River

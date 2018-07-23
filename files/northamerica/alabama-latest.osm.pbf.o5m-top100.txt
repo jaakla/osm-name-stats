@@ -1,0 +1,100 @@
+        304	Main Street
+        227	Church Street
+        175	Oak Street
+        167	Pine Street
+        161	2nd Avenue
+        150	2nd Street
+        147	1st Street
+        146	3rd Street
+        144	1st Avenue
+        141	Sylacauga
+        136	3rd Avenue
+        136	115kV transmission line
+        130	6th Street
+        127	5th Avenue
+        124	US Highway 72
+        122	McDonald's
+        120	5th Street
+        118	4th Avenue
+        117	Cycleway
+        112	Memorial Parkway Southwest
+        110	4th Street
+        108	River Road
+        107	M&M Subdivision
+        106	6th Avenue
+        104	Walmart Supercenter
+        104	Picture
+        103	Railroad Street
+        102	7th Street
+        100	First Baptist Church
+         98	Shell
+         98	College Street
+         95	Elm Street
+         94	161kV transmission line
+         93	Dogwood Lane
+         92	Mount Zion Church
+         91	Short Street
+         89	Airport Boulevard
+         85	Lakeview Drive
+         85	Chevron
+         84	County Road 49
+         84	Airport Road
+         83	Railroad Avenue
+         83	Dogwood Drive
+         82	Maple Street
+         82	County Road 16
+         81	Smith Road
+         81	New Hope Church
+         81	Dollar General
+         80	Sunset Drive
+         80	Bench
+         79	Lee Street
+         79	Broad Street
+         79	Alabama and Gulf Coast Railway
+         79	7th Avenue
+         78	Woodland Drive
+         77	Montgomery Highway
+         77	Cedar Street
+         77	AGS South District
+         76	Jones Road
+         76	Johnson Street
+         76	Friendship Church
+         76	9th Street
+         75	County Road 59
+         75	8th Street
+         74	County Road 24
+         73	Walnut Street
+         73	Mount Olive Church
+         73	County Road 2
+         72	Taylor Road
+         72	Piney Creek
+         72	Lakeshore Drive
+         71	North Main Street
+         71	Express Oil Change & Tire Engineers
+         71	Cane Creek
+         71	Alabama Avenue
+         70	Ridge Road
+         70	Hill Street
+         70	Bethel Church
+         69	County Road 30
+         68	Subway
+         68	Shady Lane
+         67	Jackson Street
+         67	Highland Avenue
+         67	East End District
+         67	County Road 9
+         67	County Road 20
+         66	University Drive Northwest
+         65	US Highway 72 East
+         64	Washington Street
+         64	Park Avenue
+         64	County Road 45
+         64	15th Street
+         63	East Main Street
+         63	8th Avenue
+         62	Spring Street
+         62	Oak Grove Church
+         62	County Road 55
+         62	County Road 12
+         62	Alabama and Tennessee River Railway
+         61	Jones Street

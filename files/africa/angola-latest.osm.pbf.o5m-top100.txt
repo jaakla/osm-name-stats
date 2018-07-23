@@ -1,0 +1,100 @@
+        299	Rua
+        232	Avenida Comandante Fidel Castro
+        126	chavola
+        116	Estrada de Cacuaco
+        109	Longa
+        109	Avenida Pedro de C. Vandunem-Loy
+        103	Estrada da Samba
+         89	Travessa
+         81	X
+         76	Praceta
+         62	Avenida 21 de Janeiro
+         61	Kwilu
+         58	Cuito
+         56	Caminho de Ferro de Luanda
+         56	Avenida Murtala Mohamed (Ex Avenida Marchal Gomes da Costa)
+         52	R
+         52	G
+         52	Chikapa
+         51	J
+         49	U
+         48	W
+         48	Kasai
+         48	Avenida Revolução de Outubro
+         46	rua do ierior da sra do monte
+         46	Banco de Fomento Angola (BFA)
+         45	Sonangol
+         43	Caminhos de Ferros da Arimba
+         42	H
+         39	rua do ierior da lage
+         39	Via Expressa Golfe-Camama
+         36	Kwango
+         35	rua da chavola
+         35	Salão de Beleza
+         35	Cuanza
+         34	Rua 21 de Janeiro
+         34	Lwi
+         32	Cubango
+         32	Cuando
+         32	Avenida Ho Chi Minh
+         31	ruas do arredores do mercado
+         31	RD Congo - Angola
+         31	Estrada do Zango-Calumbo
+         31	Banco Angolano de Investimentos (BAI)
+         30	Lubrificantes
+         28	Rio Seco
+         28	Pedonal
+         28	Lonje
+         27	Chiumbe
+         27	Banco BIC Angola
+         27	Avenida do Patriota
+         26	F
+         26	B
+         25	Unitel
+         25	Dangereux-Camama
+         25	A
+         24	rua sra monte
+         24	rua da cidade do namibe
+         24	Rua do Calemba 2
+         24	Kwale
+         23	rua vila do tombua
+         23	rua do interior do bairro saydi mingas
+         22	rua do interior do j almeida
+         22	paerque
+         22	nova centralidade
+         22	V
+         22	N
+         22	Estrada do Futungo
+         21	Z
+         21	Predio dos Cubanos
+         21	Luquiche
+         21	Dondo/Quibala
+         21	Banco Sol
+         21	Avenida Hoji Ya Henda (ex Avenida Brasil)
+         20	PEP
+         20	Cunene
+         20	Banco de Comércio e Indústria (BCI)
+         19	Picada
+         19	Maria Teresa/N'Dalatando
+         19	Lwando
+         19	Lucala
+         19	Estrada de Catete
+         19	Chibia/Lubango
+         19	Banco de Poupança e Credito (BPC)
+         19	Banco BIC
+         19	Avenida Samora Machel
+         19	Avenida Agostinho Neto
+         18	travessa
+         18	Rua do Gamek a Direita
+         18	Pumangol
+         18	Estrada do Panguila
+         18	Castrol
+         18	Avenida Norton de Matos
+         17	r
+         17	Y
+         17	S
+         17	Rua do interior da Lage
+         17	Lungué-Bungo
+         17	Kasaï
+         17	Estação de Serviço
+         17	Condomínio ?

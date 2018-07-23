@@ -1,0 +1,100 @@
+        861	Mill Creek
+        604	Beaverdam Creek
+        553	Long Branch
+        487	Little Creek
+        486	Buffalo Creek
+        450	Little River
+        399	Tar River
+        392	Big Branch
+        331	Mill Branch
+        305	Blue Ridge Parkway
+        303	South Main Street
+        298	Cane Creek
+        290	French Broad River
+        273	Muddy Creek
+        273	Deep Creek
+        270	Main Street
+        265	Cedar Creek
+        263	North Main Street
+        259	Bear Creek
+        251	McDonald's
+        250	Crooked Creek
+        243	Richland Creek
+        238	Grassy Creek
+        237	Church Street
+        234	Indian Creek
+        232	Rocky Creek
+        231	Haw River
+        225	West Main Street
+        222	Nantahala National Forest
+        219	Fishing Creek
+        219	Appalachian Trail
+        218	Flat Creek
+        215	Beaver Creek
+        212	Swift Creek
+        212	Pine Street
+        210	Reedy Creek
+        209	Long Creek
+        208	Deep River
+        204	Smith Creek
+        203	Sandy Creek
+        203	Rock Creek
+        203	East Main Street
+        202	Food Lion
+        195	Beaverdam Swamp
+        194	Moccasin Creek
+        193	Back Creek
+        189	Reedy Fork
+        187	Goose Creek
+        186	Reedy Branch
+        184	Stewarts Creek
+        184	Rocky Branch
+        182	Oak Street
+        181	Subway
+        179	New Hope Creek
+        177	White Oak Creek
+        173	Dan River
+        171	Toms Creek
+        171	H-Line
+        170	South Fork New River
+        169	Big Creek
+        166	Hogans Creek
+        164	Little Tennessee River
+        162	Kingdom Hall of Jehovah’s Witnesses
+        161	River Road
+        161	Lick Creek
+        158	Juniper Creek
+        156	Turkey Creek
+        154	Jordan Creek
+        153	Northeast Cape Fear River
+        151	Cypress Creek
+        149	Richardson Creek
+        148	Middle Creek
+        147	Walmart Supercenter
+        147	Great Smoky Mountains Expressway
+        146	Danville District
+        145	Neuse River
+        143	Laurel Branch
+        143	2nd Street
+        143	1st Street
+        142	Big Laurel Creek
+        141	Mountain Creek
+        140	Brush Creek
+        136	Tuckasegee River
+        136	Mountains-to-Sea Trail
+        136	Laurel Creek
+        134	Island Creek
+        133	Walnut Creek
+        132	Third Creek
+        132	Country Line Creek
+        131	Rocky River
+        131	Maple Street
+        131	Hill Street
+        130	Trail
+        130	Clear Creek
+        129	Stony Creek
+        128	Camp Branch
+        127	Wendy's
+        127	Beaverdam Branch
+        126	Elm Street
+        126	Charlotte District

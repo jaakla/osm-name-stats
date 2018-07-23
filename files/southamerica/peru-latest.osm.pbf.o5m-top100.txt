@@ -1,0 +1,99 @@
+        561	Panamericana Norte
+        364	Inkafarma
+        343	Primax
+        330	Santa Rosa
+        329	Bodega
+        312	Panamericana Sur
+        308	Mifarma
+        297	Repsol
+        283	Calle 1
+        279	Calle 2
+        267	Isla
+        267	Calle 3
+        224	Calle 4
+        217	Avenida Universitaria
+        212	Cementerio
+        206	Carretera Central
+        201	Longitudinal de la Sierra Norte
+        199	Pecsa
+        198	BCP
+        195	Botica
+        195	Banco de la Nación
+        191	Calle 5
+        180	Calle 6
+        169	Scotiabank
+        162	Metro de Lima
+        159	Interbank
+        159	Hostal
+        159	Calle 8
+        155	Calle 7
+        154	Plaza de Armas
+        148	Plaza
+        146	Avenida Panamericana Norte
+        145	San Pedro
+        141	Carretera Central Sur
+        140	.
+        133	San Antonio
+        133	Hospedaje
+        130	Petroperu
+        125	Avenida Túpac Amaru
+        123	Calle 9
+        121	Metropolitano
+        119	Claro
+        117	Longitudinal de la Sierra Sur
+        117	Avenida 28 de Julio
+        116	Avenida Santa Rosa
+        115	San Francisco
+        114	Avenida Nicolás de Ayllón
+        111	Calle 10
+        110	Institución Educativa Jose Carlos Mariategui
+        108	Carretera Fernando Belaunde Terry
+        108	Calle A
+        106	San Juan
+        105	Pasaje Santa Rosa
+        104	Lima
+        103	Movistar
+        103	Calle 11
+        103	Alfonso Ugarte
+        100	Ferretería
+        100	Avenida Óscar Raimundo Benavides
+        100	Avenida Javier Prado Este
+         99	BBVA Continental
+         99	BBVA
+         98	Santa Cruz
+         97	Avenida Canta Callao
+         97	Avenida Alfonso Ugarte
+         97	28 de Julio
+         96	Calle 13
+         94	Río Manuripi
+         93	Calle Los Pinos
+         92	San Miguel
+         92	Calle 14
+         92	Avenida Tupac Amaru
+         90	Tupac Amaru
+         90	Tambo
+         90	Libertad
+         90	Calle Santa Rosa
+         89	Jirón Ayacucho
+         89	Calle Miguel Grau
+         87	Miraflores
+         87	Miguel Grau
+         85	JW sin nombre
+         85	Ferrocarril Santa Ana
+         85	Calle B
+         85	Calle 15
+         85	Avenida Perú
+         84	Dental
+         84	Bellavista
+         84	Ayacucho
+         84	Avenida La Marina
+         83	San Lorenzo
+         83	Jirón Alfonso Ugarte
+         83	Avenida Circunvalación
+         82	Plaza Vea
+         82	Los Incas
+         81	Jirón Libertad
+         81	Interoceanica Sur
+         79	Institución Educativa Cesar Vallejo
+         79	Avenida Lima
+         79	Avenida El Sol

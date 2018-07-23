@@ -1,0 +1,100 @@
+        721	Vaquería
+        585	Carretera Central
+        345	Autopista Nacional
+        319	Ferrocarril Central
+        256	A
+        241	B
+        210	C
+        200	4
+        196	Autopista de Pinar del Río
+        195	Vía Blanca
+        194	3
+        184	1ra
+        183	10
+        176	2
+        174	8
+        173	6
+        169	5
+        165	Circunvalación
+        165	11
+        164	Farmacia
+        162	7
+        161	WIFI_ETECSA
+        160	3ra
+        159	2da
+        153	12
+        150	D
+        148	5ta Avenida
+        148	13
+        147	Parada de autobús
+        143	9
+        139	1
+        129	E
+        128	4ta
+        125	Circuito Norte
+        123	5ta
+        119	14
+        112	F
+        104	Martí
+        103	16
+        101	18
+        100	17
+         97	15
+         95	24
+         93	Carretera Central de Cuba
+         93	22
+         92	TRD
+         90	Carretera Granma
+         89	Camilo Cienfuegos
+         89	23
+         88	26
+         87	31
+         87	19
+         86	27
+         84	Calle A
+         83	Avenida Rancho Boyeros
+         82	Línea Oeste
+         82	Avenida 51
+         81	Pedraplén Cayo Santa María
+         81	G
+         81	21
+         80	Vía Monumental
+         80	Circuito Sur
+         80	7ma
+         76	6ta
+         76	29
+         75	Maceo
+         75	Antonio Maceo
+         75	25
+         73	ETECSA
+         72	20
+         70	Panadería
+         69	Independencia
+         69	Carretera Panamericana
+         68	Cafetería
+         68	30
+         68	28
+         66	Calle B
+         65	Malecón
+         65	CADECA
+         64	Calle 3
+         64	9na
+         63	Bodega
+         62	Línea Norte
+         61	Libertad
+         60	Línea Sur
+         60	Calle 4
+         60	Calle 23
+         60	Agramonte
+         58	Ferrocarril del Mariel
+         57	Ponchera
+         57	Calle 100
+         57	Banco Popular de Ahorro
+         56	Ramal Bayamo
+         56	Céspedes
+         56	Calle C
+         56	Calle 6
+         56	Calle 2
+         56	50
+         56	35
+         55	Línea

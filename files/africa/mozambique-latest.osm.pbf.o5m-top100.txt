@@ -1,0 +1,100 @@
+       1854	Thatched
+        637	thatched
+        600	Thatched Roof
+        487	Thatched roof
+        294	House
+        256	Metal Roof
+        136	metal roof
+        134	metal
+         99	Metal
+         96	General Building
+         65	BCI
+         62	Avenida da Marginal
+         51	thatched roof
+         48	Residential Building
+         45	general building
+         41	Petromoc
+         40	Estrada Circular
+         37	Border Malawi - Mozambique
+         37	Avenida Julius Nyerere
+         37	223
+         36	Esquina
+         31	Total
+         28	Hospital
+         28	Escola
+         28	#building #thatched
+         27	house
+         26	MUSEU
+         26	Building
+         26	Avenida de Moçambique
+         25	hut
+         25	Border Mozambique - Zimbabwe
+         24	Mini Mercearia
+         23	collapsed
+         23	Quarteirao 20
+         22	R529
+         22	Metal Roof Building
+         22	General building
+         21	building
+         21	Shoprite
+         21	Avenida Eduardo Mondlane
+         20	Standard Bank
+         20	Barclays
+         19	kitchen
+         19	general
+         18	Avenida Vladimir Lenine
+         17	collasped
+         17	Avenida Mártires da Machava
+         16	XIPAMANINE
+         16	Mercado
+         16	Malanga
+         16	EDM
+         16	Avenida do Trabalho
+         16	1ª Rua
+         15	Thatched Roof Building
+         15	Tanzania - Malawi
+         15	Praça dos Combatentes
+         15	Damaged Building
+         15	Avenida Karl Marx
+         15	Avenida Joaquim Chissano
+         15	Avenida Guerra Popular
+         15	Avenida 25 de Setembro
+         14	Thatched roof building
+         14	Salinas
+         14	Magoanine
+         14	Luia River
+         14	Igreja
+         14	Condedezi River
+         14	Canhueiro
+         13	Mutamba
+         13	Metal roof
+         13	Mesquita
+         13	Mercado Central
+         13	Kitchen
+         13	Hulene - Expresso
+         13	Farmácia
+         13	Avenida 24 de Julho
+         13	1
+         12	Vodacom
+         12	Tin Roof
+         12	Tanzania - Mozambique
+         12	Rua dos Lusíadas
+         12	Rua da Igreja
+         12	Ronil
+         12	Millennium Bim
+         12	Millennium BIM
+         12	Mandela
+         12	Mafureira
+         12	Engen
+         12	Coop
+         12	Casa Branca
+         12	Capoche
+         12	BP
+         12	BIM
+         12	3
+         11	Rua dos Caminhos de Ferro de Moçambique
+         11	Rio Incomáti
+         11	Millenium Bim
+         11	Maternidade
+         11	Chapa Amarela
+         11	Avenida Albert Lithuli

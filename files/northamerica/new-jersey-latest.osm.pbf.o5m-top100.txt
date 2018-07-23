@@ -1,0 +1,100 @@
+        892	Garden State Parkway
+        809	New Jersey Turnpike
+        804	Northeast Corridor
+        633	Main Street
+        367	Park Avenue
+        359	River Road
+        313	Central Avenue
+        305	Morristown Line
+        268	Washington Avenue
+        264	Maple Avenue
+        235	Chestnut Street
+        230	Broad Street
+        225	Madison Avenue
+        205	Grove Street
+        202	Church Street
+        200	High Street
+        197	2nd Street
+        192	Lehigh Line
+        190	North Jersey Coast Line
+        190	Lincoln Avenue
+        189	Pine Street
+        186	Dunkin' Donuts
+        184	3rd Street
+        181	Highland Avenue
+        181	Broadway
+        177	Railroad Avenue
+        174	Raritan Valley Line
+        174	Oak Street
+        172	Washington Street
+        171	Hillside Avenue
+        170	Valley Road
+        168	Main Line
+        163	Center Street
+        161	1st Street
+        160	Walnut Street
+        160	North-South Freeway
+        160	Atlantic Avenue
+        155	Elm Street
+        151	Summit Avenue
+        151	Ridge Road
+        148	Union Avenue
+        145	4th Street
+        144	Wawa
+        144	Black Horse Pike
+        143	North Branch Rancocas Creek
+        139	1st Avenue
+        138	Roosevelt Avenue
+        136	William Street
+        136	McDonald's
+        136	Cedar Street
+        135	Maple Street
+        134	4th Avenue
+        134	3rd Avenue
+        133	South Branch Rancocas Creek
+        133	Prospect Street
+        132	PATCO High Speed Line
+        129	2nd Avenue
+        127	Ocean Avenue
+        127	Morris Avenue
+        126	John Street
+        125	Spring Street
+        124	Market Street
+        123	5th Street
+        122	Woodland Avenue
+        119	Spruce Street
+        118	John F. Kennedy Boulevard
+        117	Yellow Trail
+        117	Myrtle Avenue
+        116	South Street
+        115	Grant Avenue
+        115	5th Avenue
+        114	Prospect Avenue
+        110	Fairview Avenue
+        109	South Main Street
+        109	Orchard Street
+        109	Oldmans Creek
+        109	Cedar Avenue
+        108	New Street
+        107	CVS
+        107	Brunswick Pike
+        106	Mountain Avenue
+        106	Blue Trail
+        105	White Trail
+        105	Jefferson Avenue
+        104	Wilson Avenue
+        104	Montclair-Boonton Line
+        103	Bergen Boulevard
+        102	Franklin Avenue
+        102	Delaware Avenue
+        102	6th Street
+        101	Raccoon Creek
+        101	Mantua Creek
+        100	Bloomfield Avenue
+        100	Absecon Boulevard
+         99	Red Trail
+         99	Linden Avenue
+         99	George Street
+         98	State Route 70
+         98	Pennsylvania Avenue
+         98	Hudson-Bergen Light Rail

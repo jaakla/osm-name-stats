@@ -1,0 +1,100 @@
+        584	2a Calle
+        532	1a Calle
+        524	4a Calle
+        515	2a Avenida
+        495	3a Calle
+        493	3a Avenida
+        478	5a Calle
+        444	1a Avenida
+        433	4a Avenida
+        424	5a Avenida
+        408	6a Calle
+        396	6a Avenida
+        379	7a Avenida
+        361	7a Calle
+        312	8a Avenida
+        303	8a Calle
+        253	10a Avenida
+        252	9a Calle
+        238	9a Avenida
+        235	11 Calle
+        235	11 Avenida
+        229	Puente
+        216	10a Calle
+        199	12 Avenida
+        191	14 Avenida
+        177	12 Calle
+        169	13 Calle
+        168	13 Avenida
+        159	14 Calle
+        147	15 Avenida
+        140	16 Avenida
+        129	17 Avenida
+        128	La Ceiba
+        126	Redondel
+        124	2a Calle A
+        123	0 Avenida
+        122	1a Calle A
+        119	15 Calle
+        117	Cajero Automatico Bancared
+        117	0 Calle
+        116	3a Calle A
+        112	4a Calle A
+        111	Shell
+        107	18 Avenida
+        105	16 Calle
+        101	2a Avenida A
+         99	1a Avenida A
+         98	6a Calle A
+         94	5a Calle A
+         93	19 Avenida
+         91	21 Calle
+         91	2 Avenida
+         90	Pollo Campero
+         90	18 Calle
+         88	20 Calle
+         87	6a Avenida A
+         87	3 Calle
+         87	17 Calle
+         86	Puma
+         85	Banrural
+         84	Retorno
+         84	2 Calle
+         84	1 Avenida
+         83	Banco G&T Continental
+         83	20 Avenida
+         82	3 Avenida
+         80	Banco de Desarrollo Banrural
+         79	Banco Industrial
+         79	1 Calle
+         78	7a Calle A
+         74	3a Avenida A
+         73	4 Avenida
+         72	5a Avenida A
+         72	10a Avenida A
+         71	11 Avenida A
+         69	4a Avenida A
+         68	8a Avenida A
+         68	7a Avenida A
+         67	Texaco
+         67	6 Avenida
+         66	Carretera Panamericana
+         66	5 Calle
+         66	19 Calle
+         65	22 Calle
+         64	Pinulito
+         64	21 Avenida
+         62	26 Calle
+         62	12 Avenida A
+         62	0 Avenida A
+         60	9a Avenida A
+         60	3a Calle B
+         60	23 Avenida
+         59	McDonald's
+         59	Carretera a El Salvador
+         59	4 Calle
+         58	25 Avenida
+         57	8a Calle A
+         57	13 Avenida A
+         56	27 Avenida
+         55	5 Avenida

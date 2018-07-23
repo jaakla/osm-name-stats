@@ -1,0 +1,100 @@
+         91	Port Louis – Plaisance Dual Carriageway
+         44	Total
+         41	Rivière Noire Road
+         39	Jardin des Pamplemousses
+         34	Royal Road
+         33	Shell
+         30	M3
+         23	Grand River Road
+         23	Coastal Road
+         22	Engen
+         20	Domaine La Colombe
+         18	MCB
+         17	SBM
+         16	Port Louis - Central Flaq Road
+         15	M2
+         15	KFC
+         14	Indian Oil
+         13	Quay Street
+         13	Hotel Avenue
+         12	Wall Street
+         12	Rose Hill Trianon Road
+         12	Mauritius Commercial Bank
+         12	Chantefrais
+         11	Rivière des Plaines Wilhems
+         11	Harbour View Flats
+         11	HSBC
+         11	Barclays
+         11	Baobab Street
+         11	Avenue Adrien D'Epinay (Escalier)
+         10	Rivière Coignard
+         10	Quartier Militaire Bypass Rd
+         10	Hillcrest Avenue
+         10	Grand River North West
+         10	Avenue des Flamboyants
+          9	Rivière du Poste de Flacq
+          9	Rivière Françoise
+          9	Labourdonnais Street
+          8	Sir Celicourt Antelme Street
+          8	Rue de Savoir
+          8	Royal Road Rose Hill
+          8	Phoenix Beaux-Songes Link Road
+          8	Palma Road
+          8	Jerningham Street
+          7	Streetlamp
+          7	Rue des Lavendieres
+          7	Pharmacy
+          7	Pamplemousses Road
+          7	Mount Ory Road
+          7	John Kennedy Street
+          7	Jhoory Street
+          7	Jawaharlall Nehru Avenue
+          7	Edith Cavell Street
+          7	Dream Price
+          7	Boulevard Maulana Shah Ahmad Nootani Siddiqui
+          7	Bank One
+          7	Avenue des Hirondelles
+          7	Approach Road
+          6	Winners
+          6	Volcy Pougnet Street
+          6	Temple Road
+          6	Temple
+          6	State Bank of Mauritius
+          6	Speed Limit Camera
+          6	Saint Paul Road
+          6	Route du Jardin Botanique
+          6	Riche Terre Road
+          6	Old Airport Road
+          6	Mosque Road
+          6	Ligne Berthaud
+          6	Leclezio Avenue
+          6	Junction Road
+          6	Julius Nyerere Avenue
+          6	JKalachand
+          6	Grois Bois Road
+          6	Galaxy
+          6	Emtel
+          6	Desroches Street
+          6	Debonairs Pizza
+          6	De la Faya Street
+          6	Cabinet Medical
+          6	Bonjour
+          6	Belle Terre Road
+          6	Avenue des Rosiers
+          6	Avenue des Colombes
+          6	Avenue des Capucines
+          6	Avenue des Capitaines
+          6	Avenue Radar
+          6	Avenue Moulincasse
+          6	Abattoir Road
+          5	Winner's
+          5	Trou D'eau Douce Brch RD
+          5	Ste Marie Street
+          5	State House Avenue
+          5	Sir Virgil Naz Street
+          5	SBM Cash
+          5	Rue de la Marie Lucie
+          5	Rue Max Lucchesi
+          5	Route Royale
+          5	Rivière du Rempart
+          5	Remy Ollier Avenue

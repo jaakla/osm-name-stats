@@ -1,0 +1,100 @@
+      17641	vivienda
+       5493	Vivienda
+       3179	casa
+       1971	VIVIENDA
+       1121	v
+        683	edificio
+        623	V
+        386	Casa
+        352	CASA
+        340	Edificio
+        314	c
+        304	Tienda
+        247	Río Guaporé
+        207	vv
+        205	Calle 1
+        198	Calle 2
+        194	Plaza
+        181	Calle 3
+        177	vivienda comercio
+        174	Calle 4
+        155	vi
+        151	Calle 5
+        140	Farmacia
+        137	Forest Island
+        136	Calle 6
+        135	Tienda de Barrio
+        129	comercio
+        128	Pozo YPFB
+        124	Río Negro
+        119	Calle 7
+        118	RN1: Ruta Nacional 1
+        118	Cementerio
+        110	Rio Grande
+        110	Avenida Circunvalación
+        104	Avenida Santa Cruz
+        103	Vvienda
+         98	RN30: Challapata-Uyuni
+         97	Calle Sucre
+         95	Ruta Nacional 1
+         95	Calle 8
+         93	San Antonio
+         91	Rio Chapare
+         90	Banco Sol
+         89	Cuarto Anillo
+         88	Cochabamba - Aiquile
+         88	Calle 9
+         85	Consultorio Dental
+         83	Tercer Anillo Interno
+         83	Santa Rosa
+         83	Avenida Cristo Redentor
+         81	Tienda de barrio
+         81	Banco Fassil
+         81	Avenida América
+         80	Avenida 6 de Agosto
+         79	FFCC Potosí - Sucre
+         79	Banco Unión
+         79	Avenida Ayacucho
+         78	tienda
+         77	Avenida Juan Pablo II
+         77	Avenida Cristóbal de Mendoza
+         76	Río Yata
+         76	Río Cosapilla
+         74	Calle La Paz
+         73	Río Manuripi
+         73	Banco Union
+         72	Avenida Blanco Galindo
+         71	Avenida Circunvalación Beijing
+         70	Avenida Litoral
+         70	Avenida Eliodoro Villazón
+         69	Calle 10
+         69	Avenida Segunda
+         69	Avenida Heroínas
+         69	Arroyo Florida
+         68	A
+         67	San Pedro
+         67	Camino Pasorapa-Valle Grande
+         66	Avenida Melchor Pérez de Olguín
+         66	Avenida Costanera
+         64	Rio Buyuyo
+         63	Río Piraí
+         63	RN28: Villazon-Chaguaya
+         62	Calle A
+         61	Río Chapare
+         61	Rio Mamo
+         60	Banco Bisa
+         59	Dentista
+         58	Quinto Anillo
+         57	C
+         56	RN5: Aiquile-Puente Arce
+         56	El Carmen
+         56	Calle Beni
+         56	Calle B
+         55	Rio Benicito
+         55	Calle Cochabamba
+         54	apartamentos
+         54	Tren Arica - La Paz
+         54	Banco Fie
+         54	Avenida Uyuni
+         53	Tercer Anillo Externo
+         53	RN5: Potosi-Uyuni

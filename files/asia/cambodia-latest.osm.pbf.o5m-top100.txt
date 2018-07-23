@@ -1,0 +1,100 @@
+        200	Tela
+        160	ផ្លូវជាតិលេខ៦
+        115	ផ្លូវជាតិលេខ២១
+         96	เขตชายแดนพม่า-ไทย
+         89	Sokimex
+         72	Border Laos - Thailand
+         72	ANZ Royal ATM
+         66	ផ្លូវជាតិលេខ២១B
+         62	ផ្លូវ​ជាតិ​លេខ​៥
+         59	ផ្លូវជាតិលេខ៧
+         46	ផ្លូវជាតិលេខ៤
+         45	ផ្លូវជាតិលេខ៣
+         45	Depot Tela
+         38	Total
+         37	Border Vietnam - Cambodia
+         36	មហាវិថី សហព័ន្ធរុស្ស�
+         35	ផ្លូវជាតិលេខ៦A
+         32	Border Burma - Thailand
+         31	LHR
+         31	#accenture #acnchi6
+         28	building
+         27	ផ្លូវជាតិលេខ១
+         27	Tela Fuel Station
+         27	Canadia Bank
+         27	Border Cambodia - Thailand
+         24	ខ្សែទី ៧អា
+         22	ផ្លូវជាតិលេខ២
+         21	ផ្លូវជាតិលេខ៨
+         21	ផ្លូវ ២៧១
+         21	Caltex
+         21	ABA Bank
+         21	219
+         19	សៀគ្វីអស្ចារ្យ / សៀគ្�
+         19	មហាវិថី ព្រះមុនីវង្ស 
+         18	Route 66
+         17	សៀគ្វីអស្ចារ្យ
+         17	មហាវិថី ម៉ៅសេទុង (២៤៥)
+         17	Acleda
+         15	សៀគ្វីតូច
+         15	មីហិរ ៧យ៉ាង Seoul
+         15	ផ្លូវ​ជាតិ​លេខ​5
+         15	Pagode
+         15	National Road 11
+         14	National Road 33A
+         14	Mittapheap Kampuchea Soviet Street (St 705)
+         14	ABA ATM
+         13	ផ្លូវ បឹងប្រយ៉ាប (១៩២�
+         13	ប្រឡាយ​ទឹកស្អុយ
+         13	PTT
+         13	House
+         13	2 Thnou Street
+         12	មហាវិថី ព្រះនរោត្តម (�
+         12	ផ្លូវ ចំការដូង (២១៧)
+         12	Temple
+         12	School
+         11	មហាវិថី សម្តេច សុធារស
+         11	មហាវិថី ព្រះសីហនុ (២៧�
+         11	National Road 41
+         11	National Road 33
+         11	Floating Village
+         11	Border Laos - Cambodia
+         11	Angkorian Bridge
+         11	Acleda Bank
+         10	អធិការដ្ធននគរបាល​ខណ�
+         10	The Pizza Company
+         10	Phsar
+         10	Pagoda
+         10	L H R Fuel Station
+         10	Abandoned House
+          9	ផ្លូវលេខ ១៤
+          9	ផ្លូវជាតិលេខ៤៤
+          9	ផ្លូវ ទំនប់កប់ស្រូវ
+          9	electricity pole
+          9	Primary School
+          9	National Road 31
+          9	Honda
+          9	Gas Station
+          8	ផ្លូវថ្មើជើងក្នុងភូ�
+          8	ផ្លូវ ៥៩៨
+          8	ផ្លូវ ១០MC
+          8	ផ្លូវ ហាណូយ (១០១៩)
+          8	warehouse
+          8	Street 2
+          8	Quốc lộ 91
+          8	Lucky Supermarket
+          8	KFC
+          8	Burger King
+          8	ACLEDA Bank
+          7	វិថី ឧកញ៉ា ទេពផន (១៨២)
+          7	វិថី សម្តេច ប៉ែននុត (២�
+          7	វិថី កាម៉ែត (៥៣)
+          7	រង្វង់មូលគួចកាណុង
+          7	មហាវិថី វេង​ស្រេង
+          7	មហាវិថី កម្ពុជាក្រោម 
+          7	ផ្លូវ ៣៦៧
+          7	ផ្លូវ ១៣៦
+          7	បុរី ពិភពថ្មី
+          7	Wing
+          7	Wat
+          7	Tonle Siem Reap

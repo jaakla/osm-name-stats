@@ -1,0 +1,100 @@
+       1099	Pond
+        755	Building
+        442	pond
+        439	Temporary
+        328	house
+        223	building
+        201	Semi permanent
+        167	Road
+        147	House
+        131	Permanent
+        131	Mosque
+        112	road
+        111	Bridge
+        107	General Store
+        106	Dhaka-Barisal Highway
+         92	Dhaka–Chittagong Highway
+         91	Gher
+         88	Sonali Bank Limited সোনালী ব্যাংক �
+         84	homestead pond
+         84	Janata Bank Limited জনতা ব্যাংক লি�
+         75	Border Road
+         73	Teknaf Road
+         73	Tea Stall
+         73	Border India - Bangladesh
+         63	Agrani Bank Limited অগ্রণী ব্যাংক �
+         60	Dhaka - Khulna Hwy
+         54	gher
+         53	Dhaka-Sylhet Highway
+         51	canal
+         51	Hotel
+         51	Govt. Quater
+         49	River
+         48	Goshairhat Shariatpur Road
+         47	POND
+         46	Dhaka - Sylhet Highway
+         44	Aga Sadek Road
+         42	Hardware
+         40	Tangail-Mymensingh Highway
+         39	Road 1
+         39	Filling station
+         38	meer
+         38	canel
+         38	Jagannathpur Road
+         36	khal
+         35	Rice Patty
+         35	Inani-Shamlapur
+         34	Water_point
+         34	Road 4
+         34	Dinajpur - Parbatipur Road
+         33	Pubali Bank Limited পূবালী ব্যাংক �
+         32	Rupali Bank Limited রূপালী ব্যাংক �
+         32	Road 6
+         32	Road 3
+         32	Road 2
+         32	Janata Bank Limited
+         32	College Road
+         31	General store
+         31	Dhaka - Dinajpur Highway
+         31	Bangladesh Krishi Bank বাংলাদেশ কৃষ�
+         30	Tree
+         30	Sonali Bank Limited
+         30	School
+         30	Bata
+         30	Barisal- Pirojpur Highway
+         30	Bangshal Road
+         30	Bagan Bari Road
+         29	Purbachal 300 Feet Road
+         29	New Airport Road
+         28	mosque
+         28	Bogra - Natore Hwy
+         27	Station Road
+         27	Road 5
+         27	Munshiganj-Tongibari-Mawa Road
+         27	Kolatoli Road
+         27	Kazi Alauddin Road
+         27	Concord White House
+         26	Sonali Bank
+         26	Pharmacy
+         26	Dutch-Bangla Bank Limited ATM ডাচ-বাংলা ব
+         26	Dhaka-Mymensingh
+         25	Zindabahar 2nd Lane
+         25	Road 8
+         25	Pubali Bank Limited
+         25	Grameen Bank গ্রামীণ ব্যাংক
+         25	Dhaka - Tangail Highway
+         25	Chalan bill
+         24	Rajshahi Krishi Unnayan Bank রাজশাহী কৃ�
+         24	Prime Bank Limited প্রাইম ব্যাংক �
+         24	Path
+         24	National Bank Limited ন্যাশনাল ব্যা
+         24	Dhaka - Rajshahi Hwy
+         23	Water Point
+         23	Toilets
+         23	Rupali Bank Limited
+         23	Market set
+         23	MMCImpact
+         23	Kalabagan Staff Quarter
+         23	Islami Bank Bangladesh Limited ইসলামী ব্য
+         23	Dhaka-Mymensingh Highway
+         23	Chalanbill

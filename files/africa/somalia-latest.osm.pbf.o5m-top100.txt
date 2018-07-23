@@ -1,0 +1,100 @@
+         37	togga Dhud
+         28	W. Byadhabo
+         23	Ethiopia - الصومال
+         22	Webi Shabeelle
+         16	Jaceyl
+         13	Wadi
+         13	Qardho - Carmo Highway
+         13	Jubba River
+         13	Guduud
+         13	Garoowe - Laascaanood Highway
+         13	Garas
+         12	Garasley
+         12	Ferfer - Kalabeyr Highway
+         12	Digfer Road طريق دكفر
+         12	Boosaaso - Carmo Highway
+         10	Gulf of Aden
+         10	Charcoal tracks
+         10	Buulo Jadiid
+         10	Afgooye أفجوي
+          9	Via Tanzania شارع تنزانيا
+          9	Kenya - الصومال
+          9	Karin
+          9	Gulf of Tadjoura
+          9	Cadayo
+          9	Busley
+          8	Wadajir وداجير
+          8	Malable
+          8	Laas Caanood - Burao Highway
+          8	Biyoley
+          8	Biyo Guduud
+          7	Tawakal
+          7	Kormari
+          7	Kismaayo - Jilib Highway
+          7	Horseed
+          7	Garoowe - Dangoroyo Highway
+          7	Duuray
+          7	Dry Lake Salt Bed
+          7	Ceel Lahelay
+          7	Bohol
+          7	Bakal
+          6	Waberi
+          6	Shimbiraale
+          6	Radio Hargeisa
+          6	Masaajid
+          6	Mareerey
+          6	Madax Maroodi
+          6	Garoowe - Burtinle Highway
+          6	Ethiopia - جيبوتي
+          6	Doonka
+          6	Dhanaane
+          6	Ceel Dheere
+          6	Carmo
+          6	Cadale عضلة
+          6	Cadaad
+          6	Buulo Garas
+          6	Buq بق
+          6	Boosaaso - Badhan Highway
+          6	Bixin
+          6	Balow
+          6	Afweyne
+          5	hut
+          5	Xagar
+          5	Webiyo
+          5	W. Marka
+          5	W. Farsamada طريق التطبيقية
+          5	W. Afgooye / طريق أفجوي
+          5	Toore
+          5	Raaxoole
+          5	Moqor
+          5	Lafoole
+          5	Lafaale
+          5	Kurtun
+          5	Kulmiye
+          5	Goley
+          5	Galooley
+          5	Galoole
+          5	Gal Garas
+          5	Dhato
+          5	Dabdheer
+          5	Cadaley عضلة
+          5	Cad
+          5	Caanoole
+          5	Beled Amiin
+          5	Baqdaad
+          4	خليج تاجورة Gulf of Tadjoura
+          4	dormitory
+          4	Xiis
+          4	Xagal
+          4	Weel Mareer
+          4	Waney
+          4	W. Waabari طريق وابيري
+          4	W. Siinaay / Jidka Wadnaha
+          4	W. Afgooye
+          4	Via shekh Osman Gueruene
+          4	Via Shire Warsame
+          4	Via General Daoud شارع الجنرال داود
+          4	Via Ebigabo
+          4	Via Cairo شارع القاهرة
+          4	Via Alto Juba شارع جوبا العليا
+          4	Via 1 Juli / طريق 1 تموز

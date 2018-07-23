@@ -1,0 +1,100 @@
+       1582	Willow Creek
+       1547	El Camino Real
+       1422	Main Street
+       1346	Mill Creek
+       1278	Rock Creek
+       1255	Pacific Coast Highway
+       1194	Foothill Boulevard
+       1091	Starbucks
+       1086	Needles Subdivision
+       1076	Bear Creek
+       1054	Indian Creek
+       1029	San Diego Freeway
+       1029	Dry Creek
+       1023	Central Avenue
+        929	Middle Fork Feather River
+        910	Redwood Highway
+        823	Broadway
+        811	3rd Street
+        783	Deer Creek
+        776	Big Creek
+        750	Imperial Highway
+        749	Mission Boulevard
+        739	Canyon Creek
+        734	Cottonwood Creek
+        723	Subway
+        721	McDonald's
+        710	4th Street
+        704	Salt Creek
+        695	Mad River
+        686	Valley Boulevard
+        683	South Main Street
+        663	Chevron
+        661	Clear Creek
+        649	2nd Street
+        629	Sepulveda Boulevard
+        626	1st Street
+        625	Market Street
+        623	Middle Yuba River
+        622	Grand Avenue
+        622	Garfield Avenue
+        612	Magnolia Avenue
+        612	Foothill Freeway
+        607	6th Street
+        598	Union Pacific Railroad
+        592	Bay Area Rapid Transit
+        586	Riverside Drive
+        579	San Pablo Avenue
+        572	7-Eleven
+        570	Pine Creek
+        566	Grizzly Creek
+        564	University Avenue
+        562	Crenshaw Boulevard
+        556	Cabrillo Highway
+        554	Wilshire Boulevard
+        553	North Fork Feather River
+        552	Cedar Creek
+        545	Rattlesnake Creek
+        544	Shell
+        532	Atlantic Avenue
+        525	Victory Boulevard
+        520	Golden State Freeway
+        520	5th Street
+        517	Fish Creek
+        516	Slate Creek
+        508	West Side Freeway
+        492	Cherry Avenue
+        489	Lincoln Avenue
+        483	7th Street
+        480	South Fork Eel River
+        464	San Bernardino Freeway
+        460	Beach Boulevard
+        459	West Olympic Boulevard
+        459	Harbor Boulevard
+        456	Sherman Way
+        454	Bank of America
+        453	Ventura Freeway
+        449	South Western Avenue
+        439	West El Camino Real
+        436	Taco Bell
+        435	Wells Fargo
+        434	Rush Creek
+        434	Last Chance Creek
+        434	Artesia Boulevard
+        431	Whittier Boulevard
+        428	Van Duzen River
+        428	Santa Monica Boulevard
+        428	Orange Avenue
+        427	Butte Creek
+        425	Burbank Boulevard
+        425	Brookhurst Street
+        422	Jack in the Box
+        422	Boulder Creek
+        419	Rosecrans Avenue
+        418	Walnut Avenue
+        410	Paramount Boulevard
+        409	Kern River
+        408	Chase
+        407	Vanowen Street
+        405	South Fork Trinity River
+        402	Edinger Avenue

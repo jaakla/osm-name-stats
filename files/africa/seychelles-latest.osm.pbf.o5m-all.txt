@@ -1,0 +1,1561 @@
+          1	1770 Brewery
+          1	5555
+          9	5th June Avenue
+          1	8 Lounge
+          1	A
+          1	A - One Supermarket
+          2	Acajou
+          1	Acajou Beach Bar & Restaurant
+          1	Adam & Eve
+          2	African Banks
+          1	Ah Yune
+          1	Airfield?
+          1	Ajith Raj Convenience
+          1	Akuda Bar
+          4	Albert Street
+          1	Albizia Lodge Green Estate
+          1	Aldabra
+          1	Aldabra tortoise enclosure
+          1	Alevels Park
+          1	Alha villa
+          1	Alibhaye shop
+          1	Alisee self-catering
+          1	Allée Kersley
+          1	Alphonse
+          1	Alphonse Group
+          2	Alphonse Island
+          1	Amitie Beach
+          1	Amitie Stadium
+          1	Amitié Chalets
+          1	Amour Villa
+          1	Anchor Cafe
+          1	Ancient Anse Boudin police station & clinic
+          1	Ancient Anse boudin police station & clinic
+          1	Angels Corner
+          1	Angels Hill Residence
+          1	Anne's Shop & Tailoring
+          1	Annie's Snack
+          1	Anse Aux Courbes
+          1	Anse Aux Pins
+          1	Anse Aux Pins Police Station
+          1	Anse Aux Pins Primary
+          1	Anse Aux Poules Bleues
+          3	Anse Badamier
+          1	Anse Banane
+          1	Anse Bateau
+          2	Anse Bazarca
+          1	Anse Bernik
+          1	Anse Bernitier
+          2	Anse Boileau
+          1	Anse Boileau Supermarket
+          1	Anse Boileau Water Treatment Plant
+          1	Anse Bois de Rose
+          1	Anse Bonnet
+          1	Anse Bonnet Carré
+          4	Anse Boudin
+          1	Anse Boudin Chapel
+          1	Anse Bougainville
+          1	Anse Cabot
+          2	Anse Cachee
+          1	Anse Caiman
+          2	Anse Capucins
+          1	Anse Cimentiere
+          1	Anse Citron
+          2	Anse Cocos
+          2	Anse Consolation
+          2	Anse Corail
+          1	Anse Ermetz
+          1	Anse Etoile
+          1	Anse Etoile Police Station
+          2	Anse Forbans
+          1	Anse Fourmis
+          2	Anse Gaulettes
+          2	Anse Georgette
+          2	Anse Gouvernement
+          1	Anse Gouvernment
+          1	Anse Grosse Roche
+          2	Anse Intendance
+          4	Anse Kerlan
+          1	Anse Kerlan Beach Chalets
+          1	Anse Kerlan River
+          1	Anse L'Ilot
+          1	Anse L'Islet
+          1	Anse La Farine
+          1	Anse La Mouche
+          1	Anse La Reunion
+          1	Anse Lascars
+          2	Anse Lazio
+          1	Anse Lisette
+          3	Anse Louis
+          1	Anse Louis Road
+          1	Anse Machabee
+          1	Anse Madge
+          3	Anse Major
+          1	Anse Major Trail
+          2	Anse Mandarin
+          1	Anse Mare Jupe
+          1	Anse Marie Laure
+          3	Anse Marie-Louise
+          1	Anse Marron
+          2	Anse Matelot
+          1	Anse Mondon
+          1	Anse Nord D'Est
+          1	Anse Norwa Guest House
+          1	Anse Papaie
+          1	Anse Parnel
+          2	Anse Patates
+          1	Anse Petit Cour
+          1	Anse Petite Cour
+          1	Anse Pierrot
+          1	Anse Polite
+          2	Anse Possession
+          1	Anse Reunion Supermarket
+          1	Anse Royal Complex
+          1	Anse Royal Hospital
+          3	Anse Royale
+          1	Anse Royale Community Center
+          1	Anse Royale Creche
+          1	Anse Royale Primary School
+          1	Anse Royale Secondary School
+          1	Anse Royale school
+          1	Anse Severe
+          1	Anse Severe Beach Villa
+          3	Anse Soleil
+          1	Anse Soleil Beachcomber
+          1	Anse Soleil Resort
+          1	Anse Songe
+          1	Anse Souillac
+          3	Anse Source d'Argent
+          1	Anse St. Jose
+          1	Anse St. José
+          1	Anse St. Sauveur
+          5	Anse Takamaka
+          1	Anse Takamaka View
+          1	Anse Tec-Tec
+          1	Anse Tousalo
+          3	Anse Volbert
+          1	Anse aux Cedres
+          1	Anse aux Pins
+          1	Anse cemetery
+          1	Anse des Anglais
+          1	Anse des Genets
+          1	Anse la Farine
+          1	Anthrium Hardware Store
+          1	Antik Marine
+          1	Aquario Self Catering
+          1	Aride Island
+          1	Ashmitha Supermarket
+          1	Asia Fusion
+          1	Assemblies of God
+          1	Assomption
+          1	Assumption Island
+          1	Assumption Island Airport
+          2	Astove
+          1	Atm
+          1	Atoll de Cosmoledo
+          1	Au Bon Valer
+          1	Au Cap District Aministration
+          1	Au Cap Mini Market
+          1	Au Cap School
+          1	Au Fond Du Mer
+          1	Auberge d'Anse Bioleau-Chez Plume
+          1	AuxCap Selfcatering La Nature Apartment
+          1	Avani Seychelles Barbarons
+          1	Ave maria Rock
+          1	Avenue Des Creole
+          1	Azurro Pro Dive
+          1	Aéroport International de Seychelles - Pointe Larue
+          1	B
+          1	Baie Chevalier
+          2	Baie Lazare
+          1	Baie Lazare Petrol Station
+          1	Baie Lazare Public Library
+          1	Baie Lazare Store
+          1	Baie Pasquiere
+          1	Baie Sainte Anne
+          1	Baie Ste Anne Jetty
+          1	Baie Ste. Anne
+          2	Baie Ternay
+          1	Bakery Baie Lazare
+          2	Bamboo Chalets
+          1	Bancs de sable (Grande Caye)
+          1	Banyan Tree
+          1	Baobab
+          2	Barbarons
+          1	Barbarons Beach
+          7	Barclays
+          1	Barclays ATM
+          1	Barclays Bank
+          1	Barclays La Digue Branch
+          1	Barclays bank
+          1	Barrel Nightclub & Bar
+          1	Barrel Trade Centre
+          1	Bay View Guest House
+          1	Bazar Labrin
+          1	Bazar Victoria
+          1	Bazar Victoria Park
+          1	Beach Cottages
+          1	Beach Toilets and Showers
+          1	Beach Villa
+          1	Beach access road for turists
+          1	Beau Bamboo Guesthouse
+          1	Beau Sejour
+          2	Beau Vallon
+          1	Beau Vallon Beach Apartments
+          1	Beau Vallon Bungalow
+          1	Beau Vallon Community Centre
+          1	Beau Vallon Police Station
+          1	Beau Vallon Secondary School
+          1	Beau Vallon Supermarket
+          1	Beau vallon hospital
+          2	Behram's Pharmacy
+          1	Bel Air Cemetery
+          1	Bel Air Hotel
+          1	Bel Air Road
+          1	Bel Air Store
+          1	Bel Eau Primary School
+          1	Bel Horizon Selfcatering
+          1	Bel Ombre
+          1	Bel Ombre MIni Market
+          2	Bel Ombre Road
+          1	Belle Amie
+          1	Belle View
+          1	Belle Vue Café
+          1	Belombre Primary school
+          2	Belonie Secondary School
+          1	Bench
+          1	Benezet Street
+          1	Benjamine's Holidays
+          1	Berjaya
+          1	Berjaya Resort
+          1	Bernard
+          1	Bernique
+          1	Bertaut Reef
+          1	Beryl
+          1	Bicentennial Monument
+          1	Big Blue Diver
+          1	Big cross
+          1	Bijoutier Island
+          1	Bike Rental
+          2	Bird Island
+          2	Bird Island Airport
+          1	Birgo
+          1	Black Pearl Farm
+          1	Bliss Car Hire
+          1	Bliss Hotel
+          1	Blue Lagoon Chalets
+          1	Blue Roof - Public Health Authority
+          1	Blue Sea Divers
+          1	Bois Verse
+          1	Bois d'Amour
+          1	Bois de Rose Avenue
+          1	Bois de Rose Shopping Complex
+          1	Bon Espoir
+          1	Bonbon Plume
+          1	Bonnen Kare Consolation
+          1	Boobie
+          1	Boobie rock
+          1	Bord Mer Villas
+          1	Botanica Restaurant
+          1	Botanical Garden Mont Fleuri
+          1	Botanical Garden Parking
+          1	Breeze Garden
+         16	Bus
+          1	Bus 5A
+          1	Bus St op
+          1	Bus stop Flocy's store
+          2	Butcher's Grill
+          1	Butterfly Villa
+          1	C
+          1	CSB Building
+          1	Cabanes des Anges
+          2	Cable & Wireless
+          1	Cable & Wireless Cable Kiosk
+          1	Cable & Wireless Office
+          1	Cable Kiosk
+          1	Cable and Wireless
+          1	Cabris
+          1	Cafe Dauban
+          1	Cafe des Arts
+          1	Cafeteria
+          1	Calou Guest House
+          1	Calypha Guesthouse
+          1	Canelles
+          1	Cap Jean Chalets
+          1	Cap Lazare
+          1	Cap Matoopa
+          1	Capricorn
+          1	Capricorn Islander's
+          1	Captain’s Villa
+          1	Capucins
+          1	Carana Beach Hotel
+          1	Carana Villa
+          1	Caravelle House
+          1	Cardamon Avenue
+          1	Care House
+          1	Carefree Guesthouse
+          1	Carrefour des Arts
+          1	Casa Tara
+          1	Casa de Leela
+          1	Casa de Maestro
+          1	Casandi Hotel
+          1	Cascade
+          2	Cash Plus
+          1	Cash Plus (Currency exchange)
+          1	Casino des Iles
+          1	Casse Dent Trail
+          1	Castaway Lodge
+          1	Castello Beach Hotel
+          2	Castor Road
+          1	Casuarina Beach
+          1	Cat Cocos Office
+          1	CatCocos Praslin Office
+          1	Catholic Church St. Andre
+          1	Cathédrale de l'Immaculée Conception
+          1	Caye Boudeuse
+          1	Cemetery
+          1	Centerpoint
+          1	Central Bank
+          1	Central Police Station
+          1	Central Selfcatering
+          1	Central Woodland
+          1	Cerf Island Resort
+          1	Chalets Anse Possession
+          1	Chalets Cote de Mer
+          1	Chalets d'Anse Forbans
+          1	Chalets d'Anse Réunion
+          1	Chandran Shop Centre
+          1	Charcoal
+          1	Chateau Saint Cloud
+          1	Chateau Sans Souci
+          1	Chateau de Feuilles
+          2	Chauve Souris
+          2	Chemin Anse Soleil
+          2	Chemin Latanier
+          1	Chemin Les Canelles
+          3	Chemin Val d'Endor
+          6	Chemin le Niol
+          1	Chez Batista
+          1	Chez Bibi
+          1	Chez Bijoux
+          1	Chez Felia
+          1	Chez Lester
+          2	Chez Marston
+          1	Chez May Paul
+          1	Chez Roro
+          1	Chickas Mini Market
+          1	Child_careclinic
+          1	Chill Out
+          1	Chilli Bar & Steakhouse
+          1	Chinese Embassy
+          1	Chissioua Chongochamaji
+          1	Chloe's Cottage Guesthouse
+          1	Choice Villa
+          1	Chopsted Chalets
+          1	Church
+          1	Church La Blague
+          1	Church Street
+          1	Cinnamon Drive
+          1	Clef des Iles
+          1	Clinic
+          1	Cliva's Yummy Shop
+          1	Clock Tower 小本钟
+          1	Coast Guard
+          1	Coastal Scenic
+          1	Coco Bay Villa
+          1	Coco Creole
+          2	Coco Rouge
+          1	Coco Sun Fruit Cabana
+          1	Coco d'Or Hotel
+          1	Coco de Mer - Black Parrot Suites Hotel
+          1	Coco-de-Mer Avenue
+          1	Cocotier du Rocher
+          1	Codevar Building
+          1	Coetivy Airport
+          1	Coin D'Or Selfcatering
+          1	Cold Storage
+          1	Colibri
+          1	Colony
+          1	Commercial Bank of Seychelles
+          1	Commercial House
+          1	Community Centre
+          1	Congo Rouge
+          1	Constance Ephelia Resort
+          1	Constance Lemuria
+          1	Constitutional Court
+          1	Consulate of Slovakia
+          1	Consulate of Sweden
+          1	Cool Licks
+          1	Copolia
+          1	Copolia 1.2km
+          1	Copolia Lodge
+          1	Copra House Apartments
+          1	Copyshop
+          1	Coral Strand Hotel
+          1	Coral Strand Road
+          1	Coral island hotel
+          1	Corossol
+          1	Cosmorama
+          1	Cote D'Or Footprints
+          1	Cote D'Or Lodge
+          1	Cote D'Or Souvenir Boutique
+          1	Count & Read
+          1	Court
+          1	Court monument
+          2	Cousin
+          1	Cousine
+          1	Creol Institute
+          1	Crown Beach Hotel
+          1	Crève Coeur
+          3	Curieuse
+          1	Curio Road
+          1	Cyann
+          1	Cynda Military Base
+          1	Côte d’Or Chalets
+          1	D
+          1	D'Arros Island
+          1	DKS Boutique
+          1	Dame Rose Store
+          1	Damoo Supermarket
+          1	Dans Bernarnd Trail/ Danzil - Mont d'Or
+          2	Dans Gallas
+          1	Dans Gallas trail
+          1	Darling Supermarket
+          1	Darrel's Coco Hut
+          1	Darrel's Coco Hut Lounge
+          1	Darros Airport
+          1	Dauban Mausoleum
+          1	Dawn Dew Farm
+          1	Daycare Center
+          1	De Zil Boutik
+          1	Deepam Cinema
+          1	Deepam Paradiso
+          1	Del Place
+          1	Demeure de Capmacon
+          1	Denis Island Airport
+          1	Dental Surgery
+          1	DentalNClinic
+          1	Department of Transport and Road Commissioner Office
+          1	Desalination Plant
+          1	Desaubin Mini Market
+          1	Desirade Selfcatering
+          1	Desroches Airport
+          1	Desroches Island
+          1	Devon Residence
+          1	Dhevatara Beach Hotel & Restaurant
+          1	Diagnostic Centre
+          1	Diguoise Guesthouse
+          1	District Market
+          1	Dive Resort Seychelles
+          1	Diver's Lodge Guesthouse
+          1	Division of Risk and Disaster Management
+          1	Dock
+          1	Docklands
+          1	Docklands Supermarket
+          1	Domaine de Val des Pres (Craft Village)
+          1	Domaine des Aubin
+          1	Domus
+          1	Dondée
+          1	DoubleTree Resort & Spa by Hilton Hotel Seychelles - Allama
+          1	Dr Albert's Clinic
+          1	Dr Chetty's Clinic
+          1	Dr Murthy's Clinic
+          1	Dr. Alexander
+          1	Dr. House
+          1	Dream Yacht Charter
+          1	Driftwood Selfcatering
+          1	Durais Mini Market
+          1	E
+          1	EUROMEDICAL FAMILY CLINIC
+          1	Eagle Island
+          1	East Horizon
+          1	East Knoll
+          1	Eau Claire de Lune
+          1	Eco Center - Diving Center
+          1	Edelweiss Tours
+          1	Eden
+          1	Eden Bleu Hotel
+          1	Eden House
+          2	Eden Island
+          1	Eden Island viewpoint
+          1	Eden Panoramic Guesthouse
+          1	Eden Parking Garage
+          1	Eden Pharmacy
+          1	Eden Plaza
+          1	Eden Plaza Casino
+          1	Eden Plaza Parking
+          1	Eden's Creole Restaurant
+          1	Edens Car rental
+          1	El's Product
+          1	Elephant Rock
+          1	Elize's Villa Self Catering
+          1	Elje villa
+          1	Elrina's Boutique
+          1	English River Clinic Bus Stop
+          1	English River Health Centre
+          1	English River Secondary School
+          1	Erad market
+          1	Etoile Labrine
+          1	Eureka Specialist Medical Clinic
+          1	Euromedical Family Clinic
+          1	Euromedical Family Clinic (Providence branch)
+          1	Eustache
+          1	Exile take away
+          1	F
+          1	Fadine
+          1	Fairview
+          2	Farish Family Market
+          1	Farquhar Airport
+          1	Farquhar Atoll
+          1	Farquhar Group
+          1	Ferdinand Nature Reserve
+          1	Ferry Parking
+          1	Ferry Tickets
+          1	Feuille D'Or Restaurant
+          1	Fine view Selfcatering
+          1	Fire Service
+          1	Fish
+          1	Fish Trap Bar & Restaurant
+          1	Fish stalls
+          1	Fishing Centre
+          1	Fishtail Restaurant
+          1	Fleur de Lys
+          1	Fleur de Sel
+          1	Flower Garden Self-Catering Appartements
+          1	Fockyune Retail Shop
+          1	Fond Diable
+          3	Fond Ferdinand Nature Reserve
+          1	Fond de l'Anse
+          1	Football Pitch
+          1	Four Seasons
+          1	Fran's Holiday Cottage
+          1	France
+          1	France, Terres australes et antarctiques françaises, Îles
+          3	Francis Rachel Street
+          1	Frangapini cafeteria and take away
+          1	Freedom Square
+          1	Fregate
+          1	French & EU Embassy
+          1	French Foreign Legion
+          1	Frere Mariste
+          1	Fresh Cuts
+          1	Frigate Island
+          1	Fruita Cabana Bar
+          1	Frégate Island Airport
+          1	Fuel Station
+          1	Félicité
+          1	G
+          1	Gala Take Away
+          1	Gala Takeaway
+          1	Galerie Passerose
+          1	Gelateria Da Luca
+          2	George Camille Art Gallery
+          1	George Camille Gallery
+          1	Georgina's Cottage
+          1	Ghandi Shopping Convenience
+          2	Giant Tortoise
+          1	Giant Union Rock
+          1	Giraffe
+          1	Glacis
+          2	Glacis Beach
+          1	Glacis Heights Villa
+          1	Glacis Police Station
+          2	Glorious Bakery
+          1	Glory Retail
+          1	Gombo La Monte
+          1	Good Health Pharmacy
+          1	Good snorkeling for beginner level
+          1	Goëlette
+          1	Grace & Peace
+          5	Grand Anse
+          1	Grand Anse La Blague
+          1	Grand Barbe
+          1	Grand L'Anse
+          1	Grand Polyte
+          1	Grand Tarde Waterfall
+          1	Grand Terre
+          3	Grand' Anse
+          2	Grande Anse
+          1	Grande Glorieuse
+          1	Grande Passe
+          1	Grande Sœur
+          1	Grande Île
+          1	Grann Kaz
+          1	Grann Kazz - Hilton Labriz
+          1	Graveyard
+          1	Greek Consulate
+          1	Gregoire's Boutique
+          1	Groupe d'Aldabra
+          2	Gym
+          1	H
+          1	H hotel and resort
+          1	Hair_dresser
+          1	Hairhouse hairdressing saloon
+          1	Hajdee
+          1	Halle's Kindergarten
+          1	Hangard
+          1	Hanneman Apartments
+          1	Hannemans Holiday Residence
+          1	Happiness takeaway
+          1	Happy Bakery
+          1	Happy Youth Club
+          1	Hardware store
+          1	Harmison Street
+          1	Havana
+          1	Hawksbill Dive Centre
+          1	Health Center Anse Boileau
+          1	Health Centre
+          1	Heliconia Grove
+          1	Helios
+          1	Heritage Cinnamon Distillery
+          1	Hibiscus
+          1	Hidden Palm
+          1	Hideaway Holiday Apts
+          1	Hilltop Boutique Hotel
+          1	Hilton Labriz Silhouette Jetty
+          1	Hilton Seychelles Labriz Resort & Spa
+          1	Hilton Seychelles Northholme Resort & Spa
+          1	Hilton Seychelles Northolme Resort
+          1	Hindu Temple
+          1	Hodoul Point
+          1	Holy Saviour's Anglican Church
+          1	Honesty Bar
+          1	Honey Pot
+          1	Hospital Road
+          1	Hostellerie La Digue
+          1	Hotel Berjaya Praslin
+          1	Hotel L'Ocean
+          1	Hotel Patatran
+          1	Hotel Sans Souci
+          1	House A1-A4 MK
+          1	House Julie Melidor
+          1	Huteau Lane
+          1	I
+          1	I.C.S. Offices
+          1	ISPC Beau-vallon
+          1	ISPC Fresh Market
+          1	ISPC Market / Ole Restaurant
+          1	Ice Plant
+          1	Ile Anonyme
+          1	Ile Aurore
+          1	Ile Aux Vaches
+          1	Ile Cachee
+          1	Ile Cerf
+          1	Ile Cocos
+          1	Ile Conception
+          1	Ile Cöetivy
+          1	Ile Lapin
+          1	Ile Longue
+          1	Ile Moyenne
+          1	Ile Perseverance
+          1	Ile Ronde
+          1	Ile Saint Pierre
+          1	Ile Souris
+          1	Ile Thérèse
+          1	Ile au Cerf
+          1	Ile aux Rats
+          1	Ile de Romainville
+          1	Ile des Déposés
+          1	Ile du Milieu
+          2	Ile du Nord
+          1	Ile du Port
+          1	Ile du Sud
+          1	Ile souris spiaggia con isoletta
+          1	Iles des Palmes - Eco Resort
+          1	Ilôt M’Zamboro
+          1	Imbiss - Chez Jules
+          2	Independence Avenue
+          1	Independence House
+          1	Independence School
+          1	Indian Convenience
+          1	Indian Embassy
+          1	Indian Ocean Lodge
+          1	Indian Tandoori Cuisine
+          1	Indian shop
+          1	Information Office
+          1	Intendance Road
+          1	Inter Island Ferry Terminal / Jetty Praslin
+          1	Interisland Ferry Terminal
+          1	International Conference Centre
+          1	Island Bungalow
+          1	Island Cafeteria
+          1	Island Managers House
+          1	Island Pizzeria
+          1	Isle Hodoul
+          1	Ixora Villa
+          1	J
+          1	J & J
+          1	Jamelah Apartments
+          1	Jamelia Apartments
+          1	Jardin Marron
+          1	Jardin des Palmes
+          1	Jasmin Crescent
+          1	Je ne parle franse, pardone moi
+          1	Jenny
+          1	Jenny's Bakery
+          1	Jenny's Place
+          1	Jesus House - Redeemed Christian Church
+          1	Jetty
+          1	Jetty Bar
+          1	Jetty Hilton Labriz
+          1	Jetty Silhouette
+          1	Jetty car park
+          1	Jivan Clinic
+          1	Jominaro
+          1	Joy Take Away
+          1	Jules Take Away
+          1	Juliana's Villa Cafe
+          1	Julianas Beach Villas
+          2	Jungle Trail to Anse Cocos
+          1	K
+          1	K. K. Thirumalai
+          1	Kabana
+          1	Kafe Kreol
+          1	Kakazou
+          2	Kannus
+          1	Kannus Bus Stop
+          1	Kannus Supermarket
+          1	Kayola Self Catering
+          1	Kaz Miro
+          1	Kaz Zanana
+          1	Kaz ladouceur
+          1	Kempinski Seychelles Resort
+          1	Kempinsky Entrance Gate
+          1	Kenwyn House
+          1	Kingdom Hall of Jehovah´s Witnesses
+          1	Kingdom Hall of Jehovah´s Witnesses / Praslin Seychelles
+          1	Kingdomhall of Jehovah's Witnesses
+          1	Kitty's lunch box
+          1	Kokosye Cafe
+          1	Kot Babi
+          1	Kot Deko Takeway
+          1	Kot Dorasammy
+          1	Kot Kasi
+          1	Kot Raj
+          1	Kreolfleurage Boutique
+          1	Kreolor
+          1	Kumar & Kumar
+          1	Kwen Ideal Takeaway
+          1	L
+          1	L' Allee Close
+          1	L'Amitié
+          1	L'Archipel
+          1	L'Habitation
+          1	L'Hirondelle
+          1	L'Ilot Beach Chalets
+          1	L'Islette
+          1	L'echo des vagues
+          1	L'hirondelle
+          1	La Bastille
+          1	La Batie Road
+          1	La Belle Epoche
+          1	La Belle Hairdressing Salon
+          1	La Belle Tortue
+          1	La Béolière
+          1	La Cachette
+          1	La Casa Sorento
+          1	La Ciotat
+          1	La Colombe d'Or
+          2	La Digue
+          1	La Digue Ferry Terminal
+          1	La Digue Holiday Villa
+          1	La Digue Island Lodge
+          1	La Digue Kindergarten
+          1	La Digue Pizzaria
+          1	La Digue Pizzeria
+          2	La Digue Police Station
+          1	La Digue Post Office
+          1	La Digue School
+          1	La Digue Self Catering
+          1	La Digue Sport Complex
+          1	La Digue desalination plant
+          1	La Domaine de Bacova
+          1	La Fiesta Take Away
+          1	La Fontaine
+          1	La Fontaine Apartments
+          1	La Gaulette
+          1	La Gogue Dam
+          1	La Goulue
+          1	La Grande Maison
+          1	La Luise Lodge
+          1	La Menthe Avenue
+          1	La Misère
+          1	La Misère Exotics Garden Centre
+          2	La Misère Road
+          2	La Modestie
+          1	La Passe Guesthouse
+          1	La Pause
+          1	La Perle Noire
+          1	La Plage
+          1	La Plaine St. Andre
+          1	La Reserve Hotel
+          1	La Reserve Trail
+          1	La Residence Villa & Apartments
+          1	La Retraite
+          1	La Rosiere Primary School
+          1	La Rosière Primary School
+          1	La Rousette
+          1	La Roussette
+          1	La Réserve
+          1	La Scala
+          1	La Sirene
+          1	La Villa
+          1	La Villa Therese
+          2	Lai Lam Food Shop
+          1	Lakaz
+          2	Lalla Panzi
+          1	Lanbousir
+          1	Lans Dangle
+          1	Lans Trusalo
+          1	Laraie Baie
+          1	Laurier Eco Hotel
+          1	Lazare Picault
+          1	Lazare Souvenir Museum Gallery
+          1	Le Bonheuer Villa
+          5	Le Boulevard
+          1	Le Canton Chinese Restaurant
+          1	Le Chantier Mall
+          1	Le Chevalier
+          1	Le Dauphin
+          1	Le Desert
+          1	Le Domaine de l'Orangeraie
+          1	Le Duc de Praslin
+          1	Le Fontain
+          1	Le Jardin du Roi
+          1	Le Kato Noir
+          1	Le Meridien Fisherman's Cove
+          1	Le Nautique Waterfront Hotel La Digue
+          1	Le Niol Forestry Unit
+          1	Le Niol Water Treatment Plant
+          7	Le Niol-Mare aux Cochons
+          1	Le Paradisier
+          1	Le Port
+          1	Le Reduit
+          1	Le Relax
+          1	Le Relax Beach Resort
+          1	Le Relax Self Catering
+          1	Le Relax hotel
+          1	Le Rendez Vous
+          2	Le Repaire
+          1	Le Safran Vert
+          1	Le Surmer
+          1	Le Tropic Villa
+          1	Le Tropique Villa
+          1	Lemongrass Lodge
+          1	Les 4 Etoiles Holiday Villas
+          4	Les 4 Frères
+          1	Les Cannelles Estate
+          1	Les Dauphins Heureux
+          1	Les Delices Del Ocean Residence
+          1	Les Dents
+          1	Les Mamelles Clinic
+          1	Les Mamelles Community Centre
+          1	Les Palmes
+          1	Les Rochers
+          1	Les Villas D'Or
+          1	Liberation Avenue
+          1	Library fountain
+          1	Lilac Trading
+          1	Lionel Bicycle Rental
+          1	Lo Brizan
+          1	Lodge Street
+          1	Logan Hospital
+          1	Loray Snack Shop
+          1	Lorina Snacks
+          1	Loutier Coco
+          1	Lucky House
+          1	Luxury Chalets
+          1	Lyly Boat Charter
+          1	L´Îlot
+          1	L’Union Estate
+          1	L’Union Estate Farm
+          1	M
+          1	M&K Garments & Textiles Boutique
+          1	M.R.Pillow Supermarket
+          3	MCB
+          1	MCB ATM
+          1	MCB Bank
+          1	MPS Supermarket MK
+          1	MRKV_Shop
+          1	MURALI mini market
+          1	Ma Constance
+          1	Ma Constance Bus Stop
+          2	Ma Joie Bus Stop
+          1	Mahe Airport
+          2	Mahek
+          2	Mahé
+          1	Mahé - Praslin
+          1	Mahé - Sainte Anne
+          1	Maia Luxury Resort
+          1	Maison Belle Baie
+          1	Maison Charme De L'ile
+          1	Maison Soleil
+          1	Maison St. Saveur
+          1	Maison du Soleil
+          2	Maisons
+          1	Maki
+          1	Maki Shop Praslin
+          1	Malabar
+          1	Malakoff Street
+          1	Mamelle Island
+          1	Manaha Milieu
+          1	Manaha Nord
+          1	Manaha Sud
+          1	Manglier Street
+          1	Mango Lodge
+          1	Manivelle
+          1	Manny New
+          1	Manresa Hotel & Restaurant
+          1	Maravi
+          1	Mare Anglaise
+          1	Mare aux Cochons
+          1	Maria's Rock Cafeteria
+          1	Marianne
+          1	Marie Antoinette
+          1	Marie Laure Suites
+          1	Marie Louise Island
+          1	Marie Louise Island Airport
+          1	Marie-Antoinette Restaurant
+          1	Marie-Claude
+          1	Marie-France Beach Front Apartments
+          1	Marie-Louise Airport
+          1	Mariella's grocery and boutique
+          2	Marina Drive
+          1	Marina House
+          1	Marine Park Cottage
+          2	Market Street
+          1	Maruthi store
+          1	Mary Anne
+          1	Mas Supermarket
+          2	Mason's Travel
+          1	Mauritius Commercial Bank
+          2	Mcb
+          1	Medent Centre Dental clinic
+          1	Medical & Health Center / Hospital
+          1	Medical Clinic
+          1	Mein's Car Hire
+          1	Mi Mum's
+          1	Michael Adams Studio
+          1	Michel Villas
+          1	Mike's Shop
+          1	Miller
+          1	Mimis Café
+          2	Mini Market
+          1	Ministry of Education
+          1	Ministry of Environment
+          1	Ministry of Foreign Affairs
+          1	Ministère de l'Environnement et de l'Energie
+          1	Mission Lodge
+          1	Mohan Shopping Centre
+          1	Money Changer
+          1	Money Exchange
+          1	Mont Coton
+          1	Mont Fleuri Bus Stop
+          1	Mont Fleuri Road
+          1	Mont Fleuri School
+          1	Mont Le Niol
+          1	Mont Parnel
+          1	Mont Plaisir
+          1	Mont Plaisir - Anse Gourgette
+          1	Mont Signal
+          1	Mont d'Or
+          1	Montagne Glacis
+          1	Montagne Posee Prison
+          3	Montagne Posée Road
+          1	Moonlight Craft Curio Shop's
+          1	Morels' St Louis
+          1	Morne Blanc
+          1	Morne Blanc Nature Trail
+          1	Morne Blanc viewing platform
+          1	Morne Seychellois
+          1	Morne Seychellois National Park
+          1	Morne Seychellois Park
+          1	Mount Eden
+          1	Mountain View Villas
+          1	Mrs A Walter retailer
+          1	Mt Harrison
+          1	Mte. Brulée
+          1	Mte. Jasmin
+          1	Mum's Place
+          1	Museum of Natural History
+          1	My Green mansion
+          1	My House in Seychelles
+          1	NSC Gymnasium
+          1	NSC Hall
+          1	Nana's Apartments
+          1	Nati & Kus
+          1	Nation Newspaper
+          1	National Assemby
+          1	National Biodiversity Centre
+          1	National Bureau of Statistics Seychelles
+          2	National House
+          1	National Institute for Science Technology & Innovation
+          1	National Library
+          1	National Museum of History
+          1	National Swimming Pool
+          1	Navin's Minimarket
+          1	Nelson's Car Hire
+          1	New Emerald Cove
+          1	New Savy
+          1	News Cafe
+          1	Nice View Selfcatering
+          1	Nice view of Anse Lazio
+          1	Nid d'Aigle (333m)
+          1	No payed way throw ocean
+          1	North Coast Road
+          1	North Island
+          1	North Island Ressort
+          1	North Point
+          1	North Point Shopping Centre
+          1	North West Bay
+          1	Nothbound Bus Bay
+          1	Notre Dame de L'Assomption
+          1	Notre Dame des Iles
+          3	Nouvobanq
+          1	Nouvobanque fountain Monument
+          1	Nursing Home
+          1	O-La-La
+          1	Ocean Dream Divers
+          1	Ocean Jewels
+          1	Ocean Plaza
+          1	Ocean View bar
+          1	Ocean Villa
+          1	Ocean Vista
+          1	Ocean's Plaza
+          1	Oceana Group
+          1	Oceane Self Catering
+          1	Oceanic Palms Apartments
+          2	Oceans Plaza
+          1	Octopus Divers
+          1	Octopus Diving Centre
+          1	Ogani Bar
+          1	Old Childrens playground park
+          3	Olivier Maradan Street
+          1	Omusee B&B
+          1	Opera
+          1	Orchid
+          1	Orion Mall
+          1	Osceanside selfcatering
+          1	Oxygen Night Club
+          1	PK's @ Pasquière Restaurant & Pub
+          1	PTI Kreol Take Away
+          1	PTI Lakaz Take Away
+          1	PUC Electricity Power Station
+          1	Pagode
+          1	Palais des Sports
+          1	Palm Beach Hotel
+          1	Palm Street
+          1	Palms Villa
+          1	Pamandzi Kéli
+          1	Panacea Healthcare
+          1	Panorama Guesthouse
+          1	Panorama Road
+          1	Paodise GuestHouse
+          1	Paradis Des Enfants
+          1	Paradise Flycatcher
+          2	Paradise Sun
+          1	Paradise Taste Take Away
+          1	Parc Marine National de Curieuse
+          1	Parc naturel marin de Mayotte
+          1	Parc naturel marin des Glorieuses
+          1	Parking Beau Vallon Beach
+          2	Parkplatz
+          1	Pascal Village
+          4	Pasquière Track
+          1	Passe Houareau
+          1	Path to Rochon Dam viewpoint
+          1	Peace Park
+          1	Pension Fidele
+          1	Pension Michel
+          1	Pentocostal Church
+          1	People's Stadium
+          1	People's Supermarket MK
+          1	Perfect Choice
+          2	Petit Anse
+          1	Petit Anse La Blague
+          1	Petit Baie Chalet
+          1	Petit Boileau
+          1	Petit Gouvernement
+          2	Petit Police
+          1	Petit Polyte
+          1	Petite Anse
+          1	Petite Anse Kerlan
+          1	Petite Anse or Anse la Liberte
+          1	Petite Boileau
+          1	Petite Marie-Louise
+          1	Petite Sœur
+          1	Petra's Guesthouse
+          1	Pharmacy
+          1	Phil's Apartments
+          1	Phil's Take Away & Snacks
+          1	Picard
+          1	Pier Cat Cocos
+          1	Pierre de Lunite Monument
+          1	Pillay Convinience Store
+          1	Pinaple Souvenir House
+          1	Pineapple Boutique
+          1	Pineapple Studio
+          1	Pirogue Bar
+          1	Pizzeria
+          2	Plaisance School
+          1	Plaisance Secondary School
+          2	Plantation House
+          1	Plato
+          3	Platte
+          1	Platte Airfield
+          1	Plongee Sous Marine
+          1	Point Ste Marie
+          1	Pointe Au Sel
+          1	Pointe Cap Barbi
+          2	Pointe Conan Bus Stop
+          1	Pointe Grand Anse
+          2	Pointe Rouge
+          1	Pointe la Rue
+          2	Poivre Avenue
+          1	Poivre Islands
+          2	Police Bay
+          1	Police Post
+          1	Police Station Anse Boileau
+          1	Police Station Baie Lazare
+          1	Police Station Quatre Bornes
+          1	Police Station St. Anne
+          1	Polymnie
+          1	Pomme Canelles Restaurant
+          1	PopIn Shop
+          3	Port Glaud
+          1	Port Glaud School
+          4	Port Launay
+          1	Port Side Cafe
+          1	Porto Cervo
+          1	Portobello
+          1	Post Office
+          1	Post Office Baie St. Anne
+          1	Power Station
+          4	Praslin
+          1	Praslin - La Digue
+          2	Praslin Big Game Fishing Centre
+          1	Praslin Holiday Car Hire
+          1	Praslin Island Airport
+          3	Praslin Island Airport Terminal
+          1	Praslin Museum
+          1	Praslin Primary School
+          1	Praslin Secondary School
+          1	Praslin Souvenir Boutique
+          1	Prayaag shoppers
+          1	Premier Building
+          1	Primitive informal trail
+          1	Private beach (not welcome here)
+          2	Providence Atoll
+          1	Providence Island
+          1	Pti Payot
+          1	Pti Payot Chalets
+          1	Public Car Park Intendance Beach
+          1	Quatre Bornes
+          1	Queen Victoria
+          1	Quick's Boutique
+          2	Quincy Bus Stop
+          1	Quincy Street
+          1	R.S.K Supermarket
+          1	R.V.K. Mini Market
+          1	Rachel Apartments
+          1	Raffles
+          1	Raha
+          1	Rajesh Karna Store
+          1	Ramajayam Supermarket
+          1	Ramayaham Beach Store
+          1	Rangers hut
+          1	Rani Supermarket
+          1	Rasee Supermarket
+          1	Ravinia Estate
+          1	Rbnb
+          2	Reception
+          1	Recif Island
+          1	RedCoral Studio
+          1	Reef
+          1	Reef Holiday Apartments
+          1	Remire
+          1	Remire Island Airport
+          1	Remire Reef
+          1	Remiz Housing Estate
+          1	Residence Charlette
+          1	Residence Charlotte
+          1	Residence Praslinoise
+          1	Ressource Island
+          2	Revolution Avenue
+          1	Ridge Residence
+          1	Ringway
+          1	Rising Sun
+          1	Ritas Art Studio
+          1	Riviere Caiman
+          1	Riviere Neuf Milles
+          2	Riviere du Rempart
+          1	Rivière Cascade
+          1	Rivière Danzil
+          1	Rivière Du Riz
+          1	Rivière Grand Gl Louis
+          1	Rivière L'Islette
+          1	Rivière Major
+          1	Rivière Mare aux Cochons
+          1	Rivière Moustaché
+          1	Roberts Accomodation
+          1	Roche Caiman Tennis Courts
+          2	Roche Grand Maman
+          1	Rocher du Sud
+          1	Rochon Damn
+          1	Rock Bay Villa
+          1	Romance Bungalow
+          1	Ros Lepa
+          1	Ros Lepa Trail
+          1	Ros Sodyer
+          1	Rose Harry Cove
+          1	Rose Mary
+          1	Rosi's little Confitir Shop
+          2	Round Island
+          1	Row's Villa
+          1	Royale Kwality Snacks
+          1	Rum urs
+          1	Russian Embassy
+          1	Rwy 13/31
+          1	S Coast Road
+          1	SAA MANAGEMENT OFFICE
+          1	SAA RESEARCH CENTRE
+          1	SACOS Tower
+          1	SENPA - Esplanade Craft Kiosks
+          1	SMAC ADVENTURES
+          1	SPACE 95
+          1	SPR shopping
+          1	SPTC Bus Terminal
+          1	SPTC_Office
+          1	SRIMUGA Supermarket
+          1	SRP Supplies
+          1	SS. Centre
+          2	STC
+          1	STC Hypermarket
+          1	STC Port Glaud Supermarket
+          2	STC Supermarket
+          1	Sacos Oceanview Apartments
+          1	Saddle
+          2	Saffron Avenue
+          1	Sagittarius
+          1	Sailfish Beach Villas
+          1	Saint Antoine De Padoue Church
+          1	Saint Louis Road
+          1	Saint Roch
+          1	Saint-Anne
+          1	Sakura & Teppanyaki
+          1	Salazie
+          1	Salazie-Track
+          1	Salon Vallée de Mai Premium Lounge
+          1	Sam's Pizzeria
+          1	Sand Cay
+          1	Sans Souci
+          1	Sans Souci Mini Market
+          1	Sans Souci Road
+          1	Sauzier Waterfall
+          2	Savoy Resort & Spa Seychelles
+          1	School of Advanced Level Studies
+          1	Sea Breeze Chalets
+          1	Sea View Lodge Selfcatering
+          1	Sea turtle, 400 m
+          1	Seashell Beach Villa
+          1	Seaview Villa
+          1	Sega Take Away
+          1	Sekaar @ Takamaka Market
+          1	Sekaar supermarket
+          1	Sekkar supermarket
+          1	Sendemast
+          1	Serafina Store
+          1	Serret Road
+          1	Sesel
+          1	Seselwa
+          1	Seventh Day Adventist Church
+          1	Seybrew
+          1	Seychelles
+          2	Seychelles Commercial Bank
+          1	Seychelles Credit Union
+          1	Seychelles Dog Unit
+          1	Seychelles Fire and Rescue Services Agency
+          1	Seychelles Independence 29 June 1976
+          1	Seychelles International Airport Terminal
+          1	Seychelles Investment Board
+          1	Seychelles Licensing Authority
+          1	Seychelles National Archives
+          1	Seychelles National Park Authority
+          6	Seychelles Petroleum
+          1	Seychelles Postal Service
+          1	Seychelles Trading Company (STC) Ltd.
+          1	Seychelles Yacht Club
+          1	Seychelles Youth Village
+          1	Seychelles library park
+          1	Sham-Peng Tong Plaza
+          1	Sheikh Muhammad Bin Khalifa Al-Nahayan Mosque
+          1	Sheikh Sultan Bin Khalifa Al Nahyan Masjid
+          1	Shelter
+          1	Shop On Top
+          1	Shop rite
+          1	Silhouette
+          1	Silhouette Island
+          1	Simons Fruit Shop
+          1	Sir Selwyn Selwyn Clarke Market
+          1	Sitronel
+          1	Sixt Car Rental Return Point Port Victoria Cat Cocos Jetty
+          1	Sky Blue s/c Guest House
+          3	Snorkeling place
+          1	Sounds Garden
+          1	South Point Chalets
+          1	Souvenir Des Iles
+          1	Souvenir Pirog
+          1	Souvenir Shop Pascallo
+          1	Souvenir Zilwa
+          1	Souvenirs
+          1	Space 95
+          1	Sports Ground Grand Anse
+          1	Sri Hari
+          1	Sri Poorni Store
+          1	Sri Sai Supermarket
+          1	St Elizabeth's Orphanage
+          1	St Joseph Island
+          1	St Louis DA Office
+          1	St Pierre
+          1	St. Francois Island
+          1	St. James Chapel
+          1	St. Mathews Church
+          1	St. Paul's Cathedral
+          1	St. Pierre
+          1	St_Michel_complex
+          1	Stad Linite
+          1	Staint John Anglican Church
+          1	State House
+          1	State House Avenue
+          1	Ste Anne Jetty
+          1	Ste Claire Shopping Complex
+          1	Stooge
+          1	Storage Shed
+          1	Studio Cocos
+          1	Sullivan's Garage
+          1	Summit of Morne Seychellois
+          1	Sun Resort Hotel
+          1	Sun Resort Restaurant
+          1	Sun Set Bar
+          1	Sunset Beach
+          1	Sunset Beach Hotel
+          1	Sunset Takeaway
+          1	Sunstroke Studio
+          1	Super Value
+          5	Supermarket
+          1	Surfers Apartment
+          1	Surfers Beach Restaurant
+          1	Susan Self Catering
+          1	Swaathi shopping point
+          1	Sweet Escott Road
+          1	Sweet Escott shop
+          1	Swimming Pool
+          2	Takamaka
+          1	Takamaka Health Centre
+          1	Takamaka Residence
+          1	Takamaka Rum
+          1	Take Away
+          1	Take_away
+          1	Talbot
+          1	Tamby Store
+          1	Tante Mimi
+          1	Tarosa
+          1	Tarosa Takeaway
+          1	Tasty Bites
+          1	Tasty Corner
+          1	Tati's Bicycle Rental
+          2	Tea Factory
+          1	Tea Tavern Cafe
+          1	Teddy's Glass Bottom Boat
+          1	Tennis Court
+          1	Tennis Courts
+          1	Tequila Boom
+          1	Terres australes et antarctiques françaises
+          1	Terres australes et antarctiques françaises (terres)
+          1	Terres australes et antarctiques françaises - partie marit
+          1	Tharun
+          1	The Beach House
+          1	The Beach Shop
+          1	The Boardwalk
+          1	The Boathouse
+          1	The Britannia Hotel
+          1	The Farm
+          1	The Fun Park
+          1	The Guy Morel Insitute (Unisey)
+          1	The Hotel
+          1	The Maharajas
+          1	The Quadrant
+          1	The Village
+          1	The Wharf
+          1	Theatre
+          1	Thirumalai
+          1	Thirumudi shop
+          1	Ti La Kaz Self Catering
+          1	Today Newspaper
+          1	Touch Down Cafe
+          1	Tourist Information Office
+          1	Towards Petite Anse
+          2	Trail No 6 - Morne Blanc
+          1	Trail junction
+          1	Trailhead to Morne Seychellois
+          1	Treasure Cove Hotel
+          1	Treasure Island
+          1	Treasure Island Souvenir Boutique Praslin
+          1	Tresor des Iles
+          1	Trinity House
+          1	Trois Freres summit trail
+          1	Trois Freres trail
+          1	Trois Freres viewpoint
+          1	Trois Frères
+          1	Trois Frères viewpoint
+          1	Turtle Bay
+          1	Turtles farm
+          1	Tyfoo
+          1	UAE Xchange (Currency exchange)
+          1	Uncle Will's Pizzeria
+          1	United Car Rental
+          1	Unity Stadium
+          1	University campus
+          2	University of Seychelles
+          1	VRS_shopping_centre
+          1	Val Riche - Copolia Trail
+          3	Vallée de Mai
+          1	Vallée de Mai National Park
+          1	Valmer Resort
+          1	Vanilla
+          1	Vanilla Way
+          1	Vanille Boutique
+          1	Vatou
+          1	Vegetable Garden
+          1	Veloutier Road
+          1	Venesa Hair Saloon
+          1	Venn's Town
+          1	Veranda Cafe
+          1	Vero's butchery
+          1	Vero‘s Take away
+          2	Verte Rocks
+          1	Vet Clinic
+          1	Veterinary Services
+          1	Veterinary clinic Bus Stop
+          1	Veuve Guest House
+          1	Veuve Reserve
+          1	Veuve Reserve Infocenter
+          2	Victoria
+          1	Victoria Hospital
+          1	Victoria South Petrol Station
+          1	Viewpoint 1 Anse Georgette
+          1	Viewpoint 2 Anse Georgette
+          1	Vijay international school
+          1	Villa Anse La Blague
+          1	Villa Anse Possession - Selfcatering
+          1	Villa Artisanal
+          1	Villa Authentique
+          1	Villa Bambou
+          1	Villa Bananier
+          1	Villa Bel Age
+          1	Villa Belle Plage
+          1	Villa Cabalerro
+          1	Villa Creole
+          1	Villa De Cerf
+          1	Villa Dorado
+          1	Villa Face Mer
+          1	Villa Isabella Glasis Sur Mer
+          1	Villa Koket
+          1	Villa La Cachette
+          1	Villa Manoir
+          1	Villa Marthe Self Catering
+          1	Villa Millaou Selfcatering
+          1	Villa Mon Rêve
+          1	Villa Rafia
+          1	Village
+          1	Village Take Away
+          1	Village du Pecheur
+          1	Villas Chez Batista
+          1	Villas Iuana
+          1	Villas de Mer
+          1	Villas des Alizes
+          1	Villas du Voyageur
+          1	Vista do Mar
+          1	Vye Marmit
+          1	Walter Desaubin
+          1	Waterfall
+          1	West Coast
+          1	White arrows
+          2	Whitetip Divers
+          1	Whole foods
+          1	Williams store
+          1	Wines & Liquors
+          1	Yacht Club Seychelles
+          1	Yellow Roof - Outpatient Services
+          1	Ylang Ylang
+          1	Yuana Selfcatering
+          1	Zanblon Avenue
+          1	Zanboza
+          1	Zarine Avenue
+          1	Zepible Seychelles
+          4	Zerof
+          1	Ziblo Boat Charter
+          1	Zil Pasyon
+          2	Zimbabwe
+          1	Zimbabwe Viewpoint
+          1	bus 35
+          1	cemetery
+          1	chapel
+          1	demolition site
+          1	flocy's store
+          1	house
+          1	katyolo
+          1	kleiner Parkplatz
+          1	kosovo
+          1	kot bass
+          1	la dolce vita
+          1	low tide wade
+          1	orchard_tailoring
+          1	parti_lepep branch
+          1	saf
+          1	seven hill
+          1	seven hills
+          1	souvenir shop
+          1	tassels home decor
+          1	zill air
+          1	Église de Saint Joseph
+          1	Étoile Cay
+          1	Île Baleine
+          1	Île Denis
+          1	Île Desnœufs
+          1	Île Esprit
+          1	Île Goelette
+          1	Île M'Songoma
+          1	Île Macaque
+          1	Île Menai
+          1	Île Michel
+          1	Île Moustique
+          1	Île Nord-Est
+          1	Île Picard
+          1	Île Sud Ouest
+          1	Île Verte
+          1	Île aux Crabes
+          1	Île des Rats
+          1	Île du Lys
+          1	Île du Nord
+          1	Île du Trou
+          5	Îles Glorieuses
+          2	Îles Éparses de l'océan Indien
+          1	Îles Éparses de l'océan Indien (terres)
+          1	Îlot Bambo
+          1	Îlot Bandrélé
+          1	Îlot Choazil Malandzamiayajou
+          2	Îlot Choazil Malandzamiayatsini
+          1	Îlot Hajangoua Kolo Issa
+          2	Îlot Hajangoua Pengoua
+          1	Îlot Hajangoua Pouhou
+          1	Îlot Karoni
+          1	Îlot Lacroix
+          1	Îlot Mbouini
+          1	Îlot Mbouzi
+          1	Îlot Sada
+          1	Îlot d'Handréma
+          1	Îlot de Kawéni
+          1	Îlot de Mtsangamboua
+          1	Îlot de Pamandzi
+          1	Îlot de Sable Blanc

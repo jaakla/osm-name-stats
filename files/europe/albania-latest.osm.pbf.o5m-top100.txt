@@ -1,0 +1,100 @@
+        442	Sera
+        253	Bar Kafe
+        155	Varreza
+        142	Mini Market
+        131	Rezervuar
+        126	Rruga e Kombit
+        118	Rrënoja
+        115	Market
+        108	Parking
+         98	Ruin
+         91	Fushë Futbolli
+         82	Rruga e Kavajës
+         76	Tesha
+         71	Autostrada "Tiranë - Durrës"
+         67	Autostrada Tiranë-Elbasan
+         66	Shkumbini
+         65	Berber
+         64	Fushë Sporti
+         61	Bulevardi Bajram Curri
+         60	Unaza e Re
+         55	Lavazh
+         55	Bunker
+         54	Rruga Teodor Keko
+         51	Bulevardi Zogu I
+         46	Rruga e Dibrës
+         43	Lapidar
+         43	Këpucë
+         42	Boutique
+         40	Rruga e Elbasanit
+         40	Burim Uji
+         40	Bulevardi Mehmet Pashë Plaku
+         35	Vjosë
+         34	Rruga e Durrësit
+         34	Rruga Muhamet Gjollesha
+         34	Kastrati
+         33	Rruga Sulejman Delvina
+         33	Rruga Arben Broci
+         33	Farmaci
+         32	Devoll
+         31	Sokrat Miho
+         31	Rruga e Shkodrës
+         31	Rruga Azem Hajdari
+         31	Fushë Basketbolli
+         31	Furrë Buke
+         30	Rruga e Ulqinit
+         29	Big Market
+         28	Rruga 5 Maji
+         28	Parukeri
+         27	Rruga Ferit Xhajko
+         27	Monument Kulture
+         26	Sallon Bukurie
+         26	Raiffeisen Bank
+         26	Kiosk
+         24	Ιχθυοτροφείο
+         24	Sheshi Demokracia
+         24	Rruga Studenti
+         24	Bulevardi Gjergj Fishta
+         24	Auto Servis
+         23	Rruga Vangjel Noti
+         23	Rruga Dritan Hoxha
+         23	Rruga Dali Ndreu
+         23	Fruta Perime
+         23	Fast Food
+         23	FARMACI
+         23	Bulevardi Dëshmorët e Kombit
+         23	Biçiklist
+         22	under construction ...
+         22	Stane
+         22	Shqipëria - Kosova
+         22	Burim
+         21	Rruga e Tiranës
+         21	Rruga Pazarit
+         21	Rruga Martin Camaj
+         20	Rruga Zenel Bastari
+         20	Rruga Qemal Draçini
+         20	Rruga Myslym Shyri
+         20	Rruga Memo Meto
+         20	Rruga Ismail Qemali
+         20	Riparime Elektrike
+         20	Mat
+         20	Alpet
+         19	Rruga Tepe
+         19	Rruga Shtate Shaljanët
+         19	Rruga Pjetër Budi
+         19	Rruga Naim Frashëri
+         19	Rruga Kosova
+         19	Rruga Jordan Misja
+         19	Rruga Gjergj Legisi
+         19	Rruga Demokracia
+         19	Kastrioti
+         19	Haxhi Dushku
+         19	Fushë Volejbolli
+         18	Shpellë
+         18	SUPERBAST
+         18	Rruga Qamil Halili
+         18	Rruga Pandi Dardha
+         18	Rruga Lipe
+         18	Rruga Irfan Tomini
+         18	Rruga Ibrahim Rugova
+         18	Rruga Halit Bega

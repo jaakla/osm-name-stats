@@ -1,0 +1,100 @@
+        179	building
+        132	Transformer
+        130	RCCG
+        112	Niger - Nigeria
+        100	Kano-Maiduguri Highway
+         98	Federal Road F.215 Owo - Tegina
+         97	hut
+         94	Stores
+         82	Ahmadu Bello Way
+         81	Building
+         78	Sabon Gari
+         78	Langtang - Bauchi Federal Road
+         77	Road
+         72	oasis
+         70	Gombe - Biu Road
+         67	Lagos-Abeokuta Expressway
+         66	Ganye - Jimeta Federal Road
+         65	Takum - Bukuru Federal Road
+         64	Enugu - Port Harcourt Expressway
+         60	Lagos-Ibadan Expressway
+         56	Shops
+         56	Gudau - Sabon Birni Road
+         54	Murtala Mohammed Expressway
+         54	Ikorodu Road
+         51	Araromi
+         49	Benin-Sagamu Expressway
+         48	Gombi - Baromari Road
+         48	East - West Road
+         48	Apapa-Oworonsoki Expressway
+         47	Oyo Road
+         46	Kaduna-Jos Highway
+         44	Federal Road F.126 Zungeru - Izom
+         43	Yelwa
+         42	Tudun Wada
+         42	Mechanic Workshop
+         40	Nasarawa
+         40	ARMT Yellow Line
+         39	Sokoto
+         39	Residential building
+         39	Fenced Area
+         39	Abuja-Kaduna Highway
+         38	Airport Road
+         37	Independence Avenue
+         37	Constitution Avenue
+         36	Zenith Bank
+         36	Kano-Zaria Highway
+         36	Kajola
+         35	#msimaps
+         34	Residential Area
+         34	Mast
+         34	Lekki-Epe Expressway
+         34	Balogun
+         34	Ajegunle
+         33	Kaura Namoda - Jibiya Road
+         32	Wudil - Potiskum Federal Road
+         32	PHCN Transformer
+         32	Herbert Macaulay Way
+         32	Gaji River
+         31	Ring Road
+         30	Yankari National Park approach road
+         30	Niger
+         30	Ikwerre Road
+         30	Gombe - Potiskum Road
+         30	Assemblies of God Church
+         29	lake
+         29	Makera
+         29	First Bank
+         29	Akure - Ado Ekiti Road
+         28	village
+         28	Rahama to Kafin Mayaki Road
+         28	Old Aba Road
+         28	Bar
+         27	tree
+         27	Zango
+         27	Gora
+         27	Aiyetoro
+         26	Residential Areas
+         26	Enugu Porthacourt Link Road
+         26	Aba - Owerri Road
+         25	forest
+         25	Unknown
+         25	Onitsha - Owerri Road
+         25	Ogoja-Abakaliki Road
+         25	House
+         25	Doka
+         24	Staff quarters
+         24	Obafemi Awolowo Way
+         24	Kachia Road
+         24	Akure-Owo Express Road
+         23	Keffi to Kachia Road
+         23	Ecobank
+         22	well
+         22	Weg
+         22	UBA
+         22	Sabongari
+         22	Olode
+         22	Jalingo
+         22	Illela
+         22	Ibadan-Ilorin Expressway
+         22	Ekiwa Market

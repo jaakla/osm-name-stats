@@ -1,0 +1,100 @@
+       2569	Oxxo
+       2532	Sin Nombre
+       2211	Emiliano Zapata
+       1924	Pemex
+       1642	Benito Juárez
+       1490	Vicente Guerrero
+       1403	Francisco I. Madero
+       1377	Miguel Hidalgo
+       1283	5 de Mayo
+       1218	Francisco Villa
+       1188	Independencia
+       1138	16 de Septiembre
+       1122	Morelos
+       1080	Hidalgo
+       1026	Venustiano Carranza
+       1015	Lázaro Cárdenas
+        938	20 de Noviembre
+        928	Ignacio Zaragoza
+        899	Benito Juarez
+        876	Guadalupe Victoria
+        758	Reforma
+        736	Ignacio Allende
+        730	OXXO
+        717	Cuauhtémoc
+        665	Juan Escutia
+        661	Melchor Ocampo
+        630	5 de Febrero
+        618	Niños Héroes
+        615	Línea T
+        586	Adolfo López Mateos
+        572	Libertad
+        560	Revolución
+        548	Zaragoza
+        538	Nicolás Bravo
+        527	Allende
+        511	Insurgentes
+        500	Álvaro Obregón
+        490	Aldama
+        485	Justo Sierra
+        463	Constitución
+        456	Pino
+        456	Leona Vicario
+        451	José María Morelos
+        444	San Francisco
+        444	Banamex
+        440	Abasolo
+        435	San Antonio
+        434	Amado Nervo
+        430	Mariano Matamoros
+        430	Fresno
+        428	Jacarandas
+        427	Iglesia
+        423	Matamoros
+        422	Veracruz
+        410	PEMEX
+        409	Moctezuma
+        409	7-Eleven
+        407	Preescolar Comunitario
+        405	Calle Emiliano Zapata
+        399	Cedro
+        395	Santander
+        391	San José
+        386	Roble
+        383	Bugambilias
+        383	Aquiles Serdán
+        380	Galeana
+        380	Bodega Aurrera
+        378	San Juan
+        378	Juárez
+        376	Nogal
+        375	Banorte
+        374	S/N
+        366	San Pedro
+        363	Cuauhtemoc
+        363	18 de Marzo
+        361	Corregidora
+        360	Guerrero
+        360	Calle 2
+        358	San Miguel
+        358	Calle 3
+        348	Francisco Javier Mina
+        344	Calle 1
+        340	Calle 4
+        332	Clavel
+        331	Los Pinos
+        327	Lazaro Cardenas
+        326	Línea Q
+        323	Línea B
+        322	San Isidro
+        319	Camino Real
+        317	Puebla
+        316	Progreso
+        315	México
+        315	Jazmín
+        314	Sonora
+        312	Miguel Hidalgo y Costilla
+        311	Casa
+        311	Calle 5 de Mayo
+        308	Azucena
+        307	Durango
