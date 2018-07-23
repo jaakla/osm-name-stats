@@ -105,3 +105,4 @@ venv.bak/
 .idea
 *.pbf
 *.o5m
+carto_credits.py

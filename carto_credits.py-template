@@ -1,0 +1,2 @@
+USERNAME = 'myuser...'  # <-- replace with your CARTO username 
+APIKEY = 'f91...'       # <-- your CARTO API key
