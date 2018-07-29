@@ -1,6 +1,6 @@
 # osm-name-stats
 
-Notebook and intermediate data to find most popular names in all the countries based on OSM data.
+Notebook and intermediate data to find most popular names in all the countries based on OSM data. It is to demonstrate some analysis using Jupyter Notebook and https://github.com/CartoDB/cartoframes
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jaakla/osm-name-stats/master)
 
